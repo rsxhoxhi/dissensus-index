@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Case — The Dissensus Index</title>
+  <meta name="description" content="Case detail — The Dissensus Index">
+  <link rel="canonical" href="https://dissensusindex.com/case.html">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="container">
+  <header class="masthead">
+    <div class="masthead-inner">
+      <h1>The Dissensus Index</h1>
+      <span class="masthead-issue">Summer 2026 · No. 1</span>
+    </div>
+    <p class="masthead-tagline">A quarterly record of art controversy</p>
+    <nav class="masthead-nav">
+      <a href="index.html">The docket</a>
+      <a href="about.html">About</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="cite.html">How to cite</a>
+    </nav>
+  </header>
+
+  <div id="case-content">
+    <p style="color:var(--ink-light); padding: 2rem 0;">Loading case…</p>
+  </div>
+
+  <footer class="colophon">
+    <span>← <a href="index.html" style="color:var(--teal);text-decoration:none;">Back to docket</a></span>
+    <span>Dissensus Index no. 1 (Summer 2026) · dissensusindex.com</span>
+  </footer>
+</div>
+
+<script>
+async function loadCase() {
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get('id');
+  if (!id) { document.getElementById('case-content').innerHTML = '<p>No case ID provided.</p>'; return; }
+
+  const res = await fetch('data/cases.json');
+  const data = await res.json();
+  const c = data.cases.find(x => x.id === id);
+  if (!c) { document.getElementById('case-content').innerHTML = '<p>Case not found.</p>'; return; }
+
+  document.title = `${c.id} — ${c.title} — The Dissensus Index`;
+
+  const stageLabels = {1:'Watching',2:'Escalating',3:'In process',4:'Active',5:'Resolved'};
+  const tags = c.tags ? c.tags.split(',').map(t => `<span class="tag">${escHtml(t.trim())}</span>`).join('') : '';
+
+  const sourceHtml = c.source && c.source !== 'nan'
+    ? `<p style="margin-top:1rem;font-size:0.8rem;"><strong>Primary source:</strong> <a href="${escHtml(c.source)}" target="_blank" rel="noopener" style="color:var(--teal);word-break:break-all;">${escHtml(c.source)}</a></p>`
+    : '';
+
+  document.getElementById('case-content').innerHTML = `
+    <div class="case-header">
+      <p class="case-id">${escHtml(c.id)}</p>
+      <h1 class="case-title">${escHtml(c.title)}</h1>
+      <span class="stage-badge stage-${c.stage}" style="display:inline-block;margin-top:0.5rem;">Stage ${c.stage} · ${stageLabels[c.stage]}</span>
+    </div>
+
+    <div class="case-meta">
+      ${c.artist && c.artist !== 'nan' ? `<span><strong>Artist / Subject</strong><br>${escHtml(c.artist)}</span>` : ''}
+      ${c.institution && c.institution !== 'nan' ? `<span><strong>Institution</strong><br>${escHtml(c.institution)}</span>` : ''}
+      <span><strong>Country</strong><br>${escHtml(c.country)}</span>
+      ${c.governance_type && c.governance_type !== 'nan' ? `<span><strong>Governance</strong><br>${escHtml(c.governance_type)}</span>` : ''}
+      <span><strong>Date</strong><br>${escHtml(c.date_controversy)}</span>
+      ${c.court_case && c.court_case !== 'nan' ? `<span><strong>Court case</strong><br>${escHtml(c.court_case)}</span>` : ''}
+      <span><strong>Coverage</strong><br>${escHtml(c.coverage_tier)}</span>
+    </div>
+
+    <div class="case-description">
+      <p>${escHtml(c.description)}</p>
+    </div>
+
+    ${c.outcome && c.outcome !== 'nan' ? `
+    <div class="case-outcome">
+      <strong style="font-size:0.7rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-mid);">Current status</strong>
+      <p style="margin-top:0.4rem;font-size:0.9rem;">${escHtml(c.outcome)}</p>
+    </div>` : ''}
+
+    ${tags ? `<div class="case-tags">${tags}</div>` : ''}
+
+    ${sourceHtml}
+
+    <div style="margin-top:2rem;padding-top:1rem;border-top:0.5px solid var(--ink-rule);font-family:var(--mono);font-size:0.65rem;color:var(--ink-light);">
+      Cite as: Dissensus Index, case ${escHtml(c.id)}, observed Summer 2026, methodology v1.0. dissensusindex.com/case.html?id=${encodeURIComponent(c.id)}
+    </div>
+  `;
+}
+
+function escHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+loadCase();
+</script>
+</body>
+</html>
