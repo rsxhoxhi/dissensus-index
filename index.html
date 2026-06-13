@@ -6,7 +6,7 @@
   <title>The Dissensus Index — Summer 2026, No. 1</title>
   <meta name="description" content="A quarterly record of art controversy. Tracking disputes involving artworks, artists, institutions, and cultural policy through a structured staging methodology.">
   <meta property="og:title" content="The Dissensus Index — Summer 2026, No. 1">
-  <meta property="og:description" content="A quarterly record of art controversy. 392 cases tracked. Summer 2026.">
+  <meta property="og:description" content="A quarterly record of art controversy. Summer 2026.">
   <meta property="og:url" content="https://dissensusindex.com">
   <link rel="canonical" href="https://dissensusindex.com">
   <link rel="stylesheet" href="css/style.css">
@@ -21,17 +21,32 @@
     </div>
     <p class="masthead-tagline">A quarterly record of art controversy</p>
     <nav class="masthead-nav">
-      <a href="index.html" class="active">The docket</a>
+      <a href="index.html" class="active">Issue</a>
+      <a href="browse.html">Browse the index</a>
       <a href="about.html">About</a>
       <a href="methodology.html">Methodology</a>
       <a href="cite.html">How to cite</a>
     </nav>
   </header>
 
-  <div class="stats-row" id="stats-row">
-    <!-- populated by JS -->
-  </div>
+  <!-- HERO SEARCH -->
+  <section class="hero">
+    <p class="hero-prompt">What controversy are you looking for?</p>
+    <div class="hero-search-wrap">
+      <svg class="hero-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <input type="text" class="hero-search" id="hero-search" autocomplete="off"
+        placeholder="Search by title, artist, institution, country, or tag…"
+        oninput="liveSearch(this.value)" onkeydown="if(event.key==='Enter')goToBrowse()">
+      <div class="hero-results" id="hero-results"></div>
+    </div>
+    <p class="hero-hint">Tracking <strong id="hero-count">392</strong> cases · or <a href="browse.html">browse the full index →</a></p>
+  </section>
 
+  <div class="stats-row" id="stats-row"></div>
+
+  <!-- ESSAYS -->
   <section class="essays-grid">
     <div class="essay-card">
       <p class="essay-kicker">This issue · Lead essay</p>
@@ -42,30 +57,19 @@
     <div class="essay-card">
       <p class="essay-kicker">Pattern of the quarter</p>
       <h2 class="essay-title">Legal cases resolve. Governance fights fester.</h2>
-      <p class="essay-deck">Median time-in-stage by controversy type, drawn from 392 cases. Court dockets move; institutional reckoning doesn't.</p>
+      <p class="essay-deck">Median time-in-stage by controversy type. Court dockets move; institutional reckoning doesn't.</p>
       <a href="essay-pattern.html" class="essay-link">Read →</a>
     </div>
   </section>
 
+  <!-- RECENT FEED -->
   <section class="docket">
-    <p class="section-label">The docket — 392 cases · Summer 2026</p>
-
-    <div class="filter-bar">
-      <button class="filter-btn active" onclick="filterStage(0)">All</button>
-      <button class="filter-btn" onclick="filterStage(4)">Stage 4 · Active</button>
-      <button class="filter-btn" onclick="filterStage(3)">Stage 3 · In process</button>
-      <button class="filter-btn" onclick="filterStage(5)">Stage 5 · Resolved</button>
-      <button class="filter-btn" onclick="filterStage(2)">Stage 2 · Escalating</button>
-      <button class="filter-btn" onclick="filterStage(1)">Stage 1 · Watching</button>
-      <input type="text" class="search-input" id="search-input" placeholder="Search cases..." oninput="searchCases(this.value)">
+    <div class="feed-header">
+      <p class="section-label">Recently logged</p>
+      <a href="browse.html">Browse all cases →</a>
     </div>
-
-    <div id="docket-list">
-      <p style="color: var(--ink-light); font-size: 0.85rem; padding: 1rem 0;">Loading cases…</p>
-    </div>
-
-    <div class="pagination" id="pagination"></div>
-    <p class="page-info" id="page-info" style="text-align:center; margin-bottom:1rem;"></p>
+    <p class="freshness" id="freshness"></p>
+    <div id="recent-list"><p style="color:var(--ink-light);font-size:0.85rem;padding:1rem 0;">Loading…</p></div>
   </section>
 
   <footer class="colophon">
@@ -76,122 +80,99 @@
 
 <script>
 let allCases = [];
-let filteredCases = [];
-let currentPage = 1;
-const perPage = 50;
-let activeStage = 0;
-let searchTerm = '';
 
-async function loadCases() {
+async function loadData() {
   const res = await fetch('data/cases.json');
   const data = await res.json();
   allCases = data.cases;
 
-  // Stats
-  const total = allCases.length;
-  const active = allCases.filter(c => c.stage === 4).length;
-  const inProcess = allCases.filter(c => c.stage === 3).length;
-  const resolved = allCases.filter(c => c.stage === 5).length;
-  const watching = allCases.filter(c => c.stage === 1).length;
+  document.getElementById('hero-count').textContent = data.meta.total_cases;
 
+  // Stats
+  const s = n => allCases.filter(c => c.stage === n).length;
   document.getElementById('stats-row').innerHTML = `
-    <div class="stat"><div class="stat-label">Cases tracked</div><div class="stat-value">${total}</div></div>
-    <div class="stat"><div class="stat-label">Stage 4 · Active</div><div class="stat-value">${active}</div></div>
-    <div class="stat"><div class="stat-label">Stage 3 · In process</div><div class="stat-value">${inProcess}</div></div>
-    <div class="stat"><div class="stat-label">Stage 5 · Resolved</div><div class="stat-value">${resolved}</div></div>
-    <div class="stat"><div class="stat-label">Stage 1 · Watching</div><div class="stat-value">${watching}</div></div>
+    <div class="stat"><div class="stat-label">Cases tracked</div><div class="stat-value">${allCases.length}</div></div>
+    <div class="stat"><div class="stat-label">Stage 4 · Active</div><div class="stat-value">${s(4)}</div></div>
+    <div class="stat"><div class="stat-label">Stage 3 · In process</div><div class="stat-value">${s(3)}</div></div>
+    <div class="stat"><div class="stat-label">Stage 5 · Resolved</div><div class="stat-value">${s(5)}</div></div>
+    <div class="stat"><div class="stat-label">Stage 1 · Watching</div><div class="stat-value">${s(1)}</div></div>
   `;
 
-  applyFilters();
+  // Freshness line
+  const lp = data.meta.last_published;
+  document.getElementById('freshness').innerHTML =
+    `Last reviewed and published: <strong>${formatDate(lp)}</strong> · Data captured continuously; published on editorial review.`;
+
+  // Recent feed — top 12, already sorted recent-first in JSON
+  renderRecent(allCases.slice(0, 12));
 }
 
-function applyFilters() {
-  filteredCases = allCases.filter(c => {
-    const stageMatch = activeStage === 0 || c.stage === activeStage;
-    const searchMatch = !searchTerm ||
-      c.title.toLowerCase().includes(searchTerm) ||
-      c.country.toLowerCase().includes(searchTerm) ||
-      c.artist.toLowerCase().includes(searchTerm) ||
-      c.tags.toLowerCase().includes(searchTerm) ||
-      c.id.toLowerCase().includes(searchTerm);
-    return stageMatch && searchMatch;
-  });
-  currentPage = 1;
-  renderDocket();
-  renderPagination();
-}
-
-function filterStage(stage) {
-  activeStage = stage;
-  document.querySelectorAll('.filter-btn').forEach((btn, i) => {
-    btn.classList.toggle('active', i === [0,4,3,5,2,1].indexOf(stage) || (stage === 0 && i === 0));
-  });
-  applyFilters();
-}
-
-function searchCases(val) {
-  searchTerm = val.toLowerCase().trim();
-  applyFilters();
-}
-
-function renderDocket() {
-  const start = (currentPage - 1) * perPage;
-  const page = filteredCases.slice(start, start + perPage);
-
-  if (page.length === 0) {
-    document.getElementById('docket-list').innerHTML =
-      '<p style="color:var(--ink-light);font-size:0.85rem;padding:1rem 0;">No cases match this filter.</p>';
-    return;
-  }
-
-  document.getElementById('docket-list').innerHTML = page.map(c => `
+function renderRecent(cases) {
+  document.getElementById('recent-list').innerHTML = cases.map(c => `
     <a class="docket-item" href="case.html?id=${encodeURIComponent(c.id)}">
       <span class="docket-id">${c.id}</span>
       <div class="docket-main">
         <div class="docket-title">${escHtml(c.title)}</div>
-        <div class="docket-sub">${escHtml(c.institution || c.artist || '')} · ${escHtml(c.country)}</div>
+        <div class="docket-sub">${escHtml(c.institution || c.artist || '')}${c.country ? ' · ' + escHtml(c.country) : ''} · logged ${escHtml(c.date_discovered)}</div>
       </div>
       <span class="stage-badge stage-${c.stage}">Stage ${c.stage} · ${c.stage_label}</span>
     </a>
   `).join('');
 }
 
-function renderPagination() {
-  const totalPages = Math.ceil(filteredCases.length / perPage);
-  const info = document.getElementById('page-info');
-  const pag = document.getElementById('pagination');
+function liveSearch(val) {
+  const q = val.toLowerCase().trim();
+  const box = document.getElementById('hero-results');
+  if (q.length < 2) { box.classList.remove('active'); box.innerHTML = ''; return; }
 
-  info.textContent = filteredCases.length > 0
-    ? `Showing ${Math.min((currentPage-1)*perPage+1, filteredCases.length)}–${Math.min(currentPage*perPage, filteredCases.length)} of ${filteredCases.length}`
-    : '';
+  const matches = allCases.filter(c =>
+    c.title.toLowerCase().includes(q) ||
+    c.country.toLowerCase().includes(q) ||
+    c.artist.toLowerCase().includes(q) ||
+    c.institution.toLowerCase().includes(q) ||
+    c.tags.toLowerCase().includes(q) ||
+    c.id.toLowerCase().includes(q)
+  );
 
-  if (totalPages <= 1) { pag.innerHTML = ''; return; }
-
-  let html = '';
-  if (currentPage > 1) html += `<button class="page-btn" onclick="goPage(${currentPage-1})">← Prev</button>`;
-  for (let i = 1; i <= totalPages; i++) {
-    if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) {
-      html += `<button class="page-btn ${i === currentPage ? 'active' : ''}" onclick="goPage(${i})">${i}</button>`;
-    } else if (Math.abs(i - currentPage) === 3) {
-      html += `<span style="color:var(--ink-light);font-size:0.7rem;align-self:center;">…</span>`;
-    }
+  if (matches.length === 0) {
+    box.innerHTML = `<div class="hero-result"><span style="font-size:0.8rem;color:var(--ink-light);padding:0.3rem;">No cases match "${escHtml(val)}"</span></div>`;
+    box.classList.add('active');
+    return;
   }
-  if (currentPage < totalPages) html += `<button class="page-btn" onclick="goPage(${currentPage+1})">Next →</button>`;
-  pag.innerHTML = html;
+
+  const shown = matches.slice(0, 8);
+  box.innerHTML = shown.map(c => `
+    <a class="hero-result" href="case.html?id=${encodeURIComponent(c.id)}">
+      <span class="hero-result-id">${c.id}</span>
+      <span class="hero-result-title">${escHtml(c.title)}</span>
+      <span class="hero-result-meta">${escHtml(c.country)} · S${c.stage}</span>
+    </a>
+  `).join('') + (matches.length > 8
+    ? `<a class="hero-results-footer" href="browse.html?q=${encodeURIComponent(val)}">See all ${matches.length} matches →</a>`
+    : '');
+  box.classList.add('active');
 }
 
-function goPage(n) {
-  currentPage = n;
-  renderDocket();
-  renderPagination();
-  window.scrollTo(0, 0);
+function goToBrowse() {
+  const val = document.getElementById('hero-search').value.trim();
+  if (val) window.location.href = 'browse.html?q=' + encodeURIComponent(val);
 }
 
+document.addEventListener('click', e => {
+  if (!e.target.closest('.hero-search-wrap')) {
+    document.getElementById('hero-results').classList.remove('active');
+  }
+});
+
+function formatDate(iso) {
+  const d = new Date(iso + 'T00:00:00');
+  return d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+}
 function escHtml(s) {
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
-loadCases();
+loadData();
 </script>
 </body>
 </html>

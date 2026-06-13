@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Browse the Index — The Dissensus Index</title>
+  <meta name="description" content="Browse and search the full Dissensus Index — every tracked case of art controversy, filterable by stage and searchable by keyword.">
+  <link rel="canonical" href="https://dissensusindex.com/browse.html">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="container">
+  <header class="masthead">
+    <div class="masthead-inner">
+      <h1>The Dissensus Index</h1>
+      <span class="masthead-issue">Summer 2026 · No. 1</span>
+    </div>
+    <p class="masthead-tagline">A quarterly record of art controversy</p>
+    <nav class="masthead-nav">
+      <a href="index.html">Issue</a>
+      <a href="browse.html" class="active">Browse the index</a>
+      <a href="about.html">About</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="cite.html">How to cite</a>
+    </nav>
+  </header>
+
+  <section class="hero" style="padding:1.5rem 0 2rem;">
+    <div class="hero-search-wrap" style="max-width:680px;">
+      <svg class="hero-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <input type="text" class="hero-search" id="browse-search" autocomplete="off"
+        placeholder="Search the full index by keyword…" oninput="applyFilters()">
+    </div>
+  </section>
+
+  <section class="docket">
+    <div class="filter-bar">
+      <button class="filter-btn active" data-stage="0" onclick="setStage(0,this)">All stages</button>
+      <button class="filter-btn" data-stage="4" onclick="setStage(4,this)">4 · Active</button>
+      <button class="filter-btn" data-stage="3" onclick="setStage(3,this)">3 · In process</button>
+      <button class="filter-btn" data-stage="5" onclick="setStage(5,this)">5 · Resolved</button>
+      <button class="filter-btn" data-stage="2" onclick="setStage(2,this)">2 · Escalating</button>
+      <button class="filter-btn" data-stage="1" onclick="setStage(1,this)">1 · Watching</button>
+    </div>
+
+    <p class="page-info" id="result-count" style="text-align:left;margin-bottom:0.75rem;"></p>
+    <div id="browse-list"><p style="color:var(--ink-light);font-size:0.85rem;padding:1rem 0;">Loading…</p></div>
+    <div class="pagination" id="pagination"></div>
+  </section>
+
+  <footer class="colophon">
+    <span>Methodology v1.0 · ← <a href="index.html" style="color:var(--teal);text-decoration:none;">Back to the issue</a></span>
+    <span>dissensusindex.com/browse.html</span>
+  </footer>
+</div>
+
+<script>
+let allCases = [], filtered = [], currentPage = 1, activeStage = 0;
+const perPage = 50;
+
+async function loadData() {
+  const res = await fetch('data/cases.json');
+  const data = await res.json();
+  allCases = data.cases;
+
+  // Pre-fill search from URL (handoff from homepage hero)
+  const params = new URLSearchParams(window.location.search);
+  const q = params.get('q');
+  if (q) document.getElementById('browse-search').value = q;
+
+  applyFilters();
+}
+
+function setStage(stage, btn) {
+  activeStage = stage;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  applyFilters();
+}
+
+function applyFilters() {
+  const q = document.getElementById('browse-search').value.toLowerCase().trim();
+  filtered = allCases.filter(c => {
+    const stageOk = activeStage === 0 || c.stage === activeStage;
+    const qOk = !q ||
+      c.title.toLowerCase().includes(q) ||
+      c.country.toLowerCase().includes(q) ||
+      c.artist.toLowerCase().includes(q) ||
+      c.institution.toLowerCase().includes(q) ||
+      c.tags.toLowerCase().includes(q) ||
+      c.description.toLowerCase().includes(q) ||
+      c.id.toLowerCase().includes(q);
+    return stageOk && qOk;
+  });
+  currentPage = 1;
+  render();
+}
+
+function render() {
+  const start = (currentPage - 1) * perPage;
+  const page = filtered.slice(start, start + perPage);
+  const countEl = document.getElementById('result-count');
+
+  countEl.textContent = filtered.length === 0 ? 'No cases match.' :
+    `${filtered.length} case${filtered.length===1?'':'s'} · showing ${start+1}–${Math.min(start+perPage, filtered.length)}`;
+
+  document.getElementById('browse-list').innerHTML = page.length === 0
+    ? '<p style="color:var(--ink-light);font-size:0.85rem;padding:1rem 0;">No cases match this filter.</p>'
+    : page.map(c => `
+      <a class="docket-item" href="case.html?id=${encodeURIComponent(c.id)}">
+        <span class="docket-id">${c.id}</span>
+        <div class="docket-main">
+          <div class="docket-title">${escHtml(c.title)}</div>
+          <div class="docket-sub">${escHtml(c.institution || c.artist || '')}${c.country ? ' · ' + escHtml(c.country) : ''}</div>
+        </div>
+        <span class="stage-badge stage-${c.stage}">Stage ${c.stage} · ${c.stage_label}</span>
+      </a>`).join('');
+
+  renderPagination();
+}
+
+function renderPagination() {
+  const totalPages = Math.ceil(filtered.length / perPage);
+  const pag = document.getElementById('pagination');
+  if (totalPages <= 1) { pag.innerHTML = ''; return; }
+  let html = '';
+  if (currentPage > 1) html += `<button class="page-btn" onclick="goPage(${currentPage-1})">← Prev</button>`;
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) {
+      html += `<button class="page-btn ${i===currentPage?'active':''}" onclick="goPage(${i})">${i}</button>`;
+    } else if (Math.abs(i - currentPage) === 3) {
+      html += `<span style="color:var(--ink-light);font-size:0.7rem;align-self:center;">…</span>`;
+    }
+  }
+  if (currentPage < totalPages) html += `<button class="page-btn" onclick="goPage(${currentPage+1})">Next →</button>`;
+  pag.innerHTML = html;
+}
+
+function goPage(n) { currentPage = n; render(); window.scrollTo(0,0); }
+
+function escHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+loadData();
+</script>
+</body>
+</html>
