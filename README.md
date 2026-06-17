@@ -49,4 +49,3 @@ CC BY 4.0 — see LICENSE.txt. Attribution must include "Dissensus Index" and di
 ## Founded by
 
 Rebecca Shields · Richmond, Virginia · rebeccashields.net
-
