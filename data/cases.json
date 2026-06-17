@@ -8,9 +8,34 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-17",
     "methodology_version": "1.0",
-    "total_cases": 420
+    "total_cases": 421
   },
   "cases": [
+    {
+      "id": "ACI-063-A",
+      "entry_id": "063-A",
+      "seq": 420,
+      "title": "National Garden of American Heroes — preservation coalition lawsuit",
+      "artist": "N/A (institutional/legal)",
+      "institution": "U.S. District Court for the District of Columbia; West Potomac Park, National Mall, Washington DC",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "June 15, 2026 – pending",
+      "date_discovered": "2026-06-17",
+      "sort_date": "2026-06-15",
+      "description": "On June 15, 2026, six preservation and cultural organizations plus one D.C. resident filed suit in U.S. District Court for D.C. against Interior Department and National Park Service officials, arguing the ~250-statue National Garden of American Heroes in West Potomac Park cannot proceed without congressional authorization. Plaintiffs: Cultural Landscape Foundation, D.C. Preservation League, National Mall Coalition, National Parks Conservation Association, Committee of 100 on the Federal City, Olmsted Network; counsel: Democracy Forward. Legal bases: Commemorative Works Act, National Historic Preservation Act, Administrative Procedure Act. No hearing date set; litigation pending as of June 17, 2026. Cross-reference: ACI-038 (Triumphal Arch), ACI-046 (Reflecting Pool), ACI-050 (White House State Ballroom/East Wing) — DC Monumental Core cluster; same-playbook pattern of fast-tracking monumental projects without Commemorative Works Act review or congressional authorization, now the explicit legal theory in this suit.",
+      "outcome": "Suit filed June 15, 2026. No hearing date set. Litigation pending.",
+      "tags": "Legal challenge, Landmark dispute, Political interference, Architectural preservation",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "ARTnews",
+        "Washington Post"
+      ],
+      "source": "https://www.artnews.com/art-news/news/preservationists-sue-trumps-scultpure-garden-of-heroes-1234789350/",
+      "stage": 4,
+      "stage_label": "Active"
+    },
     {
       "id": "ACI-189",
       "entry_id": "189",
@@ -7924,17 +7949,17 @@
       "date_discovered": "May 2, 2026",
       "sort_date": "2026-05-02",
       "description": "President Trump first proposed the National Garden of American Heroes by executive order during his first term in 2020 in response to the George Floyd protests and toppling of Confederate statues. Revived in his second term, the project has expanded dramatically from initial estimates. Latest plans (NYT May 2, 2026) call for 250 life-size statues, 'Heroes Walk' connecting themed areas (politicians, soldiers, scientists, activists, artists, athletes), formal gardens, reflecting pools, plazas, cafes, an amphitheater at the Potomac waterfront, and a dining facility — redeveloping West Potomac Park near the National Mall. Statues alone estimated at over $40M (the full congressional appropriation), with total project cost far exceeding that figure. NEH has solicited 'preliminary concepts' from American-citizen artists; awards up to $200,000 per statue. Trump directed all subjects be depicted 'realistically' — modernist or abstract designs prohibited. Materials restricted to marble, granite, bronze, copper, or brass. Honorees include: George Washington, Ronald Reagan, Amelia Earhart, Elvis Presley, Kobe Bryant, Alfred Hitchcock, Dr. Seuss, Martin Luther King Jr. (described as having 'can-do spirit' with no mention of racism he fought), Ida B. Wells-Barnett, Frederick Douglass — described in biographies that Monument Lab director Paul Farber calls 'sanitized.' Under 'journalists': Edward R. Murrow and Alex Trebek. Five honoree slots remain open (245 of 250 announced). Trump had hoped to complete project by July 4, 2026; now aiming for 'a few dozen statues' by then, with remainder by end of second term. Project has not gone before any review board. West Potomac Park site proximity to Potomac raises environmental/ecological concerns. Possible need for Commemorative Works Act exemption. National Civic Art Society (pro-classical architecture nonprofit) personnel closely associated with project oversight. Adjacent to a golf course Trump wants to make a 'luxury destination.'",
-      "outcome": "No construction begun. NEH soliciting artist proposals. No review board submission yet. Congressional appropriation ($40M) insufficient for current scope. Administration aiming for partial unveiling July 4, 2026. [FOLLOW-UP PENDING: review board submission, Commemorative Works Act process, donor solicitation announcement expected]",
+      "outcome": "No construction begun as of June 2026. NEH soliciting artist proposals. Project has not gone before any review board. Congressional appropriation ($40M) insufficient for current scope. Administration aiming for partial unveiling July 4, 2026. June 15, 2026: six preservation organizations and one D.C. resident filed suit in U.S. District Court for D.C. arguing the project cannot proceed without congressional authorization (see ACI-063-A). Court date not yet set. Cross-reference: ACI-038 (Triumphal Arch), ACI-046 (Reflecting Pool), ACI-050 (White House ballroom/East Wing) — DC Monumental Core cluster; same pattern of advancing projects without Commemorative Works Act review or congressional authorization. [FOLLOW-UP PENDING: hearing date, Commemorative Works Act ruling, review board submission]",
       "tags": "Design controversy, Political art, Historical erasure, Funding dispute, Landmark dispute, Political interference",
-      "court_case": "No",
+      "court_case": "Yes",
       "coverage_tier": "National",
       "outlets": [
         "New York Times (Luke Broadwater",
         "Zachary Small)"
       ],
       "source": "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes.html",
-      "stage": 3,
-      "stage_label": "In process"
+      "stage": 4,
+      "stage_label": "Active"
     },
     {
       "id": "ACI-047-A",
