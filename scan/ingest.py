@@ -18,7 +18,7 @@ import feedparser
 FEEDS = [
     ("Hyperallergic",         "https://hyperallergic.com/feed/"),
     ("ARTnews",               "https://www.artnews.com/feed/"),
-    ("The Art Newspaper",     "https://www.theartnewspaper.com/rss"),
+    ("The Art Newspaper",     "https://www.theartnewspaper.com/rss.xml"),
     ("Artforum",              "https://www.artforum.com/feed/"),
     ("The Guardian (art)",    "https://www.theguardian.com/artanddesign/rss"),
     ("NYT Arts",              "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"),
