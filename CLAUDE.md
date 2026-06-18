@@ -182,6 +182,26 @@ Avoid rss.app, Feedspot, RapidAPI wrappers, and similar middlemen. For a self-ru
 - The agent date-filters feed/API items to the last 24 hours, dedups against the repo case store, and **queues candidates for approval** — it never auto-publishes (the editorial gate in §10 still governs).
 - Detection ≠ enrichment. The agent only needs headline + abstract + URL to surface a candidate; full-text reading (NYT especially) remains a manual enrichment pass.
 
+### Source reliability and framing discipline
+
+*Observer vs. participant.* Judge a source per-story, not by standing political label. When an outlet is a participant in a controversy — it broke the story, is campaigning on it, or is itself a party to the dispute — record its role and its reporting, but do not adopt its framing as the Index's voice. Cite quotes to the outlet that carries them. Record who broke a story even when they are a participant. This applies to outlets of any ideological lean.
+
+*Reliability is a track-record judgment, not an ideological one.* An outlet's editorial lean does not by itself change how its reporting is treated. What changes it is documented practice: fabrication, uncorrected falsehoods, repeated regulatory findings, or failed independent fact-checks.
+
+*Excluded sources.* Some outlets have a documented record poor enough that the Index does not cite them or treat them as evidence at all — not as a sole source, not as corroboration. Editorial lean is never the basis for exclusion; documented practice is. Consequence for inclusion: a putative controversy evidenced only by an excluded outlet does not clear the inclusion bar — a story one of these outlets breaks and no reliable outlet picks up is more likely evidence of that outlet's outrage than of a real controversy.
+- **Breitbart** — deprecated as a source by Wikipedia (2018) for unreliability; rated "Questionable" by independent media-reliability assessors, with failed fact-checks and a documented history of false and misleading stories.
+- **GB News** — least-trusted of the UK's main news broadcasters in trust polling; an upheld, fined Ofcom due-impartiality breach (£100,000, 2024); a documented instance of airing false claims unchallenged.
+
+*Narrow exception.* Where an excluded outlet is itself the subject or actor in a controversy independently established by reliable coverage, it may be named (and linked if necessary) as the object of description — never as a source for asserted facts, and never as what makes a story includable.
+
+*Default disposition (everything not named).* The Index does not maintain a global registry of source quality. For any source not on the excluded list, trust is established per-story by corroboration, not per-outlet by reputation. A controversy resting solely on a single source that cannot be vouched for is logged thin and flagged single-source/unverified rather than stated as fact. The unit of evaluation is the story, not the outlet.
+
+*Aggregators and syndicators.* Aggregator/wrapper domains (e.g., Yahoo News, MSN, inkl, Ground News) are not primary sources and are not cited as such. Trace the item to its originating outlet, cite that outlet, and evaluate it by the normal standard. An aggregator's own originated content is held to the same corroboration bar as any other single source.
+
+> [OPEN — post-build] Expand the excluded-sources list beyond Breitbart and GB News. Each addition gets the same treatment: named, documented basis, then written in — no seeding from reputation. Candidates to verify when the time comes: state propaganda outlets (RT, Sputnik), fabrication-driven fringe sites (InfoWars-type), Wikipedia-deprecated tabloids (Daily Mail).
+
+A source joins the excluded list only with a specific, documentable basis; the list is revisited as evidence warrants, and the standard is symmetric across the spectrum.
+
 ---
 
 ## 7. Inclusion
