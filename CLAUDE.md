@@ -198,7 +198,11 @@ Avoid rss.app, Feedspot, RapidAPI wrappers, and similar middlemen. For a self-ru
 
 *Aggregators and syndicators.* Aggregator/wrapper domains (e.g., Yahoo News, MSN, inkl, Ground News) are not primary sources and are not cited as such. Trace the item to its originating outlet, cite that outlet, and evaluate it by the normal standard. An aggregator's own originated content is held to the same corroboration bar as any other single source.
 
+*Retrieval limits.* A negative result from a retrieval tool known to be blocked or paywalled for a given source (e.g. automated fetches of the Guardian, Telegraph, Independent, or Washington Post) is recorded as "could not retrieve," never as evidence that the coverage or fact does not exist. Confirm absence through an unblocked path — a manual browser check, an API, or syndication — before treating something as uncovered or unverified.
+
 > [OPEN — post-build] Expand the excluded-sources list beyond Breitbart and GB News. Each addition gets the same treatment: named, documented basis, then written in — no seeding from reputation. Candidates to verify when the time comes: state propaganda outlets (RT, Sputnik), fabrication-driven fringe sites (InfoWars-type), Wikipedia-deprecated tabloids (Daily Mail).
+
+> [OPEN — post-build] Extend reliable canonical-URL retrieval to the paywalled outlets the tools can't reach (Guardian, Telegraph, Independent, Washington Post, etc.). guardian_api.py already covers the Guardian via the Open Platform API; evaluate API or feed access for the others, or adopt a documented "verified via syndication, canonical URL pinned by hand" convention so entries never carry placeholder or aggregator URLs.
 
 A source joins the excluded list only with a specific, documentable basis; the list is revisited as evidence warrants, and the standard is symmetric across the spectrum.
 
