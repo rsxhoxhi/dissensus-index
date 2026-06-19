@@ -8,9 +8,36 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-18",
     "methodology_version": "1.0",
-    "total_cases": 427
+    "total_cases": 428
   },
   "cases": [
+    {
+      "id": "ACI-005-AM",
+      "entry_id": "005-AM",
+      "seq": 427,
+      "title": "Kennedy Center — Cooper orders status report on public access and programming plans ahead of 4 July closure",
+      "artist": "Various (Kennedy Center programming)",
+      "institution": "John F. Kennedy Center for the Performing Arts",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "16 June 2026",
+      "date_discovered": "2026-06-18",
+      "sort_date": "2026-06-16",
+      "description": "On 16 June 2026, U.S. District Judge Christopher Cooper — who had blocked the administration's two-year closure of the Kennedy Center and ordered Trump's name removed — directed the Center to submit a status report within three days (due 19 June 2026) outlining plans for 'public access and ongoing programming, activities, and operations' should it be ordered to remain open past the proposed early-July closing date. The Trump administration had announced a 4 July closure for approximately $250 million in renovations; Cooper had already barred enforcement of the board's vote to 'wind-down' or 'close' programming after 5 July. The National Symphony Orchestra is reported to be scrambling for replacement venues. The order represents the judiciary compelling an executive-captured federal cultural institution to produce a concrete operations and access plan — courts acting as a check on political interference in a federal arts institution. See ACI-005-AK (29 May summary judgment and name removal) and ACI-005-AL (NSO existential peril and venue scramble).",
+      "outcome": "Status report ordered due 19 June 2026; Judge Cooper weighing whether to order the Center to remain open past 4 July. [FOLLOW-UP PENDING: 19 June status report; Cooper's subsequent ruling on whether the Center must stay open]",
+      "tags": "Federal cultural institution, Judicial oversight, Closure threat, Programming access",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "New York Times (broke it)",
+        "AP",
+        "USA Today",
+        "Slippedisc"
+      ],
+      "source": "https://www.nytimes.com/2026/06/16/arts/music/kennedy-center-closing-plan-judge.html",
+      "stage": 4,
+      "stage_label": "Active"
+    },
     {
       "id": "ACI-191",
       "entry_id": "191",
@@ -5745,7 +5772,7 @@
       "date_discovered": "May 18, 2026",
       "sort_date": "2026-05-18",
       "description": "STATUS CHECK: As of May 18 (Monday), Judge Christopher Cooper has not issued a ruling following back-to-back hearings April 28–30 on the Beatty lawsuit and the preservation groups' lawsuit. Cooper stated he would rule 'quickly.' Closure is 49 days away (July 6). Three parallel legal fronts remain active: (1) Beatty lawsuit; (2) Preservation groups lawsuit (Section 106 bypass); (3) Sen. Whitehouse corruption investigation. Final confirmed major event: Mark Twain Prize for Bill Maher, June 28. No new institutional developments identified today.",
-      "outcome": "Cooper summary judgment May 29, 2026: renaming illegal, closure blocked, ex-officio voting rights restored (see ACI-005-AK). Trump name physically removed June 13, 2026. Board voted to seek a stay while passing resolution praising Trump. NSO faces existential peril — no approved season budget, executive director departed, Ben Folds warns it \"may not survive\" (see ACI-005-AL). [FOLLOW-UP PENDING: board stay/appeal; NSO survival; renovation status]",
+      "outcome": "Cooper summary judgment May 29, 2026: renaming illegal, closure blocked, ex-officio voting rights restored (see ACI-005-AK). Trump name physically removed June 13, 2026. Board voted to seek a stay while passing resolution praising Trump. NSO faces existential peril — no approved season budget, executive director departed, Ben Folds warns it \"may not survive\" (see ACI-005-AL). June 16, 2026: Cooper ordered the Center to submit a status report by 19 June on plans for public access and ongoing programming, should it be ordered to remain open past the proposed 4 July closure date (see ACI-005-AM). [FOLLOW-UP PENDING: 19 June status report; Cooper's ruling on whether Center must remain open; board stay/appeal; NSO survival; renovation status]",
       "tags": "Political interference, Institutional crisis, Legal challenge, Architectural preservation",
       "court_case": "Yes",
       "coverage_tier": "National",
