@@ -48,6 +48,41 @@ Columns (working master, 20):
 
 > The public-site field list (ACI ID, title, artist/subject, institution, country, governance, dates, description, outcome/status, broad tags, court case, coverage tier, key outlets, primary source link, stage) is a **display subset**. Parent ID, Interested Parties, Coverage Geography, and Notes stay in the master even if not surfaced publicly — they carry the update mechanism, the coverage-movement signal, and the active-monitoring flags.
 
+### Required fields for every cases.json entry
+
+Every case object written to `cases.json` MUST include all of the following.
+The first block is the existing schema; the second block was historically omitted
+and is now mandatory — the rich-master migration (June 2026) restored these from
+the spreadsheet and they must not be dropped again.
+
+**Existing fields:** `id`, `entry_id`, `seq`, `title`, `artist`, `institution`,
+`country`, `governance_type`, `date_controversy`, `date_discovered`, `sort_date`,
+`description`, `outcome`, `tags`, `court_case`, `coverage_tier`, `outlets`,
+`source`, `stage`, `stage_label`
+
+**Five fields now mandatory on every new entry:**
+
+- `themes` — JSON array of ARTH 201 theme numbers, e.g. `[2, 4, 8]`. Use `[]`
+  if none fit. Sub-entries copy the parent's themes unless there is a specific
+  case-level reason to differ.
+- `notes` — string. Teaching-memo notes: cross-references to other entries by ID,
+  ARTH 201 connections, pattern observations. `""` if none.
+- `interested_parties` — string. Named parties and roles, e.g.
+  `"Judge Cooper; Rep. Beatty; Kennedy Center board"`. `""` if unknown.
+- `coverage_geography` — string. Where the story is being covered (not just where
+  it happened), e.g. `"US, Europe"`. `""` if unknown at logging time.
+- `follow_up_pending` — boolean. `true` when the entry anticipates a future
+  development that will produce a further sub-entry or status update; `false`
+  otherwise.
+
+**Two consistency rules:**
+
+1. When `follow_up_pending` is `true`, also include a descriptive
+   `[FOLLOW-UP PENDING: …]` note in `notes` or `outcome` so the pending thing
+   is named, not just flagged.
+2. When a follow-up resolves, set `follow_up_pending` to `false` *in addition to*
+   clearing the `[FOLLOW-UP PENDING]` text from `notes`/`outcome`.
+
 ---
 
 ## 3. ARTH 201 theme tags `[DECISION — keep or retire]`
