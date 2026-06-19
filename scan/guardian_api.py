@@ -107,8 +107,15 @@ def fetch_guardian_article(url_or_id, fields=DEFAULT_FIELDS):
 
 
 if __name__ == "__main__":
-    for art in search_guardian("National Portrait Gallery Cammock Churchill",
-                               from_date="2026-06-01", page_size=5):
-        print(art["date"], "—", art["headline"])
-        print("   ", art["url"])
-        print("   ", art["body"][:200].replace("\n", " "), "...\n")
+    import sys
+    if len(sys.argv) > 1:
+        art = fetch_guardian_article(sys.argv[1])
+        if art:
+            print(art["headline"])
+            print(art["date"])
+            print()
+            print(art["body"])
+        else:
+            print("could not retrieve:", sys.argv[1])
+    else:
+        print('Usage: python scan/guardian_api.py "<guardian article URL>"')
