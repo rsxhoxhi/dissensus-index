@@ -8,11 +8,11 @@
 
 This project maintains the **Dissensus Index** (dissensusindex.com), a quarterly record of art controversy. The Index tracks disputes involving artworks, artists, institutions, and cultural policy through a structured five-stage methodology. The public site is built from a dataset; the working master is the tracker spreadsheet (`art_controversy_tracker_LIVE.xlsx`), migrating to a repo-based store.
 
-**Public identity:** Founder/editor Rebecca Shields, independent scholar, Richmond VA. The Index is independently owned and hosted — no institutional ownership claim. (This framing is deliberate and IP-driven; keep it for anything public-facing.)
+**Public identity:** An independent research project.
 
-**Internal working context (not public-facing, but load-bearing for how the work runs):** Rebecca is an adjunct art history instructor at VCU and Richard Bland College and teaches ARTH 201 (Art and Controversy), ~100 students. The tracker is simultaneously a research instrument, a public Index, and a source of contemporary case studies for the course.
+**Internal working context:** The tracker is a personal research instrument and a public Index documenting art and cultural-heritage controversies worldwide.
 
-**Design accommodation — do not lose this.** Rebecca has executive-functioning challenges that make initiation difficult. The daily-scan protocol is deliberately low-activation-cost: she pastes a short opening, Claude does the searching, entries get added. Clear structure, minimal decision-making at the point of execution, momentum through daily repetition. The shape of this system *is* the accommodation. Do not issue unsolicited directives or sign-offs.
+**Operational design.** The daily scan protocol is designed for low activation cost: paste the prompt, Claude runs the searches, entries get added. The design favors clear structure, minimal decision-making at the point of execution, and momentum built through daily repetition.
 
 ---
 
@@ -37,7 +37,7 @@ Columns (working master, 20):
 11. Interested Parties
 12. Court Case (Yes / No / Pending)
 13. Broad Tags
-14. ARTH 201 Themes `[DECISION — retain? see §3]`
+14. Dissensus Themes [see §3]
 15. Coverage Tier (Local / Regional / National / International)
 16. Coverage Geography (where the story is being *covered*, not just where it happened)
 17. Key Outlets
@@ -62,11 +62,11 @@ the spreadsheet and they must not be dropped again.
 
 **Five fields now mandatory on every new entry:**
 
-- `themes` — JSON array of ARTH 201 theme numbers, e.g. `[2, 4, 8]`. Use `[]`
+- `themes` — JSON array of Dissensus theme numbers, e.g. `[2, 4, 8]`. Use `[]`
   if none fit. Sub-entries copy the parent's themes unless there is a specific
   case-level reason to differ.
-- `notes` — string. Teaching-memo notes: cross-references to other entries by ID,
-  ARTH 201 connections, pattern observations. `""` if none.
+- `notes` — string. Cross-references to other entries by ID, Dissensus theme
+  connections, pattern observations. `""` if none.
 - `interested_parties` — string. Named parties and roles, e.g.
   `"Judge Cooper; Rep. Beatty; Kennedy Center board"`. `""` if unknown.
 - `coverage_geography` — string. Where the story is being covered (not just where
@@ -85,9 +85,9 @@ the spreadsheet and they must not be dropped again.
 
 ---
 
-## 3. ARTH 201 theme tags `[DECISION — keep or retire]`
+## 3. Dissensus themes
 
-The distilled website draft dropped theme tagging. Retained here because working notes still treat themes as live. Strike this section if the public Index sheds course-theme tags.
+The ten thematic categories used to tag cases by the analytical questions they raise, so related cases can be grouped and compared across the Index.
 
 An entry can carry zero, one, or multiple theme tags:
 
@@ -167,7 +167,7 @@ Stick to the scheduled region. If something erupts elsewhere, the dragnet catche
 - **Thursday — Asia & Pacific** (Mandarin, Japanese, Korean, Indonesian). **Mandatory non-Latin-script passes: ZH/JA/KO.** Look for: censorship under authoritarian regimes, exhibition cancellations, political-art suppression, religious/ethnic sensitivity.
 - **Friday — US Local (Northeast, West Coast, territories)** (deep-local English). Same as Tuesday's categories plus tech-art/AI-art disputes, public art in gentrifying neighborhoods, historic-preservation agendas.
 - **Saturday — Middle East, non-Francophone Africa, South Asia** (Arabic, Turkish, Farsi, Hindi, Swahili, Amharic, Lusophone Portuguese). **Mandatory non-Latin-script passes: AR/FA/HI.** Look for: blasphemy cases, political censorship, art under authoritarian rule, postcolonial repatriation, conflict-zone cultural destruction, East African disputes.
-- **Sunday — Synthesis & pattern review.** Standard dragnet, then review the week: patterns, escalations, coverage gaps, parent-ID connections, ARTH 201 relevance, governance distribution, emerging tags. **Systematic sweep of ALL `[FOLLOW-UP PENDING]` flags** — attempt to resolve/update every flagged entry, not just the ripe ones.
+- **Sunday — Synthesis & pattern review.** Standard dragnet, then review the week: patterns, escalations, coverage gaps, parent-ID connections, Dissensus theme relevance, governance distribution, emerging tags. **Systematic sweep of ALL `[FOLLOW-UP PENDING]` flags** — attempt to resolve/update every flagged entry, not just the ripe ones.
 
 ### Part 3A — Follow-up flag sweep (every day, before Part 3)
 
@@ -196,7 +196,7 @@ This section governs how sources are *ingested*, especially once the scan runs u
 **Tier 1 — Official APIs (prefer these).**
 
 - **The Guardian — Open Platform Content API.** The standout: returns **full article body text**, not just snippets, plus tags and section data, across all content since 1999. Free key, no credit card, generous limits (~500 calls/day on the standard free tier; 12 req/sec). **Non-profit projects use the content free; commercial use needs a separate key** — the Index is non-commercial, so it qualifies cleanly. This is the best single input we have. Endpoint family: `content.guardianapis.com`. Store key as env var (`GU_API_KEY`).
-- **New York Times — Developer API.** Free key. Three endpoints map onto the protocol: **Times Wire** (real-time publish stream → recency sweep), **Top Stories** with the `arts` section (section front page), and **Article Search** (query by topic + date → date-anchored discovery). **Critical constraint: the NYT API returns metadata only** — headline, byline, abstract, keywords, date, and the canonical URL. **It does NOT return full body text; the paywall sits on the body.** That is sufficient for detection and citation: log the thin entry from the abstract, store the URL as the primary source. Full-text reading stays a manual enrichment step done with Rebecca's own subscription. Personal/non-commercial terms — the Index qualifies; read the terms once.
+- **New York Times — Developer API.** Free key. Three endpoints map onto the protocol: **Times Wire** (real-time publish stream → recency sweep), **Top Stories** with the `arts` section (section front page), and **Article Search** (query by topic + date → date-anchored discovery). **Critical constraint: the NYT API returns metadata only** — headline, byline, abstract, keywords, date, and the canonical URL. **It does NOT return full body text; the paywall sits on the body.** That is sufficient for detection and citation: log the thin entry from the abstract, store the URL as the primary source. Full-text reading stays a manual enrichment step done with a personal subscription. Personal/non-commercial terms — the Index qualifies; read the terms once.
 - **Courts — CourtListener REST API** (Free Law Project). Use this instead of scraping PACER or Courthouse News. Free, covers US federal dockets, supports saved-search alerts. It's the robust, automatable version of the legal monitoring already done by hand (and the same source already used for docket PDFs). This is also what brings the public methodology's "PACER / Courthouse News" claim into line with what the scan actually does.
 
 **Tier 2 — Official RSS (keyless fallback, stable).**
@@ -292,13 +292,13 @@ The 3-vs-4 boundary operationalized as: "has a consequential, hard-to-reverse ac
 
 The `[FOLLOW-UP PENDING]` flags are the standing active-monitoring list; pull them in the pre-scan and Part 3A. No separate "on the horizon" list needed.
 
-**Opening convention:** Rebecca's opening message is the date and day of week, which triggers the full protocol. Optionally she adds one or more `[WATCH]` flags for elevated-attention items that session. `[WATCH]` items are searched *in addition to* the full protocol, never instead of it. If there are no `[WATCH]` items, the opening is just the date and day, and the full protocol runs without prompting.
+**Opening convention:** The opening message is the date and day of week, which triggers the full protocol. Optionally one or more `[WATCH]` flags may be added for elevated-attention items that session. `[WATCH]` items are searched *in addition to* the full protocol, never instead of it. If there are no `[WATCH]` items, the opening is just the date and day, and the full protocol runs without prompting.
 
 ---
 
 ## 12. Quick-add protocol
 
-When Rebecca pastes a link or describes something she saw, fetch it, assess fit, dedup, assign the next available ID if new, and write the full entry to the column schema without requiring further instruction. Ask for any context she has (source, how she found it) only if needed.
+When the maintainer pastes a link or describes something they saw, fetch it, assess fit, dedup, assign the next available ID if new, and write the full entry to the column schema without requiring further instruction. Ask for any context they have (source, how they found it) only if needed.
 
 ---
 

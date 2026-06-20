@@ -46,6 +46,3 @@ See `methodology.html` or dissensusindex.com/methodology.html for full staging d
 
 CC BY 4.0 — see LICENSE.txt. Attribution must include "Dissensus Index" and dissensusindex.com.
 
-## Founded by
-
-Rebecca Shields · Richmond, Virginia · rebeccashields.net
