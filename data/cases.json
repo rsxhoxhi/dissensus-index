@@ -8,9 +8,44 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-19",
     "methodology_version": "1.0",
-    "total_cases": 426
+    "total_cases": 427
   },
   "cases": [
+    {
+      "id": "ACI-005-AN",
+      "entry_id": "005-AN",
+      "seq": 428,
+      "title": "Kennedy Center — institution tells court it isn't required to reschedule or seek programming; three closure options to go to board in mid-July",
+      "artist": "Various (Kennedy Center programming)",
+      "institution": "John F. Kennedy Center for the Performing Arts",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "19 June 2026",
+      "date_discovered": "2026-06-21",
+      "sort_date": "2026-06-19",
+      "description": "In the status report ordered by U.S. District Judge Christopher Cooper (see ACI-005-AM), the Kennedy Center told the court on 19 June 2026 that his order 'did not affirmatively require the Board to reschedule programming that had previously been cancelled or to seek new programming.' The institution said it plans to 'maintain an operational model' after 5 July — the date on which it had been scheduled to close for an approximately $250 million renovation — keeping public spaces accessible while stages may remain largely silent; it did not commit to scheduling new shows, rescheduling cancelled ones, or rebuilding staff. Executive director Matt Floca outlined three options to be presented to the Center's board for a mid-July vote: (1) a full closure to accelerate construction with no ongoing public programming; (2) a partial closure of specific spaces, allowing some continued public access and limited programming in unaffected spaces; and (3) a phased series of closures addressing the most critical infrastructure needs while maintaining more onsite programming. Trump's name has been removed from the building's exterior, with the affected areas covered by a tarp. Reported by the Associated Press and carried nationally. See ACI-005-AM (16 June status-report order), ACI-005-AL (NSO peril), ACI-005-AK (29 May summary judgment and name removal).",
+      "outcome": "Center filed its status report 19 June 2026, declining to commit to new or rescheduled programming and proposing three closure scenarios for a mid-July board vote; Cooper has not yet ruled on whether the Center must remain open past early July. [FOLLOW-UP PENDING: mid-July board vote among the three options; Cooper's subsequent ruling on continued operation; whether NSO and other programming resume]",
+      "tags": "Federal cultural institution, Judicial oversight, Closure threat, Programming access",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "Associated Press",
+        "NBC Washington",
+        "CNBC",
+        "Washington Times"
+      ],
+      "source": "https://www.nbcwashington.com/news/local/kennedy-center-says-it-isnt-required-to-seek-new-programming-after-judge-blocksclosure/4119465/",
+      "stage": 4,
+      "stage_label": "Active",
+      "themes": [
+        2,
+        4
+      ],
+      "notes": "Sub-entry of the Kennedy Center cluster (parent ACI-005). Continuation of the federal-cultural-institution / judicial-oversight thread tracked through ACI-005-AK/AL/AM. Pattern: an executive-captured institution responding to a court check by adopting a minimal-compliance 'operational model' rather than restoring programming.",
+      "interested_parties": "Judge Christopher Cooper (U.S. District Court, D.C.); Matt Floca (Kennedy Center executive director); Kennedy Center board; National Symphony Orchestra; Trump administration",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
     {
       "id": "ACI-005-AM",
       "entry_id": "005-AM",
@@ -24,7 +59,7 @@
       "date_discovered": "2026-06-18",
       "sort_date": "2026-06-16",
       "description": "On 16 June 2026, U.S. District Judge Christopher Cooper — who had blocked the administration's two-year closure of the Kennedy Center and ordered Trump's name removed — directed the Center to submit a status report within three days (due 19 June 2026) outlining plans for 'public access and ongoing programming, activities, and operations' should it be ordered to remain open past the proposed early-July closing date. The Trump administration had announced a 4 July closure for approximately $250 million in renovations; Cooper had already barred enforcement of the board's vote to 'wind-down' or 'close' programming after 5 July. The National Symphony Orchestra is reported to be scrambling for replacement venues. The order represents the judiciary compelling an executive-captured federal cultural institution to produce a concrete operations and access plan — courts acting as a check on political interference in a federal arts institution. See ACI-005-AK (29 May summary judgment and name removal) and ACI-005-AL (NSO existential peril and venue scramble).",
-      "outcome": "Status report ordered due 19 June 2026; Judge Cooper weighing whether to order the Center to remain open past 4 July. [FOLLOW-UP PENDING: 19 June status report; Cooper's subsequent ruling on whether the Center must stay open]",
+      "outcome": "Status report filed 19 June 2026: the Center told the court it is not required to reschedule or seek new programming and proposed three closure scenarios for a mid-July board vote (see ACI-005-AN). Cooper had ordered the report while weighing whether to compel the Center to remain open past early July; his subsequent ruling and the board vote are tracked in ACI-005-AN.",
       "tags": "Federal cultural institution, Judicial oversight, Closure threat, Programming access",
       "court_case": "Yes",
       "coverage_tier": "National",
@@ -44,7 +79,7 @@
       "notes": "",
       "interested_parties": "",
       "coverage_geography": "",
-      "follow_up_pending": true
+      "follow_up_pending": false
     },
     {
       "id": "ACI-191",
