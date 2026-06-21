@@ -99,7 +99,7 @@ async function loadData() {
   `;
 
   // Freshness line
-  const lp = data.meta.last_published;
+  const lp = allCases.reduce((max, c) => c.date_discovered > max ? c.date_discovered : max, '');
   document.getElementById('freshness').innerHTML =
     `Last reviewed and published: <strong>${formatDate(lp)}</strong> · Data captured continuously; published on editorial review.`;
 
