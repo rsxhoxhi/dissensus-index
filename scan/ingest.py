@@ -10,10 +10,11 @@ scan/candidates.json.
 import datetime
 import json
 import re
-import time
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
-import feedparser
+import requests
 
 FEEDS = [
     ("Hyperallergic",         "https://hyperallergic.com/feed/"),
@@ -29,6 +30,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 CASES_PATH = REPO_ROOT / "data" / "cases.json"
 CANDIDATES_PATH = REPO_ROOT / "scan" / "candidates.json"
 
+ATOM_NS = "http://www.w3.org/2005/Atom"
+
 
 def load_known_sources():
     data = json.loads(CASES_PATH.read_text(encoding="utf-8"))
@@ -40,42 +43,134 @@ def load_known_sources():
 
 
 def window_cutoff():
-    """Return a UTC struct_time for 96 hours ago."""
-    return time.gmtime(time.time() - WINDOW_HOURS * 3600)
-
-
-def fetch_feed(name, url):
-    """
-    Parse one RSS feed. Returns (entries_list, error_string_or_None).
-    feedparser never raises — failures surface via .bozo and .status.
-    """
-    d = feedparser.parse(url)
-    if d.get("bozo") and not d.get("entries"):
-        return [], str(d.get("bozo_exception", "unknown parse error"))
-    status = d.get("status", 200)
-    if status >= 400:
-        return [], f"HTTP {status}"
-    return d.entries, None
+    return datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=WINDOW_HOURS)
 
 
 def strip_html(text):
     return re.sub(r"<[^>]+>", "", text or "").strip()
 
 
-def entry_to_candidate(entry, feed_name):
-    pub = entry.get("published_parsed") or entry.get("updated_parsed")
-    pub_iso = ""
-    if pub:
-        pub_iso = datetime.datetime(*pub[:6], tzinfo=datetime.timezone.utc).isoformat()
+def parse_date(date_str):
+    """Parse RFC 2822 (RSS) or ISO 8601 (Atom) date strings to UTC datetime."""
+    if not date_str:
+        return None
+    date_str = date_str.strip()
+    # RFC 2822: "Tue, 21 Jun 2026 10:00:00 +0000"
+    try:
+        return parsedate_to_datetime(date_str).astimezone(datetime.timezone.utc)
+    except Exception:
+        pass
+    # ISO 8601: "2026-06-21T10:00:00Z" or "2026-06-21T10:00:00+00:00"
+    try:
+        normalized = date_str.replace("Z", "+00:00")
+        dt = datetime.datetime.fromisoformat(normalized)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=datetime.timezone.utc)
+        return dt.astimezone(datetime.timezone.utc)
+    except Exception:
+        pass
+    return None
 
-    summary = strip_html(entry.get("summary", ""))
+
+def _parse_rss(root):
+    entries = []
+    for item in root.findall(".//item"):
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        # Fall back to <guid> if <link> is empty
+        if not link:
+            guid = item.find("guid")
+            if guid is not None and guid.get("isPermaLink", "true").lower() != "false":
+                link = (guid.text or "").strip()
+        pub_raw = (
+            item.findtext("pubDate")
+            or item.findtext("{http://purl.org/dc/elements/1.1/}date")
+            or ""
+        )
+        summary_raw = item.findtext("description") or ""
+        entries.append({
+            "title": title,
+            "link": link,
+            "published_dt": parse_date(pub_raw),
+            "summary_raw": summary_raw,
+        })
+    return entries
+
+
+def _parse_atom(root):
+    ns = {"a": ATOM_NS}
+    entries = []
+    for entry in root.findall("a:entry", ns):
+        title_el = entry.find("a:title", ns)
+        title = (title_el.text or "").strip() if title_el is not None else ""
+
+        link = ""
+        for link_el in entry.findall("a:link", ns):
+            rel = link_el.get("rel", "alternate")
+            if rel in ("alternate", ""):
+                link = link_el.get("href", "")
+                break
+
+        pub_raw = ""
+        for tag in ("a:published", "a:updated"):
+            el = entry.find(tag, ns)
+            if el is not None and el.text:
+                pub_raw = el.text
+                break
+
+        summary_el = entry.find("a:summary", ns)
+        if summary_el is None:
+            summary_el = entry.find("a:content", ns)
+        summary_raw = (summary_el.text or "") if summary_el is not None else ""
+
+        entries.append({
+            "title": title,
+            "link": link,
+            "published_dt": parse_date(pub_raw),
+            "summary_raw": summary_raw,
+        })
+    return entries
+
+
+def parse_entries(xml_bytes):
+    """Detect RSS vs Atom and return a list of entry dicts."""
+    root = ET.fromstring(xml_bytes)
+    tag = root.tag  # may be "{namespace}feed" for Atom
+    if tag == f"{{{ATOM_NS}}}feed" or tag == "feed":
+        return _parse_atom(root)
+    return _parse_rss(root)
+
+
+def fetch_feed(name, url):
+    """
+    Fetch and parse one RSS/Atom feed.
+    Returns (entries_list, error_string_or_None).
+    """
+    try:
+        resp = requests.get(
+            url, timeout=30,
+            headers={"User-Agent": "DissensusIndex/1.0 (+https://dissensusindex.com)"},
+        )
+        resp.raise_for_status()
+        return parse_entries(resp.content), None
+    except requests.HTTPError as e:
+        return [], f"HTTP {e.response.status_code}"
+    except Exception as e:
+        return [], str(e)
+
+
+def entry_to_candidate(entry, feed_name):
+    dt = entry["published_dt"]
+    pub_iso = dt.isoformat() if dt else ""
+
+    summary = strip_html(entry["summary_raw"])
     if len(summary) > 300:
         summary = summary[:300] + "…"
 
     return {
         "source_feed": feed_name,
-        "title": entry.get("title", "").strip(),
-        "link": entry.get("link", "").strip(),
+        "title": entry["title"],
+        "link": entry["link"],
         "published": pub_iso,
         "summary": summary,
     }
@@ -107,13 +202,12 @@ def main():
 
         in_window = [
             e for e in entries
-            if (e.get("published_parsed") or e.get("updated_parsed") or None) is not None
-            and (e.get("published_parsed") or e.get("updated_parsed")) >= cutoff
+            if e["published_dt"] is not None and e["published_dt"] >= cutoff
         ]
 
         new, already_logged = [], 0
         for entry in in_window:
-            link = entry.get("link", "").strip()
+            link = entry["link"]
             if link in known_sources:
                 already_logged += 1
             else:
