@@ -98,7 +98,7 @@ this project is built around:
 
 ## Step 5 — Write the result as a pull request
 
-On a new branch `scan/daily-YYYY-MM-DD`:
+On a new branch `claude/daily-YYYY-MM-DD`:
 
 1. Insert the drafted entries into `data/cases.json`. **Append/insert only.** Add new
    parents; insert sub-entries positionally after the last entry sharing the parent
