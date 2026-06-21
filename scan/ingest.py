@@ -24,7 +24,7 @@ FEEDS = [
     ("NYT Arts",              "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"),
 ]
 
-WINDOW_HOURS = 48
+WINDOW_HOURS = 96
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CASES_PATH = REPO_ROOT / "data" / "cases.json"
 CANDIDATES_PATH = REPO_ROOT / "scan" / "candidates.json"
@@ -40,7 +40,7 @@ def load_known_sources():
 
 
 def window_cutoff():
-    """Return a UTC struct_time for 48 hours ago."""
+    """Return a UTC struct_time for 96 hours ago."""
     return time.gmtime(time.time() - WINDOW_HOURS * 3600)
 
 

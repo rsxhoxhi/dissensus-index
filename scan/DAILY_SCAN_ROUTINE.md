@@ -30,6 +30,18 @@ The live data is `data/cases.json` (not the spreadsheet). Read it and establish:
 
 Do not assign any new ID until this read is complete.
 
+## Step 2A — Outlet homepage scan (MANDATORY, every run)
+
+Directly fetch each of these four homepages and read every visible headline:
+- Hyperallergic — hyperallergic.com
+- The Art Newspaper — theartnewspaper.com
+- ARTnews — artnews.com
+- NYT Arts — nytimes.com/section/arts (if the direct fetch is blocked, substitute a targeted site search for the day's NYT arts coverage and note the substitution)
+
+Fetch each at 8,000–10,000 tokens. List every headline with a one-word notation — relevant / already-logged / not-relevant — then state the count: "X scanned, Y relevant, Z already logged, W new."
+
+This step is NOT satisfied by ingest.py / the RSS feed. RSS is a narrow, time-windowed slice; the homepage shows what editors are featuring across several days, including stories older than the RSS window and stories the dragnet keywords would never match. Run it as its own step, every day, regardless of what ingest.py returned.
+
 ## Step 2 — Run the scan (per CLAUDE.md, as one unattended pass)
 
 1. **RSS baseline:** run `python scan/ingest.py`. This refreshes
