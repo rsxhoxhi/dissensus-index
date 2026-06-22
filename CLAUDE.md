@@ -106,9 +106,33 @@ An entry can carry zero, one, or multiple theme tags:
 
 ## 4. Broad tags (open vocabulary, grows organically)
 
-Censorship · Removal · Vandalism · Funding dispute · Deaccessioning · Legal challenge · Community objection · Repatriation · Political interference · Religious objection · Obscenity · Racial/ethnic sensitivity · Protest art · Copyright/ownership · Conservation · Architectural preservation · Demolition · Design controversy · Adaptive reuse · Landmark dispute · Historical erasure · Geopolitics · Security failure · Labor dispute · Institutional crisis · Political art · Resistance · Migration · Authenticity · Indigenous rights · Defamation · Art flipping · Financialization · Art market fraud · Market opacity
+Censorship · Removal · Vandalism · Funding dispute · Deaccessioning · Legal challenge · Community objection · Repatriation · Political interference · Religious objection · Obscenity · Racial/ethnic sensitivity · Protest art · Copyright/ownership · Conservation · Historic preservation · Demolition · Design controversy · Adaptive reuse · Landmark dispute · Historical erasure · Geopolitics · Security failure · Labor dispute · Institutional crisis · Political art · Resistance · Migration · Authenticity · Indigenous rights · Defamation · Art flipping · Financialization · Art market fraud · Market opacity · Cultural property destruction · Conflict zone · Iconoclasm · UNESCO World Heritage Site · Religious site · Archaeological site · AI
 
 New tags may be added when a case cluster warrants (e.g., Artist safety, Campus censorship).
+
+### Cultural-property-destruction cluster — tagging discipline
+
+- **`Cultural property destruction`** — umbrella for physical destruction or serious damage to objects or sites of *recognized* cultural, historical, religious, or archaeological significance. The floor is recognized significance — UNESCO status is sufficient but NOT required. NEVER apply to contested political monuments whose status as heritage is itself the dispute (Confederate, Franco): those are `Removal` / `Historical erasure` / `Iconoclasm`, and any "heritage" claim goes in the description attributed to a source, never in the Index's own tags.
+- **Cause/mode** (co-occur with the umbrella):
+  - **`Conflict zone`** — damage by military or paramilitary force, declared war or not.
+  - **`Iconoclasm`** — intentional destruction for ideological/political/religious reasons.
+  - **`Vandalism`** — destruction/defacement without that ideological framing.
+  - **`Demolition`** — destruction by an entity wielding authority to remove or destroy, including self-granted authority (e.g. Taliban / Bamiyan).
+- **Named-conflict** — one canonical string per conflict, the settled reference name: `Russia-Ukraine war`, `2026 Iran war`, `Sudan civil war`, `2026 Lebanon war`, `Yemeni civil war`. New conflicts take the same form. (For geographic-specialist filtering.)
+- **`UNESCO World Heritage Site`** — factual descriptor; add to any case involving a designated WHS.
+- **`Religious site`**, **`Archaeological site`** — optional site-type descriptors.
+- **`Conservation`** — only where the conservation work is *itself* contested (a divisive cleaning, a botched restoration). Not on a destruction case just because repair follows.
+- **`Historic preservation`** — only on *active, contested* preservation fights. Strip where it merely rides along on a destruction case.
+
+**Stays OUT of the umbrella:**
+- Vandalism/removal of *contemporary* public art (a mural, a recent sculpture, a gallery painting) → `Vandalism`/`Removal`, unless the work has recognized heritage stature.
+- A *threat* of destruction → `Historic preservation` + `[FOLLOW-UP PENDING]`; flip to the umbrella only if destruction actually happens.
+- War *disruption* without destruction → the named-conflict tag for context, NOT `Conflict zone`.
+- Looting framed primarily as repatriation/trafficking (objects recovered, not destroyed).
+
+### `AI` tag
+
+**`AI`** — axis marker: AI is materially at issue (generation, training data, deepfakes, attribution, AI in the market). Specifics ride on co-tags (`Copyright/ownership`, `Authenticity`, `Defamation`, `Financialization`). Use the single canonical `AI`; do not reintroduce the older `AI art` / `AI attribution` variants.
 
 ---
 
@@ -148,14 +172,14 @@ Check the newest item's timestamp during the scan; a pre-today timestamp is a st
 
 Broad multilingual sweep for the past 24 hours. Languages: English, Spanish, Portuguese, French, German, Italian, Arabic, Mandarin. (Sunday = all languages.) Log even thin; enrich on the trawl day.
 
-- **English:** art controversy, mural removed, censorship art, exhibition canceled, monument debate, museum protest, historic building demolished, landmark preservation dispute, architecture controversy, heritage building threatened, public sculpture controversy, public art removed, artwork relocation demanded, public art objection, sculpture planning objection, artwork damaged, sacred site damaged, archaeological site damaged, heritage site vandalized, restitution, repatriation, looted art returned, Nazi-looted art, art restitution lawsuit, antiquities trafficking, antiquities seized, auction withdrawn, auction halted, cultural patrimony claim, provenance dispute, deaccession sale dispute, sacred object returned
-- **Spanish:** controversia arte, mural removido, censura artística, exposición cancelada, monumento debate, edificio histórico demolido, patrimonio arquitectónico amenazado, escultura pública polémica, obra de arte retirada, restitución, repatriación, arte expoliado, subasta retirada, patrimonio cultural reclamado, antigüedades incautadas
-- **Portuguese:** controvérsia arte, mural removido, censura artística, exposição cancelada, edifício histórico demolido, patrimônio arquitetônico ameaçado, escultura pública polêmica, obra de arte removida, restituição, repatriação, arte saqueada, leilão retirado, patrimônio reivindicado
-- **French:** controverse art, censure artistique, exposition annulée, fresque polémique, bâtiment historique démoli, patrimoine architectural menacé, sculpture publique polémique, oeuvre d'art retirée, restitution, rapatriement, œuvre spoliée, vente retirée, patrimoine réclamé, antiquités saisies
-- **German:** Kunstskandal, Zensur Kunst, Ausstellung abgesagt, Denkmal Kontroverse, Denkmalschutz Kontroverse, historisches Gebäude Abriss, Kunstwerk entfernt, öffentliche Skulptur Streit, Restitution, Rückgabe, NS-Raubkunst, Beutekunst, Auktion zurückgezogen, Kulturgut-Rückforderung
-- **Italian:** controversia arte, censura artistica, mostra cancellata, murale rimosso, edificio storico demolito, patrimonio architettonico minacciato, scultura pubblica polemica, opera d'arte rimossa, restituzione, rimpatrio, opera trafugata, asta ritirata, patrimonio reclamato, antichità sequestrate
-- **Arabic:** جدل فني, رقابة فنية, إزالة جدارية, هدم مبنى تاريخي, تراث معماري مهدد, جدل نصب عام, إزالة عمل فني
-- **Mandarin:** 艺术争议, 审查艺术, 壁画拆除, 展览取消, 历史建筑拆除, 建筑遗产争议, 公共雕塑争议, 艺术品拆除
+- **English:** art controversy, mural removed, censorship art, exhibition canceled, monument debate, museum protest, historic building demolished, landmark preservation dispute, architecture controversy, heritage building threatened, public sculpture controversy, public art removed, artwork relocation demanded, public art objection, sculpture planning objection, artwork damaged, sacred site damaged, archaeological site damaged, heritage site vandalized, restitution, repatriation, looted art returned, Nazi-looted art, art restitution lawsuit, antiquities trafficking, antiquities seized, auction withdrawn, auction halted, cultural patrimony claim, provenance dispute, deaccession sale dispute, sacred object returned, AI art controversy, AI-generated art, generative AI art, deepfake art, AI training data lawsuit, artist AI copyright, AI art prize
+- **Spanish:** controversia arte, mural removido, censura artística, exposición cancelada, monumento debate, edificio histórico demolido, patrimonio arquitectónico amenazado, escultura pública polémica, obra de arte retirada, restitución, repatriación, arte expoliado, subasta retirada, patrimonio cultural reclamado, antigüedades incautadas, arte con IA, arte generado por IA, polémica IA arte, deepfake arte, derechos de autor IA
+- **Portuguese:** controvérsia arte, mural removido, censura artística, exposição cancelada, edifício histórico demolido, patrimônio arquitetônico ameaçado, escultura pública polêmica, obra de arte removida, restituição, repatriação, arte saqueada, leilão retirado, patrimônio reivindicado, arte com IA, arte gerada por IA, polêmica IA arte, deepfake arte, direitos autorais IA
+- **French:** controverse art, censure artistique, exposition annulée, fresque polémique, bâtiment historique démoli, patrimoine architectural menacé, sculpture publique polémique, oeuvre d'art retirée, restitution, rapatriement, œuvre spoliée, vente retirée, patrimoine réclamé, antiquités saisies, art IA, art généré par IA, polémique IA art, deepfake art, droit d'auteur IA
+- **German:** Kunstskandal, Zensur Kunst, Ausstellung abgesagt, Denkmal Kontroverse, Denkmalschutz Kontroverse, historisches Gebäude Abriss, Kunstwerk entfernt, öffentliche Skulptur Streit, Restitution, Rückgabe, NS-Raubkunst, Beutekunst, Auktion zurückgezogen, Kulturgut-Rückforderung, KI-Kunst, KI-generierte Kunst, KI Kunst Streit, Deepfake Kunst, KI Urheberrecht
+- **Italian:** controversia arte, censura artistica, mostra cancellata, murale rimosso, edificio storico demolito, patrimonio architettonico minacciato, scultura pubblica polemica, opera d'arte rimossa, restituzione, rimpatrio, opera trafugata, asta ritirata, patrimonio reclamato, antichità sequestrate, arte IA, arte generata dall'IA, polemica IA arte, deepfake arte, diritto d'autore IA
+- **Arabic:** جدل فني, رقابة فنية, إزالة جدارية, هدم مبنى تاريخي, تراث معماري مهدد, جدل نصب عام, إزالة عمل فني, فن الذكاء الاصطناعي, جدل الذكاء الاصطناعي, تزييف عميق فني
+- **Mandarin:** 艺术争议, 审查艺术, 壁画拆除, 展览取消, 历史建筑拆除, 建筑遗产争议, 公共雕塑争议, 艺术品拆除, 人工智能艺术, AI生成艺术, AI艺术争议, 深度伪造
 
 ### Part 2 — Trawl (rotates daily; a rule, not a suggestion)
 
