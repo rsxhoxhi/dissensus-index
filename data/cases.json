@@ -8,9 +8,112 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-22",
     "methodology_version": "1.0",
-    "total_cases": 420
+    "total_cases": 427
   },
   "cases": [
+    {
+      "id": "ACI-195",
+      "entry_id": "195",
+      "seq": 435,
+      "title": "Memory and territorial-defense murals, Puerta del Sol (Bucaramanga) — painted over in gray",
+      "artist": "Various (urban artists / social organizations)",
+      "institution": "Public space, Puerta del Sol, Bucaramanga (Santander)",
+      "country": "Colombia",
+      "governance_type": "Democracy",
+      "date_controversy": "April 18, 2025 (erasure); June 19, 2026 (subsequent erasure)",
+      "date_discovered": "2026-06-23",
+      "sort_date": "2025-04-18",
+      "description": "Murals painted on June 14, 2026 on the walls of the Puerta del Sol in Bucaramanga, Santander — addressing defense of the Santurbán páramo, the memory of victims of state crimes, and other social struggles — were completely covered with gray paint on the morning of June 19 by unidentified people; campaigners say video shows the work carried out at night. The National Movement of Victims of State Crimes (Movice), together with social, environmental, cultural and human-rights organizations, publicly denounced the erasure as censorship and \"symbolic violence\" meant to restrict ideas in public space. They describe a systematic pattern since December 2024 of murals with social, environmental and historical-memory content at the same location being covered in gray paint days after creation.",
+      "outcome": "Murals erased June 19, 2026; Movice and allied organizations issued a public denunciation; no party has claimed responsibility and no municipal response is reported. [FOLLOW-UP PENDING: identification of those responsible; any municipal or police response]",
+      "tags": "Censorship, Removal, Historical erasure, Political art, Resistance",
+      "court_case": "No",
+      "coverage_tier": "Regional",
+      "outlets": [
+        "El Espectador",
+        "Movice"
+      ],
+      "source": "https://www.elespectador.com/colombia/mas-regiones/borraron-por-cuarta-vez-mural-de-las-cuchas-tienen-razon-en-bucaramanga/",
+      "stage": 2,
+      "stage_label": "Escalating",
+      "themes": [
+        7,
+        9
+      ],
+      "notes": "Cross-ref 137 / 137-A (Cali municipal mural-erasure): same Colombian pattern of recurring social-memory mural erasure. Single-source at logging (Movice denunciation, a participant) — flag for enrichment with independent Colombian press before treating specifics as established. [FOLLOW-UP PENDING]",
+      "interested_parties": "Movice (National Movement of Victims of State Crimes); Santurbán páramo defense campaigners; Bucaramanga urban artists",
+      "coverage_geography": "Colombia",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-194",
+      "entry_id": "194",
+      "seq": 434,
+      "title": "Two pre-Columbian artefacts in Sotheby's 'Art of Africa, Oceania and the Americas' sale — Mexico demands withdrawal",
+      "artist": "N/A (pre-Columbian objects)",
+      "institution": "Sotheby's New York; INAH (Mexico)",
+      "country": "Mexico",
+      "governance_type": "Democracy",
+      "date_controversy": "June 16–18, 2026",
+      "date_discovered": "2026-06-23",
+      "sort_date": "2026-06-18",
+      "description": "Ahead of Sotheby's New York \"Art of Africa, Oceania and the Americas\" sale on June 18, 2026, Mexico's secretary of culture Claudia Curiel de Icaza called on the auction house to withdraw two pre-Columbian artefacts — including a small ceramic figure in ceremonial regalia (c. AD 550–950, estimated $5,000–$7,000) — stating that the National Institute of Anthropology and History (INAH) had analysed the works and determined they form part of Mexico's national cultural heritage. She said \"necessary actions\" had been taken to demand their withdrawal and restitution but did not specify them. Sotheby's did not publicly comment and the sale proceeded; the Center for Art Law reported the pre-Columbian offerings drew low figures. The demand echoes a 2021 case in which Mexico unsuccessfully sought the withdrawal of more than 20 works from a comparable Sotheby's auction.",
+      "outcome": "Sale proceeded on June 18, 2026 despite Mexico's demand for withdrawal; Mexico continues to seek restitution. [FOLLOW-UP PENDING: restitution actions; any Interpol/attorney-general referral or legal step]",
+      "tags": "Repatriation, Provenance dispute, Art and Capital",
+      "court_case": "Pending",
+      "coverage_tier": "International",
+      "outlets": [
+        "The Art Newspaper",
+        "UPI",
+        "Center for Art Law",
+        "Mexico News Daily"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/06/17/mexico-opposes-sothebys-auction-pre-columbian-artefacts",
+      "stage": 4,
+      "stage_label": "Active",
+      "themes": [
+        5,
+        10
+      ],
+      "notes": "Source-nation heritage claim vs. auction market. Cross-ref 099 (Mayuy lintel), 067 (Tlali), 140 (Chichén Itzá), 135/120 (San José galleon) and the broader INAH repatriation pattern. 2021 precedent: a comparable demand failed and the sale went ahead. [FOLLOW-UP PENDING]",
+      "interested_parties": "Claudia Curiel de Icaza (Mexico secretary of culture); INAH; Sotheby's New York; Mexican foreign ministry",
+      "coverage_geography": "Mexico, US, international",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-193",
+      "entry_id": "193",
+      "seq": 433,
+      "title": "Ghanaian cultural objects — Netherlands and Germany agree to return ~2,000 artefacts",
+      "artist": "N/A (cultural heritage objects)",
+      "institution": "Wereldmuseum (Netherlands); German state museums; Ghana Museums and Monuments Board",
+      "country": "Ghana",
+      "governance_type": "Democracy",
+      "date_controversy": "June 17–19, 2026",
+      "date_discovered": "2026-06-23",
+      "sort_date": "2026-06-19",
+      "description": "At the High-Level Consultative Conference on Next Steps to the UN Resolution on the Trafficking of Enslaved Africans, held in Accra from June 17–19, 2026 and hosted by Ghanaian President John Dramani Mahama, the Netherlands committed to return 2,000 cultural objects identified within its collections to Ghana, and Germany said it was prepared to return four objects from Pando in Ghana's Volta Region — two war drums and two war horns associated with the Dagadu rulers — presenting a catalogue documenting provenance research. The commitments followed the UN's March 25, 2026 declaration that the trafficking of enslaved Africans constituted the \"gravest crime against humanity,\" and rank among the larger restitution commitments made to Ghana in recent years.",
+      "outcome": "Restitution commitments announced at the Accra conference (June 2026); physical returns, final object inventories, and logistics remain to be arranged. [FOLLOW-UP PENDING: execution of the returns; confirmed object lists and timelines]",
+      "tags": "Repatriation, Geopolitics",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "The Art Newspaper",
+        "ARTnews",
+        "Xinhua",
+        "MyJoyOnline",
+        "Adom Online"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/06/23/the-netherlands-and-germany-to-return-more-than-2000-cultural-artefacts-to-ghana",
+      "stage": 4,
+      "stage_label": "Active",
+      "themes": [
+        5
+      ],
+      "notes": "Repatriation cluster anchor (analytically relevant resolution). Cross-ref 035 (French restitution-framework law), 047 (Sudan museums), 059 (Koh-i-Noor), 179 (Khmer sculptures). Part of the post-UN-resolution (March 25, 2026) restitution momentum. [FOLLOW-UP PENDING: execution]",
+      "interested_parties": "President John Dramani Mahama; Netherlands government; German government; Ghana Museums and Monuments Board; Dagadu royal house (Volta Region)",
+      "coverage_geography": "Ghana, Netherlands, Germany, international",
+      "follow_up_pending": true
+    },
     {
       "id": "ACI-005-AN",
       "entry_id": "005-AN",
@@ -262,7 +365,7 @@
       "date_discovered": "2026-06-17",
       "sort_date": "2026-06-17",
       "description": "\"Persistence\" is a 40-minute video installation by Turner Prize-winning artist Helen Cammock, displayed at the National Portrait Gallery (London) as part of the \"Artists First\" project, on display until August 2, 2026. The work's narration characterizes Winston Churchill's role in the 1943 Bengal famine as wilful mass starvation used as a weapon of war. In mid-June 2026, Churchill biographer Lord Andrew Roberts and more than 50 peers — including Churchill's grandson Lord Soames — wrote to the NPG board. Roberts accused the gallery of telling 'a barefaced lie' and described the film as 'an ideologically motivated rant' (his phrases); the peers' letter characterized the claim about Churchill as \"foul and vile\" (their phrase). The NPG responded on free-expression grounds, stating that displaying a work does not constitute endorsement of its claims. Cammock defended the work, telling the Guardian it is \"not a documentary\" but \"a creative work that explores ideas and thoughts in response to the National Portrait Gallery\" and its collection — a piece concerned with which figures are honoured and whose stories get told (Cammock, Guardian, 16 June 2026). Churchill's degree of personal responsibility for the 1943 Bengal famine — in which an estimated 2–3 million people died — is a contested historical question. Roberts cites the October 1942 typhoon as the primary cause and Churchill's efforts to secure grain shipments from the US, Canada, and Australia. The policy-causation argument, holding that wartime decisions materially caused the famine, is supported in peer-reviewed scholarship including a study in Geophysical Research Letters. This entry records the dispute; it does not adjudicate the historical question or endorse either side's characterization.",
-      "outcome": "NPG board received letter from Lord Roberts and 50+ peers in mid-June 2026. Roberts accused the gallery of telling 'a barefaced lie' and described the film as 'an ideologically motivated rant' (his phrases); the peers' letter characterized the claim as \"foul and vile\" (their phrase). NPG defended display on free-expression grounds; no decision to remove the work announced. Cammock defended the work as \"not a documentary\" but a creative response to the NPG's collection and the question of which figures are honoured (Guardian, 16 June 2026). Work remains on display until August 2, 2026. [FOLLOW-UP PENDING: formal NPG board response; whether work remains through August 2 end date]",
+      "outcome": "NPG board received a letter from Lord Roberts and 50+ peers in mid-June 2026. Roberts accused the gallery of telling 'a barefaced lie' and called the film 'an ideologically motivated rant' (his phrases); the peers' letter called the claim 'foul and vile' (their phrase). NPG defended display on free-expression grounds. Cammock defended the work as a creative response rather than a documentary. On June 23, 2026 Cammock withdrew the work from display, ahead of its August 2 end date, framing the removal as a refusal of external pressure (see 190-A).",
       "tags": "Political art, Public objection, Institutional responsibility",
       "court_case": "No",
       "coverage_tier": "National",
@@ -282,7 +385,43 @@
       "notes": "",
       "interested_parties": "",
       "coverage_geography": "",
-      "follow_up_pending": true
+      "follow_up_pending": false
+    },
+    {
+      "id": "ACI-190-A",
+      "entry_id": "190-A",
+      "seq": 431,
+      "title": "Helen Cammock withdraws \"Persistence\" from the National Portrait Gallery",
+      "artist": "Helen Cammock",
+      "institution": "National Portrait Gallery (London)",
+      "country": "United Kingdom",
+      "governance_type": "Democracy",
+      "date_controversy": "June 23, 2026",
+      "date_discovered": "2026-06-23",
+      "sort_date": "2026-06-23",
+      "description": "On June 23, 2026, Turner Prize-winning artist Helen Cammock removed her 40-minute video installation \"Persistence\" from the National Portrait Gallery, days after the gallery received an open letter from Churchill biographer Lord Andrew Roberts and more than 50 peers — including Churchill's grandson Lord Soames — objecting to the work's characterization of Churchill's role in the 1943 Bengal famine. The NPG had defended displaying the work on free-expression grounds. Announcing the withdrawal, Cammock said: \"there is an incredible pressure on artists and arts institutions to bend to external pressure. I do not accept this pressure. To question, challenge and explore ideas and histories is vital to a healthy society and art is intrinsic to this.\" The work had been scheduled to remain on display until August 2, 2026.",
+      "outcome": "Work withdrawn by the artist on June 23, 2026, more than five weeks ahead of its August 2 end date. Cammock framed the removal as a refusal of external pressure rather than acceptance of the objections.",
+      "tags": "Removal, Censorship, Political art, Public objection",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "PA Media",
+        "The Telegraph",
+        "The Guardian",
+        "Far Out Magazine"
+      ],
+      "source": "https://www.aol.com/articles/national-portrait-gallery-display-withdrawn-211831000.html",
+      "stage": 5,
+      "stage_label": "Resolved",
+      "themes": [
+        3,
+        4,
+        9
+      ],
+      "notes": "Sub-entry of 190; resolves the parent's open question on whether the work would remain through August 2 — it was withdrawn early by the artist, not by an NPG board decision. Soft-censorship / anticipatory-obedience frame: institution defended the work but the artist withdrew it under sustained pressure. Cf. 166 (pressure on institutions/faculty).",
+      "interested_parties": "Helen Cammock; National Portrait Gallery; Lord Andrew Roberts; Lord Soames (Churchill's grandson); 50+ peers",
+      "coverage_geography": "UK",
+      "follow_up_pending": false
     },
     {
       "id": "ACI-063-A",
@@ -364,7 +503,7 @@
       "date_discovered": "June 16, 2026",
       "sort_date": "2026-06-16",
       "description": "TxDOT — acting on Gov. Greg Abbott’s Oct. 8, 2025 directive to remove \"political ideologies\" from roadways (mirroring the July 2025 federal \"SAFE ROADS Initiative\" under US DOT Sec. Sean Duffy/FHWA) and a new Texas MUTCD clause banning road markings with \"political or advocacy messages of any nature\" — denied Austin’s Nov. 2025 request to keep ~15 decorative street markings. A May 18, 2026 TxDOT letter to Austin Transportation & Public Works director Richard Mendoza declared six locations non-compliant, including the \"Black Artists Matter\" mural (E. 11th St), the W. 4th St rainbow Pride crosswalk, and the \"TEXAS\" mural on Guadalupe St near UT Austin, and ordered the city to submit a removal timeline/action plan by June 22, 2026 or risk losing state and federal road funding (~$175M+ in grants). The city says it will comply; community members call it \"erasure\" of history and expression.",
-      "outcome": "Exemption request denied (TxDOT letter, May 18, 2026). City ordered to submit a removal time frame and action plan by June 22, 2026 or risk losing state/federal road funding. Mayor Watson says Austin will comply while pursuing \"creative\" alternatives on city-owned infrastructure (banners along Bettie Naylor St, painted sidewalks, utility-pole fixtures). Zilker \"Fairy Alley\" allowed to fade over time; some sites may remain if made compliant with curbing/improvements. Community objection ongoing; red paint was previously thrown on the rainbow crosswalk (counter-protest vandalism).",
+      "outcome": "Exemption request denied (TxDOT letter, May 18, 2026). City ordered to submit a removal time frame and action plan by June 22, 2026 or risk losing state/federal road funding. Mayor Watson says Austin will comply while pursuing \"creative\" alternatives on city-owned infrastructure (banners along Bettie Naylor St, painted sidewalks, utility-pole fixtures). Zilker \"Fairy Alley\" allowed to fade over time; some sites may remain if made compliant with curbing/improvements. Community objection ongoing; red paint was previously thrown on the rainbow crosswalk (counter-protest vandalism). The June 22, 2026 removal-plan deadline arrived and the city held farewell ceremonies for the rainbow crosswalks on June 20 (see 188-A). [FOLLOW-UP PENDING: physical removal of the markings; alternatives on city-owned infrastructure]",
       "tags": "Removal, Censorship, Funding dispute, Political interference, Racial/ethnic sensitivity, Public art, Historical erasure",
       "court_case": "No",
       "coverage_tier": "National",
@@ -387,6 +526,42 @@
       "notes": "[FOLLOW-UP PENDING] Tuesday US Local trawl find (June 16, 2026). Governance friction + externalised censorship: removal compelled not by a direct content ban but by funding conditionality (federal/state road-funding leverage) — the V&A/Venice funding-withdrawal pattern transposed to US municipal road art. Top-down iconoclasm (Gamboni). \"Creative compliance\" — relocating expression to fully city-owned infrastructure to evade the TMUTCD rule — is a notable institutional adaptation worth tracking. Cluster: the same Abbott/TxDOT campaign forced removal of Laredo’s \"Defund the Wall\" mural (2025, council voted removal under a ~$1.6B road-funding threat; available for backfill); pairs with the DC BLM mural removal (March 2026; see 038 cluster context) and the Florida Pulse rainbow-crosswalk removal (Aug 2025). Compare 173 (Palo Alto BLM mural — community/police objection), 010 (Sarasota sidewalk art), 009 (Zarutska memorial murals). Note Theme 9 inverts here: the community defends the work while the state compels removal. Enrich on a future US Local trawl with artist attribution for the \"Black Artists Matter\" mural and the city’s submitted June 22 plan.",
       "interested_parties": "City of Austin (Mayor Kirk Watson; Transportation & Public Works dir. Richard Mendoza; Public Spaces Task Force); Texas Department of Transportation (TxDOT) / Texas Transportation Commission; Gov. Greg Abbott; US DOT / FHWA (Sec. Sean Duffy, \"SAFE ROADS Initiative\"); Austin LGBTQ+ and Black community members and artists",
       "coverage_geography": "Austin/Texas local (KUT, KVUE, KCEN, FOX 7 Austin, KXAN, Texas Politics) + national arts press (ARTnews)",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-188-A",
+      "entry_id": "188-A",
+      "seq": 430,
+      "title": "Austin street murals — June 22 removal-plan deadline arrives; farewell ceremonies for rainbow crosswalks",
+      "artist": "Various (Austin street artists / community)",
+      "institution": "City of Austin; TxDOT",
+      "country": "USA",
+      "governance_type": "Democracy (trajectory: democracy under illiberal pressure)",
+      "date_controversy": "June 20–22, 2026",
+      "date_discovered": "2026-06-23",
+      "sort_date": "2026-06-22",
+      "description": "The June 22, 2026 deadline arrived for Austin to submit a plan to remove six street markings TxDOT designated non-compliant — including the \"Black Artists Matter\" mural (E. 11th St), the W. 4th St rainbow Pride crosswalk, and the \"TEXAS\" mural on Guadalupe St — after the state's final denial of the city's request to keep them. Ahead of the deadline, city leaders held farewell ceremonies for the rainbow crosswalks on June 20. Councilmember Zo Qadri said the city should not be forced to choose between honoring historically marginalized communities and receiving state transportation funding, calling the crosswalk and mural public expressions of inclusion and equity.",
+      "outcome": "Removal-plan deadline arrived June 22, 2026; farewell ceremonies held for the rainbow crosswalks June 20; the city has said it will comply while pursuing alternatives on city-owned infrastructure. [FOLLOW-UP PENDING: actual removal of the markings; whether any sites are retained or relocated]",
+      "tags": "Removal, Censorship, Political interference, Historical erasure, Community objection",
+      "court_case": "No",
+      "coverage_tier": "Regional",
+      "outlets": [
+        "KXAN",
+        "Spectrum News",
+        "CBS Austin",
+        "KUT"
+      ],
+      "source": "https://www.kxan.com/news/local/austin/city-leaders-hold-farewell-ceremonies-for-road-murals-ahead-of-removal-plan-deadline/",
+      "stage": 3,
+      "stage_label": "In process",
+      "themes": [
+        2,
+        6,
+        9
+      ],
+      "notes": "Sub-entry of 188. Documents the arrival of the June 22 removal-plan deadline and the June 20 farewell ceremonies. Part of the Abbott/TxDOT roadway-marking removal program; cf. BLM street-mural cases (173). [FOLLOW-UP PENDING: physical removal]",
+      "interested_parties": "Gov. Greg Abbott; TxDOT; City of Austin; Mayor Kirk Watson; Councilmember Zo Qadri",
+      "coverage_geography": "US",
       "follow_up_pending": true
     },
     {
@@ -8844,7 +9019,7 @@
       "date_discovered": "May 11, 2026",
       "sort_date": "2026-05-11",
       "description": "After an 11-year legal battle, NY Supreme Court Judge Joel M. Cohen ruled April 3, 2026 that billionaire art dealer David Nahmad must return Modigliani's Seated Man with a Cane (1918) to the estate of Oscar Stettiner, a Jewish antiques dealer whose Paris gallery was looted during the Nazi occupation. Nahmad's Panamanian holding company, International Art Center S.A., purchased the painting at Christie's London in 1996 for £2M; it has been in a Geneva freeport since. The Panama Papers (2016) revealed Nahmad as the holding company's sole owner after years of denial. Cohen found the painting identical to the looted work and that Stettiner 'never voluntarily relinquished it.' He criticized Christie's 1996 provenance catalog as 'flawed and misleading — whether by error or design.' On May 5, Nahmad filed a motion to review, citing a newly published Modigliani catalogue raisonné by Marc Restellini and eyewitness testimony claiming Mondex misidentified the painting.",
-      "outcome": "Ruling entered April 3, 2026 ordering return. Nahmad filed motion to review May 5. Return not yet executed. [FOLLOW-UP PENDING]",
+      "outcome": "Ruling entered April 3, 2026 ordering return; Nahmad filed a motion to review May 5. On June 16, 2026 the court set a 30-day deadline for the return and Nahmad's lawyers said they will appeal (see 080-A). Return not yet executed. [FOLLOW-UP PENDING]",
       "tags": "Repatriation, Legal challenge, Art market, Authenticity, Geopolitics",
       "court_case": "Yes",
       "coverage_tier": "International",
@@ -8866,6 +9041,41 @@
       "notes": "[FOLLOW-UP PENDING] Ruling missed in April sessions — retroactive parent entry. The Panama Papers connection is teachable for ARTH 201: the offshore freeport system that enabled Nahmad to obscure ownership for 20 years while a Nazi-looted painting sat in Geneva's tax-free warehouse is the financialization-of-art theme at its most concrete. Judge Cohen's criticism of Christie's 1996 provenance parallels entry 056 (Wildenstein/Monet) — both involve auction houses whose due diligence enabled contested works to enter the market. Restellini told The Art Newspaper he had 'serious doubts' about a provenance link and suggested thorough investigation — neither confirming nor denying the Nahmad motion. Connects to entries 061 (US-Italy repatriation), 035 (French repatriation law). Theme 5 and Theme 10 both apply.",
       "interested_parties": "Judge Joel M. Cohen (NYSSC); Philippe Maestracci (Stettiner's grandson, claimant); James Palmer / Mondex (restitution specialists); David Nahmad (defendant); International Art Center S.A. (Nahmad holding company); Christie's (criticized for 1996 provenance); Marc Restellini (catalogue raisonné author); Geri S. Krauss and Philip Landrigan (Stettiner counsel); ICIJ / Panama Papers",
       "coverage_geography": "US, France, UK, Europe, global arts press",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-080-A",
+      "entry_id": "080-A",
+      "seq": 429,
+      "title": "Seated Man with a Cane (1918) — NY court sets 30-day return deadline; Nahmad to appeal",
+      "artist": "Amedeo Modigliani",
+      "institution": "New York Supreme Court; International Art Center S.A.",
+      "country": "USA",
+      "governance_type": "Democracy",
+      "date_controversy": "June 16, 2026 (30-day deadline)",
+      "date_discovered": "2026-06-23",
+      "sort_date": "2026-06-16",
+      "description": "On June 16, 2026, NY Supreme Court Justice Joel M. Cohen ordered dealer David Nahmad to return Modigliani's Seated Man with a Cane (1918) within 30 days to Philippe Maestracci, grandson of the late Jewish dealer Oscar Stettiner, whose Paris collection was seized after he fled the 1939 Nazi occupation. The order follows Cohen's April 3, 2026 ruling that the painting be restituted, which had not set a timeline. The work, bought by Nahmad's family at Christie's in 1996, is today valued at more than $25 million. Nahmad's lawyers said they will appeal, arguing the decision was reached without eyewitness testimony and that the work taken from Stettiner was not Seated Man with a Cane.",
+      "outcome": "Court set a 30-day deadline for return on June 16, 2026; Nahmad's lawyers stated they will appeal. Return not yet executed. [FOLLOW-UP PENDING: appeal filing; whether the return is carried out within the 30-day window]",
+      "tags": "Repatriation, Legal challenge, Provenance dispute, Geopolitics",
+      "court_case": "Yes",
+      "coverage_tier": "International",
+      "outlets": [
+        "The Art Newspaper",
+        "ARTnews",
+        "Artforum",
+        "Artlyst"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/06/17/david-nahmad-given-30-days-return-nazi-looted-modigliani",
+      "stage": 4,
+      "stage_label": "Active",
+      "themes": [
+        5,
+        10
+      ],
+      "notes": "Sub-entry of 080. Develops the April 3 restitution ruling with a 30-day return deadline (June 16, 2026) and Nahmad's stated intent to appeal. Freeport/financialization and auction-house provenance themes (cf. 056 Wildenstein/Monet). [FOLLOW-UP PENDING: appeal; execution of return]",
+      "interested_parties": "David Nahmad; International Art Center S.A.; Philippe Maestracci (Stettiner heir); Judge Joel M. Cohen; Mondex Corp.",
+      "coverage_geography": "US, Europe",
       "follow_up_pending": true
     },
     {
@@ -14168,6 +14378,41 @@
       "interested_parties": "Trump administration, Smithsonian Institution, Felipe Galindo Gómez, Hugo Crosthwaite, Rigoberto A. González",
       "coverage_geography": "US",
       "follow_up_pending": false
+    },
+    {
+      "id": "ACI-012-E",
+      "entry_id": "012-E",
+      "seq": 432,
+      "title": "Smithsonian — details of Lonnie Bunch's lunch with Trump revealed in Atlantic profile",
+      "artist": "N/A (institutional)",
+      "institution": "Smithsonian Institution",
+      "country": "USA",
+      "governance_type": "Democracy with significant authoritarian tendencies",
+      "date_controversy": "June 2026 (reporting)",
+      "date_discovered": "2026-06-23",
+      "sort_date": "2026-06-22",
+      "description": "A June 2026 Atlantic profile of Smithsonian Secretary Lonnie Bunch III by Clint Smith, summarized by ARTnews on June 23, 2026, detailed the previously opaque two-and-a-half-hour lunch between Bunch and President Trump. According to several unnamed White House and Smithsonian officials, the meeting featured no showdown over the Smithsonian's direction; Trump asked Bunch's opinion on four chandelier samples for the Oval Office, discussed his proposal to paint the Eisenhower Executive Office Building white, and did not raise the Smithsonian's telling of American history. The reporting describes Bunch as having largely complied with administration demands for internal documents while maintaining that he has not changed exhibits or curatorial materials in response.",
+      "outcome": "Reporting published June 2026; the White House–Smithsonian conflict is characterized as having \"turned to a simmer\" since the meeting. [FOLLOW-UP PENDING: board composition by fall; outcomes of the internal content review]",
+      "tags": "Political interference, Censorship, Institutional crisis",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "ARTnews",
+        "The Atlantic",
+        "The Washington Post"
+      ],
+      "source": "https://www.artnews.com/art-news/news/smithsonian-lonnie-bunch-trump-lunch-1234789992/",
+      "stage": 3,
+      "stage_label": "In process",
+      "themes": [
+        2,
+        4,
+        5
+      ],
+      "notes": "Sub-entry of 012; enriches 012-D (Bunch curating/leading under political threat). Enrichment: the Bunch-Trump lunch itself occurred in August 2025; this June 2026 Atlantic profile surfaces retrospective details. The Atlantic article behind paywall—unable to verify new information. [FOLLOW-UP PENDING]",
+      "interested_parties": "Lonnie Bunch III; President Trump; Clint Smith (The Atlantic)",
+      "coverage_geography": "US",
+      "follow_up_pending": true
     },
     {
       "id": "ACI-011",
