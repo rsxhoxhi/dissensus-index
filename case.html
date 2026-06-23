@@ -49,7 +49,7 @@ async function loadCase() {
   document.title = `${c.id} — ${c.title} — The Dissensus Index`;
 
   const stageLabels = {1:'Watching',2:'Escalating',3:'In process',4:'Active',5:'Resolved'};
-  const tags = c.tags ? c.tags.split(',').map(t => `<span class="tag">${escHtml(t.trim())}</span>`).join('') : '';
+  const tags = c.tags ? c.tags.split(',').map(t => { const tg = t.trim(); return `<a class="tag" href="browse.html?tag=${encodeURIComponent(tg)}">${escHtml(tg)}</a>`; }).join('') : '';
 
   const sourceHtml = c.source && c.source !== 'nan'
     ? `<p style="margin-top:1rem;font-size:0.8rem;"><strong>Primary source:</strong> <a href="${escHtml(c.source)}" target="_blank" rel="noopener" style="color:var(--teal);word-break:break-all;">${escHtml(c.source)}</a></p>`

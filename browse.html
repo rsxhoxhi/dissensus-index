@@ -45,6 +45,8 @@
       <button class="filter-btn" data-stage="1" onclick="setStage(1,this)">1 · Watching</button>
     </div>
 
+    <div id="active-tag" class="active-tag-bar"></div>
+
     <p class="page-info" id="result-count" style="text-align:left;margin-bottom:0.75rem;"></p>
     <div id="browse-list"><p style="color:var(--ink-light);font-size:0.85rem;padding:1rem 0;">Loading…</p></div>
     <div class="pagination" id="pagination"></div>
@@ -57,7 +59,7 @@
 </div>
 
 <script>
-let allCases = [], filtered = [], currentPage = 1, activeStage = 0;
+let allCases = [], filtered = [], currentPage = 1, activeStage = 0, activeTag = '';
 const perPage = 50;
 
 async function loadData() {
@@ -69,6 +71,10 @@ async function loadData() {
   const params = new URLSearchParams(window.location.search);
   const q = params.get('q');
   if (q) document.getElementById('browse-search').value = q;
+
+  // Tag filter from URL (handoff from a clicked tag)
+  activeTag = params.get('tag') || '';
+  renderActiveTag();
 
   applyFilters();
 }
@@ -92,7 +98,9 @@ function applyFilters() {
       c.tags.toLowerCase().includes(q) ||
       c.description.toLowerCase().includes(q) ||
       c.id.toLowerCase().includes(q);
-    return stageOk && qOk;
+    const tagOk = !activeTag ||
+      (c.tags || '').split(',').map(t => t.trim()).includes(activeTag);
+    return stageOk && qOk && tagOk;
   });
   currentPage = 1;
   render();
@@ -139,6 +147,23 @@ function renderPagination() {
 }
 
 function goPage(n) { currentPage = n; render(); window.scrollTo(0,0); }
+
+function renderActiveTag() {
+  const el = document.getElementById('active-tag');
+  if (!el) return;
+  el.innerHTML = activeTag
+    ? `<span class="active-tag-chip">Tag: ${escHtml(activeTag)} <button class="active-tag-x" onclick="clearTag()" aria-label="Clear tag filter">\u00d7</button></span>`
+    : '';
+}
+
+function clearTag() {
+  activeTag = '';
+  const url = new URL(window.location);
+  url.searchParams.delete('tag');
+  history.replaceState({}, '', url);
+  renderActiveTag();
+  applyFilters();
+}
 
 function escHtml(s) {
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
