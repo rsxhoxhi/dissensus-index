@@ -1,51 +1,135 @@
 {
-  "generated_at": "2026-06-21T12:05:15.630011+00:00",
-  "window_hours": 48,
+  "generated_at": "2026-06-23T17:41:14.579105+00:00",
+  "window_hours": 96,
   "feed_summary": [
     {
       "feed": "Hyperallergic",
       "status": "ok",
       "total_in_feed": 15,
-      "in_window": 6,
-      "new_candidates": 6,
+      "in_window": 14,
+      "new_candidates": 14,
       "already_logged": 0
     },
     {
       "feed": "ARTnews",
       "status": "ok",
       "total_in_feed": 10,
-      "in_window": 1,
-      "new_candidates": 1,
+      "in_window": 10,
+      "new_candidates": 10,
       "already_logged": 0
     },
     {
       "feed": "The Art Newspaper",
       "status": "ok",
       "total_in_feed": 61,
-      "in_window": 1,
-      "new_candidates": 1,
+      "in_window": 15,
+      "new_candidates": 15,
       "already_logged": 0
     },
     {
       "feed": "Artforum",
       "status": "ok",
       "total_in_feed": 12,
-      "in_window": 0,
-      "new_candidates": 0,
+      "in_window": 7,
+      "new_candidates": 7,
       "already_logged": 0
     },
     {
       "feed": "The Guardian (art)",
       "status": "unreachable",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP 403"
     },
     {
       "feed": "NYT Arts",
       "status": "unreachable",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP 403"
     }
   ],
   "candidates": [
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Cranbrook Academy of Art Reopens Applications for Fall 2026",
+      "link": "https://hyperallergic.com/cranbrook-academy-of-art-reopens-applications-for-fall-2026/",
+      "published": "2026-06-23T16:30:44+00:00",
+      "summary": "The art institution is accepting applications from June 22 through August 15 for artists and designers considering graduate study."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "James Wagner, Insatiable Art Collector, Dies at 85",
+      "link": "https://hyperallergic.com/james-wagner-insatiable-art-collector-dies-at-85/",
+      "published": "2026-06-23T15:13:49+00:00",
+      "summary": "“His pursuit of knowledge knew no bounds, and he represented the very best of what might be considered the true collector’s spirit,” says artist Man Bartlett."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Trump’s Slimy Pool Breeds Memes",
+      "link": "https://hyperallergic.com/trumps-slimy-pool-breeds-memes/",
+      "published": "2026-06-23T10:00:27+00:00",
+      "summary": "An interview with Flavia Rando, Danielle De Jesus at the Knicks parade, and the great Reflecting Pool fiasco."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Marc Spiegler Got It All Wrong",
+      "link": "https://hyperallergic.com/marc-spiegler-got-it-all-wrong/",
+      "published": "2026-06-22T21:44:11+00:00",
+      "summary": "In a guest essay for the New York Times, the former Art Basel global director presented a vision of a Brave New Art World that has little to do with art and those who make it."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Historic Brooklyn Church Destroyed by “Devastating” Fire",
+      "link": "https://hyperallergic.com/historic-brooklyn-church-destroyed-by-devastating-fire/",
+      "published": "2026-06-22T21:42:05+00:00",
+      "summary": "The South Bushwick Community Church’s signature octagonal spire collapsed during a three-alarm blaze on Friday."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Capturing New York Pride at the Historic Knicks Parade",
+      "link": "https://hyperallergic.com/capturing-new-york-pride-at-the-historic-knicks-parade/",
+      "published": "2026-06-22T21:14:49+00:00",
+      "summary": "We ate bacon, egg, and cheese sandwiches and got to school by swiping MetroCards. We have our own language, style, and unmatched pride. We call NYC home."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Happy AlgaeBTQ+ Month From Trump’s Reflecting Pool Memes",
+      "link": "https://hyperallergic.com/happy-algaebtq-month-from-trumps-reflecting-pool-memes/",
+      "published": "2026-06-22T20:53:19+00:00",
+      "summary": "Internet denizens are lauding nature’s rebellion against the president’s failed plan to paint the iconic pool “American Flag Blue.”"
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "vanessa german’s Shrine to Forgotten Black Girls",
+      "link": "https://hyperallergic.com/vanessa-germans-shrine-to-forgotten-black-girls/",
+      "published": "2026-06-22T20:27:39+00:00",
+      "summary": "In new sculptures that vibrate with color and movement, the artist vivifies the stories of the girls who attempted to escape from a Louisville detention center in 1913."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "In a New Documentary, Artists Get Candid About AI",
+      "link": "https://hyperallergic.com/in-a-new-documentary-artists-get-candid-about-ai/",
+      "published": "2026-06-22T18:32:58+00:00",
+      "summary": "The short film from the Strategic National Arts Alumni Project is based on a survey of over 2,000 postsecondary arts graduates across the US."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "How the GW Corcoran Is Rethinking Interaction Design Education",
+      "link": "https://hyperallergic.com/how-the-gw-corcoran-is-rethinking-interaction-design-education/",
+      "published": "2026-06-22T15:00:45+00:00",
+      "summary": "The Interaction Design program at the George Washington University Corcoran School of Arts and Design is utilizing partnerships across DC to encourage its students to develop more inclusive design practices."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "By the Force of Flavia Rando's Presence",
+      "link": "https://hyperallergic.com/by-the-force-of-flavia-randos-presence/",
+      "published": "2026-06-22T14:30:24+00:00",
+      "summary": "Once a member of the Gay Liberation Front and Radicalesbians, the pathbreaking queer artist and educator continues to stir the pot."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Dear Dad",
+      "link": "https://hyperallergic.com/dear-dad/",
+      "published": "2026-06-22T10:00:44+00:00",
+      "summary": "Art for Father’s Day, new Georgia O’Keeffe documentary, and a chat with queer elder Rosalie Favell."
+    },
     {
       "source_feed": "Hyperallergic",
       "title": "Julie Mehretu, Claire Valdez, Arthur Jafa",
@@ -61,39 +145,172 @@
       "summary": "Immigrant dads, absent dads, flawed dads, fellow artist dads, adopted dads — these artworks explore all that a father figure can be."
     },
     {
-      "source_feed": "Hyperallergic",
-      "title": "15 Art Shows to See in Upstate New York This Summer",
-      "link": "https://hyperallergic.com/15-art-shows-to-see-in-upstate-new-york-this-summer/",
-      "published": "2026-06-19T16:00:46+00:00",
-      "summary": "James Turrell’s luminous visions, Agnes Martin’s nonconformist heroism, Anicka Yi’s micro-organic experiments, and much more."
-    },
-    {
-      "source_feed": "Hyperallergic",
-      "title": "Georgia O’Keeffe the Wanderer",
-      "link": "https://hyperallergic.com/georgia-okeeffe-the-wanderer/",
-      "published": "2026-06-19T15:00:42+00:00",
-      "summary": "A new documentary presents the artist as a perpetual voyager, generously highlighting her lesser-known work and combating myths about her relationship with Alfred Stieglitz."
-    },
-    {
-      "source_feed": "Hyperallergic",
-      "title": "Rosalie Favell and the Search for Herself",
-      "link": "https://hyperallergic.com/rosalie-favell-and-the-search-for-herself/",
-      "published": "2026-06-19T14:30:13+00:00",
-      "summary": "“I came out as a lesbian before I came out as an Indigenous woman,” the Métis artist told Hyperallergic."
-    },
-    {
-      "source_feed": "Hyperallergic",
-      "title": "A View From the Easel",
-      "link": "https://hyperallergic.com/a-view-from-the-easel-342/",
-      "published": "2026-06-19T14:00:04+00:00",
-      "summary": "“My studio is a manifestation of my coloring book at eight years old.”"
+      "source_feed": "ARTnews",
+      "title": "Paris Drug Bust Recovers Stolen $17 M. Picasso Canvas",
+      "link": "https://www.artnews.com/art-news/news/paris-drug-bust-recovers-stolen-picasso-1234790016/",
+      "published": "2026-06-23T17:11:20+00:00",
+      "summary": "The painting was reportedly stolen from a storage facility; the thief says he did it to highlight security flaws."
     },
     {
       "source_feed": "ARTnews",
-      "title": "Henry, Artist Nancy Shaver’s Collectibles Shop in Hudson, New York, Is Closing After 30 Years",
-      "link": "https://www.artnews.com/list/art-news/news/artist-nancy-shavers-shop-henry-to-close-1234789640/",
-      "published": "2026-06-20T09:02:00+00:00",
-      "summary": "As much an art project as a retail enterprise, the store will close July 15."
+      "title": "How Smithsonian Secretary Lonnie Bunch’s Lunch With Trump Actually Went Down",
+      "link": "https://www.artnews.com/art-news/news/smithsonian-lonnie-bunch-trump-lunch-1234789992/",
+      "published": "2026-06-23T14:45:11+00:00",
+      "summary": "The lunch quickly turned into a \"charm offensive\" by Trump."
+    },
+    {
+      "source_feed": "ARTnews",
+      "title": "Art Loss Register Recovers 17th-Century Flemish Painting Stolen in 2020",
+      "link": "https://www.artnews.com/art-news/news/art-loss-register-recovers-17th-century-flemish-painting-1234789995/",
+      "published": "2026-06-23T14:10:09+00:00",
+      "summary": "The painting recently sold at auction at Sotheby's."
+    },
+    {
+      "source_feed": "ARTnews",
+      "title": "Studio Museum’s Connie H. Choi Named Chief Curator of the Barnes Foundation",
+      "link": "https://www.artnews.com/art-news/news/connie-h-choi-chief-curator-barnes-foundation-1234789987/",
+      "published": "2026-06-23T14:05:00+00:00",
+      "summary": "She most recently curated a survey of Tom Lloyd and the museum's inaugural reopening collection hang."
+    },
+    {
+      "source_feed": "ARTnews",
+      "title": "Artist Helen Cammock Removes Controversial Video Referring to Churchill from London’s National Portrait Gallery: Morning Links for June 23, 2026",
+      "link": "https://www.artnews.com/art-news/news/helen-cammock-removes-controversial-video-morning-links-june-23-2026-1234789990/",
+      "published": "2026-06-23T13:15:52+00:00",
+      "summary": "Plus, sculptor Charles Hinman has died and a look at the top 10 sales at Art Basel."
+    },
+    {
+      "source_feed": "ARTnews",
+      "title": "The World’s First AI Art Museum Has a Strange Way of Honoring the Rainforest",
+      "link": "https://www.artnews.com/art-in-america/columns/worlds-first-ai-art-museum-dataland-rain-forest-refik-anadol-1234789962/",
+      "published": "2026-06-23T09:00:00+00:00",
+      "summary": "LA’s Dataland, run by Refik Anadol and Efsun Erkiliç primes visitors to mourn a dying ecosystem."
+    },
+    {
+      "source_feed": "ARTnews",
+      "title": "The Top Sales at Art Basel 2026, From a $2.3 M. Yves Klein to a $35 M. Picasso",
+      "link": "https://www.artnews.com/list/art-news/market/top-sales-art-basel-1234789900/",
+      "published": "2026-06-22T21:36:43+00:00",
+      "summary": "This year's fair was not short on seven- and eight-figure sales."
+    },
+    {
+      "source_feed": "ARTnews",
+      "title": "The Netherlands and Germany Agree to Return 2,000 Artifacts to Ghana",
+      "link": "https://www.artnews.com/art-news/news/netherlands-germany-return-2000-artifacts-ghana-1234789956/",
+      "published": "2026-06-22T21:20:57+00:00",
+      "summary": "The announcement was made at a recent conference in Accra."
+    },
+    {
+      "source_feed": "ARTnews",
+      "title": "Kennedy Center Tells Court It Won’t Reschedule Cancelled Shows, Even as Two-Year Closure Is Blocked",
+      "link": "https://www.artnews.com/art-news/news/kennedy-center-wont-reschedule-cancelled-shows-1234789932/",
+      "published": "2026-06-22T20:08:00+00:00",
+      "summary": "The institution could stay quiet in terms of public programming."
+    },
+    {
+      "source_feed": "ARTnews",
+      "title": "Israeli Artist Yaacov Agam, Known for His Optical and Kinetic Artworks, Has Died at 98",
+      "link": "https://www.artnews.com/art-news/news/israeli-kinetic-optical-artist-yaacov-agam-dies-1234789922/",
+      "published": "2026-06-22T20:06:25+00:00",
+      "summary": "Earlier this year he was awarded the Israel Prize for Visual Arts."
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "The Netherlands and Germany agree to return more than 2,000 cultural artefacts to Ghana",
+      "link": "https://www.theartnewspaper.com/2026/06/23/the-netherlands-and-germany-to-return-more-than-2000-cultural-artefacts-to-ghana",
+      "published": "2026-06-23T16:25:17+00:00",
+      "summary": "Details on the objects, taken unlawfully during colonial conquests, are yet to be announced"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "London Museum announces opening date for new Smithfield location",
+      "link": "https://www.theartnewspaper.com/2026/06/23/london-museum-announces-opening-date-for-new-smithfields-location",
+      "published": "2026-06-23T11:24:56+00:00",
+      "summary": "The revamped museum, which focuses on the history of the UK capital, will open to the public on 28 November 2026"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Mexican chef brings spirit of Frida Kahlo to Tate Modern pop up restaurant",
+      "link": "https://www.theartnewspaper.com/2026/06/23/mexican-chef-brings-spirit-of-frida-kahlo-to-tate-modern-pop-up-restaurant",
+      "published": "2026-06-23T10:51:55+00:00",
+      "summary": "Santiago Lastra is combining a love for the artist and his home cuisine in London this summer"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "From the Hamptons to Saint-Tropez: design fairs PAD and Nomad follow the sun",
+      "link": "https://www.theartnewspaper.com/2026/06/23/from-the-hamptons-to-saint-tropez-design-fairs-pad-and-nomad-follow-the-sun",
+      "published": "2026-06-23T10:14:53+00:00",
+      "summary": "Nomad co-founder and director Nicolas Bellavance-Lecompte describes the fair as “a resort concept”"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Ten years after Brexit vote, art market rules remain as messy as ever",
+      "link": "https://www.theartnewspaper.com/2026/06/23/ten-years-after-brexit-vote-art-market-rules-remain-as-messy-as-ever",
+      "published": "2026-06-23T08:38:18+00:00",
+      "summary": "The piecemeal approach to repealing and replacing EU regulations highlights the lack of a coherent policy"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Lacma's inaugural art parade celebrates new building and Los Angeles creative community",
+      "link": "https://www.theartnewspaper.com/2026/06/22/lacma-art-parade-david-geffen-galleries-artists",
+      "published": "2026-06-22T20:33:14+00:00",
+      "summary": "Artists and performers of all kinds flocked to Wilshire Boulevard for the city's first Art Parade"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "‘Artists need to be able to advocate for their own work’: new guide advises artists on navigating censorship",
+      "link": "https://www.theartnewspaper.com/2026/06/22/national-coalition-against-censorship-free-guide-for-artists",
+      "published": "2026-06-22T19:52:14+00:00",
+      "summary": "The free digital resource, from the National Coalition Against Censorship, comes as artists navigate an increasingly censorious cultural landscape"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Guerrilla-style museum tours reveal the history of climate change through art and heritage in Philadelphia",
+      "link": "https://www.theartnewspaper.com/2026/06/22/climate-change-museum-tours-philadelphia-aislinn-pentecost-farren-artphilly",
+      "published": "2026-06-22T17:48:35+00:00",
+      "summary": "The tours created and led by the artist and curator Aislinn Pentecost-Farren are part of the ArtPhilly 2026 festival"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "London’s Jewish Museum receives £1m funding boost and opens new temporary home",
+      "link": "https://www.theartnewspaper.com/2026/06/22/londons-jewish-museum-receives-£1m-funding-boost-and-opens-new-temporary-home",
+      "published": "2026-06-22T12:04:01+00:00",
+      "summary": "The Manchester Jewish Museum was meanwhile awarded £100,000"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Coffin plate of ‘the injured Queen of England’ heads to Treasure House Fair",
+      "link": "https://www.theartnewspaper.com/2026/06/22/silver-coffin-plate-of-the-injured-queen-of-england-heads-to-treasure-house-fair",
+      "published": "2026-06-22T11:58:17+00:00",
+      "summary": "According to dealer Martyn Downer, the silver plate of the exiled monarch could be “the only coffin plate of a Queen of England that will ever be on the market”"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "A Palais de Tokyo for London? Hypha Studios to open major exhibition and studio space near Tate Modern",
+      "link": "https://www.theartnewspaper.com/2026/06/22/a-palais-de-tokyo-for-london-hypha-studios-to-open-major-exhibition-and-studio-space-near-tate-modern",
+      "published": "2026-06-22T11:17:02+00:00",
+      "summary": "Opening to the public on 25 June, Hypha Gallery South Bank will feature 800 sq. m of gallery space"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Comment | Lismore Castle exhibition makes a creative case for more seating in galleries",
+      "link": "https://www.theartnewspaper.com/2026/06/22/comment-|-lismore-castle-exhibition-makes-a-creative-case-for-more-seating-in-galleries",
+      "published": "2026-06-22T10:22:30+00:00",
+      "summary": "The exhibition ‘Salon’ at the Irish venue features work by artists including Denzil Forrester and Margot Bergman, as well as an eccentric assortment of chairs"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Comment | Visiting Venice this year reminded me of the crushing power of painting",
+      "link": "https://www.theartnewspaper.com/2026/06/22/visiting-venice-offers-a-reminder-of-the-crushing-power-of-painting",
+      "published": "2026-06-22T10:05:31+00:00",
+      "summary": "From Old Masters like Tintoretto to contemporary Kantarovsky, the medium's brilliance shines across the city"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "A decade on: Brexit’s impact on the UK art market",
+      "link": "https://www.theartnewspaper.com/2026/06/21/a-decade-on-brexits-impact-on-the-uk-art-market",
+      "published": "2026-06-21T16:57:28+00:00",
+      "summary": "Experts weigh in on the effect that the 2016 vote to leave the EU has had on the trade"
     },
     {
       "source_feed": "The Art Newspaper",
@@ -101,6 +318,55 @@
       "link": "https://www.theartnewspaper.com/2026/06/21/a-multi-millionaire-on-a-mission-david-walsh-expands-his-museum-of-old-and-new-art",
       "published": "2026-06-21T08:11:23+00:00",
       "summary": "In an exclusive interview, the enigmatic collector and philanthropist discusses Anselm Kiefer’s inverted pyramid, oxygen molecules billions of years old—and why he has invented a completely new library categorisation system"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Connie Choi Named Chief Curator of Philadelphia’s Barnes Foundation",
+      "link": "https://www.artforum.com/news/connie-choi-named-chief-curator-of-barnes-foundation-1234753047/",
+      "published": "2026-06-23T15:57:49+00:00",
+      "summary": "The Barnes Foundation in Philadelphia has appointed art historian and educator Connie Choi chief curator and inaugural vice president for art and education, effective September 8. Choi arrives to the foundation from New York’s Studio Museum in Harlem, where she is a curator. She succeeds Nancy Ireso…"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Embattled National Trust for Historic Preservation Has A New President",
+      "link": "https://www.artforum.com/news/national-trust-for-historic-preservation-has-new-president-1234752685/",
+      "published": "2026-06-22T19:39:55+00:00",
+      "summary": "The currently highly put-upon National Trust for Historic Preservation nonprofit unanimously elected a new president, the organization announced on Monday. Brent Leggs, formerly the executive director of the African American Cultural Heritage Action Fund, will become the National Trust’s eleventh pr…"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Paris Drug Bust Nets Pilfered Picasso Worth Up to $17 Million",
+      "link": "https://www.artforum.com/news/paris-drug-bust-nets-pilfered-picasso-1234752741/",
+      "published": "2026-06-22T19:08:41+00:00",
+      "summary": "Police conducting what The Telegraph described as a “routine narcotics raid” at a suburban Paris home discovered a painting by Pablo Picasso that had been stolen from its Singapore-based owner, Artnet News reports. Valued at up to $17 million, the painting has not yet been publicly identified but is…"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Restoration of Parthenon’s Western Facade Is Unveiled",
+      "link": "https://www.artforum.com/news/western-facade-of-the-parthenon-restored-and-unobstructed-1234752681/",
+      "published": "2026-06-22T17:40:31+00:00",
+      "summary": "The western pediment of the Parthenon, one of the main attractions of the Acropolis of Athens, Greece, has been partially restored to its full splendor and was unveiled to the public last Thursday. The western flank of the temple is now viewable in the most complete state it’s been in in over two ce…"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Misfit’s Paradise Lost: Paul and Mara McCarthy on the life and times of LA’s The Box",
+      "link": "https://www.artforum.com/columns/misfits-paradise-lost-sarah-lehrer-graiwer-1234752708/",
+      "published": "2026-06-22T16:58:59+00:00",
+      "summary": "The influential pair sit down to discuss the history of their gallery, the circumstances that led to its closure, and why the art world is failing their model."
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "From the Archive: Arthur Jafa’s New Black Cinema",
+      "link": "https://www.artforum.com/columns/from-the-archive-arthur-jafa-new-black-cinema-1234752718/",
+      "published": "2026-06-22T16:47:49+00:00",
+      "summary": "Twenty-three years before releasing his breakout film&#160;Love Is the Message,&#160;The Message Is Death, and while still working primarily as a cinematographer, artist and filmmaker Arthur Jafa wrote a review of the Hughes brothers’&#160;Menace II Society&#160;in the Summer 1993 issue of&#160;Artf…"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Just Two Mourners Attend David Hockney’s Funeral",
+      "link": "https://www.artforum.com/news/only-two-mourners-attend-david-hockneys-funeral-1234752678/",
+      "published": "2026-06-22T15:57:32+00:00",
+      "summary": "Only two mourners were present at the funeral of renowned British figurative painter David Hockney, who died June 11 at the age of eighty-eight The Guardian reports. In accordance with the artist’s wishes, Hockney’s partner, Jean-Pierre Gonçalves de Lima, and his great-nephew, photographer Richard H…"
     }
   ]
 }
