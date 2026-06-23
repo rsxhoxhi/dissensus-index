@@ -522,3 +522,9 @@ a.tag:hover { background: var(--teal-light); border-color: var(--teal); color: v
 .active-tag-chip { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.7rem; letter-spacing: 0.04em; padding: 3px 6px 3px 10px; background: var(--teal-light); border: 0.5px solid var(--teal); border-radius: 3px; color: var(--teal-text); }
 .active-tag-x { background: none; border: none; cursor: pointer; color: var(--teal-text); font-size: 0.95rem; line-height: 1; padding: 0 2px; }
 .active-tag-x:hover { color: var(--teal); }
+
+
+/* Tag chips inside cards (browse + recent feed) */
+.docket-tags { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.4rem; }
+.tag[data-tag] { cursor: pointer; transition: background 0.1s, border-color 0.1s, color 0.1s; }
+.tag[data-tag]:hover { background: var(--teal-light); border-color: var(--teal); color: var(--teal-text); }

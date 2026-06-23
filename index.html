@@ -114,11 +114,17 @@ function renderRecent(cases) {
       <div class="docket-main">
         <div class="docket-title">${escHtml(c.title)}</div>
         <div class="docket-sub">${escHtml(c.institution || c.artist || '')}${c.country ? ' · ' + escHtml(c.country) : ''} · logged ${escHtml(c.date_discovered)}</div>
+        ${c.tags ? `<div class="docket-tags">${c.tags.split(',').map(t => { const tg = t.trim(); return `<span class="tag" data-tag="${escHtml(tg)}">${escHtml(tg)}</span>`; }).join('')}</div>` : ''}
       </div>
       <span class="stage-badge stage-${c.stage}">Stage ${c.stage} · ${c.stage_label}</span>
     </a>
   `).join('');
 }
+
+document.getElementById('recent-list').addEventListener('click', e => {
+  const chip = e.target.closest('.tag[data-tag]');
+  if (chip) { e.preventDefault(); location.href = 'browse.html?tag=' + encodeURIComponent(chip.dataset.tag); }
+});
 
 function liveSearch(val) {
   const q = val.toLowerCase().trim();
