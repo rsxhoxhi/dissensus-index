@@ -8,9 +8,143 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 430
+    "total_cases": 434
   },
   "cases": [
+    {
+      "id": "ACI-005-AO",
+      "entry_id": "005-AO",
+      "seq": 442,
+      "title": "Kennedy Center — judge orders status report on tarp and scaffolding covering the building's name",
+      "artist": "N/A (federal cultural institution)",
+      "institution": "John F. Kennedy Center for the Performing Arts",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "June 24, 2026 (order); tarp erected June 13, 2026",
+      "date_discovered": "2026-06-25",
+      "sort_date": "2026-06-24",
+      "description": "On June 24, 2026, US District Judge Christopher R. Cooper ordered the Kennedy Center to file a status report explaining the purpose and status of the tarp and scaffolding that have covered the front of the building since June 13, 2026, where the names of Presidents Trump and Kennedy had been displayed before the court-ordered removal of Trump's name. The order is part of the ongoing litigation over the 2025 board renaming and closure plans (see ACI-005 and sub-entries). Cooper directed that the report be filed within seven days of the Center's July board meeting or by July 31, 2026, whichever is earliest, and also requested an update on programming and public-access plans. The New York Times reported on June 23, 2026 that photographs taken behind the tarp showed no sign of Trump's name having been reinstated.",
+      "outcome": "Judge Cooper ordered the Kennedy Center to file a status report on the tarp and scaffolding, due within seven days of its July board meeting or by July 31, 2026, whichever is earliest. The tarp has remained in place since June 13, 2026. [FOLLOW-UP PENDING: tarp/scaffolding status report; July board vote on the three proposed closure scenarios.]",
+      "tags": "Political interference, Judicial oversight, Federal cultural institution, Legal challenge",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "NPR",
+        "The Washington Post",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "source": "https://www.npr.org/2026/06/24/nx-s1-5869578/kennedy-center-tarp",
+      "stage": 4,
+      "stage_label": "Active",
+      "themes": [
+        2,
+        4
+      ],
+      "notes": "Sub-entry of ACI-005 (Kennedy Center renaming / closure saga). Follows ACI-005-AK (Trump name physically removed June 13, 2026) and ACI-005-AN (June 19, 2026 status report proposing three closure scenarios for a mid-July board vote). [FOLLOW-UP PENDING]",
+      "interested_parties": "Judge Christopher R. Cooper; John F. Kennedy Center for the Performing Arts board; Trump administration; plaintiffs in the renaming litigation",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-200",
+      "entry_id": "200",
+      "seq": 441,
+      "title": "Museo de Memoria de Colombia (Bogotá) — future questioned after far-right candidate wins presidential runoff",
+      "artist": "N/A (national memory museum)",
+      "institution": "Museo de Memoria de Colombia / Centro Nacional de Memoria Histórica (CNMH)",
+      "country": "Colombia",
+      "governance_type": "Democracy (governance-trajectory annotation: incoming Trump-backed far-right administration; democracy under illiberal pressure)",
+      "date_controversy": "June 21, 2026 (presidential runoff); museum-future concern reported June 25, 2026",
+      "date_discovered": "2026-06-25",
+      "sort_date": "2026-06-25",
+      "description": "The Museo de Memoria de Colombia in Bogotá — a long-delayed national museum, overseen by the Centro Nacional de Memoria Histórica (CNMH), that archives the country's roughly 70-year armed conflict through victims' testimonies, artworks, legal documents, photography and audiovisual material — faces an uncertain future after the June 21, 2026 presidential runoff. Far-right, Trump-backed lawyer Abelardo de la Espriella won the runoff in a preliminary count (about 49.66% to Iván Cepeda's 48.70%); Cepeda has said the count is not yet official. Commentators and the museum's supporters have raised concern that an incoming right-wing government could reshape or suppress the museum's account of state violence, citing documented precedent: under a previous right-wing administration, CNMH director Darío Acevedo (2019–2022) removed documents and objects from the exhibition 'Voices to Transform Colombia,' and museum content has previously been edited to remove references to the armed conflict.",
+      "outcome": "Election result preliminary as of June 21–25, 2026 (de la Espriella ~49.66%); Cepeda has not conceded pending the official tally. No decision has been announced on the museum's mandate or contents under the incoming government. [FOLLOW-UP PENDING: certified election result; de la Espriella inauguration (August 2026) and any policy affecting the Museo de Memoria.]",
+      "tags": "Political interference, Historical erasure, Geopolitics",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "Hyperallergic",
+        "The Art Newspaper"
+      ],
+      "source": "https://hyperallergic.com/the-uncertain-future-of-colombias-museum-of-memory/",
+      "stage": 1,
+      "stage_label": "Watching",
+      "themes": [
+        4
+      ],
+      "notes": "Logged via Thursday Asia & Pacific trawl / multilingual dragnet; surfaced from The Art Newspaper homepage (June 25, 2026) and a Hyperallergic feature (Feb 27, 2026). Governance-friction frame: democracy under illiberal pressure (Trump-backed far-right president-elect). Cf. Latin American political-interference cluster. [FOLLOW-UP PENDING]",
+      "interested_parties": "President-elect Abelardo de la Espriella; outgoing President Gustavo Petro; Iván Cepeda; Centro Nacional de Memoria Histórica (CNMH); former CNMH director Darío Acevedo; armed-conflict victims",
+      "coverage_geography": "Colombia, US (international art press)",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-199",
+      "entry_id": "199",
+      "seq": 440,
+      "title": "Seoul Museum of Art (SeMA) — critic's catalogue essay excluded for criticising martial law; artists allege censorship",
+      "artist": "Nam Woong (남웅, art critic)",
+      "institution": "Seoul Museum of Art (SeMA / 서울시립미술관)",
+      "country": "South Korea",
+      "governance_type": "Democracy",
+      "date_controversy": "April–June 2026 (essay excluded April; museum statement June 19, 2026)",
+      "date_discovered": "2026-06-25",
+      "sort_date": "2026-06-19",
+      "description": "The Seoul Museum of Art (SeMA) commissioned the critic Nam Woong in January 2026 to write a catalogue essay for its group exhibition 'We Continuously Seep into Different Rivers' (우리는 끊임없이 다른 강에 스며든다), which opened on March 6, 2026. In April 2026 the museum informed Nam that the essay could not be included in the catalogue because it criticised South Korea's martial-law episode and was deemed 'not neutral.' Nam characterised the exclusion as censorship, saying the museum was 'depriving criticism of its place under the guise of neutrality.' Hundreds of critics and artists signed a statement demanding an apology, and the group Artists' Solidarity (예술인연대) accused the museum of recasting censorship as a 'misunderstanding in communication.' SeMA issued an official statement on June 19, 2026 saying there is no separate internal review process for catalogue manuscripts and that it had no intention of excluding the essay over a particular political event or viewpoint.",
+      "outcome": "SeMA issued a statement on June 19, 2026 denying any internal censorship process or intent to exclude the essay over its political viewpoint; the critic and signatory artists continue to characterise the exclusion as censorship. No reversal announced. [FOLLOW-UP PENDING: whether the essay is published or the decision reversed; resolution of the artists' statement campaign.]",
+      "tags": "Censorship, Institutional crisis",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "Sisun News (시선뉴스)",
+        "Hankook Ilbo (한국일보)",
+        "Newsis (뉴시스)"
+      ],
+      "source": "http://www.sisunnews.co.kr/news/articleView.html?idxno=225951",
+      "stage": 2,
+      "stage_label": "Escalating",
+      "themes": [
+        4
+      ],
+      "notes": "Logged via Thursday Asia & Pacific trawl (mandatory KO pass); Korean-language coverage, no Anglophone pickup found this run. Thin-but-tracked per the two-pass enrichment rule. [FOLLOW-UP PENDING]",
+      "interested_parties": "Nam Woong (critic); Seoul Museum of Art (SeMA); Artists' Solidarity (예술인연대); signatory critics and artists",
+      "coverage_geography": "South Korea",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-086-B",
+      "entry_id": "086-B",
+      "seq": 439,
+      "title": "Southbank Centre — Misan Harriman announces he will step down as chair",
+      "artist": "N/A (institutional / Southbank Centre board chair)",
+      "institution": "Southbank Centre",
+      "country": "United Kingdom",
+      "governance_type": "Democracy",
+      "date_controversy": "June 23, 2026",
+      "date_discovered": "2026-06-25",
+      "sort_date": "2026-06-23",
+      "description": "On June 23–24, 2026, Misan Harriman — photographer and chair of London's Southbank Centre since 2021 — announced that he would not seek a third term and would step down in autumn 2026. The announcement followed a media campaign by the Telegraph and Daily Mail that labelled him antisemitic, which he denies and which prompted an open letter in his defence signed by more than 100,000 people (see ACI-086 and ACI-086-A). Harriman said the decision predated 'this madness,' describing it as a planned two-term limit, and a Southbank Centre spokesperson said his exit had been planned since January 2026.",
+      "outcome": "Harriman announced he will not seek a third term and will step down as Southbank Centre chair in autumn 2026; the Southbank Centre said the exit had been planned since January 2026. He frames the departure as pre-planned rather than a response to the campaign. [FOLLOW-UP PENDING: actual departure in autumn 2026; successor appointment.]",
+      "tags": "Political interference, Soft censorship architecture, Self-censorship",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "Artforum",
+        "ARTnews",
+        "The Stage"
+      ],
+      "source": "https://www.artforum.com/news/misan-harriman-steps-down-as-southbank-centre-chair-1234753263/",
+      "stage": 3,
+      "stage_label": "In process",
+      "themes": [
+        2,
+        4
+      ],
+      "notes": "Sub-entry of ACI-086 / ACI-086-A (Harriman under media pressure; 100,000+ signed open-letter defence). Harriman frames the departure as pre-planned (two-term limit), not a response to the campaign — recorded as his stated rationale, not adopted as the Index's. [FOLLOW-UP PENDING]",
+      "interested_parties": "Misan Harriman; Southbank Centre board; signatories of the open-letter defence; the Telegraph and Daily Mail (named as parties to the campaign)",
+      "coverage_geography": "UK",
+      "follow_up_pending": true
+    },
     {
       "id": "ACI-198",
       "entry_id": "198",
