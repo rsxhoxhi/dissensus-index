@@ -37,6 +37,7 @@ Directly fetch each of these four homepages and read every visible headline:
 - The Art Newspaper — theartnewspaper.com
 - ARTnews — artnews.com
 - NYT Arts — nytimes.com/section/arts (if the direct fetch is blocked, substitute a targeted site search for the day's NYT arts coverage and note the substitution)
+- Washington Post — washingtonpost.com — primary outlet for DC/federal cultural coverage (GSA Fine Arts, the monumental core, federal museums, New Deal/WPA art). WaPo has no API and direct fetch is frequently blocked; attempt via a targeted site-scoped web search (e.g. site:washingtonpost.com plus the day's DC/federal terms). If unretrievable, record "WaPo likely relevant — could not retrieve" in the coverage report rather than omitting it silently. A blocked fetch never means there was no coverage.
 
 Fetch each at 8,000–10,000 tokens. List every headline with a one-word notation — relevant / already-logged / not-relevant — then state the count: "X scanned, Y relevant, Z already logged, W new."
 
@@ -88,6 +89,7 @@ this project is built around:
   dispute to that axis is an inference about motive.
 - **No over-hedging.** Don't pile on attribution disclaimers; plain accurate facts are
   enough.
+- **Source provenance — every cited source must be one you actually retrieved.** Every outlet named in a `source` or `outlets` field must have been directly fetched, or returned in a search result, during *this* run. If a source was not retrieved, it may not be listed — restrict the fields to the sources actually obtained, and note the limitation. Never add an outlet because it plausibly or probably covered the story. A real event with only one retrievable source gets one source, not a likely-looking list. Dates come from the retrieved article's own dateline or text, never from inference about relative time.
 - **All required fields**, per CLAUDE.md's field spec: id, entry_id, seq, title, artist,
   institution, country, governance_type, date fields, description, outcome, tags,
   court_case, coverage_tier, outlets, source, stage/stage_label, themes, notes,
@@ -107,7 +109,8 @@ On a new branch `claude/daily-YYYY-MM-DD`:
    nothing else.
 2. Validate: cases.json is still valid JSON, and the case count rose by exactly the
    number of new entries added.
-3. Open a PR titled **"Daily scan — YYYY-MM-DD (Day)"** whose description contains:
+3. Source check: for every new entry, confirm each listed source traces to an actual fetch or search result from this run. Any source that cannot be traced must be removed from the entry and flagged by name in the PR's "For your review" section ("ACI-XXX: listed outlet [name] not confirmed retrieved").
+4. Open a PR titled **"Daily scan — YYYY-MM-DD (Day)"** whose description contains:
    - **Summary:** "X scanned, Y relevant, Z already logged, W new."
    - **Coverage report:** which dragnet languages ran, which trawl, non-EN sources
      returned vs. logged.
@@ -115,7 +118,7 @@ On a new branch `claude/daily-YYYY-MM-DD`:
    - **For your review:** every judgment call the run wasn't sure about — borderline
      relevance, a tag that might near judgment, a possible duplicate, a thin entry
      needing enrichment. List these plainly so they can be settled on review.
-4. **Stop at the open PR.** Do not merge. Do not deploy.
+5. **Stop at the open PR.** Do not merge. Do not deploy.
 
 ## If the run can't finish
 
