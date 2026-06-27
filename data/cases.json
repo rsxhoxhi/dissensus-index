@@ -8,9 +8,107 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 434
+    "total_cases": 437
   },
   "cases": [
+    {
+      "id": "ACI-201",
+      "entry_id": "201",
+      "seq": 443,
+      "title": "Thomas “A.J.” Doyle pleads guilty to wire fraud over Gustave Courbet's “Mother and Child on a Hammock,” later acquired by Bruce Springsteen's manager Jon Landau",
+      "artist": "Gustave Courbet (work at issue: “Mother and Child on a Hammock,” 1844)",
+      "institution": "Matthiesen Gallery (London); Jill Newhouse Gallery (New York); US Attorney's Office, SDNY",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "June 26, 2026 (guilty plea); scheme June 2024 – 2026",
+      "date_discovered": "2026-06-26",
+      "sort_date": "2026-06-26",
+      "description": "On June 26, 2026, Thomas Doyle (a/k/a \"A.J.\"/\"Austin\" Doyle) pleaded guilty in Manhattan federal court (SDNY) to one count of wire fraud over the sale of Gustave Courbet's 1844 oil \"Mother and Child on a Hammock.\" Per the U.S. Attorney's Office (SDNY), Doyle - who falsely claimed to manage the \"art side\" of a family trust worth billions - obtained custody of the painting from London dealer Patrick Matthiesen in June 2024 and authorization in July 2024 to sell it for about $550,000. Instead, Doyle's associate Shalva Sarukhanishvili consigned it to New York's Jill Newhouse Gallery, which sold it on October 1, 2024 for $125,000 to collector Jon Landau, manager of Bruce Springsteen, on a false provenance; about $115,000 in proceeds was routed back to the associate and Doyle received $109,250. Matthiesen received nothing. Doyle, who has a 2011 SDNY wire-fraud conviction in a separate art-fraud case, awaits sentencing.",
+      "outcome": "Doyle pleaded guilty to one count of wire fraud on June 26, 2026; sentencing pending. [FOLLOW-UP PENDING: sentencing; any restitution or civil resolution of the Matthiesen Gallery's claims.]",
+      "tags": "Art market fraud, Legal challenge, Market opacity",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "The New York Times",
+        "U.S. Attorney's Office (SDNY)",
+        "ARTnews"
+      ],
+      "source": "https://www.nytimes.com/2026/06/26/arts/design/thomas-doyle-fraud-courbet-jon-landau.html; https://www.justice.gov/usao-sdny/pr/recidivist-fraudster-arrested-stealing-gustave-courbet-painting; https://www.artnews.com/art-news/news/con-artist-charged-for-fraudulent-sale-of-courbet-painting-1234764258/",
+      "stage": 4,
+      "stage_label": "Active",
+      "themes": [
+        10
+      ],
+      "notes": "New parent. Art-market-fraud cluster (Art and Capital, theme 10). Distinct from ACI-197 (“Doyles Art Award,” an unrelated “Doyle”). [FOLLOW-UP PENDING: sentencing] [REVISED 2026-06-26: backstory anchored to DOJ (SDNY) arrest release + ARTnews; sale mechanics corrected - Newhouse sold to Landau for $125K, ~$115K routed back to Doyle's associate.]",
+      "interested_parties": "Thomas \"A.J.\" Doyle (defendant); Shalva Sarukhanishvili (associate / co-seller); Patrick Matthiesen / Matthiesen Gallery (London); Jill Newhouse Gallery (New York); Jon Landau (buyer, Bruce Springsteen's manager); US Attorney's Office, SDNY",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-202",
+      "entry_id": "202",
+      "seq": 444,
+      "title": "US Pavilion, 2027 Venice Architecture Biennale — State Department open call requires designs that “exemplify America's exceptionalism” and bars DEI programs",
+      "artist": "N/A (national pavilion open call)",
+      "institution": "US Department of State; La Biennale di Venezia (Biennale Architettura 2027)",
+      "country": "United States / Italy",
+      "governance_type": "Democracy",
+      "date_controversy": "June 2026 (open call issued)",
+      "date_discovered": "2026-06-26",
+      "sort_date": "2026-06-25",
+      "description": "In the week of June 22, 2026, the US Department of State issued an open call for proposals for the United States Pavilion at the 2027 Venice Biennale of Architecture (Biennale Architettura 2027). As reported by Hyperallergic (June 25, 2026) and ARTnews (June 26, 2026), the submission guidelines require designs that “exemplify America's exceptionalism,” and applicants must certify that they do not operate programs “promoting Diversity, Equity, and Inclusion.” Hyperallergic reported that the approach echoes the selection process used for the 2026 US Pavilion at the Venice Art Biennale, which bypassed the customary open competition to award the commission directly to the sculptor Alma Allen (see ACI-045). Critics characterized the requirements as importing administration political rhetoric into the pavilion's selection criteria.",
+      "outcome": "Open call issued; submissions and selection pending. [FOLLOW-UP PENDING: applications, selected commissioner/team, and any organized response from the architecture field.]",
+      "tags": "Political interference",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "Hyperallergic",
+        "ARTnews"
+      ],
+      "source": "https://hyperallergic.com/trump-is-coming-for-the-architecture-biennale/",
+      "stage": 1,
+      "stage_label": "Watching",
+      "themes": [
+        2,
+        3
+      ],
+      "notes": "New parent; cross-references ACI-045 (US Pavilion, 2026 Venice Art Biennale / Alma Allen) — same pattern of State Department selection criteria foregrounding “American values”/“exceptionalism” and restricting DEI. Governance-friction marker: a democracy applying ideological conditionality to cultural representation. Borderline: a policy directive with critical reception rather than a head-to-head dispute — flagged for editorial review. [FOLLOW-UP PENDING]",
+      "interested_parties": "US Department of State; Bureau of Educational and Cultural Affairs; prospective applicant architects/teams; La Biennale di Venezia",
+      "coverage_geography": "US, Europe",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-203",
+      "entry_id": "203",
+      "seq": 445,
+      "title": "Ireland — Oireachtas committee urges national laws and a panel to evaluate Nazi-era and colonial-era cultural-object restitution claims",
+      "artist": "N/A (national restitution policy)",
+      "institution": "Government of Ireland / Oireachtas committee; Irish national cultural institutions",
+      "country": "Ireland",
+      "governance_type": "Democracy",
+      "date_controversy": "June 25, 2026 (committee recommendations reported)",
+      "date_discovered": "2026-06-26",
+      "sort_date": "2026-06-25",
+      "description": "On June 25, 2026, The Art Newspaper (reporting by Catherine Hickley) and ARTnews reported that an Irish parliamentary (Oireachtas) committee has urged the government to establish new laws and policies — including a national panel — to evaluate claims for the restitution of Nazi-era looted art and colonial-era cultural objects held in Irish collections. The recommendation would create a formal evaluation mechanism in a jurisdiction that currently lacks dedicated restitution legislation.",
+      "outcome": "Committee recommendations issued; government response and any legislation pending. [FOLLOW-UP PENDING: government adoption of recommendations / legislation; establishment of an evaluation panel.]",
+      "tags": "Repatriation",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "The Art Newspaper",
+        "ARTnews"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/06/25/ireland-urged-to-create-national-panel-to-evaluate-claims-for-nazi-era-and-colonial-loot",
+      "stage": 1,
+      "stage_label": "Watching",
+      "themes": [
+        5
+      ],
+      "notes": "New parent; restitution/repatriation cluster anchor (an analytically relevant policy development rather than a head-to-head controversy — flagged for editorial review per the inclusion guidance on cluster anchors). [FOLLOW-UP PENDING]",
+      "interested_parties": "Oireachtas committee; Government of Ireland; Irish national cultural institutions; potential restitution claimants (Nazi-era and colonial-era)",
+      "coverage_geography": "Ireland, Europe",
+      "follow_up_pending": true
+    },
     {
       "id": "ACI-005-AO",
       "entry_id": "005-AO",
