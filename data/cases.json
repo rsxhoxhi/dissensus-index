@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 440
+    "total_cases": 442
   },
   "cases": [
     {
@@ -104,6 +104,35 @@
       "notes": "New parent. Borderline: the live news is a market sale, with the underlying controversy being the 2021 BDZ 'deauthoring' protest over the collectors' Israel ties — logged as a documented art-world protest revived by the sale, flagged for editorial review. Theme 10 (Art and Capital). The 'controversial' framing is attributed to coverage, not asserted in the Index's voice. [FOLLOW-UP PENDING]",
       "interested_parties": "Anita and Poju Zabludowicz (collectors); Christie's; Boycott/Divest Zabludowicz (BDZ) artists and cultural workers",
       "coverage_geography": "UK, Europe, US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-207",
+      "entry_id": "207",
+      "seq": 450,
+      "title": "Confederate flag image removed from North Carolina booth at the Great American State Fair on the National Mall; sponsor withdraws",
+      "artist": "N/A (cultural exhibit / state pavilion)",
+      "institution": "Great American State Fair / Freedom 250; North Carolina state pavilion",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "June 26-27, 2026",
+      "date_discovered": "2026-06-27",
+      "sort_date": "2026-06-27",
+      "description": "On June 27, 2026, organizers of the North Carolina booth at the Great American State Fair - a 16-day, federally organized celebration of the United States' 250th anniversary on the National Mall, run by Freedom 250 (a public-private partnership Trump established by executive order) - removed a video displaying a Confederate flag image overlaid on part of the state flag, saying it had not been approved. Social media posts on June 26 had surfaced the image. The booth's volunteer state lead, Lorie Khatod, said organizers removed the video upon becoming aware of the \"unapproved image.\" Sponsor Mt. Olive Pickles withdrew its participation over the display. A spokesperson for Governor Josh Stein (D-NC) said the flag \"does not represent the North Carolina that we love,\" while a Freedom 250 spokesperson said states have \"full editorial control over the content in their own booths\" and that the video was not part of the design renderings it had received.",
+      "outcome": "Video removed by booth organizers as unapproved; one sponsor (Mt. Olive Pickles) withdrew. [FOLLOW-UP PENDING: further sponsor/state response; broader fallout at the fair.]",
+      "tags": "Removal, Racial/ethnic sensitivity",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "Washington Post"
+      ],
+      "source": "https://www.washingtonpost.com/nation/2026/06/27/organizers-remove-confederate-flag-image-nc-booth-fair-mall/",
+      "stage": 3,
+      "stage_label": "In process",
+      "themes": [],
+      "notes": "New parent. Connects to the federal America 250 / National Mall cluster (Reflecting Pool ACI-046, the planned triumphal arch). Borderline: a cultural-exhibit image removal rather than an artwork dispute - flagged for editorial review. Competing framings (organizers' 'unapproved' vs. the political reactions) noted, neither adopted in the Index's voice.",
+      "interested_parties": "Freedom 250 (Trump EO partnership); NC pavilion organizers (Lorie Khatod, state lead); Mt. Olive Pickles (sponsor, withdrew); Gov. Josh Stein (D-NC); Richard Childress Racing, Spevco (sponsors, no comment)",
+      "coverage_geography": "US national",
       "follow_up_pending": true
     },
     {
@@ -983,6 +1012,39 @@
       "notes": "Sub-entry of 188. Documents the arrival of the June 22 removal-plan deadline and the June 20 farewell ceremonies. Part of the Abbott/TxDOT roadway-marking removal program; cf. BLM street-mural cases (173). [FOLLOW-UP PENDING: physical removal]",
       "interested_parties": "Gov. Greg Abbott; TxDOT; City of Austin; Mayor Kirk Watson; Councilmember Zo Qadri",
       "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-046-H",
+      "entry_id": "046-H",
+      "seq": 449,
+      "title": "Lincoln Memorial Reflecting Pool - paint peels and algae returns after renovation; administration alleges vandalism and makes arrests",
+      "artist": "N/A (federal infrastructure)",
+      "institution": "Lincoln Memorial / National Mall (NPS); U.S. Park Police",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "June 18-21, 2026",
+      "date_discovered": "2026-06-27",
+      "sort_date": "2026-06-21",
+      "description": "Within about two weeks of the roughly $14 million renovation's completion and the pool's mid-June refilling, the Lincoln Memorial Reflecting Pool visibly failed: one of the largest recorded algae blooms in years returned, and the newly applied \"American Flag Blue\" paint began peeling and floating in the water. President Trump attributed the damage to vandals, stating on June 21 that another round of repairs would \"begin immediately\" and alleging that saboteurs had poured corrosive chemicals into the pool and cut a \"250 foot long gash\" with \"some form of knife or blade\"; an administration official said 14 vandalism police reports had been filed. The Washington Post reported it could not verify these allegations, and reporters and at least eight officers on site could not locate the described gash. By June 20-21, roughly five people had been arrested on vandalism accusations and several others issued federal citations, including former Olympic cyclist David Hearn, who said he had only reached in to feel a detached piece of the pool liner and damaged nothing. Sara Bronin, a George Washington University historic-preservation law professor, said the government would have to prove willful damage and that visitors cannot be detained merely for touching the pool. The U.S. Attorney for D.C., Jeanine Pirro, said citations would be prosecuted. The administration said the pool would likely be drained again.",
+      "outcome": "Renovation visibly failed within ~2 weeks (algae return + peeling paint); administration alleged vandalism (unverified by reporters on site) and announced another draining; ~5 arrests and multiple federal citations issued with prosecutions threatened; charged individuals dispute the vandalism framing. TCLF preservation suit ongoing. [FOLLOW-UP PENDING: prosecutions/citations; further draining and repairs; suit.]",
+      "tags": "Conservation, Architectural preservation, Political interference, Funding dispute",
+      "court_case": "Pending",
+      "coverage_tier": "National",
+      "outlets": [
+        "Washington Post"
+      ],
+      "source": "https://www.washingtonpost.com/politics/2026/06/21/reflecting-pool-paint-peels-trump-blames-vandals-authorities-make-arrests/",
+      "stage": 4,
+      "stage_label": "Active",
+      "themes": [
+        1,
+        2,
+        9
+      ],
+      "notes": "[FOLLOW-UP PENDING] Updates 046 / 046-G. Failure coda: algae return + peeling paint, with the administration framing the failure as vandalism and pursuing arrests/citations the Post and on-site officers could not substantiate (no gash located). Neutrality: vandalism is the administration's stated, reporter-unverified claim - recorded as such; 'Vandalism' tag withheld since none is established. Note the inversion: the state alleges vandalism by the public over a publicly accessible Mall feature, which a preservation-law expert disputes as grounds for detention.",
+      "interested_parties": "Trump / White House; NPS; U.S. Park Police; U.S. Marshals; Dept. of the Interior; Jeanine Pirro (U.S. Attorney, D.C.); David Hearn (cyclist charged, denies wrongdoing); Sara Bronin (preservation-law expert); 'Team Algae' protesters; TCLF (ongoing suit)",
+      "coverage_geography": "US national (Washington Post-led)",
       "follow_up_pending": true
     },
     {
