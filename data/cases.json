@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 442
+    "total_cases": 443
   },
   "cases": [
     {
@@ -7484,7 +7484,7 @@
       "date_discovered": "May 21, 2026",
       "sort_date": "2026-05-21",
       "description": "Shurat HaDin – Israel Law Center (Israeli legal advocacy organization) sent a formal seven-page legal demand letter dated May 14, 2026 to the CMHR's board of trustees and senior leadership, threatening legal action over the planned exhibition 'Palestine Uprooted: Nakba Past and Present' scheduled to open June 27, 2026. The letter alleges the federally funded museum is abandoning its educational mandate by presenting a 'one-sided, politicized, and historically incomplete' portrayal of the 1948 Arab-Israeli war, and claims the exhibition could fuel antisemitism and violate Canadian federal law. CMHR confirmed the letter is under review and that the exhibition remains on schedule. This is reportedly the first time Shurat HaDin has threatened a Canadian museum, and the first time a Canadian museum has devoted an exhibition to the Nakba from the perspective of Palestinian Canadian survivors. Independent Jewish Voices (Winnipeg) defended the exhibition: 'The Nakba is exactly the sort of stories that Canada's premier human rights museum should be telling.'",
-      "outcome": "Exhibition scheduled June 27, 2026. Legal letter under review. Museum has not altered plans. [FOLLOW-UP PENDING]",
+      "outcome": "Exhibition opened to the public on June 27, 2026 as scheduled and without alteration, running through November 30, 2028. Trustee Mark Berlin resigned June 22, 2026 over the exhibition's framing (see 103-A). The Shurat HaDin legal letter remains unresolved.",
       "tags": "Legal challenge, Censorship, Geopolitics, Political interference, Community objection",
       "court_case": "Pending",
       "coverage_tier": "National",
@@ -7503,8 +7503,44 @@
         4,
         5
       ],
-      "notes": "[FOLLOW-UP PENDING] A legal threat — not yet a lawsuit. The more analytically significant data point is the first: this is the first Shurat HaDin challenge to a Canadian museum and the first CMHR exhibition devoted to the Palestinian Nakba from survivors' perspectives. Shurat HaDin's legal theory (the museum is violating its mandate as a balanced educational institution) parallels the arguments made against the Smithsonian (012) and NEA grantees (034) in the US — publicly funded institutions pressured to conform to a specific historical narrative. If the exhibition proceeds as scheduled, watch for protest at opening. If the museum alters content, it becomes an anticipatory obedience case. The CMHR's framing — 'we tell stories of human rights abuses from victims' perspectives' — is a clean institutional mandate defense. Connects to the Venice Biennale Palestine cluster (008, 006), the German Basma al-Sharif cases (023/023-A), and the broader global pattern of Palestinian cultural content being contested in Western publicly funded institutions.",
+      "notes": "A legal threat — not yet a lawsuit. The more analytically significant data point is the first: this is the first Shurat HaDin challenge to a Canadian museum and the first CMHR exhibition devoted to the Palestinian Nakba from survivors' perspectives. Shurat HaDin's legal theory (the museum is violating its mandate as a balanced educational institution) parallels the arguments made against the Smithsonian (012) and NEA grantees (034) in the US — publicly funded institutions pressured to conform to a specific historical narrative. If the exhibition proceeds as scheduled, watch for protest at opening. If the museum alters content, it becomes an anticipatory obedience case. The CMHR's framing — 'we tell stories of human rights abuses from victims' perspectives' — is a clean institutional mandate defense. Connects to the Venice Biennale Palestine cluster (008, 006), the German Basma al-Sharif cases (023/023-A), and the broader global pattern of Palestinian cultural content being contested in Western publicly funded institutions.",
       "interested_parties": "Shurat HaDin – Israel Law Center / Nitsana Darshan-Leitner (president); CMHR board and leadership; Independent Jewish Voices Winnipeg; Palestinian Canadian community (exhibition collaborators)",
+      "coverage_geography": "Canada, Israel, international arts press",
+      "follow_up_pending": false
+    },
+    {
+      "id": "ACI-103-A",
+      "entry_id": "103-A",
+      "seq": 451,
+      "title": "Palestine Uprooted: Nakba Past and Present — exhibition opens as scheduled; only Jewish trustee resigns",
+      "artist": "Multiple (Palestinian Canadian artists, video testimonies, photography; poetry by Mahmoud Darwish)",
+      "institution": "Canadian Museum for Human Rights, Winnipeg, Manitoba",
+      "country": "Canada",
+      "governance_type": "Democracy",
+      "date_controversy": "June 22, 2026 – June 27, 2026",
+      "date_discovered": "2026-06-28",
+      "sort_date": "2026-06-27",
+      "description": "The Canadian Museum for Human Rights (CMHR) opened 'Palestine Uprooted: Nakba Past and Present' to the public on June 27, 2026, as scheduled and without altering its content, with a run set through November 30, 2028. The exhibition centres the Nakba — the displacement of roughly 750,000 Palestinians between 1947 and 1949 — through historical objects, contemporary Palestinian art, poetry by Mahmoud Darwish, embroidery and dress, and video interviews with Palestinian Canadians. Days before the opening, on June 22, 2026, trustee Mark Berlin — who had served on the museum's board since 2018 and described himself as its only Jewish trustee — resigned, submitting his letter to Heritage Minister Marc Miller and the board chair. As reported by The Globe and Mail, CBC News and The Canadian Jewish News, Berlin said he had supported the exhibition but objected that it omitted the expulsion of roughly 850,000 Jews from Arab states over a comparable period, writing that 'telling the story with a one-sided perspective chosen by the Museum serves to deepen division and contributes to further hostility toward Jews in Canada.' Board chair Benjie Nycum said he was saddened by the resignation but that the board 'remains committed' to the exhibition. Curator Isabelle Masson said the curatorial goal was to 'foreground and centre Palestinian voices that are often marginalised,' adding of critics: 'come and see it first.' The Shurat HaDin legal demand documented in the parent entry did not halt the opening.",
+      "outcome": "Exhibition opened June 27, 2026 without alteration, running through November 30, 2028. Trustee Mark Berlin resigned June 22, 2026 over the exhibition's framing; board chair Benjie Nycum said the board remains committed. Shurat HaDin's earlier legal threat remains unresolved. [FOLLOW-UP PENDING: whether Shurat HaDin files suit, and whether further board or government response follows.]",
+      "tags": "Legal challenge, Censorship, Geopolitics, Political interference, Community objection, Institutional crisis",
+      "court_case": "Pending",
+      "coverage_tier": "National",
+      "outlets": [
+        "The Globe and Mail",
+        "CBC News",
+        "The Canadian Jewish News",
+        "The Art Newspaper"
+      ],
+      "source": "https://www.theglobeandmail.com/politics/article-human-rights-museum-trustee-resigns-cites-one-sided-palestinian/",
+      "stage": 4,
+      "stage_label": "Active",
+      "themes": [
+        3,
+        4,
+        5
+      ],
+      "notes": "[FOLLOW-UP PENDING] Sub-entry of 103; resolves the parent's open question — the exhibition proceeded as scheduled and unaltered, so this is not an anticipatory-obedience outcome. New development: the board's only Jewish trustee resigned days before opening, citing a 'one-sided' framing (omission of the ~850,000 Jews expelled from Arab states). Pending item now narrows to the still-live Shurat HaDin legal threat and any further institutional/government response. Cf. 012 (Smithsonian) and the Venice Biennale Palestine cluster (008, 006) on publicly funded institutions pressured over contested historical narratives.",
+      "interested_parties": "CMHR board and leadership; Mark Berlin (resigned trustee); Benjie Nycum (board chair); Isabelle Masson (curator); Heritage Minister Marc Miller; Shurat HaDin – Israel Law Center; Palestinian Canadian community (exhibition collaborators)",
       "coverage_geography": "Canada, Israel, international arts press",
       "follow_up_pending": true
     },
