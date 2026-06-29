@@ -57,7 +57,7 @@
     <div class="essay-card">
       <p class="essay-kicker">Pattern of the quarter</p>
       <h2 class="essay-title">Legal cases resolve. Governance fights fester.</h2>
-      <p class="essay-deck">Median time-in-stage by controversy type. Court dockets move; institutional reckoning doesn't.</p>
+      <p class="essay-deck">Court dockets move; institutional reckoning doesn't.</p>
       <a href="essay-pattern.html" class="essay-link">Read →</a>
     </div>
   </section>
@@ -89,13 +89,16 @@ async function loadData() {
   document.getElementById('hero-count').textContent = data.meta.total_cases;
 
   // Stats
-  const s = n => allCases.filter(c => c.stage === n).length;
+  const litigation = allCases.filter(c => c.court_case === 'Yes' || c.court_case === 'Pending').length;
+  const followUp = allCases.filter(c => c.follow_up_pending === true).length;
+  const intl = allCases.filter(c => c.coverage_tier === 'International').length;
+  const countries = new Set(allCases.flatMap(c => (c.country || '').split('/').map(s => s.trim()).filter(Boolean))).size;
   document.getElementById('stats-row').innerHTML = `
     <div class="stat"><div class="stat-label">Cases tracked</div><div class="stat-value">${allCases.length}</div></div>
-    <div class="stat"><div class="stat-label">Stage 4 · Active</div><div class="stat-value">${s(4)}</div></div>
-    <div class="stat"><div class="stat-label">Stage 3 · In process</div><div class="stat-value">${s(3)}</div></div>
-    <div class="stat"><div class="stat-label">Stage 5 · Resolved</div><div class="stat-value">${s(5)}</div></div>
-    <div class="stat"><div class="stat-label">Stage 1 · Watching</div><div class="stat-value">${s(1)}</div></div>
+    <div class="stat"><div class="stat-label">In litigation</div><div class="stat-value">${litigation}</div></div>
+    <div class="stat"><div class="stat-label">Awaiting developments</div><div class="stat-value">${followUp}</div></div>
+    <div class="stat"><div class="stat-label">International coverage</div><div class="stat-value">${intl}</div></div>
+    <div class="stat"><div class="stat-label">Countries represented</div><div class="stat-value">${countries}</div></div>
   `;
 
   // Freshness line
@@ -116,7 +119,6 @@ function renderRecent(cases) {
         <div class="docket-sub">${escHtml(c.institution || c.artist || '')}${c.country ? ' · ' + escHtml(c.country) : ''} · logged ${escHtml(c.date_discovered)}</div>
         ${c.tags ? `<div class="docket-tags">${c.tags.split(',').map(t => { const tg = t.trim(); return `<span class="tag" data-tag="${escHtml(tg)}">${escHtml(tg)}</span>`; }).join('')}</div>` : ''}
       </div>
-      <span class="stage-badge stage-${c.stage}">Stage ${c.stage} · ${c.stage_label}</span>
     </a>
   `).join('');
 }
@@ -151,7 +153,7 @@ function liveSearch(val) {
     <a class="hero-result" href="case.html?id=${encodeURIComponent(c.id)}">
       <span class="hero-result-id">${c.id}</span>
       <span class="hero-result-title">${escHtml(c.title)}</span>
-      <span class="hero-result-meta">${escHtml(c.country)} · S${c.stage}</span>
+      <span class="hero-result-meta">${escHtml(c.country)}</span>
     </a>
   `).join('') + (matches.length > 8
     ? `<a class="hero-results-footer" href="browse.html?q=${encodeURIComponent(val)}">See all ${matches.length} matches →</a>`
