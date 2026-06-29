@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T15:10:48.418589+00:00",
+  "generated_at": "2026-06-28T11:03:37.333816+00:00",
   "window_hours": 96,
   "feed_summary": [
     {
@@ -22,9 +22,9 @@
       "feed": "The Art Newspaper",
       "status": "ok",
       "total_in_feed": 61,
-      "in_window": 31,
-      "new_candidates": 27,
-      "already_logged": 4
+      "in_window": 25,
+      "new_candidates": 22,
+      "already_logged": 3
     },
     {
       "feed": "Artforum",
@@ -38,8 +38,8 @@
       "feed": "The Guardian (art)",
       "status": "ok",
       "total_in_feed": 23,
-      "in_window": 12,
-      "new_candidates": 12,
+      "in_window": 13,
+      "new_candidates": 13,
       "already_logged": 0
     },
     {
@@ -52,6 +52,13 @@
     }
   ],
   "candidates": [
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Pace, William Kentridge, “AlgaeBTQ+”",
+      "link": "https://hyperallergic.com/pace-william-kentridge-algaebtq/",
+      "published": "2026-06-27T16:12:59+00:00",
+      "summary": "We pull back the curtain on the official gallery narrative. Plus, the memes take off as Trump’s reflecting pool gets murkier."
+    },
     {
       "source_feed": "Hyperallergic",
       "title": "Ed Woodham in All the Odd Places",
@@ -142,13 +149,6 @@
       "link": "https://hyperallergic.com/victory-for-claire-valdez/",
       "published": "2026-06-25T10:00:49+00:00",
       "summary": "The artist and union organizer sweeps the NYC primary, and what makes an antiquities looter loot?"
-    },
-    {
-      "source_feed": "Hyperallergic",
-      "title": "Don’t Ask Lari Pittman What His Work Is “About”",
-      "link": "https://hyperallergic.com/dont-ask-lari-pittman-what-his-work-is-about/",
-      "published": "2026-06-24T21:13:52+00:00",
-      "summary": "The Colombian-American painter discusses his new body of work, the complexity of queerness, and the reprieve of the analog."
     },
     {
       "source_feed": "ARTnews",
@@ -264,13 +264,6 @@
     },
     {
       "source_feed": "The Art Newspaper",
-      "title": "What sold at Christie's London auction of controversial Zabludowicz collection?",
-      "link": "https://www.theartnewspaper.com/2026/06/26/sale-of-controversial-zabludowicz-patrons-collection-finds-mixed-reception-at-christies-london",
-      "published": "2026-06-26T10:27:52+00:00",
-      "summary": "Consigned from the holdings of Anita and Poju Zabludowicz, the £15.4m sale fell within estimate"
-    },
-    {
-      "source_feed": "The Art Newspaper",
       "title": "Van Gogh and the Dutch old masters: latest research reveals the links",
       "link": "https://www.theartnewspaper.com/2026/06/26/van-gogh-and-the-dutch-old-masters-latest-research-reveals-the-links",
       "published": "2026-06-26T10:23:12+00:00",
@@ -382,34 +375,6 @@
       "summary": "The portrait of Marie-Thérèse Walter was reportedly discovered during a search of a house in the town of Champigny-sur-Marne"
     },
     {
-      "source_feed": "The Art Newspaper",
-      "title": "A brush with… Anne Imhof—podcast",
-      "link": "https://www.theartnewspaper.com/2026/06/24/a-brush-with-anne-imhof-podcast",
-      "published": "2026-06-24T08:59:13+00:00",
-      "summary": "Anne Imhof talks to Ben Luke about her influences—from writers to musicians, and, of course, other artists—and the cultural experiences that have shaped her life and work"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "London's ailing June art season is heating up, thanks to homegrown efforts",
-      "link": "https://www.theartnewspaper.com/2026/06/24/scorchio-treasure-house-fair-classic-art-london-and-studiolo-come-to-sweltering-london",
-      "published": "2026-06-24T08:09:27+00:00",
-      "summary": "Beleaguered by Brexit, this year, record auctions and a promising crop of fairs and events are helping to boost the week"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Restoration work is completed at one of Paraguay’s oldest churches",
-      "link": "https://www.theartnewspaper.com/2026/06/23/paraguay-church-san-lorenzo-martir-restoration-colonial-heritage",
-      "published": "2026-06-23T22:02:13+00:00",
-      "summary": "After almost eight years of work, the San Lorenzo Mártir church in Altos is back to its former glory"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Smithsonian women’s museum launches augmented reality experience after congressional setback",
-      "link": "https://www.theartnewspaper.com/2026/06/23/smithsonian-american-womens-history-museum-augmented-reality-project",
-      "published": "2026-06-23T19:08:13+00:00",
-      "summary": "‘Unhidden Heroines’ pairs important women in US history with monuments on the National Mall commemorating men of their time"
-    },
-    {
       "source_feed": "Artforum",
       "title": "Judge Demands Explanation from Trump Administration for Tarp Obscuring Kennedy Center",
       "link": "https://www.artforum.com/news/judge-demands-trump-explain-kennedy-center-tarp-1234753521/",
@@ -488,6 +453,13 @@
     },
     {
       "source_feed": "The Guardian (art)",
+      "title": "‘This isn’t about any one administration’: protests in DC reimagine the next 250 years in the US",
+      "link": "https://www.theguardian.com/us-news/2026/jun/27/next250-declaration-of-interdependence-art-gallery",
+      "published": "2026-06-27T20:01:27+00:00",
+      "summary": "Next250’s Declaration of Interdependence, a new art gallery featuring Americans’ collective values and hopes for the future, opens in McPherson SquareMore than a thousand people gathered on a block away from the White House on Saturday to unveil their vision for the US’s future, organizers said, wit…"
+    },
+    {
+      "source_feed": "The Guardian (art)",
       "title": "‘I wanted to show children playing under the open sky – and the joy of Sundays’: Monojit Dutta’s best phone picture",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jun/27/monojit-dutta-best-phone-picture",
       "published": "2026-06-27T10:00:01+00:00",
@@ -530,13 +502,6 @@
     },
     {
       "source_feed": "The Guardian (art)",
-      "title": "In pictures: a San Antonio land bridge designed for wildlife and people",
-      "link": "https://www.theguardian.com/environment/gallery/2026/jun/26/san-antonio-texas-land-bridge-wildlife",
-      "published": "2026-06-26T12:00:15+00:00",
-      "summary": "Spanning a six-lane highway and located in a public park, this crossing is part of a larger restoration of endangered Texas prairie landThe Guardian receives support for visual climate coverage from the Outrider Foundation. The Guardian’s coverage is editorially independent Continue reading..."
-    },
-    {
-      "source_feed": "The Guardian (art)",
       "title": "Ai Weiwei pushes Manchester’s buttons, a ceramicist makes it personal and frames get reframed – the week in art",
       "link": "https://www.theguardian.com/artanddesign/2026/jun/26/ai-weiwei-aviva-stuios-xanthe-somers",
       "published": "2026-06-26T11:00:14+00:00",
@@ -562,6 +527,13 @@
       "link": "https://www.theguardian.com/artanddesign/2026/jun/24/german-war-hero-annika-farm-struggling-veterans-jan-krauss-best-photograph",
       "published": "2026-06-24T13:26:33+00:00",
       "summary": "‘She was in Germany’s biggest battle since the second world war, but the army took years to recognise her PTSD. Annika now runs a farm with pigs and geese where struggling veterans come to stay’Annika Schröder’s story is an amazing one. She was in the military here in Germany for almost 20 years. Sh…"
+    },
+    {
+      "source_feed": "The Guardian (art)",
+      "title": "In pictures: a San Antonio land bridge designed for wildlife and people",
+      "link": "https://www.theguardian.com/environment/gallery/2026/jun/26/san-antonio-texas-land-bridge-wildlife",
+      "published": "2026-06-26T12:00:15+00:00",
+      "summary": "Spanning a six-lane highway and located in a public park, this crossing is part of a larger restoration of endangered Texas prairie landThe Guardian receives support for visual climate coverage from the Outrider Foundation. The Guardian’s coverage is editorially independent Continue reading..."
     },
     {
       "source_feed": "The Guardian (art)",
@@ -670,6 +642,41 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "‘The Bear’ Season 5 Recap: What Worked? What Questions Linger?",
+      "link": "https://www.nytimes.com/2026/06/28/arts/the-bear-season-5-recap.html",
+      "published": "2026-06-28T09:00:49+00:00",
+      "summary": "The final season was in many ways a recapitulation of the whole series in eight episodes. Here’s a look at where Carmy, Syd and the gang wound up."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Bill Maher Set to Receive Mark Twain Prize at the Kennedy Center",
+      "link": "https://www.nytimes.com/2026/06/28/arts/kennedy-center-bill-maher-mark-twain.html",
+      "published": "2026-06-28T09:00:41+00:00",
+      "summary": "A frequent critic of President Trump, Mr. Maher will take the stage on Sunday at a time of upheaval at the arts institution that once bore the president’s name."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Trump Wants to Own the Nation’s 250th Birthday. States Have Their Own Plans.",
+      "link": "https://www.nytimes.com/2026/06/28/arts/250-american-history-states-trump.html",
+      "published": "2026-06-28T09:00:34+00:00",
+      "summary": "As partisan tensions swirl around festivities in Washington, red and blue states alike are leaning into complex history — and their own stories."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "The Artist Uman’s Technicolor Paintings of Rural Life",
+      "link": "https://www.nytimes.com/2026/06/27/t-magazine/uman-hessel-museum-bard.html",
+      "published": "2026-06-27T22:05:12+00:00",
+      "summary": "Ahead of a survey exhibition, Uman discusses skipping art-world functions, living on a farm and making work on the floor."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Tony Brown, Host of Public Affairs Show Aimed at Black Audiences, Dies at 93",
+      "link": "https://www.nytimes.com/2026/06/27/arts/television/tony-brown-dead.html",
+      "published": "2026-06-27T17:09:13+00:00",
+      "summary": "On “Tony Brown’s Journal,” he interviewed guests like Jesse Jackson and Lena Horne, and made programming decisions by asking himself, “Will it help Black people?”"
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "Phoebe Bridgers, Sombr: Songs to Know This Week",
       "link": "https://www.nytimes.com/2026/06/27/arts/music/phoebe-bridgers-sombr-songs.html",
       "published": "2026-06-27T09:02:36+00:00",
@@ -735,7 +742,7 @@
       "source_feed": "NYT Arts",
       "title": "Washington Theater Leader Is Out on Opening Night of TLC Musical",
       "link": "https://www.nytimes.com/2026/06/26/theater/arena-stage-hana-sharif.html",
-      "published": "2026-06-26T21:30:55+00:00",
+      "published": "2026-06-26T21:30:56+00:00",
       "summary": "The departing artistic director, Hana Sharif, made it clear in a resignation email that she was leaving Arena Stage under pressure."
     },
     {
@@ -791,7 +798,7 @@
       "source_feed": "NYT Arts",
       "title": "‘Pride’: A Tale Retold, Zhuzhed Up With Extra Camp",
       "link": "https://www.nytimes.com/2026/06/26/theater/pride-musical-national-theater.html",
-      "published": "2026-06-26T15:06:34+00:00",
+      "published": "2026-06-28T09:34:27+00:00",
       "summary": "A new musical based on the 2014 movie “Pride” trades restrained sentimentality for all-in emotion and flamboyance."
     },
     {
@@ -947,41 +954,6 @@
       "link": "https://www.nytimes.com/2026/06/25/movies/bouchra-review.html",
       "published": "2026-06-25T09:01:38+00:00",
       "summary": "In this 3-D animation, a New Yorker who’s also a coyote tries to come to terms with her mother while working on an autobiographical movie."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Best Sapphic Romance Books, According to Ashley Herring Blake",
-      "link": "https://www.nytimes.com/2026/06/25/books/sapphic-romance-books.html",
-      "published": "2026-06-25T13:52:56+00:00",
-      "summary": "The author Ashley Herring Blake recommends swoony Sapphic novels that celebrate love between women across eras and genres."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "5 Photographs That Shine in National Geographic’s New Museum",
-      "link": "https://www.nytimes.com/2026/06/25/arts/national-geographic-museum-dc-photography.html",
-      "published": "2026-06-26T17:06:56+00:00",
-      "summary": "Visual storytelling is at the core of the National Geographic Museum of Exploration, which opens on Friday in downtown Washington, D.C."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Jimmy Fallon Teases Trump’s Great American State Fair",
-      "link": "https://www.nytimes.com/2026/06/25/arts/television/jimmy-fallon-trump-state-fair.html",
-      "published": "2026-06-25T07:39:36+00:00",
-      "summary": "“There’s even a dunk tank with JD Vance and a drunk tank with Kash Patel,” Fallon said."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "A Record Sotheby’s Auction Thrills London After a Brexit Hangover",
-      "link": "https://www.nytimes.com/2026/06/24/arts/design/sothebys-auction-london-joe-lewis.html",
-      "published": "2026-06-24T23:34:46+00:00",
-      "summary": "British auction sales have declined by nearly half since 2015, but Wednesday’s results hint at a return to form for London as an international auction center."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "The Good List: 6 Things to Add Delight to Your Day",
-      "link": "https://www.nytimes.com/2026/06/24/briefing/24-the-good-list-web-invite-anthropeum.html",
-      "published": "2026-06-24T21:24:58+00:00",
-      "summary": "Naming the moon, Sometimes Island and laughing in real life."
     }
   ]
 }
