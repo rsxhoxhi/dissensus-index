@@ -10,6 +10,8 @@
   <meta property="og:url" content="https://dissensusindex.com">
   <link rel="canonical" href="https://dissensusindex.com">
   <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
 </head>
 <body>
 
@@ -45,6 +47,13 @@
   </section>
 
   <div class="stats-row" id="stats-row"></div>
+
+  <!-- GEOGRAPHIC DISTRIBUTION MAP -->
+  <section class="map-section" id="map-section">
+    <p class="section-label">Geographic distribution</p>
+    <p class="map-note">Click a country to browse its cases.</p>
+    <div id="choropleth" style="width:100%;"></div>
+  </section>
 
   <!-- ESSAYS -->
   <section class="essays-grid">
@@ -181,6 +190,166 @@ function escHtml(s) {
 }
 
 loadData();
+</script>
+<script>
+(async function buildMap() {
+  // Country name normalisation → ISO 3166-1 alpha-3 (TopoJSON uses these)
+  const norm = {
+    'USA': 'United States',
+    'UK': 'United Kingdom',
+    'West Germany': 'Germany',
+    'EU': null, 'Europe': null, 'International': null,
+  };
+  // name → ISO alpha-3 for TopoJSON lookup
+  const nameToA3 = {
+    'United States': 'USA', 'United Kingdom': 'GBR', 'France': 'FRA',
+    'Germany': 'DEU', 'Italy': 'ITA', 'Spain': 'ESP', 'Hungary': 'HUN',
+    'Russia': 'RUS', 'Ukraine': 'UKR', 'Turkey': 'TUR', 'Iran': 'IRN',
+    'Israel': 'ISR', 'Lebanon': 'LBN', 'Yemen': 'YEM', 'Sudan': 'SDN',
+    'Somalia': 'SOM', 'Nigeria': 'NGA', 'Ghana': 'GHA', 'South Africa': 'ZAF',
+    'India': 'IND', 'China': 'CHN', 'Japan': 'JPN', 'South Korea': 'KOR',
+    'Indonesia': 'IDN', 'Thailand': 'THA', 'Cambodia': 'KHM',
+    'Australia': 'AUS', 'New Zealand': 'NZL',
+    'Canada': 'CAN', 'Mexico': 'MEX', 'Argentina': 'ARG', 'Brazil': 'BRA',
+    'Colombia': 'COL', 'Chile': 'CHI', 'Guatemala': 'GTM',
+    'Netherlands': 'NLD', 'Switzerland': 'CHE', 'Austria': 'AUT',
+    'Poland': 'POL', 'Romania': 'ROU', 'Slovakia': 'SVK', 'Latvia': 'LVA',
+    'Lithuania': 'LTU', 'Finland': 'FIN', 'Ireland': 'IRL',
+    'Kazakhstan': 'KAZ', 'Pakistan': 'PAK', 'United Arab Emirates': 'ARE',
+    'Vatican': 'VAT',
+  };
+
+  // Fetch cases and count by canonical country name
+  const data = await fetch('data/cases.json').then(r => r.json());
+  const counts = {};
+  for (const c of data.cases) {
+    const raw = c.country || '';
+    // split on / and ,  to handle multi-country entries
+    const parts = raw.split(/[\/,]/).map(s => s.trim()).filter(Boolean);
+    for (let p of parts) {
+      // strip parenthetical notes like "(damage attributed to Israel)"
+      p = p.replace(/\(.*?\)/g, '').trim();
+      const canonical = norm.hasOwnProperty(p) ? norm[p] : p;
+      if (!canonical) continue; // skip EU, International, etc.
+      counts[canonical] = (counts[canonical] || 0) + 1;
+    }
+  }
+
+  // Fetch world TopoJSON
+  const world = await fetch(
+    'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'
+  ).then(r => r.json());
+
+  // Build id→name map from TopoJSON properties
+  const countries = topojson.feature(world, world.objects.countries);
+
+  // TopoJSON 110m uses numeric ISO codes; we need a name lookup
+  // Use a small inline numeric-id → alpha-3 map for our 57 countries
+  // (TopoJSON stores numeric ISO 3166-1 ids)
+  const numToA3 = {
+    840:'USA',826:'GBR',250:'FRA',276:'DEU',380:'ITA',724:'ESP',348:'HUN',
+    643:'RUS',804:'UKR',792:'TUR',364:'IRN',376:'ISR',422:'LBN',887:'YEM',
+    729:'SDN',706:'SOM',566:'NGA',288:'GHA',710:'ZAF',356:'IND',156:'CHN',
+    392:'JPN',410:'KOR',360:'IDN',764:'THA',116:'KHM',36:'AUS',124:'CAN',
+    484:'MEX',32:'ARG',76:'BRA',170:'COL',152:'CHI',320:'GTM',528:'NLD',
+    756:'CHE',40:'AUT',616:'POL',642:'ROU',703:'SVK',428:'LVA',440:'LTU',
+    246:'FIN',372:'IRL',398:'KAZ',586:'PAK',784:'ARE',336:'VAT',275:'PSE',
+  };
+  // reverse: alpha-3 → count
+  const a3Counts = {};
+  for (const [name, cnt] of Object.entries(counts)) {
+    const a3 = nameToA3[name];
+    if (a3) a3Counts[a3] = (a3Counts[a3] || 0) + cnt;
+  }
+
+  // Dimensions
+  const container = document.getElementById('choropleth');
+  const W = container.clientWidth || 800;
+  const H = Math.round(W * 0.5);
+
+  const svg = d3.select('#choropleth').append('svg')
+    .attr('viewBox', `0 0 ${W} ${H}`)
+    .attr('style', 'width:100%;height:auto;display:block;');
+
+  const projection = d3.geoNaturalEarth1()
+    .scale(W / 6.5)
+    .translate([W / 2, H / 2]);
+  const path = d3.geoPath().projection(projection);
+
+  const maxVal = d3.max(Object.values(a3Counts)) || 1;
+  const color = d3.scaleSequential()
+    .domain([0, maxVal])
+    .interpolator(d3.interpolate('#E1F5EE', '#0F6E56'));
+
+  // Tooltip
+  const tip = d3.select('body').append('div')
+    .style('position','fixed')
+    .style('background','#2C2C2A')
+    .style('color','#F1EFE8')
+    .style('padding','6px 10px')
+    .style('border-radius','3px')
+    .style('font-size','0.75rem')
+    .style('font-family','var(--mono, monospace)')
+    .style('pointer-events','none')
+    .style('opacity','0')
+    .style('z-index','999');
+
+  svg.selectAll('path')
+    .data(countries.features)
+    .join('path')
+    .attr('d', path)
+    .attr('fill', d => {
+      const a3 = numToA3[+d.id];
+      const n = a3 ? (a3Counts[a3] || 0) : 0;
+      return n > 0 ? color(n) : '#D3D1C7';
+    })
+    .attr('stroke', '#F1EFE8')
+    .attr('stroke-width', 0.4)
+    .style('cursor', d => {
+      const a3 = numToA3[+d.id];
+      return a3 && a3Counts[a3] ? 'pointer' : 'default';
+    })
+    .on('mousemove', function(event, d) {
+      const a3 = numToA3[+d.id];
+      const n = a3 ? (a3Counts[a3] || 0) : 0;
+      if (!a3) return;
+      // find canonical name
+      const name = Object.entries(nameToA3).find(([,v]) => v===a3)?.[0] || a3;
+      tip.style('opacity','1')
+        .style('left', (event.clientX + 12) + 'px')
+        .style('top',  (event.clientY - 28) + 'px')
+        .html(n > 0 ? `${name}: ${n} case${n===1?'':'s'}` : name);
+    })
+    .on('mouseleave', () => tip.style('opacity','0'))
+    .on('click', function(event, d) {
+      const a3 = numToA3[+d.id];
+      if (!a3 || !a3Counts[a3]) return;
+      const name = Object.entries(nameToA3).find(([,v]) => v===a3)?.[0];
+      if (name) window.location.href = `browse.html?q=${encodeURIComponent(name)}`;
+    });
+
+  // Legend
+  const legW = Math.min(200, W * 0.25);
+  const legH = 8;
+  const legX = W - legW - 16;
+  const legY = H - 32;
+  const defs = svg.append('defs');
+  const grad = defs.append('linearGradient').attr('id','leg-grad');
+  grad.append('stop').attr('offset','0%').attr('stop-color','#E1F5EE');
+  grad.append('stop').attr('offset','100%').attr('stop-color','#0F6E56');
+  const legG = svg.append('g');
+  legG.append('rect')
+    .attr('x', legX).attr('y', legY)
+    .attr('width', legW).attr('height', legH)
+    .attr('fill','url(#leg-grad)').attr('rx',2);
+  legG.append('text').attr('x', legX).attr('y', legY - 4)
+    .attr('font-size','9').attr('fill','#5F5E5A')
+    .attr('font-family','var(--mono,monospace)').text('1');
+  legG.append('text').attr('x', legX + legW).attr('y', legY - 4)
+    .attr('font-size','9').attr('fill','#5F5E5A')
+    .attr('font-family','var(--mono,monospace)')
+    .attr('text-anchor','end').text(maxVal + ' cases');
+})();
 </script>
 </body>
 </html>

@@ -36,14 +36,7 @@
   </section>
 
   <section class="docket">
-    <div class="filter-bar">
-      <button class="filter-btn active" data-stage="0" onclick="setStage(0,this)">All stages</button>
-      <button class="filter-btn" data-stage="4" onclick="setStage(4,this)">4 · Active</button>
-      <button class="filter-btn" data-stage="3" onclick="setStage(3,this)">3 · In process</button>
-      <button class="filter-btn" data-stage="5" onclick="setStage(5,this)">5 · Resolved</button>
-      <button class="filter-btn" data-stage="2" onclick="setStage(2,this)">2 · Escalating</button>
-      <button class="filter-btn" data-stage="1" onclick="setStage(1,this)">1 · Watching</button>
-    </div>
+
 
     <div id="active-tag" class="active-tag-bar"></div>
 
@@ -89,7 +82,6 @@ function setStage(stage, btn) {
 function applyFilters() {
   const q = document.getElementById('browse-search').value.toLowerCase().trim();
   filtered = allCases.filter(c => {
-    const stageOk = activeStage === 0 || c.stage === activeStage;
     const qOk = !q ||
       c.title.toLowerCase().includes(q) ||
       c.country.toLowerCase().includes(q) ||
@@ -100,7 +92,7 @@ function applyFilters() {
       c.id.toLowerCase().includes(q);
     const tagOk = !activeTag ||
       (c.tags || '').split(',').map(t => t.trim()).includes(activeTag);
-    return stageOk && qOk && tagOk;
+    return qOk && tagOk;
   });
   currentPage = 1;
   render();
