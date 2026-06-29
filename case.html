@@ -48,7 +48,6 @@ async function loadCase() {
 
   document.title = `${c.id} — ${c.title} — The Dissensus Index`;
 
-  const stageLabels = {1:'Watching',2:'Escalating',3:'In process',4:'Active',5:'Resolved'};
   const tags = c.tags ? c.tags.split(',').map(t => { const tg = t.trim(); return `<a class="tag" href="browse.html?tag=${encodeURIComponent(tg)}">${escHtml(tg)}</a>`; }).join('') : '';
 
   const sourceHtml = c.source && c.source !== 'nan'
@@ -69,7 +68,6 @@ async function loadCase() {
     <div class="case-header">
       <p class="case-id">${escHtml(c.id)}</p>
       <h1 class="case-title">${escHtml(c.title)}</h1>
-      <span class="stage-badge stage-${c.stage}" style="display:inline-block;margin-top:0.5rem;">Stage ${c.stage} · ${stageLabels[c.stage]}</span>
     </div>
 
     <div class="case-meta">
