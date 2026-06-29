@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 444
+    "total_cases": 445
   },
   "cases": [
     {
@@ -15410,6 +15410,37 @@
       "interested_parties": "Creative Australia, Sen. Claire Chandler, Arts Minister Tony Burke, Simon Mordant (philanthropist), Mikala Tai & Lindy Lee (resigned staff/board)",
       "coverage_geography": "Australia, US, Europe",
       "follow_up_pending": false
+    },
+    {
+      "id": "ACI-208",
+      "entry_id": "208",
+      "seq": 453,
+      "title": "Three Swiss museums return 18 Benin Bronzes to Nigeria in Zurich ceremony",
+      "artist": "N/A (Kingdom of Benin, looted 1897 British punitive expedition)",
+      "institution": "University of Zurich / Ethnographic Museum (14 objects); Museum Rietberg Zurich (2); Musée d'Ethnographie de Genève (2); National Commission for Museums and Monuments (NCMM), Nigeria",
+      "country": "Switzerland / Nigeria",
+      "governance_type": "Democracy",
+      "date_controversy": "June 29, 2026 (handover ceremony)",
+      "date_discovered": "2026-06-29",
+      "sort_date": "2026-06-29",
+      "description": "On June 29, 2026, three Swiss museums returned 18 royal and religious artifacts from the Kingdom of Benin to Nigeria in a handover ceremony at the University of Zurich, attended by Swiss Federal Councillor Elisabeth Baume-Schneider and Nigeria's Minister of Culture, Hannatu Musa Musawa. The University of Zurich's Ethnographic Museum returned 14 objects; Museum Rietberg Zurich and the Musée d'Ethnographie de Genève returned two each. Among the returned objects is a Benin Eroro - a four-sided ceremonial bell used in royal rites, political functions, and battle - and a container for herbs and medicines depicting Ofoe, a divine emissary. Per ARTnews, most objects will be transferred to Edo State and temporarily housed at the National Museum in Benin City under care of Nigeria's National Commission for Museums and Monuments (NCMM); some will be exhibited at the National Museum in Lagos. The NCMM/Edo State destination is contextually significant: a 2023 federal decree recognized Oba Ewuare II as the exclusive owner and custodian of all repatriated Benin artifacts, creating an ongoing dispute between the federal government, Edo State, and the Benin royal court over housing of returned objects that has complicated several other European restitutions since 2023.",
+      "outcome": "18 objects returned June 29, 2026; to be housed at the National Museum in Benin City under NCMM care, with some at the National Museum in Lagos. [FOLLOW-UP PENDING: whether the Oba disputes custody of these specific objects; broader resolution of the federal/Edo State/royal court custodianship dispute.]",
+      "tags": "Repatriation, Indigenous rights",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "ARTnews"
+      ],
+      "source": "https://www.artnews.com/art-news/news/swiss-museums-return-benin-bronzes-nigeria-1234790609/",
+      "stage": 5,
+      "stage_label": "Resolved",
+      "themes": [
+        5
+      ],
+      "notes": "New parent. Part of the ongoing global Benin Bronzes repatriation wave; connects to ACI-035-J (French restitution framework, promulgated May 2026), ACI-193 (Dutch/German returns to Ghana, June 2026), and ACI-015 (European colonial repatriation cluster). The 2025 Netherlands return of 113 bronzes to NCMM was the largest single return directly linked to the 1897 looting. This is a completed repatriation; custody background noted in description but no custody dispute reported as part of this handover. [FOLLOW-UP PENDING]",
+      "interested_parties": "University of Zurich / Ethnographic Museum; Museum Rietberg Zurich; Musée d'Ethnographie de Genève; Swiss Federal Councillor Elisabeth Baume-Schneider; Nigeria Minister of Culture Hannatu Musa Musawa; NCMM; Oba Ewuare II (contextual party to ongoing custody dispute)",
+      "coverage_geography": "Europe, West Africa, international arts press",
+      "follow_up_pending": true
     }
   ]
 }
