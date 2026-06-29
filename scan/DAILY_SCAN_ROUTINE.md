@@ -36,7 +36,7 @@ Directly fetch each of these four homepages and read every visible headline:
 - Hyperallergic — hyperallergic.com
 - The Art Newspaper — theartnewspaper.com
 - ARTnews — artnews.com
-- NYT Arts — nytimes.com/section/arts (if the direct fetch is blocked, substitute a targeted site search for the day's NYT arts coverage and note the substitution)
+- NYT — run `python scan/nyt_api.py "<query>" [from-date]` as a primary discovery step, querying the dragnet keywords defined in CLAUDE.md Part 1 across all desks (Politics, National, Business, US — not just Arts), date-anchored to the run window. Per CLAUDE.md, the API returns metadata only: log the thin entry from the abstract and store the canonical URL as the source. The Arts homepage and RSS feed see the Arts desk alone; this all-desk search is what catches the cross-desk coverage they structurally miss.
 - Washington Post — washingtonpost.com — primary outlet for DC/federal cultural coverage (GSA Fine Arts, the monumental core, federal museums, New Deal/WPA art). WaPo has no API and direct fetch is frequently blocked; attempt via a targeted site-scoped web search (e.g. site:washingtonpost.com plus the day's DC/federal terms). If unretrievable, record "WaPo likely relevant — could not retrieve" in the coverage report rather than omitting it silently. A blocked fetch never means there was no coverage.
 
 Fetch each at 8,000–10,000 tokens. List every headline with a one-word notation — relevant / already-logged / not-relevant — then state the count: "X scanned, Y relevant, Z already logged, W new."
