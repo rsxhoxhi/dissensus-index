@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 448
+    "total_cases": 449
   },
   "cases": [
     {
@@ -11815,6 +11815,37 @@
       ],
       "notes": "[FOLLOW-UP PENDING] This is a significant legal and political setback for the ballroom project. The legislative strategy behind 050-B was to use the reconciliation bill to (a) fund the project without Democratic votes, and (b) provide the 'congressional approval' Judge Leon identified as lacking when he issued his injunction. The parliamentarian's ruling knocks out both objectives simultaneously: the money is gone (for now), and the congressional authorization rationale collapses with it. Republicans can restructure, but any restructured provision faces either the same parliamentary challenge or a 60-vote threshold Democrats will not provide. The Secret Service's own breakdown — $220M directly to White House project, $780M to other security programs — inadvertently confirmed that most of the $1B was not actually ballroom-related, which may have undermined the 'security' rationale that was the provision's legal fig leaf. Democrats' plan to force repeated ballroom votes is a midterm strategy: every Republican senator on record supporting Trump's vanity project. Judge Leon's injunction remains in effect; without the legislative clear Judge Leon required, above-ground construction stays blocked. Cross-reference 050 (parent entry), 050-A (WHCD shooting as ballroom rationale), 050-B (provision inserted), 038-C (triumphal arch no-bid contract parallel). GOVERNANCE NOTE: Democracy with significant authoritarian tendencies.",
       "interested_parties": "Senate parliamentarian Elizabeth MacDonough (ruling); Sen. Jeff Merkley (D-OR, Senior Budget Committee Democrat); Sen. Chuck Schumer (D-NY, minority leader); Judiciary Committee Republicans (authors of provision); Secret Service Director Sean Curran (briefed senators); Judge Richard Leon (injunction still in effect); Trump administration",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-050-F",
+      "entry_id": "050-F",
+      "seq": 457,
+      "title": "White House State Ballroom / East Wing — Washington Post reports ballroom built under a secret ~$500M no-bid contract",
+      "artist": "N/A (federal building project)",
+      "institution": "White House East Wing site, Washington DC; Clark Construction (contractor)",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "June 2026",
+      "date_discovered": "2026-06-30",
+      "sort_date": "2026-06-30",
+      "description": "On June 30, 2026, The Washington Post reported that President Trump's new White House ballroom — built on the site of the East Wing, which was demolished in October 2025 (see ACI-050) — was procured under a secret no-bid contract awarded to Maryland-based Clark Construction, which the paper valued at roughly $500 million. The report extends the Post's earlier investigations: an April 2026 account that the contract governing private donations to the project shields donors' identities and exempts the White House from conflict-of-interest protections (disclosed only after a lawsuit and a judge's order), and a June 16, 2026 account that an internal March estimate by Clark put the project at about $600 million, more than half of it taxpayer-funded — contradicting Trump's public statement that the roughly $400 million project would be paid for by private donations. Separately, the administration awarded Clark a no-bid ('sole-source') contract for nearby fountain/park work that rose to $17.4 million, as reported by Engineering News-Record. Senator Richard Blumenthal, ranking member of the Senate Permanent Subcommittee on Investigations, has pressed Clark Construction over the project's true cost and contract terms. The White House has said the East Wing demolition was necessary for structural reasons and that the ballroom would not cost taxpayers.",
+      "outcome": "Funding-and-procurement disclosures continue around the ballroom project; the donor-shielding contract was disclosed only after litigation, and congressional investigators (Sen. Blumenthal) are seeking records. [FOLLOW-UP PENDING: the congressional investigation and any further contract/cost disclosures.]",
+      "tags": "Funding dispute, Political interference, Demolition, Historic preservation, Cultural property destruction",
+      "court_case": "Pending",
+      "coverage_tier": "National",
+      "outlets": [
+        "The Washington Post",
+        "Engineering News-Record"
+      ],
+      "source": "https://www.washingtonpost.com/investigations/2026/06/30/trump-ballroom-built-under-secret-500m-no-bid-contract/",
+      "themes": [
+        2,
+        9
+      ],
+      "notes": "[FOLLOW-UP PENDING] Sub-entry of 050; first sub-entry to track the procurement/funding-secrecy thread — the secret no-bid Clark Construction contract, donor-shielding, and taxpayer-cost revelations — distinct from the $1B Senate reconciliation provision in 050-B/050-E and the demolition litigation in 050-C/050-D. Quick-add from a maintainer-supplied WaPo investigation published ~6am June 30, 2026. SOURCING NOTE: the Washington Post is blocked to automated fetch (HTTP 403); the June 30 article body could not be machine-retrieved this run, and the specific '$500 million' no-bid figure is taken from the article's headline as supplied. The surrounding facts (secret no-bid contract to Clark; ~$600M/half-taxpayer March estimate; donor-shielding disclosed after litigation; $17.4M sole-source park contract; Blumenthal inquiry) were corroborated via search results this run from WaPo's April and June 16 reports, Engineering News-Record, and Sen. Blumenthal's office. Enrich from the full article text on a manual pass.",
+      "interested_parties": "President Trump; Clark Construction (contractor); White House / OMB; Sen. Richard Blumenthal (Senate PSI ranking member); private donors (identities shielded); US Secret Service (diverted security funds)",
       "coverage_geography": "US",
       "follow_up_pending": true
     },
