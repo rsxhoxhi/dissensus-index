@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 449
+    "total_cases": 452
   },
   "cases": [
     {
@@ -6000,6 +6000,39 @@
       ],
       "notes": "[FOLLOW-UP PENDING] Wednesday Europe trawl. This is a Theme 2 (public funding) and Theme 5 (ethical museum) case at the policy level: who should bear the cost of maintaining universal public access to cultural heritage? The 2001 free admission policy is itself a case study in how public funding decisions reshape cultural access — attendance at formerly-charging museums rose 151% in the decade after. Hodge's own estimate that the fee would 'bring in less than £10 million... it's not worth doing it' makes the proposal more politically symbolic than financially substantive. The enforcement problem (no ID requirement in UK, digital ID scheme delayed) may be the mechanism that quietly kills the proposal without a formal decision. Compare the Galleria Borghese (entry 102) as a case where genuine visitor pressure drives expansion planning; here the pressure is fiscal rather than demand-driven. The Louvre's tiered pricing (EU vs. non-EU) is the operative comparison the UK government is watching.",
       "interested_parties": "Culture Secretary Lisa Nandy (Labour, exploring options); Margaret Hodge (independent reviewer, conditional proponent); Museums Association; national museum directors (largely opposed); British Museum; National Gallery; V&A; Natural History Museum; Science Museum; Art Fund (notes 151% post-2001 attendance increase)",
+      "coverage_geography": "UK, international arts press",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-117-B",
+      "entry_id": "117-B",
+      "seq": 460,
+      "title": "England national museums — Public Accounts Committee report faults DCMS 'hands-off' oversight; revives foreign-visitor admission-fee question",
+      "artist": "N/A (policy / parliamentary oversight)",
+      "institution": "UK national museums (British Museum, National Gallery, V&A, Natural History Museum, Science Museum, etc.); Department for Culture, Media and Sport (DCMS); House of Commons Public Accounts Committee",
+      "country": "United Kingdom",
+      "governance_type": "Democracy",
+      "date_controversy": "June 2026",
+      "date_discovered": "2026-07-01",
+      "sort_date": "2026-06-29",
+      "description": "A cross-party House of Commons Public Accounts Committee report published in late June 2026 criticised the Department for Culture, Media and Sport (DCMS) for what it called an “almost hands-off approach” to England's 15 national museums and galleries, warning they are left vulnerable to cyber and physical-security threats through a reactive rather than strategic approach. As reported by The Art Newspaper (June 29), ARTnews, the Museums Association and the UK Parliament committee's own release, the report found DCMS lacks a clear picture of whether the sector delivers value for taxpayers — it provided £484m in grant-in-aid in 2024–25, about 46 percent of the sponsored museums' total income — and recommended new outcome metrics within six months and concrete action on security. The report also noted that, while no decision has been taken, DCMS planned to explore charging international visitors, reviving the admission-fee question tracked at the parent entry.",
+      "outcome": "Report published with recommendations; government response and any policy change pending. [FOLLOW-UP PENDING: DCMS response, the six-month metrics deadline, and whether the foreign-visitor fee advances.]",
+      "tags": "Funding dispute, Institutional risk, Security failure",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "The Art Newspaper",
+        "ARTnews",
+        "Museums Association",
+        "UK Parliament (Public Accounts Committee)"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/06/29/what-does-the-latest-parliamentary-report-on-financial-resilience-in-uk-government-sponsored-museums-reveal",
+      "themes": [
+        2,
+        5
+      ],
+      "notes": "[FOLLOW-UP PENDING] Sub-entry of ACI-117 (England foreign-visitor admission-fee proposal); inherits parent Themes 2 (Public Funding) and 5 (Ethical Museum). Wednesday Europe/UK trawl. The report is the vehicle that revives the admission-fee question first logged at 117/117-A, but its main thrust is financial-resilience and security oversight of national museums — hence 'Security failure' and 'Institutional risk' tags alongside 'Funding dispute'. Borderline: this is a parliamentary-oversight critique rather than a discrete art controversy; logged per the 'err toward showing more' rule and linked to the fee dispute it reignites.",
+      "interested_parties": "House of Commons Public Accounts Committee (cross-party); Department for Culture, Media and Sport (DCMS); Museums Association; England's 15 national museums and galleries",
       "coverage_geography": "UK, international arts press",
       "follow_up_pending": true
     },
@@ -14672,6 +14705,67 @@
       "notes": "New parent — BORDERLINE inclusion, flagged for editorial review. The proximate dispute is a federal protest prosecution (the Prairieland Detention Center case), not an art-institution controversy; the art-relevant axis is that the prosecuted material was an artist's zines, illustrations and tattoo-flash printed matter, and that art-world outlets (Hyperallergic, The Daily Cartoonist) and press-freedom groups are covering it as the criminalisation of artistic/political expression. Logged thin per the 'err toward showing more' rule; editor to decide whether it belongs in the Index or is primarily a protest-prosecution story. Avoided 'Censorship' as a tag because whether this is censorship is itself the contested claim. Themes left empty: the ten Dissensus themes do not map cleanly to a free-expression criminal case.",
       "interested_parties": "Daniel 'Des' Sanchez Estrada (defendant, artist); Judge Reed O'Connor; US Department of Justice / federal prosecutors; Freedom of the Press Foundation (Seth Stern); Free Des Support Committee; federal public defender Christopher Weinbel",
       "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-211",
+      "entry_id": "211",
+      "seq": 458,
+      "title": "Solomon R. Guggenheim Museum — UAW Local 2110 workers vote to authorize strike during second-contract negotiations",
+      "artist": "N/A (museum labor dispute)",
+      "institution": "Solomon R. Guggenheim Museum, New York",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "June 2026",
+      "date_discovered": "2026-07-01",
+      "sort_date": "2026-06-30",
+      "description": "Unionized workers at the Solomon R. Guggenheim Museum in New York, represented by UAW Local 2110, voted to authorize a strike, the union announced on June 30, 2026. As reported by Hyperallergic, ARTnews, The Art Newspaper and Artforum, the union said 93 percent of members voted in favor of striking “if necessary to win a fair contract”; no strike date was set. The vote came amid negotiations — ongoing since December 2025 — for the workers' second collective bargaining agreement. The union has cited job security, healthcare costs and inflation, seeking strengthened advance-notice-of-layoffs and severance provisions, and pointing to layoffs that affected roughly 20 staff in 2025. Per the coverage, the union sought a three-year contract with a 5 percent first-year raise and 4.25 percent in each of the following two years, while the museum offered a four-year agreement with a 3 percent first-year raise and 2.75 percent thereafter. The Art Newspaper noted the vote landed as the summer tourist season peaked.",
+      "outcome": "Strike authorized; no strike date set as of June 30, 2026, and negotiations continue. [FOLLOW-UP PENDING: whether a strike date is called and the outcome of second-contract negotiations.]",
+      "tags": "Labor dispute, Institutional crisis",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "Hyperallergic",
+        "ARTnews",
+        "The Art Newspaper",
+        "Artforum"
+      ],
+      "source": "https://hyperallergic.com/guggenheim-museum-union-votes-to-authorize-strike/",
+      "themes": [
+        4
+      ],
+      "notes": "[FOLLOW-UP PENDING] Museum-labor cluster; Theme 4 (Institutional Risk). Same union (UAW Local 2110) as the Whitney unit tracked at ACI-128, but a distinct bargaining unit at a different institution — not a duplicate. Cross-references ACI-096 / 096-F (Seattle Art Museum / SAMWU), ACI-073 (American Folk Art Museum gala picket) and ACI-128 (Whitney / Local 2110 second contract): the second-contract campaigns and strike-authorization tactic recur across the New York and Seattle museum-labor landscape.",
+      "interested_parties": "UAW Local 2110 (union representing Guggenheim staff); Solomon R. Guggenheim Museum administration",
+      "coverage_geography": "US, international arts press",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-212",
+      "entry_id": "212",
+      "seq": 459,
+      "title": "Metropolitan Museum of Art — Manhattan DA secures return of dozens more antiquities in June 2026; value of recovered looted artifacts said to top $95 million",
+      "artist": "N/A (multiple antiquities / looted objects)",
+      "institution": "Metropolitan Museum of Art, New York; Manhattan District Attorney's Office (Antiquities Trafficking Unit)",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "June 2026",
+      "date_discovered": "2026-07-01",
+      "sort_date": "2026-06-30",
+      "description": "According to The New York Times (June 30, 2026), the Manhattan district attorney's office said it had secured the return of dozens of ancient artifacts from the Metropolitan Museum of Art in June 2026, in a process the museum described as collaborative. The Times reported that, with the new seizures, the cumulative value of looted artifacts recovered from or linked to the Met has surpassed $95 million. The Manhattan DA's Antiquities Trafficking Unit has obtained multiple seizure warrants for objects at the Met since 2017 and returned them to their countries of origin.",
+      "outcome": "Dozens of objects secured for return in June 2026; the Met characterized the process as collaborative. [FOLLOW-UP PENDING: further seizures and the Met's own provenance-review program.]",
+      "tags": "Repatriation, Provenance dispute, Institutional crisis",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "The New York Times"
+      ],
+      "source": "https://www.nytimes.com/2026/06/30/arts/design/met-returns-looted-artifacts-95-million.html",
+      "themes": [
+        5
+      ],
+      "notes": "Thin / single-source (NYT metadata only, retrieved via the NYT feed this run) — flagged for enrichment on a relevant trawl day. Theme 5 (Ethical Museum): the encyclopedic museum and the provenance of its antiquities. Distinct from ACI-112 (the April 2026 Bragg ceremony returning 657 antiquities, a separate action) though part of the same Manhattan DA Antiquities Trafficking Unit enforcement pattern; cross-references the broader looted-antiquities cluster (ACI-112, 179, 194). Borderline framing: the Met called the process collaborative rather than adversarial, so this is logged as an ongoing provenance/repatriation matter rather than an open dispute.",
+      "interested_parties": "Manhattan District Attorney's Office (Antiquities Trafficking Unit); Metropolitan Museum of Art; countries of origin receiving returns",
+      "coverage_geography": "US, international arts press",
       "follow_up_pending": true
     }
   ]
