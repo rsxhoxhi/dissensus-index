@@ -115,8 +115,13 @@ async function loadData() {
   document.getElementById('freshness').innerHTML =
     `Last reviewed and published: <strong>${formatDate(lp)}</strong> · Data captured continuously; published on editorial review.`;
 
-  // Recent feed — top 12, already sorted recent-first in JSON
-  renderRecent(allCases.slice(0, 12));
+  // Recent feed — top 12 by date_discovered, newest first
+  const recentSorted = allCases.slice().sort((a,b) => {
+    const da = a.date_discovered || "";
+    const db = b.date_discovered || "";
+    return db.localeCompare(da);
+  });
+  renderRecent(recentSorted.slice(0, 12));
 }
 
 function renderRecent(cases) {

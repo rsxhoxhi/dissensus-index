@@ -92,7 +92,7 @@ this project is built around:
 - **Source provenance — every cited source must be one you actually retrieved.** Every outlet named in a `source` or `outlets` field must have been directly fetched, or returned in a search result, during *this* run. If a source was not retrieved, it may not be listed — restrict the fields to the sources actually obtained, and note the limitation. Never add an outlet because it plausibly or probably covered the story. A real event with only one retrievable source gets one source, not a likely-looking list. Dates come from the retrieved article's own dateline or text, never from inference about relative time.
 - **All required fields**, per CLAUDE.md's field spec: id, entry_id, seq, title, artist,
   institution, country, governance_type, date fields, description, outcome, tags,
-  court_case, coverage_tier, outlets, source, stage/stage_label, themes, notes,
+  court_case, coverage_tier, outlets, source, themes, notes,
   interested_parties, coverage_geography, follow_up_pending. Sub-entries inherit parent
   themes unless a case-level reason differs. Use exact dates, never relative ones. Set
   `follow_up_pending: true` with a named note whenever the status speculates about a

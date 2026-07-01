@@ -44,9 +44,8 @@ Columns (working master, 20):
 18. Primary Source Link
 19. Outcome / Status
 20. Notes (observations, pattern connections, class relevance — **and the `[FOLLOW-UP PENDING]` flag prefix**)
-21. Stage (1–5; see §9) — added in the build session; assign at logging time
 
-> The public-site field list (ACI ID, title, artist/subject, institution, country, governance, dates, description, outcome/status, broad tags, court case, coverage tier, key outlets, primary source link, stage) is a **display subset**. Parent ID, Interested Parties, Coverage Geography, and Notes stay in the master even if not surfaced publicly — they carry the update mechanism, the coverage-movement signal, and the active-monitoring flags.
+> The public-site field list (ACI ID, title, artist/subject, institution, country, governance, dates, description, outcome/status, broad tags, court case, coverage tier, key outlets, primary source link) is a **display subset**. Parent ID, Interested Parties, Coverage Geography, and Notes stay in the master even if not surfaced publicly — they carry the update mechanism, the coverage-movement signal, and the active-monitoring flags.
 
 ### Required fields for every cases.json entry
 
@@ -58,7 +57,7 @@ the spreadsheet and they must not be dropped again.
 **Existing fields:** `id`, `entry_id`, `seq`, `title`, `artist`, `institution`,
 `country`, `governance_type`, `date_controversy`, `date_discovered`, `sort_date`,
 `description`, `outcome`, `tags`, `court_case`, `coverage_tier`, `outlets`,
-`source`, `stage`, `stage_label`
+`source`
 
 **Five fields now mandatory on every new entry:**
 
