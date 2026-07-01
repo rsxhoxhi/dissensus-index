@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 445
+    "total_cases": 449
   },
   "cases": [
     {
@@ -7140,6 +7140,39 @@
       "follow_up_pending": true
     },
     {
+      "id": "ACI-103-B",
+      "entry_id": "103-B",
+      "seq": 454,
+      "title": "Palestine Uprooted: Nakba Past and Present — federal Heritage Minister calls the exhibition an 'error in curation' that 'should be rectified'",
+      "artist": "Group exhibition (contemporary Palestinian art, poetry, embroidery, video testimony)",
+      "institution": "Canadian Museum for Human Rights, Winnipeg, Manitoba",
+      "country": "Canada",
+      "governance_type": "Democracy",
+      "date_controversy": "June 2026",
+      "date_discovered": "2026-06-30",
+      "sort_date": "2026-06-29",
+      "description": "On June 29, 2026, two days after the Canadian Museum for Human Rights (CMHR) opened 'Palestine Uprooted: Nakba Past and Present' (see ACI-103, 103-A), federal Heritage Minister Marc Miller publicly criticised the exhibition. As reported by CP24, CBC News and The Canadian Press, Miller called it 'an exhibit that is born in controversy — and perhaps some of it could have been avoided,' said that 'not identifying Hamas as a terrorist organization is, I think, a failure,' and described the exhibition as 'an unfortunate error in curation' that 'should be rectified.' The CMHR is a federal Crown corporation that reports to Parliament through the Heritage Minister, though the minister does not direct its curatorial decisions. The museum said it would provide a comment but had not done so at the time of reporting. The intervention followed a campaign against the exhibition by Jewish organisations and the Israeli government, the earlier Shurat HaDin legal demand letter (ACI-103) and the June 22 resignation of trustee Mark Berlin (ACI-103-A).",
+      "outcome": "Heritage Minister Marc Miller said on June 29, 2026 that the exhibition was an 'error in curation' that 'should be rectified'; the museum, which opened the show unaltered on June 27, had not yet responded. [FOLLOW-UP PENDING: whether the CMHR alters or defends the exhibition in response to the minister, and whether Shurat HaDin proceeds with the legal action threatened in ACI-103.]",
+      "tags": "Censorship, Geopolitics, Political interference, Community objection, Institutional crisis",
+      "court_case": "Pending",
+      "coverage_tier": "National",
+      "outlets": [
+        "CP24",
+        "CBC News",
+        "The Canadian Press"
+      ],
+      "source": "https://www.cp24.com/news/canada/2026/06/29/heritage-minister-says-palestinian-exhibit-at-rights-museum-should-be-rectified/",
+      "themes": [
+        3,
+        4,
+        5
+      ],
+      "notes": "[FOLLOW-UP PENDING] Sub-entry of 103; escalation beyond 103-A. A sitting federal cabinet minister publicly urging a publicly-funded museum to change an exhibition is a government-pressure data point distinct from the trustee resignation in 103-A — read against the project's 'externalised censorship' and political-interference frames. The museum reports to Parliament through the Heritage Minister but he holds no curatorial authority; whether the institution adapts is the open question. Cf. 012 (Smithsonian) and the Venice Biennale Palestine cluster (006, 008) on publicly funded institutions pressured over contested historical narratives.",
+      "interested_parties": "Heritage Minister Marc Miller; CMHR board and leadership; Shurat HaDin – Israel Law Center; Jewish organisations; Israeli government; Palestinian Canadian community (exhibition collaborators)",
+      "coverage_geography": "Canada, Israel, international arts press",
+      "follow_up_pending": true
+    },
+    {
       "id": "ACI-102",
       "entry_id": "102",
       "seq": 226,
@@ -11786,6 +11819,35 @@
       "follow_up_pending": true
     },
     {
+      "id": "ACI-050-F",
+      "entry_id": "050-F",
+      "seq": 457,
+      "title": "White House State Ballroom / East Wing — no-bid ~$500M ballroom contract routed through exempt Executive Residence office; Trump personally negotiated pricing (Washington Post)",
+      "artist": "N/A (federal building project)",
+      "institution": "White House East Wing site, Washington DC; Clark Construction (contractor)",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "September 22, 2025 (contract signed); reported June 30, 2026",
+      "date_discovered": "2026-06-30",
+      "sort_date": "2026-06-30",
+      "description": "The Washington Post reported on June 30, 2026 that White House officials secretly awarded a no-bid contract worth up to $500 million for the East Wing ballroom construction (see ACI-050), in an arrangement that sidestepped typical federal contracting procedures. The contract, signed September 22, 2025, was routed through the Executive Residence — an office exempt from competitive-bidding and public-disclosure rules that typically handles routine repairs, furnishings and art purchases rather than major construction. Records show President Trump was directly involved in negotiating some project costs; the Post reported that on March 4, days after the start of the war with Iran, Trump personally negotiated the price of concrete supplied by a Clark Construction subsidiary, with the quoted price — initially more than $47 million — dropping $2.3 million during the negotiation, according to a summary of the terms noting his involvement. Joshua Fisher, director of the White House Office of Administration, stated on the contract that bids were not solicited because disclosure 'would compromise the national security.' In the parallel litigation over the project's legality (see ACI-050-C, 050-D), the no-bid nature of the contract has not been raised by either party. A White House official said the contract was issued through the Executive Residence because that office 'will be the primary support of the facility' and that the office 'consistently executes contracts following the law.' Experts told the Post that the General Services Administration or the National Park Service are better equipped to handle large White House construction contracts, and an internal 2024 interagency memorandum states that major structural work on the East Wing is their responsibility, not the Executive Residence's.",
+      "outcome": "No-bid contract and procurement details revealed June 30, 2026; not previously disclosed in the ongoing litigation. [FOLLOW-UP PENDING: whether the no-bid procurement becomes a new legal issue in the pending appeal, and the DC Circuit ruling on ACI-050-D.]",
+      "tags": "Funding dispute, Legal challenge, Political interference, Cultural property destruction",
+      "court_case": "Pending",
+      "coverage_tier": "National",
+      "outlets": [
+        "The Washington Post"
+      ],
+      "source": "https://www.washingtonpost.com/investigations/2026/06/30/trump-ballroom-built-under-secret-500m-no-bid-contract/",
+      "themes": [
+        2
+      ],
+      "notes": "[FOLLOW-UP PENDING] Sub-entry of 050, sibling of 050-D/050-E. Procurement-mechanism story distinct from the legal appeal (050-D) and the congressional funding fight (050-B/050-E): it reveals HOW the contract itself was structured — routed through the disclosure-exempt Executive Residence — to avoid competitive bidding and public disclosure. SOURCING: the Washington Post is blocked to automated fetch (HTTP 403) and was not machine-retrieved by this session; the description is drawn from the article's text as relayed by the maintainer from a parallel drafting session. The canonical source URL is the maintainer-confirmed one above; a differently-constructed URL from that parallel session was discarded as unverified. The March 4, 2026 concrete-negotiation date and figures (initially >$47M, dropping $2.3M) were subsequently confirmed against the article text by the maintainer.",
+      "interested_parties": "White House Office of Administration (Joshua Fisher, director); Executive Residence; Clark Construction; President Trump; General Services Administration; National Park Service; Anthony Costa (former GSA official, quoted)",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
       "id": "ACI-036-C",
       "entry_id": "036-C",
       "seq": 83,
@@ -14550,6 +14612,66 @@
       "notes": "New parent. Part of the ongoing global Benin Bronzes repatriation wave; connects to ACI-035-J (French restitution framework, promulgated May 2026), ACI-193 (Dutch/German returns to Ghana, June 2026), and ACI-015 (European colonial repatriation cluster). The 2025 Netherlands return of 113 bronzes to NCMM was the largest single return directly linked to the 1897 looting. This is a completed repatriation; custody background noted in description but no custody dispute reported as part of this handover. [FOLLOW-UP PENDING]",
       "interested_parties": "University of Zurich / Ethnographic Museum; Museum Rietberg Zurich; Musée d'Ethnographie de Genève; Swiss Federal Councillor Elisabeth Baume-Schneider; Nigeria Minister of Culture Hannatu Musa Musawa; NCMM; Oba Ewuare II (contextual party to ongoing custody dispute)",
       "coverage_geography": "Europe, West Africa, international arts press",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-209",
+      "entry_id": "209",
+      "seq": 455,
+      "title": "Heir of German Jewish collector seeks restitution of Van Gogh's 'Saint-Paul Hospital in Saint-Rémy-de-Provence' (1889) from the Musée d'Orsay",
+      "artist": "Vincent van Gogh — 'Saint-Paul Hospital in Saint-Rémy-de-Provence' / 'Hôpital Saint-Paul à Saint-Rémy-de-Provence' (1889)",
+      "institution": "Musée d'Orsay, Paris",
+      "country": "France",
+      "governance_type": "Democracy",
+      "date_controversy": "June 2026",
+      "date_discovered": "2026-06-30",
+      "sort_date": "2026-06-26",
+      "description": "Klaus Kallmann, 98, a US resident, is seeking the return of a Vincent van Gogh painting he says hung in the Berlin villa of his grandfather, the German Jewish lawyer and collector Felix Kallmann, until the family was forced from their life under Nazi persecution in the early 1930s. The work, 'Saint-Paul Hospital in Saint-Rémy-de-Provence' (1889) — depicting Dr Théophile Peyron outside the asylum at Saint-Rémy where Van Gogh was himself a patient — entered the Musée d'Orsay's collection by a 1973 donation. As reported by ARTnews and Artlyst in late June 2026, Kallmann has pursued the claim for roughly nine years, and France's Commission for the Compensation of Victims of Spoliation (CIVS), the state body that examines wartime spoliation claims, is expected to begin reviewing the case in September 2026. Per Artlyst, the central question is whether the painting left the family's possession voluntarily or as a consequence of Nazi persecution; the museum has published provenance records that acknowledge Kallmann as a former owner.",
+      "outcome": "Claim pending. France's CIVS is expected to begin reviewing the case in September 2026; no decision has been issued. [FOLLOW-UP PENDING: CIVS review and any restitution decision.]",
+      "tags": "Repatriation, Legal challenge, Provenance dispute",
+      "court_case": "Pending",
+      "coverage_tier": "International",
+      "outlets": [
+        "ARTnews",
+        "Artlyst"
+      ],
+      "source": "https://www.artnews.com/art-news/news/heir-german-jewish-collector-van-gogh-painting-musee-dorsay-1234790703/",
+      "themes": [
+        5
+      ],
+      "notes": "New parent. Nazi-era spoliation restitution claim against a major French national museum, now entering the CIVS review phase. Cf. 111 (Musée d'Orsay MNR room of unclaimed Nazi-looted works) and 122 (restitution/provenance) — same institution and same Nazi-looted-art restitution cluster. Theme 5 (ethical encyclopedic/national museum) applies; the dispute turns on voluntary-sale vs. forced-loss provenance. Logged from English-language arts-press coverage (ARTnews, Artlyst); French-press enrichment and the precise CIVS docket are an enrichment item for the Wednesday Europe trawl.",
+      "interested_parties": "Klaus Kallmann (claimant, heir); Felix Kallmann (collector, grandfather, d. 1938); Musée d'Orsay; France's Commission for the Compensation of Victims of Spoliation (CIVS)",
+      "coverage_geography": "France, US, international arts press",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-210",
+      "entry_id": "210",
+      "seq": 456,
+      "title": "Tattoo artist Daniel 'Des' Sanchez Estrada sentenced to 30 years over transport of protest zines (Prairieland case, Texas)",
+      "artist": "Daniel 'Des' Sanchez Estrada (tattoo artist) — zines and protest printed matter",
+      "institution": "US District Court, Northern District of Texas (Judge Reed O'Connor)",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "June 2026",
+      "date_discovered": "2026-06-30",
+      "sort_date": "2026-06-27",
+      "description": "Daniel 'Des' Sanchez Estrada, 39, a Texas tattoo artist and green-card holder, was sentenced in late June 2026 in the US District Court for the Northern District of Texas (Judge Reed O'Connor) to 30 years in federal prison. As reported by Hyperallergic, The Intercept and the Freedom of the Press Foundation, prosecutors alleged he moved a cardboard box of political zines and printed matter — described as 'anti-government and anti-Trump' and including titles such as 'It's Vacant, Take It!' and 'War in the Streets' — to an address in Denton, Texas, in connection with the federal prosecution arising from a July 2025 protest outside the Prairieland Detention Center at which a police officer was shot and wounded. Sanchez Estrada did not attend that protest. Press-freedom advocates framed the prosecution as criminalising protected artistic and political expression; Seth Stern of the Freedom of the Press Foundation said 'Under the First Amendment, possessing literature cannot be criminal.' Sanchez Estrada and co-defendants have said they will appeal.",
+      "outcome": "Sanchez Estrada sentenced to 30 years; he and co-defendants have said they will appeal. [FOLLOW-UP PENDING: the appeal and any further rulings.]",
+      "tags": "Legal challenge, Protest art, Artist safety, Political art",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "Hyperallergic",
+        "The Intercept",
+        "Freedom of the Press Foundation",
+        "The Daily Cartoonist"
+      ],
+      "source": "https://hyperallergic.com/texas-tattoo-artist-gets-30-year-sentence-over-anti-trump-zines/",
+      "themes": [],
+      "notes": "New parent — BORDERLINE inclusion, flagged for editorial review. The proximate dispute is a federal protest prosecution (the Prairieland Detention Center case), not an art-institution controversy; the art-relevant axis is that the prosecuted material was an artist's zines, illustrations and tattoo-flash printed matter, and that art-world outlets (Hyperallergic, The Daily Cartoonist) and press-freedom groups are covering it as the criminalisation of artistic/political expression. Logged thin per the 'err toward showing more' rule; editor to decide whether it belongs in the Index or is primarily a protest-prosecution story. Avoided 'Censorship' as a tag because whether this is censorship is itself the contested claim. Themes left empty: the ten Dissensus themes do not map cleanly to a free-expression criminal case.",
+      "interested_parties": "Daniel 'Des' Sanchez Estrada (defendant, artist); Judge Reed O'Connor; US Department of Justice / federal prosecutors; Freedom of the Press Foundation (Seth Stern); Free Des Support Committee; federal public defender Christopher Weinbel",
+      "coverage_geography": "US",
       "follow_up_pending": true
     }
   ]
