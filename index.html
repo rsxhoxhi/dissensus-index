@@ -111,21 +111,20 @@ async function loadData() {
   `;
 
   // Freshness line
+  // Date parser — handles both ISO (2026-06-29) and long ("May 7, 2026") formats.
+  const parseDate = s => {
+    if (!s) return 0;
+    const cleaned = String(s).replace(/[\u2013\u2014].*?(,|$)/, '$1');
+    const t = Date.parse(cleaned);
+    return isNaN(t) ? 0 : t;
+  };
   // Auto-derive freshness from newest entry (max date_discovered), format-agnostic.
   const latestTs = Math.max(...allCases.map(c => parseDate(c.date_discovered)).filter(Boolean));
   const lp = new Date(latestTs).toISOString().slice(0, 10);
   document.getElementById('freshness').innerHTML =
     `Last reviewed and published: <strong>${formatDate(lp)}</strong> · Data captured continuously; published on editorial review.`;
 
-  // Recent feed — top 12 by date_discovered, newest first.
-  // Handles both ISO (2026-06-29) and long ("May 7, 2026") formats.
-  const parseDate = s => {
-    if (!s) return 0;
-    // take first date if a range like "June 4-8, 2026"
-    const cleaned = String(s).replace(/[\u2013\u2014].*?(,|$)/, '$1');
-    const t = Date.parse(cleaned);
-    return isNaN(t) ? 0 : t;
-  };
+  // Recent feed — top 12 by date_discovered, newest first (parseDate defined above).
   const recentSorted = allCases.slice().sort((a,b) =>
     parseDate(b.date_discovered) - parseDate(a.date_discovered)
   );
