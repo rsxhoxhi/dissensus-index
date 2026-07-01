@@ -111,7 +111,9 @@ async function loadData() {
   `;
 
   // Freshness line
-  const lp = data.meta.last_published;
+  // Auto-derive freshness from newest entry (max date_discovered), format-agnostic.
+  const latestTs = Math.max(...allCases.map(c => parseDate(c.date_discovered)).filter(Boolean));
+  const lp = new Date(latestTs).toISOString().slice(0, 10);
   document.getElementById('freshness').innerHTML =
     `Last reviewed and published: <strong>${formatDate(lp)}</strong> · Data captured continuously; published on editorial review.`;
 
