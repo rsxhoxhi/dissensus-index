@@ -14843,20 +14843,24 @@
       "date_controversy": "July 1, 2026",
       "date_discovered": "2026-07-02",
       "sort_date": "2026-07-01",
-      "description": "In its appeal of Judge Christopher Cooper's 29 May 2026 ruling that the renaming of the John F. Kennedy Center for the Performing Arts was unlawful (see ACI-005-AK), the U.S. Department of Justice told the U.S. Court of Appeals for the D.C. Circuit, in a filing reported on 1 July 2026, that President Trump's name is crucial to the Center's ability to raise money and asked the court to let the name remain while the appeal proceeds. The Washington Times framed the argument as the Center facing 'financial ruin' without the president's name. The Center's name had been physically removed on 13 June 2026 and the facade subsequently covered by a tarp (see ACI-005-AO).",
-      "outcome": "DOJ argued on appeal that the Trump name is essential to Kennedy Center fundraising and sought to keep it during the appeal; the D.C. Circuit had not ruled as of 2 July 2026. [FOLLOW-UP PENDING: D.C. Circuit ruling on the stay/appeal.]",
+      "description": "The U.S. Department of Justice appealed Judge Christopher Cooper's 29 May 2026 ruling that the renaming of the John F. Kennedy Center for the Performing Arts was unlawful (see ACI-005-AK), asking the U.S. Court of Appeals for the D.C. Circuit to let President Trump's name remain during the appeal on the grounds that it is essential to the Center's fundraising. In a court filing reported at the end of June 2026, the Kennedy Center board stated that 'without the name \"Trump\" on the Building, our fundraising will not only come to a halt, but any and all monies raised or committed would be obligated to be returned, refunded, or terminated,' asserting that donations were now conditioned on the name remaining unchanged; the administration warned that removal 'threatens to substantially undermine fundraising and financial viability.' Coverage put the figure at 'hundreds of millions' in donations at risk. The name had been physically removed on 13 June 2026 after the D.C. Circuit declined an administrative stay, and the facade was covered by a tarp (see ACI-005-AO). As reported by Forbes (30 June 2026), The Hill, ABC News, Deadline and The Washington Times.",
+      "outcome": "On appeal, the DOJ and the Kennedy Center board argued the Trump name is essential to the Center's fundraising and sought to keep it during the appeal; the name remained removed and the D.C. Circuit had not ruled on the merits as of 2 July 2026. [FOLLOW-UP PENDING: D.C. Circuit ruling on the appeal.]",
       "tags": "Political interference, Legal challenge, Federal cultural institution, Funding dispute",
       "court_case": "Yes",
       "coverage_tier": "National",
       "outlets": [
+        "Forbes",
+        "The Hill",
+        "ABC News",
+        "Deadline",
         "The Washington Times"
       ],
-      "source": "https://www.washingtontimes.com/news/2026/jul/1/no-trump-no-money-doj-says-kennedy-center-faces-financial-ruin/",
+      "source": "https://www.forbes.com/sites/conormurray/2026/06/30/kennedy-center-claims-it-will-lose-hundreds-of-millions-in-donations-after-removing-trump-name/",
       "themes": [
         2,
         4
       ],
-      "notes": "Sub-entry of ACI-005. Update: the DOJ's fundraising argument on appeal, roughly one month after the name's physical removal (ACI-005-AK / ACI-005-AO). Single-source as retrieved this run (The Washington Times, returned via web search); a direct WebFetch of the article returned HTTP 403, so the headline and summary were obtained through search rather than full-text retrieval. [FOLLOW-UP PENDING: D.C. Circuit ruling.]",
+      "notes": "Sub-entry of ACI-005. Update: the fundraising argument advanced on appeal, roughly one month after the name's physical removal (ACI-005-AK / ACI-005-AO). The 'name essential to fundraising / hundreds of millions at risk' claim is corroborated across Forbes (which reported the board's filing, 30 June 2026), The Hill, ABC News, Deadline and The Washington Times, all retrieved this run. The 'hundreds of millions' / 'fundraising will come to a halt' language is from the Kennedy Center board's own court filing, not the Index's characterization. [FOLLOW-UP PENDING: D.C. Circuit ruling.]",
       "interested_parties": "U.S. Department of Justice; John F. Kennedy Center board; U.S. Court of Appeals for the D.C. Circuit; Judge Christopher Cooper (U.S. District Court)",
       "coverage_geography": "US",
       "follow_up_pending": true
