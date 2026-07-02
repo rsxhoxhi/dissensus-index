@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 452
+    "total_cases": 455
   },
   "cases": [
     {
@@ -14766,6 +14766,99 @@
       "notes": "Thin / single-source (NYT metadata only, retrieved via the NYT feed this run) — flagged for enrichment on a relevant trawl day. Theme 5 (Ethical Museum): the encyclopedic museum and the provenance of its antiquities. Distinct from ACI-112 (the April 2026 Bragg ceremony returning 657 antiquities, a separate action) though part of the same Manhattan DA Antiquities Trafficking Unit enforcement pattern; cross-references the broader looted-antiquities cluster (ACI-112, 179, 194). Borderline framing: the Met called the process collaborative rather than adversarial, so this is logged as an ongoing provenance/repatriation matter rather than an open dispute.",
       "interested_parties": "Manhattan District Attorney's Office (Antiquities Trafficking Unit); Metropolitan Museum of Art; countries of origin receiving returns",
       "coverage_geography": "US, international arts press",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-213",
+      "entry_id": "213",
+      "seq": 461,
+      "title": "Museo Nacional de Bellas Artes (Santiago) cancels León Ferrari retrospective amid Chilean culture-budget cuts",
+      "artist": "León Ferrari (1920–2013), Argentine artist (Golden Lion, Venice Biennale 2007)",
+      "institution": "Museo Nacional de Bellas Artes (MNBA), Santiago",
+      "country": "Chile",
+      "governance_type": "Democracy",
+      "date_controversy": "June 2026",
+      "date_discovered": "2026-07-02",
+      "sort_date": "2026-06-14",
+      "description": "The Museo Nacional de Bellas Artes (MNBA) in Santiago cancelled a planned retrospective of the Argentine artist León Ferrari (1920–2013), which had been in preparation for roughly three years and was scheduled to open in June 2026. MNBA director Varinia Brodsky Zimmermann and Chile's culture minister Francisco Undurraga said the exhibition was suspended for lack of funding, following budget cuts ordered across ministries by the government of President José Antonio Kast, who took office in March 2026; according to the Observatory of Cultural Policies (OPC), the 2026 adjustment applied to the culture ministry reached about 9.8 per cent. Curators Andrés Duprat and Cecilia Rabossi and Chilean cultural figures said the cancellation was a loss. Some critics characterised cutting a show by an artist whose work denounced authoritarianism and state violence, under a president associated with the legacy of Augusto Pinochet, as a form of censorship — a framing the museum rejected in favour of budgetary constraint. As reported by The Art Newspaper (1 July 2026) and Chilean outlets including CNN Chile, La Tercera, El Mostrador and Cooperativa.",
+      "outcome": "Exhibition cancelled; MNBA and the culture ministry cited lack of funding amid 2026 culture-budget cuts under the Kast government. [FOLLOW-UP PENDING: whether the retrospective is rescheduled or relocated.]",
+      "tags": "Funding dispute",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "The Art Newspaper",
+        "CNN Chile",
+        "La Tercera",
+        "El Mostrador",
+        "Cooperativa"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/07/01/leon-ferrari-exhibition-cancelled-chile-museo-nacional-bellas-artes",
+      "themes": [
+        2
+      ],
+      "notes": "New parent. León Ferrari retrospective cancelled at MNBA Santiago; museum attributes the cancellation to culture-budget cuts under the Kast government (in office since March 2026), while some critics frame it as censorship of a politically critical artist. Part of a wider Latin-American pattern of culture-funding retrenchment under new right governments — cf. ACI-013 (Palacio Libertad, Argentina) and ACI-064 (Bienal Indígena, Argentina), the Milei-pattern entries. [FOLLOW-UP PENDING: reschedule/relocation.]",
+      "interested_parties": "Varinia Brodsky Zimmermann (MNBA director); Francisco Undurraga (Chilean culture minister); Andrés Duprat and Cecilia Rabossi (curators); President José Antonio Kast; Observatory of Cultural Policies (OPC)",
+      "coverage_geography": "Chile, Argentina, international",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-214",
+      "entry_id": "214",
+      "seq": 462,
+      "title": "Tokushima Prefecture cancels exhibition of Junya Ishigami's shelved Culture and Arts Hall design; architect cites freedom of expression",
+      "artist": "Junya Ishigami (architect), Junya Ishigami + Associates",
+      "institution": "Tokushima Prefecture (government); venue: Daiichi Souko (First Warehouse), Tokushima",
+      "country": "Japan",
+      "governance_type": "Democracy",
+      "date_controversy": "May–June 2026",
+      "date_discovered": "2026-07-02",
+      "sort_date": "2026-06-01",
+      "description": "An exhibition of architectural models and roughly 2,000 sheets of drawings for Junya Ishigami's design of the former Tokushima Culture and Arts Hall plan was cancelled shortly before its scheduled 1 June 2026 opening at the Daiichi Souko (First Warehouse) in Tokushima. Tokushima Prefecture requested the cancellation, saying the exhibition was inconsistent with the venue's intended use, did not align with the prefecture's urban-planning direction and could cause confusion. The original hall design had been suspended after Governor Masazumi Goto-da, elected in 2023, changed the project and its location. Ishigami said the cancellation trampled freedom of expression and that prefectural residents 'have the right to obtain information about each plan and make choices.' As reported by Tokyo Art Beat, ARTnews Japan, the Tokushima Shimbun and Nikkei xTech.",
+      "outcome": "Exhibition cancelled at the prefecture's request ahead of its 1 June 2026 opening; Ishigami publicly objected, framing it as suppression of expression. [FOLLOW-UP PENDING: whether the exhibition is held elsewhere or the prefecture responds further.]",
+      "tags": "Design controversy, Political interference",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "Tokyo Art Beat",
+        "ARTnews Japan",
+        "Tokushima Shimbun",
+        "Nikkei xTech"
+      ],
+      "source": "https://www.tokyoartbeat.com/articles/-/tokushima-cancelled-ishigami-news-202606",
+      "themes": [],
+      "notes": "New parent. A public authority (Tokushima Prefecture) requested the cancellation of an exhibition of Ishigami's shelved hall design; the architect frames the cancellation as suppression of expression, while the prefecture cites venue-use and urban-planning grounds. Asia-Pacific trawl catch (Thursday 2 July 2026 scan); the story broke around 1 June 2026 and appears previously unlogged — an enrichment candidate for a future Japan pass. Themes left empty: the ten Dissensus themes do not map cleanly to a public authority cancelling an architecture-plan exhibition.",
+      "interested_parties": "Junya Ishigami (architect); Tokushima Prefecture; Governor Masazumi Goto-da; Daiichi Souko (First Warehouse) venue",
+      "coverage_geography": "Japan",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-005-AP",
+      "entry_id": "005-AP",
+      "seq": 463,
+      "title": "Kennedy Center — DOJ tells appeals court Trump's name is essential to fundraising; coverage frames warning of 'financial ruin' without it",
+      "artist": "N/A (federal cultural institution)",
+      "institution": "John F. Kennedy Center for the Performing Arts; U.S. Department of Justice; U.S. Court of Appeals for the D.C. Circuit",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 1, 2026",
+      "date_discovered": "2026-07-02",
+      "sort_date": "2026-07-01",
+      "description": "In its appeal of Judge Christopher Cooper's 29 May 2026 ruling that the renaming of the John F. Kennedy Center for the Performing Arts was unlawful (see ACI-005-AK), the U.S. Department of Justice told the U.S. Court of Appeals for the D.C. Circuit, in a filing reported on 1 July 2026, that President Trump's name is crucial to the Center's ability to raise money and asked the court to let the name remain while the appeal proceeds. The Washington Times framed the argument as the Center facing 'financial ruin' without the president's name. The Center's name had been physically removed on 13 June 2026 and the facade subsequently covered by a tarp (see ACI-005-AO).",
+      "outcome": "DOJ argued on appeal that the Trump name is essential to Kennedy Center fundraising and sought to keep it during the appeal; the D.C. Circuit had not ruled as of 2 July 2026. [FOLLOW-UP PENDING: D.C. Circuit ruling on the stay/appeal.]",
+      "tags": "Political interference, Legal challenge, Federal cultural institution, Funding dispute",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "The Washington Times"
+      ],
+      "source": "https://www.washingtontimes.com/news/2026/jul/1/no-trump-no-money-doj-says-kennedy-center-faces-financial-ruin/",
+      "themes": [
+        2,
+        4
+      ],
+      "notes": "Sub-entry of ACI-005. Update: the DOJ's fundraising argument on appeal, roughly one month after the name's physical removal (ACI-005-AK / ACI-005-AO). Single-source as retrieved this run (The Washington Times, returned via web search); a direct WebFetch of the article returned HTTP 403, so the headline and summary were obtained through search rather than full-text retrieval. [FOLLOW-UP PENDING: D.C. Circuit ruling.]",
+      "interested_parties": "U.S. Department of Justice; John F. Kennedy Center board; U.S. Court of Appeals for the D.C. Circuit; Judge Christopher Cooper (U.S. District Court)",
+      "coverage_geography": "US",
       "follow_up_pending": true
     }
   ]
