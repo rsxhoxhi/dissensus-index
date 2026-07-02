@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 452
+    "total_cases": 457
   },
   "cases": [
     {
@@ -966,7 +966,7 @@
       "date_controversy": "June 18-21, 2026",
       "date_discovered": "2026-06-27",
       "sort_date": "2026-06-21",
-      "description": "Within about two weeks of the roughly $14 million renovation's completion and the pool's mid-June refilling, the Lincoln Memorial Reflecting Pool visibly failed: one of the largest recorded algae blooms in years returned, and the newly applied \"American Flag Blue\" paint began peeling and floating in the water. President Trump attributed the damage to vandals, stating on June 21 that another round of repairs would \"begin immediately\" and alleging that saboteurs had poured corrosive chemicals into the pool and cut a \"250 foot long gash\" with \"some form of knife or blade\"; an administration official said 14 vandalism police reports had been filed. The Washington Post reported it could not verify these allegations, and reporters and at least eight officers on site could not locate the described gash. By June 20-21, roughly five people had been arrested on vandalism accusations and several others issued federal citations, including former Olympic cyclist David Hearn, who said he had only reached in to feel a detached piece of the pool liner and damaged nothing. Sara Bronin, a George Washington University historic-preservation law professor, said the government would have to prove willful damage and that visitors cannot be detained merely for touching the pool. The U.S. Attorney for D.C., Jeanine Pirro, said citations would be prosecuted. The administration said the pool would likely be drained again.",
+      "description": "Within about two weeks of the roughly $14 million renovation's completion and the pool's mid-June refilling, the Lincoln Memorial Reflecting Pool visibly failed: one of the largest recorded algae blooms in years returned, and the newly applied \"American Flag Blue\" paint began peeling and floating in the water. President Trump attributed the damage to vandals, stating on June 21 that another round of repairs would \"begin immediately\" and alleging that saboteurs had poured corrosive chemicals into the pool and cut a \"250 foot long gash\" with \"some form of knife or blade\"; an administration official said 14 vandalism police reports had been filed. The Washington Post reported it could not verify these allegations, and reporters and at least eight officers on site could not locate the described gash. By June 20-21, roughly five people had been arrested on vandalism accusations and several others issued federal citations, including former Olympic canoeist David Hearn, who said he had only reached in to feel a detached piece of the pool liner and damaged nothing. Sara Bronin, a George Washington University historic-preservation law professor, said the government would have to prove willful damage and that visitors cannot be detained merely for touching the pool. The U.S. Attorney for D.C., Jeanine Pirro, said citations would be prosecuted. The administration said the pool would likely be drained again.",
       "outcome": "Renovation visibly failed within ~2 weeks (algae return + peeling paint); administration alleged vandalism (unverified by reporters on site) and announced another draining; ~5 arrests and multiple federal citations issued with prosecutions threatened; charged individuals dispute the vandalism framing. TCLF preservation suit ongoing. [FOLLOW-UP PENDING: prosecutions/citations; further draining and repairs; suit.]",
       "tags": "Conservation, Architectural preservation, Political interference, Funding dispute",
       "court_case": "Pending",
@@ -14766,6 +14766,165 @@
       "notes": "Thin / single-source (NYT metadata only, retrieved via the NYT feed this run) — flagged for enrichment on a relevant trawl day. Theme 5 (Ethical Museum): the encyclopedic museum and the provenance of its antiquities. Distinct from ACI-112 (the April 2026 Bragg ceremony returning 657 antiquities, a separate action) though part of the same Manhattan DA Antiquities Trafficking Unit enforcement pattern; cross-references the broader looted-antiquities cluster (ACI-112, 179, 194). Borderline framing: the Met called the process collaborative rather than adversarial, so this is logged as an ongoing provenance/repatriation matter rather than an open dispute.",
       "interested_parties": "Manhattan District Attorney's Office (Antiquities Trafficking Unit); Metropolitan Museum of Art; countries of origin receiving returns",
       "coverage_geography": "US, international arts press",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-213",
+      "entry_id": "213",
+      "seq": 461,
+      "title": "Museo Nacional de Bellas Artes (Santiago) cancels León Ferrari retrospective amid Chilean culture-budget cuts",
+      "artist": "León Ferrari (1920–2013), Argentine artist (Golden Lion, Venice Biennale 2007)",
+      "institution": "Museo Nacional de Bellas Artes (MNBA), Santiago",
+      "country": "Chile",
+      "governance_type": "Democracy",
+      "date_controversy": "June 2026",
+      "date_discovered": "2026-07-02",
+      "sort_date": "2026-06-14",
+      "description": "The Museo Nacional de Bellas Artes (MNBA) in Santiago cancelled a planned retrospective of the Argentine artist León Ferrari (1920–2013), which had been in preparation for roughly three years and was scheduled to open in June 2026. MNBA director Varinia Brodsky Zimmermann and Chile's culture minister Francisco Undurraga said the exhibition was suspended for lack of funding, following budget cuts ordered across ministries by the government of President José Antonio Kast, who took office in March 2026; according to the Observatory of Cultural Policies (OPC), the 2026 adjustment applied to the culture ministry reached about 9.8 per cent. Curators Andrés Duprat and Cecilia Rabossi and Chilean cultural figures said the cancellation was a loss. Some critics characterised cutting a show by an artist whose work denounced authoritarianism and state violence, under a president associated with the legacy of Augusto Pinochet, as a form of censorship — a framing the museum rejected in favour of budgetary constraint. As reported by The Art Newspaper (1 July 2026) and Chilean outlets including CNN Chile, La Tercera, El Mostrador and Cooperativa.",
+      "outcome": "Exhibition cancelled; MNBA and the culture ministry cited lack of funding amid 2026 culture-budget cuts under the Kast government. [FOLLOW-UP PENDING: whether the retrospective is rescheduled or relocated.]",
+      "tags": "Funding dispute",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "The Art Newspaper",
+        "CNN Chile",
+        "La Tercera",
+        "El Mostrador",
+        "Cooperativa"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/07/01/leon-ferrari-exhibition-cancelled-chile-museo-nacional-bellas-artes",
+      "themes": [
+        2
+      ],
+      "notes": "New parent. León Ferrari retrospective cancelled at MNBA Santiago; museum attributes the cancellation to culture-budget cuts under the Kast government (in office since March 2026), while some critics frame it as censorship of a politically critical artist. Part of a wider Latin-American pattern of culture-funding retrenchment under new right governments — cf. ACI-013 (Palacio Libertad, Argentina) and ACI-064 (Bienal Indígena, Argentina), the Milei-pattern entries. [FOLLOW-UP PENDING: reschedule/relocation.]",
+      "interested_parties": "Varinia Brodsky Zimmermann (MNBA director); Francisco Undurraga (Chilean culture minister); Andrés Duprat and Cecilia Rabossi (curators); President José Antonio Kast; Observatory of Cultural Policies (OPC)",
+      "coverage_geography": "Chile, Argentina, international",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-214",
+      "entry_id": "214",
+      "seq": 462,
+      "title": "Tokushima Prefecture cancels exhibition of Junya Ishigami's shelved Culture and Arts Hall design; architect cites freedom of expression",
+      "artist": "Junya Ishigami (architect), Junya Ishigami + Associates",
+      "institution": "Tokushima Prefecture (government); venue: Daiichi Souko (First Warehouse), Tokushima",
+      "country": "Japan",
+      "governance_type": "Democracy",
+      "date_controversy": "May–June 2026",
+      "date_discovered": "2026-07-02",
+      "sort_date": "2026-06-01",
+      "description": "An exhibition of architectural models and roughly 2,000 sheets of drawings for Junya Ishigami's design of the former Tokushima Culture and Arts Hall plan was cancelled shortly before its scheduled 1 June 2026 opening at the Daiichi Souko (First Warehouse) in Tokushima. Tokushima Prefecture requested the cancellation, saying the exhibition was inconsistent with the venue's intended use, did not align with the prefecture's urban-planning direction and could cause confusion. The original hall design had been suspended after Governor Masazumi Goto-da, elected in 2023, changed the project and its location. Ishigami said the cancellation trampled freedom of expression and that prefectural residents 'have the right to obtain information about each plan and make choices.' As reported by Tokyo Art Beat, ARTnews Japan, the Tokushima Shimbun and Nikkei xTech.",
+      "outcome": "Exhibition cancelled at the prefecture's request ahead of its 1 June 2026 opening; Ishigami publicly objected, framing it as suppression of expression. [FOLLOW-UP PENDING: whether the exhibition is held elsewhere or the prefecture responds further.]",
+      "tags": "Design controversy, Political interference",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "Tokyo Art Beat",
+        "ARTnews Japan",
+        "Tokushima Shimbun",
+        "Nikkei xTech"
+      ],
+      "source": "https://www.tokyoartbeat.com/articles/-/tokushima-cancelled-ishigami-news-202606",
+      "themes": [],
+      "notes": "New parent. A public authority (Tokushima Prefecture) requested the cancellation of an exhibition of Ishigami's shelved hall design; the architect frames the cancellation as suppression of expression, while the prefecture cites venue-use and urban-planning grounds. Asia-Pacific trawl catch (Thursday 2 July 2026 scan); the story broke around 1 June 2026 and appears previously unlogged — an enrichment candidate for a future Japan pass. Themes left empty: the ten Dissensus themes do not map cleanly to a public authority cancelling an architecture-plan exhibition.",
+      "interested_parties": "Junya Ishigami (architect); Tokushima Prefecture; Governor Masazumi Goto-da; Daiichi Souko (First Warehouse) venue",
+      "coverage_geography": "Japan",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-005-AP",
+      "entry_id": "005-AP",
+      "seq": 463,
+      "title": "Kennedy Center — DOJ tells appeals court Trump's name is essential to fundraising; coverage frames warning of 'financial ruin' without it",
+      "artist": "N/A (federal cultural institution)",
+      "institution": "John F. Kennedy Center for the Performing Arts; U.S. Department of Justice; U.S. Court of Appeals for the D.C. Circuit",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 1, 2026",
+      "date_discovered": "2026-07-02",
+      "sort_date": "2026-07-01",
+      "description": "The U.S. Department of Justice appealed Judge Christopher Cooper's 29 May 2026 ruling that the renaming of the John F. Kennedy Center for the Performing Arts was unlawful (see ACI-005-AK), asking the U.S. Court of Appeals for the D.C. Circuit to let President Trump's name remain during the appeal on the grounds that it is essential to the Center's fundraising. In a court filing reported at the end of June 2026, the Kennedy Center board stated that 'without the name \"Trump\" on the Building, our fundraising will not only come to a halt, but any and all monies raised or committed would be obligated to be returned, refunded, or terminated,' asserting that donations were now conditioned on the name remaining unchanged; the administration warned that removal 'threatens to substantially undermine fundraising and financial viability.' Coverage put the figure at 'hundreds of millions' in donations at risk. The name had been physically removed on 13 June 2026 after the D.C. Circuit declined an administrative stay, and the facade was covered by a tarp (see ACI-005-AO). As reported by Forbes (30 June 2026), The Hill, ABC News, Deadline and The Washington Times.",
+      "outcome": "On appeal, the DOJ and the Kennedy Center board argued the Trump name is essential to the Center's fundraising and sought to keep it during the appeal; the name remained removed and the D.C. Circuit had not ruled on the merits as of 2 July 2026. [FOLLOW-UP PENDING: D.C. Circuit ruling on the appeal.]",
+      "tags": "Political interference, Legal challenge, Federal cultural institution, Funding dispute",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "Forbes",
+        "The Hill",
+        "ABC News",
+        "Deadline",
+        "The Washington Times"
+      ],
+      "source": "https://www.forbes.com/sites/conormurray/2026/06/30/kennedy-center-claims-it-will-lose-hundreds-of-millions-in-donations-after-removing-trump-name/",
+      "themes": [
+        2,
+        4
+      ],
+      "notes": "Sub-entry of ACI-005. Update: the fundraising argument advanced on appeal, roughly one month after the name's physical removal (ACI-005-AK / ACI-005-AO). The 'name essential to fundraising / hundreds of millions at risk' claim is corroborated across Forbes (which reported the board's filing, 30 June 2026), The Hill, ABC News, Deadline and The Washington Times, all retrieved this run. The 'hundreds of millions' / 'fundraising will come to a halt' language is from the Kennedy Center board's own court filing, not the Index's characterization. [FOLLOW-UP PENDING: D.C. Circuit ruling.]",
+      "interested_parties": "U.S. Department of Justice; John F. Kennedy Center board; U.S. Court of Appeals for the D.C. Circuit; Judge Christopher Cooper (U.S. District Court)",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-046-I",
+      "entry_id": "046-I",
+      "seq": 464,
+      "title": "Lincoln Memorial Reflecting Pool — former Olympic canoeist David Hearn indicted on a felony property-destruction charge over alleged vandalism",
+      "artist": "N/A (federal infrastructure)",
+      "institution": "Lincoln Memorial Reflecting Pool (National Park Service); U.S. Attorney's Office for the District of Columbia",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 2, 2026 (indictment); arrest June 19, 2026",
+      "date_discovered": "2026-07-02",
+      "sort_date": "2026-07-02",
+      "description": "David Carter Hearn, 67, of Bethesda, Maryland — a former Olympic whitewater canoeist — was indicted on a felony charge of 'destruction of property $1,000 or more' over alleged vandalism of the Lincoln Memorial Reflecting Pool, according to court documents reported by The New York Times on 2 July 2026. Hearn had been arrested by the U.S. Park Police near the pool on 19 June 2026 (see ACI-046-H) and was among the first of seven people the administration says were arrested over the pool's condition. U.S. Attorney Jeanine Pirro said prosecutors had 'tremendous evidence' and that National Park Service employees observed Hearn 'forcefully and violently pulling up and removing the bottom liner,' damaging about two square feet of sealant. Hearn maintains his innocence, saying he only reached into the water to touch a piece of already-peeling sealant during a pause in a bike ride and damaged nothing, calling himself 'a curious, concerned citizen.' His lawyers, Norm Eisen and Mary Dohrmann, called the charges 'outrageous' and an effort 'to shift blame for their own failures.' A former prosecutor in Pirro's office, Gregory Rosen, questioned the charge, saying binding D.C. appeals precedent requires intent or wanton conduct and that 'damage resulting from an accident or curiosity doesn't qualify.' Pirro's office said other arrestees' cases were under review, some likely misdemeanors or violations. President Trump had blamed vandals for the failed renovation without citing evidence (see ACI-046-H).",
+      "outcome": "Hearn indicted 2 July 2026 on one felony count of destruction of property ($1,000+); he asserts his innocence and his lawyers vowed to fight the charge. Other Reflecting Pool arrestees' cases under review. [FOLLOW-UP PENDING: arraignment, trial, and the outcome of Hearn's case and the other Reflecting Pool prosecutions.]",
+      "tags": "Legal challenge, Landmark dispute, Architectural preservation, Design controversy",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "The New York Times"
+      ],
+      "source": "https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html",
+      "themes": [
+        1,
+        2,
+        9
+      ],
+      "notes": "Sub-entry of ACI-046; escalation of ACI-046-H (the failed renovation, the administration's vandalism allegations, and the 19-21 June 2026 arrests). First indictment arising from the Reflecting Pool arrests. ACI-046-H originally described Hearn as a 'former Olympic cyclist'; corrected to 'canoeist' (his Olympic sport was whitewater canoeing; he was on a bike ride when he stopped at the pool) in this scan. [FOLLOW-UP PENDING: arraignment/trial and the other prosecutions.]",
+      "interested_parties": "David Carter Hearn (defendant); Norm Eisen and Mary Dohrmann (defense counsel); Jeanine Pirro (U.S. Attorney, D.C.); U.S. Park Police / National Park Service; Gregory Rosen (former prosecutor); President Trump",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-038-L",
+      "entry_id": "038-L",
+      "seq": 465,
+      "title": "Trump Triumphal Arch — D.C. historic preservation officer urges an alternative site, calling the Memorial Circle location 'divisive'",
+      "artist": "N/A (renderings by Harrison Design)",
+      "institution": "District of Columbia Historic Preservation Office; National Park Service; U.S. Commission of Fine Arts; National Capital Planning Commission",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "June 26, 2026 (letter); reported July 2, 2026",
+      "date_discovered": "2026-07-02",
+      "sort_date": "2026-07-02",
+      "description": "David Maloney, the District of Columbia's historic preservation officer since 2007, told the National Park Service in a 26 June 2026 letter — posted by a federal commission reviewing the project and reported by The Washington Post on 2 July 2026 — that the Trump administration should choose an 'alternative site' for President Trump's planned 250-foot triumphal arch, warning that building it in Memorial Circle, a traffic roundabout across the river from the Lincoln Memorial and near Arlington National Cemetery, would be 'divisive' and would 'severely damage an exceptional cultural landscape and one of the most important symbolic places in the nation.' Maloney proposed instead an empty traffic oval on South Capitol Street between Nationals Park and Audi Field — a site previously floated by Rodney Mims Cook Jr., the Trump-appointed chair of the U.S. Commission of Fine Arts — saying it would 'enhance the historic L'Enfant Plan' rather than detract from it. Maloney also criticized the 10-day public-comment window and said outside experts had been wrongly excluded from the federally required Section 106 review; Rebecca Miller of the DC Preservation League had similarly written on 15 June that the process was 'designed to shield this controversial project from genuine public and expert scrutiny.' The Commission of Fine Arts has approved the arch; the National Capital Planning Commission is scheduled to weigh it on 9 July 2026. Military veterans have sued to block the project over its effect on views of Arlington National Cemetery, and a federal judge is weighing the case. Mayor Muriel Bowser's office declined to comment.",
+      "outcome": "The D.C. historic preservation officer formally urged relocating the arch away from Memorial Circle to a South Capitol Street site; the recommendation is advisory. NCPC review set for 9 July 2026; the veterans' lawsuit remains before a federal judge. [FOLLOW-UP PENDING: NCPC's 9 July decision and the litigation.]",
+      "tags": "Design controversy, Architectural preservation, Landmark dispute, Legal challenge, Political art",
+      "court_case": "Pending",
+      "coverage_tier": "National",
+      "outlets": [
+        "The Washington Post"
+      ],
+      "source": "https://www.washingtonpost.com/politics/2026/07/02/dc-preservation-officer-pushes-new-location-trump-arch/",
+      "themes": [
+        1,
+        2,
+        9
+      ],
+      "notes": "Sub-entry of ACI-038; continues the siting / Section 106 dispute (ACI-038-J, ACI-038-K). New development: the D.C. historic preservation officer's 26 June 2026 letter opposing the Memorial Circle site and proposing a South Capitol Street alternative near Nationals Park. Cross-refs: the veterans' lawsuit over Arlington sightlines; CFA approval under Trump-appointed chair Rodney Mims Cook Jr. (cf. ACI-155). [FOLLOW-UP PENDING: NCPC 9 July vote; litigation.]",
+      "interested_parties": "David Maloney (D.C. historic preservation officer); National Park Service; U.S. Commission of Fine Arts (chair Rodney Mims Cook Jr.); National Capital Planning Commission; DC Preservation League (Rebecca Miller); Mayor Muriel Bowser; military-veteran plaintiffs",
+      "coverage_geography": "US",
       "follow_up_pending": true
     }
   ]
