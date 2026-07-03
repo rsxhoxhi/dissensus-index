@@ -94,7 +94,7 @@ An entry can carry zero, one, or multiple theme tags:
 2. Public Funding — What happens when public funding meets private expression?
 3. Exhibition Responsibility — What do major recurring exhibitions owe to the politics of their moment?
 4. Institutional Risk — Should institutions work to avoid controversy?
-5. Ethical Museum — What does an ethical encyclopedic museum look like?
+5. Universal Museum — What is the standing of the universal (encyclopedic) museum, and what does an ethical one look like? Applies to any case where a universal museum is part of the axis of the dispute (e.g., Benin Bronzes at the British Museum).
 6. Iconoclasm — When is iconoclasm justified? Can a consistent standard apply?
 7. Unauthorized Public Art — What rights does an artist retain over unauthorized public work?
 8. Artist Responsibility — Does an artist owe specific affected audiences?
@@ -344,9 +344,8 @@ When the maintainer pastes a link or describes something they saw, fetch it, ass
 ## 14. Analytical frames (apply consistently across entries)
 
 - **Governance friction** — track friction, not just type. Highest controversy volume where current governance conflicts with established cultural norms: democracies under illiberal pressure, authoritarian states with liberal cultural histories (Turkey, Singapore, Russia), transitional states. Absence in consolidated authoritarian systems signals pre-emptive censorship, not its absence. Governance trajectory annotation for democracies trending authoritarian.
-- **Externalised censorship** — produced by supply-chain compliance, procurement, or funding conditionality rather than direct order (V&A catalogue, EU/Venice funding withdrawal).
-- **Soft censorship architecture** — institutional self-censorship from anticipated consequences, with no external actor's direct instruction.
-- **Anticipatory obedience** — capitulation before any formal order is issued.
+- **Externalised censorship** — produced by external pressure routed indirectly (supply-chain compliance, procurement, funding conditionality) rather than direct order (V&A catalogue, EU/Venice funding withdrawal). Near-equivalents in the literature: "soft censorship" (press-freedom usage) and "censorship by proxy" (legal scholarship).
+- **Anticipatory obedience** — the institution moves first: no order issued, no direct external pressure applied; capitulation to anticipated consequences. Absorbs the retired "Soft censorship architecture" frame and tag — do not apply that label to new entries.
 - **Curatorial adaptation vs. ideologically driven alteration** — legitimate curatorial adjustment vs. change to avoid political consequence.
 - **Iconoclasm taxonomy** — top-down (Gamboni) / bottom-up (Gamboni) / lateral (warfare/peer-actor damage). Fluid analytical tools, not rigid bins.
 - **Cross-entry connections** — reference parent IDs explicitly; track patterns across cases (e.g., Milei pattern across Latin American entries; war-destruction clusters sharing a broad tag + cross-reference line).

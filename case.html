@@ -74,7 +74,6 @@ async function loadCase() {
       ${c.artist && c.artist !== 'nan' ? `<span><strong>Artist / Subject</strong><br>${escHtml(c.artist)}</span>` : ''}
       ${c.institution && c.institution !== 'nan' ? `<span><strong>Institution</strong><br>${escHtml(c.institution)}</span>` : ''}
       <span><strong>Country</strong><br>${escHtml(c.country)}</span>
-      ${c.governance_type && c.governance_type !== 'nan' ? `<span><strong>Governance</strong><br>${escHtml(c.governance_type)}</span>` : ''}
       <span><strong>Date</strong><br>${escHtml(c.date_controversy)}</span>
       ${c.court_case && c.court_case !== 'nan' ? `<span><strong>Court case</strong><br>${escHtml(c.court_case)}</span>` : ''}
       <span><strong>Coverage</strong><br>${escHtml(c.coverage_tier)}</span>
