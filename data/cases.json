@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 457
+    "total_cases": 460
   },
   "cases": [
     {
@@ -14925,6 +14925,99 @@
       "notes": "Sub-entry of ACI-038; continues the siting / Section 106 dispute (ACI-038-J, ACI-038-K). New development: the D.C. historic preservation officer's 26 June 2026 letter opposing the Memorial Circle site and proposing a South Capitol Street alternative near Nationals Park. Cross-refs: the veterans' lawsuit over Arlington sightlines; CFA approval under Trump-appointed chair Rodney Mims Cook Jr. (cf. ACI-155). [FOLLOW-UP PENDING: NCPC 9 July vote; litigation.]",
       "interested_parties": "David Maloney (D.C. historic preservation officer); National Park Service; U.S. Commission of Fine Arts (chair Rodney Mims Cook Jr.); National Capital Planning Commission; DC Preservation League (Rebecca Miller); Mayor Muriel Bowser; military-veteran plaintiffs",
       "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-007-F",
+      "entry_id": "007-F",
+      "seq": 466,
+      "title": "National Park Service interpretive content — First Circuit stays June 12 order requiring reinstallation of removed slavery and climate exhibits",
+      "artist": "N/A",
+      "institution": "National Park Service / U.S. Department of the Interior; U.S. Court of Appeals for the First Circuit",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 2, 2026 (appellate stay)",
+      "date_discovered": "2026-07-03",
+      "sort_date": "2026-07-02",
+      "description": "On July 2, 2026, a three-judge panel of the Boston-based U.S. Court of Appeals for the First Circuit put on hold a district judge's June 12 order (see 007-D) that had required the National Park Service to reinstall dozens of interpretive exhibits it had removed from national parks on subjects including slavery and climate change, under President Trump's directive targeting displays said to 'inappropriately disparage Americans past or living.' As reported by The New York Times, Reuters and The Philadelphia Inquirer, the panel — composed only of judges appointed by Democratic presidents — stayed the reinstatement order while the administration appeals, writing that the government was likely to prevail because the plaintiffs had not shown they would be irreparably harmed while the litigation proceeds. The court did not decide whether the removals were lawful. A lawyer for the plaintiffs, the advocacy group Democracy Forward, called the ruling a disappointing but 'temporary procedural setback.'",
+      "outcome": "First Circuit stayed the June 12 nationwide reinstatement order on July 2, 2026, letting the removals stand for now; the merits of the removal policy remain undecided and the administration's appeal continues. [FOLLOW-UP PENDING: the First Circuit's merits ruling on whether the interpretive-content removals were lawful.]",
+      "tags": "Censorship, Historical erasure, Political interference, Legal challenge, Removal",
+      "court_case": "Pending",
+      "coverage_tier": "National",
+      "outlets": [
+        "The New York Times",
+        "Reuters",
+        "The Philadelphia Inquirer"
+      ],
+      "source": "https://www.nytimes.com/2026/07/02/climate/court-national-parks-signs-trump.html",
+      "themes": [
+        2,
+        6
+      ],
+      "notes": "Sub-entry of 007 / directly reverses the posture of sibling 007-D (the June 12 D. Mass./nationwide injunction). Sits in the President's House (007-A/B/C) and Bunker Hill (007-E) cluster of the NPS 'improper ideology' interpretive-content program. Top-down censorship of federal heritage interpretation; governance-friction case. Surfaced via the NYT all-desk API query (Climate desk) and the WaPo/dragnet sweep, corroborated by the Reuters wire (carried by U.S. News, Detroit News and others) and The Philadelphia Inquirer. Themes mirror siblings 007-D/E [2,6]. [FOLLOW-UP PENDING]",
+      "interested_parties": "National Park Service; U.S. Department of the Interior; Trump administration (March 2025 executive order on 'improper ideology'); Democracy Forward (plaintiffs' counsel); First Circuit panel",
+      "coverage_geography": "US (national)",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-215",
+      "entry_id": "215",
+      "seq": 467,
+      "title": "Manifesta 16 Ruhr — artist Dorothee Bielfeld demands removal of Nasan Tur's installation 'Elevation,' alleging it plagiarizes her 2010 work",
+      "artist": "Nasan Tur ('Elevation'); Dorothee Bielfeld (claimant; 'Aufrichten / Raising Up', 2010)",
+      "institution": "Manifesta 16 Ruhr (European Nomadic Biennial); St. Gertrud Church, Essen, Germany",
+      "country": "Germany",
+      "governance_type": "Democracy",
+      "date_controversy": "July 2026 (reported July 2, 2026)",
+      "date_discovered": "2026-07-03",
+      "sort_date": "2026-07-02",
+      "description": "In early July 2026, Bochum-based artist Dorothee Bielfeld publicly demanded that the organizers of Manifesta 16 Ruhr remove an installation by Turkish sculptor Nasan Tur, alleging plagiarism, according to ARTnews. Tur's work 'Elevation,' installed inside St. Gertrud Church in Essen, consists of reclaimed church pews turned on their sides and engraved with anonymous musings submitted by the public. Bielfeld told the German outlet WAZ that the piece's central motif — meter-high upright pews reoriented into oblique towers — closely resembles her 2010 work 'Aufrichten (Raising Up),' made for the Ruhr.2010 cultural campaign. A Manifesta 16 spokesperson said that while the installations bear 'superficial' similarities, the biennial stands by a curatorial assessment by Leonie Herweg and René Block, who deemed Tur's work artistically independent. Tur denied the accusation, calling it 'false and baseless' and saying the coverage had affected him 'deeply.'",
+      "outcome": "As of July 2, 2026, 'Elevation' remained on display and Manifesta 16 stood by the work; no legal action had been reported. [FOLLOW-UP PENDING: whether Bielfeld pursues formal or legal action, or the biennial removes or relabels the work.]",
+      "tags": "Copyright/ownership, Authenticity",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "ARTnews"
+      ],
+      "source": "https://www.artnews.com/art-news/news/manifesta-plagiarism-allegation-nasan-tur-dorothee-bielfeld-1234791108/",
+      "themes": [
+        3
+      ],
+      "notes": "New parent. Plagiarism/originality dispute between two artists staged at a major recurring biennial (Manifesta), with the biennial itself the party asked to remove the work — hence the loose Theme 3 (what recurring exhibitions owe) tag; the ten Dissensus themes do not cleanly cover artist-vs-artist authorship claims, flagged for editorial review. WAZ (the German outlet that carried Bielfeld's original claim) is named as attributed reporting within ARTnews's account but was not directly retrieved this run, so it is not listed as an outlet.",
+      "interested_parties": "Nasan Tur (artist, 'Elevation'); Dorothee Bielfeld (claimant artist, 'Aufrichten', 2010); Manifesta 16 Ruhr; curators Leonie Herweg and René Block; St. Gertrud Church, Essen",
+      "coverage_geography": "Germany, US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-216",
+      "entry_id": "216",
+      "seq": 468,
+      "title": "Gelman Collection — activist group Defendamos la Colección Gelman initiates legal action against the Mexican government and Banco Santander over the collection's transfer to Spain",
+      "artist": "Frida Kahlo, Diego Rivera, José Clemente Orozco and others (Jacques and Natasha Gelman Collection of Mexican modernism)",
+      "institution": "INBAL (Instituto Nacional de Bellas Artes y Literatura); Banco Santander / Faro Santander (Spain)",
+      "country": "Mexico",
+      "governance_type": "Democracy",
+      "date_controversy": "July 2, 2026 (legal action initiated); collection abroad June 2026–2028",
+      "date_discovered": "2026-07-03",
+      "sort_date": "2026-07-02",
+      "description": "On or about July 2, 2026, the activist collective Defendamos la Colección Gelman began legal proceedings against Banco Santander and the Mexican state over the transfer abroad of the Jacques and Natasha Gelman Collection of Mexican modernism, which is particularly rich in works by Frida Kahlo (reported as 10 paintings) alongside Diego Rivera, José Clemente Orozco and others. As reported by Proceso, ARTnews, Artforum and The Art Newspaper, the group sent a letter to a Mexico City judge decrying INBAL's actions as 'unconstitutional' and said it was the first in a planned series of lawsuits, demanding the creation of a permanent, publicly accessible museum for the collection in Mexico. The collection's owners agreed with Banco Santander, in cooperation with INBAL, to display the works at the Faro Santander museum in Spain and other international venues before their return to Mexico by 2028. Critics argue that Kahlo's works — protected as a 'monumento artístico' since 1984, and under Mexican law exportable only temporarily — risk effective permanent relocation, and cite a lack of transparency in the arrangement. Banco Santander responded that its handling is in 'full compliance with Mexican law' and that it understands the collection's 'cultural and historical significance to Mexico.'",
+      "outcome": "Legal proceedings initiated in early July 2026; the collective vowed further suits; Banco Santander denied any wrongdoing; the collection remains scheduled to be shown abroad until 2028. [FOLLOW-UP PENDING: the Mexico City court's response to the filing and whether the collection's export proceeds or is blocked.]",
+      "tags": "Cultural patrimony claim, Legal challenge, Community objection, Financialization",
+      "court_case": "Yes",
+      "coverage_tier": "International",
+      "outlets": [
+        "Proceso",
+        "ARTnews",
+        "Artforum",
+        "The Art Newspaper"
+      ],
+      "source": "https://www.proceso.com.mx/cultura/2026/7/2/colectivo-en-defensa-de-la-coleccion-gelman-inicia-acciones-legales-contra-santander-y-el-gobierno-375265.html",
+      "themes": [
+        10
+      ],
+      "notes": "New parent. National-patrimony dispute: a bank (Santander) taking stewardship of a nationally protected collection and moving it abroad, opposed by an activist collective and much of the Mexican art community via open letters and now litigation. Theme 10 (Art and Capital) tags the financialization/private-stewardship axis; the patrimony/heritage-export dimension is the other half and is noted here as no single Dissensus theme covers cultural-patrimony export cleanly. Ongoing since Feb–Mar 2026 (Santander agreement, open letters); the July 2 filing is the escalation that brings it over the logging threshold. All four listed outlets were retrieved this run; Proceso (July 2) is the dated primary.",
+      "interested_parties": "Defendamos la Colección Gelman (activist collective); INBAL; Banco Santander / Faro Santander; the collection's owners (Zambrano family, heirs); Mexican government (Sheinbaum administration); Mexican art community (open letters)",
+      "coverage_geography": "Mexico, Spain, US, UK",
       "follow_up_pending": true
     }
   ]
