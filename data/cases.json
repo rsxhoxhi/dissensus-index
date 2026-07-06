@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 460
+    "total_cases": 461
   },
   "cases": [
     {
@@ -7199,6 +7199,38 @@
       "notes": "[FOLLOW-UP PENDING] Sub-entry of 103; escalation beyond 103-A. A sitting federal cabinet minister publicly urging a publicly-funded museum to change an exhibition is a government-pressure data point distinct from the trustee resignation in 103-A — read against the project's 'externalised censorship' and political-interference frames. The museum reports to Parliament through the Heritage Minister but he holds no curatorial authority; whether the institution adapts is the open question. Cf. 012 (Smithsonian) and the Venice Biennale Palestine cluster (006, 008) on publicly funded institutions pressured over contested historical narratives.",
       "interested_parties": "Heritage Minister Marc Miller; CMHR board and leadership; Shurat HaDin – Israel Law Center; Jewish organisations; Israeli government; Palestinian Canadian community (exhibition collaborators)",
       "coverage_geography": "Canada, Israel, international arts press",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-103-C",
+      "entry_id": "103-C",
+      "seq": 469,
+      "title": "Palestine Uprooted: Nakba Past and Present — political feud escalates as NDP leader says Heritage Minister attacked the museum's independence",
+      "artist": "N/A (museum exhibition)",
+      "institution": "Canadian Museum for Human Rights, Winnipeg, Manitoba",
+      "country": "Canada",
+      "governance_type": "Democracy",
+      "date_controversy": "July 1, 2026",
+      "date_discovered": "2026-07-04",
+      "sort_date": "2026-07-02",
+      "description": "The dispute over the Canadian Museum for Human Rights (CMHR) exhibition 'Palestine Uprooted: Nakba Past and Present' (see ACI-103, 103-A, 103-B) widened into a public feud among Canadian politicians in early July 2026. After federal Heritage Minister Marc Miller said on June 29, 2026 that the exhibition was 'an error in curation' that 'should be rectified' (see ACI-103-B), federal NDP leader Avi Lewis said Miller was wrong to call on the CMHR to change the wording of the exhibition, arguing that a minister publicly demanding changes to a federal Crown-corporation museum's content amounted to attacking the institution's independence. As reported by CBC News and The Art Newspaper, the exchange drew in other politicians and advocacy groups: Jewish organisations and the Israeli government continued to press for the exhibition to be reworked or cancelled, while Arab and Muslim groups and some opposition politicians defended it. The museum, which opened the exhibition unaltered on June 27, 2026, had not changed the show.",
+      "outcome": "The minister's June 29 call to 'rectify' the exhibition drew public pushback from NDP leader Avi Lewis, who framed it as an attack on the museum's independence; the CMHR had neither altered nor withdrawn the exhibition as of early July 2026. [FOLLOW-UP PENDING: whether the CMHR alters or defends the exhibition, and whether the political feud produces any formal action against the museum.]",
+      "tags": "Political interference, Censorship, Geopolitics, Institutional crisis",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "CBC News",
+        "The Art Newspaper"
+      ],
+      "source": "https://www.cbc.ca/news/canada/manitoba/human-rights-museum-palestinian-exhibit-avi-lewis-marc-miller-winnipeg-9.7254508",
+      "themes": [
+        3,
+        4,
+        5
+      ],
+      "notes": "Sub-entry of ACI-103. Update: escalation from the Heritage Minister's June 29 statement (103-B) into an inter-party dispute over museum independence. The 'error in curation' / 'should be rectified' language is the minister's (see 103-B); the 'attacked the museum's independence' framing is NDP leader Avi Lewis's, attributed to him, not the Index's characterization. Cross-ref ACI-103-A (trustee Mark Berlin's June 22 resignation). [FOLLOW-UP PENDING: museum response; any formal action.]",
+      "interested_parties": "Marc Miller (federal Heritage Minister); Avi Lewis (federal NDP leader); CMHR board and leadership; Mark Berlin (resigned trustee); Jewish advocacy groups; Israeli government; Palestinian Canadian and Arab/Muslim community groups",
+      "coverage_geography": "Canada, UK/International",
       "follow_up_pending": true
     },
     {
