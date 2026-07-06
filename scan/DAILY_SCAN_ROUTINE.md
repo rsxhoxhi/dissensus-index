@@ -15,20 +15,49 @@ result as a pull request for later review.
 relax the neutrality standard. The run ends at an open PR. A human reviews and
 merges.
 
-## Step 0 — Establish the date from the system
+## Step 0 — Establish the date, and start from a FRESH base
 
 Get today's date and day of week from the environment (`date -u`), never from
 memory. The day of week selects that day's regional trawl, so it must be correct.
 
-## Step 1 — Pre-scan (against data/cases.json)
+Then fetch the latest state and cut today's branch from it, **not** from whatever
+the clone happened to check out:
 
-The live data is `data/cases.json` (not the spreadsheet). Read it and establish:
-- the highest existing entry number → the next new ID is that + 1;
+```
+git fetch origin main
+git checkout -B claude/daily-<YYYY-MM-DD> origin/main
+```
+
+Why this is mandatory: yesterday's scan PR may have merged since this container
+was created. If today's scan bases on a stale `main`, its dedup misses
+already-merged cases and its ID counter restarts from an old high-water mark —
+so it re-logs merged stories and hands the same `ACI-2xx` ID to a different case.
+That is exactly what produced the 2026-07-04/05/06 duplicate/ID-collision
+pile-up. Always base the day's branch on the freshly-fetched `origin/main`.
+
+## Step 1 — Pre-scan (against origin/main's data/cases.json)
+
+**First, run the base guard — it is the gate for everything below:**
+
+```
+python scan/prescan_guard.py
+```
+
+It fetches `origin/main`, prints the authoritative case count and the true next
+parent ID (`ACI-<highest+1>`), and **exits non-zero if the working tree is behind
+`origin/main`** (i.e. missing cases that are already merged). If it blocks, reset
+onto `origin/main` (Step 0) before assigning any ID — do not proceed on a stale
+base.
+
+The live data is `data/cases.json` on `origin/main` (not the spreadsheet, and not
+a stale local copy). With the guard green, read it and establish:
+- the highest existing entry number → the next new ID is that + 1 (the guard
+  prints this);
 - every case carrying `follow_up_pending: true` (or a "[FOLLOW-UP PENDING]" marker
   in notes);
-- a dedup index of existing `source` URLs and titles.
+- a dedup index of existing `source` URLs and titles, covering **all** rows.
 
-Do not assign any new ID until this read is complete.
+Do not assign any new ID until the guard passes and this read is complete.
 
 ## Step 2A — Outlet homepage scan (MANDATORY, every run)
 
@@ -100,7 +129,10 @@ this project is built around:
 
 ## Step 5 — Write the result as a pull request
 
-On a new branch `claude/daily-YYYY-MM-DD`:
+On the branch cut from `origin/main` in Step 0 (`claude/daily-YYYY-MM-DD`). If any
+time has passed since Step 0, re-run `python scan/prescan_guard.py` before
+committing — if a PR merged mid-run, rebase onto `origin/main` and re-check IDs so
+you don't reintroduce a duplicate/collision:
 
 1. Insert the drafted entries into `data/cases.json`. **Append/insert only.** Add new
    parents; insert sub-entries positionally after the last entry sharing the parent
