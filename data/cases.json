@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 460
+    "total_cases": 465
   },
   "cases": [
     {
@@ -7202,6 +7202,38 @@
       "follow_up_pending": true
     },
     {
+      "id": "ACI-103-C",
+      "entry_id": "103-C",
+      "seq": 469,
+      "title": "Palestine Uprooted: Nakba Past and Present — political feud escalates as NDP leader says Heritage Minister attacked the museum's independence",
+      "artist": "N/A (museum exhibition)",
+      "institution": "Canadian Museum for Human Rights, Winnipeg, Manitoba",
+      "country": "Canada",
+      "governance_type": "Democracy",
+      "date_controversy": "July 1, 2026",
+      "date_discovered": "2026-07-04",
+      "sort_date": "2026-07-02",
+      "description": "The dispute over the Canadian Museum for Human Rights (CMHR) exhibition 'Palestine Uprooted: Nakba Past and Present' (see ACI-103, 103-A, 103-B) widened into a public feud among Canadian politicians in early July 2026. After federal Heritage Minister Marc Miller said on June 29, 2026 that the exhibition was 'an error in curation' that 'should be rectified' (see ACI-103-B), federal NDP leader Avi Lewis said Miller was wrong to call on the CMHR to change the wording of the exhibition, arguing that a minister publicly demanding changes to a federal Crown-corporation museum's content amounted to attacking the institution's independence. As reported by CBC News and The Art Newspaper, the exchange drew in other politicians and advocacy groups: Jewish organisations and the Israeli government continued to press for the exhibition to be reworked or cancelled, while Arab and Muslim groups and some opposition politicians defended it. The museum, which opened the exhibition unaltered on June 27, 2026, had not changed the show.",
+      "outcome": "The minister's June 29 call to 'rectify' the exhibition drew public pushback from NDP leader Avi Lewis, who framed it as an attack on the museum's independence; the CMHR had neither altered nor withdrawn the exhibition as of early July 2026. [FOLLOW-UP PENDING: whether the CMHR alters or defends the exhibition, and whether the political feud produces any formal action against the museum.]",
+      "tags": "Political interference, Censorship, Geopolitics, Institutional crisis",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "CBC News",
+        "The Art Newspaper"
+      ],
+      "source": "https://www.cbc.ca/news/canada/manitoba/human-rights-museum-palestinian-exhibit-avi-lewis-marc-miller-winnipeg-9.7254508",
+      "themes": [
+        3,
+        4,
+        5
+      ],
+      "notes": "Sub-entry of ACI-103. Update: escalation from the Heritage Minister's June 29 statement (103-B) into an inter-party dispute over museum independence. The 'error in curation' / 'should be rectified' language is the minister's (see 103-B); the 'attacked the museum's independence' framing is NDP leader Avi Lewis's, attributed to him, not the Index's characterization. Cross-ref ACI-103-A (trustee Mark Berlin's June 22 resignation). [FOLLOW-UP PENDING: museum response; any formal action.]",
+      "interested_parties": "Marc Miller (federal Heritage Minister); Avi Lewis (federal NDP leader); CMHR board and leadership; Mark Berlin (resigned trustee); Jewish advocacy groups; Israeli government; Palestinian Canadian and Arab/Muslim community groups",
+      "coverage_geography": "Canada, UK/International",
+      "follow_up_pending": true
+    },
+    {
       "id": "ACI-102",
       "entry_id": "102",
       "seq": 226,
@@ -14198,6 +14230,40 @@
       "follow_up_pending": true
     },
     {
+      "id": "ACI-012-F",
+      "entry_id": "012-F",
+      "seq": 470,
+      "title": "Smithsonian — White House Domestic Policy Council report brands National Museum of American History leadership 'extreme' political activists",
+      "artist": "N/A (federal cultural institution)",
+      "institution": "National Museum of American History; Smithsonian Institution; White House Domestic Policy Council",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 4, 2026",
+      "date_discovered": "2026-07-06",
+      "sort_date": "2026-07-04",
+      "description": "The White House Domestic Policy Council released a report on July 4, 2026 — the 250th anniversary of the United States' founding — stating that the Smithsonian has moved 'away from straightforward historical education and scholarship toward an extreme political activism that seeks to transform our country,' and alleging that leadership at the National Museum of American History has been captured by a 'radical, activist ideology.' The report cited a lack of attention to the nation's founders, educational materials on gender fluidity, and the museum's treatment of 'whiteness.' It followed the administration's August 2025 order for a comprehensive internal review of Smithsonian exhibits to ensure 'alignment with the President's directive to celebrate American exceptionalism.' A Smithsonian spokesperson said the institution 'has served the American public with nonpartisan and independent scholarship, and we remain committed to doing so.' As reported by The New York Times (July 5, 2026), CNN, The Hill and The Washington Times.",
+      "outcome": "Report published; the Smithsonian defended its scholarship as nonpartisan and independent. No change to exhibitions or leadership announced as of July 5, 2026. [FOLLOW-UP PENDING: whether the report produces concrete changes at the National Museum of American History or in Smithsonian leadership.]",
+      "tags": "Political interference, Federal cultural institution, Historical erasure, Institutional crisis",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "The New York Times",
+        "CNN",
+        "The Hill",
+        "The Washington Times"
+      ],
+      "source": "https://www.nytimes.com/2026/07/05/arts/design/white-house-smithsonian-american-history-museum.html",
+      "themes": [
+        2,
+        4,
+        5
+      ],
+      "notes": "Sub-entry of ACI-012. Formal escalation of the White House pressure campaign on the Smithsonian (cf. ACI-012, ACI-012-A, ACI-012-D, ACI-012-E). The 'extreme political activism' and 'radical, activist ideology' characterizations are the White House Domestic Policy Council report's, not the Index's voice; the Smithsonian's response is quoted from its spokesperson. Corroborated across NYT (metadata via API this run), CNN, The Hill and The Washington Times (search results this run). The Washington Times is handled per its CLAUDE.md 'evaluated, not excluded' determination — cited here as corroboration alongside NYT/CNN/The Hill, not as a sole source. [FOLLOW-UP PENDING: concrete changes at NMAH or Smithsonian leadership.]",
+      "interested_parties": "White House Domestic Policy Council; National Museum of American History; Smithsonian Institution; Secretary Lonnie Bunch III",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
       "id": "ACI-011",
       "entry_id": "011",
       "seq": 10,
@@ -15012,6 +15078,92 @@
       "notes": "New parent. National-patrimony dispute: a bank (Santander) taking stewardship of a nationally protected collection and moving it abroad, opposed by an activist collective and much of the Mexican art community via open letters and now litigation. Theme 10 (Art and Capital) tags the financialization/private-stewardship axis; the patrimony/heritage-export dimension is the other half and is noted here as no single Dissensus theme covers cultural-patrimony export cleanly. Ongoing since Feb–Mar 2026 (Santander agreement, open letters); the July 2 filing is the escalation that brings it over the logging threshold. All four listed outlets were retrieved this run; Proceso (July 2) is the dated primary.",
       "interested_parties": "Defendamos la Colección Gelman (activist collective); INBAL; Banco Santander / Faro Santander; the collection's owners (Zambrano family, heirs); Mexican government (Sheinbaum administration); Mexican art community (open letters)",
       "coverage_geography": "Mexico, Spain, US, UK",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-217",
+      "entry_id": "217",
+      "seq": 471,
+      "title": "New York (Madison Avenue) gallery surrenders 20 artifacts believed looted from Cambodia",
+      "artist": "N/A (Cambodian antiquities; stone statues and other objects)",
+      "institution": "Unnamed Madison Avenue gallery, New York; US authorities",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "2026-07-02",
+      "date_discovered": "2026-07-05",
+      "sort_date": "2026-07-02",
+      "description": "A Madison Avenue gallery in New York surrendered 20 artifacts — stone statues and other objects — that US authorities believe were looted from Cambodia, according to The New York Times. The gallery had purchased the items from an art dealer accused of trafficking in illicit antiquities. Reported on 2 July 2026 by The New York Times (Tom Mashberg and Graham Bowley). Logged thin from the NYT Article Search metadata (abstract only): the gallery and dealer are not named in the retrieved metadata and the report was not independently corroborated in this run.",
+      "outcome": "Gallery surrendered the 20 objects; reported 2 July 2026. [FOLLOW-UP PENDING: identity of the gallery and dealer, provenance detail, and whether the objects are formally repatriated to Cambodia — enrichment needed; logged thin from NYT metadata.]",
+      "tags": "Repatriation, Legal challenge",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "The New York Times"
+      ],
+      "source": "https://www.nytimes.com/2026/07/02/arts/new-york-gallery-surrenders-20-artifacts-thought-looted-from-cambodia.html",
+      "themes": [
+        5
+      ],
+      "notes": "New parent. Repatriation / antiquities-trafficking cluster (cf. 179 Khmer sculptures at the Met; 112 looted antiquities; 061). Logged thin and single-source from NYT Article Search metadata — the NYT API returns no body text, and the story was not independently corroborated this run. Enrichment candidate: gallery and dealer names, count/provenance, and repatriation status.",
+      "interested_parties": "Unnamed Madison Avenue gallery; Cambodia; US authorities; unnamed art dealer accused of trafficking",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-218",
+      "entry_id": "218",
+      "seq": 472,
+      "title": "Boris Mikhailov photograph (from 'At Dusk', 1993) stolen from the Lithuanian National Museum of Art, Vilnius",
+      "artist": "Boris Mikhailov",
+      "institution": "Lithuanian National Museum of Art / Radvila Palace Museum of Art, Vilnius",
+      "country": "Lithuania",
+      "governance_type": "Democracy",
+      "date_controversy": "2026-06-28",
+      "date_discovered": "2026-07-05",
+      "sort_date": "2026-06-28",
+      "description": "A hand-tinted panoramic photograph by the Ukrainian artist Boris Mikhailov, from his 1993 series 'At Dusk', was stolen on 28 June 2026 from the Radvila Palace Museum of Art (part of the Lithuanian National Museum of Art) in Vilnius, where it was on view in the exhibition 'Ukrainian Dreamers: Kharkiv School of Photography'. Museum staff found the work missing from a second-floor gallery shortly after 1:30 p.m.; the suspected thief had already left the building and the incident was recorded on security cameras. The museum's director general said the perpetrator 'likely knew in advance that Boris Mikhailov is the most prominent artist featured in the exhibition and that his works are among its most valuable'. Lithuanian police valued the photograph at about €7,000 and are investigating. As reported by ARTnews and Ocula.",
+      "outcome": "Photograph stolen 28 June 2026; Lithuanian police are investigating a suspected targeted theft. [FOLLOW-UP PENDING: recovery of the work and any arrest.]",
+      "tags": "Security failure",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "ARTnews",
+        "Ocula"
+      ],
+      "source": "https://www.artnews.com/art-news/news/boris-mikhailov-photograph-stolen-lithuanian-national-museum-1234791089/",
+      "themes": [],
+      "notes": "New parent. Targeted theft of a prominent Ukrainian artist's work from a Kharkiv School of Photography exhibition during the Russia-Ukraine war; logged per the Index's vandalism/theft standard (actor anonymity is constitutive, not a reason to omit — the test is target significance and aftermath). Borderline scale (€7,000) flagged for review. Cf. 002-A (Louvre heist) for the museum-security-failure axis.",
+      "interested_parties": "Lithuanian National Museum of Art; Boris Mikhailov (artist); Lithuanian police",
+      "coverage_geography": "Lithuania, US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-219",
+      "entry_id": "219",
+      "seq": 473,
+      "title": "MuCEM (Marseille) — president Pierre-Olivier Costa and general manager Veronique Hache suspended amid harassment investigation",
+      "artist": "N/A (museum leadership)",
+      "institution": "Museum of European and Mediterranean Civilisations (MuCEM), Marseille",
+      "country": "France",
+      "governance_type": "Democracy",
+      "date_controversy": "2026-06-30",
+      "date_discovered": "2026-07-05",
+      "sort_date": "2026-06-30",
+      "description": "Pierre-Olivier Costa, president of the Museum of European and Mediterranean Civilisations (MuCEM) in Marseille, was suspended for four months following an internal investigation into psychological and sexual-harassment allegations and a preliminary investigation opened by the Marseille prosecutor's office; general manager Veronique Hache was also suspended. In March 2026 a MuCEM employee, since on medical leave, lodged a complaint alleging sexual and moral harassment by the director. Costa's lawyer says he denies any wrongdoing and has filed a complaint for 'malicious accusation' against the employee who made the allegations. France's culture minister announced Costa's departure on 30 June 2026, citing a wish to 'restore a climate of trust'; Anne-Marie Le Guevel of the General Inspectorate of Cultural Affairs (IGAC) was named interim president. As reported by The Art Newspaper, ARTnews and Artforum.",
+      "outcome": "Costa suspended for four months and general manager Hache also suspended; a Marseille prosecutor's preliminary investigation is open; Costa denies wrongdoing and has filed a counter-complaint; IGAC's Anne-Marie Le Guevel named interim president. [FOLLOW-UP PENDING: outcome of the prosecutor's investigation and whether Costa returns or is permanently replaced.]",
+      "tags": "Institutional crisis",
+      "court_case": "Pending",
+      "coverage_tier": "International",
+      "outlets": [
+        "The Art Newspaper",
+        "ARTnews",
+        "Artforum"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/07/02/president-and-general-manager-of-leading-marseille-art-institution-mucem-suspended-amid-workplace-allegations",
+      "themes": [],
+      "notes": "New parent. Museum-leadership / workplace-harassment institutional crisis at a major national museum (cf. 108 Reina Sofia; 002-A Louvre institutional crisis). The allegations are contested — Costa denies them and has filed a counter-complaint. The culture minister's name is withheld pending confirmation: one search summary gave a name inconsistent with the office, so only the fact of the ministerial announcement is stated.",
+      "interested_parties": "Pierre-Olivier Costa (president); Veronique Hache (general manager); complainant employee; Marseille prosecutor's office; Anne-Marie Le Guevel (IGAC, interim president); French culture ministry",
+      "coverage_geography": "France, US",
       "follow_up_pending": true
     }
   ]
