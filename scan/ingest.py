@@ -29,12 +29,19 @@ WINDOW_HOURS = 96
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CASES_PATH = REPO_ROOT / "data" / "cases.json"
 CANDIDATES_PATH = REPO_ROOT / "scan" / "candidates.json"
+# Backlog-aware dedup base written by prescan_guard.py: origin/main ∪ open scan
+# branches. Prefer it when present so RSS dedup also covers cases sitting in
+# unmerged daily-scan PRs, not just what has been merged.
+BACKLOG_PATH = REPO_ROOT / "scan" / "backlog_cases.json"
 
 ATOM_NS = "http://www.w3.org/2005/Atom"
 
 
 def load_known_sources():
-    data = json.loads(CASES_PATH.read_text(encoding="utf-8"))
+    # Prefer the backlog-aware union (main + open scan branches) if the guard
+    # wrote it this run; fall back to the merged case store otherwise.
+    path = BACKLOG_PATH if BACKLOG_PATH.exists() else CASES_PATH
+    data = json.loads(path.read_text(encoding="utf-8"))
     return {
         c.get("source", "").strip()
         for c in data.get("cases", [])
