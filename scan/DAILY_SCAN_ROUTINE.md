@@ -35,7 +35,7 @@ so it re-logs merged stories and hands the same `ACI-2xx` ID to a different case
 That is exactly what produced the 2026-07-04/05/06 duplicate/ID-collision
 pile-up. Always base the day's branch on the freshly-fetched `origin/main`.
 
-## Step 1 — Pre-scan (against origin/main's data/cases.json)
+## Step 1 — Pre-scan (against the backlog-aware union base)
 
 **First, run the base guard — it is the gate for everything below:**
 
@@ -43,19 +43,28 @@ pile-up. Always base the day's branch on the freshly-fetched `origin/main`.
 python scan/prescan_guard.py
 ```
 
-It fetches `origin/main`, prints the authoritative case count and the true next
-parent ID (`ACI-<highest+1>`), and **exits non-zero if the working tree is behind
-`origin/main`** (i.e. missing cases that are already merged). If it blocks, reset
-onto `origin/main` (Step 0) before assigning any ID — do not proceed on a stale
-base.
+The guard defends against **two** failure modes:
 
-The live data is `data/cases.json` on `origin/main` (not the spreadsheet, and not
-a stale local copy). With the guard green, read it and establish:
-- the highest existing entry number → the next new ID is that + 1 (the guard
-  prints this);
+- **Stale local base** — it **exits non-zero if the working tree is behind
+  `origin/main`** (missing already-merged cases). If it blocks, reset onto
+  `origin/main` (Step 0) before assigning any ID.
+- **Unmerged backlog** — when several daily-scan PRs sit OPEN (e.g. the maintainer
+  is away for a few days), their new cases are not in `main` yet. The guard unions
+  `origin/main` with every open `claude/daily-*` / `claude/scan-*` branch not yet
+  merged, so the **next parent ID it prints already accounts for IDs reserved by
+  pending PRs** — two runs can't hand out the same `ACI-2xx`. It lists each pending
+  branch and the IDs it holds, and writes the union to **`scan/backlog_cases.json`**.
+
+Assign new IDs starting from the number the guard prints — **not** from a hand
+count of `data/cases.json`, which sees merged cases only.
+
+With the guard green, establish from the union (`scan/backlog_cases.json`, which
+`ingest.py` also reads automatically for RSS dedup):
+- the next new ID (the guard prints it — it already skips IDs held by open PRs);
 - every case carrying `follow_up_pending: true` (or a "[FOLLOW-UP PENDING]" marker
-  in notes);
-- a dedup index of existing `source` URLs and titles, covering **all** rows.
+  in notes) — from `data/cases.json` on `origin/main`;
+- a dedup index of existing `source` URLs and titles, covering **all** rows of the
+  union — so a story already drafted in an unmerged PR is not logged a second time.
 
 Do not assign any new ID until the guard passes and this read is complete.
 
