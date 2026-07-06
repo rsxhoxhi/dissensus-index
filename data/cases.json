@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 457
+    "total_cases": 462
   },
   "cases": [
     {
@@ -7181,7 +7181,7 @@
       "date_discovered": "2026-06-30",
       "sort_date": "2026-06-29",
       "description": "On June 29, 2026, two days after the Canadian Museum for Human Rights (CMHR) opened 'Palestine Uprooted: Nakba Past and Present' (see ACI-103, 103-A), federal Heritage Minister Marc Miller publicly criticised the exhibition. As reported by CP24, CBC News and The Canadian Press, Miller called it 'an exhibit that is born in controversy — and perhaps some of it could have been avoided,' said that 'not identifying Hamas as a terrorist organization is, I think, a failure,' and described the exhibition as 'an unfortunate error in curation' that 'should be rectified.' The CMHR is a federal Crown corporation that reports to Parliament through the Heritage Minister, though the minister does not direct its curatorial decisions. The museum said it would provide a comment but had not done so at the time of reporting. The intervention followed a campaign against the exhibition by Jewish organisations and the Israeli government, the earlier Shurat HaDin legal demand letter (ACI-103) and the June 22 resignation of trustee Mark Berlin (ACI-103-A).",
-      "outcome": "Heritage Minister Marc Miller said on June 29, 2026 that the exhibition was an 'error in curation' that 'should be rectified'; the museum, which opened the show unaltered on June 27, had not yet responded. [FOLLOW-UP PENDING: whether the CMHR alters or defends the exhibition in response to the minister, and whether Shurat HaDin proceeds with the legal action threatened in ACI-103.]",
+      "outcome": "Heritage Minister Marc Miller said on June 29, 2026 that the exhibition was an 'error in curation' that 'should be rectified'; on June 30, 2026 the Canadian Museum for Human Rights defended the exhibition unaltered and NDP leader Avi Lewis opposed the minister's intervention as political interference (see ACI-103-C). [FOLLOW-UP PENDING: whether Shurat HaDin proceeds with the legal action threatened in ACI-103.]",
       "tags": "Censorship, Geopolitics, Political interference, Community objection, Institutional crisis",
       "court_case": "Pending",
       "coverage_tier": "National",
@@ -7196,10 +7196,41 @@
         4,
         5
       ],
-      "notes": "[FOLLOW-UP PENDING] Sub-entry of 103; escalation beyond 103-A. A sitting federal cabinet minister publicly urging a publicly-funded museum to change an exhibition is a government-pressure data point distinct from the trustee resignation in 103-A — read against the project's 'externalised censorship' and political-interference frames. The museum reports to Parliament through the Heritage Minister but he holds no curatorial authority; whether the institution adapts is the open question. Cf. 012 (Smithsonian) and the Venice Biennale Palestine cluster (006, 008) on publicly funded institutions pressured over contested historical narratives.",
+      "notes": "[FOLLOW-UP PENDING] Sub-entry of 103; the alter-or-defend question resolved via ACI-103-C (museum defended, unaltered), leaving only the Shurat HaDin legal threat open. escalation beyond 103-A. A sitting federal cabinet minister publicly urging a publicly-funded museum to change an exhibition is a government-pressure data point distinct from the trustee resignation in 103-A — read against the project's 'externalised censorship' and political-interference frames. The museum reports to Parliament through the Heritage Minister but he holds no curatorial authority; whether the institution adapts is the open question. Cf. 012 (Smithsonian) and the Venice Biennale Palestine cluster (006, 008) on publicly funded institutions pressured over contested historical narratives.",
       "interested_parties": "Heritage Minister Marc Miller; CMHR board and leadership; Shurat HaDin – Israel Law Center; Jewish organisations; Israeli government; Palestinian Canadian community (exhibition collaborators)",
       "coverage_geography": "Canada, Israel, international arts press",
       "follow_up_pending": true
+    },
+    {
+      "id": "ACI-103-C",
+      "entry_id": "103-C",
+      "seq": 467,
+      "title": "Palestine Uprooted: Nakba Past and Present — museum defends exhibition unaltered; NDP leader calls minister's intervention 'unacceptable political interference'",
+      "artist": "Group exhibition (contemporary Palestinian art, poetry, embroidery, video testimony)",
+      "institution": "Canadian Museum for Human Rights",
+      "country": "Canada",
+      "governance_type": "Democracy",
+      "date_controversy": "June 30, 2026",
+      "date_discovered": "2026-07-06",
+      "sort_date": "2026-07-02",
+      "description": "After Heritage Minister Marc Miller said on June 29, 2026 that the exhibition contained 'regrettable' words and curatorial 'errors' that 'should be rectified' (see ACI-103-B), NDP leader Avi Lewis on June 30, 2026 called Miller's intervention 'unacceptable political interference' that was 'completely out of line,' urging him to 'leave curating to the curators.' The Canadian Museum for Human Rights defended the exhibition rather than altering it, noting that it had referred to the October 7 attack as terrorism and stating it would consider feedback through its established revision process while maintaining curatorial integrity. Competing petitions supporting and opposing the show each gathered more than 11,000 signatures. The exhibition, which opened June 27, 2026, runs through November 2028. As reported by The Art Newspaper (July 2, 2026).",
+      "outcome": "The museum defended the exhibition and did not alter it; NDP leader Avi Lewis publicly opposed the Heritage Minister's intervention as political interference. The exhibition remains open, running through November 2028.",
+      "tags": "Censorship, Geopolitics, Political interference, Community objection, Institutional crisis",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "The Art Newspaper"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/07/02/canadian-museum-human-rights-palestine-uprooted-nakba-exhibition-politics",
+      "themes": [
+        3,
+        4,
+        5
+      ],
+      "notes": "Sub-entry of ACI-103; resolves the first half of the ACI-103-B follow-up (whether the CMHR would alter or defend the exhibition — it defended it unaltered). Minister Miller's and NDP leader Lewis's characterizations are attributed to them, not adopted by the Index. Single retrieved source this run (The Art Newspaper); enrich with Canadian outlets (CBC, CP24, Winnipeg Free Press) on a later pass. The Shurat HaDin legal threat noted in ACI-103 / ACI-103-B remains unresolved and is still flagged on ACI-103-B.",
+      "interested_parties": "Heritage Minister Marc Miller; NDP leader Avi Lewis; Canadian Museum for Human Rights",
+      "coverage_geography": "Canada",
+      "follow_up_pending": false
     },
     {
       "id": "ACI-102",
@@ -14198,6 +14229,40 @@
       "follow_up_pending": true
     },
     {
+      "id": "ACI-012-F",
+      "entry_id": "012-F",
+      "seq": 466,
+      "title": "Smithsonian — White House Domestic Policy Council report brands National Museum of American History leadership 'extreme' political activists",
+      "artist": "N/A (federal cultural institution)",
+      "institution": "National Museum of American History; Smithsonian Institution; White House Domestic Policy Council",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 4, 2026",
+      "date_discovered": "2026-07-06",
+      "sort_date": "2026-07-04",
+      "description": "The White House Domestic Policy Council released a report on July 4, 2026 — the 250th anniversary of the United States' founding — stating that the Smithsonian has moved 'away from straightforward historical education and scholarship toward an extreme political activism that seeks to transform our country,' and alleging that leadership at the National Museum of American History has been captured by a 'radical, activist ideology.' The report cited a lack of attention to the nation's founders, educational materials on gender fluidity, and the museum's treatment of 'whiteness.' It followed the administration's August 2025 order for a comprehensive internal review of Smithsonian exhibits to ensure 'alignment with the President's directive to celebrate American exceptionalism.' A Smithsonian spokesperson said the institution 'has served the American public with nonpartisan and independent scholarship, and we remain committed to doing so.' As reported by The New York Times (July 5, 2026), CNN, The Hill and The Washington Times.",
+      "outcome": "Report published; the Smithsonian defended its scholarship as nonpartisan and independent. No change to exhibitions or leadership announced as of July 5, 2026. [FOLLOW-UP PENDING: whether the report produces concrete changes at the National Museum of American History or in Smithsonian leadership.]",
+      "tags": "Political interference, Federal cultural institution, Historical erasure, Institutional crisis",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "The New York Times",
+        "CNN",
+        "The Hill",
+        "The Washington Times"
+      ],
+      "source": "https://www.nytimes.com/2026/07/05/arts/design/white-house-smithsonian-american-history-museum.html",
+      "themes": [
+        2,
+        4,
+        5
+      ],
+      "notes": "Sub-entry of ACI-012. Formal escalation of the White House pressure campaign on the Smithsonian (cf. ACI-012, ACI-012-A, ACI-012-D, ACI-012-E). The 'extreme political activism' and 'radical, activist ideology' characterizations are the White House Domestic Policy Council report's, not the Index's voice; the Smithsonian's response is quoted from its spokesperson. Corroborated across NYT (metadata via API this run), CNN, The Hill and The Washington Times (search results this run). The Washington Times is handled per its CLAUDE.md 'evaluated, not excluded' determination — cited here as corroboration alongside NYT/CNN/The Hill, not as a sole source. [FOLLOW-UP PENDING: concrete changes at NMAH or Smithsonian leadership.]",
+      "interested_parties": "White House Domestic Policy Council; National Museum of American History; Smithsonian Institution; Secretary Lonnie Bunch III",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
       "id": "ACI-011",
       "entry_id": "011",
       "seq": 10,
@@ -14920,6 +14985,92 @@
       ],
       "notes": "Sub-entry of ACI-038; continues the siting / Section 106 dispute (ACI-038-J, ACI-038-K). New development: the D.C. historic preservation officer's 26 June 2026 letter opposing the Memorial Circle site and proposing a South Capitol Street alternative near Nationals Park. Cross-refs: the veterans' lawsuit over Arlington sightlines; CFA approval under Trump-appointed chair Rodney Mims Cook Jr. (cf. ACI-155). [FOLLOW-UP PENDING: NCPC 9 July vote; litigation.]",
       "interested_parties": "David Maloney (D.C. historic preservation officer); National Park Service; U.S. Commission of Fine Arts (chair Rodney Mims Cook Jr.); National Capital Planning Commission; DC Preservation League (Rebecca Miller); Mayor Muriel Bowser; military-veteran plaintiffs",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-215",
+      "entry_id": "215",
+      "seq": 468,
+      "title": "Elevation (Nasan Tur, 2026) — plagiarism allegation and removal demand at Manifesta 16 Ruhr",
+      "artist": "Nasan Tur",
+      "institution": "Manifesta 16 Ruhr; St. Gertrud Church",
+      "country": "Germany",
+      "governance_type": "Democracy",
+      "date_controversy": "July 2026",
+      "date_discovered": "2026-07-06",
+      "sort_date": "2026-07-02",
+      "description": "Artist Dorothee Bielfeld has demanded that Manifesta 16 Ruhr remove Nasan Tur's installation Elevation, alleging it plagiarizes her 2010 work Aufrichten (Raising Up), created for the Ruhr.2010 cultural campaign. Tur's Elevation, installed in St. Gertrud Church, consists of reclaimed church pews stood on end and engraved with anonymous musings submitted by the public; Bielfeld says its central motif — meter-high upright pews reoriented into oblique towers — closely resembles her earlier piece. Manifesta 16 said the works share only 'superficial' visual similarities and stood by a curatorial assessment by Leonie Herweg and René Block that deemed Tur's work artistically independent. Tur denied the accusation as 'false and baseless' and said he had engaged a lawyer after receiving a letter from Bielfeld's lawyer. Manifesta 16 opened June 21 and runs through October 4, 2026. As reported by ARTnews and ArtReview (July 2026).",
+      "outcome": "Manifesta 16 declined to remove the work and defended its curatorial assessment; both artists have engaged lawyers. No formal legal action filed as of early July 2026. [FOLLOW-UP PENDING: whether Bielfeld files suit or Manifesta changes its position.]",
+      "tags": "Copyright/ownership, Removal, Authenticity",
+      "court_case": "Pending",
+      "coverage_tier": "International",
+      "outlets": [
+        "ARTnews",
+        "ArtReview"
+      ],
+      "source": "https://www.artnews.com/art-news/news/manifesta-plagiarism-allegation-nasan-tur-dorothee-bielfeld-1234791108/",
+      "themes": [
+        1
+      ],
+      "notes": "New parent. Authorship/plagiarism dispute at a major recurring biennial; the 'superficial,' 'artistically independent,' and 'false and baseless' characterizations are attributed to Manifesta and to Tur, not adopted by the Index. Corroborated across ARTnews and ArtReview (both retrieved this run). [FOLLOW-UP PENDING: possible legal action.]",
+      "interested_parties": "Dorothee Bielfeld (artist, claimant); Nasan Tur (artist); Manifesta 16 Ruhr; curators Leonie Herweg and René Block",
+      "coverage_geography": "Germany, US, UK",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-216",
+      "entry_id": "216",
+      "seq": 469,
+      "title": "Gelman Collection of Mexican modern art — legal challenge to transfer of management to Banco Santander",
+      "artist": "Frida Kahlo; Diego Rivera; José Clemente Orozco (among others)",
+      "institution": "Instituto Nacional de Bellas Artes y Literatura (INBAL); Banco Santander; Faro Santander",
+      "country": "Mexico",
+      "governance_type": "Democracy",
+      "date_controversy": "July 2026",
+      "date_discovered": "2026-07-06",
+      "sort_date": "2026-07-02",
+      "description": "The activist coalition Defendamos la Colección Gelman — artists, critics and historians — filed a lawsuit in July 2026 challenging as 'unconstitutional' the transfer of ownership and management of the Gelman Collection of Mexican modern art, questioning its compliance with Mexican cultural-heritage export law. The collection of more than 300 works, including paintings by Frida Kahlo, Diego Rivera and José Clemente Orozco, was assembled by Jacques and Natasha Gelman; after a contested chain of ownership it was sold in 2023 to Monterrey's Zambrano family, who in January 2026 partnered with Banco Santander (Spain) and Mexico's INBAL for an exhibition. The works are currently displayed at the Faro Santander museum in Spain and are scheduled to return to Mexico in 2028. Defendamos published an open letter criticizing the lack of transparency in March 2026 before filing suit. As reported by Artforum (July 2026).",
+      "outcome": "Lawsuit filed in Mexico City challenging INBAL's role as unconstitutional; the collection remains on display in Spain, scheduled to return to Mexico in 2028. [FOLLOW-UP PENDING: court response to the Defendamos la Colección Gelman lawsuit.]",
+      "tags": "Legal challenge, Copyright/ownership, Financialization",
+      "court_case": "Yes",
+      "coverage_tier": "International",
+      "outlets": [
+        "Artforum"
+      ],
+      "source": "https://www.artforum.com/news/legal-pressure-to-management-of-the-gelman-collection-1234753946/",
+      "themes": [
+        10
+      ],
+      "notes": "New parent; Monday Latin America trawl. Contested ownership and heritage-management dispute; the 'unconstitutional' characterization is the plaintiffs' legal claim, attributed to them. Single retrieved source this run (Artforum) — flagged single-source; enrich with Mexican outlets (Proceso, El Universal, La Jornada) on a later Latin America trawl day. [FOLLOW-UP PENDING: court response.]",
+      "interested_parties": "Defendamos la Colección Gelman (coalition of artists, critics, historians); INBAL; Banco Santander; Zambrano family; Robert Littman (former owner/curator)",
+      "coverage_geography": "Mexico, Spain, US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-217",
+      "entry_id": "217",
+      "seq": 470,
+      "title": "Madison Avenue gallery surrenders 20 artifacts thought looted from Cambodia",
+      "artist": "N/A (antiquities)",
+      "institution": "Madison Avenue gallery (unnamed in the report)",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 2026",
+      "date_discovered": "2026-07-06",
+      "sort_date": "2026-07-02",
+      "description": "According to The New York Times (July 2, 2026), a Madison Avenue gallery in New York surrendered 20 artifacts — stone statues and other items — believed to have been looted from Cambodia. The gallery had purchased the objects from an art dealer accused of trafficking in illicit antiquities. Logged thin from the NYT abstract; the full article was not retrieved this run (direct fetch of nytimes.com is blocked), so the gallery name, dealer identity and disposition of the objects are not yet captured.",
+      "outcome": "The gallery turned over 20 artifacts thought looted from Cambodia. [FOLLOW-UP PENDING: enrichment — gallery name, dealer identity, and the disposition/return of the objects.]",
+      "tags": "Antiquities trafficking, Repatriation, Legal challenge",
+      "court_case": "Pending",
+      "coverage_tier": "National",
+      "outlets": [
+        "The New York Times"
+      ],
+      "source": "https://www.nytimes.com/2026/07/02/arts/new-york-gallery-surrenders-20-artifacts-thought-looted-from-cambodia.html",
+      "themes": [],
+      "notes": "New parent. Single retrieved source this run (NYT metadata via API; direct fetch blocked, logged thin from the abstract) — flagged single-source, needs enrichment. Fits the ongoing Southeast Asian antiquities-trafficking enforcement pattern (cf. ACI-179 Met/Khmer sculptures, ACI-212 Met/Manhattan DA). [FOLLOW-UP PENDING: enrichment.]",
+      "interested_parties": "Madison Avenue gallery (unnamed in report); art dealer accused of trafficking; Kingdom of Cambodia",
       "coverage_geography": "US",
       "follow_up_pending": true
     }
