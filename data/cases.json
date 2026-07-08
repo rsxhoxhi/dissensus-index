@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 474
+    "total_cases": 478
   },
   "cases": [
     {
@@ -986,6 +986,39 @@
       "interested_parties": "Texas Department of Transportation; Governor Greg Abbott; City of Austin",
       "coverage_geography": "US",
       "follow_up_pending": true
+    },
+    {
+      "id": "ACI-188-C",
+      "entry_id": "188",
+      "seq": 483,
+      "title": "Austin 'Black Artists Matter' mural (East 11th Street) covered with a seal coat July 2, 2026",
+      "artist": "N/A (community street mural, 'Black Artists Matter')",
+      "institution": "City of Austin; Texas Department of Transportation (TxDOT)",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 2, 2026 (covered); reported July 7, 2026",
+      "date_discovered": "2026-07-08",
+      "sort_date": "2026-07-02",
+      "description": "Following the TxDOT-ordered removals tracked in ACI-188 and ACI-188-B, the City of Austin covered the 'Black Artists Matter' street mural on East 11th Street — in the historically segregated Sixth Square area now known as the city's Black Cultural District — by applying a seal coat over it on 2 July 2026, complying with a Texas Department of Transportation directive that followed Gov. Greg Abbott's Oct. 8, 2025 order to remove 'political ideologies' from roadways. Hyperallergic reported (7 July 2026) that local advocates characterized the removal as part of a broader effort to erase Black and LGBTQ+ history; Axios Austin (23 June 2026) and KUT had earlier reported the mural was slated for removal after TxDOT denied the city's request to keep it. As reported by Hyperallergic, Axios Austin and KUT.",
+      "outcome": "The 'Black Artists Matter' mural was covered with a seal coat on 2 July 2026 as part of the ongoing TxDOT-ordered removals; the city has said it will comply while seeking alternatives.",
+      "tags": "Removal, Political interference, Historical erasure, Public art",
+      "court_case": "No",
+      "coverage_tier": "Regional",
+      "outlets": [
+        "Hyperallergic",
+        "Axios Austin",
+        "KUT"
+      ],
+      "source": "https://hyperallergic.com/texas-covers-up-beloved-black-artists-matter-mural-in-austin/",
+      "themes": [
+        2,
+        6,
+        9
+      ],
+      "notes": "Sub-entry of ACI-188; the Black Artists Matter mural is one of the works ACI-188-B noted as 'removals underway' on 2 July 2026, here confirmed covered. Distinct notable work in the Black Cultural District; the erasure framing is attributed to advocates, not asserted by the Index. cf. ACI-188, ACI-188-A, ACI-188-B.",
+      "interested_parties": "City of Austin; Texas Department of Transportation (TxDOT); Gov. Greg Abbott; local advocates",
+      "coverage_geography": "US",
+      "follow_up_pending": false
     },
     {
       "id": "ACI-046-H",
@@ -14496,6 +14529,37 @@
       "follow_up_pending": true
     },
     {
+      "id": "ACI-008-AC",
+      "entry_id": "008",
+      "seq": 484,
+      "title": "2026 Venice Biennale — ANGA calls July 17 mobilization against visit of US Ambassador Tilman Fertitta",
+      "artist": "N/A (cultural-worker mobilization)",
+      "institution": "Venice Biennale (Biennale Foundation)",
+      "country": "Italy",
+      "governance_type": "Democracy",
+      "date_controversy": "Announced c. July 7, 2026; action planned July 17, 2026",
+      "date_discovered": "2026-07-08",
+      "sort_date": "2026-07-07",
+      "description": "ARTnews reported (7 July 2026) that the activist coalition Art Not Genocide Alliance (ANGA) called for a mass mobilization on 17 July 2026, the day US Ambassador to Italy Tilman Fertitta is scheduled to arrive in Venice, inviting supporters to gather at 4 p.m. at Campo San Zaccaria, near where Fertitta's yacht is expected to dock. ANGA — an international coalition of artists, curators, writers and cultural workers formed in early 2024 in opposition to Israel's participation in the Venice Biennale — previously staged a 24-hour strike on 8 May 2026, when thousands marched through Venice on the eve of the Biennale's public opening (see ACI-008 cluster). Artist Carolina Caycedo, who organized the May action, told ARTnews it was 'a way for us to show our discontent and our disgust with the politics that happen underneath the Biennale.' As reported by ARTnews.",
+      "outcome": "ANGA called a mobilization for 17 July 2026 timed to Ambassador Fertitta's visit; the action had not yet taken place as of reporting. [FOLLOW-UP PENDING: outcome of the July 17 mobilization]",
+      "tags": "Protest, Geopolitics, Political art",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "ARTnews"
+      ],
+      "source": "https://www.artnews.com/art-news/news/pro-palestine-strike-over-us-ambassador-visit-to-venice-1234791414/",
+      "themes": [
+        3,
+        4,
+        8
+      ],
+      "notes": "Sub-entry of ACI-008 (Venice Biennale / Gaza protest cluster). Distinct from the Visitors' Lions legal-threat sub-entries (ACI-008-AA/AB); this is a new protest action timed to the US ambassador's visit. Fertitta is also the largest shareholder of Wynn Resorts. [FOLLOW-UP PENDING: July 17 action]",
+      "interested_parties": "Art Not Genocide Alliance (ANGA); Carolina Caycedo; US Ambassador to Italy Tilman Fertitta; Venice Biennale Foundation",
+      "coverage_geography": "International",
+      "follow_up_pending": true
+    },
+    {
       "id": "ACI-008",
       "entry_id": "008",
       "seq": 7,
@@ -15436,6 +15500,62 @@
       "interested_parties": "Qinghai Provincial Museum; China National Arts and Crafts Museum; TCL",
       "coverage_geography": "China",
       "follow_up_pending": true
+    },
+    {
+      "id": "ACI-226",
+      "entry_id": "226",
+      "seq": 485,
+      "title": "Jonathan Hornby fined in the UK's first conviction for breaching Russia sanctions by attempting to export artworks, including a Russian icon",
+      "artist": "N/A (four artworks, including a Russian religious icon)",
+      "institution": "Westminster Magistrates' Court, London; HM Revenue and Customs (HMRC)",
+      "country": "United Kingdom",
+      "governance_type": "Democracy",
+      "date_controversy": "Guilty plea and fine July 1, 2026; goods seized February 2024",
+      "date_discovered": "2026-07-08",
+      "sort_date": "2026-07-01",
+      "description": "ARTnews and Artnet News reported (7 July 2026) that Jonathan Hornby, 54, of Nantwich, Cheshire, was fined 30,085 pounds (about $40,242) after pleading guilty on 1 July 2026 at Westminster Magistrates' Court in London to making luxury goods available for use in Russia, in what was described as the first UK conviction under the ban on luxury-goods exports imposed after Russia's 2022 invasion of Ukraine. Hornby had attempted to ship four artworks, including a Russian icon, to Russia; the goods were seized by border officials at Heathrow Airport in February 2024, and HM Revenue and Customs launched the investigation. Artnet News reported that the penalty had initially been set at about 51,000 pounds — three times the combined value of the four works — and was reduced in recognition of the early guilty plea. As reported by ARTnews and Artnet News.",
+      "outcome": "Hornby was fined 30,085 pounds (about $40,242) after pleading guilty — reduced, per Artnet News, from an initial figure of about 51,000 pounds; reported as the first UK conviction for a Russia sanctions breach involving art/luxury-goods export.",
+      "tags": "Legal challenge, Geopolitics",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "ARTnews",
+        "Artnet News"
+      ],
+      "source": "https://www.artnews.com/art-news/news/english-national-first-convicted-violating-russia-sanctions-1234791248/",
+      "themes": [],
+      "notes": "Sanctions-enforcement case with artworks (incl. a Russian religious icon) as the exported goods; borderline as an art controversy but included per the inclusion-threshold 'show more' rule as an art-market/geopolitics legal case. cf. ACI-224 (Sotheby's antiquities fraud), ACI-071 (counterfeit scheme) for the art-and-law cluster. Enforcement stems from the Russia-Ukraine war sanctions regime.",
+      "interested_parties": "Jonathan Hornby; HM Revenue and Customs (HMRC); Westminster Magistrates' Court",
+      "coverage_geography": "UK",
+      "follow_up_pending": false
+    },
+    {
+      "id": "ACI-227",
+      "entry_id": "227",
+      "seq": 486,
+      "title": "Artist Jonathan Allen places protest posters over digital display screens outside the Whitney Museum over Israel's conduct in Gaza",
+      "artist": "Jonathan Allen ('Interruptions' series)",
+      "institution": "Whitney Museum of American Art, New York",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 3, 2026; reported July 7, 2026",
+      "date_discovered": "2026-07-08",
+      "sort_date": "2026-07-03",
+      "description": "The Forward and Jewish Post and News reported (7 July 2026) that on 3 July 2026 artist Jonathan Allen placed translucent poster-size vinyl stickers over two digital display screens outside the Whitney Museum of American Art in Manhattan, as part of his 'Interruptions' series (begun 2019, with 400-plus installations on digital ad screens). A joint Instagram post by Allen and Eye on Palestine said the installation highlighted findings of a UN Independent International Commission of Inquiry report; one poster read that Israeli security forces 'have deliberately targeted and killed Palestinian children,' another that 'If you can't draw the line at genocide, you probably can't draw the line at democracy.' The museum said staff removed the posters after being notified; Whitney Director of Communications Ashley Reese said the museum 'maintains a zero-tolerance policy for vandalism, harassment, discrimination, or bias of any kind.' As reported by The Forward and Jewish Post and News.",
+      "outcome": "Whitney staff removed the posters shortly after they were placed; the museum issued a zero-tolerance-for-vandalism statement. No charges were reported as of reporting.",
+      "tags": "Protest art, Vandalism, Geopolitics",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "The Forward",
+        "Jewish Post and News"
+      ],
+      "source": "https://forward.com/news/836522/whitney-vandalized-israel-protest/",
+      "themes": [],
+      "notes": "Borderline entry: an unauthorized guerrilla intervention on the museum's exterior display screens, quickly removed; the museum characterizes it as vandalism, the artist frames it as protest art (both descriptive act tags applied). Part of the broader museums-and-Gaza pattern (cf. ACI-008 Venice cluster). Thin at logging; themes left empty pending clearer fit.",
+      "interested_parties": "Jonathan Allen (artist); Eye on Palestine; Whitney Museum of American Art; Ashley Reese (Whitney Director of Communications)",
+      "coverage_geography": "US",
+      "follow_up_pending": false
     }
   ]
 }
