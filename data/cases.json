@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 478
+    "total_cases": 484
   },
   "cases": [
     {
@@ -15037,7 +15037,7 @@
       "date_discovered": "2026-07-02",
       "sort_date": "2026-06-01",
       "description": "An exhibition of architectural models and roughly 2,000 sheets of drawings for Junya Ishigami's design of the former Tokushima Culture and Arts Hall plan was cancelled shortly before its scheduled 1 June 2026 opening at the Daiichi Souko (First Warehouse) in Tokushima. Tokushima Prefecture requested the cancellation, saying the exhibition was inconsistent with the venue's intended use, did not align with the prefecture's urban-planning direction and could cause confusion. The original hall design had been suspended after Governor Masazumi Goto-da, elected in 2023, changed the project and its location. Ishigami said the cancellation trampled freedom of expression and that prefectural residents 'have the right to obtain information about each plan and make choices.' As reported by Tokyo Art Beat, ARTnews Japan, the Tokushima Shimbun and Nikkei xTech.",
-      "outcome": "Exhibition cancelled at the prefecture's request ahead of its 1 June 2026 opening; Ishigami publicly objected, framing it as suppression of expression. [FOLLOW-UP PENDING: whether the exhibition is held elsewhere or the prefecture responds further.]",
+      "outcome": "Exhibition cancelled at the prefecture's request ahead of its 1 June 2026 opening; Ishigami publicly objected, framing it as suppression of expression. The exhibition was subsequently relocated to a privately owned venue in Tokushima City and opened there (see ACI-214-A).",
       "tags": "Design controversy, Political interference",
       "court_case": "No",
       "coverage_tier": "National",
@@ -15052,7 +15052,34 @@
       "notes": "New parent. A public authority (Tokushima Prefecture) requested the cancellation of an exhibition of Ishigami's shelved hall design; the architect frames the cancellation as suppression of expression, while the prefecture cites venue-use and urban-planning grounds. Asia-Pacific trawl catch (Thursday 2 July 2026 scan); the story broke around 1 June 2026 and appears previously unlogged — an enrichment candidate for a future Japan pass. Themes left empty: the ten Dissensus themes do not map cleanly to a public authority cancelling an architecture-plan exhibition.",
       "interested_parties": "Junya Ishigami (architect); Tokushima Prefecture; Governor Masazumi Goto-da; Daiichi Souko (First Warehouse) venue",
       "coverage_geography": "Japan",
-      "follow_up_pending": true
+      "follow_up_pending": false
+    },
+    {
+      "id": "ACI-214-A",
+      "entry_id": "214",
+      "seq": 489,
+      "title": "Junya Ishigami Tokushima exhibition relocated to a private venue and opens after prefecture-requested cancellation",
+      "artist": "Junya Ishigami (architect), Junya Ishigami + Associates",
+      "institution": "Takeuchi Building, Tokushima City (relocated venue)",
+      "country": "Japan",
+      "governance_type": "Democracy",
+      "date_controversy": "July 2026",
+      "date_discovered": "2026-07-09",
+      "sort_date": "2026-07-09",
+      "description": "After Tokushima Prefecture requested the cancellation of the exhibition of Junya Ishigami's shelved Culture and Arts Hall design ahead of its planned 1 June 2026 opening (see ACI-214), the exhibition was relocated to a privately owned venue, the Takeuchi Building in Tokushima City, through the efforts of the exhibition's executive committee and the Shikoku Branch (Tokushima Regional Chapter) of the Japan Institute of Architects. The show — models and drawings for Ishigami's design of the former Tokushima Prefectural Arts and Culture Hall — is on view there, with an opening event listed for July 11, 2026 featuring Ishigami. As reported on the exhibition's official site.",
+      "outcome": "Exhibition relocated to the privately owned Takeuchi Building in Tokushima City and opened, with a July 11, 2026 opening event; the original prefecture-linked venue cancellation stands.",
+      "tags": "Design controversy, Political interference",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "Ishigami Tokushima exhibition (official site)"
+      ],
+      "source": "https://ishigami-tokushima.com/",
+      "themes": [],
+      "notes": "Sub-entry of ACI-214; resolves that entry's follow-up (whether the exhibition would be held elsewhere). Thin, single-source (the exhibition's own site) at logging — enrichment candidate for a future Japan pass with Tokyo Art Beat / ARTnews Japan / Tokushima Shimbun.",
+      "interested_parties": "Junya Ishigami; Junya Ishigami + Associates; exhibition executive committee; Japan Institute of Architects (Shikoku Branch, Tokushima Regional Chapter); Tokushima Prefecture",
+      "coverage_geography": "Japan",
+      "follow_up_pending": false
     },
     {
       "id": "ACI-005-AP",
@@ -15067,7 +15094,7 @@
       "date_discovered": "2026-07-02",
       "sort_date": "2026-07-01",
       "description": "The U.S. Department of Justice appealed Judge Christopher Cooper's 29 May 2026 ruling that the renaming of the John F. Kennedy Center for the Performing Arts was unlawful (see ACI-005-AK), asking the U.S. Court of Appeals for the D.C. Circuit to let President Trump's name remain during the appeal on the grounds that it is essential to the Center's fundraising. In a court filing reported at the end of June 2026, the Kennedy Center board stated that 'without the name \"Trump\" on the Building, our fundraising will not only come to a halt, but any and all monies raised or committed would be obligated to be returned, refunded, or terminated,' asserting that donations were now conditioned on the name remaining unchanged; the administration warned that removal 'threatens to substantially undermine fundraising and financial viability.' Coverage put the figure at 'hundreds of millions' in donations at risk. The name had been physically removed on 13 June 2026 after the D.C. Circuit declined an administrative stay, and the facade was covered by a tarp (see ACI-005-AO). As reported by Forbes (30 June 2026), The Hill, ABC News, Deadline and The Washington Times.",
-      "outcome": "On appeal, the DOJ and the Kennedy Center board argued the Trump name is essential to the Center's fundraising and sought to keep it during the appeal; the name remained removed and the D.C. Circuit had not ruled on the merits as of 2 July 2026. [FOLLOW-UP PENDING: D.C. Circuit ruling on the appeal.]",
+      "outcome": "DOJ argued to the D.C. Circuit that restoring the name was essential to fundraising. On July 8, 2026 the appeals court denied the stay (see ACI-005-AQ); the name remains off during the appeal.",
       "tags": "Political interference, Legal challenge, Federal cultural institution, Funding dispute",
       "court_case": "Yes",
       "coverage_tier": "National",
@@ -15083,8 +15110,38 @@
         2,
         4
       ],
-      "notes": "Sub-entry of ACI-005. Update: the fundraising argument advanced on appeal, roughly one month after the name's physical removal (ACI-005-AK / ACI-005-AO). The 'name essential to fundraising / hundreds of millions at risk' claim is corroborated across Forbes (which reported the board's filing, 30 June 2026), The Hill, ABC News, Deadline and The Washington Times, all retrieved this run. The 'hundreds of millions' / 'fundraising will come to a halt' language is from the Kennedy Center board's own court filing, not the Index's characterization. [FOLLOW-UP PENDING: D.C. Circuit ruling.]",
+      "notes": "Sub-entry of ACI-005. Update: the fundraising argument advanced on appeal, roughly one month after the name's physical removal (ACI-005-AK / ACI-005-AO). The 'name essential to fundraising / hundreds of millions at risk' claim is corroborated across Forbes (which reported the board's filing, 30 June 2026), The Hill, ABC News, Deadline and The Washington Times, all retrieved this run. The 'hundreds of millions' / 'fundraising will come to a halt' language is from the Kennedy Center board's own court filing, not the Index's characterization. Resolved: the D.C. Circuit denied the stay on July 8, 2026 (see ACI-005-AQ).",
       "interested_parties": "U.S. Department of Justice; John F. Kennedy Center board; U.S. Court of Appeals for the D.C. Circuit; Judge Christopher Cooper (U.S. District Court)",
+      "coverage_geography": "US",
+      "follow_up_pending": false
+    },
+    {
+      "id": "ACI-005-AQ",
+      "entry_id": "005",
+      "seq": 487,
+      "title": "Kennedy Center — D.C. Circuit denies stay; Trump's name stays off during appeal",
+      "artist": "N/A (institutional / federal cultural policy)",
+      "institution": "John F. Kennedy Center for the Performing Arts, Washington, D.C.",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 8, 2026",
+      "date_discovered": "2026-07-09",
+      "sort_date": "2026-07-08",
+      "description": "On July 8, 2026 a three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit (Judges Patricia Millett, Robert Wilkins and Gregory Katsas) denied the request by President Trump and the Kennedy Center board to stay a lower-court order that had stripped Trump's name from the Washington performing-arts center. The name had already been removed from the facade on June 12, 2026 after a district judge found Congress had not authorized the change. The panel held that the applicants failed to show they would be irreparably injured without a stay, noting the name was already gone, and rejected the board's fundraising-harm argument for lack of 'specific facts or evidence.' The name remains off the building while the underlying appeal proceeds. As reported by NPR, CNBC, Al Jazeera and Variety.",
+      "outcome": "Stay denied July 8, 2026; Trump's name stays off the Kennedy Center during the appeal. The appeal on the merits remains pending. [FOLLOW-UP PENDING: D.C. Circuit ruling on the merits of the name-removal appeal.]",
+      "tags": "Political interference, Legal challenge, Institutional crisis",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "NPR",
+        "CNBC",
+        "Al Jazeera",
+        "Variety"
+      ],
+      "source": "https://www.npr.org/2026/07/08/nx-s1-5886099/appeals-court-denies-president-trumps-request-to-halt-removing-his-name-from-the-kennedy-center",
+      "themes": [],
+      "notes": "Sub-entry of ACI-005; direct resolution of ACI-005-AP (DOJ/board July 1 argument that the name was essential to fundraising). The appeals court left the name off during the appeal. Merits appeal still open.",
+      "interested_parties": "President Donald Trump; Kennedy Center board; U.S. Court of Appeals for the D.C. Circuit (Judges Millett, Wilkins, Katsas); Department of Justice",
       "coverage_geography": "US",
       "follow_up_pending": true
     },
@@ -15147,6 +15204,35 @@
       ],
       "notes": "Sub-entry of ACI-038; continues the siting / Section 106 dispute (ACI-038-J, ACI-038-K). New development: the D.C. historic preservation officer's 26 June 2026 letter opposing the Memorial Circle site and proposing a South Capitol Street alternative near Nationals Park. Cross-refs: the veterans' lawsuit over Arlington sightlines; CFA approval under Trump-appointed chair Rodney Mims Cook Jr. (cf. ACI-155). [FOLLOW-UP PENDING: NCPC 9 July vote; litigation.]",
       "interested_parties": "David Maloney (D.C. historic preservation officer); National Park Service; U.S. Commission of Fine Arts (chair Rodney Mims Cook Jr.); National Capital Planning Commission; DC Preservation League (Rebecca Miller); Mayor Muriel Bowser; military-veteran plaintiffs",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-038-M",
+      "entry_id": "038",
+      "seq": 488,
+      "title": "Trump Triumphal Arch — NCPC staff recommends design revisions to fit Height of Buildings Act while keeping 250-foot height",
+      "artist": "N/A (proposed monument / federal cultural policy)",
+      "institution": "National Capital Planning Commission; Memorial Circle, near Arlington Memorial Bridge (Virginia)",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 9, 2026",
+      "date_discovered": "2026-07-09",
+      "sort_date": "2026-07-09",
+      "description": "The proposed ~250-foot triumphal arch backed by President Trump for Memorial Circle near the Arlington Memorial Bridge returned to the National Capital Planning Commission for review on July 9, 2026. In a 185-page report, NCPC staff recommended conditional approval but advised the Commission to ask the applicant to revise the design to comply with the federal Height of Buildings Act, which limits building heights in downtown Washington to protect the skyline. Staff wrote that compliance 'would require design revisions to redistribute the height between the main structure, habitable roof structure and statuary' — after which the arch, an observation deck and three gilded topper statues would still reach the intended 250-foot height. The Washington Post reported (July 8) that the 166-foot columns Trump's team cites from a 1925 plan differ significantly from the 250-foot monument now planned. As reported by the Associated Press, The New York Times and The Washington Post.",
+      "outcome": "NCPC staff recommended conditional approval with design revisions to satisfy the Height of Buildings Act; the revised design would still reach 250 feet. [FOLLOW-UP PENDING: NCPC vote and final Interior Department approval.]",
+      "tags": "Design controversy, Political interference, Historic preservation, Landmark dispute",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "Associated Press",
+        "The New York Times",
+        "The Washington Post"
+      ],
+      "source": "https://www.bostonglobe.com/2026/07/09/nation/trumps-plan-for-triumphal-arch-in-nations-capital-getting-another-review/",
+      "themes": [],
+      "notes": "Sub-entry of ACI-038; follows ACI-038-K/L (Section 106 consultation; D.C. preservation officer's alternative-location push). Cluster with ACI-046 (Reflecting Pool) and ACI-069 (America 250) in the DC federal-cultural build-out. Source is the AP wire via the Boston Globe; NYT via its API abstract; WaPo via site-scoped search.",
+      "interested_parties": "President Donald Trump; National Capital Planning Commission; NCPC staff; U.S. Department of the Interior; Commission of Fine Arts",
       "coverage_geography": "US",
       "follow_up_pending": true
     },
@@ -15556,6 +15642,94 @@
       "interested_parties": "Jonathan Allen (artist); Eye on Palestine; Whitney Museum of American Art; Ashley Reese (Whitney Director of Communications)",
       "coverage_geography": "US",
       "follow_up_pending": false
+    },
+    {
+      "id": "ACI-228",
+      "entry_id": "228",
+      "seq": 490,
+      "title": "Photographer Barbara Karant sues Mickalene Thomas for copyright infringement over Johnson Publishing images",
+      "artist": "Mickalene Thomas (defendant); Barbara Karant (plaintiff photographer)",
+      "institution": "The Broad (Los Angeles); Barnes Foundation; Hayward Gallery; Les Abattoirs (exhibition venues)",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "Filed June 2026; reported July 2026",
+      "date_discovered": "2026-07-09",
+      "sort_date": "2026-07-08",
+      "description": "Chicago-based photographer Barbara Karant has sued artist Mickalene Thomas for copyright infringement in the U.S. District Court for the Northern District of Illinois, alleging that Thomas used Karant's photographs of the Johnson Publishing Company (publisher of Ebony and Jet) without permission or attribution in collages and installations. The complaint states that 'in installation after installation, and in collage after collage, Thomas has engaged in the wholesale copying of copyrighted works from a fellow artist,' and points to works in Thomas's touring survey 'Mickalene Thomas: All About Love,' which opened at The Broad (Los Angeles) in 2024 and traveled to the Barnes Foundation, the Hayward Gallery (London) and Les Abattoirs (Toulouse). Documentation of the exhibition indicates Thomas edited, fragmented and cropped Karant's images. As reported by ARTnews.",
+      "outcome": "Copyright-infringement suit filed in the Northern District of Illinois; ongoing. [FOLLOW-UP PENDING: Thomas's response and the litigation's progress, including any fair-use defense.]",
+      "tags": "Copyright/ownership, Legal challenge",
+      "court_case": "Yes",
+      "coverage_tier": "National",
+      "outlets": [
+        "ARTnews"
+      ],
+      "source": "https://www.artnews.com/art-news/news/mickalene-thomas-lawsuit-barbara-karant-infingement-1234791577/",
+      "themes": [
+        1
+      ],
+      "notes": "New parent. Appropriation-vs-copyright dispute over a prominent contemporary artist's use of another artist's photographs. Single-source (ARTnews) at logging. Theme 1 (Defining Art) applies to the appropriation/authorship question. Distinct from the separate Chevremont personal-conduct suits against Thomas.",
+      "interested_parties": "Barbara Karant (plaintiff); Mickalene Thomas (defendant); Johnson Publishing Company (subject of photos)",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-229",
+      "entry_id": "229",
+      "seq": 491,
+      "title": "Italy advances legislation to create a restitution process for art looted under Fascist-era racial laws",
+      "artist": "N/A (national restitution policy)",
+      "institution": "Italian Parliament",
+      "country": "Italy",
+      "governance_type": "Democracy",
+      "date_controversy": "Parliamentary hearing June 24, 2026; reported July 2026",
+      "date_discovered": "2026-07-09",
+      "sort_date": "2026-07-08",
+      "description": "The Italian Parliament is advancing a bill that would empower the government to create a formal process for restituting art and cultural property seized, looted or lost due to antisemitic persecution under Italian Fascist racial laws (1938–1945). Reporting notes that, unlike many other European countries, Italy has never had a dedicated legal framework for restoring property seized under the racial laws, and that a 2024 assessment found Italy had made only limited progress and lacked a clear restitution procedure despite endorsing the 1998 Washington Principles and the 2009 Terezin Declaration. The bill was discussed at a parliamentary hearing on June 24, 2026 and has been welcomed by Jewish organizations working on restitution. As reported by ARTnews, JNS and The Jewish Chronicle.",
+      "outcome": "Legislation under parliamentary consideration; no law enacted yet. [FOLLOW-UP PENDING: passage or failure of the restitution bill and the shape of any process it establishes.]",
+      "tags": "Restitution, Repatriation, Political art",
+      "court_case": "No",
+      "coverage_tier": "International",
+      "outlets": [
+        "ARTnews",
+        "JNS",
+        "The Jewish Chronicle"
+      ],
+      "source": "https://www.artnews.com/art-news/news/italy-advances-legislation-nazi-looted-art-restitution-1234791606/",
+      "themes": [],
+      "notes": "New parent, logged as a restitution-policy anchor (analytically relevant non-controversy per inclusion rules) rather than an active dispute — flagged for editorial review. Connects to the broader Nazi-looted-art restitution cluster (cf. ACI-091 Neue Galerie/Klimt; ACI-209 Van Gogh 'Saint-Paul' heir claim; ACI-080 Schiele).",
+      "interested_parties": "Italian Parliament; Jewish restitution organizations; heirs of victims of Fascist-era racial-law seizures",
+      "coverage_geography": "Italy, US, UK, Israel",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-230",
+      "entry_id": "230",
+      "seq": 492,
+      "title": "American Museum of Natural History expands NAGPRA repatriation to include 2,700 Native American hair samples",
+      "artist": "N/A (repatriation / NAGPRA compliance)",
+      "institution": "American Museum of Natural History, New York",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "Federal Register notices June 11, 2026; reported July 2026",
+      "date_discovered": "2026-07-09",
+      "sort_date": "2026-07-08",
+      "description": "The American Museum of Natural History has updated its repatriation plans to include roughly 2,700 hair samples of Native American individuals, following a federal update to NAGPRA (the Native American Graves Protection and Repatriation Act) that made hair an explicit part of what constitutes remains — a change echoing Harvard's Peabody Museum 2022 agreement to repatriate hair. Museum officials say they have contacted some 150 associated tribes, including the Choctaw, Cree, Sioux, Chippewa, Crow, Menominee, Munsee, Omaha and Oneida. The update follows the museum's renovation of its Northwest Coast Hall with tribal consultation and a pledge to revise two halls on Native American cultures. The New York Times framed the effort as long-delayed ('Decades Late, Museum Scrambles to Return 2,700 Native Remains'). As reported by ARTnews and The New York Times.",
+      "outcome": "Repatriation plan expanded to ~2,700 hair samples under updated NAGPRA rules; consultation with ~150 tribes underway. [FOLLOW-UP PENDING: completion of the repatriations and tribal responses.]",
+      "tags": "Repatriation, Indigenous rights",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "ARTnews",
+        "The New York Times"
+      ],
+      "source": "https://www.artnews.com/art-news/news/museum-natural-history-repatriate-native-american-hair-1234791569/",
+      "themes": [
+        5
+      ],
+      "notes": "New parent, logged as a repatriation anchor (analytically relevant per inclusion rules) — flagged for editorial review as a NAGPRA-compliance development rather than an overt dispute. Federal Register intended-repatriation notices posted June 11, 2026. Theme 5 (Universal Museum) applied loosely to the encyclopedic-museum repatriation question.",
+      "interested_parties": "American Museum of Natural History; ~150 associated tribes (incl. Choctaw, Cree, Sioux, Chippewa, Crow, Menominee, Munsee, Omaha, Oneida); U.S. Department of the Interior / National Park Service (NAGPRA)",
+      "coverage_geography": "US",
+      "follow_up_pending": true
     }
   ]
 }
