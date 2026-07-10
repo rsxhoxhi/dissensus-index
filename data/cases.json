@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 484
+    "total_cases": 485
   },
   "cases": [
     {
@@ -12001,6 +12001,33 @@
       ],
       "notes": "[FOLLOW-UP PENDING] Sub-entry of 050, sibling of 050-D/050-E. Procurement-mechanism story distinct from the legal appeal (050-D) and the congressional funding fight (050-B/050-E): it reveals HOW the contract itself was structured — routed through the disclosure-exempt Executive Residence — to avoid competitive bidding and public disclosure. SOURCING: the Washington Post is blocked to automated fetch (HTTP 403) and was not machine-retrieved by this session; the description is drawn from the article's text as relayed by the maintainer from a parallel drafting session. The canonical source URL is the maintainer-confirmed one above; a differently-constructed URL from that parallel session was discarded as unverified. The March 4, 2026 concrete-negotiation date and figures (initially >$47M, dropping $2.3M) were subsequently confirmed against the article text by the maintainer.",
       "interested_parties": "White House Office of Administration (Joshua Fisher, director); Executive Residence; Clark Construction; President Trump; General Services Administration; National Park Service; Anthony Costa (former GSA official, quoted)",
+      "coverage_geography": "US",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-050-G",
+      "entry_id": "050",
+      "seq": 493,
+      "title": "White House North Portico — scaffolding goes up for column renovation; Trump had mused about replacing the historic columns",
+      "artist": "N/A (historic building / federal alteration)",
+      "institution": "The White House (North Portico); National Park Service; U.S. Department of the Interior",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "Scaffolding late June 2026; shroud placed July 9, 2026",
+      "date_discovered": "2026-07-09",
+      "sort_date": "2026-07-09",
+      "description": "On July 9, 2026 The Washington Post reported that workers placed a shroud over scaffolding around the White House's North Portico as they continued renovating the building's columns; the scaffolding first went up in late June 2026. Interior Secretary Doug Burgum, whose National Park Service team leads the work, said President Trump personally requested the repairs — quoting Trump as pointing to 'door dings in the pillars' — and said the project would be completed soon. The Post noted Trump has personally overseen other White House projects (West Wing changes, a new helipad, and a planned ballroom; cf. ACI-050) and that, per its March 2026 reporting, Trump had mused about replacing the North Portico columns with a more ornate style he favors; the White House previously said Trump would not replace the columns. As reported by The Washington Post.",
+      "outcome": "Column-renovation work underway at the North Portico under National Park Service oversight; the White House has said the historic columns will be repaired, not replaced. [FOLLOW-UP PENDING: whether the North Portico columns are repaired only or replaced with a different design.]",
+      "tags": "Historic preservation, Political interference",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "The Washington Post"
+      ],
+      "source": "https://www.washingtonpost.com/dc-md-va/2026/07/09/white-house-puts-up-scaffolding-work-columns/",
+      "themes": [],
+      "notes": "Quick-add (maintainer-supplied WaPo link, 9 July 2026). Logged as a sub-entry of the White House-alterations cluster (ACI-050, State Ballroom / East Wing) though it is a physically distinct project — the North Portico columns — within the same actor/building/historic-preservation pattern; promote to its own parent if the column-replacement question becomes an active dispute. Stage 1 (Watching): current work is framed as repair, with a latent preservation concern over the earlier musing about replacing the columns. Single-source (WaPo) at logging.",
+      "interested_parties": "President Donald Trump; Interior Secretary Doug Burgum; National Park Service; The White House",
       "coverage_geography": "US",
       "follow_up_pending": true
     },
