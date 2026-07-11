@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 493
+  "total_cases": 496
  },
  "cases": [
   {
@@ -2852,6 +2852,38 @@
    "interested_parties": "Bayeux Museum; British Museum; UK Treasury; Macron government; French petitioners; UK art historians; conservation community",
    "coverage_geography": "International (UK, France, US)",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-154-B",
+   "entry_id": "154",
+   "seq": 503,
+   "title": "Bayeux Tapestry loan to British Museum — tapestry arrives in London after overnight Channel crossing",
+   "artist": "",
+   "institution": "British Museum; Bayeux Museum (lender); French state",
+   "country": "France / UK",
+   "governance_type": "Democracy",
+   "date_controversy": "July 10, 2026 (arrival); exhibition 10 September 2026 – July 2027",
+   "date_discovered": "2026-07-11",
+   "sort_date": "2026-07-10",
+   "description": "In a status update to the Bayeux Tapestry loan (see ACI-154 and ACI-154-A), the roughly 70-metre eleventh-century embroidery arrived at the British Museum in the early hours of 10 July 2026, transported by lorry through the Channel Tunnel from northern France in an overnight operation, housed in a climate-controlled crate within a shock-absorbing outer cage, under Metropolitan Police and Kent Police escort from Folkestone to London. The French state owns the tapestry; the loan was negotiated at state level while the Bayeux Tapestry Museum undergoes renovation. It is to be displayed horizontally for the first time in the museum's Sainsbury Exhibitions Gallery from 10 September 2026 through July 2027. Conservation advocates had earlier raised concerns about the physical and environmental risks of moving the fragile work. As reported by The Art Newspaper and The New York Times.",
+   "outcome": "Tapestry safely delivered to the British Museum (10 July 2026); public display scheduled 10 September 2026 – July 2027. [FOLLOW-UP PENDING: the exhibition opening and any conservation developments during the loan.]",
+   "tags": "Conservation, Geopolitics",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper",
+    "The New York Times"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/10/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing",
+   "themes": [
+    3,
+    4,
+    5
+   ],
+   "notes": "Sub-entry of ACI-154. Status update: the physical transfer following the resolved French legal challenge (ACI-154-A). Conservation-risk concerns noted in general terms; a specific named criticism seen in one retrieved summary could not be reliably verified and is omitted. TAN fetched directly; NYT captured via API metadata (headline/abstract) this run.",
+   "interested_parties": "British Museum; Bayeux Museum; French state; Metropolitan Police; Kent Police",
+   "coverage_geography": "UK, France, US",
+   "follow_up_pending": true
   },
   {
    "id": "ACI-153",
@@ -14416,7 +14448,7 @@
     4,
     5
    ],
-   "notes": "Escalation of ACI-012-F (the 4 July 2026 report); part of the ACI-012 Smithsonian cluster. WaPo body could not be retrieved (blocked); cited from headline/URL and search summary. Characterizations ('anti-white activism', 'erases heritage') kept attributed to the report and to Hyperallergic. [FOLLOW-UP PENDING]",
+   "notes": "Escalation of ACI-012-F (the 4 July 2026 report); part of the ACI-012 Smithsonian cluster. WaPo body could not be retrieved (blocked); cited from headline/URL and search summary. Characterizations ('anti-white activism', 'erases heritage') kept attributed to the report and to Hyperallergic. [FOLLOW-UP PENDING] | Enrichment (2026-07-11): NYT coverage of this thread includes Schuessler, 'Historians Reject White House's Criticism of Smithsonian Museum' (6 July 2026), Small, 'Another Smithsonian Director Faces the White House's Wrath' (7 July 2026, on director Anthea Hartig), and Schuessler, 'The History at the Smithsonian That the White House Finds Unpatriotic' (7 July 2026) — all within this cluster's scope, not separate events.",
    "interested_parties": "White House Domestic Policy Council; President Trump; Smithsonian; Anthea Hartig (NMAH director); historians rejecting the report",
    "coverage_geography": "US",
    "follow_up_pending": true
@@ -15375,7 +15407,8 @@
     "The Washington Post",
     "ABC News",
     "The Boston Globe",
-    "The Washington Times"
+    "The Washington Times",
+    "The Art Newspaper"
    ],
    "source": "https://www.washingtonpost.com/politics/2026/07/09/trump-clears-key-hurdle-250-foot-triumphal-arch-near-arlington/",
    "themes": [
@@ -15383,7 +15416,7 @@
     2,
     9
    ],
-   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Development following ACI-038-M (NCPC staff recommendation for design revisions) and ACI-038-L (D.C. historic preservation officer urging an alternative site). The Washington Times is used here only as corroborating original DC reporting (see CLAUDE.md source determination, reviewed 2 July 2026), not as a sole source for a contested claim.",
+   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Development following ACI-038-M (NCPC staff recommendation for design revisions) and ACI-038-L (D.C. historic preservation officer urging an alternative site). The Washington Times is used here only as corroborating original DC reporting (see CLAUDE.md source determination, reviewed 2 July 2026), not as a sole source for a contested claim. | Enrichment (2026-07-11): The Art Newspaper (10 July 2026) covered the same NCPC preliminary clearance, emphasizing that approving the ~250-ft arch could upend long-standing precedent limiting building heights in Washington, DC (see https://www.theartnewspaper.com/2026/07/10/trumps-arch-clears-preliminary-reviewand-could-upend-years-of-precedent-over-building-heights-in-washington-dc).",
    "interested_parties": "National Capital Planning Commission; Trump administration; public commenters; Arlington National Cemetery / Lincoln Memorial sightline advocates",
    "coverage_geography": "US, International",
    "follow_up_pending": true
@@ -15477,6 +15510,35 @@
    "notes": "New parent. National-patrimony dispute: a bank (Santander) taking stewardship of a nationally protected collection and moving it abroad, opposed by an activist collective and much of the Mexican art community via open letters and now litigation. Theme 10 (Art and Capital) tags the financialization/private-stewardship axis; the patrimony/heritage-export dimension is the other half and is noted here as no single Dissensus theme covers cultural-patrimony export cleanly. Ongoing since Feb–Mar 2026 (Santander agreement, open letters); the July 2 filing is the escalation that brings it over the logging threshold. All four listed outlets were retrieved this run; Proceso (July 2) is the dated primary.",
    "interested_parties": "Defendamos la Colección Gelman (activist collective); INBAL; Banco Santander / Faro Santander; the collection's owners (Zambrano family, heirs); Mexican government (Sheinbaum administration); Mexican art community (open letters)",
    "coverage_geography": "Mexico, Spain, US, UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-216-A",
+   "entry_id": "216",
+   "seq": 502,
+   "title": "Gelman Collection — Mexican court denies interim measure to keep Frida Kahlo works in the country; collection set to travel to Spain",
+   "artist": "Frida Kahlo; Diego Rivera; and others (Gelman Collection, 160 works)",
+   "institution": "Coleccion Jacques and Natasha Gelman; Banco Santander / Fundacion Santander; INBAL",
+   "country": "Mexico",
+   "governance_type": "Democracy",
+   "date_controversy": "January 7, 2026 (circulation agreement); July 1, 2026 (legal action); July 8, 2026 (interim measure denied)",
+   "date_discovered": "2026-07-11",
+   "sort_date": "2026-07-08",
+   "description": "In a development in the Gelman Collection dispute (see ACI-216), a Mexican court on 8 July 2026 denied an interim measure sought by the citizen collective Defensa de la Coleccion Gelman to keep the collection in Mexico. The Art Newspaper reported that a 7 January 2026 agreement governing the collection's circulation would allow the works — including 18 by Frida Kahlo, among them 'Diego on My Mind' (1943), 'Self-Portrait with Monkeys' (1943) and 'Self-Portrait with Medallion' (1948) — to leave the country under a five-year renewable term; critics argue this exceeds the customary two-year export-permit norm and conflicts with a 1984 presidential decree barring the permanent export of Kahlo's work. The collection (160 works, managed by interests linked to Banco Santander and the Zambrano family) is scheduled to open at the Faro Santander in Spain on 8 September 2026 and to return to Mexico in summer 2028. A separate case before the Supreme Court questions the constitutionality of the 1984 export ban. As reported by The Art Newspaper.",
+   "outcome": "Interim measure to block the collection's departure denied (8 July 2026); works scheduled to travel to Spain from 8 September 2026; constitutional question on the 1984 export ban pending before the Supreme Court. [FOLLOW-UP PENDING: the substantive ruling on the collective's challenge and the Supreme Court's decision on the 1984 decree.]",
+   "tags": "Cultural patrimony claim, Legal challenge, Community objection, Financialization",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/10/could-mexicos-treasured-kahlo-works-leave-the-country-forever",
+   "themes": [
+    10
+   ],
+   "notes": "Sub-entry of ACI-216. Adds the 8 July 2026 court denial, the specific Kahlo works, and the travel schedule (Faro Santander, Spain, from 8 Sept 2026; return summer 2028), plus the separate Supreme Court question on the 1984 export ban. Only The Art Newspaper retrieved for this development this run; the parent carries Proceso/ARTnews/Artforum.",
+   "interested_parties": "Defensa de la Coleccion Gelman (citizen collective); Banco Santander / Fundacion Santander; Zambrano family; INBAL; Mexican culture ministry; Supreme Court of Justice (SCJN)",
+   "coverage_geography": "Mexico, Spain, UK",
    "follow_up_pending": true
   },
   {
@@ -16003,6 +16065,35 @@
    "notes": "Borderline entry, flagged for editorial review and logged thin per the err-toward-more standard. The immediate dispute concerns Mayor Mamdani's resurfaced 2020 post rather than an active proposal to remove the Astoria Columbus statue; the monument is the contested symbol but no removal proceeding is under way. Tagged only 'Community objection' to avoid implying an executed removal. Only ARTnews (art press) retrieved this run; the story is also carried by general and political outlets not cited here. Statue's sculptor and erection date not established in retrieved coverage.",
    "interested_parties": "Zohran Mamdani (NYC mayor); Columbus Heritage Coalition; Angelo Vivolo (coalition president)",
    "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-235",
+   "entry_id": "235",
+   "seq": 504,
+   "title": "'Pasados en retorno' — Museo Nacional de Colombia exhibits 1,194 repatriated pre-Columbian artefacts; Quimbaya and San Agustin claims remain unresolved",
+   "artist": "N/A (pre-Columbian archaeological objects)",
+   "institution": "Museo Nacional de Colombia (Bogota); ICANH",
+   "country": "Colombia",
+   "governance_type": "Democracy",
+   "date_controversy": "Repatriations 2022–2026; exhibition on view through 23 August 2026; reported 10 July 2026",
+   "date_discovered": "2026-07-11",
+   "sort_date": "2026-07-10",
+   "description": "The Museo Nacional de Colombia in Bogota is showing 'Pasados en retorno. Repatriacion del patrimonio arqueologico,' an exhibition of 1,194 pre-Columbian objects repatriated to Colombia between 2022 and 2026 under the outgoing administration of President Gustavo Petro, on view through 23 August 2026. The Art Newspaper reports the objects were returned chiefly from the United States (384), Italy (208), Chile (174), Germany (149) and Canada (127), among other countries — roughly 80% via voluntary returns and 20% recovered through auctions or legal action against illicit trafficking — coordinated by the Colombian Institute of Anthropology and History (ICANH) with the culture and foreign ministries. The exhibition also foregrounds two unresolved international claims: the Quimbaya Collection (122 objects held at the Museo de America in Madrid) and San Agustin stone sculptures held at Berlin's Ethnological Museum. As reported by The Art Newspaper.",
+   "outcome": "Exhibition on view through 23 August 2026 as a showcase of Colombia's repatriation policy; the Quimbaya (Spain) and San Agustin (Germany) claims remain open. [FOLLOW-UP PENDING: developments on the Quimbaya and San Agustin restitution claims.]",
+   "tags": "Repatriation, Cultural patrimony claim, Geopolitics",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/10/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts",
+   "themes": [
+    5
+   ],
+   "notes": "New parent and repatriation cluster anchor (analytically relevant per the inclusion rules — a repatriation showcase that surfaces two live disputes). The contested elements are the Quimbaya (Museo de America, Madrid) and San Agustin (Ethnologisches Museum, Berlin) claims. Theme 5 (Universal Museum) applies via those encyclopedic-museum holdings. Single-source (The Art Newspaper) this run; flagged for enrichment with Colombian/Spanish/German coverage.",
+   "interested_parties": "Museo Nacional de Colombia; ICANH; President Gustavo Petro's administration; Museo de America (Madrid); Ethnologisches Museum (Berlin)",
+   "coverage_geography": "Colombia, Spain, Germany, UK",
    "follow_up_pending": true
   }
  ]
