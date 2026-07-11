@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 489
+  "total_cases": 493
  },
  "cases": [
   {
@@ -14422,6 +14422,39 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-012-H",
+   "entry_id": "012",
+   "seq": 501,
+   "title": "Smithsonian — Secretary Lonnie Bunch defends institution in staff memo after White House report",
+   "artist": "N/A (institutional)",
+   "institution": "Smithsonian Institution / National Museum of American History",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "July 8-9, 2026",
+   "date_discovered": "2026-07-11",
+   "sort_date": "2026-07-09",
+   "description": "Following the White House Domestic Policy Council's July 4, 2026 report branding the National Museum of American History as captured by a 'radical, activist ideology' (see ACI-012-F and ACI-012-G), Smithsonian Secretary Lonnie G. Bunch III responded in a memo to staff, reported July 8-9, 2026. Bunch wrote that 'while there will always be room for improvement, this report is not a fair characterization of the work and totality of the National Museum of American History,' and that the institution's work is 'driven by scholarship, accuracy and an uncompromising commitment to tell the fullness of America's story.' Speaking of the Smithsonian's 250th-anniversary exhibition 'American Aspirations,' Bunch said America is 'as much an ideal as it is a place.' As reported by NPR, ARTnews and The New York Times.",
+   "outcome": "Bunch publicly defended the institution's scholarship and accuracy; no change to exhibitions or leadership announced. [FOLLOW-UP PENDING: any personnel or exhibition changes at the National Museum of American History and further White House action.]",
+   "tags": "Political interference, Historical erasure, Institutional risk",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "NPR",
+    "ARTnews",
+    "The New York Times"
+   ],
+   "source": "https://www.npr.org/2026/07/09/nx-s1-5887518/smithsonian-chief-lonnie-bunch-white-house-accusations",
+   "themes": [
+    2,
+    4,
+    5
+   ],
+   "notes": "Sub-entry of ACI-012 (Smithsonian). Direct continuation of the White House report thread (ACI-012-F, ACI-012-G) — the Secretary's own on-record response. Themes inherit the parent [2,4,5]. NPR returned in a web search this run; ARTnews and NYT captured via the RSS ingest headlines this run.",
+   "interested_parties": "Lonnie G. Bunch III (Smithsonian Secretary); White House Domestic Policy Council; National Museum of American History; President Trump",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-011",
    "entry_id": "011",
    "seq": 10,
@@ -15204,6 +15237,33 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-AR",
+   "entry_id": "005",
+   "seq": 500,
+   "title": "Kennedy Center — whistleblowers tell Congress of contracting irregularities under Trump-era leadership",
+   "artist": "N/A (institutional)",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "July 11, 2026 (NYT reporting)",
+   "date_discovered": "2026-07-11",
+   "sort_date": "2026-07-11",
+   "description": "The New York Times reported on July 11, 2026 that whistleblowers submitted documents to Congress detailing concerns about contracting at the John F. Kennedy Center for the Performing Arts under its Trump-appointed leadership, including concerns about competitive bidding processes and an instance in which the White House ordered newly installed bathroom tile torn up because of its colour. Logged from the NYT report's headline and abstract; the full article text sits behind the paywall and was not retrieved this run. Part of the Kennedy Center cluster (see ACI-005 and sub-entries).",
+   "outcome": "Documents submitted to Congress; no formal congressional finding or Kennedy Center/White House response reported as of July 11, 2026. [FOLLOW-UP PENDING: any congressional inquiry or institutional response to the whistleblower documents.]",
+   "tags": "Political interference, Institutional crisis",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/07/11/arts/design/whistle-blowers-accuse-kennedy-center-of-contracting-flaws-under-trump.html",
+   "themes": [],
+   "notes": "Sub-entry of ACI-005 (Trump Kennedy Center). Themes left empty as with other procedural/governance sub-entries in the cluster (e.g. ACI-005-AQ) — this is a contracting-governance development, not the funding/expression axis. Logged thin from NYT metadata (headline + abstract) per the routine's paywall convention; enrich from full text on a subscription pass.",
+   "interested_parties": "Kennedy Center leadership; unnamed whistleblowers; U.S. Congress; White House",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -15884,6 +15944,62 @@
    "notes": "New parent surfaced via the Spanish/Italian dragnet (Latin America). Theme 9 (Public Objection) — a municipally run cultural center removes work after public/parental objection. Sources diverge on the exact count of works removed (three vs six); primary Chilean coverage governs and the range is noted rather than asserted as a single figure.",
    "interested_parties": "Corporacion Cultural de La Reina; professor Ernesto Diaz; workshop students; complaining parents; Asociacion de Pintores y Escultores de Chile (APECH)",
    "coverage_geography": "Chile",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-233",
+   "entry_id": "233",
+   "seq": 498,
+   "title": "Former Teatro Comunale ('black cube') redevelopment, Florence — Unesco reviews World Heritage impact as prosecutors investigate authorization",
+   "artist": "Vittorio Grassi (architect)",
+   "institution": "Former Teatro Comunale di Firenze site; Starhotels (operator); City of Florence",
+   "country": "Italy",
+   "governance_type": "Democracy",
+   "date_controversy": "Design approved 2018, rejected May 2020, redesign approved Sept 2020; Unesco review and prosecutorial investigation reported July 10, 2026",
+   "date_discovered": "2026-07-11",
+   "sort_date": "2026-07-10",
+   "description": "A luxury residential redevelopment of Florence's former Teatro Comunale opera house — a roughly 30-metre dark structure rising behind the preserved Neo-Classical facade, together with residential blocks whose upper storeys are black, with 156 short- and medium-term apartments operated by Milan-based Starhotels — has drawn objection for clashing with the city's Renaissance historic centre, a Unesco World Heritage Site since 1982. Critics quoted by The Art Newspaper argue the scheme turns the historic core into 'an investment asset'; the outlet reported that some 300,000 sq m of property within 1.5 km of the Duomo has been converted to tourism- and investment-driven uses. Unesco said it is reviewing whether the project affects the World Heritage status, stating that any project planned for a World Heritage site 'must ensure that it does not have an irreversible impact.' Italian prosecutors are separately investigating 15 people over alleged forgery, planning violations and heritage-code breaches in the authorization and height-limit approvals. The original design was approved in 2018, rejected by heritage officials in May 2020, and a redesigned scheme approved in September 2020. As reported by The Art Newspaper.",
+   "outcome": "Unesco reviewing the project's potential impact on Florence's World Heritage status; prosecutors investigating 15 people over the authorization process; construction proceeding. [FOLLOW-UP PENDING: Unesco's determination and the outcome of the prosecutorial investigation.]",
+   "tags": "Historic preservation, Design controversy, Adaptive reuse, Landmark dispute, Legal challenge, UNESCO World Heritage Site",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/10/unesco-reviewing-controversial-black-cube-project-in-florence-amid-outrage",
+   "themes": [
+    10
+   ],
+   "notes": "New parent surfaced via The Art Newspaper homepage scan. Theme 10 (Art and Capital) applied in the heritage-as-capital sense — a World Heritage opera-house site converted to investment-driven short-let residences, the 'investment asset' framing attributed to critics via TAN. Only The Art Newspaper retrieved this run; single-source, flagged for enrichment with Italian-language coverage on the relevant trawl day.",
+   "interested_parties": "Architect Vittorio Grassi; Starhotels (operator); City of Florence planning and heritage authorities; Unesco; Italian prosecutors",
+   "coverage_geography": "Italy, UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-234",
+   "entry_id": "234",
+   "seq": 499,
+   "title": "Columbus statue (Astoria, Queens) — Italian-American heritage groups condemn Mayor Mamdani over resurfaced 2020 'take it down' post",
+   "artist": "",
+   "institution": "N/A (public monument; Astoria, Queens, New York City)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Post dated June 2020; resurfaced and condemned July 2026",
+   "date_discovered": "2026-07-11",
+   "sort_date": "2026-07-10",
+   "description": "A June 2020 social-media post by Zohran Mamdani — then not in city office, since elected mayor of New York City — showing a raised middle finger toward a Christopher Columbus statue in Astoria, Queens, with the caption 'Take it down,' resurfaced in July 2026 and drew organized objection. The Columbus Heritage Coalition, which ARTnews describes as an alliance of some 40 Italian-American groups, and its president Angelo Vivolo condemned the post; Vivolo said the coalition would 'defend Columbus Day and Columbus statues' and called the post disrespectful to the Italian-American community. ARTnews's headline characterizes the groups as reading 'seething hatred' into the post. No removal of the Astoria statue is under way. As reported by ARTnews.",
+   "outcome": "Italian-American heritage groups publicly condemned the mayor's past post; no formal removal proceeding or city action reported. [FOLLOW-UP PENDING: any New York City response or renewed removal/retention proposal for the Astoria Columbus statue.]",
+   "tags": "Community objection",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/italian-americans-zohran-mamdani-tweet-christopher-columbus-1234791867/",
+   "themes": [],
+   "notes": "Borderline entry, flagged for editorial review and logged thin per the err-toward-more standard. The immediate dispute concerns Mayor Mamdani's resurfaced 2020 post rather than an active proposal to remove the Astoria Columbus statue; the monument is the contested symbol but no removal proceeding is under way. Tagged only 'Community objection' to avoid implying an executed removal. Only ARTnews (art press) retrieved this run; the story is also carried by general and political outlets not cited here. Statue's sculptor and erection date not established in retrieved coverage.",
+   "interested_parties": "Zohran Mamdani (NYC mayor); Columbus Heritage Coalition; Angelo Vivolo (coalition president)",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
