@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 496
+  "total_cases": 499
  },
  "cases": [
   {
@@ -16096,6 +16096,93 @@
    "notes": "New parent and repatriation cluster anchor (analytically relevant per the inclusion rules — a repatriation showcase that surfaces two live disputes). The contested elements are the Quimbaya (Museo de America, Madrid) and San Agustin (Ethnologisches Museum, Berlin) claims. Theme 5 (Universal Museum) applies via those encyclopedic-museum holdings. Single-source (The Art Newspaper) this run; flagged for enrichment with Colombian/Spanish/German coverage.",
    "interested_parties": "Museo Nacional de Colombia; ICANH; President Gustavo Petro's administration; Museo de America (Madrid); Ethnologisches Museum (Berlin)",
    "coverage_geography": "Colombia, Spain, Germany, UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-236",
+   "entry_id": "236",
+   "seq": 505,
+   "title": "SMAC Gallery (Cape Town) — artists and former staff accuse gallery of nonpayment and withholding artworks",
+   "artist": "Kate Gottgens and other SMAC-represented artists",
+   "institution": "SMAC Gallery (Stellenbosch Modern and Contemporary), Cape Town; dealer Baylon Sandri",
+   "country": "South Africa",
+   "governance_type": "Democracy",
+   "date_controversy": "July 2, 2026 (Gottgens's public post); reported July 4–10, 2026",
+   "date_discovered": "2026-07-12",
+   "sort_date": "2026-07-10",
+   "description": "South African artist Kate Gottgens accused the Cape Town gallery SMAC of failing either to pay her for works it had sold or to return works still in its possession. On 2 July 2026 she posted an image of her painting 'Audible Doom' (2011) to Instagram asking 'Has anyone seen this painting?', saying SMAC had shown it at the Miart fair in 2022, that it did not sell, and that it had not been returned to her despite repeated requests over four years. News24 and ARTnews reported that additional artists and former staffers raised similar allegations of nonpayment and withheld artworks against the gallery, which dealer Baylon Sandri opened in Stellenbosch (as Stellenbosch Modern and Contemporary) in 2007 and expanded to Cape Town in 2011. In an emailed statement SMAC said it had 'a proud record of achievements for its artists and for acting in good faith,' said it had 'facts to support our case,' and said it was 'deeply disappointed that some artists ... are now acting with inexplicable malice.' As reported by ARTnews and News24.",
+   "outcome": "Dispute public; artists seeking payment or the return of works, gallery disputing the allegations. No court filing reported as of this writing. [FOLLOW-UP PENDING: whether the artists pursue legal action and whether the disputed works or payments are recovered.]",
+   "tags": "Institutional crisis, Labor dispute",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews",
+    "News24"
+   ],
+   "source": "https://www.artnews.com/art-news/news/artists-staffers-accuse-cape-town-gallery-smac-nonpayment-1234791540/",
+   "themes": [],
+   "notes": "New parent. Artist-versus-gallery nonpayment/withholding dispute in the South African commercial gallery sector. National-origin coverage (News24) with international trade pickup (ARTnews). Single-side documentary record so far; flagged for enrichment with further South African coverage and any legal filing.",
+   "interested_parties": "Kate Gottgens (artist); other SMAC-represented artists and former staff; Baylon Sandri (SMAC founder/dealer); SMAC Gallery",
+   "coverage_geography": "South Africa, US/UK (trade press)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-237",
+   "entry_id": "237",
+   "seq": 506,
+   "title": "Two 8th-century bronze Avalokiteshvara sculptures, trafficked via dealer Douglas Latchford, returned by the US to Indonesia",
+   "artist": "N/A (two 8th-century bronze Buddhist sculptures of a standing Avalokiteshvara)",
+   "institution": "US Attorney's Office, Southern District of New York; Indonesian Consulate General, New York",
+   "country": "United States / Indonesia",
+   "governance_type": "Democracy",
+   "date_controversy": "Repatriation ceremony early July 2026 (reported July 10, 2026); objects trafficked and sold 2003–2007",
+   "date_discovered": "2026-07-12",
+   "sort_date": "2026-07-10",
+   "description": "The US Attorney's Office for the Southern District of New York announced the return to Indonesia of two 8th-century bronze statues of a standing Avalokiteshvara (a Buddhist bodhisattva), roughly 16 and 20 inches tall, at a repatriation ceremony at the Indonesian Consulate General in New York, reported 10 July 2026. According to the US Attorney's Office, the sculptures were taken from archaeological sites in Indonesia by an organized looting network and sold by the late British dealer Douglas Latchford — indicted in 2019 for trafficking in antiquities, chiefly Khmer/Cambodian material, and who died in Thailand in 2020 — to an unnamed collector between 2003 and 2007; the office said Latchford 'lied to and withheld information from the Collector to conceal that the pieces were stolen.' The collector relinquished 34 objects, including the two bronzes, around 2021. As announced by the US Attorney's Office (SDNY) and reported by ARTnews and ANTARA News.",
+   "outcome": "The two bronzes were formally returned to Indonesia as part of continuing US investigations into the Latchford trafficking network; resolved as to these two objects.",
+   "tags": "Repatriation, Cultural patrimony claim, Archaeological site",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "U.S. Department of Justice (SDNY)",
+    "ARTnews",
+    "ANTARA News"
+   ],
+   "source": "https://www.justice.gov/usao-sdny/pr/us-attorney-announces-return-two-looted-8th-century-sculptures-republic-indonesia",
+   "themes": [],
+   "notes": "New parent; repatriation cluster anchor and part of the Douglas Latchford trafficking cluster (cf. Khmer/Cambodian returns). Analytically relevant non-controversy per the inclusion rules (a repatriation resolution). Primary source: DOJ/SDNY press release; coverage: ARTnews, ANTARA News.",
+   "interested_parties": "US Attorney's Office (SDNY); Indonesian Consulate General, New York; Republic of Indonesia; estate/trafficking network of Douglas Latchford; unnamed collector who relinquished the objects",
+   "coverage_geography": "US, Indonesia",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-238",
+   "entry_id": "238",
+   "seq": 507,
+   "title": "Dinaw Mengestu resigns as PEN America president after the group publishes 'A Silent Moratorium,' a report on Israeli and Jewish writers",
+   "artist": "Dinaw Mengestu (novelist; PEN America president)",
+   "institution": "PEN America",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Resignation July 10, 2026",
+   "date_discovered": "2026-07-12",
+   "sort_date": "2026-07-10",
+   "description": "Novelist Dinaw Mengestu resigned as president of PEN America on 10 July 2026, about seven months into the role, after the literary free-expression organization published an article titled 'A Silent Moratorium' describing harassment and professional obstacles that Israeli and Jewish writers say they have faced since October 2023. Mengestu said the piece 'continues this approach toward defending some rights while not defending others,' which he called 'unethical,' and said he could not lead a group he believed defended some writers but not others. PEN America has stated that it opposes cultural and academic boycotts while defending writers' rights to engage in political action. The group Writers Against the War on Gaza issued a statement on the resignation. As reported by The New York Times and The Times of Israel.",
+   "outcome": "Mengestu resigned effective 10 July 2026; PEN America's leadership and its stance on cultural boycotts remain contested. [FOLLOW-UP PENDING: PEN America's response, successor leadership, and any further fallout over the report.]",
+   "tags": "Institutional crisis",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The New York Times",
+    "The Times of Israel"
+   ],
+   "source": "https://www.nytimes.com/2026/07/10/arts/pen-america-dinaw-mengestu-resigns.html",
+   "themes": [
+    4
+   ],
+   "notes": "New parent. Leadership resignation at a major literary free-expression institution over its stance on cultural boycotts and its report on Israeli and Jewish writers. Sensitive topic — described neutrally, with characterizations attributed to named parties. Theme 4 (Institutional Risk) applies via the dispute over which expression the institution defends. Sources: NYT (primary), Times of Israel. Flagged for monitoring of PEN America's response.",
+   "interested_parties": "Dinaw Mengestu (resigning president); PEN America (board and leadership); Writers Against the War on Gaza",
+   "coverage_geography": "US, Israel",
    "follow_up_pending": true
   }
  ]
