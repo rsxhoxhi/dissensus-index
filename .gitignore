@@ -1,3 +1,7 @@
 # Ephemeral, per-run dedup base written by scan/prescan_guard.py
 # (union of origin/main + open scan branches). Regenerated every scan; never committed.
 scan/backlog_cases.json
+
+# Python bytecode cache
+__pycache__/
+*.pyc

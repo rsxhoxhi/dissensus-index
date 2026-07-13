@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 496
+  "total_cases": 499
  },
  "cases": [
   {
@@ -15327,6 +15327,37 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-046-J",
+   "entry_id": "046-J",
+   "seq": 507,
+   "title": "Lincoln Memorial Reflecting Pool — algae contractor Greenwater Services (owned by a Trump donor) had an earlier troubled no-bid project on the Tijuana River",
+   "artist": "N/A (site: Lincoln Memorial Reflecting Pool, National Mall)",
+   "institution": "US Department of the Interior; National Park Service; Greenwater Services (J.J. Cafaro Investment); US International Boundary and Water Commission (IBWC)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "July 12, 2026 (Washington Post report); Reflecting Pool no-bid contract 2026; Tijuana River pilot 2024–October 2024",
+   "date_discovered": "2026-07-12",
+   "sort_date": "2026-07-12",
+   "description": "The Washington Post reported (12 July 2026, by Meryl Kornfield) that Greenwater Services — the Ohio company given an expedited, no-bid Interior Department contract (reported at $1.7 million) to treat the algae bloom at the renovated Lincoln Memorial Reflecting Pool with its ozone-injecting 'nanobubble' technology — is owned by J.J. Cafaro Investment. J.J. Cafaro, an heir to an Ohio mall-development company, is a Republican donor who the Post said has given about $350,000 to Trump-related political committees; he said his relationship with the president played no role in securing the contract. According to the Post, a year before the Reflecting Pool award, Greenwater had received a separate no-bid contract from the US International Boundary and Water Commission (initially valued above $2 million) to pilot the same technology on the sewage- and trash-plagued Tijuana River; the month-long pilot was cut short in October when a storm flooded the river, washing machinery and leaking diesel into it, and never reached the planned 'Saturn Boulevard' hotspot. EPA engineers had questioned the plan internally in emails obtained via FOIA by the nonprofit San Diego Coastkeeper, one calling it a 'Sisyphean task' and predicting a storm would wash out the equipment. The Post reported the federal government has paid Greenwater about $2.8 million across the two contracts. The Interior Department said the White House was not involved in contractor selection, and a company spokeswoman said Cafaro is not involved in day-to-day operations and cited research supporting the technology. The Post also reported that the Reflecting Pool was fenced off after the July 4 fireworks and that Interior Secretary Doug Burgum said workers would drain the pool and repair the peeling coating, with the nanobubble system turned off ahead of the draining. As reported by The Washington Post.",
+   "outcome": "The Reflecting Pool cleanup contractor's donor ownership and its earlier failed Tijuana River pilot drew scrutiny; Cafaro, the Interior Department, and the company denied any impropriety. Interior Secretary Burgum said the pool would be drained again and its peeling coating repaired, with the nanobubble system switched off beforehand. TCLF lawsuit over the renovation remains pending (cf. ACI-046-G). [FOLLOW-UP PENDING: results of the re-draining and coating repair, and any oversight or review of the no-bid contracts.]",
+   "tags": "Funding dispute, Political interference, Landmark dispute, Historic preservation",
+   "court_case": "Pending",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/07/12/before-reflecting-pool-algae-contractor-had-troubled-project-trash-infested-river/",
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Quick-add from maintainer (Washington Post, 12 July 2026, Meryl Kornfield). Sub-entry to ACI-046. Extends the no-bid/cost thread in ACI-046-A and the nanobubble/Greenwater efficacy story in ACI-046-G by adding the contractor's donor ownership (J.J. Cafaro) and its earlier failed Tijuana River pilot. DC monumental-core cluster: 038 (arch), 050 (ballroom/East Wing), 046-E (recreation-fee diversion funding the works). Characterizations ('Sisyphean task,' donor ties) attributed to the Post and to named EPA staff, not stated in the Index's voice. WaPo direct fetch is blocked to the scan tools; full article text was supplied by the maintainer.",
+   "interested_parties": "US Dept. of the Interior (Sec. Doug Burgum); National Park Service; Greenwater Services / J.J. Cafaro Investment (J.J. Cafaro; Chas Antinone Jr., president/COO); US International Boundary and Water Commission; EPA engineers; San Diego Coastkeeper; Democratic National Committee",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-038-L",
    "entry_id": "038-L",
    "seq": 465,
@@ -16097,6 +16128,63 @@
    "interested_parties": "Museo Nacional de Colombia; ICANH; President Gustavo Petro's administration; Museo de America (Madrid); Ethnologisches Museum (Berlin)",
    "coverage_geography": "Colombia, Spain, Germany, UK",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-236",
+   "entry_id": "236",
+   "seq": 505,
+   "title": "SMAC Gallery (Cape Town) — artists and former staff accuse gallery of nonpayment and withholding artworks",
+   "artist": "Kate Gottgens and other SMAC-represented artists",
+   "institution": "SMAC Gallery (Stellenbosch Modern and Contemporary), Cape Town; dealer Baylon Sandri",
+   "country": "South Africa",
+   "governance_type": "Democracy",
+   "date_controversy": "July 2, 2026 (Gottgens's public post); reported July 4–10, 2026",
+   "date_discovered": "2026-07-12",
+   "sort_date": "2026-07-10",
+   "description": "South African artist Kate Gottgens accused the Cape Town gallery SMAC of failing either to pay her for works it had sold or to return works still in its possession. On 2 July 2026 she posted an image of her painting 'Audible Doom' (2011) to Instagram asking 'Has anyone seen this painting?', saying SMAC had shown it at the Miart fair in 2022, that it did not sell, and that it had not been returned to her despite repeated requests over four years. News24 and ARTnews reported that additional artists and former staffers raised similar allegations of nonpayment and withheld artworks against the gallery, which dealer Baylon Sandri opened in Stellenbosch (as Stellenbosch Modern and Contemporary) in 2007 and expanded to Cape Town in 2011. In an emailed statement SMAC said it had 'a proud record of achievements for its artists and for acting in good faith,' said it had 'facts to support our case,' and said it was 'deeply disappointed that some artists ... are now acting with inexplicable malice.' As reported by ARTnews and News24.",
+   "outcome": "Dispute public; artists seeking payment or the return of works, gallery disputing the allegations. No court filing reported as of this writing. [FOLLOW-UP PENDING: whether the artists pursue legal action and whether the disputed works or payments are recovered.]",
+   "tags": "Institutional crisis, Labor dispute",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews",
+    "News24"
+   ],
+   "source": "https://www.artnews.com/art-news/news/artists-staffers-accuse-cape-town-gallery-smac-nonpayment-1234791540/",
+   "themes": [],
+   "notes": "New parent. Artist-versus-gallery nonpayment/withholding dispute in the South African commercial gallery sector. National-origin coverage (News24) with international trade pickup (ARTnews). Single-side documentary record so far; flagged for enrichment with further South African coverage and any legal filing.",
+   "interested_parties": "Kate Gottgens (artist); other SMAC-represented artists and former staff; Baylon Sandri (SMAC founder/dealer); SMAC Gallery",
+   "coverage_geography": "South Africa, US/UK (trade press)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-237",
+   "entry_id": "237",
+   "seq": 506,
+   "title": "Two 8th-century bronze Avalokiteshvara sculptures, trafficked via dealer Douglas Latchford, returned by the US to Indonesia",
+   "artist": "N/A (two 8th-century bronze Buddhist sculptures of a standing Avalokiteshvara)",
+   "institution": "US Attorney's Office, Southern District of New York; Indonesian Consulate General, New York",
+   "country": "United States / Indonesia",
+   "governance_type": "Democracy",
+   "date_controversy": "Repatriation ceremony early July 2026 (reported July 10, 2026); objects trafficked and sold 2003–2007",
+   "date_discovered": "2026-07-12",
+   "sort_date": "2026-07-10",
+   "description": "The US Attorney's Office for the Southern District of New York announced the return to Indonesia of two 8th-century bronze statues of a standing Avalokiteshvara (a Buddhist bodhisattva), roughly 16 and 20 inches tall, at a repatriation ceremony at the Indonesian Consulate General in New York, reported 10 July 2026. According to the US Attorney's Office, the sculptures were taken from archaeological sites in Indonesia by an organized looting network and sold by the late British dealer Douglas Latchford — indicted in 2019 for trafficking in antiquities, chiefly Khmer/Cambodian material, and who died in Thailand in 2020 — to an unnamed collector between 2003 and 2007; the office said Latchford 'lied to and withheld information from the Collector to conceal that the pieces were stolen.' The collector relinquished 34 objects, including the two bronzes, around 2021. As announced by the US Attorney's Office (SDNY) and reported by ARTnews and ANTARA News.",
+   "outcome": "The two bronzes were formally returned to Indonesia as part of continuing US investigations into the Latchford trafficking network; resolved as to these two objects.",
+   "tags": "Repatriation, Cultural patrimony claim, Archaeological site",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "U.S. Department of Justice (SDNY)",
+    "ARTnews",
+    "ANTARA News"
+   ],
+   "source": "https://www.justice.gov/usao-sdny/pr/us-attorney-announces-return-two-looted-8th-century-sculptures-republic-indonesia",
+   "themes": [],
+   "notes": "New parent; repatriation cluster anchor and part of the Douglas Latchford trafficking cluster (cf. Khmer/Cambodian returns). Analytically relevant non-controversy per the inclusion rules (a repatriation resolution). Primary source: DOJ/SDNY press release; coverage: ARTnews, ANTARA News.",
+   "interested_parties": "US Attorney's Office (SDNY); Indonesian Consulate General, New York; Republic of Indonesia; estate/trafficking network of Douglas Latchford; unnamed collector who relinquished the objects",
+   "coverage_geography": "US, Indonesia",
+   "follow_up_pending": false
   }
  ]
 }

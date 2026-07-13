@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T11:06:00.498177+00:00",
+  "generated_at": "2026-07-12T11:05:25.178090+00:00",
   "window_hours": 96,
   "feed_summary": [
     {
@@ -15,16 +15,16 @@
       "status": "ok",
       "total_in_feed": 10,
       "in_window": 10,
-      "new_candidates": 10,
-      "already_logged": 0
+      "new_candidates": 9,
+      "already_logged": 1
     },
     {
       "feed": "The Art Newspaper",
       "status": "ok",
       "total_in_feed": 61,
-      "in_window": 33,
-      "new_candidates": 33,
-      "already_logged": 0
+      "in_window": 25,
+      "new_candidates": 22,
+      "already_logged": 3
     },
     {
       "feed": "Artforum",
@@ -38,8 +38,8 @@
       "feed": "The Guardian (art)",
       "status": "ok",
       "total_in_feed": 23,
-      "in_window": 17,
-      "new_candidates": 17,
+      "in_window": 15,
+      "new_candidates": 15,
       "already_logged": 0
     },
     {
@@ -194,13 +194,6 @@
     },
     {
       "source_feed": "ARTnews",
-      "title": "Italian Americans Say a 2020 Zohran Mamdani Tweet About a Christopher Columbus Monument Shows ‘Seething Hatred’",
-      "link": "https://www.artnews.com/art-news/news/italian-americans-zohran-mamdani-tweet-christopher-columbus-1234791867/",
-      "published": "2026-07-10T17:47:14+00:00",
-      "summary": "It’s not the first time conservatives have targeted a post calling for the removal of a Columbus monument."
-    },
-    {
-      "source_feed": "ARTnews",
       "title": "ICOM Adopts New Museum Code of Ethics Taking Aim at AI, Colonialism, and Climate Change",
       "link": "https://www.artnews.com/art-news/news/icom-new-museum-code-of-ethics-ai-colonialism-climate-change-1234791845/",
       "published": "2026-07-10T17:09:31+00:00",
@@ -226,20 +219,6 @@
       "link": "https://www.artnews.com/art-news/news/artists-staffers-accuse-cape-town-gallery-smac-nonpayment-1234791540/",
       "published": "2026-07-10T16:06:32+00:00",
       "summary": "The gallery maintains that former artists are acting with “inexplicable malice” and touts a “proud record of achievements.”"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Exhibition in Bogotá shows off more than 1,000 repatriated pre-Columbian artefacts",
-      "link": "https://www.theartnewspaper.com/2026/07/10/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts",
-      "published": "2026-07-10T21:21:54+00:00",
-      "summary": "On public view for the first time, the objects were all returned during outgoing president Gustavo Petro’s administration"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Gelman Collection controversy reaches Mexican courts",
-      "link": "https://www.theartnewspaper.com/2026/07/10/could-mexicos-treasured-kahlo-works-leave-the-country-forever",
-      "published": "2026-07-10T19:53:59+00:00",
-      "summary": "Legal proceedings seek to halt a long-term loan agreement authorised by Mexican authorities concerning works by Frida Kahlo, Diego Rivera and other national treasures"
     },
     {
       "source_feed": "The Art Newspaper",
@@ -275,13 +254,6 @@
       "link": "https://www.theartnewspaper.com/2026/07/10/tasmanias-museum-of-old-and-new-art-announces-plans-for-thailand-outpost",
       "published": "2026-07-10T13:22:12+00:00",
       "summary": "The private museum has signed an agreement with Asset World Corporation to establish Mona Bangkok"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Bayeux Tapestry arrives at the British Museum in London after secret English Channel crossing",
-      "link": "https://www.theartnewspaper.com/2026/07/10/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing",
-      "published": "2026-07-10T10:18:25+00:00",
-      "summary": "The medieval embroidery was delivered to the museum from France in the early hours of the morning ahead of the September exhibition opening"
     },
     {
       "source_feed": "The Art Newspaper",
@@ -403,62 +375,6 @@
       "summary": "Three masked men broke into the museum in the early hours of Sunday morning and stole 27 crystal pieces, according to the local prosecutor"
     },
     {
-      "source_feed": "The Art Newspaper",
-      "title": "Ukraine gives its troops a handbook on protecting cultural property",
-      "link": "https://www.theartnewspaper.com/2026/07/08/ukraine-gives-its-troops-a-handbook-on-protecting-cultural-property",
-      "published": "2026-07-08T10:47:40+00:00",
-      "summary": "The guidelines aim to make international laws readily accessible to soldiers on the ground, and reflects Ukraine's experience in the war against Russia"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "The Nevada Museum of Art puts sustainability at its core",
-      "link": "https://www.theartnewspaper.com/2026/07/07/the-nevada-museum-of-art-puts-sustainability-at-its-core",
-      "published": "2026-07-07T17:59:34+00:00",
-      "summary": "Since its foundation in 1931, the institution has promoted climate action across all its activities"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "July Book Bag: from a selection of US folk art to a closer look at the work of YBA Gary Hume",
-      "link": "https://www.theartnewspaper.com/2026/07/07/july-book-bag-from-a-selection-of-us-folk-art-to-a-closer-look-at-the-work-of-yba-gary-hume",
-      "published": "2026-07-07T16:03:54+00:00",
-      "summary": "Our round-up of the latest art publications"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "A new biography looks at how Michael Andrews shifted from slow burner to innovative creator",
-      "link": "https://www.theartnewspaper.com/2026/07/07/a-new-biography-looks-at-how-michael-andrews-shifted-from-slow-burner-to-innovative-creator",
-      "published": "2026-07-07T15:32:58+00:00",
-      "summary": "The School of London artist, equally at home in Soho society and rural Scotland, was also a noted painter of celebrities"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Joseph Beuys was ambitious, ‘perhaps to the point of megalomania’, says a new book about the German artist",
-      "link": "https://www.theartnewspaper.com/2026/07/07/joseph-beuys-was-ambitious-perhaps-to-the-point-of-megalomania-says-a-new-book-about-the-german-artist",
-      "published": "2026-07-07T15:29:10+00:00",
-      "summary": "A new reading of the life and work of Beuys is no hagiography, seeing Beuys as someone who was fiercely determined and created myths about himself"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Our books editor dips into some recent art-historical fiction",
-      "link": "https://www.theartnewspaper.com/2026/07/07/our-book-reviews-editor-dips-into-some-recent-art-historical-fiction",
-      "published": "2026-07-07T15:16:21+00:00",
-      "summary": "Topics covered in the publications range from a Renaissance sculptress and Baroque Rome to 1930s Manchester and Frida Kahlo"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "How novelists continue to be inspired by artists",
-      "link": "https://www.theartnewspaper.com/2026/07/07/how-novelists-continue-to-be-inspired-by-artists",
-      "published": "2026-07-07T12:47:42+00:00",
-      "summary": "Several books out this summer use art as a springboard—we speak to some of their authors"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "The worst of us: a philosopher’s guide to the world’s most depraved art",
-      "link": "https://www.theartnewspaper.com/2026/07/07/the-worst-of-us-a-philosophers-guide-to-the-worlds-most-depraved-art",
-      "published": "2026-07-07T12:08:06+00:00",
-      "summary": "The academic Daisy Dixon discusses her new book investigating the art that has provoked outrage over the centuries"
-    },
-    {
       "source_feed": "Artforum",
       "title": "Bayeux Tapestry Arrives in England for First Time in Nearly 1,000 Years",
       "link": "https://www.artforum.com/news/bayeux-tapestry-arrives-in-england-1234754327/",
@@ -496,7 +412,7 @@
     {
       "source_feed": "Artforum",
       "title": "Saodat Ismailova on Ancient Forests and Collective Hallucinations",
-      "link": "https://www.artforum.com/columns/1000-words-saodat-ismailova-1234754348/",
+      "link": "https://www.artforum.com/features/1000-words-saodat-ismailova-1234754348/",
       "published": "2026-07-10T17:00:43+00:00",
       "summary": "The artist and filmmaker discusses her film Amanat, and the forest that inspired it: Arslanbob."
     },
@@ -544,6 +460,20 @@
     },
     {
       "source_feed": "The Guardian (art)",
+      "title": "New LS Lowry exhibition aims to demolish ‘naive and uncultured’ myth",
+      "link": "https://www.theguardian.com/artanddesign/2026/jul/12/new-ls-lowry-exhibition-aims-to-demolish-naive-and-uncultured-myth",
+      "published": "2026-07-12T10:00:15+00:00",
+      "summary": "Gallery director says collection of 140 paintings will offer a more balanced view of Manchester painter’s workA new exhibition of work by LS Lowry will “bust a few myths” about the Mancunian artist, who the show’s co-curator says is still wrongly derided for being “naive and uncultured”.LS Lowry: th…"
+    },
+    {
+      "source_feed": "The Guardian (art)",
+      "title": "Up, up and away: balloons take flight over Mildura – in pictures",
+      "link": "https://www.theguardian.com/australia-news/gallery/2026/jul/12/hot-air-balloon-festival-mildura-in-pictures",
+      "published": "2026-07-11T20:01:00+00:00",
+      "summary": "A spectacular display of hot air balloons kicked off the annual Balloons over Mildura festival in regional Victoria Continue reading..."
+    },
+    {
+      "source_feed": "The Guardian (art)",
       "title": "‘‘It’s difficult for children to avoid the temptation of screens’: Soumayan Biswas’s best phone picture",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jul/11/soumayan-biswas-best-phone-picture",
       "published": "2026-07-11T10:00:46+00:00",
@@ -579,20 +509,6 @@
     },
     {
       "source_feed": "The Guardian (art)",
-      "title": "X-rated reading at the British Museum | Letter",
-      "link": "https://www.theguardian.com/books/2026/jul/10/x-rated-reading-at-the-british-museum",
-      "published": "2026-07-10T16:40:05+00:00",
-      "summary": "Jill Lewis recalls her reading of erotica for research in the British Museum’s Reading RoomRegarding your article (Depraved by Daisy Dixon review – a history of dark and dangerous art, 1 July), in the early 70s, for PhD research on the French surrealist poet Paul Éluard, I requested to see Robert Be…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "Test runs and a shock-absorbing cage: how Bayeux tapestry was moved to UK",
-      "link": "https://www.theguardian.com/world/2026/jul/10/test-runs-shock-absorbing-cage-how-bayeux-tapestry-transported-to-uk",
-      "published": "2026-07-10T15:59:55+00:00",
-      "summary": "Medieval artwork safely delivered to British Museum before going on display from September in tightly controlled conditionsBayeux tapestry crosses Channel in dead of nightThe Bayeux tapestry has survived myriad perils, from cathedral fires to its potential destruction for use as wagon covers. Now, w…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
       "title": "Debjani Banerjee review: is that a Henry hoover – or a Hindu deity?",
       "link": "https://www.theguardian.com/artanddesign/2026/jul/10/debjani-banerjee-review-bluecoat-liverpool",
       "published": "2026-07-10T14:59:01+00:00",
@@ -604,13 +520,6 @@
       "link": "https://www.theguardian.com/artanddesign/2026/jul/10/the-hay-wain-walking-constables-landscape-christchurch-mansion-ipswich",
       "published": "2026-07-09T23:01:04+00:00",
       "summary": "Christchurch Mansion, IpswichWhile Britain boils in a heatwave, a new exhibition built around the much-reproduced canvas reminds us of the beauty of the natural world – and what we could lose I first saw John Constable’s 1821 painting The Hay Wain as a postcard with cruise missiles brutally stacked …"
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "Ushida Findlay review: the mighty culture clash that gave us the dazzling Soft and Hairy House",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/07/ushida-findlay-unbroken-spaces-review-kathryn-findlay-review-v-and-a-dundee",
-      "published": "2026-07-07T13:09:07+00:00",
-      "summary": "V&amp;A DundeeWhen Kathryn Findlay and Eisaku Ushida joined forces, a sensual kind of architecture was born – resulting in a hairy blue pod in Tokyo and a starfish beach palace in Qatar‘The future of architecture,” pronounced Salvador Dalí on meeting Le Corbusier in 1922, “will be soft and hairy.” F…"
     },
     {
       "source_feed": "The Guardian (art)",
@@ -655,11 +564,39 @@
       "summary": "Author argues symbols such as daisy wheels are no more than the working marks of stonemasonsOver the years, English Heritage and Historic England have claimed to have identified large numbers of “witches’ marks” or “ritual protection symbols” on the walls of historic buildings, including medieval ch…"
     },
     {
-      "source_feed": "The Guardian (art)",
-      "title": "Tall tales: the gumtree in art – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/08/gum-tree-in-art",
-      "published": "2026-07-07T15:00:05+00:00",
-      "summary": "A new exhibition at Melbourne’s Potter Museum of Art celebrates the cultural and ecological significance of the eucalypt. Translating as ‘breathing for us’ in Woi Wurrung, the show Ngarn Wa’ngal brings together more than 160 works that capture this defining feature of the Australian landscape. Ngarn…"
+      "source_feed": "NYT Arts",
+      "title": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
+      "link": "https://www.nytimes.com/2026/07/11/arts/design/kennedy-center-trump-renovations.html",
+      "published": "2026-07-11T09:02:06+00:00",
+      "summary": "Documents submitted to Congress detailed concerns about competitive bidding processes and a White House order to tear up new bathroom tile because of its color."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Kids Can’t Stop Watching ‘Moana.’ There’s a Scientific Explanation.",
+      "link": "https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html",
+      "published": "2026-07-11T13:30:12+00:00",
+      "summary": "The 2016 release has become the most watched movie on Disney+. Parents and experts explain why kids can’t get enough."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "How Good Is Jon Hamm at Playing Jon Hamm?",
+      "link": "https://www.nytimes.com/2026/07/11/movies/actors-playing-themselves-jon-hamm.html",
+      "published": "2026-07-11T13:38:24+00:00",
+      "summary": "Inside the high-wire act of casting celebrities to play themselves, including in movies like “Gail Daughtry and the Celebrity Sex Pass.”"
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Orna Guralnik of ‘Couples Therapy’ Considers Kendrick Lamar a Genius",
+      "link": "https://www.nytimes.com/2026/07/11/arts/television/orna-guralnik-couples-therapy.html",
+      "published": "2026-07-11T09:00:23+00:00",
+      "summary": "Outside of her job as the therapist on the series “Couples Therapy,” she has a favorite clip of the rapper performing and shows it to everyone she knows."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Beyoncé, the Rolling Stones: Songs to Know This Week",
+      "link": "https://www.nytimes.com/2026/07/11/arts/music/beyonce-rolling-stones-songs.html",
+      "published": "2026-07-11T09:02:12+00:00",
+      "summary": "Beyoncé gets amorous, the Rolling Stones stay loud and the Linda Lindas team up with Hayley Williams."
     },
     {
       "source_feed": "NYT Arts",
@@ -698,7 +635,7 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Dinaw Mengestu Resigns as PEN America President After 7 Months in Role",
+      "title": "Dinaw Mengestu Resigns as PEN America President After Israel Article",
       "link": "https://www.nytimes.com/2026/07/10/arts/pen-america-dinaw-mengestu-resigns.html",
       "published": "2026-07-10T20:33:50+00:00",
       "summary": "The novelist Dinaw Mengestu, who was elected seven months ago, said the article “continues this approach toward defending some rights while not defending others.”"
@@ -726,100 +663,58 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "In the Pathologic Game Series, Failure Is Inevitable",
-      "link": "https://www.nytimes.com/2026/07/10/arts/pathologic-horror-video-games.html",
-      "published": "2026-07-10T09:00:08+00:00",
-      "summary": "In the psychological horror series Pathologic, eerie theatrics and impossible decisions unfold in a Russian town overrun by plague."
+      "title": "Fans of ‘Love Island USA’ Ask: ‘Are These Couples for Real?’",
+      "link": "https://www.nytimes.com/2026/07/12/arts/television/love-island-finale-trinity-bryce.html",
+      "published": "2026-07-12T09:01:01+00:00",
+      "summary": "For many viewers of the hit reality TV show, lively debates over whether the competing couples are truly in love is a central part of being a fan."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Michelle Buteau and the Surprising Transgression of “Survival of the Thickest”",
-      "link": "https://www.nytimes.com/2026/07/10/arts/television/survivial-of-the-thickest-michelle-buteau.html",
-      "published": "2026-07-10T09:03:40+00:00",
-      "summary": "The Netflix rom-com series that just ended after three seasons succeeded thanks to an irresistible performance by its star, Michelle Buteau."
+      "title": "‘Michael’ Crosses $1 Billion at the Box Office as Lionsgate Roars Back",
+      "link": "https://www.nytimes.com/2026/07/12/business/media/michael-movie-lionsgate.html",
+      "published": "2026-07-12T09:00:32+00:00",
+      "summary": "Shunned by bigger studios as too risky, “Michael” and other hits have revived Hollywood’s last major independent studio. But is it enough?"
     },
     {
       "source_feed": "NYT Arts",
-      "title": "5 Children’s Movies to Stream Now",
-      "link": "https://www.nytimes.com/2026/07/10/movies/kids-movies-streaming-now.html",
-      "published": "2026-07-10T09:01:25+00:00",
-      "summary": "This month’s picks include two 2026 animated adventures and the finale to a Guillermo del Toro franchise."
+      "title": "Don’t Try This at Home: How Performers Turn Stunts Into Movie Magic",
+      "link": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
+      "published": "2026-07-12T09:42:50+00:00",
+      "summary": "At the International Stunt School in Seattle, veterans of TV and film teach newcomers the art of falls, fights and fire."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘The Ghost in the Shell’ Director Wanted Humans in Charge",
-      "link": "https://www.nytimes.com/2026/07/10/arts/television/the-ghost-in-the-shell.html",
-      "published": "2026-07-10T09:02:15+00:00",
-      "summary": "In an interview, Mokochan discusses his new adaptation of the classic cyberpunk manga and why this story continues to resonate."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "The Best Seat in the House Is No Seat at All",
-      "link": "https://www.nytimes.com/2026/07/09/arts/design/museum-and-galleries-seating.html",
-      "published": "2026-07-09T14:35:19+00:00",
-      "summary": "Multimedia art is often challenging, provoking. Now it is also potentially bruising. Check your joints before you check out these summer shows."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Beyoncé, the Rolling Stones: Songs to Know This Week",
-      "link": "https://www.nytimes.com/2026/07/11/arts/music/beyonce-rolling-stones-songs.html",
-      "published": "2026-07-11T09:02:11+00:00",
-      "summary": "Beyoncé gets amorous, the Rolling Stones stay loud and the Linda Lindas team up with Hayley Williams."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
-      "link": "https://www.nytimes.com/2026/07/11/arts/design/whistle-blowers-accuse-kennedy-center-of-contracting-flaws-under-trump.html",
-      "published": "2026-07-11T09:02:06+00:00",
-      "summary": "Documents submitted to Congress detailed concerns about competitive bidding processes and a White House order to tear up new bathroom tile because of its color."
+      "title": "Tracee Ellis Ross Is Back in New York City, Living a Dream Come True",
+      "link": "https://www.nytimes.com/2026/07/12/nyregion/tracee-ellis-ross-broadway-every-brilliant-thing.html",
+      "published": "2026-07-12T07:00:14+00:00",
+      "summary": "The actress and entrepreneur got an apartment in the city for the summer while she makes her Broadway debut in “Every Brilliant Thing.”"
     },
     {
       "source_feed": "NYT Arts",
       "title": "Yaacov Agam, Who Made Kinetic, Kaleidoscopic Art, Dies at 98",
       "link": "https://www.nytimes.com/2026/07/11/arts/design/yaacov-agam-dead.html",
-      "published": "2026-07-11T09:01:51+00:00",
-      "summary": "A pioneer of Op Art, he became a global sensation, creating sculptures, paintings, toys and public works that delighted the eye and confounded perception."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "How Good Is Jon Hamm at Playing Jon Hamm?",
-      "link": "https://www.nytimes.com/2026/07/11/movies/actors-playing-themselves-jon-hamm.html",
-      "published": "2026-07-11T09:00:44+00:00",
-      "summary": "Inside the high-wire act of casting celebrities to play themselves, including in movies like “Gail Daughtry and the Celebrity Sex Pass.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Orna Guralnik of ‘Couples Therapy’ Considers Kendrick Lamar a Genius",
-      "link": "https://www.nytimes.com/2026/07/11/arts/television/orna-guralnik-couples-therapy.html",
-      "published": "2026-07-11T09:00:23+00:00",
-      "summary": "Outside of her job as the therapist on the series “Couples Therapy,” she has a favorite clip of the rapper performing and shows it to everyone she knows."
+      "published": "2026-07-11T16:32:06+00:00",
+      "summary": "An Israeli artist, he became a global sensation, creating sculptures, paintings, toys and public works that delighted the eye and confounded perception."
     },
     {
       "source_feed": "NYT Arts",
       "title": "Our Insatiable Appetite for Stories About Cannibalism",
       "link": "https://www.nytimes.com/2026/07/11/books/cannibalism-fiction.html",
-      "published": "2026-07-11T09:00:21+00:00",
+      "published": "2026-07-11T14:55:30+00:00",
       "summary": "Why do the characters in so many new novels insist upon eating each other?"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Kids Can’t Stop Watching ‘Moana.’ There’s a Scientific Explanation.",
-      "link": "https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html",
-      "published": "2026-07-11T09:00:11+00:00",
-      "summary": "The 2016 release has become the most watched movie on Disney+. Parents and experts explain why kids can’t get enough."
     },
     {
       "source_feed": "NYT Arts",
       "title": "‘Giulia’ Review: Jennifer Nettles Delivers Empowerment (and Poison)",
       "link": "https://www.nytimes.com/2026/07/10/theater/giulia-poison-queen-of-palermo-review-nettles.html",
-      "published": "2026-07-11T01:00:10+00:00",
+      "published": "2026-07-11T01:00:11+00:00",
       "summary": "A stirring but tonally muddled new musical about the “poison queen of Palermo” gets an elegant Off Broadway production."
     },
     {
       "source_feed": "NYT Arts",
       "title": "Historian Kerri K. Greenidge and Her Book ‘The Grimkes’ Come Under Fire",
       "link": "https://www.nytimes.com/2026/07/10/books/kerri-greenidge-the-grimkes.html",
-      "published": "2026-07-10T23:22:26+00:00",
+      "published": "2026-07-10T23:22:27+00:00",
       "summary": "Kerri K. Greenidge appeared to lose her professorship at Tufts University after scholars began scrutinizing her 2022 book, “The Grimkes,” which is no longer listed on its publisher’s website."
     },
     {
@@ -847,8 +742,15 @@
       "source_feed": "NYT Arts",
       "title": "Hershel Parker, Melville Scholar of Ahab-Like Obsessiveness, Dies at 90",
       "link": "https://www.nytimes.com/2026/07/10/books/hershel-parker-dead.html",
-      "published": "2026-07-10T18:10:23+00:00",
+      "published": "2026-07-10T18:10:24+00:00",
       "summary": "The author of an exhaustive two-volume biography, he was “fanatical about his approach to scholarship and infatuated with Melville,” a colleague said."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Michelle Buteau and the Surprising Transgression of “Survival of the Thickest”",
+      "link": "https://www.nytimes.com/2026/07/10/arts/television/survivial-of-the-thickest-michelle-buteau.html",
+      "published": "2026-07-10T09:03:40+00:00",
+      "summary": "The Netflix rom-com series that just ended after three seasons succeeded thanks to an irresistible performance by its star, Michelle Buteau."
     },
     {
       "source_feed": "NYT Arts",
@@ -859,9 +761,30 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "‘The Ghost in the Shell’ Director Wanted Humans in Charge",
+      "link": "https://www.nytimes.com/2026/07/10/arts/television/the-ghost-in-the-shell.html",
+      "published": "2026-07-10T09:02:15+00:00",
+      "summary": "In an interview, Mokochan discusses his new adaptation of the classic cyberpunk manga and why this story continues to resonate."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "5 Children’s Movies to Stream Now",
+      "link": "https://www.nytimes.com/2026/07/10/movies/kids-movies-streaming-now.html",
+      "published": "2026-07-10T09:01:25+00:00",
+      "summary": "This month’s picks include two 2026 animated adventures and the finale to a Guillermo del Toro franchise."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "In the Pathologic Game Series, Failure Is Inevitable",
+      "link": "https://www.nytimes.com/2026/07/10/arts/pathologic-horror-video-games.html",
+      "published": "2026-07-10T09:00:08+00:00",
+      "summary": "In the psychological horror series Pathologic, eerie theatrics and impossible decisions unfold in a Russian town overrun by plague."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "How Olivia Wilde Directed an Awkward Dance in ‘The Invite’",
       "link": "https://www.nytimes.com/video/movies/100000010974506/the-invite-scene-olivia-wilde.html",
-      "published": "2026-07-11T03:49:47+00:00",
+      "published": "2026-07-11T15:56:35+00:00",
       "summary": "The director and actress Olivia Wilde breaks down a tension-filled scene from her new film “The Invite” for Anatomy of a Scene."
     },
     {
@@ -891,6 +814,13 @@
       "link": "https://www.nytimes.com/2026/07/09/arts/design/smithsonian-letter-lonnie-bunch.html",
       "published": "2026-07-09T15:23:16+00:00",
       "summary": "In a letter to staff, Lonnie G. Bunch III wrote that the report was “not a fair characterization of the work and totality of the National Museum of American History.”"
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "The Best Seat in the House Is No Seat at All",
+      "link": "https://www.nytimes.com/2026/07/09/arts/design/museum-and-galleries-seating.html",
+      "published": "2026-07-09T14:35:19+00:00",
+      "summary": "Multimedia art is often challenging, provoking. Now it is also potentially bruising. Check your joints before you check out these summer shows."
     },
     {
       "source_feed": "NYT Arts",
@@ -994,7 +924,7 @@
       "source_feed": "NYT Arts",
       "title": "Which Version of the ‘Odyssey’ Should You Read?",
       "link": "https://www.nytimes.com/video/books/100000010971102/which-version-of-the-odyssey-should-you-read.html",
-      "published": "2026-07-09T15:17:32+00:00",
+      "published": "2026-07-11T15:54:02+00:00",
       "summary": "Homer’s “Odyssey” has been translated into English countless times, with versions ranging from contemporary and accessible to highly poetic. A.O. Scott, critic at large for The New York Times Book Review, breaks down three translations and explains which one might be right for you."
     },
     {
@@ -1073,34 +1003,6 @@
       "link": "https://www.nytimes.com/2026/07/08/arts/television/heated-rivalry-emmy-nominations.html",
       "published": "2026-07-08T16:52:59+00:00",
       "summary": "Even if voters had wanted to honor the gay hockey drama, which became a hit on HBO Max, they couldn’t have. But the Emmys did recognize one of the stars."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "2026 Emmy Nominations: ‘The Pitt’ and ‘Hacks’ Lead the Pack",
-      "link": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html",
-      "published": "2026-07-09T14:01:08+00:00",
-      "summary": "The HBO Max medical series earned 25 nominations in the drama category. And in comedy, the final season of “Hacks” set a record with 24 nominations."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Emmy Nominees 2026: See the Full List",
-      "link": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-list-2026.html",
-      "published": "2026-07-08T21:32:47+00:00",
-      "summary": "The 78th Emmy Awards ceremony is planned for Sept. 14. See all the nominees below."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘The Hole’: Urban Apocalypse as Tuneful Chamber Drama",
-      "link": "https://www.nytimes.com/2026/07/08/movies/the-hole-lincoln-center.html",
-      "published": "2026-07-08T13:30:36+00:00",
-      "summary": "Tsai Ming-liang’s 1990s doomsday film gets its first theatrical run with a new 35 mm print at both Film at Lincoln Center and Metrograph."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "In Some U.K. Hospitals, the T.L.C. Includes a Movie Theater",
-      "link": "https://www.nytimes.com/2026/07/08/movies/uk-hospitals-medicinema-movies.html",
-      "published": "2026-07-08T15:17:33+00:00",
-      "summary": "A British nonprofit helps patients escape the stress and boredom of ward life by watching the latest blockbusters."
     }
   ]
 }
