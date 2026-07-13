@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 499
+  "total_cases": 501
  },
  "cases": [
   {
@@ -16185,6 +16185,70 @@
    "interested_parties": "US Attorney's Office (SDNY); Indonesian Consulate General, New York; Republic of Indonesia; estate/trafficking network of Douglas Latchford; unnamed collector who relinquished the objects",
    "coverage_geography": "US, Indonesia",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-239",
+   "entry_id": "239",
+   "seq": 508,
+   "title": "Jayson Gillham v. Melbourne Symphony Orchestra — Federal Court dismisses discrimination claim over cancelled recital following on-stage Gaza remarks",
+   "artist": "Jayson Gillham (pianist)",
+   "institution": "Melbourne Symphony Orchestra (MSO)",
+   "country": "Australia",
+   "governance_type": "Democracy",
+   "date_controversy": "On-stage remarks 11 August 2024; performance withdrawn August 2024; Federal Court judgment 10 July 2026",
+   "date_discovered": "2026-07-13",
+   "sort_date": "2026-07-10",
+   "description": "The Federal Court of Australia on 10 July 2026 dismissed a claim brought by UK-Australian pianist Jayson Gillham against the Melbourne Symphony Orchestra. On 11 August 2024, while introducing a work dedicated to journalists killed in Gaza during an MSO recital, Gillham told the audience that Israel had killed a large number of Palestinian journalists; the MSO subsequently removed him from a performance scheduled days later, stating he had not sought approval for the remarks and that it 'does not condone the use of [its] stage as a platform for expressing personal views.' Gillham sued, alleging unlawful adverse action and discrimination. According to Lawyers Weekly and Limelight, Justice Graeme Hill found the MSO had acted to protect its reputation and its policy of neutrality on the Israel-Gaza conflict rather than to discriminate, held that as an independent contractor Gillham did not have the workplace protections that apply to an employee, and identified a 'custom or practice' in the classical-music industry that performers seek a host's approval before making statements on sensitive political matters from the stage. Gillham said he was disappointed and was reviewing the findings with his legal team. As reported by Lawyers Weekly, Limelight and The Canberra Times.",
+   "outcome": "Claim dismissed by the Federal Court on 10 July 2026; the MSO's action was found lawful. Gillham said he was reviewing the judgment with his legal team. [FOLLOW-UP PENDING: any appeal of the Federal Court decision.]",
+   "tags": "Legal challenge, Censorship, Labor dispute",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Lawyers Weekly",
+    "Limelight",
+    "The Canberra Times"
+   ],
+   "source": "https://www.lawyersweekly.com.au/biglaw/44638-melbourne-symphony-orchestra-wins-adverse-action-fight-over-gaza-comments",
+   "themes": [
+    4,
+    8
+   ],
+   "notes": "New parent. Free-expression-vs-institutional-neutrality dispute turning on a performer's on-stage political statement; the court framed the removal as reputation protection and industry custom, not discrimination. Theme 8 (Artist Responsibility — what a performer may say from the stage and to whom) and theme 4 (Institutional Risk — an institution acting to avoid controversy). Tag 'Censorship' marks the expression-restriction axis descriptively; the court expressly found the action lawful and non-discriminatory, so no verdict is adopted in the Index's voice. Sources retrieved this run via search: Lawyers Weekly (legal trade), Limelight (arts specialist), The Canberra Times. Flagged for enrichment with the primary judgment text on the 2024 origin and the exact wording of Gillham's remarks.",
+   "interested_parties": "Jayson Gillham (pianist); Melbourne Symphony Orchestra; Justice Graeme Hill (Federal Court of Australia)",
+   "coverage_geography": "Australia, UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-240",
+   "entry_id": "240",
+   "seq": 509,
+   "title": "'Defensiva Antifa' mural (Medellín) ordered erased by Mayor Federico Gutiérrez; President Petro condemns removal as censorship",
+   "artist": "N/A (anonymous mural authors)",
+   "institution": "N/A (public space; Alcaldía de Medellín)",
+   "country": "Colombia",
+   "governance_type": "Democracy",
+   "date_controversy": "Mural painted 4 July 2026; erased and public dispute early July 2026 (statements 6 July 2026)",
+   "date_discovered": "2026-07-13",
+   "sort_date": "2026-07-06",
+   "description": "A mural bearing the phrase 'Defensiva Antifa,' painted on a public wall in Medellín on 4 July 2026, was ordered covered over by the city administration, triggering a public dispute between Colombia's mayor of Medellín, Federico 'Fico' Gutiérrez, and President Gustavo Petro. Gutiérrez said the intervention was unauthorized — Medellín regulates artistic interventions in public space and requires prior permits — characterized it as vandalism and an attempt to 'generate disorder,' and said he had requested an investigation of officials involved in the painting. Petro condemned the erasure, writing that 'painting art is not vandalism,' calling those who remove artistic expression from public space 'vandals' and, in later posts, describing the mayor's action as 'fascism' and censorship. The two exchanged pointed messages on X. As reported by Infobae, El Heraldo and Vanguardia.",
+   "outcome": "The mural was erased; the mayor requested an investigation of the officials involved, and the removal became a national political dispute between the Medellín mayor's office and the presidency. No formal legal proceeding reported. [FOLLOW-UP PENDING: outcome of the investigation Gutiérrez said he requested, and any further municipal or national action over public murals in Medellín.]",
+   "tags": "Removal, Political interference, Protest art",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Infobae",
+    "El Heraldo",
+    "Vanguardia"
+   ],
+   "source": "https://www.infobae.com/colombia/2026/07/06/gustavo-petro-llamo-fascista-a-fico-gutierrez-por-orden-para-borrar-un-mural-en-medellin-pintar-arte-no-es-vandalismo/",
+   "themes": [
+    7,
+    9
+   ],
+   "notes": "New parent; Latin America trawl (Monday), Colombia. A public-space mural removed by municipal authority for lacking permits, reframed by the national president as political censorship — the dispute is precisely whether erasing an unpermitted mural is governance or censorship, so the competing characterizations ('vandalism'/'disorder' vs 'censorship'/'fascism') are attributed to their speakers and not adopted. Theme 7 (Unauthorized Public Art — rights over unauthorized public work) and theme 9 (Public Objection — whose view prevails over publicly sited art). Fits the tracked Milei/right-vs-left governance-friction pattern in Latin America (here a right-leaning mayor vs a left president). Sources retrieved this run via search: Infobae, El Heraldo, Vanguardia; wider Colombian coverage (El País Cali, La FM, El Nuevo Siglo, BluRadio, Minuto30, Publimetro) also surfaced. Flagged for enrichment with a photograph/description of the mural's full content.",
+   "interested_parties": "Federico 'Fico' Gutiérrez (mayor of Medellín); President Gustavo Petro; Alcaldía de Medellín",
+   "coverage_geography": "Colombia",
+   "follow_up_pending": true
   }
  ]
 }
