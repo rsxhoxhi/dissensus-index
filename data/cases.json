@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 499
+  "total_cases": 500
  },
  "cases": [
   {
@@ -16185,6 +16185,38 @@
    "interested_parties": "US Attorney's Office (SDNY); Indonesian Consulate General, New York; Republic of Indonesia; estate/trafficking network of Douglas Latchford; unnamed collector who relinquished the objects",
    "coverage_geography": "US, Indonesia",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-240",
+   "entry_id": "240",
+   "seq": 509,
+   "title": "'Defensiva Antifa' mural (Medellín) covered over by the Alcaldía; Mayor Gutiérrez cites permit rules, President Petro condemns removal as censorship",
+   "artist": "N/A (anonymous mural authors)",
+   "institution": "N/A (public space; Alcaldía de Medellín)",
+   "country": "Colombia",
+   "governance_type": "Democracy",
+   "date_controversy": "Mural painted and covered over the same Saturday; Petro–Gutiérrez exchange 6 July 2026",
+   "date_discovered": "2026-07-13",
+   "sort_date": "2026-07-06",
+   "description": "A mural bearing the phrase 'Defensiva Antifa,' painted on a public wall at Avenida Ferrocarril con San Juan in Medellin, Colombia, was covered over with gray paint by the city administration (Alcaldia de Medellin) the same Saturday it was painted, prompting a public dispute between the mayor of Medellin, Federico 'Fico' Gutierrez, and President Gustavo Petro. Gutierrez defended the removal on regulatory grounds, telling La FM that 'para pintar cualquier mural esta reglamentado por acuerdo municipal; se pide un permiso, se analiza y se autoriza,' and posting 'Medellin se respeta' alongside images of the removal; El Heraldo reports he characterised the unauthorised intervention as the work of people seeking to 'generate disorder,' and, per Infobae, he requested an investigation of Defensoria del Pueblo officials for alleged support of the mural. Petro condemned the erasure, writing 'Alcalde del fascio de Medellin, pintar arte no es vandalismo. Vandalos son los que tapan el arte con pintura gris y censuran libros.' Gutierrez replied to the president, 'Petro, estas loco de remate... Te quedan 31 dias y 15 horas.' As reported by El Heraldo, Infobae and Vanguardia.",
+   "outcome": "The mural was covered over the same day it was painted; the removal became a national political dispute between the Medellin mayor's office and the presidency, and Gutierrez said he had requested an investigation of Defensoria del Pueblo officials. No formal legal proceeding reported. [FOLLOW-UP PENDING: outcome of the investigation Gutierrez requested and any further municipal or national action over public murals in Medellin.]",
+   "tags": "Removal, Political interference, Protest art",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "El Heraldo",
+    "Infobae",
+    "Vanguardia"
+   ],
+   "source": "https://www.elheraldo.co/colombia/2026/07/06/no-es-censura-es-gobernar-fico-le-responde-a-petro-tras-polemica-por-mural-en-medellin/",
+   "themes": [
+    7,
+    9
+   ],
+   "notes": "New parent; Latin America trawl (Monday), Colombia. The dispute is precisely whether erasing an unpermitted mural is governance or censorship; competing characterisations (permit-violation/'generate disorder' vs 'censorship'/'fascism') are attributed to Gutierrez and Petro respectively, not adopted in the Index's voice. Theme 7 (Unauthorized Public Art) and theme 9 (Public Objection). Fits the tracked Latin American governance-friction pattern (right-leaning mayor vs left president). DATE CAVEAT: the mural was painted and covered on a Saturday and the Petro-Gutierrez exchange is firmly dated 6 July 2026, but one fetched source (El Heraldo) rendered the paint date as 'sabado 4 de junio,' which is inconsistent with the day of week (4 June 2026 was a Thursday; 4 July 2026 was a Saturday) and with the 6 July dispute; the exact calendar date is left unpinned pending enrichment. Corrected after review: an earlier draft asserted the mural was 'painted on July 4' and attributed a 'generate disorder' quote to Infobae -- neither was supported by the cited Infobae article. Sources fetched this run: El Heraldo, Infobae, Vanguardia.",
+   "interested_parties": "Federico 'Fico' Gutierrez (mayor of Medellin); President Gustavo Petro; Alcaldia de Medellin; Defensoria del Pueblo",
+   "coverage_geography": "Colombia",
+   "follow_up_pending": true
   }
  ]
 }
