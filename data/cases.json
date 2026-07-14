@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 500
+  "total_cases": 506
  },
  "cases": [
   {
@@ -8589,6 +8589,37 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-084-A",
+   "entry_id": "084",
+   "seq": 514,
+   "title": "Second Goudstikker painting -- interior of Amsterdam's Nieuwe Kerk (attrib. Hendrick van der Burgh) recovered from street rubbish; to be returned to Goudstikker heirs",
+   "artist": "Attributed to Hendrick van der Burgh",
+   "institution": "Jacques Goudstikker heirs; recovery by art detective Arthur Brand",
+   "country": "Netherlands",
+   "governance_type": "Democracy",
+   "date_controversy": "Recovery announced July 13, 2026",
+   "date_discovered": "2026-07-14",
+   "sort_date": "2026-07-13",
+   "description": "On July 13, 2026, art detective Arthur Brand announced the identification of a second Nazi-looted painting from the collection of Amsterdam Jewish dealer Jacques Goudstikker -- a 17th-century interior of Amsterdam's Nieuwe Kerk (New Church), likely by Dutch Golden Age painter Hendrick van der Burgh. Amsterdam resident Robert van der Hoek said he had rescued the painting decades earlier from a pile of rubbish left out for the city's cleaning service, and came forward after reading about the earlier recovery of the Toon Kelder 'Portrait of a Young Girl' (see ACI-084). Brand, working with crime reporter John van den Heuvel, tied the work to the Goudstikker collection -- some 1,400 paintings left behind when Goudstikker fled the 1940 Nazi invasion of the Netherlands and subsequently looted. The painting is to be returned to Goudstikker's heirs. As reported by NL Times and ArtDependence; the recovery was announced by Arthur Brand.",
+   "outcome": "Painting identified and slated for return to the Goudstikker heirs; no dispute reported over the return.",
+   "tags": "Repatriation",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "NL Times",
+    "ArtDependence"
+   ],
+   "source": "https://nltimes.nl/2026/07/13/nazi-looted-painting-goudstikker-collection-found-amsterdam-street-trash",
+   "themes": [
+    5,
+    10
+   ],
+   "notes": "Sub-entry of ACI-084; the same Goudstikker / Arthur Brand recovery thread. Distinct object from the Kelder 'Portrait of a Young Girl' -- a Nieuwe Kerk interior attributed to Hendrick van der Burgh, recovered from Amsterdam street rubbish decades ago and surfaced after publicity around the Kelder case. Logged as a restitution cluster update (a non-contentious return), consistent with the Index's practice of allowing analytically relevant restitution entries. The attribution ('likely'/'attributed to' van der Burgh) is as stated by the sources. Themes inherited from parent ACI-084. Sources this run: NL Times, ArtDependence, and Arthur Brand's announcement (search results).",
+   "interested_parties": "Jacques Goudstikker heirs; Arthur Brand (art detective); Robert van der Hoek (finder); John van den Heuvel (crime reporter)",
+   "coverage_geography": "Netherlands",
+   "follow_up_pending": false
+  },
+  {
    "id": "ACI-002-A",
    "entry_id": "002-A",
    "seq": 185,
@@ -14686,6 +14717,37 @@
    "follow_up_pending": false
   },
   {
+   "id": "ACI-008-AD",
+   "entry_id": "008",
+   "seq": 515,
+   "title": "2026 Venice Biennale -- European Commission recommends cancelling the EUR 2 million EU grant over the reopened Russian pavilion",
+   "artist": "N/A",
+   "institution": "La Biennale di Venezia; European Commission / EACEA",
+   "country": "Italy",
+   "governance_type": "Democracy",
+   "date_controversy": "EC recommendation announced July 12, 2026",
+   "date_discovered": "2026-07-14",
+   "sort_date": "2026-07-12",
+   "description": "On July 12, 2026, the European Commission recommended that the European Education and Culture Executive Agency (EACEA) withdraw a EUR 2 million grant to the Venice Biennale, after the Biennale allowed Russia's national pavilion to reopen for the 2026 edition -- the first Russian pavilion since 2022, the year of the full-scale invasion of Ukraine. Executive Vice-President Henna Virkkunen said European culture funding 'should promote and safeguard democratic values' and that 'such values are not respected in Russia today.' The Commission had launched the revocation procedure in April, after Biennale Foundation president Pietrangelo Buttafuoco announced the pavilion's return, and had sent letters warning of the funding loss; the Biennale nonetheless opened on 9 May with the Russian pavilion present. The Foundation has said the pavilion was never opened to the public and that excluding countries from the exhibition would amount to censorship. As reported by ARTnews and Euronews.",
+   "outcome": "The Commission has recommended cancellation; final withdrawal of the grant by EACEA remained pending as of July 12, 2026. [FOLLOW-UP PENDING: EACEA's final decision on the EUR 2 million grant.]",
+   "tags": "Funding dispute, Geopolitics",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews",
+    "Euronews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/eu-commission-cancelation-venice-biennale-grant-russia-1234791923/",
+   "themes": [
+    3,
+    4
+   ],
+   "notes": "Sub-entry of ACI-008; advances the EU-funding thread that earlier entries (see ACI-008-T / -V / -W) left at 'grant suspended / procedure launched.' The EC's July 12 recommendation to cancel the EUR 2 million grant is the formal step toward withdrawal. Virkkunen's 'democratic values' rationale and the Foundation's 'censorship' / 'never opened to the public' defence are attributed to the parties, not adopted in the Index's voice. Maps to the Index's externalised-censorship / funding-conditionality analytical frame. Themes inherited from parent ACI-008. Sources this run: ARTnews, Euronews (search results).",
+   "interested_parties": "European Commission; EVP Henna Virkkunen; EACEA; La Biennale di Venezia; Pietrangelo Buttafuoco (Biennale Foundation president)",
+   "coverage_geography": "Italy, EU, Russia",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-007",
    "entry_id": "007",
    "seq": 6,
@@ -16216,6 +16278,131 @@
    "notes": "New parent; Latin America trawl (Monday), Colombia. The dispute is precisely whether erasing an unpermitted mural is governance or censorship; competing characterisations (permit-violation/'generate disorder' vs 'censorship'/'fascism') are attributed to Gutierrez and Petro respectively, not adopted in the Index's voice. Theme 7 (Unauthorized Public Art) and theme 9 (Public Objection). Fits the tracked Latin American governance-friction pattern (right-leaning mayor vs left president). DATE CAVEAT: the mural was painted and covered on a Saturday and the Petro-Gutierrez exchange is firmly dated 6 July 2026, but one fetched source (El Heraldo) rendered the paint date as 'sabado 4 de junio,' which is inconsistent with the day of week (4 June 2026 was a Thursday; 4 July 2026 was a Saturday) and with the 6 July dispute; the exact calendar date is left unpinned pending enrichment. Corrected after review: an earlier draft asserted the mural was 'painted on July 4' and attributed a 'generate disorder' quote to Infobae -- neither was supported by the cited Infobae article. Sources fetched this run: El Heraldo, Infobae, Vanguardia.",
    "interested_parties": "Federico 'Fico' Gutierrez (mayor of Medellin); President Gustavo Petro; Alcaldia de Medellin; Defensoria del Pueblo",
    "coverage_geography": "Colombia",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-241",
+   "entry_id": "241",
+   "seq": 510,
+   "title": "'Meditating Figure' (2026), Matt Johnson — East Hampton authorizes legal action against Montauk gallery The Ranch over 60-ft shipping-container sculpture treated as an unpermitted structure",
+   "artist": "Matt Johnson",
+   "institution": "The Ranch (Max Levai), Montauk, New York; Town of East Hampton",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "East Hampton Town Board 4-1 vote to authorize legal action, reported the week of July 13, 2026 (exact meeting date unpinned)",
+   "date_discovered": "2026-07-14",
+   "sort_date": "2026-07-13",
+   "description": "Matt Johnson's 'Meditating Figure' (2026), a roughly 60-foot sculpture assembled from 12 retired shipping containers arranged in the outline of a cross-legged figure, is on view in the exhibition 'LA Monumental' at Max Levai's gallery The Ranch in Montauk, New York. The East Hampton Town Board voted 4-1 to authorize the town attorney to pursue legal action against The Ranch, treating the installation not as an artwork but as an unpermitted steel structure. Four alleged violations were cited: violation of a conservation easement, failure to obtain a building permit, failure to obtain Architectural Review Board approval, and failure to obtain a certificate of occupancy. Town Attorney Jake Turner framed the matter as one of process rather than content, saying 'it's not a matter of what is being displayed, it is a matter of how it is being displayed.' Councilman Tom Flight cast the sole dissenting vote, cautioning that 'we don't have a lot of guidance as to when we are restricting art being displayed.' Levai purchased the property in 2020; The Ranch did not return a request for comment. As reported by ARTnews and The East Hampton Press (27east).",
+   "outcome": "Town Board authorized legal action; no filing or resolution reported as of July 14, 2026. [FOLLOW-UP PENDING: whether the town files suit and how the 'artwork vs. unpermitted structure' question is adjudicated.]",
+   "tags": "Legal challenge, Design controversy, Public sculpture controversy",
+   "court_case": "Pending",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews",
+    "The East Hampton Press (27east)"
+   ],
+   "source": "https://www.27east.com/east-hampton-press/news/government/article_0b980980-4b1b-4409-bd41-da54c2edfaa8.html",
+   "themes": [
+    1
+   ],
+   "notes": "New parent; surfaced on the daily outlet scan (ARTnews) and corroborated in local government coverage (27east). A US Northeast story outside Tuesday's South/Midwest/Mountain West trawl but caught by the outlet scan/dragnet. The dispute turns on whether the work is protected artistic expression or an unpermitted structure subject to building regulation -- Theme 1 (Defining Art). Competing characterisations (artwork vs. steel structure) are attributed to the parties, not adopted in the Index's voice. DATE CAVEAT: sources report the 4-1 vote occurred on a 'Tuesday' the week of July 13, 2026; the exact meeting date is left unpinned pending enrichment. Sources this run: The East Hampton Press (27east, fetched); ARTnews (search result).",
+   "interested_parties": "Matt Johnson (artist); Max Levai (The Ranch, property owner); Town of East Hampton; Town Attorney Jake Turner; Councilman Tom Flight",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-242",
+   "entry_id": "242",
+   "seq": 511,
+   "title": "'Ecos del Sol' winning design for the National Museum of Ecuador (MuNA), Quito -- 20,000+ petition opposes design; vice minister of culture and MuNA director resign",
+   "artist": "Studio Campo Baeza (Madrid) and MAODA (Ecuador) -- architects",
+   "institution": "Museo Nacional del Ecuador (MuNA); Ministry of Culture and Heritage of Ecuador",
+   "country": "Ecuador",
+   "governance_type": "Democracy",
+   "date_controversy": "Winning design announced July 6, 2026; resignations July 9, 2026",
+   "date_discovered": "2026-07-14",
+   "sort_date": "2026-07-09",
+   "description": "On July 6, 2026, 'Ecos del Sol' (Echoes of the Sun) by Studio Campo Baeza (Madrid) and MAODA (Ecuador) was announced as the winner of the competition to design the new National Museum of Ecuador (MuNA) in La Carolina Park, Quito -- a roughly $100 million project intended to house some 1.4 million heritage artifacts -- beating 148 entries from more than 20 countries. The minimalist concrete design drew rapid public criticism; an online petition calling for reconsideration gathered more than 20,000 signatures, arguing that 'a heritage that tells our Andean, Amazonian, coastal, and insular history cannot be contained within a structure that emulates the homogeneity of high-rise corporate real estate projects,' and citing concerns over landscaping and park integration, national identity, and a lack of technical and financial transparency. Ecuador's vice minister of culture and heritage, Romina Munoz, resigned on July 9, 2026, after publicly stating the matter 'goes beyond aesthetic preferences'; MuNA executive director Carlos Eduardo Montalvo Puente subsequently stepped down. Officials have not definitively linked the departures to the design controversy. As reported by Artforum, ARTnews, The Architect's Newspaper, and Ecuadorian outlets Primicias and Expreso.",
+   "outcome": "Design announced and defended by the ministry; the petition remained open and two senior culture officials resigned. No decision to revisit the design announced as of July 14, 2026. [FOLLOW-UP PENDING: whether the ministry reopens or revises the design and the outcome of the petition.]",
+   "tags": "Design controversy, Community objection, Institutional crisis",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Artforum",
+    "ARTnews",
+    "The Architect's Newspaper",
+    "Primicias",
+    "Expreso"
+   ],
+   "source": "https://www.artforum.com/news/furor-erupts-over-design-choice-national-museum-of-ecuador-1234754445/",
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "New parent; caught on the daily outlet scan (ARTnews/Artforum) and corroborated in Ecuadorian press (Primicias, Expreso). A Latin America story surfacing outside Monday's trawl. Objections (national identity, transparency, park integration) are attributed to petitioners; the 'beyond aesthetic preferences' framing is attributed to VM Munoz. Officials have not confirmed the resignations were caused by the controversy -- stated as such rather than asserted. Theme 2 (Public Funding) and Theme 9 (Public Objection). Sources this run: Artforum (fetched); ARTnews, Archpaper, Primicias, Expreso (search results).",
+   "interested_parties": "Studio Campo Baeza; MAODA; Ministry of Culture and Heritage of Ecuador; Romina Munoz (former vice minister of culture); Carlos Eduardo Montalvo Puente (former MuNA executive director)",
+   "coverage_geography": "Ecuador, Spain, US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-243",
+   "entry_id": "243",
+   "seq": 512,
+   "title": "Pianist Jayson Gillham v. Melbourne Symphony Orchestra -- Federal Court of Australia dismisses discrimination claim over 2024 on-stage Gaza remarks",
+   "artist": "Jayson Gillham (pianist)",
+   "institution": "Melbourne Symphony Orchestra (MSO); Federal Court of Australia",
+   "country": "Australia",
+   "governance_type": "Democracy",
+   "date_controversy": "On-stage remarks and cancellation August 2024; Federal Court ruling July 10, 2026",
+   "date_discovered": "2026-07-14",
+   "sort_date": "2026-07-10",
+   "description": "On July 10, 2026, the Federal Court of Australia (Justice Graeme Hill) dismissed a discrimination claim brought by pianist Jayson Gillham against the Melbourne Symphony Orchestra. The dispute originated on 11 August 2024, when Gillham gave the premiere of Connor D'Netto's 'Witness' -- a work dedicated to journalists killed in Gaza -- and introduced it with reference to what he called the 'targeted assassinations' of journalists by Israeli forces. The MSO then removed Gillham from a scheduled 15 August 2024 performance, saying he had not sought approval for the statements and that it 'does not condone the use of [its] stage as a platform for expressing personal views.' The court held that the MSO did not act unlawfully: Justice Hill found that as an independent contractor Gillham lacked certain workplace protections, identified an industry 'custom or practice' that performers seek approval before making statements on sensitive social or political issues from the stage, and held the orchestra's neutrality policy on the Israel-Gaza conflict to be a legitimate business stance. As reported by The New York Times and Limelight; also covered by Slippedisc.",
+   "outcome": "Claim dismissed July 10, 2026; the MSO's cancellation held lawful. [FOLLOW-UP PENDING: any appeal by Gillham.]",
+   "tags": "Legal challenge, Labor dispute, Political art",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The New York Times",
+    "Limelight",
+    "Slippedisc"
+   ],
+   "source": "https://www.nytimes.com/2026/07/12/arts/music/jayson-gillham-melbourne-symphony-orchestra-gaza.html",
+   "themes": [
+    4,
+    8
+   ],
+   "notes": "New parent, logged at the resolution (court ruling) stage. The underlying August 2024 dispute predates the observation window, but the July 10, 2026 Federal Court judgment is current and sets a noted precedent on performers' political speech and an 'industry custom' of seeking approval before on-stage statements. Gillham's characterisation ('targeted assassinations') and the MSO's ('does not condone... personal views') are attributed to the parties, not adopted in the Index's voice. Theme 4 (Institutional Risk) and Theme 8 (Artist Responsibility). Sources this run: The New York Times (outlet/RSS scan); Limelight and Slippedisc (search results).",
+   "interested_parties": "Jayson Gillham (pianist); Melbourne Symphony Orchestra; Justice Graeme Hill (Federal Court of Australia); Connor D'Netto (composer of 'Witness')",
+   "coverage_geography": "Australia, US, UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-244",
+   "entry_id": "244",
+   "seq": 513,
+   "title": "Nathan Bedford Forrest statue, Bailey Park, Humboldt, Tennessee -- removal request filed; Tennessee Heritage Protection Act cited as barrier",
+   "artist": "N/A (Confederate monument)",
+   "institution": "City of Humboldt / Gibson County, Tennessee",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Removal request under review; reported July 13, 2026",
+   "date_discovered": "2026-07-14",
+   "sort_date": "2026-07-13",
+   "description": "A statue in Bailey Park in Humboldt, Tennessee -- described in local reporting as a monument to Confederate general Nathan Bedford Forrest and to 'southern heroes of Gibson County' -- has become the subject of a removal request that local leaders said they would review. Forrest was a Confederate cavalry general, was present at the 1864 Fort Pillow killings, and was an early leader of the Ku Klux Klan. WBBJ-TV reported that a request had been filed to remove the statue and that the Tennessee Heritage Protection Act -- which restricts the removal, relocation, or renaming of memorials on public property -- stands as a legal barrier to removal. As reported by WBBJ-TV.",
+   "outcome": "Removal request filed and to be reviewed by local leaders; the Tennessee Heritage Protection Act constrains removal. No decision reported as of July 13, 2026. [FOLLOW-UP PENDING: the local body's decision and any state Heritage Protection Act waiver process.]",
+   "tags": "Removal, Community objection",
+   "court_case": "No",
+   "coverage_tier": "Local",
+   "outlets": [
+    "WBBJ-TV"
+   ],
+   "source": "https://www.wbbjtv.com/2026/07/13/humboldt-leaders-review-request-remove-confederate-statue-bailey-park/",
+   "themes": [
+    9
+   ],
+   "notes": "New parent; Tuesday US-local (South) trawl -- West Tennessee. Per the Index's tagging discipline, contested Confederate monuments are handled as Removal disputes, not cultural-property-destruction; the monument's 'heritage' standing is itself the dispute and any such claim is left to the sources. Thin single-source entry (WBBJ-TV) -- flagged for enrichment with any Jackson Sun or regional pickup. Theme 9 (Public Objection). Source this run: WBBJ-TV (search result).",
+   "interested_parties": "City of Humboldt leadership; Gibson County; the party requesting removal (unnamed in coverage)",
+   "coverage_geography": "US (West Tennessee)",
    "follow_up_pending": true
   }
  ]

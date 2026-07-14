@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T20:23:31.799547+00:00",
+  "generated_at": "2026-07-14T11:06:14.149613+00:00",
   "window_hours": 96,
   "feed_summary": [
     {
@@ -23,8 +23,8 @@
       "status": "ok",
       "total_in_feed": 61,
       "in_window": 14,
-      "new_candidates": 11,
-      "already_logged": 3
+      "new_candidates": 12,
+      "already_logged": 2
     },
     {
       "feed": "Artforum",
@@ -38,20 +38,41 @@
       "feed": "The Guardian (art)",
       "status": "ok",
       "total_in_feed": 23,
-      "in_window": 15,
-      "new_candidates": 15,
+      "in_window": 14,
+      "new_candidates": 14,
       "already_logged": 0
     },
     {
       "feed": "NYT Arts",
       "status": "ok",
       "total_in_feed": 62,
-      "in_window": 47,
-      "new_candidates": 47,
+      "in_window": 45,
+      "new_candidates": 45,
       "already_logged": 0
     }
   ],
   "candidates": [
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Peter Hujar’s Darkroom Floor",
+      "link": "https://hyperallergic.com/peter-hujars-darkroom-floor/",
+      "published": "2026-07-14T10:00:27+00:00",
+      "summary": "Also, Coco Fusco asks: Where is Cuban artist Luis Manuel Otero Alcántara?"
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "How the Children’s Art Carnival in Harlem Nurtured Generations",
+      "link": "https://hyperallergic.com/how-the-childrens-art-carnival-in-harlem-nurtured-generations/",
+      "published": "2026-07-13T21:44:10+00:00",
+      "summary": "Nearly six decades since its founding, the legacy of the beloved program is explored in an exhibition at Columbia University’s Wallach Art Gallery."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "\"Pam the Bird\" Graffiti Stirs Controversy in Melbourne",
+      "link": "https://hyperallergic.com/pam-the-bird-graffiti-stirs-controversy-in-melbourne/",
+      "published": "2026-07-13T20:53:19+00:00",
+      "summary": "Days after police arrested the graffiti artist who tagged a prominent bridge tower with a giant bird, some are calling on the city to preserve the work."
+    },
     {
       "source_feed": "Hyperallergic",
       "title": "Where Is Luis Manuel Otero Alcántara?",
@@ -137,25 +158,25 @@
       "summary": "Holly EJ Black deftly weaves a narrative that integrates varied geographical and cultural perspectives, centering figures who may not have been artists themselves."
     },
     {
-      "source_feed": "Hyperallergic",
-      "title": "The Unruly Ceramic Beings of Kathy Butterly",
-      "link": "https://hyperallergic.com/the-unruly-ceramic-beings-of-kathy-butterly/",
-      "published": "2026-07-10T19:45:42+00:00",
-      "summary": "The artist’s quasi-vessels incorporate folds, indentations, apertures, and coverts, which hint at bodily, biomorphic, and natural forms."
+      "source_feed": "ARTnews",
+      "title": "Christie’s Turns to the World Cup After Record-Breaking Jim Irsay Sales",
+      "link": "https://www.artnews.com/artnews/news/christies-fifa-world-cup-memorabilia-auction-jim-irsay-1234791995/",
+      "published": "2026-07-14T11:00:00+00:00",
+      "summary": "Every lot will open at $100 and will be offered without reserve. Proceeds will benefit the FIFA Global Citizen Education Fund."
     },
     {
-      "source_feed": "Hyperallergic",
-      "title": "Which Artworks Will Grace the High Line’s Plinth Next?",
-      "link": "https://hyperallergic.com/which-artworks-will-grace-the-high-lines-plinth-next/",
-      "published": "2026-07-10T16:58:26+00:00",
-      "summary": "After Iván Argote's iconic pigeon and Tuan Andrew Nguyen’s giant Buddha, the NYC organization is inviting public feedback on 62 proposals."
+      "source_feed": "ARTnews",
+      "title": "Nazi-Looted Painting Found Decades Ago Among Amsterdam’s Street Trash Will Be Returned to Jewish Dealer’s Heirs",
+      "link": "https://www.artnews.com/art-news/news/nazi-looted-painting-jacques-goudstikker-returned-1234792013/",
+      "published": "2026-07-13T21:21:29+00:00",
+      "summary": "Art detective Arthur Brand confirmed that it belonged to the collection of Dutch Jewish art dealer Jacques Goudstikker."
     },
     {
-      "source_feed": "Hyperallergic",
-      "title": "A View From the Easel",
-      "link": "https://hyperallergic.com/a-view-from-the-easel-345/",
-      "published": "2026-07-10T15:20:13+00:00",
-      "summary": "“My batik process is done in stages: from drawing, to waxing, to color staining, to boiling, and finally to oil painting.”"
+      "source_feed": "ARTnews",
+      "title": "Giant Shipping Container Sculpture at Montauk Art Space The Ranch Draws Municipal Fire",
+      "link": "https://www.artnews.com/art-news/news/matt-johnson-meditating-figure-east-hampton-legal-battle-1234791973/",
+      "published": "2026-07-13T20:34:36+00:00",
+      "summary": "Matt Johnson's piece at Max Levai's Ranch has some locals enraged."
     },
     {
       "source_feed": "ARTnews",
@@ -166,7 +187,7 @@
     },
     {
       "source_feed": "ARTnews",
-      "title": "Archeologists Uncover Previously Unknown Tomb of Ancient Egyptian High Official",
+      "title": "Archaeologists Uncover Previously Unknown Tomb of Ancient Egyptian High Official",
       "link": "https://www.artnews.com/art-news/news/ancient-egyptian-high-official-tomb-found-luxor-egypt-1234791939/",
       "published": "2026-07-13T18:31:04+00:00",
       "summary": "Painted offerings on the tomb's walls were intended to magically supply the occupant with sustenance for eternity."
@@ -207,25 +228,32 @@
       "summary": "Russia claimed the EU was trying to \"cancel\" its culture."
     },
     {
-      "source_feed": "ARTnews",
-      "title": "European Commission Recommends Withdrawal of Venice Biennale Grant, UNESCO Reviews ‘Black Cube’ in Florence, and More: Morning Links for July 13, 2026",
-      "link": "https://www.artnews.com/art-news/news/venice-biennale-grant-unesco-florence-morning-links-1234791920/",
-      "published": "2026-07-13T12:40:20+00:00",
-      "summary": "Here's what we're reading this morning."
+      "source_feed": "The Art Newspaper",
+      "title": "Ancient Egyptian grave with colourful murals discovered in Luxor",
+      "link": "https://www.theartnewspaper.com/2026/07/14/ancient-egyptian-grave-with-colourful-murals-discovered-in-luxor",
+      "published": "2026-07-14T10:24:21+00:00",
+      "summary": "Archaeologists hope that further research of the site will reveal more about the lives of the people who lived in the ancient city of Thebes"
     },
     {
-      "source_feed": "ARTnews",
-      "title": "Chua Mia Tee, Leading Singaporean Social Realist Artist, Has Died at 94",
-      "link": "https://www.artnews.com/art-news/news/chua-mia-tee-singaporean-artist-dead-1234791900/",
-      "published": "2026-07-10T20:57:26+00:00",
-      "summary": "The artist received the Cultural Medallion, the highest national award for artists, in 2015."
+      "source_feed": "The Art Newspaper",
+      "title": "What happened when Lucian Freud met Kate Moss? Nothing much, according to new film",
+      "link": "https://www.theartnewspaper.com/2026/07/14/what-happened-when-lucian-freud-met-kate-moss-nothing-much-according-to-new-film",
+      "published": "2026-07-14T08:39:27+00:00",
+      "summary": "Movie about the friendship between the artist and the supermodel gets widespread drubbing from critics"
     },
     {
-      "source_feed": "ARTnews",
-      "title": "British Archeologists Find 5,800-Year-Old Neolithic Monument in Suffolk",
-      "link": "https://www.artnews.com/art-news/news/5800-year-old-neolithic-monument-found-sizewell-c-power-plant-1234791890/",
-      "published": "2026-07-10T19:45:05+00:00",
-      "summary": "The find was made during excavations ahead of the construction of the Sizewell C nuclear power station on the Suffolk coast"
+      "source_feed": "The Art Newspaper",
+      "title": "Name of ancient Maya astronomer-mathematician deciphered for the first time",
+      "link": "https://www.theartnewspaper.com/2026/07/13/name-of-ancient-maya-astronomer-mathematician-deciphered-for-the-first-time",
+      "published": "2026-07-14T00:00:00+00:00",
+      "summary": "Discovered alongside unique formulas for the movements of the sun and planets, the attribution proves the importance of such work more than 1,000 years ago"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Remembering Valerie Brathwaite, the Caracas-based Trinidadian sculptor of singular abstractions",
+      "link": "https://www.theartnewspaper.com/2026/07/13/valerie-brathwaite-obituary",
+      "published": "2026-07-13T22:07:43+00:00",
+      "summary": "Over six decades, the artist developed a distinctive sculptural language in Venezuela and beyond"
     },
     {
       "source_feed": "The Art Newspaper",
@@ -284,25 +312,11 @@
       "summary": "The private museum has signed an agreement with Asset World Corporation to establish Mona Bangkok"
     },
     {
-      "source_feed": "The Art Newspaper",
-      "title": "The story behind Iran’s only Van Gogh: ‘At Eternity’s Gate’",
-      "link": "https://www.theartnewspaper.com/2026/07/10/irans-van-gogh-at-eternitys-gate",
-      "published": "2026-07-10T09:00:00+00:00",
-      "summary": "Once owned by a US vice president, the print was acquired by the Shah’s wife and is now at the Tehran Museum of Contemporary Art"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "No one is sending postcards any more—but English Heritage is fighting back",
-      "link": "https://www.theartnewspaper.com/2026/07/10/no-one-is-sending-postcards-any-morebut-english-heritage-is-fighting-back",
-      "published": "2026-07-09T23:01:00+00:00",
-      "summary": "Free limited-edition postcards will be given out in the UK in an attempt to revive the custom, as research finds only 8% of adults now send a card once a year"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Bacteria that causes Legionnaires’ disease found in Guggenheim Museum cooling tower amid neighbourhood outbreak",
-      "link": "https://www.theartnewspaper.com/2026/07/09/bacteria-that-causes-legionnaires-disease-found-in-guggenheim-museum-cooling-tower",
-      "published": "2026-07-09T21:35:12+00:00",
-      "summary": "The building remains safe for both visitors and employees, as city inspectors continue to test for Legionella across Manhattan’s Upper East Side"
+      "source_feed": "Artforum",
+      "title": "Acclaimed Iranian Feminist Writer Shahrnush Parsipur Dies at 80",
+      "link": "https://www.artforum.com/news/iranian-feminist-writer-shahrnush-parsipur-dead-at-80-1234754461/",
+      "published": "2026-07-13T21:18:46+00:00",
+      "summary": "Iranian author Shahrnush Parsipur, who cloaked uncompromising feminist ideals in stories and novels that glowed with magical realism, died on July 3 in San Francisco following a stroke. She was eighty. Parsipur was imprisoned multiple times over the course of a career spanning six decades, her views…"
     },
     {
       "source_feed": "Artforum",
@@ -382,11 +396,11 @@
       "summary": "The artist and filmmaker discusses her film Amanat, and the forest that inspired it: Arslanbob."
     },
     {
-      "source_feed": "Artforum",
-      "title": "HAUSER & WIRTH CLEARED OF RUSSIAN SANCTIONS CHARGE",
-      "link": "https://www.artforum.com/news/hauser-wirth-uk-cleared-of-russian-sanctions-charge-1234754331/",
-      "published": "2026-07-10T16:34:29+00:00",
-      "summary": "The prominent gallery Hauser &#38; Wirth has been cleared of the charges alleging they breached the British-imposed sanctions against Russia, Artnet reports.  The Swiss gallery, whose U.K. locations include London and Somerset, was charged by the U.K. Crown Prosecution Service last November, togethe…"
+      "source_feed": "The Guardian (art)",
+      "title": "Can you spot the poacher’s handprint? Earth Photo award winners – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/14/earth-photo-award-winners",
+      "published": "2026-07-14T06:00:22+00:00",
+      "summary": "From scientific tricks to stop turtle traffickers to stranded seals and displaced workers, these images all scooped prizes at this year’s Earth Photo awards Continue reading..."
     },
     {
       "source_feed": "The Guardian (art)",
@@ -432,13 +446,6 @@
     },
     {
       "source_feed": "The Guardian (art)",
-      "title": "‘‘It’s difficult for children to avoid the temptation of screens’: Soumayan Biswas’s best phone picture",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jul/11/soumayan-biswas-best-phone-picture",
-      "published": "2026-07-11T10:00:46+00:00",
-      "summary": "The photographer was looking for inspiration near his home in West Bengal when he spotted a girl lying near a tangle of fishing netsIn the Hooghly district of West Bengal, just a short walk from his home, photographer Soumayan Biswas found himself circling the edges of a&nbsp;large village pond, sea…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
       "title": "Yvonne Rainer, Trio A review: watching this thrilling performance for free feels like an enormous privilege",
       "link": "https://www.theguardian.com/artanddesign/2026/jul/11/yvonne-rainer-trio-a-review-watching-this-thrilling-performance-for-free-feels-like-an-enormous-privilege",
       "published": "2026-07-11T07:00:44+00:00",
@@ -450,13 +457,6 @@
       "link": "https://www.theguardian.com/artanddesign/2026/jul/10/debjani-banerjee-review-bluecoat-liverpool",
       "published": "2026-07-10T14:59:01+00:00",
       "summary": "Bluecoat, LiverpoolBanerjee’s blend of British suburbia and ancient Bengali traditions is an imaginative portrayal of the artist’s dual heritage – and questions how we preserve culture todayThe stories we are told shape the world in which we live. If your father had insisted you watch all 94 episode…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "The Hay Wain: Walking Constable’s Landscape review – a masterpiece for the climate crisis age",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/10/the-hay-wain-walking-constables-landscape-christchurch-mansion-ipswich",
-      "published": "2026-07-09T23:01:04+00:00",
-      "summary": "Christchurch Mansion, IpswichWhile Britain boils in a heatwave, a new exhibition built around the much-reproduced canvas reminds us of the beauty of the natural world – and what we could lose I first saw John Constable’s 1821 painting The Hay Wain as a postcard with cruise missiles brutally stacked …"
     },
     {
       "source_feed": "The Guardian (art)",
@@ -495,17 +495,59 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "As White House Leans on Smithsonian, Little Uproar Over Board Vacancies",
+      "link": "https://www.nytimes.com/2026/07/14/arts/smithsonian-trump-board-lonnie-bunch.html",
+      "published": "2026-07-14T09:02:42+00:00",
+      "summary": "An odd silence has surrounded a delay to fill several open seats on the board of the Smithsonian, even as a fierce battle to control the institution ensues."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "What Happens if Pernambuco Wood Becomes Illegal in Music?",
+      "link": "https://www.nytimes.com/2026/07/14/arts/music/pernambuco-wood-bows.html",
+      "published": "2026-07-14T09:00:16+00:00",
+      "summary": "For centuries, the standard wood used to make string instruments’ bows has come from the pernambuco tree in Brazil. Its future is uncertain."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "A Beastie Boy Returns to the Mic, With Some Help",
+      "link": "https://www.nytimes.com/2026/07/14/arts/music/mike-d-new-album-beastie-boys.html",
+      "published": "2026-07-14T09:02:18+00:00",
+      "summary": "Thanks to an assist from his sons, Mike D is set to release “Thank You,” the first new music from a member of the pioneering rap trio in 15 years."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘Difficult People’ a Decade Later: A Sarcastic Time Capsule",
+      "link": "https://www.nytimes.com/2026/07/14/arts/television/difficult-people.html",
+      "published": "2026-07-14T09:02:49+00:00",
+      "summary": "This cult comedy about two snide show-business outsiders has a new Blu-ray edition, and a reunion this fall. The creator Julie Klausner discusses why she’d love to revive it."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "In ‘The Westies,’ Chris Brancato Expands His ‘Scumbag Universe’ (Again)",
+      "link": "https://www.nytimes.com/2026/07/14/arts/television/the-westies.html",
+      "published": "2026-07-14T09:02:58+00:00",
+      "summary": "For his new series, the co-creator of “Narcos” and “Godfather of Harlem” turns his focus to a violent gang of Irish New Yorkers in the early 1980s."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "Jay-Z Yankee Stadium Review: Three Nights of Legacy and Guest Stars",
       "link": "https://www.nytimes.com/2026/07/13/arts/music/jayz-review-yankee-stadium-concerts.html",
-      "published": "2026-07-13T18:43:04+00:00",
+      "published": "2026-07-13T18:43:05+00:00",
       "summary": "The rap mogul convened his starriest collaborators, showed off his still-dazzling skills and made a convincing argument for his singular legacy."
     },
     {
       "source_feed": "NYT Arts",
       "title": "A Murder Mystery Evening at Audrey Gelman’s Guesthouse",
-      "link": "https://www.nytimes.com/2026/07/13/arts/murder-mystery-audrey-gelman-wing.html",
+      "link": "https://www.nytimes.com/2026/07/13/theater/murder-mystery-audrey-gelman-wing.html",
       "published": "2026-07-13T09:02:14+00:00",
       "summary": "At her Hudson Valley guesthouse, Audrey Gelman, a co-founder of the Wing, channels her childlike love of play with murder mystery evenings."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Sam Neill’s Best Movie Performances: Where to Stream",
+      "link": "https://www.nytimes.com/2026/07/13/movies/sam-neill-movies-streaming.html",
+      "published": "2026-07-13T21:16:24+00:00",
+      "summary": "From his global breakthrough in “Jurassic Park” to the more recent “Peaky Blinders,” the actor’s range was always on display."
     },
     {
       "source_feed": "NYT Arts",
@@ -520,6 +562,13 @@
       "link": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
       "published": "2026-07-12T14:57:13+00:00",
       "summary": "At the International Stunt School in Seattle, veterans of TV and film teach newcomers the art of falls, fights and fire."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Labels for Music Created With A.I. Could Join Explicit Lyrics Warnings",
+      "link": "https://www.nytimes.com/2026/07/13/arts/music/ai-labels-warnings-riaa.html",
+      "published": "2026-07-13T20:40:07+00:00",
+      "summary": "Major music industry groups, including the organization behind the Grammy Awards, have proposed labels for tracks made with some degree of artificial intelligence."
     },
     {
       "source_feed": "NYT Arts",
@@ -544,52 +593,17 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘Lucky’ and 6 More Shows to Watch on TV this Week",
-      "link": "https://www.nytimes.com/2026/07/13/arts/television/lucky-and-6-more-shows-to-watch-on-tv-this-week.html",
-      "published": "2026-07-13T05:00:09+00:00",
-      "summary": "A new crime thriller comes to Apple TV. And Sean Evans hosts “Hot Ones: Extra Heat.”"
+      "title": "Jon Stewart Mocks Mitch McConnell’s Recovery Photo",
+      "link": "https://www.nytimes.com/2026/07/14/arts/television/jon-stewart-mitch-mcconnell-recovery.html",
+      "published": "2026-07-14T06:31:28+00:00",
+      "summary": "The “Daily Show” host called the image “totally believable evidence that Mitch McConnell is not only alive, but the happiest boy in the hospital.”"
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
-      "link": "https://www.nytimes.com/2026/07/11/arts/design/kennedy-center-trump-renovations.html",
-      "published": "2026-07-11T09:02:06+00:00",
-      "summary": "Documents submitted to Congress detailed concerns about competitive bidding processes and a White House order to tear up new bathroom tile because of its color."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Kids Can’t Stop Watching ‘Moana.’ There’s a Scientific Explanation.",
-      "link": "https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html",
-      "published": "2026-07-13T16:59:02+00:00",
-      "summary": "The 2016 release has become the most watched movie on Disney+. Parents and experts explain why kids can’t get enough."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘Giulia’ Review: Jennifer Nettles Delivers Empowerment (and Poison)",
-      "link": "https://www.nytimes.com/2026/07/10/theater/giulia-poison-queen-of-palermo-review-nettles.html",
-      "published": "2026-07-11T01:00:11+00:00",
-      "summary": "A stirring but tonally muddled new musical about the “poison queen of Palermo” gets an elegant Off Broadway production."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "How Good Is Jon Hamm at Playing Jon Hamm?",
-      "link": "https://www.nytimes.com/2026/07/11/movies/actors-playing-themselves-jon-hamm.html",
-      "published": "2026-07-11T13:38:24+00:00",
-      "summary": "Inside the high-wire act of casting celebrities to play themselves, including in movies like “Gail Daughtry and the Celebrity Sex Pass.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Orna Guralnik of ‘Couples Therapy’ Considers Kendrick Lamar a Genius",
-      "link": "https://www.nytimes.com/2026/07/11/arts/television/orna-guralnik-couples-therapy.html",
-      "published": "2026-07-11T09:00:24+00:00",
-      "summary": "Outside of her job as the therapist on the series “Couples Therapy,” she has a favorite clip of the rapper performing and shows it to everyone she knows."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Beyoncé, the Rolling Stones: Songs to Know This Week",
-      "link": "https://www.nytimes.com/2026/07/11/arts/music/beyonce-rolling-stones-songs.html",
-      "published": "2026-07-11T09:02:12+00:00",
-      "summary": "Beyoncé gets amorous, the Rolling Stones stay loud and the Linda Lindas team up with Hayley Williams."
+      "title": "Pat Oliphant, Cartoonist Who Skewered the Powerful, Dies at 90",
+      "link": "https://www.nytimes.com/2026/07/13/arts/pat-oliphant-dead.html",
+      "published": "2026-07-14T03:31:41+00:00",
+      "summary": "The winner of countless awards, including a Pulitzer Prize, he was described in 1990 as “the most influential political cartoonist now working.”"
     },
     {
       "source_feed": "NYT Arts",
@@ -600,16 +614,9 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Labels for Music Created With A.I. Could Join Explicit Lyrics Warnings",
-      "link": "https://www.nytimes.com/2026/07/13/arts/music/ai-labels-warnings-riaa.html",
-      "published": "2026-07-13T17:32:29+00:00",
-      "summary": "Major music industry groups, including the organization behind the Grammy Awards, have proposed labels for tracks made with some degree of artificial intelligence."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "Paramount-Warner Bros. Merger Is Challenged in Court by California and 11 Other States",
       "link": "https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html",
-      "published": "2026-07-13T18:26:02+00:00",
+      "published": "2026-07-14T03:51:12+00:00",
       "summary": "The lawsuit, filed by California and 11 other states, argues that the deal would harm movie theaters and damage America’s entertainment industry."
     },
     {
@@ -630,8 +637,15 @@
       "source_feed": "NYT Arts",
       "title": "Sam Neill, New Zealand Actor Known for ‘Jurassic Park,’ Dies at 78",
       "link": "https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html",
-      "published": "2026-07-13T20:18:39+00:00",
+      "published": "2026-07-13T22:05:25+00:00",
       "summary": "He appeared in more than 150 films and TV shows over a five-decade career, but was perhaps best known for his star turn in the dinosaur blockbuster."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘Lucky’ and 6 More Shows to Watch on TV this Week",
+      "link": "https://www.nytimes.com/2026/07/13/arts/television/lucky-and-6-more-shows-to-watch-on-tv-this-week.html",
+      "published": "2026-07-13T05:00:09+00:00",
+      "summary": "A new crime thriller comes to Apple TV. And Sean Evans hosts “Hot Ones: Extra Heat.”"
     },
     {
       "source_feed": "NYT Arts",
@@ -656,6 +670,20 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "Beyoncé, the Rolling Stones: Songs to Know This Week",
+      "link": "https://www.nytimes.com/2026/07/11/arts/music/beyonce-rolling-stones-songs.html",
+      "published": "2026-07-11T09:02:12+00:00",
+      "summary": "Beyoncé gets amorous, the Rolling Stones stay loud and the Linda Lindas team up with Hayley Williams."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
+      "link": "https://www.nytimes.com/2026/07/11/arts/design/kennedy-center-trump-renovations.html",
+      "published": "2026-07-11T09:02:06+00:00",
+      "summary": "Documents submitted to Congress detailed concerns about competitive bidding processes and a White House order to tear up new bathroom tile because of its color."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "Yaacov Agam, Who Made Kinetic, Kaleidoscopic Art, Dies at 98",
       "link": "https://www.nytimes.com/2026/07/11/arts/design/yaacov-agam-dead.html",
       "published": "2026-07-12T15:02:59+00:00",
@@ -663,10 +691,38 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "How Good Is Jon Hamm at Playing Jon Hamm?",
+      "link": "https://www.nytimes.com/2026/07/11/movies/actors-playing-themselves-jon-hamm.html",
+      "published": "2026-07-11T13:38:24+00:00",
+      "summary": "Inside the high-wire act of casting celebrities to play themselves, including in movies like “Gail Daughtry and the Celebrity Sex Pass.”"
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Orna Guralnik of ‘Couples Therapy’ Considers Kendrick Lamar a Genius",
+      "link": "https://www.nytimes.com/2026/07/11/arts/television/orna-guralnik-couples-therapy.html",
+      "published": "2026-07-11T09:00:24+00:00",
+      "summary": "Outside of her job as the therapist on the series “Couples Therapy,” she has a favorite clip of the rapper performing and shows it to everyone she knows."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "Our Insatiable Appetite for Stories About Cannibalism",
       "link": "https://www.nytimes.com/2026/07/11/books/cannibalism-fiction.html",
       "published": "2026-07-11T14:55:30+00:00",
       "summary": "Why do the characters in so many new novels insist upon eating each other?"
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Kids Can’t Stop Watching ‘Moana.’ There’s a Scientific Explanation.",
+      "link": "https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html",
+      "published": "2026-07-13T16:59:02+00:00",
+      "summary": "The 2016 release has become the most watched movie on Disney+. Parents and experts explain why kids can’t get enough."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘Giulia’ Review: Jennifer Nettles Delivers Empowerment (and Poison)",
+      "link": "https://www.nytimes.com/2026/07/10/theater/giulia-poison-queen-of-palermo-review-nettles.html",
+      "published": "2026-07-11T01:00:11+00:00",
+      "summary": "A stirring but tonally muddled new musical about the “poison queen of Palermo” gets an elegant Off Broadway production."
     },
     {
       "source_feed": "NYT Arts",
@@ -693,7 +749,7 @@
       "source_feed": "NYT Arts",
       "title": "Five Action Movies to Stream Now",
       "link": "https://www.nytimes.com/2026/07/10/movies/five-action-movies-to-stream-now.html",
-      "published": "2026-07-12T20:52:22+00:00",
+      "published": "2026-07-12T20:52:23+00:00",
       "summary": "Upgrade your movie night with these picks, featuring karate-chopping families, rogue assassins and more."
     },
     {
@@ -719,31 +775,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Michelle Buteau and the Surprising Transgression of “Survival of the Thickest”",
-      "link": "https://www.nytimes.com/2026/07/10/arts/television/survivial-of-the-thickest-michelle-buteau.html",
-      "published": "2026-07-10T09:03:40+00:00",
-      "summary": "The Netflix rom-com series that just ended after three seasons succeeded thanks to an irresistible performance by its star, Michelle Buteau."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Book Review: ‘A Vast Horizon,’ by Anna Thomasson",
-      "link": "https://www.nytimes.com/2026/07/10/books/review/a-vast-horizon-anna-thomasson.html",
-      "published": "2026-07-10T09:02:21+00:00",
-      "summary": "A group of artists gathered at a hotel on the Côte d’Azur in 1937. A new book by Anna Thomasson captures the art and escapades the holiday inspired."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "‘The Chosen’ Studio Is Accused of Shortchanging Crowdfunders",
       "link": "https://www.nytimes.com/2026/07/10/arts/television/chosen-investors-lawsuit.html",
       "published": "2026-07-10T13:31:25+00:00",
       "summary": "A lawsuit by a former shareholder says he was not fairly compensated when the company behind the popular drama about Jesus’ life went private."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘The Ghost in the Shell’ Director Wanted Humans in Charge",
-      "link": "https://www.nytimes.com/2026/07/10/arts/television/the-ghost-in-the-shell.html",
-      "published": "2026-07-10T09:02:15+00:00",
-      "summary": "In an interview, Mokochan discusses his new adaptation of the classic cyberpunk manga and why this story continues to resonate."
     },
     {
       "source_feed": "NYT Arts",
@@ -754,52 +789,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Now Entering Noir City",
-      "link": "https://www.nytimes.com/2026/07/10/movies/noir-films-paris-theater-festival-streaming.html",
-      "published": "2026-07-10T09:01:38+00:00",
-      "summary": "Crime and mystery fans can catch a 10-day festival of film noir at the Paris Theater, or find some killer movies streaming on major platforms."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "How Olivia Wilde Builds Comic Tension in ‘The Invite’",
-      "link": "https://www.nytimes.com/2026/07/10/movies/the-invite-clip-olivia-wilde.html",
-      "published": "2026-07-10T09:01:30+00:00",
-      "summary": "The director and actress discusses a tense scene from her dinner-party comedy, in which she stars with Seth Rogen, Penélope Cruz and Edward Norton."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "5 Children’s Movies to Stream Now",
-      "link": "https://www.nytimes.com/2026/07/10/movies/kids-movies-streaming-now.html",
-      "published": "2026-07-10T09:01:25+00:00",
-      "summary": "This month’s picks include two 2026 animated adventures and the finale to a Guillermo del Toro franchise."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "In the Pathologic Game Series, Failure Is Inevitable",
-      "link": "https://www.nytimes.com/2026/07/10/arts/pathologic-horror-video-games.html",
-      "published": "2026-07-10T09:00:09+00:00",
-      "summary": "In the psychological horror series Pathologic, eerie theatrics and impossible decisions unfold in a Russian town overrun by plague."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Bayeux Tapestry Arrives in U.K. After Maximum-Security Operation",
-      "link": "https://www.nytimes.com/2026/07/10/arts/design/bayeux-tapestry-british-museum.html",
-      "published": "2026-07-10T08:59:19+00:00",
-      "summary": "The 11th-century tapestry will go on display at the British Museum in September. Tickets for the exhibition have already been selling rapidly."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "How Olivia Wilde Directed an Awkward Dance in ‘The Invite’",
       "link": "https://www.nytimes.com/video/movies/100000010974506/the-invite-scene-olivia-wilde.html",
       "published": "2026-07-11T15:56:35+00:00",
       "summary": "The director and actress Olivia Wilde breaks down a tension-filled scene from her new film “The Invite” for Anatomy of a Scene."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Ronny Chieng Tackles Trump's Two Air Force Ones",
-      "link": "https://www.nytimes.com/2026/07/10/arts/television/ronny-chieng-trump-air-force-one.html",
-      "published": "2026-07-10T05:22:02+00:00",
-      "summary": "“Is that why there’s no gas in the world anymore? Because the president flies with an extra emotional support plane?” Chieng said on “The Daily Show.”"
     },
     {
       "source_feed": "NYT Arts",
@@ -814,13 +807,6 @@
       "link": "https://www.nytimes.com/2026/07/09/arts/television/burning-man-documentary-hbo.html",
       "published": "2026-07-10T14:57:53+00:00",
       "summary": "The directors of a new four-part docuseries talked about why the long-running desert festival is important — and like being on “another planet.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘Evil Dead Burn’ Review: Stop, Drop and Kill",
-      "link": "https://www.nytimes.com/2026/07/09/movies/evil-dead-burn-review.html",
-      "published": "2026-07-09T22:31:46+00:00",
-      "summary": "A dark spirit boils and sears its way through an unhappy family in the latest “Evil Dead” installment."
     }
   ]
 }
