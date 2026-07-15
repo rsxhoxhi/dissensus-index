@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 505
+  "total_cases": 511
  },
  "cases": [
   {
@@ -16372,6 +16372,183 @@
    "notes": "New parent; Tuesday US-local (South) trawl -- West Tennessee. Per the Index's tagging discipline, contested Confederate monuments are handled as Removal disputes, not cultural-property-destruction; the monument's 'heritage' standing is itself the dispute and any such claim is left to the sources. Thin single-source entry (WBBJ-TV) -- flagged for enrichment with any Jackson Sun or regional pickup. Theme 9 (Public Objection). Source this run: WBBJ-TV (search result).",
    "interested_parties": "City of Humboldt leadership; Gibson County; the party requesting removal (unnamed in coverage)",
    "coverage_geography": "US (West Tennessee)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-245",
+   "entry_id": "245",
+   "seq": 516,
+   "title": "Cuban dissident performance artist Luis Manuel Otero Alcántara removed from prison and whereabouts undisclosed as his sentence ends",
+   "artist": "Luis Manuel Otero Alcántara",
+   "institution": "N/A (Cuban State Security; Guanajay Prison)",
+   "country": "Cuba",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Removed from Guanajay Prison 7 July 2026; five-year sentence formally ended 9 July 2026; whereabouts undisclosed since",
+   "date_discovered": "2026-07-15",
+   "sort_date": "2026-07-13",
+   "description": "Luis Manuel Otero Alcántara, a Cuban performance artist and co-founder of the San Isidro Movement, was serving a five-year sentence imposed after his arrest during the July 2021 anti-government protests. According to Cubaheadlines and Havana Times, State Security agents removed him from Guanajay Prison on 7 July 2026 without notifying his family, and although his sentence formally ended on 9 July 2026 he was not released; as of mid-July 2026 his whereabouts had not been publicly disclosed. Amnesty International, which has designated him a prisoner of conscience since 2021, and other human-rights organisations characterised the situation as an enforced disappearance. On 9 July 2026 activist Anamely Ramos reported receiving a phone call in which she heard Otero, who said he could not disclose his location. The UN Committee on Enforced Disappearances issued an Urgent Action (file AU No. 2357/2026) setting a 25 July 2026 deadline for Cuba to report his whereabouts. US Ambassador Mike Walz displayed Otero's photograph during a UN debate on 6 July 2026. Writing in Hyperallergic on 13 July 2026, artist and critic Coco Fusco drew attention to his disappearance.",
+   "outcome": "As of mid-July 2026 Otero Alcántara's whereabouts remained undisclosed; a UN Urgent Action set a 25 July 2026 deadline for Cuba to respond. [FOLLOW-UP PENDING: Cuba's response to the UN Committee on Enforced Disappearances by the 25 July 2026 deadline and confirmation of Otero's whereabouts and status.]",
+   "tags": "Censorship, Political interference, Artist safety, Resistance",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic",
+    "Cubaheadlines",
+    "Havana Times"
+   ],
+   "source": "https://hyperallergic.com/where-is-luis-manuel-otero-alcantara/",
+   "themes": [],
+   "notes": "New parent; Cuba (authoritarian). Political repression of a dissident artist; the Index records the documented facts and attributes the characterisations ('enforced disappearance,' 'prisoner of conscience') to Amnesty International and human-rights groups rather than adopting them in its own voice. Surfaced via the Hyperallergic homepage (Coco Fusco op-ed) and corroborated by Cubaheadlines and Havana Times. Governance-friction pattern: a consolidated authoritarian state suppressing a named artist. Sources retrieved this run: Hyperallergic, Cubaheadlines, Havana Times.",
+   "interested_parties": "Luis Manuel Otero Alcantara; Cuban State Security; Amnesty International; Anamely Ramos; UN Committee on Enforced Disappearances; Coco Fusco",
+   "coverage_geography": "Cuba, US, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-246",
+   "entry_id": "246",
+   "seq": 517,
+   "title": "DR Congo formally asks Belgium to return more than 500 colonial-era human remains held in Belgian museums and institutions",
+   "artist": "N/A (ancestral human remains / skulls)",
+   "institution": "AfricaMuseum (Tervuren); Royal Belgian Institute of Natural Sciences (Brussels)",
+   "country": "Belgium / DR Congo",
+   "governance_type": "Democracy",
+   "date_controversy": "Letter from DRC Prime Minister Judith Suminwa Tuluka to her Belgian counterpart, June 2026",
+   "date_discovered": "2026-07-15",
+   "sort_date": "2026-06-28",
+   "description": "The Democratic Republic of the Congo has formally asked Belgium to return more than 500 colonial-era human remains -- skulls and bones -- taken during the colonial period. According to Rio Times and the Belga News Agency, Congolese Prime Minister Judith Suminwa Tuluka wrote to her Belgian counterpart in June 2026, stating that the dead should rest with dignity in their country of origin. The remains are reported to be dispersed across Belgian museums, universities and private collections, including the AfricaMuseum in Tervuren and the Royal Belgian Institute of Natural Sciences in Brussels. Belgian officials have indicated general openness to restitution but have said a legal framework is needed first, with a draft anticipated later in 2026; no full formal response had been issued as of the reporting. Belgium returned the remains of Patrice Lumumba to his family in 2022.",
+   "outcome": "The request is pending; Belgium has signalled openness in principle while citing the need for a legal framework before returning the remains. [FOLLOW-UP PENDING: Belgium's formal response and any restitution agreement or legislation on the return of the human remains.]",
+   "tags": "Repatriation, Colonial legacy, Geopolitics",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Rio Times",
+    "Belga News Agency"
+   ],
+   "source": "https://www.riotimesonline.com/dr-congo-belgium-colonial-remains-2026/",
+   "themes": [
+    5
+   ],
+   "notes": "New parent; Wednesday trawl (Europe / Francophone Africa); postcolonial human-remains repatriation. Belgium is the holder (governance Democracy); the DRC is the claimant. SOURCING CAVEAT: the core claim (the demand, the 500+ figure, PM Suminwa's authorship) is corroborated across the fetched Rio Times article and the Belga News Agency headline; the specific holding institutions and the 'draft later in 2026' detail derive from search summaries citing RFI, as the RFI original and the Belga body could not be fetched this run (403). Related to the colonial-restitution cluster (cf. ACI-035, ACI-193, ACI-208). Sources retrieved this run: Rio Times (full text), Belga News Agency (headline only).",
+   "interested_parties": "Judith Suminwa Tuluka (DRC Prime Minister); Belgian government; AfricaMuseum (Tervuren); Royal Belgian Institute of Natural Sciences",
+   "coverage_geography": "Belgium, DR Congo, Francophone Africa",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-247",
+   "entry_id": "247",
+   "seq": 518,
+   "title": "Man charged over theft of more than 600 artefacts from Bristol Museum's British Empire and Commonwealth collection",
+   "artist": "N/A (museum artefacts: military badges, East India Company pins, carved Buddha statues)",
+   "institution": "Bristol Museum (British Empire and Commonwealth collection)",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Burglary 25 September 2025; suspect charged 13 July 2026; magistrates' court appearance 14 July 2026",
+   "date_discovered": "2026-07-15",
+   "sort_date": "2026-07-13",
+   "description": "Avon and Somerset Police announced on 13 July 2026 that Dean Hall, 41, of Prewett Street, Redcliffe, Bristol, had been charged with handling stolen goods in connection with the theft of more than 600 artefacts from a building on Cumberland Road, Bristol, that housed items from the Bristol Museum's British Empire and Commonwealth collection. The burglary took place on 25 September 2025; reported items taken include military badges and memorabilia, East India Company pins and carved Buddha statues. According to the police statement, Hall was on police bail and was due to appear at Bristol Magistrates' Court on 14 July 2026; the investigation remained ongoing, following earlier appeals over suspects seen on CCTV. ARTnews also reported the charge.",
+   "outcome": "One person has been charged with handling stolen goods; the police investigation into the theft of the artefacts remains ongoing. [FOLLOW-UP PENDING: the magistrates' court proceedings against the charged individual and any recovery of the more than 600 stolen artefacts.]",
+   "tags": "Security failure, Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Avon and Somerset Police",
+    "ARTnews"
+   ],
+   "source": "https://www.avonandsomerset.police.uk/news/2026/07/man-charged-as-part-of-museum-theft-investigation/",
+   "themes": [],
+   "notes": "New parent; Wednesday trawl (UK). Theft of colonial-era collection material; logged under the theft/vandalism standard (target significance and aftermath, not party identification). The 'British Empire and Commonwealth collection' provenance is noted factually. Primary source is the Avon and Somerset Police statement (fetched); ARTnews carried the story but its body was not retrievable this run. Cf. theft/forgery cluster (ACI-218, ACI-224). Sources retrieved this run: Avon and Somerset Police (full text), ARTnews (headline only).",
+   "interested_parties": "Dean Hall (charged); Avon and Somerset Police; Bristol Museum",
+   "coverage_geography": "United Kingdom",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-248",
+   "entry_id": "248",
+   "seq": 519,
+   "title": "'Pam the Bird' graffiti -- artist Jack Gibson-Burrell charged over Bolte Bridge stunt as a petition seeks to preserve the work",
+   "artist": "Jack Gibson-Burrell ('Pam the Bird')",
+   "institution": "N/A (public infrastructure; Bolte Bridge, Melbourne)",
+   "country": "Australia",
+   "governance_type": "Democracy",
+   "date_controversy": "Bolte Bridge stunt and standoff 7 July 2026; preservation petition launched circa 9 July 2026",
+   "date_discovered": "2026-07-15",
+   "sort_date": "2026-07-13",
+   "description": "'Pam the Bird' is a cartoon-bird graffiti tag created by Melbourne artist Jack Gibson-Burrell, 22, that has appeared on prominent landmarks including Flinders Street Station's clock tower and the Bolte Bridge. On 7 July 2026, according to 1News and Hyperallergic, Gibson-Burrell scaled a Bolte Bridge tower, forced a door, abseiled down and painted a large Pam the Bird together with the words 'Fuck You,' then staged an hours-long standoff with police before surrendering peacefully after roughly nine hours; he was on bail at the time. Police charged him with 13 offences, including burglary, criminal damage, conduct endangering life, graffiti offences and breaching bail. He had previously faced roughly 200 charges over the Pam the Bird graffiti, accused of causing about AU$700,000 in damage, including to heritage-listed landmarks; Victoria Police have described him as a 'notorious vandal.' A petition organised by Eric Giordmaina was launched to preserve the Bolte Bridge work, arguing that Pam the Bird had become a civic 'talking point.' The New Daily reported the petition.",
+   "outcome": "Gibson-Burrell faces 13 new charges in addition to roughly 200 existing charges; a public petition to preserve the Bolte Bridge work is circulating. [FOLLOW-UP PENDING: the criminal proceedings against Gibson-Burrell and whether the Bolte Bridge work is removed or preserved.]",
+   "tags": "Vandalism, Legal challenge, Historic preservation",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic",
+    "1News",
+    "The New Daily"
+   ],
+   "source": "https://hyperallergic.com/pam-the-bird-graffiti-stirs-controversy-in-melbourne/",
+   "themes": [
+    1,
+    7
+   ],
+   "notes": "New parent; Asia-Pacific (caught by the dragnet/homepage scan, not Wednesday's region). The dispute pairs criminal-damage charges against the graffiti with a public petition to preserve the work -- the unauthorized-public-art axis (theme 7) and the defining-art question (theme 1). Figures are as reported: 13 new charges, ~200 prior charges, ~AU$700,000 alleged damage. A source discrepancy on the Bolte Bridge tower height (140 ft in Hyperallergic vs 140 m in 1News) is noted, with 140 m the credible figure. Sources retrieved this run: Hyperallergic, 1News, The New Daily.",
+   "interested_parties": "Jack Gibson-Burrell ('Pam the Bird'); Victoria Police; Eric Giordmaina (petition organiser)",
+   "coverage_geography": "Australia, New Zealand",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-249",
+   "entry_id": "249",
+   "seq": 520,
+   "title": "Toledo Museum of Art cancels planned exhibition of glass cannabis pipes",
+   "artist": "N/A (functional-glass / cannabis-pipe artists)",
+   "institution": "Toledo Museum of Art",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Exhibition cancellation (date not confirmed); reported by The New York Times 15 July 2026",
+   "date_discovered": "2026-07-15",
+   "sort_date": "2026-07-15",
+   "description": "The Toledo Museum of Art canceled a planned exhibition of glass cannabis pipes, according to a New York Times report by Zachary Small published on 15 July 2026 and headlined 'Why Did a Major Museum's Bong Show Go Up in Smoke?' The report describes the cancellation of what it calls a pioneering exhibition of glass cannabis pipes as prompting questions about the reasons behind the decision. This entry is logged thin from the New York Times abstract retrieved via the NYT API this run; the full article text and the museum's stated rationale were not retrieved and require enrichment.",
+   "outcome": "The exhibition was canceled; the museum's stated rationale was not confirmed in the material retrieved this run. [FOLLOW-UP PENDING: the Toledo Museum of Art's stated reason for canceling the exhibition and any response from the artists or public, and enrichment beyond the single NYT abstract.]",
+   "tags": "Removal",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/07/15/arts/design/cannabis-glass-pipes-toledo-art-museum.html",
+   "themes": [
+    1,
+    4
+   ],
+   "notes": "New parent; thin entry. Detected via the NYT API (metadata/abstract only) this run; the article body sits behind the NYT paywall and was not retrieved, so the museum's stated rationale is unknown. Tag 'Removal' is used as a neutral descriptor for the withdrawn exhibition -- NOT an inference of censorship, since no motive was confirmed; tags and themes may change on enrichment. Theme 1 (Defining Art -- is a functional cannabis pipe art?) and theme 4 (Institutional Risk) noted provisionally. Single-source; flagged for enrichment. Source retrieved this run: The New York Times (abstract via NYT API).",
+   "interested_parties": "Toledo Museum of Art",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-250",
+   "entry_id": "250",
+   "seq": 521,
+   "title": "Mural by Michael Rosato damaged in a break-in at the Harriet Tubman Museum and Educational Center, Cambridge, Maryland",
+   "artist": "Michael Rosato (interior mural)",
+   "institution": "Harriet Tubman Museum and Educational Center (Cambridge, Maryland)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Break-in over the weekend of 11-13 July 2026",
+   "date_discovered": "2026-07-15",
+   "sort_date": "2026-07-13",
+   "description": "According to Hyperallergic (Rhea Nayyar, 14 July 2026) and the Baltimore Sun, the Harriet Tubman Museum and Educational Center in Cambridge, Maryland -- which had reopened on 13 June 2026 after renovations -- was broken into over the weekend of 11-13 July 2026. The intruder tore off and damaged a back door that forms part of an interior mural by local artist Michael Rosato, who also painted the well-known outdoor mural 'Take My Hand' (2019), and stole the museum's donation box, which appeared to be the target. Museum director Linda Harris said repairs were estimated at roughly $10,000 to $20,000 with about a two-week turnaround, and the museum closed temporarily for repairs. The perpetrator was at large as of the reporting.",
+   "outcome": "The museum closed temporarily for repairs estimated at $10,000-$20,000; the suspect was at large. [FOLLOW-UP PENDING: identification of the perpetrator and completion of repairs to the damaged mural.]",
+   "tags": "Vandalism, Security failure",
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "Hyperallergic",
+    "Baltimore Sun"
+   ],
+   "source": "https://hyperallergic.com/mural-damaged-in-break-in-at-harriet-tubman-museum/",
+   "themes": [],
+   "notes": "New parent; US-local story caught by the Hyperallergic homepage scan. BORDERLINE: this reads primarily as a burglary targeting the donation box in which an interior mural was collaterally damaged, rather than a controversy between identified opposing parties; logged thin under the theft/vandalism standard (target significance and aftermath) and flagged for editorial judgment on whether it meets the inclusion bar. Cf. ACI-156 (arson attempt at the Boston African Meeting House). Sources retrieved this run: Hyperallergic (full text), Baltimore Sun (search result).",
+   "interested_parties": "Harriet Tubman Museum and Educational Center; Linda Harris (director); Michael Rosato (artist)",
+   "coverage_geography": "US (Maryland)",
    "follow_up_pending": true
   }
  ]
