@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 511
+  "total_cases": 514
  },
  "cases": [
   {
@@ -753,6 +753,39 @@
    "interested_parties": "",
    "coverage_geography": "",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-002-D",
+   "entry_id": "002",
+   "seq": 522,
+   "title": "Louvre heist — suspects tell investigators an unidentified 'mastermind' recruited and paid them; Le Monde reviews interrogation records",
+   "artist": "N/A (institutional crisis / theft of French crown jewels)",
+   "institution": "Musée du Louvre (Paris)",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Interrogation hearings June 2026; reported 13 July 2026",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-07-13",
+   "description": "According to Le Monde -- which reviewed records of June 2026 interrogation hearings -- as reported on 13 July 2026 by Euronews, ITV News, Artforum, ARTnews and Hyperallergic, two suspects in the October 2025 theft of French crown jewels from the Louvre, identified in coverage as Abdoulaye N. and Ghelamallah A., gave their most detailed accounts yet of the operation. They said they were recruited two to three days before the heist and paid roughly EUR 15,000-25,000, and described a 'mastermind' who ordered the theft and was dissatisfied with the haul (valued at about EUR 88m), reportedly saying they 'could have taken more' and had 'wasted time' re-entering through a window. Both said they would not identify the sponsor, citing fear of reprisals against their families; one said he had received calls telling him to 'keep quiet.' Le Monde reported that investigators are not fully convinced the mastermind as described exists but have not ruled it out.",
+   "outcome": "Suspects' interrogation accounts made public 13 July 2026; the stolen jewels remain unrecovered and the alleged mastermind is unidentified and unverified. [FOLLOW-UP PENDING: identification or verification of the alleged mastermind and recovery of the jewels.]",
+   "tags": "Security failure, Institutional crisis, Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "Euronews",
+    "ITV News",
+    "Artforum",
+    "ARTnews",
+    "Hyperallergic"
+   ],
+   "source": "https://www.artforum.com/news/louvre-heist-mastermind-1234754493/",
+   "themes": [
+    5
+   ],
+   "notes": "Sub-entry of ACI-002 (Louvre Crown Jewels Heist; see ACI-002-C for the Belgium investigative lead). New development: suspects' interrogation testimony describing an alleged recruiter/'mastermind,' reviewed by Le Monde and reported across trade and general press on 13 July 2026. Le Monde is cited by the retrieved outlets as the originating source but was not directly retrieved this run. Describe-don't-judge: the Index records the reported testimony and attributes it to the suspects/Le Monde. Sources retrieved this run: Euronews, ITV News, Artforum, ARTnews, Hyperallergic (all via search).",
+   "interested_parties": "Musee du Louvre; suspects 'Abdoulaye N.' and 'Ghelamallah A.'; French investigators; alleged unidentified 'mastermind'",
+   "coverage_geography": "France, UK, international",
+   "follow_up_pending": true
   },
   {
    "id": "ACI-190",
@@ -16549,6 +16582,67 @@
    "notes": "New parent; US-local story caught by the Hyperallergic homepage scan. BORDERLINE: this reads primarily as a burglary targeting the donation box in which an interior mural was collaterally damaged, rather than a controversy between identified opposing parties; logged thin under the theft/vandalism standard (target significance and aftermath) and flagged for editorial judgment on whether it meets the inclusion bar. Cf. ACI-156 (arson attempt at the Boston African Meeting House). Sources retrieved this run: Hyperallergic (full text), Baltimore Sun (search result).",
    "interested_parties": "Harriet Tubman Museum and Educational Center; Linda Harris (director); Michael Rosato (artist)",
    "coverage_geography": "US (Maryland)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-251",
+   "entry_id": "251",
+   "seq": 523,
+   "title": "Jayson Gillham v Melbourne Symphony Orchestra — Federal Court dismisses pianist's discrimination claim over on-stage Gaza remarks",
+   "artist": "Jayson Gillham (concert pianist)",
+   "institution": "Melbourne Symphony Orchestra",
+   "country": "Australia",
+   "governance_type": "Democracy",
+   "date_controversy": "Ruling 10 July 2026 (concert cancelled August 2024)",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-07-10",
+   "description": "According to Limelight, ICLG and the Federal Court of Australia case file (Gillham v Melbourne Symphony Orchestra), Justice Graeme Hill of the Federal Court of Australia on 10 July 2026 dismissed a claim brought by British-Australian pianist Jayson Gillham against the Melbourne Symphony Orchestra (MSO). At an August 2024 recital Gillham had, from the stage, characterised the killing of journalists in Gaza by Israel as a war crime and dedicated a work to journalists; the MSO subsequently cancelled a scheduled concert. Gillham alleged the cancellation discriminated against him on the basis of political belief. Justice Hill found the MSO cancelled the concert to 'address the anticipated adverse impacts' on its business and reputation rather than because of his political opinion, that Gillham's status as an independent contractor limited the workplace protections available to him, and that there was a 'custom or practice' in classical music that performers do not make statements on sensitive political or social issues from the stage without the host's approval. Gillham said he was disappointed and was reviewing the decision with his legal team.",
+   "outcome": "Claim dismissed on 10 July 2026; the MSO's cancellation was held not to be unlawful discrimination. Gillham said he was reviewing the judgment with his legal team. [FOLLOW-UP PENDING: any appeal by Gillham.]",
+   "tags": "Censorship, Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "Limelight",
+    "ICLG",
+    "Federal Court of Australia"
+   ],
+   "source": "https://www.fedcourt.gov.au/services/access-to-files-and-transcripts/online-files/gillham-v-mso",
+   "themes": [
+    4,
+    8
+   ],
+   "notes": "New parent; Australia (Thursday Asia & Pacific trawl). Analytical frame -- anticipatory obedience / institutional risk (theme 4): the MSO cancelled to pre-empt reputational harm and the court accepted that rationale as lawful. Describe-don't-judge: the Index records the ruling and the parties' positions; characterisations ('war crime,' 'discrimination') are attributed to Gillham/the proceedings, not adopted in the Index's voice. Sources retrieved this run: Limelight, ICLG, Federal Court of Australia case-file page (all via search).",
+   "interested_parties": "Jayson Gillham (pianist); Melbourne Symphony Orchestra; Justice Graeme Hill (Federal Court of Australia)",
+   "coverage_geography": "Australia, UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-252",
+   "entry_id": "252",
+   "seq": 524,
+   "title": "Bavaria approves independent Nazi-loot restitution panel and provenance-research entity; restitutes Picasso bronze to Flechtheim heirs",
+   "artist": "N/A (restitution policy); Picasso bronze bust 'Fernande/Beatrice' (1905) restituted",
+   "institution": "Bavarian State Painting Collections / Free State of Bavaria",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "Cabinet approval 15 July 2026",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-07-15",
+   "description": "According to The Art Newspaper (15 July 2026), the Bavarian cabinet on 15 July 2026 approved reforms to move provenance research out of its museums into a separate entity and to create a new independent panel to evaluate claims for Nazi-looted art. The reforms come a year after Bernhard Maaz, director of the Bavarian State Painting Collections, resigned amid media accusations that the institution had concealed looted works and dragged its feet on restitutions. Andreas Wirsching, the professor who led the roundtable that proposed the reforms, called the establishment of independent provenance research and a new commission a 'quantum leap'; Ruediger Mahlo, the Jewish Claims Conference representative in Europe, said the new structures could 'set a nationwide benchmark' in handling Nazi-loot claims. Bavaria also announced the restitution of a 1905 Picasso bronze bust ('Fernande/Beatrice') to the heirs of Alfred Flechtheim, a Jewish dealer persecuted by the Nazis.",
+   "outcome": "Reforms approved 15 July 2026; an independent provenance-research entity and a separate claims panel are to be established, and the Picasso bronze is to be restituted to the Flechtheim heirs. [FOLLOW-UP PENDING: establishment of the new entity/panel and its first determinations.]",
+   "tags": "Repatriation, Provenance dispute, Institutional crisis",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/15/bavaria-approves-creation-of-nazi-loot-panel-and-independent-entity-provenance-research",
+   "themes": [
+    5
+   ],
+   "notes": "New parent; Germany (caught by The Art Newspaper RSS and confirmed on search). Restitution-policy reform following the 2025 resignation of director Bernhard Maaz. Cf. Nazi-loot / restitution cases ACI-084, ACI-091, ACI-209. Sources retrieved this run: The Art Newspaper (RSS ingest + search).",
+   "interested_parties": "Free State of Bavaria (cabinet); Bavarian State Painting Collections; Andreas Wirsching (roundtable chair); Ruediger Mahlo (Jewish Claims Conference); heirs of Alfred Flechtheim",
+   "coverage_geography": "Germany, international",
    "follow_up_pending": true
   }
  ]
