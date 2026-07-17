@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 511
+  "total_cases": 518
  },
  "cases": [
   {
@@ -753,6 +753,38 @@
    "interested_parties": "",
    "coverage_geography": "",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-002-D",
+   "entry_id": "002",
+   "seq": 522,
+   "title": "Louvre heist — suspects tell investigators an unidentified 'mastermind' recruited and paid them; Le Monde reviews interrogation records",
+   "artist": "N/A (institutional crisis / theft of French crown jewels)",
+   "institution": "Musée du Louvre (Paris)",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Interrogation hearings June 2026; reported 13 July 2026",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-07-13",
+   "description": "According to Le Monde (12 July 2026), which reviewed records of June 2026 interrogation hearings -- and as corroborated by Artforum, Euronews and The Art Newspaper (French edition) on 13-15 July 2026 -- two suspects in the October 2025 theft of French crown jewels from the Louvre's Galerie d'Apollon, identified in coverage as Abdoulaye N. and Ghelamallah A., gave their most detailed accounts yet of the operation. They said they were recruited two to three days before the heist; Abdoulaye N. said he was told he would be paid between EUR 15,000 and EUR 20,000 depending on what was taken. They described a 'mastermind' who ordered the theft, showed them video of the gallery beforehand, took part in the raid, and was dissatisfied with the haul (eight pieces, valued at about EUR 88m), reportedly saying they 'could have taken more' and had lost time getting in through a window. Abdoulaye N. said he knew the target was the Louvre, while Ghelamallah A. said he had been told it was a Paris jewellery workshop and 'would never have entered if [he] had known.' Both declined to name the sponsor, citing fear of reprisals against their families. Le Monde reported that investigators are not fully convinced the mastermind as described exists but have not ruled it out.",
+   "outcome": "Suspects' interrogation accounts made public 12-13 July 2026; the stolen jewels remain unrecovered and the alleged mastermind is unidentified and unverified. [FOLLOW-UP PENDING: identification or verification of the alleged mastermind and recovery of the jewels.]",
+   "tags": "Security failure, Institutional crisis, Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "Le Monde",
+    "Artforum",
+    "Euronews",
+    "The Art Newspaper (French edition)"
+   ],
+   "source": "https://www.artforum.com/news/louvre-heist-mastermind-1234754493/",
+   "themes": [
+    5
+   ],
+   "notes": "Sub-entry of ACI-002 (Louvre Crown Jewels Heist; see ACI-002-C for the Belgium investigative lead). New development: suspects' interrogation testimony describing an alleged recruiter/'mastermind.' The scoop is Le Monde's (12 July 2026, from interrogation records); Le Monde is paywalled and was not directly retrieved this run, so it is credited as the originating source and the canonical URL is pinned via its corroborators -- Artforum (fetched in full), Euronews and The Art Newspaper (French edition) (both via search) -- per the CLAUDE.md paywalled-outlet convention. Describe-don't-judge: the testimony is attributed to the suspects/Le Monde. Sources retrieved this run: Artforum (full text), Euronews, The Art Newspaper FR (search).",
+   "interested_parties": "Musee du Louvre; suspects 'Abdoulaye N.' and 'Ghelamallah A.'; French investigators; alleged unidentified 'mastermind'",
+   "coverage_geography": "France, UK, international",
+   "follow_up_pending": true
   },
   {
    "id": "ACI-190",
@@ -15421,6 +15453,68 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-046-K",
+   "entry_id": "046",
+   "seq": 527,
+   "title": "Lincoln Memorial Reflecting Pool — drained pool reveals Trump's 'American flag blue' liner has faded closer to gray",
+   "artist": "N/A (federal monumental landscape)",
+   "institution": "Lincoln Memorial Reflecting Pool (National Park Service), Washington, DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Observed 15 July 2026",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-07-15",
+   "description": "According to the Associated Press (Matthew Daly, 15 July 2026, carried by The Washington Post), the newly drained Reflecting Pool's bottom surface has noticeably faded since it was lined this spring in a color President Trump called 'American flag blue'; viewed from the top of the Washington Monument on 15 July, the liner appeared grayer than when the pool was repainted and refilled in early June, and debris had been cleared. The renovation stretched past Trump's goal of readiness by 4 July; the cost, first put at about $1.5m, had risen above $16m by June. Trump has repeatedly blamed vandals for the peeling coating, saying without cited evidence that vandals made a '350-foot gash'; critics allege the damage stems from shoddy repair work, and no large slash marks were visible from the monument on 15 July. Court documents show the National Park Service reported a 9 June incident in which a sharp knife or razor was said to have cut the new liner. Interior Secretary Doug Burgum said the plan was to 'repair the vandalism that was done' and refill the pool. Contracts cited: Ohio-based Green Water Solutions (Greenwater Services), $1.7m for a water-purification system; Virginia-based Atlantic Industrial Coatings, $14.7m to repaint and waterproof the basin.",
+   "outcome": "Pool drained and fenced for repairs; the liner has visibly faded from 'American flag blue' toward gray. The administration maintains a vandalism explanation (disputed by critics). Prosecutions continue (cf. ACI-046-I: David Hearn indicted, pleaded not guilty; at least three others charged with misdemeanors, all pleaded not guilty). [FOLLOW-UP PENDING: repair outcome and refilling, and the pending Reflecting Pool prosecutions.]",
+   "tags": "Architectural preservation, Landmark dispute, Political interference, Historic preservation",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Associated Press"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/07/15/reflecting-pool-drained-washington-monument-trump-repairs/afa64d34-808c-11f1-8a16-393bd03340b0_story.html",
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-046 (Lincoln Memorial Reflecting Pool renovation). New development: the drained pool revealing a faded liner. Originating outlet is the Associated Press (Matthew Daly); the copy the maintainer supplied was carried on washingtonpost.com, so per the CLAUDE.md syndication rule the outlet is credited to AP and the WaPo-hosted canonical URL is pinned by hand. Paired with ACI-046-L (the WaPo forensic analysis of the peeling, 16 July). Describe-don't-judge: the vandalism claim and the shoddy-work criticism are both attributed to their sources.",
+   "interested_parties": "National Park Service; Interior Secretary Doug Burgum; President Trump; Atlantic Industrial Coatings (coating contractor); Green Water Solutions / Greenwater Services (water-purification contractor); David Hearn (charged)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-046-L",
+   "entry_id": "046",
+   "seq": 528,
+   "title": "Lincoln Memorial Reflecting Pool — Washington Post analysis finds peeling likely caused by application flaws, not vandalism",
+   "artist": "N/A (federal monumental landscape)",
+   "institution": "Lincoln Memorial Reflecting Pool (National Park Service), Washington, DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "16 July 2026",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-07-16",
+   "description": "According to a Washington Post analysis (Jarrett Ley, Meg Kelly, Klara Auerbach and Maura Judkis, 16 July 2026), the peeling of the Reflecting Pool's new waterproof lining -- which President Trump and Interior Secretary Doug Burgum have blamed on vandals -- most likely resulted from flaws in how the coating was applied. Post reporters visiting the pool on 25 June identified at least seven locations where the lining had partially or entirely separated, all at seams between sections painted at different times. Four waterproofing experts who reviewed the findings said the failure pattern strongly suggested application errors -- overlapping coats applied after adjacent sections had already cured, insufficient edge preparation, and failures over expansion joints -- though a precise cause would require on-site examination and lab testing. The coating used two Rhino Linings products (a Rhino 406 epoxy primer and a Pipeliner 5000 polyurea topcoat); the Post found that at the failure points more time had elapsed between applications than the products' technical windows allow. The White House (spokeswoman Taylor Rogers) and the Interior Department disputed the findings and maintained the damage was vandalism, without providing evidence, saying the 'gashes' were along a perimeter expansion joint. The no-bid $14.7m contract went to Atlantic Industrial Coatings, which -- with subcontractor Mid-America Industrial Coatings -- did the work and will do the repairs; the earlier renovation's sealant supplier, Sika, had declined the job as 'unfeasible' on the timeline and color change.",
+   "outcome": "The Post analysis and four cited experts attribute the peeling to application flaws; the White House and Interior maintain it was vandalism and dispute the analysis. Repairs to be done by the original contractor. [FOLLOW-UP PENDING: the disputed vandalism-vs-application-flaw question, on-site/lab determination if any, and repair outcome.]",
+   "tags": "Architectural preservation, Landmark dispute, Political interference, Historic preservation",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post"
+   ],
+   "source": "https://www.washingtonpost.com/investigations/interactive/2026/07/16/reflecting-pool-peeling-likely-caused-by-application-flaws-experts-say/",
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-046 (Lincoln Memorial Reflecting Pool renovation; cf. ACI-046-H peeling/algae, ACI-046-I Hearn indictment, ACI-046-J cleanup contractor). New development: a Washington Post forensic analysis attributing the peeling to application flaws rather than the administration's vandalism claim. Article text supplied by the maintainer (WaPo is paywalled to automated fetches); canonical URL pinned by hand per the CLAUDE.md convention. Paired with ACI-046-K (the AP drained/gray-liner report, 15 July). Describe-don't-judge: the competing explanations are attributed to the Post's experts and to the White House/Interior respectively, not adjudicated in the Index's voice.",
+   "interested_parties": "National Park Service; Interior Secretary Doug Burgum; President Trump; White House (Taylor Rogers); Atlantic Industrial Coatings (contractor); Mid-America Industrial Coatings (subcontractor); Rhino Linings (materials); Sika (declined); waterproofing experts cited by the Post",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-038-L",
    "entry_id": "038-L",
    "seq": 465,
@@ -16549,6 +16643,125 @@
    "notes": "New parent; US-local story caught by the Hyperallergic homepage scan. BORDERLINE: this reads primarily as a burglary targeting the donation box in which an interior mural was collaterally damaged, rather than a controversy between identified opposing parties; logged thin under the theft/vandalism standard (target significance and aftermath) and flagged for editorial judgment on whether it meets the inclusion bar. Cf. ACI-156 (arson attempt at the Boston African Meeting House). Sources retrieved this run: Hyperallergic (full text), Baltimore Sun (search result).",
    "interested_parties": "Harriet Tubman Museum and Educational Center; Linda Harris (director); Michael Rosato (artist)",
    "coverage_geography": "US (Maryland)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-251",
+   "entry_id": "251",
+   "seq": 523,
+   "title": "Artjog 2026 (Yogyakarta) — protests over Didit Hediprasetyo Foundation involvement; red paint thrown on Roby Dwi Antono's commissioned work",
+   "artist": "Roby Dwi Antono (commissioned facade work); various exhibiting artists",
+   "institution": "Artjog 2026 / Jogja National Museum (Yogyakarta, Indonesia)",
+   "country": "Indonesia",
+   "governance_type": "Democracy (backsliding trajectory)",
+   "date_controversy": "Opening 19 June 2026",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-06-19",
+   "description": "According to Tempo (en.tempo.co), the annual art exhibition Artjog 2026 opened on 19 June 2026 in the courtyard of the Jogja National Museum in Yogyakarta. Several artists and business partners protested the involvement of the Didit Hediprasetyo Foundation in the event; Didit Hediprasetyo is a son of President Prabowo Subianto. The opening had originally been scheduled to be conducted by Didit but he was replaced by GKR Bendara, head of the Cultural and Heritage Department of the Yogyakarta Palace. The day before the opening, the collective Honf posted a public protest on Instagram arguing that Didit's involvement compromised the responsibility and values of the artistic space. After the opening ceremony, a group threw red paint across the terracotta facade of Roby Dwi Antono's commissioned artwork while masked individuals scattered flowers in a manner resembling a funeral rite; security personnel detained several protesters.",
+   "outcome": "The protest and the paint-throwing on Roby Dwi Antono's commissioned work drew attention to political patronage of the fair; protesters were detained. [FOLLOW-UP PENDING: any charges against detained protesters, damage assessment/restoration of the work, and Artjog's response.]",
+   "tags": "Protest art, Vandalism, Political interference, Community objection",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Tempo"
+   ],
+   "source": "https://en.tempo.co/read/2109519/why-artjog-2026-is-marred-by-controversy-protests",
+   "themes": [
+    3
+   ],
+   "notes": "New parent; Indonesia. BACKFILL (event 19 June 2026, outside the daily window) logged on the maintainer's instruction after surfacing in the Thursday Asia & Pacific trawl. Theme 3 (exhibition responsibility): the dispute concerns a major recurring exhibition's association with political power. Describe-don't-judge: the Index records the protest and the paint-throwing as events and attributes the objections to the artists/Honf. Thin single-outlet (Tempo) entry -- flag for enrichment with Indonesian-language sources. Source retrieved this run: Tempo (search).",
+   "interested_parties": "Artjog organisers; Didit Hediprasetyo Foundation; Didit Hediprasetyo; GKR Bendara; Honf collective; Roby Dwi Antono (artist); protesting artists",
+   "coverage_geography": "Indonesia",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-252",
+   "entry_id": "252",
+   "seq": 524,
+   "title": "Bavaria approves independent Nazi-loot restitution panel and provenance-research entity; restitutes Picasso bronze to Flechtheim heirs",
+   "artist": "N/A (restitution policy); Picasso bronze bust 'Fernande/Beatrice' (1905) restituted",
+   "institution": "Bavarian State Painting Collections / Free State of Bavaria",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "Cabinet approval 15 July 2026",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-07-15",
+   "description": "According to The Art Newspaper (15 July 2026), the Bavarian cabinet on 15 July 2026 approved reforms to move provenance research out of its museums into a separate entity and to create a new independent panel to evaluate claims for Nazi-looted art. The reforms come a year after Bernhard Maaz, director of the Bavarian State Painting Collections, resigned amid media accusations that the institution had concealed looted works and dragged its feet on restitutions. Andreas Wirsching, the professor who led the roundtable that proposed the reforms, called the establishment of independent provenance research and a new commission a 'quantum leap'; Ruediger Mahlo, the Jewish Claims Conference representative in Europe, said the new structures could 'set a nationwide benchmark' in handling Nazi-loot claims. Bavaria also announced the restitution of a 1905 Picasso bronze bust ('Fernande/Beatrice') to the heirs of Alfred Flechtheim, a Jewish dealer persecuted by the Nazis.",
+   "outcome": "Reforms approved 15 July 2026; an independent provenance-research entity and a separate claims panel are to be established, and the Picasso bronze is to be restituted to the Flechtheim heirs. [FOLLOW-UP PENDING: establishment of the new entity/panel and its first determinations.]",
+   "tags": "Repatriation, Provenance dispute, Institutional crisis",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/15/bavaria-approves-creation-of-nazi-loot-panel-and-independent-entity-provenance-research",
+   "themes": [
+    5
+   ],
+   "notes": "New parent; Germany (caught by The Art Newspaper RSS and confirmed on search). Restitution-policy reform following the 2025 resignation of director Bernhard Maaz. Cf. Nazi-loot / restitution cases ACI-084, ACI-091, ACI-209. Sources retrieved this run: The Art Newspaper (RSS ingest + search).",
+   "interested_parties": "Free State of Bavaria (cabinet); Bavarian State Painting Collections; Andreas Wirsching (roundtable chair); Ruediger Mahlo (Jewish Claims Conference); heirs of Alfred Flechtheim",
+   "coverage_geography": "Germany, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-253",
+   "entry_id": "253",
+   "seq": 525,
+   "title": "Bangkok Art and Culture Centre alters 'Constellation of Complicity' after visit by Chinese embassy officials and its main funder",
+   "artist": "Multiple artists: Clara Cheung and Gum Cheng Yee Man (Hong Kong), Tenzin Mingyur Paldron (Tibetan), Mukaddas Mijit (Uyghur); exhibition curated by the Myanmar Peace Museum",
+   "institution": "Bangkok Art and Culture Centre (BACC), Thailand",
+   "country": "Thailand",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Exhibition opened 24 July 2025; interventions 27 July–6 August 2025",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2025-07-27",
+   "description": "According to information provided by the Human Rights Foundation on 7 August 2025 and verified by ArtReview, the exhibition 'Constellation of Complicity: Visualising the Global Machinery of Authoritarian Solidarity' -- curated by the Myanmar Peace Museum -- opened at the Bangkok Art and Culture Centre (BACC) on 24 July 2025. On 27 July, three days after it opened, representatives of the Bangkok Metropolitan Administration (BACC's main funder), accompanied by Chinese embassy officials, visited the exhibition and flagged several works as 'problematic.' Works by Hong Kong artists Clara Cheung and Gum Cheng Yee Man, Tibetan artist Tenzin Mingyur Paldron and Uyghur artist Mukaddas Mijit were removed or obscured, and the artists' names were blacked out. On 30-31 July, officials told BACC the exhibition could only continue if it removed all of Paldron's videoworks and any content featuring Chinese president Xi Jinping. On a further visit on 6 August, the embassy representatives requested the removal of one additional flyer from Paldron's installation and reminded the gallery to comply with the One China policy.",
+   "outcome": "Following the visits by BACC's main funder and Chinese embassy officials, works by the four named artists were removed or obscured and their names blacked out, and BACC was set conditions (removal of Paldron's videoworks and Xi Jinping content) for the exhibition to continue.",
+   "tags": "Censorship, Political interference, Geopolitics",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "ArtReview",
+    "Human Rights Foundation"
+   ],
+   "source": "https://artreview.com/bangkok-art-culture-centre-removes-works-following-visit-from-chinese-officials/",
+   "themes": [
+    3,
+    4
+   ],
+   "notes": "New parent; Thailand. BACKFILL (July-August 2025 incident) logged on the maintainer's instruction after surfacing in the Thursday Asia & Pacific trawl. Corrected from a first draft that had imported unsupported claims (an ordered shutdown; removed Tibetan/Uyghur flags; blacked-out references to Tibet/Hong Kong/Xinjiang in wall texts) from a search summary; this text is drawn strictly from the ArtReview account (verifying HRF information). Analytical frame -- externalised censorship: pressure applied through BACC's main funder together with a foreign embassy rather than a domestic order. Describe-don't-judge: the removals are recorded as events and attributed to the funder/embassy. Hyperallergic and Artnet News also covered the case (search results this run) -- flag for enrichment/corroboration. Sources retrieved this run: ArtReview, Human Rights Foundation (search).",
+   "interested_parties": "Bangkok Art and Culture Centre (BACC); Bangkok Metropolitan Administration (BACC's main funder); Embassy of China in Bangkok; Myanmar Peace Museum (curator); artists Clara Cheung, Gum Cheng Yee Man, Tenzin Mingyur Paldron and Mukaddas Mijit; Human Rights Foundation",
+   "coverage_geography": "Thailand, international",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-254",
+   "entry_id": "254",
+   "seq": 526,
+   "title": "Commission of Fine Arts urges changes to Trump administration plan to permanently fence Lafayette Square",
+   "artist": "N/A (historic public square / cultural landscape)",
+   "institution": "Lafayette Square (Washington, DC); U.S. Commission of Fine Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "CFA review 16 July 2026",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-07-16",
+   "description": "According to The Washington Post (Dan Diamond, 16 July 2026), the U.S. Commission of Fine Arts -- the body Congress charges with vetting the design of major projects in the capital -- recommended changes to the Trump administration's plan to permanently fence Lafayette Square, the public park across from the White House, while endorsing the administration's stated security goal. CFA chairman Rodney Mims Cook Jr., a Trump appointee, said the panel would 'probably' pass the plan but objected to wrapping fences around several statues in the park, urging a simpler design; commission member James McCrery II suggested simply replicating the existing White House fence. The proposal -- jointly overseen by the White House, the Secret Service and the National Park Service, with construction hoped to begin next year -- has been criticised by lawmakers, historic-preservation groups and activists who say permanent fencing would curtail public access to the historic space. D.C. Delegate Eleanor Holmes Norton said she would introduce legislation to bar fencing at Lafayette Square, Pennsylvania Avenue and other parts of the White House campus, and Charles Birnbaum of the Cultural Landscape Foundation submitted comments questioning whether fencing is the right approach.",
+   "outcome": "CFA recommended design changes and asked for alternative designs at a future meeting; officials said they would return with options. [FOLLOW-UP PENDING: CFA's decision on a revised design, Rep. Norton's legislation, and whether/when fencing construction proceeds.]",
+   "tags": "Historic preservation, Landmark dispute, Design controversy, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/07/16/white-house-should-adjust-plan-fence-lafayette-square-panel-recommends/",
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "New parent; US DC-federal cluster (cf. ACI-038 arch, ACI-046 Reflecting Pool, ACI-050 East Wing/ballroom, ACI-155 on CFA chairman Cook). Cultural-landscape / historic-preservation dispute over permanently fencing a historic public square; TCLF's Charles Birnbaum and Rep. Norton in opposition. Article text supplied by the maintainer (WaPo is paywalled to automated fetches); canonical URL pinned by hand per the CLAUDE.md convention. Describe-don't-judge: positions attributed to the CFA members, the administration, and the critics.",
+   "interested_parties": "U.S. Commission of Fine Arts; Rodney Mims Cook Jr. (CFA chairman); James McCrery II (CFA member); White House / Secret Service / National Park Service; Rep. Eleanor Holmes Norton; Charles Birnbaum (Cultural Landscape Foundation)",
+   "coverage_geography": "US (Washington, DC)",
    "follow_up_pending": true
   }
  ]
