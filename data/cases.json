@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 514
+  "total_cases": 517
  },
  "cases": [
   {
@@ -766,23 +766,22 @@
    "date_controversy": "Interrogation hearings June 2026; reported 13 July 2026",
    "date_discovered": "2026-07-16",
    "sort_date": "2026-07-13",
-   "description": "According to Le Monde -- which reviewed records of June 2026 interrogation hearings -- as reported on 13 July 2026 by Euronews, ITV News, Artforum, ARTnews and Hyperallergic, two suspects in the October 2025 theft of French crown jewels from the Louvre, identified in coverage as Abdoulaye N. and Ghelamallah A., gave their most detailed accounts yet of the operation. They said they were recruited two to three days before the heist and paid roughly EUR 15,000-25,000, and described a 'mastermind' who ordered the theft and was dissatisfied with the haul (valued at about EUR 88m), reportedly saying they 'could have taken more' and had 'wasted time' re-entering through a window. Both said they would not identify the sponsor, citing fear of reprisals against their families; one said he had received calls telling him to 'keep quiet.' Le Monde reported that investigators are not fully convinced the mastermind as described exists but have not ruled it out.",
-   "outcome": "Suspects' interrogation accounts made public 13 July 2026; the stolen jewels remain unrecovered and the alleged mastermind is unidentified and unverified. [FOLLOW-UP PENDING: identification or verification of the alleged mastermind and recovery of the jewels.]",
+   "description": "According to Le Monde (12 July 2026), which reviewed records of June 2026 interrogation hearings -- and as corroborated by Artforum, Euronews and The Art Newspaper (French edition) on 13-15 July 2026 -- two suspects in the October 2025 theft of French crown jewels from the Louvre's Galerie d'Apollon, identified in coverage as Abdoulaye N. and Ghelamallah A., gave their most detailed accounts yet of the operation. They said they were recruited two to three days before the heist; Abdoulaye N. said he was told he would be paid between EUR 15,000 and EUR 20,000 depending on what was taken. They described a 'mastermind' who ordered the theft, showed them video of the gallery beforehand, took part in the raid, and was dissatisfied with the haul (eight pieces, valued at about EUR 88m), reportedly saying they 'could have taken more' and had lost time getting in through a window. Abdoulaye N. said he knew the target was the Louvre, while Ghelamallah A. said he had been told it was a Paris jewellery workshop and 'would never have entered if [he] had known.' Both declined to name the sponsor, citing fear of reprisals against their families. Le Monde reported that investigators are not fully convinced the mastermind as described exists but have not ruled it out.",
+   "outcome": "Suspects' interrogation accounts made public 12-13 July 2026; the stolen jewels remain unrecovered and the alleged mastermind is unidentified and unverified. [FOLLOW-UP PENDING: identification or verification of the alleged mastermind and recovery of the jewels.]",
    "tags": "Security failure, Institutional crisis, Legal challenge",
    "court_case": "Yes",
    "coverage_tier": "International",
    "outlets": [
-    "Euronews",
-    "ITV News",
+    "Le Monde",
     "Artforum",
-    "ARTnews",
-    "Hyperallergic"
+    "Euronews",
+    "The Art Newspaper (French edition)"
    ],
    "source": "https://www.artforum.com/news/louvre-heist-mastermind-1234754493/",
    "themes": [
     5
    ],
-   "notes": "Sub-entry of ACI-002 (Louvre Crown Jewels Heist; see ACI-002-C for the Belgium investigative lead). New development: suspects' interrogation testimony describing an alleged recruiter/'mastermind,' reviewed by Le Monde and reported across trade and general press on 13 July 2026. Le Monde is cited by the retrieved outlets as the originating source but was not directly retrieved this run. Describe-don't-judge: the Index records the reported testimony and attributes it to the suspects/Le Monde. Sources retrieved this run: Euronews, ITV News, Artforum, ARTnews, Hyperallergic (all via search).",
+   "notes": "Sub-entry of ACI-002 (Louvre Crown Jewels Heist; see ACI-002-C for the Belgium investigative lead). New development: suspects' interrogation testimony describing an alleged recruiter/'mastermind.' The scoop is Le Monde's (12 July 2026, from interrogation records); Le Monde is paywalled and was not directly retrieved this run, so it is credited as the originating source and the canonical URL is pinned via its corroborators -- Artforum (fetched in full), Euronews and The Art Newspaper (French edition) (both via search) -- per the CLAUDE.md paywalled-outlet convention. Describe-don't-judge: the testimony is attributed to the suspects/Le Monde. Sources retrieved this run: Artforum (full text), Euronews, The Art Newspaper FR (search).",
    "interested_parties": "Musee du Louvre; suspects 'Abdoulaye N.' and 'Ghelamallah A.'; French investigators; alleged unidentified 'mastermind'",
    "coverage_geography": "France, UK, international",
    "follow_up_pending": true
@@ -15454,6 +15453,38 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-046-K",
+   "entry_id": "046",
+   "seq": 527,
+   "title": "Lincoln Memorial Reflecting Pool — Washington Post analysis finds peeling likely caused by application flaws, not vandalism; pool drained and liner faded to gray",
+   "artist": "N/A (federal monumental landscape)",
+   "institution": "Lincoln Memorial Reflecting Pool (National Park Service), Washington, DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "15-16 July 2026",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-07-16",
+   "description": "According to a Washington Post analysis (Jarrett Ley, Meg Kelly, Klara Auerbach and Maura Judkis, 16 July 2026), the peeling of the Reflecting Pool's new waterproof lining -- which President Trump and Interior Secretary Doug Burgum have blamed on vandals -- most likely resulted from flaws in how the coating was applied. Post reporters identified at least seven locations where the lining had separated, all occurring at seams between sections painted at different times; four waterproofing experts said the failure pattern strongly suggested application errors (insufficient edge preparation, coatings overlapping after adjacent sections had already cured, and failures over expansion joints), though a definitive cause would require on-site testing. The White House and Interior disputed the findings and maintained the damage was vandalism, without providing evidence; officials said 'gashes' were along a perimeter expansion joint. Separately, the Associated Press (15 July 2026) reported that the drained pool revealed the liner Trump had called 'American flag blue' had faded closer to gray. The no-bid $14.7m coating contract went to Atlantic Industrial Coatings, which will also do the repairs.",
+   "outcome": "Pool drained for repairs (to be done by the original contractor, cost in the tens of thousands); administration maintains a vandalism explanation while the Post analysis and cited experts point to application flaws. Four people charged (three misdemeanor not-guilty pleas; former Olympic canoeist David Hearn indicted on a felony count, pleaded not guilty -- cf. ACI-046-I); no one charged with making 'gashes.' [FOLLOW-UP PENDING: repair outcome, the disputed vandalism-vs-application-flaw question, and the pending prosecutions.]",
+   "tags": "Architectural preservation, Landmark dispute, Political interference, Historic preservation",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post",
+    "Associated Press"
+   ],
+   "source": "https://www.washingtonpost.com/investigations/interactive/2026/07/16/reflecting-pool-peeling-likely-caused-by-application-flaws-experts-say/",
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-046 (Lincoln Memorial Reflecting Pool renovation; see ACI-046-H peeling/algae, ACI-046-I Hearn indictment, ACI-046-J cleanup contractor). New development: a Washington Post forensic analysis attributing the peeling to application flaws rather than the administration's vandalism claim, plus the AP's drained-pool/gray-liner report. Article texts supplied by the maintainer (WaPo/AP paywalled to automated fetches); canonical WaPo URL pinned by hand per the CLAUDE.md convention. Describe-don't-judge: the competing explanations are attributed to the Post's experts and to the White House/Interior respectively, not adjudicated in the Index's voice.",
+   "interested_parties": "National Park Service; Interior Secretary Doug Burgum; President Trump; White House (Taylor Rogers); Atlantic Industrial Coatings (contractor); Mid-America Industrial Coatings (subcontractor); Rhino Linings (materials); David Hearn (charged); waterproofing experts cited by the Post",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-038-L",
    "entry_id": "038-L",
    "seq": 465,
@@ -16588,32 +16619,29 @@
    "id": "ACI-251",
    "entry_id": "251",
    "seq": 523,
-   "title": "Jayson Gillham v Melbourne Symphony Orchestra — Federal Court dismisses pianist's discrimination claim over on-stage Gaza remarks",
-   "artist": "Jayson Gillham (concert pianist)",
-   "institution": "Melbourne Symphony Orchestra",
-   "country": "Australia",
-   "governance_type": "Democracy",
-   "date_controversy": "Ruling 10 July 2026 (concert cancelled August 2024)",
+   "title": "Artjog 2026 (Yogyakarta) — protests over Didit Hediprasetyo Foundation involvement; red paint thrown on Roby Dwi Antono's commissioned work",
+   "artist": "Roby Dwi Antono (commissioned facade work); various exhibiting artists",
+   "institution": "Artjog 2026 / Jogja National Museum (Yogyakarta, Indonesia)",
+   "country": "Indonesia",
+   "governance_type": "Democracy (backsliding trajectory)",
+   "date_controversy": "Opening 19 June 2026",
    "date_discovered": "2026-07-16",
-   "sort_date": "2026-07-10",
-   "description": "According to Limelight, ICLG and the Federal Court of Australia case file (Gillham v Melbourne Symphony Orchestra), Justice Graeme Hill of the Federal Court of Australia on 10 July 2026 dismissed a claim brought by British-Australian pianist Jayson Gillham against the Melbourne Symphony Orchestra (MSO). At an August 2024 recital Gillham had, from the stage, characterised the killing of journalists in Gaza by Israel as a war crime and dedicated a work to journalists; the MSO subsequently cancelled a scheduled concert. Gillham alleged the cancellation discriminated against him on the basis of political belief. Justice Hill found the MSO cancelled the concert to 'address the anticipated adverse impacts' on its business and reputation rather than because of his political opinion, that Gillham's status as an independent contractor limited the workplace protections available to him, and that there was a 'custom or practice' in classical music that performers do not make statements on sensitive political or social issues from the stage without the host's approval. Gillham said he was disappointed and was reviewing the decision with his legal team.",
-   "outcome": "Claim dismissed on 10 July 2026; the MSO's cancellation was held not to be unlawful discrimination. Gillham said he was reviewing the judgment with his legal team. [FOLLOW-UP PENDING: any appeal by Gillham.]",
-   "tags": "Censorship, Legal challenge",
-   "court_case": "Yes",
-   "coverage_tier": "International",
+   "sort_date": "2026-06-19",
+   "description": "According to Tempo (en.tempo.co), the annual art exhibition Artjog 2026 opened on 19 June 2026 in the courtyard of the Jogja National Museum in Yogyakarta. Several artists and business partners protested the involvement of the Didit Hediprasetyo Foundation in the event; Didit Hediprasetyo is a son of President Prabowo Subianto. The opening had originally been scheduled to be conducted by Didit but he was replaced by GKR Bendara, head of the Cultural and Heritage Department of the Yogyakarta Palace. The day before the opening, the collective Honf posted a public protest on Instagram arguing that Didit's involvement compromised the responsibility and values of the artistic space. After the opening ceremony, a group threw red paint across the terracotta facade of Roby Dwi Antono's commissioned artwork while masked individuals scattered flowers in a manner resembling a funeral rite; security personnel detained several protesters.",
+   "outcome": "The protest and the paint-throwing on Roby Dwi Antono's commissioned work drew attention to political patronage of the fair; protesters were detained. [FOLLOW-UP PENDING: any charges against detained protesters, damage assessment/restoration of the work, and Artjog's response.]",
+   "tags": "Protest art, Vandalism, Political interference, Community objection",
+   "court_case": "No",
+   "coverage_tier": "National",
    "outlets": [
-    "Limelight",
-    "ICLG",
-    "Federal Court of Australia"
+    "Tempo"
    ],
-   "source": "https://www.fedcourt.gov.au/services/access-to-files-and-transcripts/online-files/gillham-v-mso",
+   "source": "https://en.tempo.co/read/2109519/why-artjog-2026-is-marred-by-controversy-protests",
    "themes": [
-    4,
-    8
+    3
    ],
-   "notes": "New parent; Australia (Thursday Asia & Pacific trawl). Analytical frame -- anticipatory obedience / institutional risk (theme 4): the MSO cancelled to pre-empt reputational harm and the court accepted that rationale as lawful. Describe-don't-judge: the Index records the ruling and the parties' positions; characterisations ('war crime,' 'discrimination') are attributed to Gillham/the proceedings, not adopted in the Index's voice. Sources retrieved this run: Limelight, ICLG, Federal Court of Australia case-file page (all via search).",
-   "interested_parties": "Jayson Gillham (pianist); Melbourne Symphony Orchestra; Justice Graeme Hill (Federal Court of Australia)",
-   "coverage_geography": "Australia, UK",
+   "notes": "New parent; Indonesia. BACKFILL (event 19 June 2026, outside the daily window) logged on the maintainer's instruction after surfacing in the Thursday Asia & Pacific trawl. Theme 3 (exhibition responsibility): the dispute concerns a major recurring exhibition's association with political power. Describe-don't-judge: the Index records the protest and the paint-throwing as events and attributes the objections to the artists/Honf. Thin single-outlet (Tempo) entry -- flag for enrichment with Indonesian-language sources. Source retrieved this run: Tempo (search).",
+   "interested_parties": "Artjog organisers; Didit Hediprasetyo Foundation; Didit Hediprasetyo; GKR Bendara; Honf collective; Roby Dwi Antono (artist); protesting artists",
+   "coverage_geography": "Indonesia",
    "follow_up_pending": true
   },
   {
@@ -16643,6 +16671,69 @@
    "notes": "New parent; Germany (caught by The Art Newspaper RSS and confirmed on search). Restitution-policy reform following the 2025 resignation of director Bernhard Maaz. Cf. Nazi-loot / restitution cases ACI-084, ACI-091, ACI-209. Sources retrieved this run: The Art Newspaper (RSS ingest + search).",
    "interested_parties": "Free State of Bavaria (cabinet); Bavarian State Painting Collections; Andreas Wirsching (roundtable chair); Ruediger Mahlo (Jewish Claims Conference); heirs of Alfred Flechtheim",
    "coverage_geography": "Germany, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-253",
+   "entry_id": "253",
+   "seq": 525,
+   "title": "Bangkok Art and Culture Centre censors 'Constellation of Complicity' after visit by Chinese embassy officials",
+   "artist": "Multiple artists (incl. Tibetan artist Tenzin Mingyur Paldron); exhibition curated by the Myanmar Peace Museum",
+   "institution": "Bangkok Art and Culture Centre (BACC), Thailand",
+   "country": "Thailand",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Exhibition opened 24 July 2025; censored c. 27 July 2025",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2025-07-27",
+   "description": "According to ArtReview, Hyperallergic, Artnet News and the Human Rights Foundation, the exhibition 'Constellation of Complicity: Visualising the Global Machinery of Authoritarian Solidarity' -- curated by the Myanmar Peace Museum and mapping cooperation among authoritarian states -- opened at the Bangkok Art and Culture Centre on 24 July 2025. About three days later, officials from the Embassy of China in Bangkok, accompanied by representatives of the Bangkok Metropolitan Administration, entered the exhibition and demanded it be shut down. The BACC then removed or obscured several works, including films by Tibetan artist Tenzin Mingyur Paldron, took down Tibetan and Uyghur flags, and used black paint to conceal some artists' names and references to Tibet, Hong Kong and Xinjiang in the wall texts. A co-curator, identified as Sai, subsequently left Thailand, calling it 'tragically ironic that an exhibition on authoritarian cooperation has been censored under authoritarian pressure.'",
+   "outcome": "Works and wall texts were altered or obscured after the embassy visit; a co-curator left Thailand. Artists later staged a guerrilla re-installation at the venue in protest.",
+   "tags": "Censorship, Political interference, Geopolitics",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "ArtReview",
+    "Hyperallergic",
+    "Artnet News",
+    "Human Rights Foundation"
+   ],
+   "source": "https://artreview.com/bangkok-art-culture-centre-removes-works-following-visit-from-chinese-officials/",
+   "themes": [
+    3,
+    4
+   ],
+   "notes": "New parent; Thailand. BACKFILL (July 2025 incident) logged on the maintainer's instruction after surfacing in the Thursday Asia & Pacific trawl. Analytical frame -- externalised censorship: direct external pressure (a Chinese embassy demand) routed through a host institution rather than a domestic order. Cf. transnational-censorship pattern. Describe-don't-judge: the Index records the removals and attributes characterisations to the curators/rights groups. Sources retrieved this run: ArtReview, Hyperallergic, Artnet News, HRF (search).",
+   "interested_parties": "Bangkok Art and Culture Centre; Myanmar Peace Museum (curator); Embassy of China in Bangkok; Bangkok Metropolitan Administration; Tenzin Mingyur Paldron (artist); co-curator 'Sai'",
+   "coverage_geography": "Thailand, international",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-254",
+   "entry_id": "254",
+   "seq": 526,
+   "title": "Commission of Fine Arts urges changes to Trump administration plan to permanently fence Lafayette Square",
+   "artist": "N/A (historic public square / cultural landscape)",
+   "institution": "Lafayette Square (Washington, DC); U.S. Commission of Fine Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "CFA review 16 July 2026",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-07-16",
+   "description": "According to The Washington Post (Dan Diamond, 16 July 2026), the U.S. Commission of Fine Arts -- the body Congress charges with vetting the design of major projects in the capital -- recommended changes to the Trump administration's plan to permanently fence Lafayette Square, the public park across from the White House, while endorsing the administration's stated security goal. CFA chairman Rodney Mims Cook Jr., a Trump appointee, said the panel would 'probably' pass the plan but objected to wrapping fences around several statues in the park, urging a simpler design; commission member James McCrery II suggested simply replicating the existing White House fence. The proposal -- jointly overseen by the White House, the Secret Service and the National Park Service, with construction hoped to begin next year -- has been criticised by lawmakers, historic-preservation groups and activists who say permanent fencing would curtail public access to the historic space. D.C. Delegate Eleanor Holmes Norton said she would introduce legislation to bar fencing at Lafayette Square, Pennsylvania Avenue and other parts of the White House campus, and Charles Birnbaum of the Cultural Landscape Foundation submitted comments questioning whether fencing is the right approach.",
+   "outcome": "CFA recommended design changes and asked for alternative designs at a future meeting; officials said they would return with options. [FOLLOW-UP PENDING: CFA's decision on a revised design, Rep. Norton's legislation, and whether/when fencing construction proceeds.]",
+   "tags": "Historic preservation, Landmark dispute, Design controversy, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/07/16/white-house-should-adjust-plan-fence-lafayette-square-panel-recommends/",
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "New parent; US DC-federal cluster (cf. ACI-038 arch, ACI-046 Reflecting Pool, ACI-050 East Wing/ballroom, ACI-155 on CFA chairman Cook). Cultural-landscape / historic-preservation dispute over permanently fencing a historic public square; TCLF's Charles Birnbaum and Rep. Norton in opposition. Article text supplied by the maintainer (WaPo is paywalled to automated fetches); canonical URL pinned by hand per the CLAUDE.md convention. Describe-don't-judge: positions attributed to the CFA members, the administration, and the critics.",
+   "interested_parties": "U.S. Commission of Fine Arts; Rodney Mims Cook Jr. (CFA chairman); James McCrery II (CFA member); White House / Secret Service / National Park Service; Rep. Eleanor Holmes Norton; Charles Birnbaum (Cultural Landscape Foundation)",
+   "coverage_geography": "US (Washington, DC)",
    "follow_up_pending": true
   }
  ]
