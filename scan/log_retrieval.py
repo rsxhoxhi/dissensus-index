@@ -14,7 +14,7 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--outlet", required=True)
     p.add_argument("--url", required=True)
-    p.add_argument("--method", required=True, choices=["fetch", "search_result"])
+    p.add_argument("--method", required=True, choices=["fetch", "search_result", "api"])
     p.add_argument("--status", required=True,
                    choices=["success", "truncated", "snippet_only", "blocked"])
     args = p.parse_args()
