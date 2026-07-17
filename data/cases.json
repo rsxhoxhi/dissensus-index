@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 517
+  "total_cases": 518
  },
  "cases": [
   {
@@ -15456,22 +15456,52 @@
    "id": "ACI-046-K",
    "entry_id": "046",
    "seq": 527,
-   "title": "Lincoln Memorial Reflecting Pool — Washington Post analysis finds peeling likely caused by application flaws, not vandalism; pool drained and liner faded to gray",
+   "title": "Lincoln Memorial Reflecting Pool — drained pool reveals Trump's 'American flag blue' liner has faded closer to gray",
    "artist": "N/A (federal monumental landscape)",
    "institution": "Lincoln Memorial Reflecting Pool (National Park Service), Washington, DC",
    "country": "United States",
    "governance_type": "Democracy",
-   "date_controversy": "15-16 July 2026",
+   "date_controversy": "Observed 15 July 2026",
    "date_discovered": "2026-07-16",
-   "sort_date": "2026-07-16",
-   "description": "According to a Washington Post analysis (Jarrett Ley, Meg Kelly, Klara Auerbach and Maura Judkis, 16 July 2026), the peeling of the Reflecting Pool's new waterproof lining -- which President Trump and Interior Secretary Doug Burgum have blamed on vandals -- most likely resulted from flaws in how the coating was applied. Post reporters identified at least seven locations where the lining had separated, all occurring at seams between sections painted at different times; four waterproofing experts said the failure pattern strongly suggested application errors (insufficient edge preparation, coatings overlapping after adjacent sections had already cured, and failures over expansion joints), though a definitive cause would require on-site testing. The White House and Interior disputed the findings and maintained the damage was vandalism, without providing evidence; officials said 'gashes' were along a perimeter expansion joint. Separately, the Associated Press (15 July 2026) reported that the drained pool revealed the liner Trump had called 'American flag blue' had faded closer to gray. The no-bid $14.7m coating contract went to Atlantic Industrial Coatings, which will also do the repairs.",
-   "outcome": "Pool drained for repairs (to be done by the original contractor, cost in the tens of thousands); administration maintains a vandalism explanation while the Post analysis and cited experts point to application flaws. Four people charged (three misdemeanor not-guilty pleas; former Olympic canoeist David Hearn indicted on a felony count, pleaded not guilty -- cf. ACI-046-I); no one charged with making 'gashes.' [FOLLOW-UP PENDING: repair outcome, the disputed vandalism-vs-application-flaw question, and the pending prosecutions.]",
+   "sort_date": "2026-07-15",
+   "description": "According to the Associated Press (Matthew Daly, 15 July 2026, carried by The Washington Post), the newly drained Reflecting Pool's bottom surface has noticeably faded since it was lined this spring in a color President Trump called 'American flag blue'; viewed from the top of the Washington Monument on 15 July, the liner appeared grayer than when the pool was repainted and refilled in early June, and debris had been cleared. The renovation stretched past Trump's goal of readiness by 4 July; the cost, first put at about $1.5m, had risen above $16m by June. Trump has repeatedly blamed vandals for the peeling coating, saying without cited evidence that vandals made a '350-foot gash'; critics allege the damage stems from shoddy repair work, and no large slash marks were visible from the monument on 15 July. Court documents show the National Park Service reported a 9 June incident in which a sharp knife or razor was said to have cut the new liner. Interior Secretary Doug Burgum said the plan was to 'repair the vandalism that was done' and refill the pool. Contracts cited: Ohio-based Green Water Solutions (Greenwater Services), $1.7m for a water-purification system; Virginia-based Atlantic Industrial Coatings, $14.7m to repaint and waterproof the basin.",
+   "outcome": "Pool drained and fenced for repairs; the liner has visibly faded from 'American flag blue' toward gray. The administration maintains a vandalism explanation (disputed by critics). Prosecutions continue (cf. ACI-046-I: David Hearn indicted, pleaded not guilty; at least three others charged with misdemeanors, all pleaded not guilty). [FOLLOW-UP PENDING: repair outcome and refilling, and the pending Reflecting Pool prosecutions.]",
    "tags": "Architectural preservation, Landmark dispute, Political interference, Historic preservation",
    "court_case": "Yes",
    "coverage_tier": "National",
    "outlets": [
-    "The Washington Post",
     "Associated Press"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/07/15/reflecting-pool-drained-washington-monument-trump-repairs/afa64d34-808c-11f1-8a16-393bd03340b0_story.html",
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-046 (Lincoln Memorial Reflecting Pool renovation). New development: the drained pool revealing a faded liner. Originating outlet is the Associated Press (Matthew Daly); the copy the maintainer supplied was carried on washingtonpost.com, so per the CLAUDE.md syndication rule the outlet is credited to AP and the WaPo-hosted canonical URL is pinned by hand. Paired with ACI-046-L (the WaPo forensic analysis of the peeling, 16 July). Describe-don't-judge: the vandalism claim and the shoddy-work criticism are both attributed to their sources.",
+   "interested_parties": "National Park Service; Interior Secretary Doug Burgum; President Trump; Atlantic Industrial Coatings (coating contractor); Green Water Solutions / Greenwater Services (water-purification contractor); David Hearn (charged)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-046-L",
+   "entry_id": "046",
+   "seq": 528,
+   "title": "Lincoln Memorial Reflecting Pool — Washington Post analysis finds peeling likely caused by application flaws, not vandalism",
+   "artist": "N/A (federal monumental landscape)",
+   "institution": "Lincoln Memorial Reflecting Pool (National Park Service), Washington, DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "16 July 2026",
+   "date_discovered": "2026-07-16",
+   "sort_date": "2026-07-16",
+   "description": "According to a Washington Post analysis (Jarrett Ley, Meg Kelly, Klara Auerbach and Maura Judkis, 16 July 2026), the peeling of the Reflecting Pool's new waterproof lining -- which President Trump and Interior Secretary Doug Burgum have blamed on vandals -- most likely resulted from flaws in how the coating was applied. Post reporters visiting the pool on 25 June identified at least seven locations where the lining had partially or entirely separated, all at seams between sections painted at different times. Four waterproofing experts who reviewed the findings said the failure pattern strongly suggested application errors -- overlapping coats applied after adjacent sections had already cured, insufficient edge preparation, and failures over expansion joints -- though a precise cause would require on-site examination and lab testing. The coating used two Rhino Linings products (a Rhino 406 epoxy primer and a Pipeliner 5000 polyurea topcoat); the Post found that at the failure points more time had elapsed between applications than the products' technical windows allow. The White House (spokeswoman Taylor Rogers) and the Interior Department disputed the findings and maintained the damage was vandalism, without providing evidence, saying the 'gashes' were along a perimeter expansion joint. The no-bid $14.7m contract went to Atlantic Industrial Coatings, which -- with subcontractor Mid-America Industrial Coatings -- did the work and will do the repairs; the earlier renovation's sealant supplier, Sika, had declined the job as 'unfeasible' on the timeline and color change.",
+   "outcome": "The Post analysis and four cited experts attribute the peeling to application flaws; the White House and Interior maintain it was vandalism and dispute the analysis. Repairs to be done by the original contractor. [FOLLOW-UP PENDING: the disputed vandalism-vs-application-flaw question, on-site/lab determination if any, and repair outcome.]",
+   "tags": "Architectural preservation, Landmark dispute, Political interference, Historic preservation",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post"
    ],
    "source": "https://www.washingtonpost.com/investigations/interactive/2026/07/16/reflecting-pool-peeling-likely-caused-by-application-flaws-experts-say/",
    "themes": [
@@ -15479,8 +15509,8 @@
     2,
     9
    ],
-   "notes": "Sub-entry of ACI-046 (Lincoln Memorial Reflecting Pool renovation; see ACI-046-H peeling/algae, ACI-046-I Hearn indictment, ACI-046-J cleanup contractor). New development: a Washington Post forensic analysis attributing the peeling to application flaws rather than the administration's vandalism claim, plus the AP's drained-pool/gray-liner report. Article texts supplied by the maintainer (WaPo/AP paywalled to automated fetches); canonical WaPo URL pinned by hand per the CLAUDE.md convention. Describe-don't-judge: the competing explanations are attributed to the Post's experts and to the White House/Interior respectively, not adjudicated in the Index's voice.",
-   "interested_parties": "National Park Service; Interior Secretary Doug Burgum; President Trump; White House (Taylor Rogers); Atlantic Industrial Coatings (contractor); Mid-America Industrial Coatings (subcontractor); Rhino Linings (materials); David Hearn (charged); waterproofing experts cited by the Post",
+   "notes": "Sub-entry of ACI-046 (Lincoln Memorial Reflecting Pool renovation; cf. ACI-046-H peeling/algae, ACI-046-I Hearn indictment, ACI-046-J cleanup contractor). New development: a Washington Post forensic analysis attributing the peeling to application flaws rather than the administration's vandalism claim. Article text supplied by the maintainer (WaPo is paywalled to automated fetches); canonical URL pinned by hand per the CLAUDE.md convention. Paired with ACI-046-K (the AP drained/gray-liner report, 15 July). Describe-don't-judge: the competing explanations are attributed to the Post's experts and to the White House/Interior respectively, not adjudicated in the Index's voice.",
+   "interested_parties": "National Park Service; Interior Secretary Doug Burgum; President Trump; White House (Taylor Rogers); Atlantic Industrial Coatings (contractor); Mid-America Industrial Coatings (subcontractor); Rhino Linings (materials); Sika (declined); waterproofing experts cited by the Post",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
