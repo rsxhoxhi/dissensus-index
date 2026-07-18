@@ -242,6 +242,14 @@ Avoid rss.app, Feedspot, RapidAPI wrappers, and similar middlemen. For a self-ru
 - The agent date-filters feed/API items to the last 24 hours, dedups against the repo case store, and **queues candidates for approval** — it never auto-publishes (the editorial gate in §10 still governs).
 - Detection ≠ enrichment. The agent only needs headline + abstract + URL to surface a candidate; full-text reading (NYT especially) remains a manual enrichment pass.
 
+### Retrieval ledger and provenance gate
+
+Every scan run writes a per-run ledger (`scan/retrieval_log.json`, ephemeral, gitignored): one record per retrieval attempt — outlet, URL, method (`fetch` / `search_result` / `api`), and grade (`success` = full body read; `truncated` = partial; `snippet_only` = metadata, abstract, or search snippet; `blocked` = not retrieved). Records are written at retrieval time by `scan/log_retrieval.py`, never reconstructed afterward.
+
+Before the daily PR opens, `scan/check_provenance.py` gates the run on two rules. **Reach:** every outlet a new entry cites — in `outlets`, `source`, or `additional_sources` — must have a non-blocked record this run; metadata-grade citations are legitimate (thin entries from API abstracts are sanctioned above). **Depth:** an entry containing quotation marks must have at least one cited outlet with a full `success` record — quotes cannot come from metadata or truncated fetches.
+
+**What the gate does not do:** it proves an outlet was reached at the logged grade, never that the entry's claims or quotes are faithful to the retrieved text, and with multiple cited outlets it cannot attribute a quote to a specific one. Semantic fidelity remains a human-review responsibility. A gate failure is corrected by re-fetching and logging, fixing the entry, or removing unverifiable material — never by editing the ledger.
+
 ### Source reliability and framing discipline
 
 *Observer vs. participant.* Judge a source per-story, not by standing political label. When an outlet is a participant in a controversy — it broke the story, is campaigning on it, or is itself a party to the dispute — record its role and its reporting, but do not adopt its framing as the Index's voice. Cite quotes to the outlet that carries them. Record who broke a story even when they are a participant. This applies to outlets of any ideological lean.

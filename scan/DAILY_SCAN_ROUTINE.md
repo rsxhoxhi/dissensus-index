@@ -79,6 +79,12 @@ Directly fetch each of these four homepages and read every visible headline:
 
 Fetch each at 8,000–10,000 tokens. List every headline with a one-word notation — relevant / already-logged / not-relevant — then state the count: "X scanned, Y relevant, Z already logged, W new."
 
+**Log every retrieval, at retrieval time.** Immediately after each retrieval of any kind — homepage fetch, article fetch, a web-search result actually read, an NYT API call, or an RSS item an entry is drafted from — run:
+
+`python scan/log_retrieval.py --outlet "<name>" --url "<url>" --method fetch|search_result|api --status success|truncated|snippet_only|blocked`
+
+Grades: `success` = full body read; `truncated` = partial body; `snippet_only` = metadata/abstract/search-snippet only; `blocked` = not retrieved. Ledger records are written at retrieval time only — if the gate later fails on an unlogged outlet, the fix is to re-fetch and log properly, **never to backfill the ledger from memory**: backfilling reinstates the exact self-attestation problem the ledger exists to remove.
+
 This step is NOT satisfied by ingest.py / the RSS feed. RSS is a narrow, time-windowed slice; the homepage shows what editors are featuring across several days, including stories older than the RSS window and stories the dragnet keywords would never match. Run it as its own step, every day, regardless of what ingest.py returned.
 
 ## Step 2 — Run the scan (per CLAUDE.md, as one unattended pass)
@@ -135,6 +141,10 @@ this project is built around:
   themes unless a case-level reason differs. Use exact dates, never relative ones. Set
   `follow_up_pending: true` with a named note whenever the status speculates about a
   future development.
+
+## Step 4B — Provenance gate (MANDATORY, before the PR opens)
+
+Run `python scan/check_provenance.py`. The PR does not open until it prints OK. The gate enforces two rules against today's ledger: (1) **reach** — every outlet cited in `outlets`, `source`, or `additional_sources` must have a non-blocked retrieval record this run (metadata-grade thin entries are legitimate); (2) **depth** — any entry containing quotation marks must have at least one cited outlet with a full `success` retrieval, because quotes cannot come from metadata or truncated fetches. On FAIL: re-fetch and log the missing outlet, correct the entry to match what was actually retrieved, or remove the unverifiable material — then re-run the gate. Never edit the ledger to satisfy the gate. If the failure is `unrecognized domain`, add the domain to `DOMAIN_TO_OUTLET` in `scan/check_provenance.py` as part of the run and note it in the PR.
 
 ## Step 5 — Write the result as a pull request
 
