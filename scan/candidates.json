@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T11:06:12.217524+00:00",
+  "generated_at": "2026-07-17T11:06:25.695574+00:00",
   "window_hours": 96,
   "feed_summary": [
     {
@@ -7,8 +7,8 @@
       "status": "ok",
       "total_in_feed": 15,
       "in_window": 15,
-      "new_candidates": 14,
-      "already_logged": 1
+      "new_candidates": 15,
+      "already_logged": 0
     },
     {
       "feed": "ARTnews",
@@ -22,9 +22,9 @@
       "feed": "The Art Newspaper",
       "status": "ok",
       "total_in_feed": 61,
-      "in_window": 17,
-      "new_candidates": 17,
-      "already_logged": 0
+      "in_window": 24,
+      "new_candidates": 23,
+      "already_logged": 1
     },
     {
       "feed": "Artforum",
@@ -38,20 +38,83 @@
       "feed": "The Guardian (art)",
       "status": "ok",
       "total_in_feed": 23,
-      "in_window": 12,
-      "new_candidates": 12,
+      "in_window": 10,
+      "new_candidates": 10,
       "already_logged": 0
     },
     {
       "feed": "NYT Arts",
       "status": "ok",
       "total_in_feed": 63,
-      "in_window": 57,
-      "new_candidates": 56,
+      "in_window": 62,
+      "new_candidates": 61,
       "already_logged": 1
     }
   ],
   "candidates": [
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Planned Charlie Kirk Statue Gets Trolled",
+      "link": "https://hyperallergic.com/planned-charlie-kirk-statue-gets-trolled/",
+      "published": "2026-07-17T10:00:36+00:00",
+      "summary": "Also: Trump shrinks two national monuments in Utah by 90%."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Pat Oleszko Wins $100K Whitney Biennial Prize",
+      "link": "https://hyperallergic.com/art-movements-311/",
+      "published": "2026-07-16T21:57:39+00:00",
+      "summary": "The artist known for her irreverent inflatables gets the Bucksbaum Award; plus, there’s a new grant for artists living with cancer, Murmurs Gallery closes, and more news."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Artist’s Planned Monument to Charlie Kirk Gets Trolled Online",
+      "link": "https://hyperallergic.com/artists-planned-monument-to-charlie-kirk-gets-trolled-online/",
+      "published": "2026-07-16T21:40:56+00:00",
+      "summary": "“God gave me permission,” Sergio Furnani, the NYC sculptor behind the design, told Hyperallergic about his unsanctioned and widely decried work."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Manhattan DA’s Office Returns Three Antiquities to Mexico",
+      "link": "https://hyperallergic.com/manhattan-das-office-returns-three-antiquities-to-mexico/",
+      "published": "2026-07-16T21:15:18+00:00",
+      "summary": "The office’s sixth repatriation to the nation included a Nayarit sculpture seized from The Met and an Aztec stone previously possessed by a convicted antiquities trafficker."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Required Reading",
+      "link": "https://hyperallergic.com/required-reading-793/",
+      "published": "2026-07-16T20:37:20+00:00",
+      "summary": "This week: Chitra Ganesh’s futuristic myths, André Breton and optimism, the mermaids of Florida, a Palestinian digital archive, Argentina and racism, and more."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Trump Shrinks Utah National Monuments by 90%",
+      "link": "https://hyperallergic.com/trump-shrinks-utah-national-monuments-by-90/",
+      "published": "2026-07-16T20:03:59+00:00",
+      "summary": "The administration’s cuts to the Grand Staircase-Escalante and Bears Ears national monuments include sacred Indigenous lands and archaeologically rich sites."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "The Artists Working in Velvet, Amethyst, and Relics",
+      "link": "https://hyperallergic.com/the-artists-working-in-velvet-amethyst-and-relics/",
+      "published": "2026-07-16T19:19:47+00:00",
+      "summary": "An exhibition showcases works by Sky Hopinka, vanessa german, April Bey, and others that have connections to spiritual practices and rituals."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Four Centuries Later, We Still Don't Get Caravaggio",
+      "link": "https://hyperallergic.com/four-centuries-later-we-still-dont-get-caravaggio/",
+      "published": "2026-07-16T19:08:30+00:00",
+      "summary": "A British docudrama serves as a salutary primer on the Baroque master’s greatest works, but we should be wary of what it tells us about the personality of its subject."
+    },
+    {
+      "source_feed": "Hyperallergic",
+      "title": "The ICA at VCU Brings Immersive Installation \"Deo Vindice\" to Richmond",
+      "link": "https://hyperallergic.com/ica-brings-immersive-installation-deo-vindice-to-richmond/",
+      "published": "2026-07-16T15:26:38+00:00",
+      "summary": "The gallery-sized installation at the Institute for Contemporary Art combines Greek mythology with Civil War history to examine white supremacy and hegemonic power."
+    },
     {
       "source_feed": "Hyperallergic",
       "title": "Frederic Edwin Church’s Sublime",
@@ -95,130 +158,123 @@
       "summary": "“Billionaires could fund cures for cancer — so why are they funding glasses for perverts instead?\" asked the protest group Everyone Hates Elon."
     },
     {
-      "source_feed": "Hyperallergic",
-      "title": "The Many Lives of Frederic Edwin Church",
-      "link": "https://hyperallergic.com/the-many-lives-of-frederic-edwin-church/",
-      "published": "2026-07-15T15:16:48+00:00",
-      "summary": "Victoria Johnson’s biography is a nuanced portrait of the artist, whose landscapes conveyed the anxieties of a nation struggling over slavery, war, and disunion."
-    },
-    {
-      "source_feed": "Hyperallergic",
-      "title": "Michael Asher Digs Deep",
-      "link": "https://hyperallergic.com/michael-asher-digs-deep/",
-      "published": "2026-07-15T10:00:55+00:00",
-      "summary": "A survey of the artist who made museums his medium, the godmothers of ecosexuality, and more."
-    },
-    {
-      "source_feed": "Hyperallergic",
-      "title": "Why Do So Many Museums Hold a Convicted Antiquity Dealer’s Treasures?",
-      "link": "https://hyperallergic.com/why-do-so-many-museums-hold-a-convicted-antiquity-dealers-treasures/",
-      "published": "2026-07-15T09:15:00+00:00",
-      "summary": "After The Met returned a Roman bust connected to Phoenix Ancient Art, the question of what will happen to other works sold by the gallery to dozens of US institutions remains open."
-    },
-    {
-      "source_feed": "Hyperallergic",
-      "title": "For Michael Asher, the Museum Was the Medium",
-      "link": "https://hyperallergic.com/for-michael-asher-the-museum-was-the-medium/",
-      "published": "2026-07-14T21:48:07+00:00",
-      "summary": "A survey of the conceptual artist reveals his deep engagement with institutional machinations, though it sometimes feels like inside baseball."
-    },
-    {
-      "source_feed": "Hyperallergic",
-      "title": "Meet the Doyennes of Ecosexuality",
-      "link": "https://hyperallergic.com/meet-the-doyennes-of-ecosexuality/",
-      "published": "2026-07-14T21:07:35+00:00",
-      "summary": "In their latest film, Annie Sprinkle and Beth Stephens advocate replacing an exploitative relationship with the Earth with one based on intimacy, care, and pleasure."
-    },
-    {
-      "source_feed": "Hyperallergic",
-      "title": "Connecticut’s Artists Have Been Hiding in Plain Sight",
-      "link": "https://hyperallergic.com/connecticuts-artists-have-been-hiding-in-plain-sight/",
-      "published": "2026-07-14T19:36:55+00:00",
-      "summary": "The Aldrich Contemporary Art Museum's inaugural decennial exhibition showcases works by 40 artists in the state, all made in the last decade."
-    },
-    {
-      "source_feed": "Hyperallergic",
-      "title": "Former High Museum Executive Pleads Guilty to Embezzlement",
-      "link": "https://hyperallergic.com/former-high-museum-executive-pleads-guilty-to-embezzlement/",
-      "published": "2026-07-14T18:37:39+00:00",
-      "summary": "According to court filings, Brady Lum stole more than $600,000 from the Atlanta institution during his nearly seven-year tenure."
-    },
-    {
-      "source_feed": "Hyperallergic",
-      "title": "Contending With Fashion Photography's Artifice",
-      "link": "https://hyperallergic.com/contending-with-fashion-photographys-artifice/",
-      "published": "2026-07-14T17:43:49+00:00",
-      "summary": "Lillian Bassman spent decades crafting commercial images. After leaving the industry, she was finally free to experiment in the darkroom."
+      "source_feed": "ARTnews",
+      "title": "In His Beaded Portraits of Black Luminaries, Felandus Thames Wants to Spark Curiosity",
+      "link": "https://www.artnews.com/art-news/artists/felandus-thames-profile-aldrich-decennial-1234792073/",
+      "published": "2026-07-17T09:00:00+00:00",
+      "summary": "The West Haven–based artist is currently included in the inaugural Aldrich Decennial, which focuses on artists living and working in Connecticut."
     },
     {
       "source_feed": "ARTnews",
-      "title": "Trump Skewered in Satirical ‘Iran War Participation Trophy’ Art Installation",
-      "link": "https://www.artnews.com/art-news/news/trump-mock-iran-war-participation-trophy-art-installation-1234792275/",
-      "published": "2026-07-15T21:24:15+00:00",
-      "summary": "The art installation on Washington D.C's National Mall by the anonymous Secret Handshake artist collective, congratulates Trump for his lack of concern for \"measurable outcomes\" in the Iran war, while comparing him to \"children everywhere\" who are awarded for simply participating."
+      "title": "How the Surrealists Psyopped the Gestapo and Otherwise Fought Fascism",
+      "link": "https://www.artnews.com/art-in-america/aia-reviews/surrealism-antifascism-in-the-very-bowels-of-change-modern-warsaw-dali-picasso-1234792418/",
+      "published": "2026-07-17T09:00:00+00:00",
+      "summary": "“In the Very Bowels of Change: Surrealism and Antifascism” frames the movement as anything but detatched from reality."
     },
     {
       "source_feed": "ARTnews",
-      "title": "Artist Residencies in London and the Hudson Valley: Industry Moves for July 15, 2026",
-      "link": "https://www.artnews.com/art-news/news/storm-king-delfina-residencies-industry-moves-july-15-2026-1234792292/",
-      "published": "2026-07-15T21:22:03+00:00",
-      "summary": "The Storm King Art Center and the Delfina Foundation have named residency recipients."
+      "title": "LEGO Partners with Vienna’s Belvedere Museum on 4,000-Piece Set of Klimt’s ‘The Kiss’",
+      "link": "https://www.artnews.com/art-news/news/lego-gustav-klimt-the-kiss-belvedere-museum-1234792459/",
+      "published": "2026-07-16T19:17:35+00:00",
+      "summary": "The block version of the iconic painting can easily hang on one's wall."
     },
     {
       "source_feed": "ARTnews",
-      "title": "Vija Celmins and Denis Villeneuve Are the 2026 Honorees of LACMA’s Glitzy Art+Film Gala",
-      "link": "https://www.artnews.com/art-news/news/vija-celmins-denis-villeneuve-honorees-lacma-art-film-gala-1234792263/",
-      "published": "2026-07-15T19:22:22+00:00",
-      "summary": "Last year's gala raised $6.5 million dollars for the museum's art and film programming."
+      "title": "Manhattan District Attorney Repatriates Three Antiquities to Mexico",
+      "link": "https://www.artnews.com/art-news/news/manhattan-district-attorney-repatriation-mexico-1234792453/",
+      "published": "2026-07-16T19:03:44+00:00",
+      "summary": "One of the objects was seized from the Metropolitan Museum of Art."
     },
     {
       "source_feed": "ARTnews",
-      "title": "At Management Gallery, Grotesque Art Evolves for the Doomscroll Era",
-      "link": "https://www.artnews.com/art-news/reviews/at-management-gallery-grotesque-art-evolves-for-the-doomscroll-era-1234792218/",
-      "published": "2026-07-15T18:35:54+00:00",
-      "summary": "In a bloody, carnal survey, 'The New Grotesque' tests whether an old aesthetic can metabolize modern anxieties."
+      "title": "UK Politicians Call For Investigation of British Museum’s Removal of ‘Palestine’ from Display",
+      "link": "https://www.artnews.com/art-news/news/uk-politicians-call-for-investigation-of-british-museums-removal-of-palestine-from-display-1234792435/",
+      "published": "2026-07-16T17:57:22+00:00",
+      "summary": "An investigation of internal emails from the British Museum has challenged its claim that the term “Palestine” was removed in response to “audience testing.”"
     },
     {
       "source_feed": "ARTnews",
-      "title": "Fresh Insights into China’s Famed Sanxingdui Illuminate Ancient Trade Networks",
-      "link": "https://www.artnews.com/art-news/news/chinese-bronze-assembled-from-pieces-1234792249/",
-      "published": "2026-07-15T17:22:56+00:00",
-      "summary": "New research suggests that the treasured bronze artifact is an assemblage of different parts, each hailing from different locations and dates."
+      "title": "Mark Hamill’s ‘Star Wars’ Lightsaber Breaks Auction Record with $3.7M. Sale",
+      "link": "https://www.artnews.com/art-news/news/mark-hamills-star-wars-lightsaber-breaks-auction-record-1234792441/",
+      "published": "2026-07-16T17:43:29+00:00",
+      "summary": "The $3.75 million sum set a new world auction record for a screen-used Star Wars prop, per Dallas-based Heritage."
     },
     {
       "source_feed": "ARTnews",
-      "title": "Jacolby Satterwhite Receives Inaugural Artists Living With Cancer Grant From Rema Hort Mann Fund and Robert Rauschenberg Foundation",
-      "link": "https://www.artnews.com/art-news/artists/jacolby-satterwhite-artists-living-with-cancer-grant-rema-hort-mann-fund-1234792252/",
-      "published": "2026-07-15T17:11:20+00:00",
-      "summary": "Satterwhite called the grants \"a necessary bridge\" for artists like him, who are often left unable to support themselves while they go through treatment and recovery."
+      "title": "Bavaria Revamps Procedures for Evaluating Restitution Claims for Nazi-Looted Art",
+      "link": "https://www.artnews.com/art-news/news/bavaria-revamp-procedures-restitution-nazi-looted-art-1234792420/",
+      "published": "2026-07-16T17:14:24+00:00",
+      "summary": "A new body will evaluate all such claims, taking the process out of the hands of state museums."
     },
     {
       "source_feed": "ARTnews",
-      "title": "A Rousing Tate Modern Retrospective Refuses to Reduce Ana Mendieta to a Tragic Figure",
-      "link": "https://www.artnews.com/art-in-america/aia-reviews/tate-modern-retrospective-ana-mendieta-1234792240/",
-      "published": "2026-07-15T16:09:28+00:00",
-      "summary": "For the artist, death was not an ending."
+      "title": "New Lawsuit Alleges Stolen Pierre Soulages Painting Sold at Christie’s as Part of Weis Collection",
+      "link": "https://www.artnews.com/art-news/news/pierre-soulages-allegedly-stolen-weis-collection-christies-1234792426/",
+      "published": "2026-07-16T16:53:36+00:00",
+      "summary": "The Zeckendorf family alleges that the work was stolen around 1977 and is seeking the proceeds of the work's sale."
     },
     {
       "source_feed": "ARTnews",
-      "title": "Rutgers’s Zimmerli Art Museum Receives 70-Work Gift, Including Pieces by Mark Bradford, Nicole Eisenman, and Lee Friedlander",
-      "link": "https://www.artnews.com/list/art-news/news/rugers-zimmerli-museum-gift-mark-bradford-nicole-eisenman-1234791980/",
-      "published": "2026-07-15T16:00:00+00:00",
-      "summary": "Anne and Arthur Goldstein have previously donated more than 160 works to the institution."
+      "title": "Steidl, the Art World’s Go-To Photobook Publisher, Faces Insolvency Proceedings in Germany",
+      "link": "https://www.artnews.com/art-news/news/steidl-the-art-worlds-go-to-photobook-publisher-faces-insolvency-proceedings-in-germany-1234792400/",
+      "published": "2026-07-16T15:31:27+00:00",
+      "summary": "\"Times are very bad for the book industry,\" Gerhard Steidl said."
     },
     {
       "source_feed": "ARTnews",
-      "title": "Bacteria Linked to Legionnaires’ Disease Detected at Metropolitan Museum of Art",
-      "link": "https://www.artnews.com/art-news/news/bacteria-legionnaires-disease-metropolitan-museum-of-art-1234792234/",
-      "published": "2026-07-15T15:55:45+00:00",
-      "summary": "The bacteria were previously detected at the Guggenheim Museum, as authorities continue searching for the source of the outbreak."
+      "title": "LA’s Murmurs Gallery, Known for Its Eye for Rising Talent, to Close After Seven Years",
+      "link": "https://www.artnews.com/art-news/market/murmurs-gallery-los-angeles-closure-1234792327/",
+      "published": "2026-07-16T15:30:42+00:00",
+      "summary": "Its final show, a solo for Rodrigo Ramírez Rodríguez, ended on June 27."
     },
     {
-      "source_feed": "ARTnews",
-      "title": "More Pressure on the Smithsonian, Yoko Ono’s “Cut Piece” Revisited at the Broad, and More: Morning Links for July 15, 2026",
-      "link": "https://www.artnews.com/art-news/news/yoko-ono-cut-piece-revisited-at-the-broad-1234792230/",
-      "published": "2026-07-15T14:32:04+00:00",
-      "summary": "Artist MPA is staging new live interpretations of Yoko Ono's landmark piece from 1964."
+      "source_feed": "The Art Newspaper",
+      "title": "The ten most expensive Van Gogh paintings",
+      "link": "https://www.theartnewspaper.com/2026/07/17/the-ten-most-expensive-van-gogh-paintings",
+      "published": "2026-07-17T09:36:00+00:00",
+      "summary": "‘Sunflowers’ does not make the list—and there are other surprises"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "How Constable country is becoming a hub of artistic innovation once again",
+      "link": "https://www.theartnewspaper.com/2026/07/17/how-constable-country-is-becoming-a-hub-of-artistic-innovation-once-again",
+      "published": "2026-07-17T09:16:14+00:00",
+      "summary": "Two hundred and fifty years after the birth of its most famous painter, the East of England's art scene has never been so vital"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "'The Climate Clock is ticking': new art trail in Finland shines a light on rapid Arctic warming",
+      "link": "https://www.theartnewspaper.com/2026/07/17/the-climate-clock-is-ticking-new-art-trail-in-finland-shines-a-light-on-rapid-arctic-warming",
+      "published": "2026-07-17T09:06:27+00:00",
+      "summary": "Artists including Rana Begum, SUPERFLEX and Ranti Bam have produced works for the initiative, which is part of the Oulu 2026 European Capital of Culture programme"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "US congress introduces bill to protect public art in federal buildings targeted by Trump administration",
+      "link": "https://www.theartnewspaper.com/2026/07/16/us-congress-introduces-bill-to-protect-public-art-in-federal-buildings-targeted-by-trump-administration",
+      "published": "2026-07-16T19:26:24+00:00",
+      "summary": "The Preserve Act specifically sites Washington, DC’s Cohen Building—the “Sistine Chapel of the New Deal”"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Legionella detected in cooling towers at the Metropolitan Museum, Cooper Hewitt and Jewish Museum",
+      "link": "https://www.theartnewspaper.com/2026/07/16/legionella-detected-in-cooling-towers-at-the-metropolitan-museum-cooper-hewitt-and-jewish-museum",
+      "published": "2026-07-16T16:55:08+00:00",
+      "summary": "As the outbreak of Legionnaire’s disease continues on Manhattan’s Upper East Side, a new city report shows more art institutions affected"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Detroit Institute of Arts director finds missing Velázquez painting",
+      "link": "https://www.theartnewspaper.com/2026/07/16/detroit-institute-of-arts-director-finds-missing-velazquez-painting",
+      "published": "2026-07-16T14:46:21+00:00",
+      "summary": "Salvador Salort-Pons, a noted Velázquez scholar, says he made the discovery by chance while preparing a related exhibition at the museum"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Tower of London’s architectural archive to be opened up to public as part of planned £70m revamp",
+      "link": "https://www.theartnewspaper.com/2026/07/16/tower-of-london-architectural-archive-to-be-made-public-as-part-of-planned-£70m-revamp",
+      "published": "2026-07-16T12:25:12+00:00",
+      "summary": "A new Archive Study Centre will open as part of a multi-year programme by Historic Royal Palaces"
     },
     {
       "source_feed": "The Art Newspaper",
@@ -261,13 +317,6 @@
       "link": "https://www.theartnewspaper.com/2026/07/15/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion",
       "published": "2026-07-15T12:12:11+00:00",
       "summary": "Exhibitions on chintz, ceramics, and pop culture will headline in South Kensington, while South Asian contemporary art and Vivienne Westwood will feature at the museum's east London and Dundee locations, respectively"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Bavaria approves creation of Nazi loot panel and independent entity for provenance research",
-      "link": "https://www.theartnewspaper.com/2026/07/15/bavaria-approves-creation-of-nazi-loot-panel-and-independent-entity-provenance-research",
-      "published": "2026-07-15T11:42:40+00:00",
-      "summary": "The culture minister also announced the return of a Picasso bust to the heir of the Jewish dealer Alfred Flechtheim"
     },
     {
       "source_feed": "The Art Newspaper",
@@ -341,6 +390,62 @@
     },
     {
       "source_feed": "Artforum",
+      "title": "Nobu’s Flight From Basel",
+      "link": "https://www.artforum.com/columns/nobus-flight-from-basel-postcard-1234754958/",
+      "published": "2026-07-16T21:39:10+00:00",
+      "summary": "“Looking at art all week seemed to stretch that moment”"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "“Iran War Participation Trophy” Mocking Trump Provokes The White House’s Ire",
+      "link": "https://www.artforum.com/news/iran-war-participation-trophy-mocking-trump-provokes-ire-1234754946/",
+      "published": "2026-07-16T21:22:42+00:00",
+      "summary": "A ten-foot-tall “Iran War Participation Trophy” has been placed on the lawn of the National Mall in Washington D.C., recognizing President Donald Trump. The trophy, which is spray-painted gold and features “#1” and “Participant” embossed on its body and base respectively, is the handiwork of satiric…"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Renowned German Photobook Publisher Steidl Faces Bankruptcy",
+      "link": "https://www.artforum.com/news/renowned-german-publisher-steidl-faces-bankruptcy-1234754981/",
+      "published": "2026-07-16T20:26:15+00:00",
+      "summary": "Steidl, the internationally known German-language publisher founded in 1969 in Göttingen, Germany, by Gerhard Steidl, is in the throes of financial difficulties so severe that it has wound up in court. German daily Der Spiegel reports that the publisher filed to start preliminary insolvency proceedi…"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Jacolby Satterwhite Receives $25k Artists Living with Cancer Grant",
+      "link": "https://www.artforum.com/news/jacolby-satterwhite-25k-artists-living-with-cancer-grant-1234754942/",
+      "published": "2026-07-16T19:35:18+00:00",
+      "summary": "The Artists Living With Cancer Grant, an unrestricted award of $25,000 that was co-developed by the Rema Hort Mann Fund (RHMF) and the Robert Rauschenberg Foundation, has just named its inaugural recipient. The awardee is Jacolby Satterwhite, a prolific conceptual and digital artist who has grappled…"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Clark Art Institute Reveals Plans for Its New  Wing by Selldorf Architects",
+      "link": "https://www.artforum.com/news/clark-art-institute-selldorf-architects-1234754944/",
+      "published": "2026-07-16T18:01:16+00:00",
+      "summary": "Set to break ground in January 2027, a new wing of the Clark Art Institute, based in Williamstown, Massachusetts, will house the Aso O. Tavitian collection, which includes over 300 works of art from the private collection of the late entrepreneur and philanthropist Aso O. Tavitian. The collection is…"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Pat Oleszko Receives Whitney Biennial’s $100,000 Bucksbaum Award",
+      "link": "https://www.artforum.com/news/pat-oleszko-receives-whitney-biennials-2026-bucksbaum-award-1234754957/",
+      "published": "2026-07-16T17:45:03+00:00",
+      "summary": "The Whitney Museum of American Art in New York&#160;has presented its $100,000&#160;Bucksbaum Award&#160;to New York–based sculptor and performance artist Pat Oleszko. Oleszko was chosen for the honor from among the fifty-six artists and collectives included in the 2026 Whitney Biennial, on view thr…"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Zimmerli Art Museum at Rutgers Receives Significant Gift of Over 70 Works",
+      "link": "https://www.artforum.com/news/zimmerli-art-museum-at-rutgers-receives-over-70-works-1234754940/",
+      "published": "2026-07-16T17:09:26+00:00",
+      "summary": "The Zimmerli Art Museum, the fine arts museum of Rutgers University in New Jersey, has just received a gift of more than seventy noteworthy works of modern and contemporary art from Anne and Arthur Goldstein, longtime benefactors of the institution. The trove of artworks includes a mixed-media drawi…"
+    },
+    {
+      "source_feed": "Artforum",
+      "title": "Too Hot The Eye of Heaven Shines: PARIS J.B REID TAKES LONDON HEATWAVE",
+      "link": "https://www.artforum.com/columns/paris-j-b-reid-takes-london-heatwave-1234754826/",
+      "published": "2026-07-16T16:59:57+00:00",
+      "summary": "“You’ll find there’s a lot of trickle-down in the art scene here,” he says, terminology inadvertently in keeping with the show."
+    },
+    {
+      "source_feed": "Artforum",
       "title": "James Cohan Rebrands As Norr Cohan, With Partner David Norr As Sole Owner",
       "link": "https://www.artforum.com/news/james-cohan-rebrands-as-norr-cohan-david-norr-as-sole-owner-1234754778/",
       "published": "2026-07-15T19:59:51+00:00",
@@ -368,60 +473,18 @@
       "summary": "Cuban artist Luis Manuel Otero Alcántara&#160;has been reported missing following the expiration of his jail sentence. Otero Alcántara, who was serving five years on charges of showing disrespect to national symbols, was set to be released from Guanjay, a maximum-security prison roughly 35 miles sou…"
     },
     {
-      "source_feed": "Artforum",
-      "title": "Delay In Appointing Smithsonian Board Members Can Be Traced Back to White House",
-      "link": "https://www.artforum.com/news/delay-in-appointing-smithsonian-board-members-1234754771/",
-      "published": "2026-07-15T17:55:45+00:00",
-      "summary": "According to a new report from the New York Times, new candidates for the Smithsonian’s Board of Regents have not yet made their way before Congress, as can usually be expected, due to Vice President JD Vance’s efforts to delay the process. Two people with knowledge of the board member approval proc…"
+      "source_feed": "The Guardian (art)",
+      "title": "Hockney’s Pop pals, Warhol’s American republic and Linder punks Blackpool – the week in art",
+      "link": "https://www.theguardian.com/artanddesign/2026/jul/17/hockneys-graphic-1960s-linder-hits-blackpool-and-warhols-american-republic-the-week-in-art",
+      "published": "2026-07-17T11:00:06+00:00",
+      "summary": "Patrick Caulfield, Claes Oldenburg and Jasper Johns put Hockney in context while Helen Chadwick’s provocations have a wild Welsh setting – all in your weekly dispatchPop RevisitedDavid Hockney’s brilliantly inventive prints are shown with other graphic masterpieces of the 1960s by Richard Hamilton, …"
     },
     {
-      "source_feed": "Artforum",
-      "title": "Legionella Bacteria Plaguing NYC Makes Its Way to the Metropolitan Museum of Art",
-      "link": "https://www.artforum.com/news/legionella-bacteria-found-at-metropolitan-museum-of-art-1234754786/",
-      "published": "2026-07-15T17:54:14+00:00",
-      "summary": "Legionella, the bacteria that causes the virulent form of pneumonia known as Legionnaires’ disease, has been detected in a cooling tower at the Metropolitan Museum of Art on New York’s Upper East Side. The bacteria grows in warm water and had earlier been detected in the cooling tower of the Solomon…"
-    },
-    {
-      "source_feed": "Artforum",
-      "title": "Regards and Earthly Delights",
-      "link": "https://www.artforum.com/columns/regards-and-earthly-delights-sarah-lehrer-graiwer-postcard-1234754338/",
-      "published": "2026-07-14T20:50:16+00:00",
-      "summary": "“We braved driving on the ‘wrong’ side of the narrowest country lanes”"
-    },
-    {
-      "source_feed": "Artforum",
-      "title": "Three Robert Rauschenberg Sculptures Have Been Donated To The Tate And National Galleries Of Scotland",
-      "link": "https://www.artforum.com/news/robert-rauschenberg-sculptures-donated-to-artist-rooms-1234754495/",
-      "published": "2026-07-14T20:25:16+00:00",
-      "summary": "The Robert Rauschenberg Foundation has donated three sculptures by the artist from his “Gluts” series, 1986–89/1991–94, to Artist Rooms, a collection jointly managed by Tate and the National Galleries of Scotland. The pieces will be on view at the Tate Modern later this year, extending 2025’s centen…"
-    },
-    {
-      "source_feed": "Artforum",
-      "title": "Suspects in Louvre Heist Say They Were Recruited by a ‘Mastermind’ Who Wasn’t Pleased With Their Efforts",
-      "link": "https://www.artforum.com/news/louvre-heist-mastermind-1234754493/",
-      "published": "2026-07-14T18:52:12+00:00",
-      "summary": "The two principal suspects in the spectacularly disruptive, broad-daylight jewel heist that took place at the Louvre in October of 2025 claimed in statements to judiciary authorities—per Le Monde, which just published a report on the transcripts—that a “mysterious mastermind,” who they refuse to nam…"
-    },
-    {
-      "source_feed": "Artforum",
-      "title": "Trump Slashes Millions of Acres from Utah National Monuments",
-      "link": "https://www.artforum.com/news/trump-drastically-shrinks-two-national-monuments-1234754484/",
-      "published": "2026-07-14T18:42:43+00:00",
-      "summary": "US President Donald Trump on July 13 signed proclamations drastically reducing the size of two national monuments. Bears Ears and Grand Staircase-Escalante, both in Utah, will lose “close to a million and a half acres each,” said Trump. Specifically, the former will be reduced from about 1.87 millio…"
-    },
-    {
-      "source_feed": "Artforum",
-      "title": "Nazi-Looted Painting Salvaged From Amsterdam Rubbish Pile Is Set To Be Returned",
-      "link": "https://www.artforum.com/news/nazi-looted-painting-from-rubbish-pile-to-be-returned-1234754497/",
-      "published": "2026-07-14T16:25:58+00:00",
-      "summary": "A Nazi-looted painting that once belonged to Jewish Dutch art dealer Jacques Goudstikker, has been identified and will now be returned to his heirs. The painting had been in the possession of Amsterdam resident Robert van der Hoek, who found it in a trash pile in the city decades ago. “I took it wit…"
-    },
-    {
-      "source_feed": "Artforum",
-      "title": "Former High Museum of Art COO Pleads Guilty in $600,000+ Embezzlement Case",
-      "link": "https://www.artforum.com/news/former-high-museum-coo-pleads-guilty-in-embezzlement-case-1234754481/",
-      "published": "2026-07-14T16:24:39+00:00",
-      "summary": "Brady Lum, the onetime chief operating officer of Atlanta&#8217;s High Museum of Art, pleaded guilty in federal court on July 13 to a charge of theft concerning programs receiving federal funds. Lum is charged with embezzling more than $600,000 from the institution. “Over several years, Lum deceptiv…"
+      "source_feed": "The Guardian (art)",
+      "title": "‘I’m not into leather at all!’: John Wood on privately photographing Glasgow’s gay underground, and the comparisons with Robert Mapplethorpe",
+      "link": "https://www.theguardian.com/artanddesign/2026/jul/17/john-wood-photographer-solo-show-in-glasgow",
+      "published": "2026-07-17T08:19:05+00:00",
+      "summary": "He was a telecoms engineer by day – and documented the Scottish city’s leather scene by night. Now the 79-year-old has opened his erotic archives and received his first ever solo exhibitionWhat is the story behind John Wood’s photographs? Some might guess that his portraits, which capture male subje…"
     },
     {
       "source_feed": "The Guardian (art)",
@@ -460,27 +523,6 @@
     },
     {
       "source_feed": "The Guardian (art)",
-      "title": "Brazilian World Cup legend Jairzinho takes a shot: Michael Donald’s best photograph",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/15/jairzinho-footballer-brazil-rio-favelas-michael-donalds-best-photograph",
-      "published": "2026-07-15T14:23:53+00:00",
-      "summary": "‘Nowadays Jairzinho works with kids in the favelas of Rio where the unwritten rule is that visitors have to leave by 5pm. I asked for 10 more minutes and when I turned round, a guy had pulled a gun on my crew’I’m not a mad football fan. What I most love about the game is its universal appeal – it’s …"
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "Richard Dadd: the painter whose fantastical vision was unconfined by his 43 years in an asylum",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/15/richard-dadd-royal-academy-faerie-feller-bethlem-artist",
-      "published": "2026-07-15T13:45:06+00:00",
-      "summary": "Committed to Bethlem hospital after killing his father in a psychotic episode, Dadd inspired Angela Carter and Queen. Now a new show is exploring his paintings with a more nuanced take on his mental illnessIn the autumn of 1843, the influential journal Art-Union mourned “the late Richard Dadd”, an a…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "Ana Mendieta review – were she still alive she’d be at the forefront of art in this century",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/13/ana-mendieta-review-tate-modern-london",
-      "published": "2026-07-13T10:27:05+00:00",
-      "summary": "Tate Modern, LondonThis exhibition makes nothing of the Cuban-American artist’s controversial death – instead it focuses on the astounding way she left an imprint of herself on the earth using blood, feathers and gunpowderA huge colour photo of a ruined ancient site greets you outside Ana Mendieta’s…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
       "title": "Before the gold rush: a South African story – in pictures",
       "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/15/before-the-gold-rush-a-south-african-story-in-pictures-robin-bernstein-mapalakata",
       "published": "2026-07-15T06:00:46+00:00",
@@ -501,11 +543,81 @@
       "summary": "From scientific tricks to stop turtle traffickers to stranded seals and displaced workers, these images all scooped prizes at this year’s Earth Photo awards Continue reading..."
     },
     {
-      "source_feed": "The Guardian (art)",
-      "title": "Inside Thailand’s animal rescue network saving strays – photo essay",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/13/thailand-animal-rescue-foundation-photo-essay",
-      "published": "2026-07-13T06:00:40+00:00",
-      "summary": "Thailand’s urban and rural environments are home to a vast population of stray animals whose safety depends on delicate networks of care. Photographer Jackson Morrow spent three years with the Soi Dog Foundation documenting the systems that shape their survival.Some readers may find these images dis…"
+      "source_feed": "NYT Arts",
+      "title": "Christopher Nolan on ‘The Odyssey’ and IMAX Technical Challenges",
+      "link": "https://www.nytimes.com/2026/07/17/movies/the-odyssey-christopher-nolan.html",
+      "published": "2026-07-17T09:00:42+00:00",
+      "summary": "He and the cinematographer Hoyte van Hoytema combined new inventions (like fire-mimicking lights they developed) with century-old techniques."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Has the World Cup Turned Me Into … a Sports Guy?",
+      "link": "https://www.nytimes.com/2026/07/17/arts/television/world-cup.html",
+      "published": "2026-07-17T09:01:51+00:00",
+      "summary": "The pleasures of watching the TV show of the summer as a bandwagon fan."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "The Rediscovery of Country Original Gary Stewart",
+      "link": "https://www.nytimes.com/2026/07/17/arts/music/gary-stewart-country-music.html",
+      "published": "2026-07-17T09:00:58+00:00",
+      "summary": "Gary Stewart spent a few years on top, but was largely forgotten after his tragic death in 2003. Now a new generation is rediscovering the onetime “king of honky-tonk.”"
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘Heartstopper Forever’ Review: Facing a Grown-Up Reality",
+      "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-review.html",
+      "published": "2026-07-17T07:01:04+00:00",
+      "summary": "The glossy Netflix series graduates into adulthood with this movie starring Kit Connor and Joe Locke as a couple with thoughts of college ahead."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘Heartstopper Forever’: What to Know Before Seeing the Movie",
+      "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-movie-what-to-know.html",
+      "published": "2026-07-17T09:00:49+00:00",
+      "summary": "The Netflix series and its feature-length finale are based on the graphic novels by Alice Oseman. Here’s a reminder of the events of the characters and where their stories left of."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "My 5 Favorite Places for Art in Venice",
+      "link": "https://www.nytimes.com/2026/07/17/arts/design/my-5-favorite-places-for-art-in-venice.html",
+      "published": "2026-07-17T09:00:34+00:00",
+      "summary": "Our critic Jason Farago shares what you shouldn’t miss in a city full of secrets and surprises."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "The Internet’s Steve Lacy, Syd and Matt Martians Discuss New Music",
+      "link": "https://www.nytimes.com/2026/07/17/arts/music/internet-syd-steve-lacy-interview.html",
+      "published": "2026-07-17T09:02:27+00:00",
+      "summary": "The band members Steve Lacy and Syd, both of whom have new solo albums out now, reunite with the producer Matt Martians to discuss achieving TikTok fame, writing a Beyoncé song and staying a family."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "5 New Movies Our Critics Are Talking About This Week",
+      "link": "https://www.nytimes.com/2026/07/17/movies/new-movies-this-week-critics.html",
+      "published": "2026-07-17T09:02:09+00:00",
+      "summary": "Whether you’re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Five Free Movies to Stream Now",
+      "link": "https://www.nytimes.com/2026/07/17/movies/five-free-movies-to-stream-now.html",
+      "published": "2026-07-17T09:02:34+00:00",
+      "summary": "This month’s picks include epics from Werner Herzog and Akira Kurosawa, along with one of the most quintessential New York movies."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘Shifters’ Review: Fast-Forwarding Through a Predictable Romance",
+      "link": "https://www.nytimes.com/2026/07/17/theater/shifters-review.html",
+      "published": "2026-07-17T09:01:05+00:00",
+      "summary": "Des (Heather Agyepong) and Dre (Daniel Ezra), navigate a mutual magnetic pull in this British love story by Benedict Lombe at Cherry Lane Theater."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Late Night Is Amused by Alleged White House Teleprompter Grift",
+      "link": "https://www.nytimes.com/2026/07/17/arts/television/late-night-trump-teleprompter-operator-bets.html",
+      "published": "2026-07-17T07:00:13+00:00",
+      "summary": "Hosts responded on Thursday to a teleprompter operator reportedly winning around $100,000 betting on what President Trump would say in his speeches."
     },
     {
       "source_feed": "NYT Arts",
@@ -516,17 +628,66 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Finding The Great America, 250 Years On. The Real One.",
-      "link": "https://www.nytimes.com/2026/07/16/arts/design/washington-smithsonian-museums-last-chance-review.html",
-      "published": "2026-07-16T09:01:12+00:00",
-      "summary": "These history-rich shows at the Smithsonian museums are a culturally-representative accounting of this nation’s history, our critic says. See them before they close."
+      "title": "Duchamp Gave Up Art for Chess. At MoMA, He Inspires a New Gambit.",
+      "link": "https://www.nytimes.com/2026/07/16/arts/design/duchamp-chess-moma.html",
+      "published": "2026-07-16T21:22:42+00:00",
+      "summary": "Susan Polgar, a chess grandmaster, will be playing 50 artists, critics and fans of Marcel Duchamp at the same time, in honor of his birthday, July 28."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Duchamp Gave Up Art for Chess. At MoMA, He Inspires a New Gambit.",
-      "link": "https://www.nytimes.com/2026/07/16/arts/design/duchamp-chess-moma.html",
-      "published": "2026-07-16T09:01:56+00:00",
-      "summary": "Susan Polgar, a chess grandmaster, will be playing 50 artists, critics and fans of Marcel Duchamp at the same time, in honor of his birthday, July 28."
+      "title": "Ted Huffman Takes Over the Aix-en-Provence Festival",
+      "link": "https://www.nytimes.com/2026/07/16/arts/music/ted-huffman-aix-en-provence-festival.html",
+      "published": "2026-07-16T09:02:24+00:00",
+      "summary": "Ted Huffman, an American director with a collaborative and exploratory spirit, has taken over the Aix-en-Provence Festival in France."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Want More of the ‘Odyssey’? Read These Books Next",
+      "link": "https://www.nytimes.com/2026/07/17/books/the-odyssey-books.html",
+      "published": "2026-07-17T09:00:25+00:00",
+      "summary": "Informative histories, modern retellings and genre-bending homages will take you back to the long road to Ithaca."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Chloe Fineman Is Leaving ‘S.N.L.’ After 7 Seasons",
+      "link": "https://www.nytimes.com/2026/07/16/arts/television/chloe-fineman-leaves-snl.html",
+      "published": "2026-07-16T22:06:55+00:00",
+      "summary": "The comedian and actress announced her departure as the show looks ahead to its 52nd season."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Dave Kendall, Creator and Host of MTV’s ‘120 Minutes,’ Dies at 63",
+      "link": "https://www.nytimes.com/2026/07/16/arts/television/dave-kendall-dead.html",
+      "published": "2026-07-16T23:12:58+00:00",
+      "summary": "With his English accent and ubiquitous leather jacket, Mr. Kendall was the face of alternative music on MTV from 1989 to 1992."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Isabelle Huppert Speaks Across a Language Divide at the Avignon Festival",
+      "link": "https://www.nytimes.com/2026/07/16/theater/avignon-festival-han-kang-isabelle-huppert-lee-hye-young.html",
+      "published": "2026-07-16T15:40:32+00:00",
+      "summary": "A stripped-back, cross-cultural reading with the Korean star Lee Hye-young at the Avignon Festival brought out a rare softness in the French actress."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Why Netflix’s ‘The Polygamist’ Has Viewers Outside South Africa Talking",
+      "link": "https://www.nytimes.com/2026/07/16/world/africa/netflix-the-polygamist-south-africa.html",
+      "published": "2026-07-16T14:55:45+00:00",
+      "summary": "The hit Netflix show follows the life of a wealthy married couple in South Africa as they deal with the pressures of infidelity and appearances."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Akihiro Miwa, Actor and Singer With Gender-Fluid Glamour, Dies at 91",
+      "link": "https://www.nytimes.com/2026/07/16/movies/akihiro-miwa-dead.html",
+      "published": "2026-07-16T14:19:07+00:00",
+      "summary": "In Japan, he was one of the first androgynous pop-culture stars and an inspirational figure. Abroad, he was known for his work in animated films by Hayao Miyazaki."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘American Pachuco: The Legend of Luis Valdez’ Review: A Rebel With a Cause",
+      "link": "https://www.nytimes.com/2026/07/16/movies/american-pachucho-the-legend-of-luis-valdez-review.html",
+      "published": "2026-07-16T09:03:11+00:00",
+      "summary": "The documentary about the stage and screen director is unabashedly celebratory, and leaves you wanting to see more."
     },
     {
       "source_feed": "NYT Arts",
@@ -544,66 +705,31 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘Horsegirls’ Review: Finding Her Stride",
-      "link": "https://www.nytimes.com/2026/07/16/movies/horsegirls-review.html",
-      "published": "2026-07-16T09:01:28+00:00",
-      "summary": "An autistic woman finds independence by training for a hobbyhorse competition in this sweet-and-sour coming-of-age film."
+      "title": "‘They Fight’ Review: It Might Have Been a Contender",
+      "link": "https://www.nytimes.com/2026/07/16/movies/they-fight-review.html",
+      "published": "2026-07-16T09:01:33+00:00",
+      "summary": "This real-life inspired boxing drama has muscular ambitions, but too little finesse."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘American Pachuco: The Legend of Luis Valdez’ Review: A Rebel With a Cause",
-      "link": "https://www.nytimes.com/2026/07/16/movies/american-pachucho-the-legend-of-luis-valdez-review.html",
-      "published": "2026-07-16T09:03:11+00:00",
-      "summary": "The documentary about the stage and screen director is unabashedly celebratory, and leaves you wanting to see more."
+      "title": "‘Horsegirls’ Review: Finding Her Stride",
+      "link": "https://www.nytimes.com/2026/07/16/movies/horsegirls-review.html",
+      "published": "2026-07-16T09:01:29+00:00",
+      "summary": "An autistic woman finds independence by training for a hobbyhorse competition in this sweet-and-sour coming-of-age film."
     },
     {
       "source_feed": "NYT Arts",
       "title": "‘The Kidnapping of Arabella’ Review: Stolen Childhoods",
       "link": "https://www.nytimes.com/2026/07/16/movies/the-kidnapping-of-arabella-review-stolen-childhoods.html",
-      "published": "2026-07-16T09:01:27+00:00",
+      "published": "2026-07-16T09:01:28+00:00",
       "summary": "A disturbed young woman tries to heal her past by abducting a rebellious child in this strange and intermittently touching road movie."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘They Fight’ Review: It Might Have Been a Contender",
-      "link": "https://www.nytimes.com/2026/07/16/movies/they-fight-review.html",
-      "published": "2026-07-16T09:01:32+00:00",
-      "summary": "This real-life inspired boxing drama has muscular ambitions, but too little finesse."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Jimmy Fallon Pokes Fun at Joe Biden’s New Memoir",
-      "link": "https://www.nytimes.com/2026/07/16/arts/television/jimmy-fallon-joe-biden-memoir-book.html",
-      "published": "2026-07-16T06:09:54+00:00",
-      "summary": "“It’s the second book Biden has written,” Fallon said of the former president. “The first was ‘The Odyssey.’”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘The Odyssey’ Review: Passion in Every Frame",
-      "link": "https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html",
-      "published": "2026-07-16T03:38:01+00:00",
-      "summary": "Few directors close the divide between the art film and the blockbuster like Christopher Nolan."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Octavia Spencer Believed in Herself Even When Hollywood Didn’t",
-      "link": "https://www.nytimes.com/2026/07/15/arts/television/octavia-spencer-ride-or-die.html",
-      "published": "2026-07-15T09:01:54+00:00",
-      "summary": "It took years for her to be cast as “the main character,” but she considers that the industry’s loss. Her latest series is the action comedy “Ride or Die.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Michelangelo’s Forgotten Renaissance Masterpiece",
-      "link": "https://www.nytimes.com/2026/07/15/arts/design/michelangelos-forgotten-renaissance-masterpiece.html",
-      "published": "2026-07-15T13:54:45+00:00",
-      "summary": "Tired of the David? A trip across Florence to see the small Santo Spirito Crucifix, a tender vision in old wood, is one of the best decisions you could make in your art-journeying life."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Ted Huffman Takes Over the Aix-en-Provence Festival",
-      "link": "https://www.nytimes.com/2026/07/16/arts/music/ted-huffman-aix-en-provence-festival.html",
-      "published": "2026-07-16T09:02:24+00:00",
-      "summary": "Ted Huffman, an American director with a collaborative and exploratory spirit, has taken over the Aix-en-Provence Festival in France."
+      "title": "Finding the Great America, 250 Years On. The Real One.",
+      "link": "https://www.nytimes.com/2026/07/16/arts/design/washington-smithsonian-museums-last-chance-review.html",
+      "published": "2026-07-16T19:43:23+00:00",
+      "summary": "These history-rich shows at the Smithsonian museums are a culturally-representative accounting of this nation’s history, our critic says. See them before they close."
     },
     {
       "source_feed": "NYT Arts",
@@ -611,6 +737,13 @@
       "link": "https://www.nytimes.com/2026/07/16/books/i-want-you-to-be-happy-jem-calder.html",
       "published": "2026-07-16T09:00:16+00:00",
       "summary": "Jem Calder’s novel, “I Want You to Be Happy,” follows the flailing situationship between two aspiring writers with a 12-year age gap."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Jimmy Fallon Pokes Fun at Joe Biden’s New Memoir",
+      "link": "https://www.nytimes.com/2026/07/16/arts/television/jimmy-fallon-joe-biden-memoir-book.html",
+      "published": "2026-07-16T06:09:54+00:00",
+      "summary": "“It’s the second book Biden has written,” Fallon said of the former president. “The first was ‘The Odyssey.’”"
     },
     {
       "source_feed": "NYT Arts",
@@ -630,7 +763,7 @@
       "source_feed": "NYT Arts",
       "title": "Scott Bryce, ‘As the World Turns’ Actor, Dies at 68",
       "link": "https://www.nytimes.com/2026/07/15/arts/television/scott-bryce-dead.html",
-      "published": "2026-07-15T19:09:16+00:00",
+      "published": "2026-07-16T13:28:35+00:00",
       "summary": "He originated the role of the scheming Craig Montgomery and appeared in 280 episodes of the CBS soap opera over more than two decades."
     },
     {
@@ -639,6 +772,13 @@
       "link": "https://www.nytimes.com/2026/07/15/theater/the-potluck-review-cesar-alvarez.html",
       "published": "2026-07-15T16:27:38+00:00",
       "summary": "César Alvarez’s ambitious new work is a mixed musical meal: It wants to be a call to revolutionary action but is surprisingly lacking in it."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘The Odyssey’ Review: Passion in Every Frame",
+      "link": "https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html",
+      "published": "2026-07-16T03:38:01+00:00",
+      "summary": "Few directors close the divide between the art film and the blockbuster like Christopher Nolan."
     },
     {
       "source_feed": "NYT Arts",
@@ -653,6 +793,13 @@
       "link": "https://www.nytimes.com/2026/07/15/theater/hadestown-theater-to-stream.html",
       "published": "2026-07-15T09:02:01+00:00",
       "summary": "Streaming picks include the family-friendly sci-fi adventure “Franklin’s Key” in Philadelphia and “Hamlet” at the Delacorte Theater in Central Park."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Octavia Spencer Believed in Herself Even When Hollywood Didn’t",
+      "link": "https://www.nytimes.com/2026/07/15/arts/television/octavia-spencer-ride-or-die.html",
+      "published": "2026-07-15T09:01:54+00:00",
+      "summary": "It took years for her to be cast as “the main character,” but she considers that the industry’s loss. Her latest series is the action comedy “Ride or Die.”"
     },
     {
       "source_feed": "NYT Arts",
@@ -672,8 +819,15 @@
       "source_feed": "NYT Arts",
       "title": "For the Eclipse or a Weekend, How to Save Money in Reykjavik",
       "link": "https://www.nytimes.com/2026/07/15/travel/how-to-save-money-in-reykjavik.html",
-      "published": "2026-07-15T09:00:52+00:00",
+      "published": "2026-07-15T09:00:53+00:00",
       "summary": "A museum pass, public hot springs and free airline stopovers help shrink the cost of visiting Iceland’s capital."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Michelangelo’s Forgotten Renaissance Masterpiece",
+      "link": "https://www.nytimes.com/2026/07/15/arts/design/michelangelos-forgotten-renaissance-masterpiece.html",
+      "published": "2026-07-15T13:54:45+00:00",
+      "summary": "Tired of the David? A trip across Florence to see the small Santo Spirito Crucifix, a tender vision in old wood, is one of the best decisions you could make in your art-journeying life."
     },
     {
       "source_feed": "NYT Arts",
@@ -686,7 +840,7 @@
       "source_feed": "NYT Arts",
       "title": "A Soundtrack to the 2026 World Cup Semifinals",
       "link": "https://www.nytimes.com/2026/07/14/arts/music/amplifier-newsletter-world-cup-rosalia.html",
-      "published": "2026-07-14T18:00:05+00:00",
+      "published": "2026-07-14T18:00:06+00:00",
       "summary": "Listen to songs from Rosalía, Mauvais Djo, Ca7riel & Paco Amoroso and the Beatles."
     },
     {
@@ -728,7 +882,7 @@
       "source_feed": "NYT Arts",
       "title": "‘Difficult People’ a Decade Later: A Sarcastic Time Capsule",
       "link": "https://www.nytimes.com/2026/07/14/arts/television/difficult-people.html",
-      "published": "2026-07-14T16:44:22+00:00",
+      "published": "2026-07-17T01:57:24+00:00",
       "summary": "This cult comedy about two snide show-business outsiders has a new Blu-ray edition, and a reunion this fall. The creator Julie Klausner discusses why she’d love to revive it."
     },
     {
@@ -749,7 +903,7 @@
       "source_feed": "NYT Arts",
       "title": "What Happens if Pernambuco Wood Becomes Illegal in Music?",
       "link": "https://www.nytimes.com/2026/07/14/arts/music/pernambuco-wood-bows.html",
-      "published": "2026-07-15T18:43:12+00:00",
+      "published": "2026-07-15T18:43:13+00:00",
       "summary": "For centuries, the standard wood used to make string instruments’ bows has come from the pernambuco tree in Brazil. Its future is uncertain."
     },
     {
@@ -810,94 +964,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "A Murder Mystery Evening at Audrey Gelman’s Guesthouse",
-      "link": "https://www.nytimes.com/2026/07/13/theater/murder-mystery-audrey-gelman-wing.html",
-      "published": "2026-07-13T09:02:14+00:00",
-      "summary": "At her Hudson Valley guesthouse, Audrey Gelman, a co-founder of the Wing, channels her childlike love of play with murder mystery evenings."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "Sizzling, Sexy Age-Gap Romance Novels",
       "link": "https://www.nytimes.com/2026/07/13/books/age-gap-romance-books.html",
       "published": "2026-07-14T18:22:54+00:00",
       "summary": "The best-selling author Rachel Lynn Solomon recommends forbidden love stories full of fiery desire, shifting power dynamics and so-wrong-it’s-right drama."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Sam Neill, New Zealand Actor Known for ‘Jurassic Park,’ Dies at 78",
-      "link": "https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html",
-      "published": "2026-07-13T22:05:25+00:00",
-      "summary": "He appeared in more than 150 films and TV shows over a five-decade career, but was perhaps best known for his star turn in the dinosaur blockbuster."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘Lucky’ and 6 More Shows to Watch on TV this Week",
-      "link": "https://www.nytimes.com/2026/07/13/arts/television/lucky-and-6-more-shows-to-watch-on-tv-this-week.html",
-      "published": "2026-07-13T05:00:09+00:00",
-      "summary": "A new crime thriller comes to Apple TV. And Sean Evans hosts “Hot Ones: Extra Heat.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘House of the Dragon’ Season 3, Episode 4 Recap: Heavy Is the Head",
-      "link": "https://www.nytimes.com/2026/07/12/arts/television/house-of-the-dragon-recap-season-3-episode-4.html",
-      "published": "2026-07-13T10:03:36+00:00",
-      "summary": "In her attempts to establish order, Rhaenyra is already alienating some of her most vital allies, including the Sea Snake."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Why Dior’s Jonathan Anderson Is Inspired by Lynda Benglis",
-      "link": "https://www.nytimes.com/2026/07/12/arts/design/lynda-benglis-dior-jonathan-anderson-art.html",
-      "published": "2026-07-12T20:20:52+00:00",
-      "summary": "Lynda Benglis redefined sculpture in the 1960s. No longer overlooked, her audacious talent moves from museums to runways, transformed by Dior’s Jonathan Anderson."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘Moana’ Falters at the Box Office, Casting Doubt on Disney’s Formula",
-      "link": "https://www.nytimes.com/2026/07/12/business/media/moana-box-office-disney.html",
-      "published": "2026-07-12T17:39:04+00:00",
-      "summary": "The live-action remake took in roughly $43 million over the weekend in North America, about 30 percent less than Disney had expected."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Melbourne Symphony Wins Discrimination Case Over Gaza Comments",
-      "link": "https://www.nytimes.com/2026/07/12/arts/music/jayson-gillham-melbourne-symphony-orchestra-gaza.html",
-      "published": "2026-07-13T16:20:03+00:00",
-      "summary": "The pianist Jayson Gillham had sued the orchestra after it canceled his performance in the wake of comments he made against Israel’s war with Hamas."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Fans of ‘Love Island USA’ Ask: ‘Are These Couples for Real?’",
-      "link": "https://www.nytimes.com/2026/07/12/arts/television/love-island-finale-trinity-bryce.html",
-      "published": "2026-07-12T16:34:41+00:00",
-      "summary": "For many viewers of the hit reality TV show, lively debates over whether the competing couples are truly in love is a central part of being a fan."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Don’t Try This at Home: How Performers Turn Stunts Into Movie Magic",
-      "link": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
-      "published": "2026-07-12T14:57:13+00:00",
-      "summary": "At the International Stunt School in Seattle, veterans of TV and film teach newcomers the art of falls, fights and fire."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Yaacov Agam, Who Made Kinetic, Kaleidoscopic Art, Dies at 98",
-      "link": "https://www.nytimes.com/2026/07/11/arts/design/yaacov-agam-dead.html",
-      "published": "2026-07-12T15:02:59+00:00",
-      "summary": "An Israeli artist, he became a global sensation, creating sculptures, paintings, toys and public works that delighted the eye and confounded perception."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "How Good Is Jon Hamm at Playing Jon Hamm?",
-      "link": "https://www.nytimes.com/2026/07/11/movies/actors-playing-themselves-jon-hamm.html",
-      "published": "2026-07-14T20:09:41+00:00",
-      "summary": "Inside the high-wire act of casting celebrities to play themselves, including in movies like “Gail Daughtry and the Celebrity Sex Pass.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Kids Can’t Stop Watching ‘Moana.’ There’s a Scientific Explanation.",
-      "link": "https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html",
-      "published": "2026-07-13T16:59:02+00:00",
-      "summary": "The 2016 release has become the most watched movie on Disney+. Parents and experts explain why kids can’t get enough."
     }
   ]
 }
