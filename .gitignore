@@ -5,3 +5,8 @@ scan/backlog_cases.json
 # Python bytecode cache
 __pycache__/
 *.pyc
+
+# per-run scan artifacts
+scan/retrieval_log.json
+scan/nyt_wapo_verification.txt
+scan/source_report.txt
