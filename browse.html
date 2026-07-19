@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Browse the Index — The Dissensus Index</title>
-  <meta name="description" content="Browse and search the full Dissensus Index — every tracked case of art controversy, filterable by stage and searchable by keyword.">
+  <meta name="description" content="Browse and search the full Dissensus Index — every tracked case of art controversy, searchable by keyword and filterable by tag.">
   <link rel="canonical" href="https://dissensusindex.com/browse.html">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -52,7 +52,7 @@
 </div>
 
 <script>
-let allCases = [], filtered = [], currentPage = 1, activeStage = 0, activeTag = '';
+let allCases = [], filtered = [], currentPage = 1, activeTag = '';
 const perPage = 50;
 
 async function loadData() {
@@ -69,13 +69,6 @@ async function loadData() {
   activeTag = params.get('tag') || '';
   renderActiveTag();
 
-  applyFilters();
-}
-
-function setStage(stage, btn) {
-  activeStage = stage;
-  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
   applyFilters();
 }
 
@@ -116,7 +109,6 @@ function render() {
           <div class="docket-sub">${escHtml(c.institution || c.artist || '')}${c.country ? ' · ' + escHtml(c.country) : ''}</div>
           ${c.tags ? `<div class="docket-tags">${c.tags.split(',').map(t => { const tg = t.trim(); return `<span class="tag" data-tag="${escHtml(tg)}">${escHtml(tg)}</span>`; }).join('')}</div>` : ''}
         </div>
-        <span class="stage-badge stage-${c.stage}">Stage ${c.stage} · ${c.stage_label}</span>
       </a>`).join('');
 
   renderPagination();
