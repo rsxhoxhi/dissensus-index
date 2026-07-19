@@ -133,11 +133,11 @@ this project is built around:
   dispute to that axis is an inference about motive.
 - **No over-hedging.** Don't pile on attribution disclaimers; plain accurate facts are
   enough.
-- **Source provenance — every cited source must be one you actually retrieved.** Every outlet named in a `source` or `outlets` field must have been directly fetched, or returned in a search result, during *this* run. If a source was not retrieved, it may not be listed — restrict the fields to the sources actually obtained, and note the limitation. Never add an outlet because it plausibly or probably covered the story. A real event with only one retrievable source gets one source, not a likely-looking list. Dates come from the retrieved article's own dateline or text, never from inference about relative time.
+- **Source provenance — every cited source must be one you actually retrieved.** Every outlet named in a `source` or `outlets` field must have been directly fetched, or returned in a search result, during *this* run. If a source was not retrieved, it may not be listed — restrict the fields to the sources actually obtained, and note the limitation. Never add an outlet because it plausibly or probably covered the story. A real event with only one retrievable source gets one source, not a likely-looking list. Dates come from the retrieved article's own dateline or text, never from inference about relative time. When an entry draws on more than one retrieved article, put the reference article — the one the entry is drafted from and verified against — in `source`, and the other retrieved-and-used URLs in `additional_sources` (see CLAUDE.md required fields). Populate it from this run’s own ledger: only URLs actually retrieved this run, and only those actually used for claims in the entry — never a thoroughness-display of everything fetched. An entry resting on a single article carries `"additional_sources": []`, which is the normal case, not a deficiency.
 - **All required fields**, per CLAUDE.md's field spec: id, entry_id, seq, title, artist,
   institution, country, governance_type, date fields, description, outcome, tags,
   court_case, coverage_tier, outlets, source, themes, notes,
-  interested_parties, coverage_geography, follow_up_pending. Sub-entries inherit parent
+  interested_parties, coverage_geography, follow_up_pending, additional_sources. Sub-entries inherit parent
   themes unless a case-level reason differs. Use exact dates, never relative ones. Set
   `follow_up_pending: true` with a named note whenever the status speculates about a
   future development.
