@@ -50,8 +50,12 @@ async function loadCase() {
 
   const tags = c.tags ? c.tags.split(',').map(t => { const tg = t.trim(); return `<a class="tag" href="browse.html?tag=${encodeURIComponent(tg)}">${escHtml(tg)}</a>`; }).join('') : '';
 
+  const additionalHtml = (Array.isArray(c.additional_sources) && c.additional_sources.length)
+    ? `<p style="margin-top:0.5rem;font-size:0.8rem;"><strong>Additional coverage:</strong></p>` +
+      c.additional_sources.map(u => `<p style="margin:0.15rem 0 0 0;font-size:0.8rem;"><a href="${escHtml(u)}" target="_blank" rel="noopener" style="color:var(--teal);word-break:break-all;">${escHtml(u)}</a></p>`).join('')
+    : '';
   const sourceHtml = c.source && c.source !== 'nan'
-    ? `<p style="margin-top:1rem;font-size:0.8rem;"><strong>Primary source:</strong> <a href="${escHtml(c.source)}" target="_blank" rel="noopener" style="color:var(--teal);word-break:break-all;">${escHtml(c.source)}</a></p>`
+    ? `<p style="margin-top:1rem;font-size:0.8rem;"><strong>Source:</strong> <a href="${escHtml(c.source)}" target="_blank" rel="noopener" style="color:var(--teal);word-break:break-all;">${escHtml(c.source)}</a></p>`
     : '';
 
   // Coverage scope — the outlets that covered this controversy
@@ -94,6 +98,7 @@ async function loadCase() {
     ${outletsHtml}
 
     ${sourceHtml}
+    ${additionalHtml}
 
     <div style="margin-top:2rem;padding-top:1rem;border-top:0.5px solid var(--ink-rule);font-family:var(--mono);font-size:0.65rem;color:var(--ink-light);">
       Cite as: Dissensus Index, case ${escHtml(c.id)}, observed Summer 2026, methodology v1.0. dissensusindex.com/case.html?id=${encodeURIComponent(c.id)}

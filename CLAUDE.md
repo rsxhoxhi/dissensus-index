@@ -59,8 +59,16 @@ the spreadsheet and they must not be dropped again.
 `description`, `outcome`, `tags`, `court_case`, `coverage_tier`, `outlets`,
 `source`
 
-**Five fields now mandatory on every new entry:**
+**Six fields now mandatory on every new entry:**
 
+- `additional_sources` — JSON array of URLs for other articles retrieved this
+  run and actually used for claims in the entry; `[]` if none. `source` remains
+  the reference article — the piece the entry was drafted from and verified
+  against. Field position claims nothing about which outlet broke the story;
+  breaking-credit belongs in the description, attributed to its source. Every
+  URL here must satisfy the provenance gate (a non-blocked ledger record this
+  run). Do not pad — this is not a display of everything retrieved. Prospective
+  from July 2026; pre-existing entries are not backfilled.
 - `themes` — JSON array of Dissensus theme numbers, e.g. `[2, 4, 8]`. Use `[]`
   if none fit. Sub-entries copy the parent's themes unless there is a specific
   case-level reason to differ.
