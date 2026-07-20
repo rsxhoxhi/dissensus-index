@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 505
+    "total_cases": 506
   },
   "cases": [
     {
@@ -5694,6 +5694,43 @@
       "interested_parties": "Elizabeth Ferrer (Chicana curator, The Cheech Marin Center; Hyperallergic op-ed); Texas Observer (reporting); NPS (Chavez National Monument manager); California farmworker communities; Texas farmworker communities; United Farm Workers; Dolores Huerta",
       "coverage_geography": "US (national)",
       "follow_up_pending": false
+    },
+    {
+      "id": "ACI-016-B",
+      "entry_id": "016-B",
+      "seq": 541,
+      "title": "Cesar Chavez monuments/murals/namings (nationwide) — San Fernando memorial mural defaced and left exposed",
+      "artist": "Ignacio Gómez Jr. (muralist)",
+      "institution": "César Chávez Memorial Park, San Fernando, CA",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 2026 (mural defacement reported July 8, 2026)",
+      "date_discovered": "2026-07-20",
+      "sort_date": "2026-07-20",
+      "description": "UPDATE to the San Fernando strand of the Chavez reckoning. After the city removed its bronze Cesar Chavez statue in March 2026 (following the New York Times investigation of sexual-abuse allegations), the adjacent 100-foot memorial mural by Ignacio Gómez Jr. — who also designed the removed statue — was defaced with blue paint over Chavez's face and covered with a tarp. Per the San Fernando Sun (July 8, 2026), the tarp was subsequently removed, leaving the defaced mural exposed to public view and further deterioration. The city had earlier indicated it would ask Gómez to return and modify the mural to remove Chavez's image; that alteration had not occurred as of the report. City councilmember Sean M. Rivas is quoted calling for community dialogue over the memorial's future.",
+      "outcome": "Mural defaced and left exposed; no decision reported on whether the artist will alter the work or the city will restore, remove, or replace it. [FOLLOW-UP PENDING: the city's resolution on the mural — restoration, artist-led alteration, or removal — and any formal community-dialogue process.]",
+      "tags": [
+        "Vandalism",
+        "Community objection",
+        "Historical erasure",
+        "Racial/ethnic sensitivity"
+      ],
+      "court_case": "No",
+      "coverage_tier": "Local",
+      "outlets": [
+        "San Fernando Valley Sun"
+      ],
+      "source": "https://sanfernandosun.com/2026/07/08/el-mural-de-cesar-chavez-se-ha-convertido-en-un-foco-de-controversia-y-mal-aspecto/",
+      "additional_sources": [],
+      "themes": [
+        6,
+        8,
+        9
+      ],
+      "notes": "Sub-entry of ACI-016 (cf. ACI-016-A). Parent already notes 'artists painting over faces in murals' as sanctioned/artist-led alteration; this entry logs the distinct later development of the San Fernando mural being defaced by unauthorized paint and left exposed. Single-source (San Fernando Sun, hyperlocal) this run — flagged thin, enrich on a US-local trawl day (Tue/Fri) with any regional pickup. Vandalism tag per the anonymity-is-constitutive principle; motive of the paint-over is unestablished, so no Iconoclasm tag applied.",
+      "interested_parties": "Ignacio Gómez Jr. (muralist and designer of the removed statue); Sean M. Rivas (San Fernando city councilmember); César Chávez Commemorative Committee (reported dissolved); Dolores Huerta",
+      "coverage_geography": "US (local)",
+      "follow_up_pending": true
     },
     {
       "id": "ACI-095-B",
