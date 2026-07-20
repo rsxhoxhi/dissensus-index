@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 507
+    "total_cases": 506
   },
   "cases": [
     {
@@ -2146,35 +2146,6 @@
       "notes": "[FOLLOW-UP PENDING] Lateral iconoclasm (warfare / peer-actor) update to 167. The escalation here is institutional response — UNESCO moving from confirmation (June 9) to increased support (June 10). Watch for a formal UNESCO mission, enhanced-protection requests under the 1954 Hague Convention, or a damage assessment figure.",
       "interested_parties": "UNESCO; Lebanese Ministry of Culture; international heritage organizations; IDF",
       "coverage_geography": "International heritage press (The Art Newspaper); Lebanese + regional outlets",
-      "follow_up_pending": true
-    },
-    {
-      "id": "ACI-132-A",
-      "entry_id": "132-A",
-      "seq": 384,
-      "title": "N/A (prediction / betting markets on art-auction results)",
-      "artist": "N/A (platform: Kalshi)",
-      "institution": "Kalshi (prediction-market platform)",
-      "country": "United States",
-      "governance_type": "Democracy",
-      "date_controversy": "June 2026",
-      "date_discovered": "June 11, 2026",
-      "sort_date": "2026-06-11",
-      "description": "Prediction platform Kalshi is launching a dedicated art category, letting users wager on art-market outcomes (e.g., auction results). The move arrives amid heightened scrutiny over insider trading in wagers across multiple industries.",
-      "outcome": "Kalshi launching a dedicated art category as of June 2026; insider-trading concerns raised. Regulatory response, if any, developing.",
-      "tags": "Financialization, Market opacity",
-      "court_case": "No",
-      "coverage_tier": "National",
-      "outlets": [
-        "Hyperallergic"
-      ],
-      "source": "https://hyperallergic.com/is-betting-on-the-art-market-a-terrible-idea/",
-      "themes": [
-        10
-      ],
-      "notes": "[FOLLOW-UP PENDING] Enriches parent 132. The \"insider trading\" worry is the sharp Theme 10 edge: a market thin enough and opaque enough that a handful of informed players can move outcomes — art-as-pure-wagering-instrument. Pairs with 168 (Pace/financialization) and 057 (art-as-asset fraud). Watch for CFTC or comparable regulatory comment.",
-      "interested_parties": "Kalshi; art-market participants; regulators; Hyperallergic",
-      "coverage_geography": "US art + business press (Hyperallergic)",
       "follow_up_pending": true
     },
     {
@@ -4385,7 +4356,10 @@
       "notes": "[FOLLOW-UP PENDING] Thin entry from ARTnews outlet scan — flag for enrichment. A clean, novel Theme 10 case: art treated purely as a wagering instrument, one further abstraction beyond the tokenization / flipping already in the cluster. Analytical question: what is lost when an artwork's sale becomes a gambling event detached from the work itself? Watch volume, which artists/lots are listed, auction-house response, and CFTC posture.",
       "interested_parties": "Kalshi; bettors / speculators; auction houses (Christie's, Sotheby's, Phillips); collectors; CFTC / regulators",
       "coverage_geography": "National US art / finance press (ARTnews)",
-      "follow_up_pending": true
+      "follow_up_pending": true,
+      "additional_sources": [
+        "https://hyperallergic.com/is-betting-on-the-art-market-a-terrible-idea/"
+      ]
     },
     {
       "id": "ACI-125-A",
