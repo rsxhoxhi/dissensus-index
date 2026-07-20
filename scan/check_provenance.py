@@ -28,8 +28,10 @@ LEDGER_PATH = Path(__file__).parent / "retrieval_log.json"
 
 DOMAIN_TO_OUTLET = {
     "artnews.com": "ARTnews",
+    "artforum.com": "Artforum",
     "hyperallergic.com": "Hyperallergic",
     "theartnewspaper.com": "The Art Newspaper",
+    "middleeasteye.net": "Middle East Eye",
     "nytimes.com": "New York Times",
     "washingtonpost.com": "Washington Post",
     "theguardian.com": "The Guardian",

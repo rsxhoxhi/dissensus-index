@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T21:54:05.707938+00:00",
+  "generated_at": "2026-07-20T01:39:36.000218+00:00",
   "window_hours": 96,
   "feed_summary": [
     {
@@ -22,9 +22,9 @@
       "feed": "The Art Newspaper",
       "status": "ok",
       "total_in_feed": 61,
-      "in_window": 18,
-      "new_candidates": 15,
-      "already_logged": 3
+      "in_window": 12,
+      "new_candidates": 10,
+      "already_logged": 2
     },
     {
       "feed": "Artforum",
@@ -38,17 +38,17 @@
       "feed": "The Guardian (art)",
       "status": "ok",
       "total_in_feed": 23,
-      "in_window": 13,
-      "new_candidates": 13,
+      "in_window": 11,
+      "new_candidates": 11,
       "already_logged": 0
     },
     {
       "feed": "NYT Arts",
       "status": "ok",
       "total_in_feed": 64,
-      "in_window": 56,
-      "new_candidates": 55,
-      "already_logged": 1
+      "in_window": 54,
+      "new_candidates": 54,
+      "already_logged": 0
     }
   ],
   "candidates": [
@@ -166,17 +166,17 @@
     },
     {
       "source_feed": "ARTnews",
-      "title": "Shanghai Auction Executives Sentenced in Major Fraud Case as Industry Scrutiny Intensifies",
-      "link": "https://www.artnews.com/art-news/news/shanghai-auction-executives-sentenced-in-major-fraud-case-1234792736/",
-      "published": "2026-07-17T17:59:51+00:00",
-      "summary": "In a related case, a collector was allegedly duped into buying back his own artwork after consigning it to an auction house."
-    },
-    {
-      "source_feed": "ARTnews",
       "title": "Strong First Half Numbers Confirm That the Auction Houses Have Changed, Even If the Rest of the Art Market Is Still Catching Up",
       "link": "https://www.artnews.com/art-news/market/auction-house-h1-results-art-market-analysis-2026-1234792333/",
       "published": "2026-07-17T16:57:02+00:00",
       "summary": "Part of the answer may be that they adapted more quickly."
+    },
+    {
+      "source_feed": "ARTnews",
+      "title": "Democrats Move to Shield Landmarks, Russian Artist’s Refugee Status, and More",
+      "link": "https://www.artnews.com/art-news/news/russian-artist-refugee-status-pyotr-pavlensky-morning-links-1234792725/",
+      "published": "2026-07-17T16:02:34+00:00",
+      "summary": "France considers withdrawing Russian performance artist Pyotr Pavlensky’s refugee status."
     },
     {
       "source_feed": "ARTnews",
@@ -208,7 +208,7 @@
     },
     {
       "source_feed": "The Art Newspaper",
-      "title": "Whereabouts of Cuban artist-activist Luis Manuel Otero Alcántara remain unknown following end of prison sentence",
+      "title": "Cuban artist-activist Luis Manuel Otero Alcántara travels to Miami following end of prison sentence",
       "link": "https://www.theartnewspaper.com/2026/07/17/whereabouts-of-cuban-artist-activist-luis-manuel-otero-alcantara-remain-unknown-following-end-of-prison-sentence",
       "published": "2026-07-17T15:13:20+00:00",
       "summary": "A friend of the artist believes he is being held in government custody before being expelled from Cuba, while a human rights organisation has filed a legal petition for his release"
@@ -275,41 +275,6 @@
       "link": "https://www.theartnewspaper.com/2026/07/16/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft",
       "published": "2026-07-16T08:44:37+00:00",
       "summary": "Show at the Jewish Museum looks at the movement founded by members of the Vienna Secession, who rejected Bauhaus's mass-production ethos"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "James Cohan Gallery becomes Norr Cohan as founders step back",
-      "link": "https://www.theartnewspaper.com/2026/07/15/james-cohan-gallery-becomes-norr-cohan-as-founders-step-back",
-      "published": "2026-07-15T16:08:02+00:00",
-      "summary": "Longtime senior director David Norr assumes sole ownership following a years-long leadership transition"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Jacolby Satterwhite awarded inaugural Artists Living with Cancer Grant",
-      "link": "https://www.theartnewspaper.com/2026/07/15/jacolby-satterwhite-inaugural-artists-living-with-cancer-grant",
-      "published": "2026-07-15T16:00:15+00:00",
-      "summary": "The new grant, funded by the Robert Rauschenberg Foundation and the Rema Hort Mann Fund, supports New York City artists undergoing cancer treatment"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Zimmerli Art Museum in New Jersey receives gift of 70 modern and contemporary works",
-      "link": "https://www.theartnewspaper.com/2026/07/15/zimmerli-art-museum-receives-gift-of-70-modern-and-contemporary-works",
-      "published": "2026-07-15T15:00:00+00:00",
-      "summary": "The donation—from the museum’s long-time patrons Anne and Arthur Goldstein—includes works by Mark Bradford, Nicole Eisenman and Takeshi Kawashima"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Christie’s and Sotheby’s 2026 half year results: trophy lots and luxury goods fuel rebound",
-      "link": "https://www.theartnewspaper.com/2026/07/15/trophy-lots-and-luxury-goods-fuel-rebound-for-christies-and-sothebys-2026-half-year-results",
-      "published": "2026-07-15T12:15:18+00:00",
-      "summary": "Private sales and flexible financing arrangements are also helping the businesses shore up their bottom lines"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "V&A reveals 2027 exhibitions, ranging from South Asian contemporary art and textiles to punk music and fashion",
-      "link": "https://www.theartnewspaper.com/2026/07/15/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion",
-      "published": "2026-07-15T12:12:11+00:00",
-      "summary": "Exhibitions on chintz, ceramics, and pop culture will headline in South Kensington, while South Asian contemporary art and Vivienne Westwood will feature at the museum's east London and Dundee locations, respectively"
     },
     {
       "source_feed": "Artforum",
@@ -390,6 +355,13 @@
     },
     {
       "source_feed": "The Guardian (art)",
+      "title": "Sphinxes, movie stars and 3m books: inside Los Angeles’s beloved art deco library",
+      "link": "https://www.theguardian.com/us-news/2026/jul/19/los-angeles-central-libarary-centenary",
+      "published": "2026-07-19T12:00:27+00:00",
+      "summary": "The showcase library’s centenary was celebrated by thousands who filled the still-relevant public institutionThe central library in downtown Los Angeles has seen its fair share of colorful moments.The architectural gem, which turned 100 this week, has been the backdrop to the epic street battle betw…"
+    },
+    {
+      "source_feed": "The Guardian (art)",
       "title": "‘As individuals, we keep ourselves in cages, without connecting to others’: Jibak Bhattacharya’s best phone picture",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jul/18/jibak-bhattacharya-best-phone-picture",
       "published": "2026-07-18T10:00:00+00:00",
@@ -432,13 +404,6 @@
     },
     {
       "source_feed": "The Guardian (art)",
-      "title": "‘I’m not into leather at all!’: John Wood on privately photographing Glasgow’s gay underground, and the comparisons with Robert Mapplethorpe",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/17/john-wood-photographer-solo-show-in-glasgow",
-      "published": "2026-07-17T08:19:05+00:00",
-      "summary": "He was a telecoms engineer by day – and documented the Scottish city’s leather scene by night. Now the 79-year-old has opened his erotic archives and received his first ever solo exhibitionWhat is the story behind John Wood’s photographs? Some might guess that his portraits, which capture male subje…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
       "title": "Madelon Vriesendorp review – sex-crazed visions of skyscrapers copulating",
       "link": "https://www.theguardian.com/artanddesign/2026/jul/16/madelon-vriesendorp-review-sir-john-soanes-museum-london-skyscrapers",
       "published": "2026-07-16T10:04:40+00:00",
@@ -446,10 +411,10 @@
     },
     {
       "source_feed": "The Guardian (art)",
-      "title": "Backyard Biennial: East review – this morose and meaningless exhibition gave me a migraine",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/15/backyard-biennial-east-review-whitechapel-gallery-london",
-      "published": "2026-07-15T16:09:29+00:00",
-      "summary": "Whitechapel Gallery, LondonI feel bad for the artists whose work has been crowbarred into a wonky show about migration, protest, climate and identityIt’s rare that an exhibition is so bad you feel compelled to text a friend saying “you wouldn’t believe the garbage I just saw” as soon as you get out.…"
+      "title": "‘I’m not into leather at all!’: John Wood on privately photographing Glasgow’s gay underground, and the comparisons with Robert Mapplethorpe",
+      "link": "https://www.theguardian.com/artanddesign/2026/jul/17/john-wood-photographer-solo-show-in-glasgow",
+      "published": "2026-07-17T08:19:05+00:00",
+      "summary": "He was a telecoms engineer by day – and documented the Scottish city’s leather scene by night. Now the 79-year-old has opened his erotic archives and received his first ever solo exhibitionWhat is the story behind John Wood’s photographs? Some might guess that his portraits, which capture male subje…"
     },
     {
       "source_feed": "The Guardian (art)",
@@ -460,20 +425,6 @@
     },
     {
       "source_feed": "The Guardian (art)",
-      "title": "Before the gold rush: a South African story – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/15/before-the-gold-rush-a-south-african-story-in-pictures-robin-bernstein-mapalakata",
-      "published": "2026-07-15T06:00:46+00:00",
-      "summary": "Robin Bernstein’s debut book Mapalakata takes us to the edge of the South African frontier to tell a story inspired by folk tales and historical artefacts Continue reading..."
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "‘The world wasn’t ready for me’: Del LaGrace Volcano on photographing S&M scenes, leather-clad lesbians and a drag king self-portrait",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/15/del-lagrace-volcano-photography-s-and-m-leather-lesbians-drag-king",
-      "published": "2026-07-15T04:00:46+00:00",
-      "summary": "Their scandalous work was once banned. Now it’s in museums. The photographer talks about a lifetime defying conformity – and their ‘very active’ sex lifeThe peaceful Swedish city of Örebro is not where you might expect to find Del LaGrace Volcano, the US photographer known for their subversive image…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
       "title": "Renzo Piano’s giant glass cube towers over the rest of the Stirling prize’s samey brick-built shortlist",
       "link": "https://www.theguardian.com/artanddesign/2026/jul/16/stirling-prize-2026-paddington-square-brick-shortlist",
       "published": "2026-07-16T08:00:17+00:00",
@@ -481,17 +432,17 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "It’s a Crowded and Contested World Cup Halftime Show",
-      "link": "https://www.nytimes.com/2026/07/18/arts/music/world-cup-halftime-show.html",
-      "published": "2026-07-18T11:28:39+00:00",
-      "summary": "Madonna, Justin Bieber, Shakira, BTS and more will perform in a new tournament festivity. Soccer purists aren’t singing praises."
+      "title": "First World Cup Halftime Show: Lots of Stars, Little Purpose",
+      "link": "https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html",
+      "published": "2026-07-19T21:56:27+00:00",
+      "summary": "The performers valiantly attempted to justify the existence of the show, which was impeccably choreographed and thematically jumbled."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "What to Know Before Seeing ‘The Odyssey’: Plot, Characters and More",
-      "link": "https://www.nytimes.com/2026/07/18/movies/the-odyssey-plot-characters-trojan-war.html",
-      "published": "2026-07-18T09:00:46+00:00",
-      "summary": "Christopher Nolan’s adaptation of Homer’s epic poem has monster battles, a sorceress and dozens of thirsty suitors. Here’s a primer."
+      "title": "How Kerry Washington and Whitney White Are Honoring Whoopi Goldberg Through Theater",
+      "link": "https://www.nytimes.com/2026/07/19/theater/whoopi-goldberg-kerry-washington-whoopi-monologues.html",
+      "published": "2026-07-19T09:00:52+00:00",
+      "summary": "The actress Kerry Washington and the director Whitney White want to honor Goldberg’s theatrical legacy by revisiting her acclaimed portraits of humanity."
     },
     {
       "source_feed": "NYT Arts",
@@ -509,9 +460,23 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend",
+      "link": "https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html",
+      "published": "2026-07-19T16:54:07+00:00",
+      "summary": "Christopher Nolan’s nearly three-hour epic was No. 1 over the weekend, with about $124.5 million in ticket sales in the United States and Canada."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "What to Know Before Seeing ‘The Odyssey’: Plot, Characters and More",
+      "link": "https://www.nytimes.com/2026/07/18/movies/the-odyssey-plot-characters-trojan-war.html",
+      "published": "2026-07-18T09:00:46+00:00",
+      "summary": "Christopher Nolan’s adaptation of Homer’s epic poem has monster battles, a sorceress and dozens of thirsty suitors. Here’s a primer."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "Has the World Cup Turned Me Into … a Sports Guy?",
       "link": "https://www.nytimes.com/2026/07/17/arts/television/world-cup.html",
-      "published": "2026-07-17T18:32:50+00:00",
+      "published": "2026-07-17T18:32:51+00:00",
       "summary": "The pleasures of watching the TV show of the summer as a bandwagon fan."
     },
     {
@@ -532,21 +497,21 @@
       "source_feed": "NYT Arts",
       "title": "Blockbuster Summer Movies for the Hottest Summer Ever",
       "link": "https://www.nytimes.com/2026/07/18/arts/hottest-summer-blockbuster-movies-sketch.html",
-      "published": "2026-07-18T09:01:33+00:00",
+      "published": "2026-07-18T09:01:34+00:00",
       "summary": "“Iron Man 4: Age of Air Con” coming to theaters? With record-setting heat projected for 2026, our cartoonist imagines a cool slate of films."
     },
     {
       "source_feed": "NYT Arts",
       "title": "The Rediscovery of Country Original Gary Stewart",
       "link": "https://www.nytimes.com/2026/07/17/arts/music/gary-stewart-country-music.html",
-      "published": "2026-07-17T09:00:58+00:00",
+      "published": "2026-07-19T03:25:32+00:00",
       "summary": "Gary Stewart spent a few years on top, but was largely forgotten after his tragic death in 2003. Now a new generation is rediscovering the onetime “king of honky-tonk.”"
     },
     {
       "source_feed": "NYT Arts",
       "title": "The Internet’s Steve Lacy, Syd and Matt Martians Discuss New Music",
       "link": "https://www.nytimes.com/2026/07/17/arts/music/internet-syd-steve-lacy-interview.html",
-      "published": "2026-07-17T19:57:31+00:00",
+      "published": "2026-07-19T16:59:04+00:00",
       "summary": "The band members Steve Lacy and Syd, both of whom have new solo albums out now, reunite with the producer Matt Martians to discuss achieving TikTok fame, writing a Beyoncé song and staying a family."
     },
     {
@@ -565,17 +530,52 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘Heartstopper Forever’: What to Know Before Seeing the Movie",
-      "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-movie-what-to-know.html",
-      "published": "2026-07-18T19:45:48+00:00",
-      "summary": "The Netflix series and its feature-length finale are based on the graphic novels by Alice Oseman. Here’s a reminder of the events of the characters and where their stories left off."
+      "title": "Burna Boy is one of the biggest stars to emerge from Africa.",
+      "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/burna-boy-is-one-of-the-biggest-stars-to-emerge-from-africa",
+      "published": "2026-07-19T19:45:03+00:00",
+      "summary": ""
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Mark Morris: A Little Bit Country, a Little Bit Jazz",
-      "link": "https://www.nytimes.com/2026/07/17/arts/dance/mark-morris-dances-to-american-music.html",
-      "published": "2026-07-17T17:18:02+00:00",
-      "summary": "Morris’s dance troupe presents “Dances to American Music,” three programs at the Joyce Theater."
+      "title": "Gustavo Dudamel will lead a tribute to victims in Venezuela.",
+      "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/gustavo-dudamel-will-lead-a-tribute-to-victims-in-venezuela",
+      "published": "2026-07-19T19:40:04+00:00",
+      "summary": ""
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Justin Bieber’s year has been filled with high-profile performances.",
+      "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/justin-biebers-year-has-been-filled-with-high-profile-performances",
+      "published": "2026-07-19T19:35:04+00:00",
+      "summary": ""
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/heres-the-latest",
+      "published": "2026-07-19T21:36:51+00:00",
+      "summary": ""
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Shakira’s ‘Dai Dai’ is the official anthem of the tournament.",
+      "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/shakiras-dai-dai-is-the-official-anthem-of-the-tournament",
+      "published": "2026-07-19T19:30:28+00:00",
+      "summary": ""
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "BTS brings K-pop to a global stage.",
+      "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/bts-brings-k-pop-to-a-global-stage",
+      "published": "2026-07-19T19:30:27+00:00",
+      "summary": ""
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Madonna, a veteran of big stages, just released a new album.",
+      "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/madonna-a-veteran-of-big-stages-just-released-a-new-album",
+      "published": "2026-07-19T19:30:26+00:00",
+      "summary": ""
     },
     {
       "source_feed": "NYT Arts",
@@ -586,9 +586,16 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "It Was a Crowded and Contested World Cup Halftime Show",
+      "link": "https://www.nytimes.com/2026/07/18/arts/music/world-cup-halftime-show.html",
+      "published": "2026-07-20T00:23:06+00:00",
+      "summary": "Madonna, Justin Bieber, Shakira, BTS and more will perform in a new tournament festivity. Soccer purists aren’t singing praises."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "The Surprising Parallels Between ‘The Odyssey’ and ‘Oppenheimer’",
       "link": "https://www.nytimes.com/video/movies/100000010926537/odyssey-oppenheimer.html",
-      "published": "2026-07-18T09:00:27+00:00",
+      "published": "2026-07-19T23:37:49+00:00",
       "summary": "Our movie critic Alissa Wilkinson describes how Christopher Nolan’s version of “The Odyssey” builds on key themes in his previous film “Oppenheimer.”"
     },
     {
@@ -597,6 +604,13 @@
       "link": "https://www.nytimes.com/2026/07/17/movies/brenda-fricker-dead.html",
       "published": "2026-07-17T17:41:57+00:00",
       "summary": "She won for playing a stoic mother in “My Left Foot” and achieved cult status as a pigeon whisperer in Central Park in “Home Alone 2.”"
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Mark Morris: A Little Bit Country, a Little Bit Jazz",
+      "link": "https://www.nytimes.com/2026/07/17/arts/dance/mark-morris-dances-to-american-music.html",
+      "published": "2026-07-17T17:18:02+00:00",
+      "summary": "Morris’s dance troupe presents “Dances to American Music,” three programs at the Joyce Theater."
     },
     {
       "source_feed": "NYT Arts",
@@ -632,6 +646,13 @@
       "link": "https://www.nytimes.com/2026/07/17/theater/shifters-review.html",
       "published": "2026-07-17T09:01:05+00:00",
       "summary": "Des (Heather Agyepong) and Dre (Daniel Ezra), navigate a mutual magnetic pull in this British love story by Benedict Lombe at Cherry Lane Theater."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘Heartstopper Forever’: What to Know Before Seeing the Movie",
+      "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-movie-what-to-know.html",
+      "published": "2026-07-18T19:45:48+00:00",
+      "summary": "The Netflix series and its feature-length finale are based on the graphic novels by Alice Oseman. Here’s a reminder of the events of the characters and where their stories left off."
     },
     {
       "source_feed": "NYT Arts",
@@ -768,31 +789,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "PEN America Defends Israel Article That Led to President’s Resignation",
-      "link": "https://www.nytimes.com/2026/07/15/arts/pen-america-israel-gaza-report.html",
-      "published": "2026-07-15T21:26:49+00:00",
-      "summary": "A co-chief executive of the free expression group said a recent article about Israeli and Jewish writers had been “critical” to pursue."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "The Good List: 6 Things to Add Some Delight to Your Day",
-      "link": "https://www.nytimes.com/2026/07/15/briefing/15-the-good-list-odyssey-elizabeth-gilbert.html",
-      "published": "2026-07-15T19:57:10+00:00",
-      "summary": "Odysseus’ social network, performative boredom and decorated envelopes."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "Scott Bryce, ‘As the World Turns’ Actor, Dies at 68",
       "link": "https://www.nytimes.com/2026/07/15/arts/television/scott-bryce-dead.html",
       "published": "2026-07-16T13:28:35+00:00",
       "summary": "He originated the role of the scheming Craig Montgomery and appeared in 280 episodes of the CBS soap opera over more than two decades."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘The Potluck’ Review: The Greensboro Massacre, and a Heavy Legacy to Bear",
-      "link": "https://www.nytimes.com/2026/07/15/theater/the-potluck-review-cesar-alvarez.html",
-      "published": "2026-07-15T16:27:38+00:00",
-      "summary": "César Alvarez’s ambitious new work is a mixed musical meal: It wants to be a call to revolutionary action but is surprisingly lacking in it."
     },
     {
       "source_feed": "NYT Arts",
@@ -803,66 +803,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘Heartstopper Forever’: Growing Up, and Staying True to Themselves",
-      "link": "https://www.nytimes.com/2026/07/15/arts/television/heartstopper-forever.html",
-      "published": "2026-07-15T09:02:09+00:00",
-      "summary": "Like “Heated Rivalry,” this beloved Netflix romance has a big-hearted ethos. It’s bringing that spirit to a new film that rounds out a teenage TV hit."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘Hadestown’ Hits Movie Theaters, and Theater to Stream in July",
-      "link": "https://www.nytimes.com/2026/07/15/theater/hadestown-theater-to-stream.html",
-      "published": "2026-07-15T09:02:01+00:00",
-      "summary": "Streaming picks include the family-friendly sci-fi adventure “Franklin’s Key” in Philadelphia and “Hamlet” at the Delacorte Theater in Central Park."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Octavia Spencer Believed in Herself Even When Hollywood Didn’t",
-      "link": "https://www.nytimes.com/2026/07/15/arts/television/octavia-spencer-ride-or-die.html",
-      "published": "2026-07-15T09:01:54+00:00",
-      "summary": "It took years for her to be cast as “the main character,” but she considers that the industry’s loss. Her latest series is the action comedy “Ride or Die.”"
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "Robert Wilson’s Watermill Center Without Robert Wilson",
       "link": "https://www.nytimes.com/2026/07/15/arts/dance/robert-wilson-watermill-center.html",
       "published": "2026-07-16T01:40:31+00:00",
       "summary": "“When I’m no longer living, can this place exist?” Robert Wilson wondered in a film about his Long Island art incubator. This month, its annual festival will go on without him."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "On ‘Caribenya,’ Lido Pimienta Found a Lifeline",
-      "link": "https://www.nytimes.com/2026/07/15/arts/music/lido-pimienta-new-album-caribenya.html",
-      "published": "2026-07-15T09:01:30+00:00",
-      "summary": "On Lido Pimienta’s new album, “Caribenya,” the Colombian Canadian musician sought a warmer, more complex depiction of Caribbean culture. Creating it helped her rediscover the beauty of living."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "For the Eclipse or a Weekend, How to Save Money in Reykjavik",
-      "link": "https://www.nytimes.com/2026/07/15/travel/how-to-save-money-in-reykjavik.html",
-      "published": "2026-07-15T09:00:53+00:00",
-      "summary": "A museum pass, public hot springs and free airline stopovers help shrink the cost of visiting Iceland’s capital."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Michelangelo’s Forgotten Renaissance Masterpiece",
-      "link": "https://www.nytimes.com/2026/07/15/arts/design/michelangelos-forgotten-renaissance-masterpiece.html",
-      "published": "2026-07-15T13:54:45+00:00",
-      "summary": "Tired of the David? A trip across Florence to see the small Santo Spirito Crucifix, a tender vision in old wood, is one of the best decisions you could make in your art-journeying life."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Late Night Calls Lindsey Graham’s Senate Seat ‘an Inheritance Jackpot’",
-      "link": "https://www.nytimes.com/2026/07/15/arts/television/late-night-lindsey-graham-sister-senator.html",
-      "published": "2026-07-15T05:41:11+00:00",
-      "summary": "“A Senate seat? Most people just get a garage full of damp boxes,” Michael Kosta said of Graham’s sister filling the late senator’s seat on “The Daily Show.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘Difficult People’ a Decade Later: A Sarcastic Time Capsule",
-      "link": "https://www.nytimes.com/2026/07/14/arts/television/difficult-people.html",
-      "published": "2026-07-17T01:57:24+00:00",
-      "summary": "This cult comedy about two snide show-business outsiders has a new Blu-ray edition, and a reunion this fall. The creator Julie Klausner discusses why she’d love to revive it."
     }
   ]
 }
