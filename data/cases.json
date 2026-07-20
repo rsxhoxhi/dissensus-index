@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 505
+    "total_cases": 507
   },
   "cases": [
     {
@@ -5694,6 +5694,43 @@
       "interested_parties": "Elizabeth Ferrer (Chicana curator, The Cheech Marin Center; Hyperallergic op-ed); Texas Observer (reporting); NPS (Chavez National Monument manager); California farmworker communities; Texas farmworker communities; United Farm Workers; Dolores Huerta",
       "coverage_geography": "US (national)",
       "follow_up_pending": false
+    },
+    {
+      "id": "ACI-016-B",
+      "entry_id": "016-B",
+      "seq": 541,
+      "title": "Cesar Chavez monuments/murals/namings (nationwide) — San Fernando memorial mural defaced and left exposed",
+      "artist": "Ignacio Gómez Jr. (muralist)",
+      "institution": "César Chávez Memorial Park, San Fernando, CA",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "July 2026 (mural defacement reported July 8, 2026)",
+      "date_discovered": "2026-07-20",
+      "sort_date": "2026-07-20",
+      "description": "UPDATE to the San Fernando strand of the Chavez reckoning. After the city removed its bronze Cesar Chavez statue in March 2026 (following the New York Times investigation of sexual-abuse allegations), the adjacent 100-foot memorial mural by Ignacio Gómez Jr. — who also designed the removed statue — was defaced with blue paint over Chavez's face and covered with a tarp. Per the San Fernando Sun (July 8, 2026), the tarp was subsequently removed, leaving the defaced mural exposed to public view and further deterioration. The city had earlier indicated it would ask Gómez to return and modify the mural to remove Chavez's image; that alteration had not occurred as of the report. City councilmember Sean M. Rivas is quoted calling for community dialogue over the memorial's future.",
+      "outcome": "Mural defaced and left exposed; no decision reported on whether the artist will alter the work or the city will restore, remove, or replace it. [FOLLOW-UP PENDING: the city's resolution on the mural — restoration, artist-led alteration, or removal — and any formal community-dialogue process.]",
+      "tags": [
+        "Vandalism",
+        "Community objection",
+        "Historical erasure",
+        "Racial/ethnic sensitivity"
+      ],
+      "court_case": "No",
+      "coverage_tier": "Local",
+      "outlets": [
+        "San Fernando Valley Sun"
+      ],
+      "source": "https://sanfernandosun.com/2026/07/08/el-mural-de-cesar-chavez-se-ha-convertido-en-un-foco-de-controversia-y-mal-aspecto/",
+      "additional_sources": [],
+      "themes": [
+        6,
+        8,
+        9
+      ],
+      "notes": "Sub-entry of ACI-016 (cf. ACI-016-A). Parent already notes 'artists painting over faces in murals' as sanctioned/artist-led alteration; this entry logs the distinct later development of the San Fernando mural being defaced by unauthorized paint and left exposed. Single-source (San Fernando Sun, hyperlocal) this run — flagged thin, enrich on a US-local trawl day (Tue/Fri) with any regional pickup. Vandalism tag per the anonymity-is-constitutive principle; motive of the paint-over is unestablished, so no Iconoclasm tag applied.",
+      "interested_parties": "Ignacio Gómez Jr. (muralist and designer of the removed statue); Sean M. Rivas (San Fernando city councilmember); César Chávez Commemorative Committee (reported dissolved); Dolores Huerta",
+      "coverage_geography": "US (local)",
+      "follow_up_pending": true
     },
     {
       "id": "ACI-095-B",
@@ -15772,7 +15809,7 @@
       "date_discovered": "2026-07-15",
       "sort_date": "2026-07-13",
       "description": "Luis Manuel Otero Alcántara, a Cuban performance artist and co-founder of the San Isidro Movement, was serving a five-year sentence imposed after his arrest during the July 2021 anti-government protests. According to Cubaheadlines and Havana Times, State Security agents removed him from Guanajay Prison on 7 July 2026 without notifying his family, and although his sentence formally ended on 9 July 2026 he was not released; as of mid-July 2026 his whereabouts had not been publicly disclosed. Amnesty International, which has designated him a prisoner of conscience since 2021, and other human-rights organisations characterised the situation as an enforced disappearance. On 9 July 2026 activist Anamely Ramos reported receiving a phone call in which she heard Otero, who said he could not disclose his location. The UN Committee on Enforced Disappearances issued an Urgent Action (file AU No. 2357/2026) setting a 25 July 2026 deadline for Cuba to report his whereabouts. US Ambassador Mike Walz displayed Otero's photograph during a UN debate on 6 July 2026. Writing in Hyperallergic on 13 July 2026, artist and critic Coco Fusco drew attention to his disappearance.",
-      "outcome": "As of mid-July 2026 Otero Alcántara's whereabouts remained undisclosed; a UN Urgent Action set a 25 July 2026 deadline for Cuba to respond. [FOLLOW-UP PENDING: Cuba's response to the UN Committee on Enforced Disappearances by the 25 July 2026 deadline and confirmation of Otero's whereabouts and status.]",
+      "outcome": "As of mid-July 2026 Otero Alcántara's whereabouts had remained undisclosed; a UN Urgent Action set a 25 July 2026 deadline for Cuba to respond. RESOLVED: he was issued a US humanitarian visa and arrived in Miami on 18 July 2026 (see sub-entry ACI-245-A).",
       "tags": "Censorship, Political interference, Artist safety, Resistance",
       "court_case": "Pending",
       "coverage_tier": "International",
@@ -15786,7 +15823,40 @@
       "notes": "New parent; Cuba (authoritarian). Political repression of a dissident artist; the Index records the documented facts and attributes the characterisations ('enforced disappearance,' 'prisoner of conscience') to Amnesty International and human-rights groups rather than adopting them in its own voice. Surfaced via the Hyperallergic homepage (Coco Fusco op-ed) and corroborated by Cubaheadlines and Havana Times. Coco Fusco is included as an interested party: she is herself a prominent visual artist using her platform (the Hyperallergic op-ed) to call attention to the disappearance, not merely a wire reporter covering it. Governance-friction pattern: a consolidated authoritarian state suppressing a named artist. Sources retrieved this run: Hyperallergic, Cubaheadlines, Havana Times.",
       "interested_parties": "Luis Manuel Otero Alcantara; Cuban State Security; Amnesty International; Anamely Ramos; UN Committee on Enforced Disappearances; Coco Fusco",
       "coverage_geography": "Cuba, US, international",
-      "follow_up_pending": true
+      "follow_up_pending": false
+    },
+    {
+      "id": "ACI-245-A",
+      "entry_id": "245-A",
+      "seq": 542,
+      "title": "Cuban dissident performance artist Luis Manuel Otero Alcántara — released to a US humanitarian visa and arrives in Miami",
+      "artist": "Luis Manuel Otero Alcántara",
+      "institution": "N/A (Cuban State Security; US Embassy, Havana)",
+      "country": "Cuba",
+      "governance_type": "Authoritarian",
+      "date_controversy": "Habeas corpus writ filed 13 July 2026; US humanitarian visa issued and arrival in Miami 18 July 2026",
+      "date_discovered": "2026-07-20",
+      "sort_date": "2026-07-20",
+      "description": "UPDATE resolving the enforced-disappearance question in ACI-245. After State Security removed Otero Alcántara from Guanajay Prison on 7 July 2026 (sentence formally ending 9 July) and held him at an undisclosed location, the human-rights organisation Cubalex filed a writ of habeas corpus with Havana's Provincial People's Court on 13 July 2026 seeking his whereabouts. According to The Art Newspaper (17 July 2026), the US Embassy in Havana then issued him a humanitarian visa, and Artists at Risk Connection confirmed he had \"arrived safely in Miami\" on 18 July 2026 under diplomatic escort. Cuban authorities thus facilitated his departure to the United States rather than continuing to hold him — a de facto expulsion into exile. Curator Anamely Ramos, who had earlier said \"Right now, Luis Manuel is disappeared. He is not free,\" had been among those pressing for information on his whereabouts.",
+      "outcome": "Otero Alcántara's whereabouts, undisclosed since 7 July 2026, were resolved by his arrival in Miami on 18 July 2026 on a US humanitarian visa; he is now in the United States in de facto exile.",
+      "tags": [
+        "Censorship",
+        "Political interference",
+        "Artist safety",
+        "Resistance"
+      ],
+      "court_case": "Pending",
+      "coverage_tier": "International",
+      "outlets": [
+        "The Art Newspaper"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/07/17/whereabouts-of-cuban-artist-activist-luis-manuel-otero-alcantara-remain-unknown-following-end-of-prison-sentence",
+      "additional_sources": [],
+      "themes": [],
+      "notes": "Sub-entry of ACI-245; resolves that entry's [FOLLOW-UP PENDING] on Otero's whereabouts (now confirmed: Miami, 18 July 2026). Index records the documented facts and attributes characterisations ('enforced disappearance,' the exile framing) to the human-rights organisations and reporting rather than adopting them in its own voice. Single-source for this development this run (The Art Newspaper, full-text retrieved); the July 7–13 background is corroborated in the parent entry (Cubaheadlines, Havana Times, Hyperallergic). court_case kept Pending: the 13 July habeas writ was filed and is likely mooted by his departure, but no disposition was reported.",
+      "interested_parties": "Luis Manuel Otero Alcántara; Anamely Ramos (curator); Cubalex; US Embassy, Havana; Artists at Risk Connection; Cuban State Security",
+      "coverage_geography": "Cuba, US, international",
+      "follow_up_pending": false
     },
     {
       "id": "ACI-246",
