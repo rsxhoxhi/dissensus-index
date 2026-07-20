@@ -59,6 +59,8 @@ async function loadData() {
   const res = await fetch('data/cases.json');
   const data = await res.json();
   allCases = data.cases;
+  // Seatbelt: tolerate array-format tags from scan slips (render as string; data fix still expected)
+  allCases.forEach(c => { if (Array.isArray(c.tags)) c.tags = c.tags.join(', '); });
 
   // Pre-fill search from URL (handoff from homepage hero)
   const params = new URLSearchParams(window.location.search);
