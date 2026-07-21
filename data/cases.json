@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 513
+    "total_cases": 512
   },
   "cases": [
     {
@@ -16391,7 +16391,7 @@
       "date_controversy": "Resignation letter 26 January 2026; made public July 2026",
       "date_discovered": "2026-07-21",
       "sort_date": "2026-07-20",
-      "description": "According to The Art Newspaper (20 July 2026), Yuko Kikuchi, head of academic programmes at the Victoria and Albert Museum — where she co-led the MA History of Design run with the Royal College of Art — resigned at the end of January 2026, and her resignation letter, now made public, alleges 'racist' and 'culturally insensitive' behaviour by museum staff amounting to what she described as a 'culture of systemic racism.' The paper reported that she cited microaggressions, exclusion from key meetings, being the only non-white person in senior staff meetings, and pushback against introducing 'decolonial' and 'post-colonial' content to the curriculum. Twelve academics, including the artist Sonia Boyce and Sarah Teasley of RMIT University, signed a letter supporting her. In a joint statement the V&A and RCA said they are 'committed to celebrating diversity, eliminating discrimination and promoting equality of opportunity'; V&A director Tristram Hunt acknowledged shortcomings in the HR process and said the museum would review its practices.",
+      "description": "According to The Art Newspaper (20 July 2026), Yuko Kikuchi, head of academic programmes at the Victoria and Albert Museum — where she co-led the MA History of Design run with the Royal College of Art — resigned at the end of January 2026, and her resignation letter, now made public, alleges 'racist' and 'culturally insensitive' behaviour by museum staff amounting to what she described as a 'culture of systemic racism.' The paper reported that she cited microaggressions, exclusion from key meetings, being the only non-white person in senior staff meetings, and pushback against introducing 'decolonial' and 'post-colonial' content to the curriculum. Twelve academics, including the artist Sonia Boyce of University of the Arts London (UAL) and Sarah Teasley of RMIT University, signed a letter supporting her. In a joint statement the V&A and RCA said they are 'committed to celebrating diversity, eliminating discrimination and promoting equality of opportunity'; V&A director Tristram Hunt acknowledged shortcomings in the HR process and said the museum would review its practices.",
       "outcome": "Kikuchi has left the museum; the V&A and RCA say they will review HR practices. No formal external investigation announced at logging. [FOLLOW-UP PENDING: any independent review, employment-tribunal claim, or further staff departures.]",
       "tags": "Institutional crisis, Racial/ethnic sensitivity",
       "court_case": "No",
@@ -16404,7 +16404,7 @@
         4
       ],
       "notes": "New parent. Institutional-culture dispute at a major national museum; the allegations are attributed to Kikuchi and the 12 signatories, with the V&A/RCA response given. Single-source (TAN) at logging; enrich on the Europe trawl (Wednesday) with any Guardian/BBC pickup. Cf. institutional-crisis cluster (ACI-096 Seattle Art Museum labour; ACI-086 Southbank Centre).",
-      "interested_parties": "Yuko Kikuchi; Victoria and Albert Museum; Royal College of Art; Tristram Hunt (V&A director); Sonia Boyce; Sarah Teasley (RMIT); 12 supporting academics",
+      "interested_parties": "Yuko Kikuchi; Victoria and Albert Museum; Royal College of Art; Tristram Hunt (V&A director); Sonia Boyce (University of the Arts London); Sarah Teasley (RMIT); 12 supporting academics",
       "coverage_geography": "UK",
       "follow_up_pending": true
     },
@@ -16412,36 +16412,6 @@
       "id": "ACI-264",
       "entry_id": "264",
       "seq": 545,
-      "title": "British Museum's removal of 'Palestine' from labels prompts MPs' call for investigation",
-      "artist": "N/A",
-      "institution": "British Museum, London",
-      "country": "United Kingdom",
-      "governance_type": "Democracy",
-      "date_controversy": "Label changes 2024–2026; MPs' call for investigation July 2026",
-      "date_discovered": "2026-07-21",
-      "sort_date": "2026-07-20",
-      "description": "According to Artforum (July 2026), cross-party MPs have called for an independent investigation into the British Museum's removal of the words 'Palestine,' 'Palestinian' and 'Israelite occupation' from various display labels, alleging possible political interference. Artforum reported that the museum said 'audience testing has shown that the historic use of the term Palestine—which was well established in Western and Middle Eastern scholarship as a geographical designation for a region—is in some circumstances no longer meaningful,' but that a Middle East Eye investigation, which prompted the calls, found via a freedom-of-information request that no such audience testing had been conducted, and that internal emails logged complaints from pro-Israel organisations and individuals between October and December 2024 before the changes were made. Artforum noted The Telegraph had reported in February 2026 that the museum received a complaint letter from UK Lawyers for Israel, and that the Palestinian ambassador Husam Zomlot filed a complaint with the UK Foreign Office in May 2026. Green MP Siân Berry said an independent investigation 'should urgently be launched,' and Jeremy Corbyn called for an 'urgent investigation into political interference.'",
-      "outcome": "MPs have requested an independent investigation; no inquiry commissioned at logging, and the museum has not responded to renewed requests for comment. [FOLLOW-UP PENDING: whether an independent investigation is launched and the museum's response.]",
-      "tags": "Removal, Political interference, Institutional crisis, Geopolitics",
-      "court_case": "No",
-      "coverage_tier": "International",
-      "outlets": [
-        "Artforum"
-      ],
-      "source": "https://www.artforum.com/news/politicians-call-for-investigation-at-british-museum-1234755037/",
-      "themes": [
-        3,
-        4
-      ],
-      "notes": "New parent. Terminology-removal dispute at the British Museum; the alleged interference is attributed to MPs and a Middle East Eye investigation, with the museum's stated rationale ('audience testing') included in the museum's own voice. Sourced this run from Artforum (fetched full text); Middle East Eye broke the story and ARTnews also covered it, but neither was retrieved at full grade this run (ARTnews homepage/article fetches truncated) — enrich on the Europe trawl (Wednesday). Cf. externalised-censorship frame (§14) and ACI-131 (British Museum 'Ancient Israel and Judah' lecture).",
-      "interested_parties": "British Museum; Siân Berry (Green MP); Jeremy Corbyn; Richard Burgon (Labour MP); Middle East Eye; UK Lawyers for Israel; Husam Zomlot (Palestinian ambassador)",
-      "coverage_geography": "UK, Middle East, international",
-      "follow_up_pending": true
-    },
-    {
-      "id": "ACI-265",
-      "entry_id": "265",
-      "seq": 546,
       "title": "Union threatens strike over extreme heat in Venice state museums",
       "artist": "N/A",
       "institution": "National Archaeological Museums of Venice and the Lagoon (MAN-VE-LAG); Veneto Regional Directorate of National Museums (DRMNV); incl. Ca' d'Oro (Galleria Giorgio Franchetti), Palazzo Grimani",
@@ -16466,9 +16436,9 @@
       "follow_up_pending": true
     },
     {
-      "id": "ACI-266",
-      "entry_id": "266",
-      "seq": 547,
+      "id": "ACI-265",
+      "entry_id": "265",
+      "seq": 546,
       "title": "White House installs Founding Father statues in paved-over Rose Garden; art figures object",
       "artist": "George Lundeen (Thomas Jefferson bronze); statuary partly donated by Harlan Crow",
       "institution": "The White House, Washington DC",
@@ -16495,9 +16465,9 @@
       "follow_up_pending": true
     },
     {
-      "id": "ACI-267",
-      "entry_id": "267",
-      "seq": 548,
+      "id": "ACI-266",
+      "entry_id": "266",
+      "seq": 547,
       "title": "Richmond artist to repaint Midlothian Turnpike mural after public backlash",
       "artist": "Jesse Smith (with muralist Tatiana Suarez on the replacement)",
       "institution": "Romantix (former adult bookstore), 5100 Midlothian Turnpike, Richmond, Virginia",
