@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 504
+    "total_cases": 509
   },
   "cases": [
     {
@@ -14853,6 +14853,36 @@
       "follow_up_pending": true
     },
     {
+      "id": "ACI-007-G",
+      "entry_id": "007-G",
+      "seq": 543,
+      "title": "President's House: altered slavery panels minimize Washington's role in enslavement",
+      "artist": "N/A",
+      "institution": "Independence National Historical Park / National Park Service; President's House site, Philadelphia",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "Altered panels installed 15 July 2026",
+      "date_discovered": "2026-07-21",
+      "sort_date": "2026-07-15",
+      "description": "According to Hyperallergic (July 2026), the Trump administration installed altered interpretive panels at the President's House site in Philadelphia — the outdoor 'Freedom and Slavery in the Making of a New Nation' exhibit (see 007 / 007-A/B/C) — that minimize George Washington's involvement in slavery. Hyperallergic reported the new text emphasizes Washington's 'discomfort' with slavery and states that enslaved people at his Philadelphia residence had 'greater autonomy,' while omitting mention of the hundreds of people he enslaved. The panels were installed on 15 July 2026 following the site's court-ordered restoration; a federal judge (Cynthia M. Rufe) had earlier ordered the original exhibit restored after the administration removed it in January 2026. Michael Coard, a trial attorney and founder of the Avenging The Ancestors Coalition (ATAC), which had pushed for the original exhibit, said the group would pursue all available legal options against the new panels.",
+      "outcome": "Altered panels installed 15 July 2026 in compliance with the restoration order; ATAC says it will pursue legal options against the new text. [FOLLOW-UP PENDING: ATAC's threatened legal challenge to the altered panels and any further court action.]",
+      "tags": "Censorship, Historical erasure, Political interference, Removal",
+      "court_case": "Pending",
+      "coverage_tier": "National",
+      "outlets": [
+        "Hyperallergic"
+      ],
+      "source": "https://hyperallergic.com/trump-whitewashes-george-washingtons-slavery-history-in-new-display/",
+      "themes": [
+        2,
+        6
+      ],
+      "notes": "Sub-entry of 007; latest development in the President's House / 'Freedom and Slavery in the Making of a New Nation' interpretive dispute (007-A/B/C) and the broader NPS 'improper ideology' interpretive-content program (007-D/E/F). Top-down alteration of federal heritage interpretation; governance-friction case. Single-source (Hyperallergic) at logging; enrich with Philadelphia Inquirer / local coverage on the relevant trawl. [FOLLOW-UP PENDING]",
+      "interested_parties": "National Park Service; Trump administration; Avenging The Ancestors Coalition (Michael Coard); City of Philadelphia; Judge Cynthia M. Rufe",
+      "coverage_geography": "US (national)",
+      "follow_up_pending": true
+    },
+    {
       "id": "ACI-215",
       "entry_id": "215",
       "seq": 467,
@@ -16266,6 +16296,120 @@
       "notes": "New parent; Russia/France; dissident performance artist. The substantive reporting is The Art Journal's, surfaced via an ARTnews morning-links roundup (the roundup is not cited as the primary source, per aggregator discipline). Describe-don't-judge: grounds attributed to OFPRA; Pavlensky's own words quoted from The Art Journal. Correction pass: the '8 June 2026' date was not in the cited sources (which say 'May 2026') and has been removed; OFPRA and FSB spelled out at first mention; the previously listed Pavlensky quote, which no cited source carried, was replaced with a verified quote from The Art Journal.",
       "interested_parties": "Pyotr Pavlensky; OFPRA (France)",
       "coverage_geography": "France, Russia, international art press",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-263",
+      "entry_id": "263",
+      "seq": 544,
+      "title": "V&A academic-programmes head Yuko Kikuchi resigned citing alleged racism at the museum",
+      "artist": "N/A",
+      "institution": "Victoria and Albert Museum (V&A), London; Royal College of Art",
+      "country": "United Kingdom",
+      "governance_type": "Democracy",
+      "date_controversy": "Resignation letter 26 January 2026; made public July 2026",
+      "date_discovered": "2026-07-21",
+      "sort_date": "2026-07-20",
+      "description": "According to The Art Newspaper (20 July 2026), Yuko Kikuchi, head of academic programmes at the Victoria and Albert Museum — where she co-led the MA History of Design run with the Royal College of Art — resigned at the end of January 2026, and her resignation letter, now made public, alleges 'racist' and 'culturally insensitive' behaviour by museum staff amounting to what she described as a 'culture of systemic racism.' The paper reported that she cited microaggressions, exclusion from key meetings, being the only non-white person in senior staff meetings, and pushback against introducing 'decolonial' and 'post-colonial' content to the curriculum. Twelve academics, including the artist Sonia Boyce of University of the Arts London (UAL) and Sarah Teasley of RMIT University, signed a letter supporting her. In a joint statement the V&A and RCA said they are 'committed to celebrating diversity, eliminating discrimination and promoting equality of opportunity'; V&A director Tristram Hunt acknowledged shortcomings in the HR process and said the museum would review its practices.",
+      "outcome": "Kikuchi has left the museum; the V&A and RCA say they will review HR practices. No formal external investigation announced at logging. [FOLLOW-UP PENDING: any independent review, employment-tribunal claim, or further staff departures.]",
+      "tags": "Institutional crisis, Racial/ethnic sensitivity",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "The Art Newspaper"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/07/20/head-of-victoria-albert-museum-academic-programmes-resigned-citing-racist-and-culturally-insensitive-behaviours-letter-reveals",
+      "themes": [
+        4
+      ],
+      "notes": "New parent. Institutional-culture dispute at a major national museum; the allegations are attributed to Kikuchi and the 12 signatories, with the V&A/RCA response given. Single-source (TAN) at logging; enrich on the Europe trawl (Wednesday) with any Guardian/BBC pickup. Cf. institutional-crisis cluster (ACI-096 Seattle Art Museum labour; ACI-086 Southbank Centre).",
+      "interested_parties": "Yuko Kikuchi; Victoria and Albert Museum; Royal College of Art; Tristram Hunt (V&A director); Sonia Boyce (University of the Arts London); Sarah Teasley (RMIT); 12 supporting academics",
+      "coverage_geography": "UK",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-264",
+      "entry_id": "264",
+      "seq": 545,
+      "title": "Union threatens strike over extreme heat in Venice state museums",
+      "artist": "N/A",
+      "institution": "National Archaeological Museums of Venice and the Lagoon (MAN-VE-LAG); Veneto Regional Directorate of National Museums (DRMNV); incl. Ca' d'Oro (Galleria Giorgio Franchetti), Palazzo Grimani",
+      "country": "Italy",
+      "governance_type": "Democracy",
+      "date_controversy": "USB meeting request 1 July 2026; labour dispute notified July 2026",
+      "date_discovered": "2026-07-21",
+      "sort_date": "2026-07-20",
+      "description": "According to The Art Newspaper (20 July 2026), the base union Unione Sindacale di Base (USB) has opened a formal labour dispute and threatened strike action over working conditions at Venice's state museums, where it says temperatures have stayed above 30°C for weeks — with humidity pushing perceived temperatures toward 40°C — in institutions including the Galleria Giorgio Franchetti at Ca' d'Oro, Palazzo Grimani and the National Archaeological Museum of Venice. The paper reported the union cited risks of 'exhaustion, cramps and heatstroke' and criticised a 'complete lack of maintenance' of cooling systems and a failure to provide staff with water or heatstroke training; USB representative Gabriele Raise said an urgent meeting requested on 1 July had gone unanswered. The two museum directorates (MAN-VE-LAG and DRMNV) acknowledged 'difficulties' in non-air-conditioned areas and said they had introduced operational guidelines and scheduling flexibility, which USB disputes as inadequate.",
+      "outcome": "USB has notified a formal labour dispute — a preliminary step to a strike; the museum directorates say mitigation measures are in place. No strike date set at logging. [FOLLOW-UP PENDING: whether a strike is called and the directorates' response.]",
+      "tags": "Labor dispute, Institutional crisis",
+      "court_case": "No",
+      "coverage_tier": "Regional",
+      "outlets": [
+        "The Art Newspaper"
+      ],
+      "source": "https://www.theartnewspaper.com/2026/07/20/union-threatens-strike-action-over-working-conditions-in-venice-museums-due-to-extreme-temperatures",
+      "themes": [],
+      "notes": "New parent. Museum-labour dispute (heat/working conditions); joins the labour-dispute cluster (ACI-096 Seattle Art Museum; ACI-153 Italy nationwide arts strike; ACI-008 ANGA/Venice Biennale). Single-source (TAN) at logging; enrich on the Europe trawl (Wednesday) with Italian outlets (ANSA, Il Gazzettino).",
+      "interested_parties": "Unione Sindacale di Base (USB); Gabriele Raise (USB); MAN-VE-LAG and DRMNV museum directorates; Italian Ministry of Culture",
+      "coverage_geography": "Italy, UK",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-265",
+      "entry_id": "265",
+      "seq": 546,
+      "title": "White House installs Founding Father statues in paved-over Rose Garden; art figures object",
+      "artist": "George Lundeen (Thomas Jefferson bronze); statuary partly donated by Harlan Crow",
+      "institution": "The White House, Washington DC",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "Jefferson statue installed week of 13 July 2026; series ongoing",
+      "date_discovered": "2026-07-21",
+      "sort_date": "2026-07-20",
+      "description": "According to a Washington Post report (20 July 2026), President Trump has continued his overhaul of the White House grounds by installing a life-size bronze statue of Thomas Jefferson — sculpted by George Lundeen and depicting the former president seated beside the Declaration of Independence — in the paved-over Rose Garden. The Post reported it is the fifth statue added, joining figures of Benjamin Franklin, George Washington, Alexander Hamilton and a Revolutionary War group titled Freedom's Charge; three of the statues were provided by the conservative collector and political donor Harlan Crow. The Post reported that Maxwell Anderson, a former president of the Association of Art Museum Directors, criticised the statues as having negligible artistic value and likened the administration's embrace of classicising statuary to the aesthetics of authoritarian regimes; other critics characterised the works as decor few members of the public would ever see. Lundeen also made the bronze fist monument depicting Trump after the 2024 Butler, Pennsylvania assassination attempt.",
+      "outcome": "The Jefferson statue is installed and the statuary program is continuing; the additions have drawn criticism from art-museum figures over their artistic merit and political symbolism. [FOLLOW-UP PENDING: further statues or grounds alterations and any formal design review.]",
+      "tags": "Design controversy, Political art",
+      "court_case": "No",
+      "coverage_tier": "National",
+      "outlets": [
+        "Washington Post"
+      ],
+      "source": "https://www.washingtonpost.com/politics/2026/07/20/trump-adds-jefferson-overhaul-white-house-grounds/",
+      "themes": [
+        1
+      ],
+      "notes": "New parent. White House grounds statuary overhaul; part of the broader Trump built-environment/aesthetics cluster — cf. ACI-050 (State Ballroom/East Wing), ACI-050-G (North Portico), ACI-038 (triumphal arch), ACI-063 (National Garden of American Heroes), ACI-125 (Freedom Plaza statues), ACI-129 (Trump currency imagery). Sourced this run via a WaPo site-scoped search (metadata/snippet grade; WaPo direct fetch blocked) — enrich with full WaPo text and any NYT pickup (NYT Arts also ran the story). Criticism attributed to Maxwell Anderson (former AAMD president).",
+      "interested_parties": "The White House / Trump administration; George Lundeen (sculptor); Harlan Crow (donor); Maxwell Anderson (former AAMD president)",
+      "coverage_geography": "US (national)",
+      "follow_up_pending": true
+    },
+    {
+      "id": "ACI-266",
+      "entry_id": "266",
+      "seq": 547,
+      "title": "Richmond artist to repaint Midlothian Turnpike mural after public backlash",
+      "artist": "Jesse Smith (with muralist Tatiana Suarez on the replacement)",
+      "institution": "Romantix (former adult bookstore), 5100 Midlothian Turnpike, Richmond, Virginia",
+      "country": "United States",
+      "governance_type": "Democracy",
+      "date_controversy": "Original mural 2026; repainting reported 16 July 2026",
+      "date_discovered": "2026-07-21",
+      "sort_date": "2026-07-16",
+      "description": "According to WTVR (16 July 2026), Richmond artist Jesse Smith is repainting a mural at 5100 Midlothian Turnpike — a former adult bookstore now the Romantix shop — after the original design drew what the station described as national attention and backlash. WTVR reported the earlier mural depicted a young woman with an oversized beaver and 'sparked debates about its meaning'; Smith said, 'We've been getting a lot of hate for this mural, so we're trying to paint something on here that's a little less controversial,' and is replacing it with an image of a woman playing with a cat. Muralist Tatiana Suarez is collaborating on the new piece, which is expected to be completed by August 6, 2026. The article did not name specific objectors.",
+      "outcome": "The mural is being voluntarily repainted to a less contentious design in response to public objection; no formal removal order was reported. [FOLLOW-UP PENDING: completion of the replacement mural and any further objection.]",
+      "tags": "Community objection, Public art",
+      "court_case": "No",
+      "coverage_tier": "Local",
+      "outlets": [
+        "WTVR"
+      ],
+      "source": "https://www.wtvr.com/news/local-news/richmond/5100-midlothian-turnpike-mural-july-16-2026",
+      "themes": [
+        9
+      ],
+      "notes": "New parent. Richmond/VA standing-search catch (Tuesday US-local trawl); classroom-relevant local public-art / community-objection case. The original mural on a former adult-bookstore site drew backlash and is being voluntarily repainted. Single-source (WTVR) at logging; enrich on the next Richmond pass with RVA Mag / Richmond Times-Dispatch. Distinct from the tracked Richmond 'Free Palestine' watermelon-mural cluster (ACI-021/030/055).",
+      "interested_parties": "Jesse Smith (artist); Tatiana Suarez (muralist); Romantix (property/business)",
+      "coverage_geography": "US (Richmond; reportedly national attention)",
       "follow_up_pending": true
     }
   ]
