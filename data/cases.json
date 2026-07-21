@@ -8,7 +8,7 @@
     "observation_window_end": "2026-06-21",
     "last_published": "2026-06-24",
     "methodology_version": "1.0",
-    "total_cases": 507
+    "total_cases": 504
   },
   "cases": [
     {
@@ -2149,35 +2149,6 @@
       "follow_up_pending": true
     },
     {
-      "id": "ACI-132-A",
-      "entry_id": "132-A",
-      "seq": 384,
-      "title": "N/A (prediction / betting markets on art-auction results)",
-      "artist": "N/A (platform: Kalshi)",
-      "institution": "Kalshi (prediction-market platform)",
-      "country": "United States",
-      "governance_type": "Democracy",
-      "date_controversy": "June 2026",
-      "date_discovered": "June 11, 2026",
-      "sort_date": "2026-06-11",
-      "description": "Prediction platform Kalshi is launching a dedicated art category, letting users wager on art-market outcomes (e.g., auction results). The move arrives amid heightened scrutiny over insider trading in wagers across multiple industries.",
-      "outcome": "Kalshi launching a dedicated art category as of June 2026; insider-trading concerns raised. Regulatory response, if any, developing.",
-      "tags": "Financialization, Market opacity",
-      "court_case": "No",
-      "coverage_tier": "National",
-      "outlets": [
-        "Hyperallergic"
-      ],
-      "source": "https://hyperallergic.com/is-betting-on-the-art-market-a-terrible-idea/",
-      "themes": [
-        10
-      ],
-      "notes": "[FOLLOW-UP PENDING] Enriches parent 132. The \"insider trading\" worry is the sharp Theme 10 edge: a market thin enough and opaque enough that a handful of informed players can move outcomes — art-as-pure-wagering-instrument. Pairs with 168 (Pace/financialization) and 057 (art-as-asset fraud). Watch for CFTC or comparable regulatory comment.",
-      "interested_parties": "Kalshi; art-market participants; regulators; Hyperallergic",
-      "coverage_geography": "US art + business press (Hyperallergic)",
-      "follow_up_pending": true
-    },
-    {
       "id": "ACI-169",
       "entry_id": "169",
       "seq": 383,
@@ -2205,35 +2176,6 @@
       "notes": "[FOLLOW-UP PENDING] Theme 2 / Theme 5 case: the state mandating commercial self-sufficiency from encyclopedic public museums, with closure as the stick. Direct comparison to entry 117 / 117-A (England foreign-visitor admission fees) and 123 (UK systemic heritage-funding policy) — the \"dual pricing\" mechanism is the same marketization logic appearing in two democracies at once. Governance-friction note: not illiberal-pressure censorship but austerity-driven institutional risk; useful counterpoint in the funding cluster. Enrich on a future Asia/Pacific trawl with the primary Bunkacho document and confirmation of the dual-pricing target (foreign vs. domestic).",
       "interested_parties": "Agency for Cultural Affairs (Bunkacho); MEXT; National Museums; National Institutes for Cultural Heritage; Japanese museum sector; Bijutsu Techo",
       "coverage_geography": "Japanese arts press (Bijutsu Techo); domestic policy coverage",
-      "follow_up_pending": true
-    },
-    {
-      "id": "ACI-168",
-      "entry_id": "168",
-      "seq": 382,
-      "title": "N/A (mega-gallery business contraction; ~50 of 135 artists dropped)",
-      "artist": "N/A (gallery: Pace; artists incl. teamLab, David Goldblatt, Grada Kilomba)",
-      "institution": "Pace Gallery (seven global locations incl. New York HQ, London, Seoul)",
-      "country": "United States",
-      "governance_type": "Democracy",
-      "date_controversy": "June 3, 2026",
-      "date_discovered": "June 11, 2026",
-      "sort_date": "2026-06-11",
-      "description": "Pace, one of the art world's \"mega-galleries,\" announced it is cutting staff from ~250 to ~200 and shedding as many as 50 of its 135 artists. CEO Marc Glimcher called the mega-gallery model of \"constant expansion and rising prices in the primary market\" \"unfixable\" and \"no longer sustainable.\" Comes amid a wider gallery contraction (e.g., closure of Tiwani Contemporary). Hyperallergic frames the cuts against the collapse of crypto-backed art ventures, of which Pace (Pace Verso) was an early adopter.",
-      "outcome": "Announced June 3-4, 2026. NYT broke the story just after midnight June 3, ahead of a planned 9am all-staff town hall; many staff learned of the cuts from the press. The in-person town hall was scrapped and replaced with a Zoom call. As of June 9-10, Pace is giving up its 8,600-sq-ft London (Hanover Square) gallery as it cuts costs — so space reduction is now confirmed, not merely possible. Sector reception and artist fallout developing.",
-      "tags": "Labor dispute, Financialization, Institutional crisis",
-      "court_case": "No",
-      "coverage_tier": "International",
-      "outlets": [
-        "New York Times; The Art Newspaper; Hyperallergic"
-      ],
-      "source": "https://www.theartnewspaper.com/2026/06/04/pace-slashes-artist-roster-and-staff-shrinking-appears-the-new-growth-model",
-      "themes": [
-        10
-      ],
-      "notes": "[FOLLOW-UP PENDING] SCOPE-REVIEW: borderline against the established scope standard (the cultural object/space should be the contested thing, not the backdrop of a financial dispute). Logged thin for your call. The Theme 10 hook is the mega-gallery-as-asset-engine and the crypto-venture collapse (Hyperallergic's framing, NOT Pace's stated reason -- Pace cites primary-market unsustainability). Labor angle sharpened by ARTnews reporting: staff learned of layoffs via the NYT before the town hall, which was then downgraded to a Zoom -- asymmetric employment risk handled with minimal worker consultation (cf. labor-as-censorship-mechanism frame: UNT/Marka27, Kennedy Center, Pepperdine, ANGA). Possible cross-link to 057 (art-as-pure-asset) and 132/132-A (art-as-wagering-instrument). Enrich on a market-news pass or delete if out of scope.",
-      "interested_parties": "Pace Gallery; Marc Glimcher (CEO); ~50 dropped artists; ~50 laid-off staff; wider commercial-gallery sector",
-      "coverage_geography": "US + international art-trade press (NYT, TAN, Hyperallergic)",
       "follow_up_pending": true
     },
     {
@@ -2819,37 +2761,6 @@
       "follow_up_pending": true
     },
     {
-      "id": "ACI-150-A",
-      "entry_id": "150-A",
-      "seq": 363,
-      "title": "Pace Gallery layoffs / model correction — additional coverage",
-      "artist": "Marc Glimcher (CEO); Pace Gallery",
-      "institution": "Pace Gallery (global)",
-      "country": "United States",
-      "governance_type": "Democracy",
-      "date_controversy": "June 4–5, 2026",
-      "date_discovered": "June 8, 2026",
-      "sort_date": "2026-06-08",
-      "description": "Additional coverage from The Art Newspaper and Hyperallergic (June 4–5) confirms details logged in parent entry 150. Pace CEO Marc Glimcher publicly characterized the cuts as a 'model correction,' telling ARTnews: 'Galleries need a model correction.' The Art Newspaper commentary (Melanie Gerlis) framed the move as potentially signaling that 'shrinking is the next growth model' for mega-galleries, questioning whether 'constant expansion and rising prices in the primary market are unfixable.' The Hyperallergic piece framed the layoffs in the context of 'the disastrous collapse of crypto-backed art ventures, of which Pace was an early adopter.' Total confirmed: approximately 50 artists dropped and 50 staff let go.",
-      "outcome": "Confirmed: ~50 artists and ~50 staff released. Glimcher framing = 'model correction.'",
-      "tags": "Financialization, Art market fraud, Market opacity, Labor dispute",
-      "court_case": "No",
-      "coverage_tier": "International",
-      "outlets": [
-        "ARTnews",
-        "The Art Newspaper",
-        "Hyperallergic"
-      ],
-      "source": "https://www.theartnewspaper.com/2026/06/04/pace-slashes-artist-roster-and-staff-shrinking-appears-the-new-growth-model",
-      "themes": [
-        10
-      ],
-      "notes": "The Gerlis/Art Newspaper framing — 'shrinking is the new growth model' — is analytically the most significant contribution of the June 4 coverage. It positions Pace's cuts not as a crisis response but as a potential industry trend setter. The Hyperallergic attribution to crypto collapse confirms the specific mechanism: Pace's early adoption of NFT/crypto-backed art ventures as a growth lever left it overextended when that market collapsed. Cross-reference entry 132 (Kalshi art prediction markets) as a different form of art market financialization showing similar structural vulnerabilities.",
-      "interested_parties": "Pace Gallery; dropped artists; laid-off staff; art market press; gallery sector",
-      "coverage_geography": "International (US, UK)",
-      "follow_up_pending": false
-    },
-    {
       "id": "ACI-154",
       "entry_id": "154",
       "seq": 362,
@@ -3103,7 +3014,7 @@
       "date_controversy": "June 4, 2026",
       "date_discovered": "June 5, 2026",
       "sort_date": "2026-06-05",
-      "description": "Pace Gallery, one of the world's largest commercial art galleries (\"mega gallery\"), announced it is dropping approximately 50 artists from its roster and laying off approximately 50 staff members as a \"model correction\" in response to unsustainable growth and market contraction. CEO Marc Glimcher told ARTnews: \"Galleries need a model correction.\" The cuts follow years of aggressive expansion by mega galleries including Pace, Hauser & Wirth, and David Zwirner. Pace had grown to represent more than 100 artists across global locations. The announcement comes in the context of a broader art market contraction: blue-chip sales remain strong (Lucian Freud nude estimated at $47M) but the contemporary primary market for younger and emerging artists has weakened significantly, and the gallery sector more broadly is under financial pressure. Tiwani Contemporary (London/Lagos, dedicated to African art) announced it was ceasing operations May 28. The New School layoffs (148-A) represent the educational-institutional counterpart of the same market contraction.",
+      "description": "Pace Gallery, one of the art world’s \"mega-galleries,\" announced on June 3, 2026 that it is dropping roughly 50 artists from its roster of about 135 and cutting about 50 of its 250 staff — a reduction of roughly 30% of artists and 20% of staff. The downsizing was first reported by The New York Times (Robin Pogrebin, June 3). CEO Marc Glimcher framed the cuts as a \"model correction,\" telling ARTnews \"Galleries need a model correction,\" and characterized the mega-gallery model in a public statement as no longer viable: \"The art world has changed dramatically over the past decade, and the current gallery model isn’t only broken, it’s unfixable.\" Founder Arne Glimcher, speaking to the Times, called the retrenchment \"like getting our gallery back.\" The move follows a prolonged contemporary-art market downturn and speculation about Pace’s financial health.",
       "outcome": "Approximately 50 artists dropped, 50 staff laid off. Restructuring ongoing.",
       "tags": "Art market, Labor dispute, Institutional crisis, Financialization",
       "court_case": "No",
@@ -3120,7 +3031,12 @@
       "notes": "Theme 10 entry: art market financialization creates the conditions for \"model correction\" when the market contracts. The mega-gallery model — constant expansion, multiple global locations, large artist rosters that need constant solo exhibitions and art fair presence — requires rising prices and growing collector bases to sustain. When the primary contemporary market softens, the cost structure becomes untenable. Glimcher's \"model correction\" framing is careful: not a crisis, just a recalibration. But 50 artists losing gallery representation is a concrete material harm to those artists' careers, income, and institutional access. Tiwani Contemporary's closure (May 28) is the smaller-gallery side of the same dynamic: a gallery dedicated to African art that had helped launch significant careers couldn't sustain itself in the same market environment. Connect to entry 128 (UAW Local 2110 contract negotiations — art worker labor) and entry 130 (gallery closure) for the institutional contraction cluster. The Art Newspaper comment piece: \"shrinking appears to be the new growth model\" — the rhetoric of contraction as virtue. Note also the Art Newspaper headline on the same day: \"As Pace slashes business, could shrinking be the next growth model?\" — framing that makes market failure sound like innovation.",
       "interested_parties": "Marc Glimcher (Pace CEO); approximately 50 dropped artists (unnamed); approximately 50 laid-off staff; Pace Gallery; broader gallery sector (Hauser & Wirth, David Zwirner, Gagosian)",
       "coverage_geography": "Global art market press",
-      "follow_up_pending": false
+      "follow_up_pending": false,
+      "additional_sources": [
+        "https://www.nytimes.com/2026/06/03/arts/design/pace-gallery-artist-cuts.html",
+        "https://www.theartnewspaper.com/2026/06/04/pace-slashes-artist-roster-and-staff-shrinking-appears-the-new-growth-model",
+        "https://hyperallergic.com/pace-cuts-50-workers-and-50-artists-citing-a-broken-gallery-model/"
+      ]
     },
     {
       "id": "ACI-149",
@@ -4385,7 +4301,10 @@
       "notes": "[FOLLOW-UP PENDING] Thin entry from ARTnews outlet scan — flag for enrichment. A clean, novel Theme 10 case: art treated purely as a wagering instrument, one further abstraction beyond the tokenization / flipping already in the cluster. Analytical question: what is lost when an artwork's sale becomes a gambling event detached from the work itself? Watch volume, which artists/lots are listed, auction-house response, and CFTC posture.",
       "interested_parties": "Kalshi; bettors / speculators; auction houses (Christie's, Sotheby's, Phillips); collectors; CFTC / regulators",
       "coverage_geography": "National US art / finance press (ARTnews)",
-      "follow_up_pending": true
+      "follow_up_pending": true,
+      "additional_sources": [
+        "https://hyperallergic.com/is-betting-on-the-art-market-a-terrible-idea/"
+      ]
     },
     {
       "id": "ACI-125-A",
