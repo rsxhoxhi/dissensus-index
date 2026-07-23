@@ -56,6 +56,7 @@ DOMAIN_TO_OUTLET = {
     "oc-media.org": "OC Media",
     "archpaper.com": "The Architect's Newspaper",
     "newrepublic.com": "The New Republic",
+    "mediarelations.gwu.edu": "George Washington University",
 }
 
 ALIASES = {
