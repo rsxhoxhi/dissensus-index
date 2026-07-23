@@ -804,10 +804,13 @@
    "court_case": "Pending",
    "coverage_tier": "International",
    "outlets": [
-    "Artforum"
+    "Artforum",
+    "ARTnews"
    ],
    "source": "https://www.artforum.com/news/louvre-reopens-apollo-gallery-nine-months-after-jewel-heist-1234755330/",
-   "additional_sources": [],
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/louvre-apollo-gallery-reopens-without-crown-jewels-1234793182/"
+   ],
    "themes": [],
    "notes": "Sub-entry of ACI-002 (Louvre Crown Jewels Heist / Institutional Crisis). Thin milestone entry: the reopening is a development in the tracked institutional-crisis case rather than a fresh dispute — flagged for editorial review. Reference article: Artforum (full text retrieved this run). Christophe Leribault is the newly appointed director; Laurence des Cars resigned after the heist. Cross-refs: ACI-002, ACI-002-A/B/C/D.",
    "interested_parties": "Christophe Leribault (Louvre director); Catherine Pégard (French Culture Minister); Laurence des Cars (former Louvre director)",
@@ -16686,7 +16689,7 @@
    "date_controversy": "Strategic Outline Business Case Addendum published; reported 22–23 July 2026; building gutted by fires in 2014 and 2018",
    "date_discovered": "2026-07-23",
    "sort_date": "2026-07-22",
-   "description": "According to STV News (with corroborating coverage in Arts Professional and UPI), the Glasgow School of Art announced on 22 July 2026 that it cannot afford, on its own, a faithful reinstatement of the Mackintosh Building — the Category A-listed 1909 masterpiece by Charles Rennie Mackintosh that was gutted by fire in 2014 and again in 2018 during restoration. In a Strategic Outline Business Case Addendum, published after the settlement of a long-running insurance claim over the 2018 blaze, the GSA put the cost of full faithful reinstatement at roughly £265 million — described as about five times its annual turnover and roughly four times previous estimates — and said proceeding alone would compromise the institution's financial sustainability. Board chair Ann Priest said, \"We cannot put the financial sustainability of the GSA at risk in doing so.\" The school said it will instead stabilise the surviving structure, remove the external scaffolding in place since 2018, and pursue a 'creative and cultural-led innovation district' anchored by the building, while seeking external funding from the Scottish Government, UK Government and Glasgow City Council. The Charles Rennie Mackintosh Society, Historic Environment Scotland, RIAS and RIBA are among the bodies engaged.",
+   "description": "According to STV News (with corroborating coverage in Arts Professional and UPI), the Glasgow School of Art announced on 22 July 2026 that it cannot afford, on its own, a faithful reinstatement of the Mackintosh Building — the Category A-listed 1909 masterpiece by Charles Rennie Mackintosh that was gutted by fire in 2014 and again in 2018 during restoration. In a Strategic Outline Business Case Addendum, published after the settlement of a long-running insurance claim over the 2018 blaze, the GSA put the cost of full faithful reinstatement at roughly £265 million — described as about five times its annual turnover and roughly four times previous estimates — and said proceeding alone would compromise the institution's financial sustainability. Board chair Ann Priest said, \"We cannot put the financial sustainability of the GSA at risk in doing so.\" The school said it will instead stabilise the surviving structure, remove the external scaffolding in place since 2018, and pursue a 'creative and cultural-led innovation district' anchored by the building, while seeking external funding from the Scottish Government, UK Government and Glasgow City Council. The Charles Rennie Mackintosh Society, Historic Environment Scotland, RIAS and RIBA are among the bodies engaged. The question of what to do with the ruin has been contested since the 2018 fire: a July 2018 debate in The Art Newspaper set out the rival options — a faithful rebuild, leaving the shell as a ruin, or a wholly new design — with architect David Chipperfield backing reconstruction (and national-monument status) while others such as Alan Dunlop urged a design competition and 'a public debate' over the site's future, a tension the current cost decision reopens.",
    "outcome": "The GSA has ruled out a solo faithful reinstatement of the Mackintosh Building, citing a £265m cost and a significant funding gap, and will pursue stabilisation and a wider redevelopment while seeking external public funding. [FOLLOW-UP PENDING: whether external funding is secured and what form any rebuild or reinstatement ultimately takes.]",
    "tags": "Historic preservation, Conservation, Institutional crisis",
    "court_case": "No",
@@ -16694,15 +16697,17 @@
    "outlets": [
     "STV News",
     "Arts Professional",
-    "UPI"
+    "UPI",
+    "The Art Newspaper"
    ],
    "source": "https://news.stv.tv/west-central/glasgow-school-of-art-cant-afford-to-restore-fire-hit-mackintosh-building",
    "additional_sources": [
     "https://www.artsprofessional.co.uk/news/glasgow-school-of-art-cannot-afford-full-265m-restoration-of-fire-hit-mackintosh-building",
-    "https://www.upi.com/Top_News/World-News/2026/07/22/scotland-glasgow-school-art-mackintosh-building/6361784750541/"
+    "https://www.upi.com/Top_News/World-News/2026/07/22/scotland-glasgow-school-art-mackintosh-building/6361784750541/",
+    "https://www.theartnewspaper.com/2018/07/10/the-glasgow-school-of-art-dilemma-rebuild-leave-in-ruins-or-design-a-whole-new-school"
    ],
    "themes": [],
-   "notes": "New parent. Historic-preservation controversy over the future of a twice-burned Mackintosh masterpiece: the contested question is whether a faithful reinstatement will happen at all. Reference article: STV News (full text). Corroborated by Arts Professional and UPI (search-result grade); the NYT also covered it (RSS headline, not read this run) — enrich on a personal-subscription pass. The 2014/2018 fires were accidental, so this is tagged as a preservation/conservation fight, not cultural-property destruction.",
+   "notes": "New parent. Historic-preservation controversy over the future of a twice-burned Mackintosh masterpiece: the contested question is whether a faithful reinstatement will happen at all — and, per the 2018 TAN debate, who decides (rebuild vs. ruin vs. new design, and the call for public consultation). Reference article: STV News (full text, 22 July 2026). Corroborated by Arts Professional and UPI (search-result grade). Background/public-input dimension drawn from The Art Newspaper's 10 July 2018 'dilemma' piece (full text retrieved this run) — added as an additional source, NOT the lead, because it predates this week's announcement by eight years. The NYT also covered the 2026 news (RSS headline, not read this run). The 2014/2018 fires were accidental, so this is a preservation/conservation fight, not cultural-property destruction.",
    "interested_parties": "Glasgow School of Art (Ann Priest, board chair); Charles Rennie Mackintosh Society; Historic Environment Scotland; RIAS; RIBA; Scottish Government; UK Government; Glasgow City Council",
    "coverage_geography": "UK, US, international",
    "follow_up_pending": true
@@ -16719,22 +16724,24 @@
    "date_controversy": "Second Circuit ruling 21 July 2026; suit filed 2021; contested works made 1989–1990",
    "date_discovered": "2026-07-23",
    "sort_date": "2026-07-21",
-   "description": "According to ARTnews and BusinessWorld (AP), a three-judge panel of the US Court of Appeals for the Second Circuit ruled on 21 July 2026 in favor of Jeff Koons, upholding the dismissal of a copyright suit brought by prop designer and sculptor Michael Hayden. Hayden alleged that Koons used his 1988 sculpture, without permission, credit, or a licensing fee, in three works from Koons's 'Made in Heaven' series made in 1989–1990, and sought compensation beginning in 2021. US District Judge Timothy Reif had dismissed the case as untimely, and the appeals court affirmed, reasoning that the 'discovery rule' governing the statute of limitations does not allow a plaintiff to ignore decades of widespread international media coverage of allegedly infringing art and then sue roughly thirty years later.",
+   "description": "According to The Art Newspaper (with corroborating coverage in ARTnews and BusinessWorld/AP), a three-judge panel of the US Court of Appeals for the Second Circuit ruled on 21 July 2026 in favor of Jeff Koons, upholding the dismissal of a copyright suit brought by prop designer and sculptor Michael Hayden. Hayden alleged that Koons incorporated his sculpture 'Il Serpente for Cicciolina', without permission, credit, or a licensing fee, into works from Koons's 'Made in Heaven' series (1989–91), and sought compensation beginning in 2021. US District Judge Timothy Reif had dismissed the case as untimely in February 2025, and the appeals court affirmed. Writing for the panel, Circuit Judge Denny Chin held that the 'discovery rule' governing the statute of limitations 'does not allow plaintiffs to bury their heads in the sand, ignore widespread international media coverage of allegedly infringing art, and then sue for potential infringement some 30 years later'; Hayden, who had lived in Italy, was found to have been on notice of the alleged infringement well before he sued.",
    "outcome": "The Second Circuit affirmed the dismissal of Hayden's copyright claims as time-barred, handing Koons a win; absent a further appeal, the ruling ends the case.",
    "tags": "Copyright/ownership, Legal challenge",
    "court_case": "Yes",
    "coverage_tier": "National",
    "outlets": [
+    "The Art Newspaper",
     "ARTnews",
     "BusinessWorld"
    ],
-   "source": "https://www.artnews.com/art-news/news/jeff-koons-made-in-heaven-series-lawsuit-appeal-win-1234793187/",
+   "source": "https://www.theartnewspaper.com/2026/07/23/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
    "additional_sources": [
+    "https://www.artnews.com/art-news/news/jeff-koons-made-in-heaven-series-lawsuit-appeal-win-1234793187/",
     "https://bworldonline.com/arts-and-leisure/2026/07/23/765237/us-appeals-court-upholds-win-for-artist-jeff-koons-in-copyright-case/"
    ],
    "themes": [],
-   "notes": "New parent. Appropriation-art copyright dispute resolved on timeliness grounds (statute of limitations / discovery rule), not on the merits of infringement or fair use. Sources retrieved this run at search-result grade (ARTnews, BusinessWorld/AP); no full article body was read, so no direct quotations are used. The Second Circuit opinion (Hayden v. Koons, No. 25-498-cv, 21 July 2026) is available on CourtListener for enrichment.",
-   "interested_parties": "Jeff Koons; Michael Hayden (sculptor / prop designer); Judge Timothy Reif (SDNY); US Court of Appeals for the Second Circuit",
+   "notes": "New parent. Appropriation-art copyright dispute resolved on timeliness grounds (statute of limitations / discovery rule), not on the merits of infringement or fair use. Reference article: The Art Newspaper (full text retrieved this run), which identifies the contested work as Hayden's 'Il Serpente for Cicciolina' and the authoring appellate judge as Circuit Judge Denny Chin (the quoted line is Chin's); District Judge Timothy Reif issued the underlying Feb 2025 dismissal. Corroborated by ARTnews and BusinessWorld/AP (search-result grade). The Second Circuit opinion (Hayden v. Koons, No. 25-498-cv, 21 July 2026) is on CourtListener for enrichment. themes: [] pending a new Dissensus theme for copyright / authorship / appropriation (flagged to maintainer 23 July 2026).",
+   "interested_parties": "Jeff Koons; Michael Hayden (sculptor / prop designer); Judge Timothy Reif (SDNY, dismissed Feb 2025); Circuit Judge Denny Chin (Second Circuit, authored the opinion); US Court of Appeals for the Second Circuit",
    "coverage_geography": "US",
    "follow_up_pending": false
   },
