@@ -110,6 +110,8 @@ An entry can carry zero, one, or multiple theme tags:
 8. Artist Responsibility — Does an artist owe specific affected audiences?
 9. Public Objection — When the public objects to publicly funded/sited art, whose view prevails?
 10. Art and Capital — When art is treated primarily as a financial asset, what is lost, who benefits, who bears the cost?
+11. Authorship & Appropriation — Who owns an image or form, and when does borrowing, quotation, or appropriation become infringement? (copyright/ownership, plagiarism, appropriation art, AI training-data and attribution disputes)
+12. Restitution & Repatriation — To whom does cultural property rightfully belong, and what duty of return does present possession carry? (Nazi-era loot, colonial repatriation, source-nation antiquities claims)
 
 ---
 

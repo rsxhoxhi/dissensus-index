@@ -17,6 +17,7 @@ match the retrieved body. That residue belongs to human review.
 """
 import json
 import re
+import subprocess
 import sys
 from datetime import date
 from pathlib import Path
@@ -57,6 +58,10 @@ DOMAIN_TO_OUTLET = {
     "archpaper.com": "The Architect's Newspaper",
     "newrepublic.com": "The New Republic",
     "mediarelations.gwu.edu": "George Washington University",
+    "news.stv.tv": "STV News",
+    "artsprofessional.co.uk": "Arts Professional",
+    "upi.com": "UPI",
+    "bworldonline.com": "BusinessWorld",
 }
 
 ALIASES = {
@@ -95,7 +100,26 @@ def main():
     full    = {norm(r["outlet"]) for r in ledger["retrievals"] if r["status"] == "success"}
 
     cases = json.loads(CASES_PATH.read_text())["cases"]
-    todays_entries = [c for c in cases if today in c.get("date_discovered", "")]
+
+    # The gate validates entries authored by THIS run. Entries already merged
+    # to origin/main were gated on their own run; exclude them so a quick-add
+    # from an earlier session that happens to share today's date_discovered is
+    # not re-litigated against a ledger it was never part of. If origin/main
+    # can't be read, fall back to checking every entry dated today.
+    base_ids = set()
+    try:
+        base_json = subprocess.run(
+            ["git", "show", "origin/main:data/cases.json"],
+            cwd=REPO_ROOT, capture_output=True, text=True, check=True,
+        ).stdout
+        base_ids = {c["id"] for c in json.loads(base_json)["cases"]}
+    except Exception as e:
+        print(f"WARN: could not read origin/main:data/cases.json ({e}); checking all entries dated today.")
+
+    todays_entries = [
+        c for c in cases
+        if today in c.get("date_discovered", "") and c.get("id") not in base_ids
+    ]
 
     failures = []
     for entry in todays_entries:
