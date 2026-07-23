@@ -51,6 +51,12 @@ DOMAIN_TO_OUTLET = {
     "cnn.com": "CNN",
     "courtlistener.com": "CourtListener",
     "storage.courtlistener.com": "CourtListener",
+    "archdaily.com": "ArchDaily",
+    "dezeen.com": "Dezeen",
+    "oc-media.org": "OC Media",
+    "archpaper.com": "The Architect's Newspaper",
+    "newrepublic.com": "The New Republic",
+    "mediarelations.gwu.edu": "George Washington University",
 }
 
 ALIASES = {
