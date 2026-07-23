@@ -787,6 +787,34 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-002-E",
+   "entry_id": "002-E",
+   "seq": 554,
+   "title": "Louvre heist: Apollo Gallery reopens empty nine months after crown jewels theft",
+   "artist": "N/A",
+   "institution": "Musée du Louvre, Paris",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Apollo Gallery reopened 22 July 2026; crown jewels stolen October 2025",
+   "date_discovered": "2026-07-23",
+   "sort_date": "2026-07-22",
+   "description": "UPDATE to ACI-002 (the October 2025 Louvre crown jewels heist and institutional crisis). According to Artforum (22 July 2026), the Louvre reopened its Galerie d'Apollon — the room from which eight pieces of the French crown jewels were stolen in the October 2025 heist — nine months after the theft, with the display cases now standing empty. Louvre director Christophe Leribault said the jewels, when recovered or restored, would not be returned to the gallery: \"The jewels will be returned to a vault, without windows.\" All eight stolen pieces remain unrecovered, including a sapphire necklace associated with Napoleon's stepdaughter and an emerald necklace set with more than 1,000 diamonds; Empress Eugénie's tiara, damaged during the theft, is undergoing restoration. A French government audit found the museum's security was significantly inadequate before the robbery; former director Laurence des Cars resigned in the aftermath.",
+   "outcome": "The Apollo Gallery has reopened to the public with empty cases; all eight stolen crown-jewel pieces remain unrecovered, and the Louvre says recovered or restored jewels will be kept in a windowless vault rather than returned to display. [FOLLOW-UP PENDING: recovery of the stolen jewels and the outcome of the criminal investigation.]",
+   "tags": "Institutional crisis, Security failure",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "Artforum"
+   ],
+   "source": "https://www.artforum.com/news/louvre-reopens-apollo-gallery-nine-months-after-jewel-heist-1234755330/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Sub-entry of ACI-002 (Louvre Crown Jewels Heist / Institutional Crisis). Thin milestone entry: the reopening is a development in the tracked institutional-crisis case rather than a fresh dispute — flagged for editorial review. Reference article: Artforum (full text retrieved this run). Christophe Leribault is the newly appointed director; Laurence des Cars resigned after the heist. Cross-refs: ACI-002, ACI-002-A/B/C/D.",
+   "interested_parties": "Christophe Leribault (Louvre director); Catherine Pégard (French Culture Minister); Laurence des Cars (former Louvre director)",
+   "coverage_geography": "France, international",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-190",
    "entry_id": "190",
    "seq": 421,
@@ -16613,6 +16641,129 @@
    "notes": "New parent (umbrella for the Section 106 / National Historic Preservation Act regulatory rewrite). This rule change is the process layer beneath several tracked cases whose Section 106 reviews it would weaken: ACI-038 (Trump triumphal arch), ACI-050 (White House ballroom / East Wing), ACI-046 (Lincoln Memorial Reflecting Pool), ACI-005 (Kennedy Center), ACI-075 (EEOB), and it echoes ACI-258 (national-monument reductions; Indigenous/preservation). Quick-add at maintainer request on 23 July 2026 UTC (just after midnight; this session began on the 22 July scan). date_discovered reflects the 23rd; the event and other entries in this PR remain the 22 July scan. Reference article: The Architect's Newspaper (full text). WaPo, CNN and The New Republic direct fetches were blocked/paywalled this run and were reached via search results (snippet grade); enrich from their full text on a personal-subscription pass. Correction pass: the 'fast-track projects that destroy...' quote is Sara Bronin's (George Washington University media statement, 20 July 2026), not CNN's, and is now attributed and sourced accordingly. Externalised-obedience / political-interference frame: rollback of the public-participation mechanism itself, not a single project.",
    "interested_parties": "Advisory Council on Historic Preservation (ACHP); Sara Bronin (former ACHP chair, GW Law); Greg Werkheiser (Cultural Heritage Partners); Office of Management and Budget; Tribal Nations (Oak Flat / Chi'chil Bildagoteel)",
    "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-271",
+   "entry_id": "271",
+   "seq": 555,
+   "title": "Protesters demand Museum of Chinese in America disavow $35M city grant they call 'jail money'",
+   "artist": "N/A (institutional)",
+   "institution": "Museum of Chinese in America (MOCA), New York",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Town-hall protest 21 July 2026; $35m NYC capital grant accepted 2019",
+   "date_discovered": "2026-07-23",
+   "sort_date": "2026-07-21",
+   "description": "According to Hyperallergic (22 July 2026), protesters gathered at a town hall on 21 July 2026 to challenge the Museum of Chinese in America (MOCA) over a $35 million capital grant it accepted from New York City in 2019 and used to purchase its Centre Street building. Activists — organized through groups including Youth Against Displacement (YAD), the Coalition to Protect Chinatown, Planet Over Profit and East River Park ACTION — argue the grant is tied to the city's Manhattan borough-based jail plan and have branded it \"jail money,\" demanding that MOCA acknowledge the connection and publicly oppose the jail's construction. One protester asked, \"Will MOCA ever admit that the $35 million dollars is jail money?\" MOCA president Michael Lee said the grant was necessary for the institution's survival and not a form of support for the jail, told attendees \"We respect everybody's right to protest,\" and urged activists to redirect their advocacy toward relocating the jail rather than criticizing the museum.",
+   "outcome": "MOCA president Michael Lee defended the 2019 grant as essential to the museum's survival and declined to disavow it; protesters continue to demand that the museum acknowledge the grant's link to the jail plan and oppose the jail's construction. [FOLLOW-UP PENDING: whether MOCA responds further and how the Chinatown jail dispute develops.]",
+   "tags": "Funding dispute, Community objection",
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/protesters-decry-chinatown-museums-acceptance-of-jail-money-at-town-hall/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "New parent. Dispute over the ethics of an institution's public funding source (the 2019 NYC capital grant activists tie to the borough-based jail plan). The Index records the documented facts and attributes the 'jail money' characterization to the protesters, not to its own voice. Single-source this run (Hyperallergic, full text retrieved). Themes: 2 (Public Funding), 4 (Institutional Risk). Enrich with NYC local coverage on a US-local trawl day.",
+   "interested_parties": "Michael Lee (MOCA president); Youth Against Displacement (Zi Shun Ning); Coalition to Protect Chinatown; East River Park ACTION (Pat Arnow); Rocky Chin (civil rights attorney)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-272",
+   "entry_id": "272",
+   "seq": 556,
+   "title": "Glasgow School of Art says it cannot afford a £265m faithful rebuild of the fire-hit Mackintosh building",
+   "artist": "Charles Rennie Mackintosh (original architect)",
+   "institution": "Glasgow School of Art (GSA); Mackintosh Building",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Strategic Outline Business Case Addendum published; reported 22–23 July 2026; building gutted by fires in 2014 and 2018",
+   "date_discovered": "2026-07-23",
+   "sort_date": "2026-07-22",
+   "description": "According to STV News (with corroborating coverage in Arts Professional and UPI), the Glasgow School of Art announced on 22 July 2026 that it cannot afford, on its own, a faithful reinstatement of the Mackintosh Building — the Category A-listed 1909 masterpiece by Charles Rennie Mackintosh that was gutted by fire in 2014 and again in 2018 during restoration. In a Strategic Outline Business Case Addendum, published after the settlement of a long-running insurance claim over the 2018 blaze, the GSA put the cost of full faithful reinstatement at roughly £265 million — described as about five times its annual turnover and roughly four times previous estimates — and said proceeding alone would compromise the institution's financial sustainability. Board chair Ann Priest said, \"We cannot put the financial sustainability of the GSA at risk in doing so.\" The school said it will instead stabilise the surviving structure, remove the external scaffolding in place since 2018, and pursue a 'creative and cultural-led innovation district' anchored by the building, while seeking external funding from the Scottish Government, UK Government and Glasgow City Council. The Charles Rennie Mackintosh Society, Historic Environment Scotland, RIAS and RIBA are among the bodies engaged.",
+   "outcome": "The GSA has ruled out a solo faithful reinstatement of the Mackintosh Building, citing a £265m cost and a significant funding gap, and will pursue stabilisation and a wider redevelopment while seeking external public funding. [FOLLOW-UP PENDING: whether external funding is secured and what form any rebuild or reinstatement ultimately takes.]",
+   "tags": "Historic preservation, Conservation, Institutional crisis",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "STV News",
+    "Arts Professional",
+    "UPI"
+   ],
+   "source": "https://news.stv.tv/west-central/glasgow-school-of-art-cant-afford-to-restore-fire-hit-mackintosh-building",
+   "additional_sources": [
+    "https://www.artsprofessional.co.uk/news/glasgow-school-of-art-cannot-afford-full-265m-restoration-of-fire-hit-mackintosh-building",
+    "https://www.upi.com/Top_News/World-News/2026/07/22/scotland-glasgow-school-art-mackintosh-building/6361784750541/"
+   ],
+   "themes": [],
+   "notes": "New parent. Historic-preservation controversy over the future of a twice-burned Mackintosh masterpiece: the contested question is whether a faithful reinstatement will happen at all. Reference article: STV News (full text). Corroborated by Arts Professional and UPI (search-result grade); the NYT also covered it (RSS headline, not read this run) — enrich on a personal-subscription pass. The 2014/2018 fires were accidental, so this is tagged as a preservation/conservation fight, not cultural-property destruction.",
+   "interested_parties": "Glasgow School of Art (Ann Priest, board chair); Charles Rennie Mackintosh Society; Historic Environment Scotland; RIAS; RIBA; Scottish Government; UK Government; Glasgow City Council",
+   "coverage_geography": "UK, US, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-273",
+   "entry_id": "273",
+   "seq": 557,
+   "title": "Jeff Koons wins Second Circuit appeal in 'Made in Heaven' copyright suit over a Hayden sculpture",
+   "artist": "Jeff Koons",
+   "institution": "US Court of Appeals for the Second Circuit",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Second Circuit ruling 21 July 2026; suit filed 2021; contested works made 1989–1990",
+   "date_discovered": "2026-07-23",
+   "sort_date": "2026-07-21",
+   "description": "According to ARTnews and BusinessWorld (AP), a three-judge panel of the US Court of Appeals for the Second Circuit ruled on 21 July 2026 in favor of Jeff Koons, upholding the dismissal of a copyright suit brought by prop designer and sculptor Michael Hayden. Hayden alleged that Koons used his 1988 sculpture, without permission, credit, or a licensing fee, in three works from Koons's 'Made in Heaven' series made in 1989–1990, and sought compensation beginning in 2021. US District Judge Timothy Reif had dismissed the case as untimely, and the appeals court affirmed, reasoning that the 'discovery rule' governing the statute of limitations does not allow a plaintiff to ignore decades of widespread international media coverage of allegedly infringing art and then sue roughly thirty years later.",
+   "outcome": "The Second Circuit affirmed the dismissal of Hayden's copyright claims as time-barred, handing Koons a win; absent a further appeal, the ruling ends the case.",
+   "tags": "Copyright/ownership, Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews",
+    "BusinessWorld"
+   ],
+   "source": "https://www.artnews.com/art-news/news/jeff-koons-made-in-heaven-series-lawsuit-appeal-win-1234793187/",
+   "additional_sources": [
+    "https://bworldonline.com/arts-and-leisure/2026/07/23/765237/us-appeals-court-upholds-win-for-artist-jeff-koons-in-copyright-case/"
+   ],
+   "themes": [],
+   "notes": "New parent. Appropriation-art copyright dispute resolved on timeliness grounds (statute of limitations / discovery rule), not on the merits of infringement or fair use. Sources retrieved this run at search-result grade (ARTnews, BusinessWorld/AP); no full article body was read, so no direct quotations are used. The Second Circuit opinion (Hayden v. Koons, No. 25-498-cv, 21 July 2026) is available on CourtListener for enrichment.",
+   "interested_parties": "Jeff Koons; Michael Hayden (sculptor / prop designer); Judge Timothy Reif (SDNY); US Court of Appeals for the Second Circuit",
+   "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-274",
+   "entry_id": "274",
+   "seq": 558,
+   "title": "Musée des Beaux-Arts d'Orléans launches 'Wanted' campaign to trace 424 Nazi-looted works",
+   "artist": "N/A (multiple; incl. attributed Raphael workshop, Manet, Holbein, van Dyck)",
+   "institution": "Musée des Beaux-Arts d'Orléans, France",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Campaign reported 23 July 2026",
+   "date_discovered": "2026-07-23",
+   "sort_date": "2026-07-22",
+   "description": "According to ARTnews (23 July 2026), the Musée des Beaux-Arts d'Orléans has launched a 'Wanted'-poster campaign to help trace 424 paintings that were looted from its collection during the Second World War and remain missing. The missing works are said to include one attributed to Raphael's Renaissance workshop, an Édouard Manet, and pieces by the Italian 15th-century painter Lorenzo Costa, the German painter Hans Holbein the Younger, and the Flemish painter Anthony van Dyck. The museum notes the works are inalienable and imprescriptible under French law and intends the campaign as a tool for auctioneers, dealers and other professionals to flag the works if they surface. Three paintings have been returned to the museum over the past two years.",
+   "outcome": "The awareness campaign is ongoing; 424 works remain unaccounted for, with three recovered in the past two years. [FOLLOW-UP PENDING: any further recoveries or returns prompted by the campaign.]",
+   "tags": "Repatriation, Provenance dispute",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/wanted-looted-paintings-from-french-museum-wwii-era-1234793192/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent — THIN and borderline: a recovery/restitution awareness campaign rather than an active dispute with opposing parties; flagged for editorial review. Snippet-grade source (ARTnews; full text truncated on fetch this run), so no direct quotations are used. Distinct from the Musée d'Orsay MNR gallery (a separate, older May 2026 story). Enrich with AP wire and French-language sources on the Wednesday Europe trawl.",
+   "interested_parties": "Musée des Beaux-Arts d'Orléans",
+   "coverage_geography": "France, US, international",
    "follow_up_pending": true
   }
  ]
