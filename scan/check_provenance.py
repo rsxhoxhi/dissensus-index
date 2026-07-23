@@ -54,6 +54,8 @@ DOMAIN_TO_OUTLET = {
     "archdaily.com": "ArchDaily",
     "dezeen.com": "Dezeen",
     "oc-media.org": "OC Media",
+    "archpaper.com": "The Architect's Newspaper",
+    "newrepublic.com": "The New Republic",
 }
 
 ALIASES = {
