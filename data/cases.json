@@ -15793,7 +15793,7 @@
    "date_discovered": "2026-07-14",
    "sort_date": "2026-07-09",
    "description": "On July 6, 2026, 'Ecos del Sol' (Echoes of the Sun) by Studio Campo Baeza (Madrid) and MAODA (Ecuador) was announced as the winner of the competition to design the new National Museum of Ecuador (MuNA) in La Carolina Park, Quito -- a roughly $100 million project intended to house some 1.4 million heritage artifacts -- beating 148 entries from more than 20 countries. The minimalist concrete design drew rapid public criticism; an online petition calling for reconsideration (on Change.org) gathered more than 20,000 signatures, stating that 'a heritage that tells our Andean, Amazonian, coastal, and insular history cannot be contained within a structure that emulates the homogeneity of high-rise corporate real estate projects,' and citing concerns over landscaping and park integration, national identity, and a lack of technical and financial transparency. Ecuador's vice minister of culture and heritage, Romina Munoz, resigned on July 9, 2026, after publicly stating the matter 'goes beyond aesthetic preferences'; MuNA executive director Carlos Eduardo Montalvo Puente subsequently stepped down. Officials have not definitively linked the departures to the design controversy. As reported by Artforum, ARTnews, The Architect's Newspaper, and Ecuadorian outlets Primicias and Expreso.",
-   "outcome": "Design announced and defended by the ministry; the petition remained open and two senior culture officials resigned. No decision to revisit the design announced as of July 14, 2026. [FOLLOW-UP PENDING: whether the ministry reopens or revises the design and the outcome of the petition.]",
+   "outcome": "The July 6, 2026 selection of 'Ecos del Sol' was annulled on July 10, 2026 following the petition, and a reopened competition was won on July 19, 2026 by SANAA's 'Living Strata' (see ACI-242-A). Two senior culture officials resigned. The design question flagged here is resolved by the reversal.",
    "tags": "Design controversy, Community objection, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "International",
@@ -15812,7 +15812,38 @@
    "notes": "New parent; caught on the daily outlet scan (ARTnews/Artforum) and corroborated in Ecuadorian press (Primicias, Expreso). A Latin America story surfacing outside Monday's trawl. Objections (national identity, transparency, park integration) are attributed to petitioners; the 'beyond aesthetic preferences' framing is attributed to VM Munoz. Officials have not confirmed the resignations were caused by the controversy -- stated as such rather than asserted. Theme 2 (Public Funding) and Theme 9 (Public Objection). The quoted petition text is from the Change.org petition itself (https://www.change.org/p/revaluar-la-propuesta-para-el-museo-nacional-del-ecuador), not the Artforum article. Sources this run: Artforum (fetched); ARTnews, Archpaper, Primicias, Expreso (search results); Change.org petition (maintainer-provided on review).",
    "interested_parties": "Studio Campo Baeza; MAODA; Ministry of Culture and Heritage of Ecuador; Romina Munoz (former vice minister of culture); Carlos Eduardo Montalvo Puente (former MuNA executive director)",
    "coverage_geography": "Ecuador, Spain, US",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-242-A",
+   "entry_id": "242-A",
+   "seq": 559,
+   "title": "National Museum of Ecuador (MuNA): competition annulled after petition; SANAA's 'Living Strata' wins reopened contest",
+   "artist": "SANAA (Kazuyo Sejima and Ryue Nishizawa) with partner firms -- winning architects; Studio Campo Baeza and MAODA -- annulled selection",
+   "institution": "Museo Nacional del Ecuador (MuNA); Ministry of Culture and Heritage of Ecuador",
+   "country": "Ecuador",
+   "governance_type": "Democracy",
+   "date_controversy": "Competition annulled July 10, 2026; reopened contest won July 19, 2026",
+   "date_discovered": "2026-07-24",
+   "sort_date": "2026-07-19",
+   "description": "According to The Art Newspaper (23 July 2026), the Ecuadorian government annulled the results of the National Museum of Ecuador (MuNA) design competition on July 10, 2026, days after the July 6 selection of 'Ecos del Sol' by Studio Campo Baeza (Madrid) and MAODA (Ecuador) drew an online petition of more than 20,000 signatures. Infrastructure minister Roberto Luque said of the annulment, 'we have listened to you carefully, and not only that, we agree with you.' A reopened competition concluded on July 19, 2026, with 'Living Strata' by the Japanese firm SANAA and partner firms selected; the design presents the museum as overlapping layers with circular forms the architects describe as evoking ancestral gathering spaces, and gardens extending into the building. MuNA director Carlos Montalvo had resigned on July 15, 2026, citing his own initiative; vice minister of culture Romina Munoz resigned July 9 (see parent ACI-242).",
+   "outcome": "The original selection was annulled and a new competition held; SANAA's 'Living Strata' was chosen on July 19, 2026. This resolves the reopen/revise question flagged on the parent. Budget and construction timeline for the new design remain to be confirmed.",
+   "tags": "Design controversy, Community objection",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/23/museo-nacional-del-ecuador-design-competition-controversy",
+   "additional_sources": [],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-242 (MuNA design competition). Resolves the parent's follow-up (whether the ministry would reopen or revise the design): it annulled the July 6 result on July 10 after the 20,000+ petition and selected SANAA's 'Living Strata' in a reopened contest July 19. Luque's quote and the July 15 Montalvo resignation are from the fetched TAN article. Single-source (TAN) at logging; Ecuadorian-press enrichment deferred to Monday's Latin America trawl.",
+   "interested_parties": "SANAA (Kazuyo Sejima; Ryue Nishizawa); Studio Campo Baeza; MAODA; Roberto Luque (infrastructure minister); Ministry of Culture and Heritage of Ecuador; Carlos Montalvo (former MuNA director)",
+   "coverage_geography": "Ecuador, Japan, Spain, US",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-243",
@@ -16776,6 +16807,78 @@
    "interested_parties": "Musée des Beaux-Arts d'Orléans",
    "coverage_geography": "France, US, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-275",
+   "entry_id": "275",
+   "seq": 560,
+   "title": "Kansong Art Museum returns pair of Qing-dynasty stone lions to China",
+   "artist": "N/A (pair of Qing-dynasty marble guardian lions)",
+   "institution": "Kansong Art Museum, Seoul; National Museum of Korea; China's National Cultural Heritage Administration (NCHA)",
+   "country": "South Korea",
+   "governance_type": "Democracy",
+   "date_controversy": "Handover ceremony July 23, 2026 (return agreed late 2025)",
+   "date_discovered": "2026-07-24",
+   "sort_date": "2026-07-23",
+   "description": "According to the Korea Herald, South China Morning Post, Xinhua and Kyunghyang Shinmun, a handover ceremony was held on July 23, 2026 at the Kansong Art Museum in Seoul for a pair of Qing-dynasty stone lions returned by South Korea to China. The male and female marble guardian lions, each about 1.9 metres tall and weighing roughly 1.25 tonnes, are thought to have stood at the entrance of a Qing prince's or princess's residence. They were bought in 1933 by Jeon Hyeong-pil, founder of the Kansong Art Museum, at an auction in Osaka, Japan, and had stood at the entrance to the museum's Bohwagak hall since it opened in 1938. Following talks between China's National Cultural Heritage Administration and the National Museum of Korea in late 2025, the two sides agreed on the return; the South China Morning Post characterised the transfer as a cultural-diplomacy gesture. The lions are expected to go on display at a Chinese national museum later in 2026.",
+   "outcome": "The lions were formally handed over on July 23, 2026 and are to be displayed at a Chinese national museum later in the year. A voluntary, negotiated institution-to-institution return rather than a contested claim.",
+   "tags": "Repatriation",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Korea Herald",
+    "South China Morning Post",
+    "Xinhua",
+    "Kyunghyang Shinmun"
+   ],
+   "source": "https://www.koreaherald.com/article/10818419",
+   "additional_sources": [
+    "https://www.scmp.com/news/china/diplomacy/article/3361739/south-korea-returns-looted-qing-dynasty-lions-china-cultural-diplomacy-win",
+    "https://english.news.cn/asiapacific/20260723/f58b5f4b681c4e1bbf75602e1bf9b569/c.html",
+    "https://www.khan.co.kr/en/article/202607231642007/"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Repatriation resolution / cluster anchor (cf. ACI-274 Orleans; ACI-212-A; ACI-237) rather than a dispute with opposing parties -- logged per the repatriation-anchor convention. Provenance note: the lions entered the Kansong collection via a 1933 Osaka auction (Japanese colonial-era circulation). The SCMP 'looted' / 'cultural diplomacy win' framing is the outlet's, not asserted here. Chinese state outlets (Xinhua, Global Times) and Korean outlets (Korea Herald, Kyunghyang) both cover -- coverage moving across the China-Korea media ecosystem. All cited sources snippet-grade this run (search results).",
+   "interested_parties": "Kansong Art Museum; National Museum of Korea; China's National Cultural Heritage Administration (NCHA); Jeon Hyeong-pil (Kansong founder, historical)",
+   "coverage_geography": "South Korea, China",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-276",
+   "entry_id": "276",
+   "seq": 561,
+   "title": "US returns looted Papua cultural artifacts to Indonesia at FBI-Prabowo handover",
+   "artist": "N/A (Papuan stone ax heads and ceremonial objects; Dani, Asmat and Lake Sentani communities)",
+   "institution": "US Federal Bureau of Investigation; National Museum of Indonesia; Indonesia Ministry of Culture",
+   "country": "Indonesia",
+   "governance_type": "Democracy",
+   "date_controversy": "Handover July 22, 2026, Jakarta",
+   "date_discovered": "2026-07-24",
+   "sort_date": "2026-07-22",
+   "description": "According to The Hill (carrying an Associated Press report), The Washington Post and The Manila Times, the United States returned a set of looted Papuan cultural artifacts to Indonesia on July 22, 2026 at a meeting in Jakarta between Indonesian President Prabowo Subianto and FBI Director Kash Patel. The items -- polished stone ax heads and ceremonial objects tied to the Dani and Asmat peoples and Lake Sentani communities of the Papua region -- had been smuggled out of Indonesia; the FBI and Indonesia's culture ministry identified them for return after provenance research established they had been trafficked. The artifacts are to be displayed at the National Museum of Indonesia. Coverage framed the handover as part of expanding US-Indonesia cooperation on recovering trafficked cultural property.",
+   "outcome": "The artifacts were handed over on July 22, 2026 and are to be displayed at the National Museum of Indonesia. A negotiated repatriation following provenance research; no contested claim between opposing parties.",
+   "tags": "Repatriation, Indigenous rights",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Hill",
+    "The Washington Post",
+    "The Manila Times"
+   ],
+   "source": "https://thehill.com/policy/international/5987370-us-returns-papua-cultural-artifacts/",
+   "additional_sources": [
+    "https://www.washingtonpost.com/world/2026/07/23/indonesia-fbi-patel-stolen-artifacts-repatriation/",
+    "https://www.manilatimes.net/2026/07/24/world/asia-oceania/us-returns-looted-cultural-artifacts-to-indonesia/2390267"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Repatriation resolution / cluster anchor (cf. ACI-212-A Manhattan DA returns to Italy/Iraq/Indonesia; ACI-237 trafficked bronzes) rather than an active dispute. The objects are Papuan (Dani/Asmat/Lake Sentani), giving an Indigenous-heritage dimension. The diplomatic staging (Patel-Prabowo in Jakarta) is noted but not the Index's framing. WaPo carried the story (direct fetch blocked; obtained via search-result snippet). All cited sources snippet-grade this run; enrichment deferred.",
+   "interested_parties": "President Prabowo Subianto; FBI Director Kash Patel; Indonesia Ministry of Culture; National Museum of Indonesia",
+   "coverage_geography": "Indonesia, US",
+   "follow_up_pending": false
   }
  ]
 }

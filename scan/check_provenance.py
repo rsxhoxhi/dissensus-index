@@ -62,6 +62,12 @@ DOMAIN_TO_OUTLET = {
     "artsprofessional.co.uk": "Arts Professional",
     "upi.com": "UPI",
     "bworldonline.com": "BusinessWorld",
+    "koreaherald.com": "The Korea Herald",
+    "scmp.com": "South China Morning Post",
+    "english.news.cn": "Xinhua",
+    "khan.co.kr": "Kyunghyang Shinmun",
+    "thehill.com": "The Hill",
+    "manilatimes.net": "The Manila Times",
 }
 
 ALIASES = {
