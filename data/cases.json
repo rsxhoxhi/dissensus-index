@@ -14148,6 +14148,40 @@
    ]
   },
   {
+   "id": "ACI-008-AF",
+   "entry_id": "008-AF",
+   "seq": 565,
+   "title": "Venice Biennale: president rejects EU funding cut as political; foundation to appeal",
+   "artist": "N/A",
+   "institution": "La Biennale di Venezia; European Commission / EACEA",
+   "country": "Italy",
+   "governance_type": "Democracy",
+   "date_controversy": "Biennale president's rejection and appeal announced week of 21 July 2026",
+   "date_discovered": "2026-07-26",
+   "sort_date": "2026-07-23",
+   "description": "Following the EU's formal withdrawal of the €2 million grant (see ACI-008-AE), Venice Biennale president Pietrangelo Buttafuoco publicly rejected the cut as a political rather than legal decision (ARTnews, 23 July 2026), and the foundation said it would \"defend its position before the competent authorities,\" announcing an appeal against the European Commission's decision (Euronews, 21 July 2026). The Biennale noted the withdrawn funds supported its Cinema Department rather than the Art Biennale. The European Commission said cultural events funded by Union money must uphold \"democratic values, dialogue, diversity and freedom of expression,\" principles it said are \"not respected in today's Russia.\"",
+   "outcome": "The Biennale has publicly rejected the withdrawal and is proceeding with a formal appeal to the competent authorities; the €2m grant remains withdrawn pending that challenge. [FOLLOW-UP PENDING: the appeal's filing and its outcome.]",
+   "tags": "Funding dispute, Geopolitics",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "Euronews",
+    "ARTnews"
+   ],
+   "source": "https://www.euronews.com/culture/2026/07/21/russia-at-venice-biennale-brussels-cuts-2-million-in-eu-funds-appeal-planned",
+   "themes": [
+    3,
+    4
+   ],
+   "notes": "Sub-entry of ACI-008 (2026 Venice Biennale); develops ACI-008-AE (EU's formal €2m withdrawal). Captures the president's (Pietrangelo Buttafuoco) public rejection and the foundation's appeal announcement. Externalised/funding-conditionality frame: EU cultural funding tied to democratic-values compliance. Buttafuoco's characterization of the cut as political-not-legal is reported by ARTnews (headline/snippet grade, not full-text retrieved this run); the direct quotations carried in this entry are drawn from the full-text Euronews report.",
+   "interested_parties": "Pietrangelo Buttafuoco (Biennale president); La Biennale di Venezia; European Commission / EACEA",
+   "coverage_geography": "Italy, EU, international",
+   "follow_up_pending": true,
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/pietrangelo-buttafuoco-eu-grant-withdrawal-venice-biennale-1234793350/"
+   ]
+  },
+  {
    "id": "ACI-007",
    "entry_id": "007",
    "seq": 6,
@@ -17043,6 +17077,67 @@
    "interested_parties": "Matthew Taylor; US Commission of Fine Arts; National Endowment for the Humanities; Steve Bannon; Kash Patel; White House",
    "coverage_geography": "US",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-279",
+   "entry_id": "279",
+   "seq": 566,
+   "title": "Court suspends removal of Gijón monument to 1936 anti-Republic rebels",
+   "artist": "N/A",
+   "institution": "Colegio de la Inmaculada Concepción (Jesuit); Principado de Asturias; Tribunal Superior de Justicia de Asturias (TSJA)",
+   "country": "Spain",
+   "governance_type": "Democracy",
+   "date_controversy": "Court suspension issued 23 July 2026; monument installed 1958",
+   "date_discovered": "2026-07-26",
+   "sort_date": "2026-07-23",
+   "description": "According to Nortes (23 July 2026), the regional government (Principado de Asturias) ordered the removal of a sculptural group honoring military officers who joined the 1936 uprising against the Spanish Republic, mounted on the facade of the Colegio de la Inmaculada Concepción in Gijón (Xixón), Asturias, on the former site of the Simancas barracks. Removal had been sought by left-wing parties and historical-memory associations. On 23 July 2026 the administrative-litigation section of the Tribunal Superior de Justicia de Asturias granted a precautionary suspension of the removal order, finding it would pose risks \"to the safety and integrity\" of the sculptural ensemble and that no serious disturbance of general interests justified proceeding. The monument, installed in 1958, is owned by the Jesuit Compañía de Jesús, which cites its artistic and catalogued heritage value; local Foro and PP officials and Vox oppose removal, while a contextualizing historical plaque has been proposed as an alternative. The Principado has five days to appeal.",
+   "outcome": "The removal order is suspended pending appeal; the Principado de Asturias has five days to appeal the precautionary suspension. [FOLLOW-UP PENDING: the Principado's appeal and the final ruling on removal versus contextualization.]",
+   "tags": "Removal, Historical erasure, Legal challenge, Historic preservation",
+   "court_case": "Pending",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "Nortes"
+   ],
+   "source": "https://www.nortes.me/2026/07/23/la-justicia-suspende-la-retirada-del-monumento-a-los-militares-que-se-sublevaron-contra-la-republica-en-xixon/",
+   "themes": [
+    6
+   ],
+   "notes": "New parent. Spanish historical-memory (Ley de Memoria) monument-removal dispute over a 1936-uprising commemorative group. As a contested political monument whose heritage status is itself part of the dispute, it is tagged Removal / Historical erasure rather than the cultural-property-destruction umbrella (per CLAUDE.md §4). Governance-friction frame: memory-law removal contested through the courts. Single regional source (Nortes) at logging; enrich on the Wednesday Europe trawl with El Comercio / La Nueva España and any national pickup.",
+   "interested_parties": "Principado de Asturias; Tribunal Superior de Justicia de Asturias; Compañía de Jesús (Jesuits); Colegio de la Inmaculada; Foro Asturias; PP; Vox; historical-memory associations",
+   "coverage_geography": "Spain (Asturias)",
+   "follow_up_pending": true,
+   "additional_sources": []
+  },
+  {
+   "id": "ACI-280",
+   "entry_id": "280",
+   "seq": 567,
+   "title": "Cali's Monumento a la Resistencia: demolition vow and a faked collapse image",
+   "artist": "N/A (community-built structure, 2021 protests)",
+   "institution": "N/A (Puerto Rellena / Puerto Resistencia, Cali)",
+   "country": "Colombia",
+   "governance_type": "Democracy",
+   "date_controversy": "Fabricated demolition image circulated 17 July 2026; monument built during 2021 protests",
+   "date_discovered": "2026-07-26",
+   "sort_date": "2026-07-17",
+   "description": "According to El Tiempo (July 2026), the Monumento a la Resistencia — an artisanal structure erected during Colombia's 2021 social unrest in Cali's Puerto Rellena (Puerto Resistencia) sector — is sharply contested. Supporters seek to preserve it as cultural heritage and have pressed the city to formalize its protection; opponents, including local councilman Andrés Escobar and president-elect Abelardo de la Espriella, view it as representing \"insurgency and vandalism.\" De la Espriella has said he would \"order it torn down\" on his 7 August 2026 inauguration day, calling it a work erected by \"the terrorist first line of the city,\" while a middle-ground position proposes relocating it, citing interference with planned transit infrastructure. On 17 July 2026 a fabricated, AI-manipulated photograph showing the monument demolished circulated on social media; residents debunked it with photos and video confirming the structure stood, reigniting tensions ahead of the presidential transition. Defenders warned that forced demolition could trigger \"new and serious confrontations.\"",
+   "outcome": "The monument stands; its fate is tied to the 7 August 2026 presidential transition, with the incoming president having vowed demolition and defenders vowing resistance. [FOLLOW-UP PENDING: whether the monument is demolished, relocated, or protected after the 7 August 2026 inauguration.]",
+   "tags": "Removal, Community objection, Protest art, Political art, AI",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "El Tiempo"
+   ],
+   "source": "https://www.eltiempo.com/colombia/cali/falsa-imagen-del-supuesto-derrumbe-del-monumento-a-la-resistencia-reaviva-la-batalla-entre-defensores-y-detractores-de-la-polemica-edificacion-en-cali-3572174",
+   "themes": [
+    6,
+    9
+   ],
+   "notes": "New parent. Contested community-built protest monument from Colombia's 2021 estallido social; tagged Removal / Community objection (a contested political structure, not recognized heritage, so outside the cultural-property-destruction umbrella per CLAUDE.md §4). The AI tag marks the news hook: an AI-fabricated image of the monument's collapse. Watch the 7 Aug 2026 inauguration of president-elect Abelardo de la Espriella, who has vowed demolition. Cf. Cali memory-mural cases ACI-137-A, ACI-195. Single national source (El Tiempo) at logging; enrich on the Monday Latin America trawl.",
+   "interested_parties": "Abelardo de la Espriella (president-elect); Andrés Escobar (Cali councilman); Gustavo Petro (president); Cali city government; Primera Línea / defenders of the monument",
+   "coverage_geography": "Colombia",
+   "follow_up_pending": true,
+   "additional_sources": []
   }
  ]
 }
