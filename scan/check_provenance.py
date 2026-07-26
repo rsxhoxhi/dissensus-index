@@ -71,6 +71,7 @@ DOMAIN_TO_OUTLET = {
     "cbsnews.com": "CBS News",
     "nortes.me": "Nortes",
     "eltiempo.com": "El Tiempo",
+    "thelocal.fr": "The Local",
 }
 
 ALIASES = {
