@@ -69,6 +69,9 @@ DOMAIN_TO_OUTLET = {
     "thehill.com": "The Hill",
     "manilatimes.net": "The Manila Times",
     "cbsnews.com": "CBS News",
+    "nortes.me": "Nortes",
+    "eltiempo.com": "El Tiempo",
+    "thelocal.fr": "The Local",
 }
 
 ALIASES = {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T11:07:00.616813+00:00",
+  "generated_at": "2026-07-26T11:06:29.587466+00:00",
   "window_hours": 96,
   "feed_summary": [
     {
@@ -22,9 +22,9 @@
       "feed": "The Art Newspaper",
       "status": "ok",
       "total_in_feed": 61,
-      "in_window": 18,
-      "new_candidates": 16,
-      "already_logged": 2
+      "in_window": 12,
+      "new_candidates": 9,
+      "already_logged": 3
     },
     {
       "feed": "Artforum",
@@ -38,17 +38,17 @@
       "feed": "The Guardian (art)",
       "status": "ok",
       "total_in_feed": 23,
-      "in_window": 13,
-      "new_candidates": 13,
+      "in_window": 12,
+      "new_candidates": 12,
       "already_logged": 0
     },
     {
       "feed": "NYT Arts",
       "status": "ok",
       "total_in_feed": 64,
-      "in_window": 64,
-      "new_candidates": 64,
-      "already_logged": 0
+      "in_window": 62,
+      "new_candidates": 61,
+      "already_logged": 1
     }
   ],
   "candidates": [
@@ -159,6 +159,20 @@
     },
     {
       "source_feed": "ARTnews",
+      "title": "Thieves Snatch 2,500-Year-Old Celtic Gold Torque from French Museum in Broad Daylight",
+      "link": "https://www.artnews.com/art-news/news/thieves-snatch-2500-year-old-celtic-gold-torque-france-1234793494/",
+      "published": "2026-07-25T19:23:15+00:00",
+      "summary": "The museum had faced two previous nighttime burglary attempts in the past eight months."
+    },
+    {
+      "source_feed": "ARTnews",
+      "title": "Archie Rand’s Landmark Letter Paintings Acquired by Italy’s Modena FC Collection",
+      "link": "https://www.artnews.com/art-news/news/archie-rand-letter-paintings-modena-fc-acquisition-1234793377/",
+      "published": "2026-07-25T18:57:56+00:00",
+      "summary": "Rand has described the works as \"tombstones for the unheralded.\" They were, he said, an attempt to paint something modern art had largely forgotten: love."
+    },
+    {
+      "source_feed": "ARTnews",
       "title": "President Trump Orders Signs Installed Outside Smithsonian Warning Public of ‘Inaccurate Information’",
       "link": "https://www.artnews.com/art-news/news/trump-executive-order-smithsonian-signs-inaccurate-information-1234793483/",
       "published": "2026-07-25T01:18:15+00:00",
@@ -214,20 +228,6 @@
       "summary": "The museum show films in two theaters starting September 22."
     },
     {
-      "source_feed": "ARTnews",
-      "title": "Universal Disputes Claim It Left Replica Viking Ship Used in ‘The Odyssey’ Damaged",
-      "link": "https://www.artnews.com/art-news/news/the-odyssey-viking-ship-universal-repair-dispute-1234793353/",
-      "published": "2026-07-24T16:35:17+00:00",
-      "summary": "Built in 1998 using traditional methods, Glad av Gillberga has sailed the North Sea, the Baltic, and even crossed the Atlantic."
-    },
-    {
-      "source_feed": "ARTnews",
-      "title": "Museo Nacional del Ecuador Selects an Architect for Quito, Chelsea Set to Get a New Gallery this Art Week: Morning Links for July 24, 2026",
-      "link": "https://www.artnews.com/art-news/news/museo-nacional-del-ecuador-selects-architect-morning-links-1234793347/",
-      "published": "2026-07-24T14:32:25+00:00",
-      "summary": "Here's what we're reading this morning."
-    },
-    {
       "source_feed": "The Art Newspaper",
       "title": "Artists’ monumental hot dog sculpture, now with patriotic toppings, returns to Times Square",
       "link": "https://www.theartnewspaper.com/2026/07/24/jen-catron-paul-outlaw-times-square-hot-dog-returns",
@@ -240,13 +240,6 @@
       "link": "https://www.theartnewspaper.com/2026/07/24/buffalo-akg-art-museum-two-director-roles-promotions",
       "published": "2026-07-24T14:00:00+00:00",
       "summary": "Chief curator Cathleen Chaffee and deputy director Jillian Jones will serve as artistic director and executive director, respectively"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Unesco adds ancient Greek city Tauric Chersonese in Crimea to World Heritage in Danger list",
-      "link": "https://www.theartnewspaper.com/2026/07/24/unesco-adds-ancient-greek-city-tauric-chersonese-in-crimea-to-world-heritage-in-danger-list",
-      "published": "2026-07-24T13:54:14+00:00",
-      "summary": "The decision comes after calls by Ukraine to protect the archaeological site, which is now managed by a Russian Orthodox cleric appointed by Vladimir Putin"
     },
     {
       "source_feed": "The Art Newspaper",
@@ -296,48 +289,6 @@
       "link": "https://www.theartnewspaper.com/2026/07/22/lisbons-museu-calouste-gulbenkian-returns-to-its-mid-century-modern-roots-following-major-renovation",
       "published": "2026-07-22T11:30:31+00:00",
       "summary": "The Portuguese private art collection, which features fine and decorative art from antiquity to the 20th-century, reopened on 18 July"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "European Union officially pulls €2m Venice Biennale funding over Russian participation",
-      "link": "https://www.theartnewspaper.com/2026/07/22/european-union-officially-pull-2m-venice-biennale-funding-over-russian-participation",
-      "published": "2026-07-22T10:08:20+00:00",
-      "summary": "“Cultural events, funded by European taxpayers’ money, should safeguard democratic values—values which are not respected in today’s Russia,” a European Commission spokesman said"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Artforum bids farewell to back-cover star in style",
-      "link": "https://www.theartnewspaper.com/2026/07/22/artforum-bids-farewell-to-back-cover-star-in-style",
-      "published": "2026-07-22T08:59:28+00:00",
-      "summary": "Long-running series of quirky advertisements for Bruno Bischofberger’s Swiss gallery has come to an end"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Museum acquisitions round-up: a Kandinsky ‘Improvisation’ and a canvas by Minimalist pioneer Agnes Martin",
-      "link": "https://www.theartnewspaper.com/2026/07/22/museum-acquisitions-round-up-a-kandinsky-improvisation-and-a-canvas-by-minimalist-pioneer-agnes-martin",
-      "published": "2026-07-22T08:55:55+00:00",
-      "summary": "Our pick of the latest gifts and purchases to enter institutional collections worldwide"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Yoko Ono’s most famous performance art piece cuts both ways in Los Angeles",
-      "link": "https://www.theartnewspaper.com/2026/07/21/yoko-ono-cut-piece-mpa-redcat-broad-los-angeles",
-      "published": "2026-07-22T01:47:31+00:00",
-      "summary": "The artist MPA put her twist on the seminal \"Cut Piece\" at Redcat, in tandem with the Broad’s presentation of Ono’s traveling retrospective"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Shuttered San Francisco arts school will become college co-named for Nvidia founder Jensen Huang",
-      "link": "https://www.theartnewspaper.com/2026/07/21/vanderbilt-university-california-college-arts-jensen-huang-gift",
-      "published": "2026-07-21T20:24:55+00:00",
-      "summary": "The anchor institution for Vanderbilt University’s Bay Area campus will be the Jen-Hsun and Lori Huang College of Art, Architecture and Design, in recognition of the couple's $75m gift"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Comment | How much can one artist take from another before it is copyright infringement?",
-      "link": "https://www.theartnewspaper.com/2026/07/21/when-is-appropriation-pastiche-or-copyright-infringement",
-      "published": "2026-07-21T13:54:45+00:00",
-      "summary": "An EU court's decision in a case relating to the sampling of a Kraftwerk track will have implications across the arts"
     },
     {
       "source_feed": "Artforum",
@@ -442,7 +393,7 @@
       "title": "The week around the world in 20 pictures",
       "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/24/the-week-around-the-world-in-20-pictures",
       "published": "2026-07-24T18:02:32+00:00",
-      "summary": "Wildfires in Europe, Russian missile strikes in Kyiv, the cockroach protests in New Delhi and the World Cup final – the past seven days as captured by the world’s leading photojournalistsWarning: this gallery contains images some readers may find distressing Continue reading..."
+      "summary": "Wildfires in Europe, Russian missile strikes in Kyiv, cockroach protests in New Delhi and the World Cup final – the past seven days as captured by the world’s leading photojournalistsWarning: this gallery contains images some readers may find distressing Continue reading..."
     },
     {
       "source_feed": "The Guardian (art)",
@@ -471,13 +422,6 @@
       "link": "https://www.theguardian.com/news/gallery/2026/jul/24/deep-strike-drones-and-damselflies-photos-of-the-day-friday",
       "published": "2026-07-24T12:50:24+00:00",
       "summary": "The Guardian’s picture editors select photographs from around the world  Continue reading..."
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "Entangled and Woven review – exquisitely spun textiles that cross borders, culture and time",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/21/entangled-and-woven-review-textiles-the-whitworth-manchester",
-      "published": "2026-07-21T12:04:08+00:00",
-      "summary": "The Whitworth, ManchesterManchester’s past as a centre of textile production forms the starting point of this seamless showcase of skills How many hands did it take to make this show? That is to say, how many artisans, craftspeople, weavers and artists’ hands did these pieces pass through? For this …"
     },
     {
       "source_feed": "The Guardian (art)",
@@ -516,107 +460,9 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "In ‘The Odyssey’ and ‘Oppenheimer,’ Nolan Knows Civilization Is at Stake",
-      "link": "https://www.nytimes.com/2026/07/24/movies/the-odyssey-oppenheimer-christopher-nolan.html",
-      "published": "2026-07-24T14:58:36+00:00",
-      "summary": "In very different films, the director’s penchant for playing with time is in service to a larger concern about human bonds across eras."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Charli XCX ‘Music, Fashion, Film’ Album Review",
-      "link": "https://www.nytimes.com/2026/07/24/arts/music/charli-xcx-music-fashion-film.html",
-      "published": "2026-07-24T21:08:10+00:00",
-      "summary": "How does one follow a pop album that became a cultural juggernaut? On “Music, Fashion, Film,” Charli XCX embraces, and even glorifies, the slapdash."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum",
-      "link": "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html",
-      "published": "2026-07-24T22:11:17+00:00",
-      "summary": "President Trump said the signage at the National Museum of American History would correct what a disputed White House report described as “extreme political activism.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
-      "link": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
-      "published": "2026-07-24T14:08:05+00:00",
-      "summary": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "The Artist Matthew Taylor Is Helping Trump Reshape Washington",
-      "link": "https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html",
-      "published": "2026-07-24T09:00:17+00:00",
-      "summary": "Matthew Taylor, a conceptual artist and political strategist, made influential ads and documentaries produced by Steve Bannon. Now he’s assisting the White House."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "How a Romare Bearden Masterpiece Inspired August Wilson",
-      "link": "https://www.nytimes.com/2026/07/24/theater/romare-bearden-august-wilson-joe-turners-come-gone.html",
-      "published": "2026-07-24T09:00:08+00:00",
-      "summary": "An August Wilson classic wouldn’t exist without a Romare Bearden masterpiece. Here’s how the two are intertwined."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "D4vd Had Sexual Relationship With Teenager, Detective Testifies in Murder Case",
-      "link": "https://www.nytimes.com/2026/07/24/arts/music/d4vd-celeste-rivas-hernandez-medical-examiner.html",
-      "published": "2026-07-24T23:51:38+00:00",
-      "summary": "The testimony came on the fourth day of the singer’s preliminary hearing. He is accused of fatally stabbing Celeste Rivas Hernandez, 14, and dismembering her body."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "How Conor Oberst Survived Teenage Rock Stardom",
-      "link": "https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html",
-      "published": "2026-07-24T09:04:43+00:00",
-      "summary": "The singer-songwriter opens up about life as a niche icon for more than 30 years, the personal struggles that nearly killed him and trying to write political music under President Trump."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Debra Winger and Arliss Howard Feel Old Enough to Play ‘The Gin Game’",
-      "link": "https://www.nytimes.com/2026/07/24/theater/debra-winger-arliss-howard-gin-game.html",
-      "published": "2026-07-24T09:03:27+00:00",
-      "summary": "At 71, Debra Winger and Arliss Howard have aged into a married-couples acting tradition that Jessica Tandy and Hume Cronyn began."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Upstairs, Downstairs at Trent Park, a House Full of Spies",
-      "link": "https://www.nytimes.com/2026/07/24/arts/design/trent-park-spy-museum.html",
-      "published": "2026-07-24T09:02:01+00:00",
-      "summary": "A new museum reveals how Britain’s intelligence secretly wiretapped Nazi commanders in a stately London mansion — and how a team of German Jewish refugees helped turn the tide of World War II."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Five International Movies to Stream Now",
-      "link": "https://www.nytimes.com/2026/07/24/movies/international-movies-streaming.html",
-      "published": "2026-07-24T16:13:00+00:00",
-      "summary": "This month’s titles include a Mexican comedy, a German magical-realist film, a queer Cuban drama and more."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "The Devotion of Willow Smith",
-      "link": "https://www.nytimes.com/2026/07/23/arts/music/willow-smith-interview.html",
-      "published": "2026-07-23T09:01:34+00:00",
-      "summary": "The daughter of a Hollywood power couple, she has gone above and beyond to prove herself. Virtuosity and spiritual aspirations fill her latest, “The Thread.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "In Artwork Across the Ages, Odysseus’ Myth Keeps Entrancing Audiences",
-      "link": "https://www.nytimes.com/2026/07/23/arts/design/odyssey-nolan-art-met-museum-getty.html",
-      "published": "2026-07-24T13:31:28+00:00",
-      "summary": "Loved Christopher Nolan’s “The Odyssey”? Find more images inspired by Homer’s epic poem at these U.S. museums."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "A ‘Big Bang Theory’ Supporting Actor Takes the Lead",
-      "link": "https://www.nytimes.com/2026/07/23/arts/television/stuart-fails-to-save-the-universe-kevin-sussman.html",
-      "published": "2026-07-23T09:04:06+00:00",
-      "summary": "Kevin Sussman started as just a guest star on the hit sitcom. Now he has his own zany spinoff, “Stuart Fails to Save the Universe.”"
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "The Haunting Music in the ‘Odyssey’ Siren Scene Has Ancient Roots",
       "link": "https://www.nytimes.com/2026/07/25/arts/music/odyssey-music-sirens-song.html",
-      "published": "2026-07-25T09:02:07+00:00",
+      "published": "2026-07-25T13:50:58+00:00",
       "summary": "Ludwig Göransson’s soundtrack for Christopher Nolan’s film resurrects an ancient instrument, the aulos, to evoke the tormenting allure of the sirens."
     },
     {
@@ -628,13 +474,6 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘Dread Beat an Blood’ Set Black Londoners’ Struggle to a Groove",
-      "link": "https://www.nytimes.com/2026/07/25/arts/music/dread-beat-an-blood-linton-kwesi-johnson.html",
-      "published": "2026-07-25T09:01:00+00:00",
-      "summary": "A newly restored 1979 documentary examines how Linton Kwesi Johnson’s dub-infused poetry documented the challenges faced by Britain’s Black Caribbean population."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "In Pompeii, Tom Hiddleston, ‘Amateur Classicist,’ Sees Lessons for Today",
       "link": "https://www.nytimes.com/2026/07/25/arts/television/pompeii-tom-hiddleston-national-geographic-documentary.html",
       "published": "2026-07-25T09:00:58+00:00",
@@ -642,9 +481,37 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "‘Dread Beat an Blood’ Set Black Londoners’ Struggle to a Groove",
+      "link": "https://www.nytimes.com/2026/07/25/arts/music/dread-beat-an-blood-linton-kwesi-johnson.html",
+      "published": "2026-07-25T09:01:00+00:00",
+      "summary": "A newly restored 1979 documentary examines how Linton Kwesi Johnson’s dub-infused poetry documented the challenges faced by Britain’s Black Caribbean population."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Victoria Monét, Sam Smith: Songs to Know This Week",
+      "link": "https://www.nytimes.com/2026/07/24/arts/music/victoria-monet-sam-smith-songs.html",
+      "published": "2026-07-24T22:57:07+00:00",
+      "summary": "Victoria Monét goes girl-group, Sam Smith gets a choral assist, and Chad Hugo re-emerges."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum",
+      "link": "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html",
+      "published": "2026-07-25T13:38:01+00:00",
+      "summary": "President Trump said the signage at the National Museum of American History would correct what a disputed White House report described as “extreme political activism.”"
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Charli XCX ‘Music, Fashion, Film’ Album Review",
+      "link": "https://www.nytimes.com/2026/07/24/arts/music/charli-xcx-music-fashion-film.html",
+      "published": "2026-07-24T21:08:10+00:00",
+      "summary": "How does one follow a pop album that became a cultural juggernaut? On “Music, Fashion, Film,” Charli XCX embraces, and even glorifies, the slapdash."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "6 Podcasts About Scandals and Cover-Ups",
       "link": "https://www.nytimes.com/2026/07/25/arts/podcasts-coverups-larry-nasser.html",
-      "published": "2026-07-25T09:00:48+00:00",
+      "published": "2026-07-25T09:00:49+00:00",
       "summary": "These shows explore stories of corruption and institutional wrongdoing, forging an emotional connection between the listener and the people affected."
     },
     {
@@ -653,6 +520,48 @@
       "link": "https://www.nytimes.com/2026/07/25/movies/will-poulter-union-county.html",
       "published": "2026-07-25T09:00:46+00:00",
       "summary": "“The show really has highlighted just so much kindness and brought so much understanding to the subject of autism,” the actor said."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "In ‘The Odyssey’ and ‘Oppenheimer,’ Nolan Knows Civilization Is at Stake",
+      "link": "https://www.nytimes.com/2026/07/24/movies/the-odyssey-oppenheimer-christopher-nolan.html",
+      "published": "2026-07-24T14:58:36+00:00",
+      "summary": "In very different films, the director’s penchant for playing with time is in service to a larger concern about human bonds across eras."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "D4vd Had Sexual Relationship With Teenager, Detective Testifies in Murder Case",
+      "link": "https://www.nytimes.com/2026/07/24/arts/music/d4vd-celeste-rivas-hernandez-medical-examiner.html",
+      "published": "2026-07-25T16:54:33+00:00",
+      "summary": "The testimony came on the fourth day of the singer’s preliminary hearing. He is accused of fatally stabbing Celeste Rivas Hernandez, 14, and dismembering her body."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "How a Romare Bearden Masterpiece Inspired August Wilson",
+      "link": "https://www.nytimes.com/2026/07/24/theater/romare-bearden-august-wilson-joe-turners-come-gone.html",
+      "published": "2026-07-24T09:00:08+00:00",
+      "summary": "An August Wilson classic wouldn’t exist without a Romare Bearden masterpiece. Here’s how the two are intertwined."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Upstairs, Downstairs at Trent Park, a House Full of Spies",
+      "link": "https://www.nytimes.com/2026/07/24/arts/design/trent-park-spy-museum.html",
+      "published": "2026-07-24T09:02:01+00:00",
+      "summary": "A new museum reveals how Britain’s intelligence secretly wiretapped Nazi commanders in a stately London mansion — and how a team of German Jewish refugees helped turn the tide of World War II."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Charles Gaines, Whose ‘Pumping Iron’ Sparked Schwarzenegger’s Career, Dies at 84",
+      "link": "https://www.nytimes.com/2026/07/25/books/charles-gaines-dead.html",
+      "published": "2026-07-25T18:06:03+00:00",
+      "summary": "An author and sportsman, he helped create the game of paintball and wrote the book and movie that made Arnold Schwarzenegger a household name."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Guy Tudor, Whose Art Brought Obscure Birds to Life, Dies at 91",
+      "link": "https://www.nytimes.com/2026/07/25/science/guy-tudor-dead.html",
+      "published": "2026-07-25T22:07:02+00:00",
+      "summary": "A self-taught ornithologist, he won a MacArthur fellowship for his precise, resplendent illustrations that appeared in definitive field guides to tropical songbirds."
     },
     {
       "source_feed": "NYT Arts",
@@ -670,17 +579,17 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Victoria Monét, Sam Smith: Songs to Know This Week",
-      "link": "https://www.nytimes.com/2026/07/24/arts/music/victoria-monet-sam-smith-songs.html",
-      "published": "2026-07-24T22:57:07+00:00",
-      "summary": "Victoria Monét goes girl-group, Sam Smith gets a choral assist, and Chad Hugo re-emerges."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "Freddy Cannon, Rocker Who Sang ‘Palisades Park,’ Dies at 89",
       "link": "https://www.nytimes.com/2026/07/24/arts/music/freddy-cannon-dead.html",
       "published": "2026-07-24T20:07:40+00:00",
       "summary": "Known as Boom Boom, he recorded a string of hits in the 1950s and ’60s, including “Tallahassee Lassie,” which began as a poem by his mother."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Five International Movies to Stream Now",
+      "link": "https://www.nytimes.com/2026/07/24/movies/international-movies-streaming.html",
+      "published": "2026-07-24T16:13:00+00:00",
+      "summary": "This month’s titles include a Mexican comedy, a German magical-realist film, a queer Cuban drama and more."
     },
     {
       "source_feed": "NYT Arts",
@@ -712,10 +621,31 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "How Conor Oberst Survived Teenage Rock Stardom",
+      "link": "https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html",
+      "published": "2026-07-24T09:04:43+00:00",
+      "summary": "The singer-songwriter opens up about life as a niche icon for more than 30 years, the personal struggles that nearly killed him and trying to write political music under President Trump."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Debra Winger and Arliss Howard Feel Old Enough to Play ‘The Gin Game’",
+      "link": "https://www.nytimes.com/2026/07/24/theater/debra-winger-arliss-howard-gin-game.html",
+      "published": "2026-07-24T09:03:27+00:00",
+      "summary": "At 71, Debra Winger and Arliss Howard have aged into a married-couples acting tradition that Jessica Tandy and Hume Cronyn began."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "The Artist Behind Trump’s Legacy Projects",
       "link": "https://www.nytimes.com/video/arts/100000011028177/the-artist-behind-trumps-legacy-projects.html",
       "published": "2026-07-24T18:20:58+00:00",
       "summary": "Matthew Taylor, a conceptual artist and filmmaker, has quietly become a key player behind many of President Trump’s plans to transform Washington and its cultural legacy, as our reporter Zachary Small explains. Mr. Taylor consulted on the White House’s scathing report on the Smithsonian, though the …"
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
+      "link": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
+      "published": "2026-07-24T14:08:05+00:00",
+      "summary": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen."
     },
     {
       "source_feed": "NYT Arts",
@@ -754,6 +684,13 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "A ‘Big Bang Theory’ Supporting Actor Takes the Lead",
+      "link": "https://www.nytimes.com/2026/07/23/arts/television/stuart-fails-to-save-the-universe-kevin-sussman.html",
+      "published": "2026-07-23T09:04:06+00:00",
+      "summary": "Kevin Sussman started as just a guest star on the hit sitcom. Now he has his own zany spinoff, “Stuart Fails to Save the Universe.”"
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "She Championed Pollock and Rothko. Now Her Art Is on the Museum Walls.",
       "link": "https://www.nytimes.com/2026/07/23/arts/design/betty-parsons-review-bard-sillman-pollock-rothko.html",
       "published": "2026-07-23T09:03:49+00:00",
@@ -765,6 +702,13 @@
       "link": "https://www.nytimes.com/2026/07/23/movies/summer-horror-movies-theater-nyc.html",
       "published": "2026-07-23T09:03:40+00:00",
       "summary": "Summertime is a ripe time for terror. Our horror expert picks a night at the drive-in for a slasher double feature, an amble through a cemetery and more."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "In Artwork Across the Ages, Odysseus’ Myth Keeps Entrancing Audiences",
+      "link": "https://www.nytimes.com/2026/07/23/arts/design/odyssey-nolan-art-met-museum-getty.html",
+      "published": "2026-07-24T13:31:28+00:00",
+      "summary": "Loved Christopher Nolan’s “The Odyssey”? Find more images inspired by Homer’s epic poem at these U.S. museums."
     },
     {
       "source_feed": "NYT Arts",
@@ -814,6 +758,13 @@
       "link": "https://www.nytimes.com/2026/07/23/movies/the-dink-review.html",
       "published": "2026-07-23T09:01:35+00:00",
       "summary": "Jake Johnson and Mary Steenburgen star in a tennis versus pickleball comedy that never quite makes it over the net."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "The Devotion of Willow Smith",
+      "link": "https://www.nytimes.com/2026/07/23/arts/music/willow-smith-interview.html",
+      "published": "2026-07-23T09:01:34+00:00",
+      "summary": "The daughter of a Hollywood power couple, she has gone above and beyond to prove herself. Virtuosity and spiritual aspirations fill her latest, “The Thread.”"
     },
     {
       "source_feed": "NYT Arts",
@@ -929,38 +880,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘White Nights’: A Loner’s All-Consuming Crush",
-      "link": "https://www.nytimes.com/2026/07/22/movies/white-nights-film-forum.html",
-      "published": "2026-07-22T09:02:10+00:00",
-      "summary": "Immaculately realized and restored, Luchino Visconti’s adaptation of Dostoyevsky’s short story about a chance encounter on a bridge arrives at Film Forum."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "Marlboro Music: Where Artists Have Time to Chase Perfection",
       "link": "https://www.nytimes.com/2026/07/22/arts/music/marlboro-music-festival-75.html",
       "published": "2026-07-23T18:24:41+00:00",
       "summary": "The Marlboro Music festival, now in its 75th summer, allows artists to practice for however long they’d like, with no pressure to perform."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘Fast Charlie,’ ‘Lucky Grandma’ and More Streaming Gems",
-      "link": "https://www.nytimes.com/2026/07/22/movies/fast-charlie-lucky-grandma-and-more-streaming-gems.html",
-      "published": "2026-07-22T09:01:51+00:00",
-      "summary": "Skip the endless scrolling with these seven overlooked movie recommendations."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "He’s the Last Great Land Artist You’ve Never Heard Of",
-      "link": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
-      "published": "2026-07-22T17:05:40+00:00",
-      "summary": "Charles Ross spent 50 years building “Star Axis,” a naked-eye observatory in New Mexico. Now his masterwork is ready. How to share it with a changed world?"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Six Years After a Reckoning, Criterion Puts ‘Cinematic Blackness’ in Focus",
-      "link": "https://www.nytimes.com/2026/07/22/movies/criterion-collection-black-film.html",
-      "published": "2026-07-22T09:01:01+00:00",
-      "summary": "Adding a curator, the Criterion Collection expanded its offerings and its vision of Black film. But auteurs continue to push the company on what inclusion means."
     }
   ]
 }
