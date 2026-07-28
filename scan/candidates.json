@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T11:06:29.587466+00:00",
+  "generated_at": "2026-07-27T11:07:26.211283+00:00",
   "window_hours": 96,
   "feed_summary": [
     {
@@ -22,9 +22,9 @@
       "feed": "The Art Newspaper",
       "status": "ok",
       "total_in_feed": 61,
-      "in_window": 12,
-      "new_candidates": 9,
-      "already_logged": 3
+      "in_window": 10,
+      "new_candidates": 6,
+      "already_logged": 4
     },
     {
       "feed": "Artforum",
@@ -38,20 +38,27 @@
       "feed": "The Guardian (art)",
       "status": "ok",
       "total_in_feed": 23,
-      "in_window": 12,
-      "new_candidates": 12,
+      "in_window": 10,
+      "new_candidates": 10,
       "already_logged": 0
     },
     {
       "feed": "NYT Arts",
       "status": "ok",
       "total_in_feed": 64,
-      "in_window": 62,
-      "new_candidates": 61,
+      "in_window": 47,
+      "new_candidates": 46,
       "already_logged": 1
     }
   ],
   "candidates": [
+    {
+      "source_feed": "Hyperallergic",
+      "title": "A Guerrilla Girl Drops Her Mask",
+      "link": "https://hyperallergic.com/a-guerrilla-girl-drops-her-mask/",
+      "published": "2026-07-27T10:00:46+00:00",
+      "summary": "Joyce Kozloff becomes the first public member of the feminist collective. Also: Why is an AI company stamping its name onto an art school?"
+    },
     {
       "source_feed": "Hyperallergic",
       "title": "Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara",
@@ -151,13 +158,6 @@
       "summary": "This week: the Louvre reopens the room where it happens, a Texas artist’s outdoor collection, Nancy Drew in the public domain, Rachel Cusk and Natalie Portman have beef, and more."
     },
     {
-      "source_feed": "Hyperallergic",
-      "title": "David Hockney’s Endless Scroll",
-      "link": "https://hyperallergic.com/david-hockneys-endless-scroll/",
-      "published": "2026-07-23T10:00:19+00:00",
-      "summary": "The late artist’s digital paintings at Serpentine, Tate gets a new director, beyond the myth of Brazilian modernist Chico da Silva, and more."
-    },
-    {
       "source_feed": "ARTnews",
       "title": "Thieves Snatch 2,500-Year-Old Celtic Gold Torque from French Museum in Broad Daylight",
       "link": "https://www.artnews.com/art-news/news/thieves-snatch-2500-year-old-celtic-gold-torque-france-1234793494/",
@@ -229,6 +229,20 @@
     },
     {
       "source_feed": "The Art Newspaper",
+      "title": "Trove of art by Basquiat, Javier Calleja and others at play in mammoth Vancouver real estate lawsuit",
+      "link": "https://www.theartnewspaper.com/2026/07/27/coromandel-properties-vancouver-real-estate-lawsuit-art-collection",
+      "published": "2026-07-27T09:00:00+00:00",
+      "summary": "A lawsuit related to the collapse of the developer Coromandel Properties includes an art collection purchased for $4.9m that was used as collateral for a loan"
+    },
+    {
+      "source_feed": "The Art Newspaper",
+      "title": "Earthquake damages 16th-century church in Peru",
+      "link": "https://www.theartnewspaper.com/2026/07/27/peru-earthquake-damages-16th-century-church-iglesia-apostol-santiago",
+      "published": "2026-07-27T04:04:00+00:00",
+      "summary": "A 5.1-magnitude quake on 18 July caused the collapse of the roof and part of the facade of the colonial-era Iglesia Apóstol Santiago, one of the oldest churches in the Peruvian highlands"
+    },
+    {
+      "source_feed": "The Art Newspaper",
       "title": "Artists’ monumental hot dog sculpture, now with patriotic toppings, returns to Times Square",
       "link": "https://www.theartnewspaper.com/2026/07/24/jen-catron-paul-outlaw-times-square-hot-dog-returns",
       "published": "2026-07-24T18:05:38+00:00",
@@ -243,13 +257,6 @@
     },
     {
       "source_feed": "The Art Newspaper",
-      "title": "Viking centre that loaned ship for ‘The Odyssey’ says that it has not been compensated by Universal for repairs",
-      "link": "https://www.theartnewspaper.com/2026/07/24/swedish-viking-centre-that-loaned-ship-for-the-odyssey-alleges-that-it-has-not-been-paid-for-damages",
-      "published": "2026-07-24T11:29:50+00:00",
-      "summary": "The Värmlands Vikingacenter in Sweden has reportedly not been able to sail its replica ship this summer due to $6000 worth of damages; Universal disputes the non-payment claims"
-    },
-    {
-      "source_feed": "The Art Newspaper",
       "title": "Philadelphia opens its Van Gogh Sunflowers display with a very rare loan from London’s National Gallery",
       "link": "https://www.theartnewspaper.com/2026/07/24/philadelphia-opens-its-van-gogh-sunflowers-display-with-a-very-rare-loan-from-londons-national-gallery",
       "published": "2026-07-24T11:00:00+00:00",
@@ -261,34 +268,6 @@
       "link": "https://www.theartnewspaper.com/2026/07/23/glasgow-school-of-art-says-£265m-needed-to-restore-destroyed-mackintosh-building-is-unaffordable",
       "published": "2026-07-23T11:17:53+00:00",
       "summary": "The future of the iconic Art Nouveau building may be in jeopardy following fires in 2014 and 2018, as the Scottish art school looks for external funding"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Three Ancient Egyptian tombs with ‘significant’ inscriptions discovered in Saqqara necropolis",
-      "link": "https://www.theartnewspaper.com/2026/07/23/three-ancient-egyptian-tombs-with-significant-inscriptions-discovered-in-saqqara-necropolis",
-      "published": "2026-07-23T11:04:08+00:00",
-      "summary": "Rare carvings may reveal important information about New Kingdom era connections to the Near East and ancient domestic life"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "A lifetime of war: meet the 94-year-old Ukrainian artist Oleksandr Dubovyk",
-      "link": "https://www.theartnewspaper.com/2026/07/23/a-lifetime-of-war-meet-the-94-year-old-ukrainian-artist-oleksandr-dubovyk",
-      "published": "2026-07-23T08:50:34+00:00",
-      "summary": "Having survived his country’s numerous adversaries from Stalin to Putin, the artist has opened his first large-scale retrospective in Kyiv"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Jessica Morgan named new Tate director",
-      "link": "https://www.theartnewspaper.com/2026/07/22/jessica-morgan-named-new-tate-director",
-      "published": "2026-07-22T12:00:33+00:00",
-      "summary": "Currently the director of Dia Art Foundation in New York, Morgan will succeed Maria Balshaw as director of the UK museum network from January 2027"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Lisbon's Museu Calouste Gulbenkian returns to its mid-century modern roots following major renovation",
-      "link": "https://www.theartnewspaper.com/2026/07/22/lisbons-museu-calouste-gulbenkian-returns-to-its-mid-century-modern-roots-following-major-renovation",
-      "published": "2026-07-22T11:30:31+00:00",
-      "summary": "The Portuguese private art collection, which features fine and decorative art from antiquity to the 20th-century, reopened on 18 July"
     },
     {
       "source_feed": "Artforum",
@@ -376,6 +355,20 @@
     },
     {
       "source_feed": "The Guardian (art)",
+      "title": "Nearly 20 Georgia O’Keeffe works to go on display in UK for first time",
+      "link": "https://www.theguardian.com/culture/2026/jul/27/new-exhibition-to-explore-how-georgia-okeeffes-desert-home-shaped-her-art",
+      "published": "2026-07-27T08:00:35+00:00",
+      "summary": "Ghost Ranch exhibition at Courtauld in London will look at how artist’s New Mexico home shaped her life and workAs soon as Georgia O’Keeffe was shown Ghost Ranch, she knew it was her place.The remote property in the shadow of the mountains north of Santa Fe in New Mexico would become the artist’s su…"
+    },
+    {
+      "source_feed": "The Guardian (art)",
+      "title": "V&A workers hold ballot to strike over pay and heatwave conditions",
+      "link": "https://www.theguardian.com/artanddesign/2026/jul/26/va-workers-hold-ballot-to-strike-over-pay-and-heatwave-conditions",
+      "published": "2026-07-26T14:53:09+00:00",
+      "summary": "Union calls for museum to become accredited London living wage employer and let staff carry water during shiftsWorkers at one of the world’s leading art and design museums are balloting for “heatwave” strike action.The ballot at V&amp;A is taking place because of concerns about soaring temperatures …"
+    },
+    {
+      "source_feed": "The Guardian (art)",
       "title": "‘The rain in São Paulo makes everything so cinematic’: Simone Arruda’s best phone picture",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jul/25/simone-arruda-best-phone-picture",
       "published": "2026-07-25T10:00:39+00:00",
@@ -411,17 +404,10 @@
     },
     {
       "source_feed": "The Guardian (art)",
-      "title": "A note from Paul Kelly and a box of human hair: seven curios found in Brett Whiteley’s studio – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/25/brett-whiteley-studio-in-pictures",
-      "published": "2026-07-24T15:00:17+00:00",
-      "summary": "Brett Whiteley’s former studio and home in Sydney’s Surry Hills has been a museum and gallery since 1995. For the past two years it has been closed for restoration works, during which some of the artist’s most treasured items were discovered. The curator of Brett Whiteley Studio, Nick Yelverton, sha…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "Deep-strike drones and damselflies: photos of the day – Friday",
-      "link": "https://www.theguardian.com/news/gallery/2026/jul/24/deep-strike-drones-and-damselflies-photos-of-the-day-friday",
-      "published": "2026-07-24T12:50:24+00:00",
-      "summary": "The Guardian’s picture editors select photographs from around the world  Continue reading..."
+      "title": "International Cowboy Day celebrations in Nairobi – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/27/international-cowboy-day-celebrations-in-nairobi-in-pictures",
+      "published": "2026-07-27T06:00:34+00:00",
+      "summary": "Observed annually on the fourth Saturday of July, International Cowboy Day celebrates the history, culture and legacy of the American west, and has a growing following in Kenya and other parts of Africa  Continue reading..."
     },
     {
       "source_feed": "The Guardian (art)",
@@ -432,27 +418,6 @@
     },
     {
       "source_feed": "The Guardian (art)",
-      "title": "‘He’d lie down in front of the moving ship’: a fresh look at Ernest Shackleton’s Endurance expedition",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/23/hed-lie-down-in-front-of-the-moving-ship-a-fresh-look-at-ernest-shackletons-endurance-expedition",
-      "published": "2026-07-23T09:20:00+00:00",
-      "summary": "Shipwrecks, ice football and igloos for dogs … the digitisation of Frank Hurley’s photographs shows the heroic trek more clearly – and unlocks some remarkable new details Continue reading..."
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "Moon mountains and star dust: David Malin astrophotography awards 2026 – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/23/david-malin-astrophotography-awards-2026-in-pictures",
-      "published": "2026-07-22T15:00:17+00:00",
-      "summary": "From auroras and nebulas to deep sky star clusters, the competition features submissions from amateur astronomers and photographers from Australia and around the worldBlue mushrooms, shy trees and glowing seas: Beaker Street science photography prize – in pictures Continue reading..."
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "A 12-year-old casualty of war recovers in hospital: Alessio Mamo’s best photograph",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/22/a-12-year-old-casualty-of-war-recovers-in-hospital-alessio-mamo-best-photograph",
-      "published": "2026-07-22T14:48:38+00:00",
-      "summary": "‘Manal suffered severe burns to her arms and face after a missile explosion in Iraq. Yet in many ways she seemed just like a regular young girl’When I started to take photographs about 18 years ago, I was more interested in the aesthetics. Then came a moment when I realised the power of the camera a…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
       "title": "Homes with grand designs for sale in England and Scotland – in pictures",
       "link": "https://www.theguardian.com/money/gallery/2026/jul/24/homes-with-grand-designs-for-sale-in-england-and-scotland-in-pictures",
       "published": "2026-07-24T06:00:05+00:00",
@@ -460,9 +425,44 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "Paramount is Betting Johnny Depp Can Make a Comeback With ‘Ebenezer: A Christmas Carol’",
+      "link": "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html",
+      "published": "2026-07-27T09:00:41+00:00",
+      "summary": "Paramount is betting that audiences will re-embrace the star a decade after allegations of domestic abuse and a defamation trial."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "As New York City Ballet’s Shoe Colorist, Tim Foster Brings a Niche and Needed Craft",
+      "link": "https://www.nytimes.com/2026/07/27/arts/dance/nyc-ballet-tim-foster-pointe-shoes.html",
+      "published": "2026-07-27T09:04:49+00:00",
+      "summary": "Tim Foster is a shoe colorist for New York City Ballet, an unexpected but, thanks to a new documentary, no longer unsung hero who practices a delicate, painstaking art."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Christopher Nolan’s ‘Odyssey’ Has a Circe Problem",
+      "link": "https://www.nytimes.com/2026/07/27/movies/the-odyssey-circe.html",
+      "published": "2026-07-27T09:03:35+00:00",
+      "summary": "One of the fascinating women of early literature, Circe becomes a simple witch in Christopher Nolan’s blockbuster."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘A Chorus Line’ at 50-ish: Seeing Through Perfection to the Pain",
+      "link": "https://www.nytimes.com/2026/07/27/theater/chorus-line-barrington-stage.html",
+      "published": "2026-07-27T09:06:37+00:00",
+      "summary": "A new production at Barrington Stage Company reminds us of how the “singular sensation” changed our relationship to performance."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘Furious’ and 7 More Shows to Watch on TV This Week",
+      "link": "https://www.nytimes.com/2026/07/27/arts/television/furious-and-7-more-shows-to-watch-on-tv-this-week.html",
+      "published": "2026-07-27T05:00:07+00:00",
+      "summary": "A psychological thriller premieres, and a livestream from the Lollapalooza music festival begins."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "The Haunting Music in the ‘Odyssey’ Siren Scene Has Ancient Roots",
       "link": "https://www.nytimes.com/2026/07/25/arts/music/odyssey-music-sirens-song.html",
-      "published": "2026-07-25T13:50:58+00:00",
+      "published": "2026-07-25T13:50:59+00:00",
       "summary": "Ludwig Göransson’s soundtrack for Christopher Nolan’s film resurrects an ancient instrument, the aulos, to evoke the tormenting allure of the sirens."
     },
     {
@@ -518,49 +518,49 @@
       "source_feed": "NYT Arts",
       "title": "Will Poulter on the TV Series That Reaffirmed His Faith in Humanity",
       "link": "https://www.nytimes.com/2026/07/25/movies/will-poulter-union-county.html",
-      "published": "2026-07-25T09:00:46+00:00",
+      "published": "2026-07-25T09:00:47+00:00",
       "summary": "“The show really has highlighted just so much kindness and brought so much understanding to the subject of autism,” the actor said."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "In ‘The Odyssey’ and ‘Oppenheimer,’ Nolan Knows Civilization Is at Stake",
-      "link": "https://www.nytimes.com/2026/07/24/movies/the-odyssey-oppenheimer-christopher-nolan.html",
-      "published": "2026-07-24T14:58:36+00:00",
-      "summary": "In very different films, the director’s penchant for playing with time is in service to a larger concern about human bonds across eras."
+      "title": "Mina the Hollower Pays Homage to the Game Boy",
+      "link": "https://www.nytimes.com/2026/07/27/arts/mina-hollower-review.html",
+      "published": "2026-07-27T09:05:04+00:00",
+      "summary": "Mina the Hollower draws inspiration from “The Secret of NIMH,” Victorian literature and 1990s role-playing games."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "D4vd Had Sexual Relationship With Teenager, Detective Testifies in Murder Case",
-      "link": "https://www.nytimes.com/2026/07/24/arts/music/d4vd-celeste-rivas-hernandez-medical-examiner.html",
-      "published": "2026-07-25T16:54:33+00:00",
-      "summary": "The testimony came on the fourth day of the singer’s preliminary hearing. He is accused of fatally stabbing Celeste Rivas Hernandez, 14, and dismembering her body."
+      "title": "How to Keep a Travel Journal",
+      "link": "https://www.nytimes.com/2026/07/27/travel/travel-journal-tips-recommendations.html",
+      "published": "2026-07-27T09:00:27+00:00",
+      "summary": "A travel journal can be a great way to evoke specific details and memories from a trip. Here are some tips on how to lower the barrier to entry and to stay organized."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "How a Romare Bearden Masterpiece Inspired August Wilson",
-      "link": "https://www.nytimes.com/2026/07/24/theater/romare-bearden-august-wilson-joe-turners-come-gone.html",
-      "published": "2026-07-24T09:00:08+00:00",
-      "summary": "An August Wilson classic wouldn’t exist without a Romare Bearden masterpiece. Here’s how the two are intertwined."
+      "title": "‘House of the Dragon’ Season 3, Episode 6 Recap: Mistakes Were Made",
+      "link": "https://www.nytimes.com/2026/07/26/arts/television/house-of-the-dragon-recap-season-3-episode-6.html",
+      "published": "2026-07-27T02:25:25+00:00",
+      "summary": "It’s one thing to inherit a throne. It’s quite another to rule from it."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Upstairs, Downstairs at Trent Park, a House Full of Spies",
-      "link": "https://www.nytimes.com/2026/07/24/arts/design/trent-park-spy-museum.html",
-      "published": "2026-07-24T09:02:01+00:00",
-      "summary": "A new museum reveals how Britain’s intelligence secretly wiretapped Nazi commanders in a stately London mansion — and how a team of German Jewish refugees helped turn the tide of World War II."
+      "title": "‘House of the Dragon’: Fabien Frankel on One of Ser Criston’s Happiest Moments",
+      "link": "https://www.nytimes.com/2026/07/26/arts/television/house-of-the-dragon-fabien-frankel-criston-cole.html",
+      "published": "2026-07-27T02:00:05+00:00",
+      "summary": "This week’s episode was a pivotal moment in the Kingmaker’s long and tortured journey. According to the actor who plays him, it was also a highlight."
     },
     {
       "source_feed": "NYT Arts",
       "title": "Charles Gaines, Whose ‘Pumping Iron’ Sparked Schwarzenegger’s Career, Dies at 84",
       "link": "https://www.nytimes.com/2026/07/25/books/charles-gaines-dead.html",
-      "published": "2026-07-25T18:06:03+00:00",
+      "published": "2026-07-25T18:06:04+00:00",
       "summary": "An author and sportsman, he helped create the game of paintball and wrote the book and movie that made Arnold Schwarzenegger a household name."
     },
     {
       "source_feed": "NYT Arts",
       "title": "Guy Tudor, Whose Art Brought Obscure Birds to Life, Dies at 91",
       "link": "https://www.nytimes.com/2026/07/25/science/guy-tudor-dead.html",
-      "published": "2026-07-25T22:07:02+00:00",
+      "published": "2026-07-26T14:23:54+00:00",
       "summary": "A self-taught ornithologist, he won a MacArthur fellowship for his precise, resplendent illustrations that appeared in definitive field guides to tropical songbirds."
     },
     {
@@ -583,6 +583,13 @@
       "link": "https://www.nytimes.com/2026/07/24/arts/music/freddy-cannon-dead.html",
       "published": "2026-07-24T20:07:40+00:00",
       "summary": "Known as Boom Boom, he recorded a string of hits in the 1950s and ’60s, including “Tallahassee Lassie,” which began as a poem by his mother."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "D4vd Had Sexual Relationship With Teenager, Detective Testifies in Murder Case",
+      "link": "https://www.nytimes.com/2026/07/24/arts/music/d4vd-celeste-rivas-hernandez-medical-examiner.html",
+      "published": "2026-07-25T16:54:33+00:00",
+      "summary": "The testimony came on the fourth day of the singer’s preliminary hearing. He is accused of fatally stabbing Celeste Rivas Hernandez, 14, and dismembering her body."
     },
     {
       "source_feed": "NYT Arts",
@@ -609,7 +616,7 @@
       "source_feed": "NYT Arts",
       "title": "Chris Brown Pleads Guilty to Affray Charge in London Nightclub Assault Case",
       "link": "https://www.nytimes.com/2026/07/24/arts/music/chris-brown-guilty-affray-london.html",
-      "published": "2026-07-24T14:27:06+00:00",
+      "published": "2026-07-24T14:27:07+00:00",
       "summary": "The R&B star pleaded guilty to a charge of affray after being accused of attacking a producer in 2023. He is set to be sentenced in October."
     },
     {
@@ -635,9 +642,23 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "Upstairs, Downstairs at Trent Park, a House Full of Spies",
+      "link": "https://www.nytimes.com/2026/07/24/arts/design/trent-park-spy-museum.html",
+      "published": "2026-07-27T06:40:21+00:00",
+      "summary": "A new museum reveals how Britain’s intelligence secretly wiretapped Nazi commanders in a stately London mansion — and how a team of German Jewish refugees helped turn the tide of World War II."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "In ‘The Odyssey’ and ‘Oppenheimer,’ Nolan Knows Civilization Is at Stake",
+      "link": "https://www.nytimes.com/2026/07/24/movies/the-odyssey-oppenheimer-christopher-nolan.html",
+      "published": "2026-07-24T14:58:36+00:00",
+      "summary": "In very different films, the director’s penchant for playing with time is in service to a larger concern about human bonds across eras."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "The Artist Behind Trump’s Legacy Projects",
       "link": "https://www.nytimes.com/video/arts/100000011028177/the-artist-behind-trumps-legacy-projects.html",
-      "published": "2026-07-24T18:20:58+00:00",
+      "published": "2026-07-26T14:06:33+00:00",
       "summary": "Matthew Taylor, a conceptual artist and filmmaker, has quietly become a key player behind many of President Trump’s plans to transform Washington and its cultural legacy, as our reporter Zachary Small explains. Mr. Taylor consulted on the White House’s scathing report on the Smithsonian, though the …"
     },
     {
@@ -646,6 +667,13 @@
       "link": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
       "published": "2026-07-24T14:08:05+00:00",
       "summary": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "How a Romare Bearden Masterpiece Inspired August Wilson",
+      "link": "https://www.nytimes.com/2026/07/24/theater/romare-bearden-august-wilson-joe-turners-come-gone.html",
+      "published": "2026-07-24T09:00:08+00:00",
+      "summary": "An August Wilson classic wouldn’t exist without a Romare Bearden masterpiece. Here’s how the two are intertwined."
     },
     {
       "source_feed": "NYT Arts",
@@ -684,45 +712,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "A ‘Big Bang Theory’ Supporting Actor Takes the Lead",
-      "link": "https://www.nytimes.com/2026/07/23/arts/television/stuart-fails-to-save-the-universe-kevin-sussman.html",
-      "published": "2026-07-23T09:04:06+00:00",
-      "summary": "Kevin Sussman started as just a guest star on the hit sitcom. Now he has his own zany spinoff, “Stuart Fails to Save the Universe.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "She Championed Pollock and Rothko. Now Her Art Is on the Museum Walls.",
-      "link": "https://www.nytimes.com/2026/07/23/arts/design/betty-parsons-review-bard-sillman-pollock-rothko.html",
-      "published": "2026-07-23T09:03:49+00:00",
-      "summary": "Betty Parsons, who showed the “great big shots” in her gallery starting in the 1940s, is the focus of a survey at Bard College, designed by the artist Amy Sillman."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Summerween in N.Y.C.: Your Guide to Horror Movies, Clubs and More Events",
-      "link": "https://www.nytimes.com/2026/07/23/movies/summer-horror-movies-theater-nyc.html",
-      "published": "2026-07-23T09:03:40+00:00",
-      "summary": "Summertime is a ripe time for terror. Our horror expert picks a night at the drive-in for a slasher double feature, an amble through a cemetery and more."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "In Artwork Across the Ages, Odysseus’ Myth Keeps Entrancing Audiences",
       "link": "https://www.nytimes.com/2026/07/23/arts/design/odyssey-nolan-art-met-museum-getty.html",
       "published": "2026-07-24T13:31:28+00:00",
       "summary": "Loved Christopher Nolan’s “The Odyssey”? Find more images inspired by Homer’s epic poem at these U.S. museums."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘Hadestown: The Musical’ Review: A Theatrical Triumph, Onscreen",
-      "link": "https://www.nytimes.com/2026/07/23/movies/hadestown-the-musical-review.html",
-      "published": "2026-07-23T09:01:49+00:00",
-      "summary": "The director Brett Sullivan gives viewers the best seat in the house, with delicate camerawork that moves with the rhythms of Anaïs Mitchell’s soulful score."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘A Sad and Beautiful World’ Review: A Love to Overcome Fear",
-      "link": "https://www.nytimes.com/2026/07/23/movies/a-sad-and-beautiful-world-review.html",
-      "published": "2026-07-23T09:01:45+00:00",
-      "summary": "In Lebanon, a lush romance in uncertain times asks what keeps us human."
     },
     {
       "source_feed": "NYT Arts",
@@ -733,80 +726,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘Sheep in the Box’ Review: Haunted by His Absence",
-      "link": "https://www.nytimes.com/2026/07/23/movies/sheep-in-the-box-review.html",
-      "published": "2026-07-23T09:01:40+00:00",
-      "summary": "The latest from the Japanese director Hirokazu Kore-eda follows a couple who bring home an artificial replacement of their son."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘Her Private Hell’ Review: Lock Up Your Daughters",
-      "link": "https://www.nytimes.com/2026/07/23/movies/her-private-hell-review.html",
-      "published": "2026-07-23T09:01:39+00:00",
-      "summary": "Nicolas Winding Refn returns with a ponderous, neon-soaked fairy tale about disturbed fathers and their endangered offspring."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘Motor City’ Review: Some Rage and Quiet",
-      "link": "https://www.nytimes.com/2026/07/23/movies/motor-city-review.html",
-      "published": "2026-07-23T09:01:38+00:00",
-      "summary": "Set in Detroit in the 1970s, this revenge movie tells its story with almost no dialogue."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘The Dink’ Review: A Volley and a Flub",
-      "link": "https://www.nytimes.com/2026/07/23/movies/the-dink-review.html",
-      "published": "2026-07-23T09:01:35+00:00",
-      "summary": "Jake Johnson and Mary Steenburgen star in a tennis versus pickleball comedy that never quite makes it over the net."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "The Devotion of Willow Smith",
-      "link": "https://www.nytimes.com/2026/07/23/arts/music/willow-smith-interview.html",
-      "published": "2026-07-23T09:01:34+00:00",
-      "summary": "The daughter of a Hollywood power couple, she has gone above and beyond to prove herself. Virtuosity and spiritual aspirations fill her latest, “The Thread.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Women of a Certain Swagger, and Their Art Visions",
-      "link": "https://www.nytimes.com/2026/07/23/arts/design/jewish-museum-women-wiener-werkstatte-design.html",
-      "published": "2026-07-23T09:01:00+00:00",
-      "summary": "The Jewish Museum highlights unsung textile, ceramic and fashion designers at the renowned Wiener Werkstätte — the Vienna Workshops — of the early 20th century."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "Keith David Doesn’t Know What You Saw Him In",
       "link": "https://www.nytimes.com/2026/07/23/arts/television/keith-david-president-curtis.html",
       "published": "2026-07-23T15:17:53+00:00",
       "summary": "The prolific actor and narrator is adding another credit to his résumé with “President Curtis,” a spinoff of the animated hit “Rick and Morty.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Splatoon Raiders Review: Paint, Paint, Everywhere, and Not a Friend to Ink",
-      "link": "https://www.nytimes.com/2026/07/23/arts/splatoon-raiders-review.html",
-      "published": "2026-07-23T09:00:06+00:00",
-      "summary": "Instead of competitive multiplayer, Splatoon Raiders has you take on fishlike enemies with an array of weapons and gadgets."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Tate’s New Director Knows Its Glory Days. Can She Bring Them Back?",
-      "link": "https://www.nytimes.com/2026/07/23/arts/jessica-morgan-tate-dia.html",
-      "published": "2026-07-23T08:53:37+00:00",
-      "summary": "Jessica Morgan was at Tate before Brexit, the pandemic and steep cuts to the arts. Her work at Dia Art Foundation since then suggests that she is an optimistic appointment for the British museum group."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Late Night Rags on Trump and His Cabinet Joining TikTok",
-      "link": "https://www.nytimes.com/2026/07/23/arts/television/late-night-trump-administration-tiktok.html",
-      "published": "2026-07-23T05:48:30+00:00",
-      "summary": "“Right now TikTok is, like, ‘Oh, no, are we the new Facebook?’” Jimmy Fallon said on “The Tonight Show.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Peter Lassally, Longtime Late-Night TV Producer, Dies at 93",
-      "link": "https://www.nytimes.com/2026/07/22/arts/television/peter-lassally-dead.html",
-      "published": "2026-07-22T22:12:42+00:00",
-      "summary": "He was known as the “host whisperer” for his success at producing shows starring Johnny Carson, David Letterman and Craig Ferguson."
     },
     {
       "source_feed": "NYT Arts",
@@ -817,73 +740,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Jason Alexander Apologizes for 2012 Sketch With Teenage Courtney Stodden",
-      "link": "https://www.nytimes.com/2026/07/22/arts/television/jason-alexander-apology-courtney-stodden.html",
-      "published": "2026-07-22T21:47:40+00:00",
-      "summary": "Alexander rubs a phone against the actress’s breasts in the Funny or Die comedy sketch, which was published when she was 17."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "They Wrote a Picture Book to Encourage Bipartisanship",
       "link": "https://www.nytimes.com/2026/07/22/books/ellie-gottheimer-larra-mullin-childrens-book.html",
       "published": "2026-07-23T13:38:57+00:00",
       "summary": "Ellie Gottheimer and Larra Mullin, who met when their fathers were in Congress, make a case for bipartisanship in a picture book about dogs working together."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Ayo Edebiri and Ebon Moss-Bachrach on ‘The Bear,’ Family Recipes and More",
-      "link": "https://cooking.nytimes.com/article/the-bear-ayo-edebiri-ebon-moss-bachrach",
-      "published": "2026-07-22T20:29:12+00:00",
-      "summary": "Watch Ayo Edebiri and Ebon Moss-Bachrach make a family recipe for vegetarian borscht."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "The Good List: 6 Things to Bring Joy and Delight to Your Day",
-      "link": "https://www.nytimes.com/2026/07/22/briefing/22-the-good-list-gellhorn-kate-bush.html",
-      "published": "2026-07-22T20:08:04+00:00",
-      "summary": "Forgetting yourself, listening to forests and The Most ‘Wuthering Heights’ Day Ever."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Sony Revives Cinerama Dome in Los Angeles as Box Office Sales Rebound",
-      "link": "https://www.nytimes.com/2026/07/22/business/media/cinerama-dome-sony-pictures-hollywood.html",
-      "published": "2026-07-23T19:39:10+00:00",
-      "summary": "The iconic Cinerama Dome and adjacent 14-screen theater complex will reopen in 2028 after a renovation. The venue closed in 2020 because of the pandemic."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Fire Ravaged the Glasgow School of Art. It May Cost Too Much to Restore It.",
-      "link": "https://www.nytimes.com/2026/07/22/arts/design/glasgow-school-of-art-fire.html",
-      "published": "2026-07-23T08:36:49+00:00",
-      "summary": "Designed by Charles Rennie Mackintosh, the Glasgow School of Art is one of Britain’s most famous buildings. The school says it can’t undertake a planned “faithful restoration” alone."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘The Vampire Lestat’ Was a Dissonant Viewing Experience",
-      "link": "https://www.nytimes.com/2026/07/22/arts/television/the-vampire-lestat-season-finale.html",
-      "published": "2026-07-23T17:33:51+00:00",
-      "summary": "This season of “The Vampire Lestat” featured an outstanding lead performance but an unrecognizable title character."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Oskar Eustis Is Stepping Down From the Public Theater",
-      "link": "https://www.nytimes.com/2026/07/22/theater/oskar-eustis-public-theater.html",
-      "published": "2026-07-22T15:00:10+00:00",
-      "summary": "Eustis has been the Public Theater’s artistic director for 21 years, stewarding Free Shakespeare in the Park, nurturing “Hamilton” and navigating the coronavirus pandemic."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Tate Museums Taps Leader of Dia Art Foundation as Next Director",
-      "link": "https://www.nytimes.com/2026/07/22/arts/design/tate-museums-jessica-morgan-director.html",
-      "published": "2026-07-22T16:17:32+00:00",
-      "summary": "After leading the Dia Art Foundation for over a decade, Jessica Morgan is returning to London to run Tate at a challenging time for the renowned group of art museums."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Marlboro Music: Where Artists Have Time to Chase Perfection",
-      "link": "https://www.nytimes.com/2026/07/22/arts/music/marlboro-music-festival-75.html",
-      "published": "2026-07-23T18:24:41+00:00",
-      "summary": "The Marlboro Music festival, now in its 75th summer, allows artists to practice for however long they’d like, with no pressure to perform."
     }
   ]
 }

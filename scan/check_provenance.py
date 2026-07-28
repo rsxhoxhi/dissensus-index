@@ -67,6 +67,7 @@ DOMAIN_TO_OUTLET = {
     "english.news.cn": "Xinhua",
     "khan.co.kr": "Kyunghyang Shinmun",
     "thehill.com": "The Hill",
+    "pcs.org.uk": "PCS Union",
     "manilatimes.net": "The Manila Times",
     "cbsnews.com": "CBS News",
     "nortes.me": "Nortes",
