@@ -2248,6 +2248,36 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-167-B",
+   "entry_id": "167-B",
+   "seq": 575,
+   "title": "Beaufort Castle: five Mount Amel fortresses added to UNESCO World Heritage and endangered lists",
+   "artist": "N/A",
+   "institution": "UNESCO World Heritage Committee (Busan session); Lebanese Ministry of Culture",
+   "country": "Lebanon (damage attributed to Israel)",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Inscribed by UNESCO on 24 July 2026",
+   "date_discovered": "2026-07-28",
+   "sort_date": "2026-07-24",
+   "description": "According to Al Jazeera, the same UNESCO committee session in Busan on 24 July 2026 inscribed five fortresses in Lebanon's Mount Amel region — including the 12th-century Crusader fortress Beaufort Castle (Qalaat al-Chqif) — on both the World Heritage List and the List of World Heritage in Danger under emergency procedures, citing the regional conflict. Lebanon's culture ministry reported that Israeli bombardment had destroyed Shamaa Castle and threatened Beaufort Castle. Israel, attending as an observer since leaving UNESCO in 2019, disputed the Lebanese damage claims and alleged that Hezbollah had turned Beaufort into a military position with tunnels beneath it; member states approved the listings despite an Israeli foreign-ministry campaign to reject them.",
+   "outcome": "Beaufort Castle and four other Mount Amel fortresses inscribed on the World Heritage List and the List of World Heritage in Danger on 24 July 2026. This formalizes international heritage status for sites the parent entry tracked as damaged or threatened; Shamaa Castle reported destroyed. [FOLLOW-UP PENDING: UNESCO monitoring and any documented further damage under the 2026 Lebanon war.]",
+   "tags": "Geopolitics, Cultural property destruction, Conflict zone, 2026 Lebanon war, UNESCO World Heritage Site, Archaeological site",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "source": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list",
+   "additional_sources": [],
+   "themes": [
+    6
+   ],
+   "notes": "Sub-entry of ACI-167 (Beaufort Castle / Qalaat al-Chqif; Tyre; Chama' Citadel) and ACI-167-A (June 10 damage warnings). Records the formal UNESCO World Heritage + Danger inscription on 24 July 2026. Same session inscribed Sebastia in the occupied West Bank (ACI-285). Parent themes were [6, 5]; kept iconoclasm/conflict-destruction [6] and dropped Universal Museum [5] as ill-fitting a fortress-heritage designation — case-level deviation flagged for review.",
+   "interested_parties": "UNESCO World Heritage Committee; Lebanese Ministry of Culture; Israeli Ministry of Foreign Affairs",
+   "coverage_geography": "Middle East, international",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-166",
    "entry_id": "166",
    "seq": 380,
@@ -10331,6 +10361,37 @@
    "follow_up_pending": false
   },
   {
+   "id": "ACI-062-B",
+   "entry_id": "062-B",
+   "seq": 576,
+   "title": "Banksy Waterloo Place statue: Westminster council weighs making the work permanent",
+   "artist": "Banksy",
+   "institution": "Westminster City Council",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Council deliberation reported 28 July 2026",
+   "date_discovered": "2026-07-28",
+   "sort_date": "2026-07-28",
+   "description": "According to The Art Newspaper, Westminster City Council is deliberating whether to allow Banksy's statue at Waterloo Place in St James's — a suited figure holding a large flag that covers and blinds his face as he steps off the plinth, authorship confirmed by Banksy on Instagram on 30 April 2026 — to remain permanently. A council spokesperson said no decision had been made and that a conclusion was expected by the end of the summer, with the work remaining on view for the next few weeks. The statue, installed overnight by crane, has become a tourist draw in a neighbourhood of government buildings, embassies and private clubs.",
+   "outcome": "As of 28 July 2026 the statue remains at Waterloo Place; Westminster City Council says no decision on permanence has been made and expects to conclude by the end of summer 2026. [FOLLOW-UP PENDING: the council's decision on whether the statue stays permanently.]",
+   "tags": "Unauthorized public art, Political art, Protest art",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/28/banksy-statue-in-central-london-could-become-permanent-as-westminster-council-deliberates",
+   "additional_sources": [],
+   "themes": [
+    7,
+    1
+   ],
+   "notes": "Sub-entry of ACI-062 / ACI-062-A (confirmed Banksy 'suited man with flag' statue). Updates the parent's 'no removal, barriers erected' status: the council is now weighing permanent retention, decision expected end of summer 2026. Themes inherited from parent [7, 1].",
+   "interested_parties": "Banksy (artist); Westminster City Council",
+   "coverage_geography": "UK, international",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-061",
    "entry_id": "061",
    "seq": 116,
@@ -17286,6 +17347,70 @@
    "notes": "New parent. Museum labour-dispute cluster: cross-reference ACI-264 (Venice state-museum heat strike threat), ACI-211 (Guggenheim UAW strike authorisation), ACI-128 (Whitney union), ACI-096 (Seattle Art Museum organising), ACI-073 (American Folk Art Museum), ACI-268 (Art Institute of Chicago custodial outsourcing). Distinct from ACI-263 (V&A academic-programmes head racism allegation) and ACI-264 (Venice heat) though thematically adjacent to the heat-strike pattern. Metadata/snippet-grade sourcing at logging (Guardian direct fetch blocked; reached via search result, plus the PCS union statement); no quotations drawn. Staging: escalating (organised ballot, no action yet). Note: pcs.org.uk added to check_provenance DOMAIN_TO_OUTLET this run.",
    "interested_parties": "Public and Commercial Services Union (PCS); Victoria and Albert Museum management; V&A staff at South Kensington, V&A East Museum, V&A East Storehouse and Young V&A",
    "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-285",
+   "entry_id": "285",
+   "seq": 574,
+   "title": "Sebastia archaeological site near Nablus added to UNESCO World Heritage and endangered lists",
+   "artist": "N/A",
+   "institution": "UNESCO World Heritage Committee (44th–47th session, Busan); Palestinian Authority",
+   "country": "Palestine (occupied West Bank)",
+   "governance_type": "Hybrid Regime (occupied West Bank)",
+   "date_controversy": "Inscribed by UNESCO on 24 July 2026",
+   "date_discovered": "2026-07-28",
+   "sort_date": "2026-07-24",
+   "description": "According to Al Jazeera, a UNESCO committee meeting in Busan, South Korea, voted on 24 July 2026 to inscribe the archaeological site of Sebastia — near Nablus in the occupied West Bank, identified with ancient Samaria and containing remains spanning the Iron Age Israelite kingdom through Hellenistic, Roman, Byzantine, Islamic, Crusader and Ottoman periods — simultaneously on the World Heritage List and the List of World Heritage in Danger, under emergency procedures citing threats to the site. The listing was one of six placed on both lists that day. Israel left UNESCO in 2019 and attends as an observer; its foreign ministry campaigned for the listings to be rejected, and its foreign minister objected that the designation sought to erase, in Al Jazeera's paraphrase and quotation, \"the Jewish connection to this land.\" A Palestinian delegate credited Sebastia's residents with protecting the site despite occupation and restrictions. Palestinian officials, reported separately by U.S. News, welcomed the designation in hopes it would constrain an Israeli plan announced in late 2025 to seize roughly 1,800 dunams (about 445 acres) around the site for settlement expansion.",
+   "outcome": "Sebastia inscribed on the World Heritage List and the List of World Heritage in Danger on 24 July 2026 over Israeli objection. The Israeli land-seizure plan announced in late 2025 remains the underlying dispute; no change in the site's on-the-ground status is documented in the coverage retrieved. [FOLLOW-UP PENDING: whether the UNESCO designation affects the Israeli seizure and settlement plan, and any UNESCO monitoring of the site.]",
+   "tags": "Historic preservation, Archaeological site, UNESCO World Heritage Site, Geopolitics, Religious site",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Al Jazeera",
+    "U.S. News & World Report"
+   ],
+   "source": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list",
+   "additional_sources": [
+    "https://www.usnews.com/news/world/articles/2026-07-25/palestinians-hope-unesco-designation-halts-israeli-push-at-west-bank-site"
+   ],
+   "themes": [],
+   "notes": "New parent. Same 24 July 2026 UNESCO emergency-inscription session also added the Lebanese Mount Amel fortresses including Beaufort Castle (see ACI-167-B) and follows the 22 July listing of Crimea's Tauric Chersonese (ACI-277). Cross-reference the British Museum 'Ancient Israel and Judah' / Palestine-label cluster (ACI-131, 131-A/B/C) on contested Israel/Palestine heritage framing. Governance annotated as occupied West Bank per the ACI-277 (Russian-occupied Crimea) convention. Israeli objection quoted from the success-grade Al Jazeera fetch; U.S. News reached at snippet grade for the Palestinian land-seizure context. Staging: watching/escalating (international designation dispute; no on-the-ground change documented).",
+   "interested_parties": "UNESCO World Heritage Committee; Palestinian Authority; Sebastia residents; Israeli Ministry of Foreign Affairs; Israeli foreign minister",
+   "coverage_geography": "Middle East, US, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-286",
+   "entry_id": "286",
+   "seq": 577,
+   "title": "The Nations community mural at risk as Nashville Metro Council approves California Avenue redevelopment",
+   "artist": "N/A",
+   "institution": "Nashville Metro Council (Davidson County); The Nations neighborhood",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Metro Council third and final vote 21 July 2026",
+   "date_discovered": "2026-07-28",
+   "sort_date": "2026-07-21",
+   "description": "According to NewsChannel5 (Nashville), residents of The Nations neighborhood pressed Metro Council for binding guarantees to preserve a roughly 14-year-old multi-panel community mural on California Avenue before the council's third and final vote on a redevelopment proposal of up to about 300 residential units and roughly 6,000 square feet of commercial space across about eight acres, which would require demolishing the building carrying the mural. District 20 Councilmember Rollin Horton planned an amendment requiring the mural be preserved and either reused or repurposed as part of the redevelopment; residents, including advocates Rachel Gladstone and Chris Remke of Save Our Nashville Neighborhoods, said prior verbal commitments were insufficient. Reporting after the 21 July vote indicated the council approved the redevelopment on final reading and adopted a mural amendment that critics said permitted demolition without a preservation mandate, funding, or a permit gate — offering the developer the option to disassemble the mural and leave it for pickup.",
+   "outcome": "Metro Council approved the California Avenue redevelopment on its third and final reading on 21 July 2026 with a mural amendment that community advocates characterized as insufficient to guarantee preservation. The mural's fate under the redevelopment is unresolved. [FOLLOW-UP PENDING: whether the mural is preserved, disassembled, or demolished as the redevelopment proceeds.]",
+   "tags": "Community objection, Historic preservation, Demolition, Public objection",
+   "court_case": "No",
+   "coverage_tier": "Local",
+   "outlets": [
+    "NewsChannel5",
+    "Fox 17 Nashville"
+   ],
+   "source": "https://www.newschannel5.com/news/state/tennessee/davidson-county/nashvilles-the-nations-residents-push-for-mural-protections-ahead-of-metro-council-redevelopment-vote",
+   "additional_sources": [
+    "https://fox17.com/news/growing-nashville/neighbors-question-whether-mural-protections-in-nations-redevelopment-go-far-enough"
+   ],
+   "themes": [
+    9
+   ],
+   "notes": "New parent. Community-mural preservation-vs-redevelopment fight; Tuesday US-local (South) trawl. Cross-reference other community-objection / preservation-of-public-art cases: ACI-188 cluster (Austin street murals), ACI-266 (Richmond Midlothian mural), ACI-161 (Miniluv). Artist and mural title not identified in the coverage retrieved — thin on those specifics; flagged for enrichment. Reference source NewsChannel5 is pre-vote; the post-vote outcome is drawn from Fox 17 / Metro Council reporting reached at search-snippet grade — no quotations drawn. Theme 9 (public objection to publicly sited art) applied in its preservation-oriented sense; flagged as a judgment call.",
+   "interested_parties": "The Nations residents; Rachel Gladstone; Chris Remke (Save Our Nashville Neighborhoods); Councilmember Rollin Horton (District 20); Nashville Metro Council; redevelopment developer (unnamed in coverage)",
+   "coverage_geography": "US (Nashville/Tennessee)",
    "follow_up_pending": true
   }
  ]
