@@ -17279,7 +17279,7 @@
    "date_discovered": "2026-07-26",
    "sort_date": "2026-07-24",
    "description": "According to The Local (25 July 2026) and ARTnews, a 2,500-year-old Celtic gold torque (neck-ring) — part of the Vix Treasure, the princely burial hoard discovered at Vix in Burgundy in 1953 — was stolen from the Châtillon-sur-Seine museum (Musée du Pays Châtillonnais – Trésor de Vix) in daylight on Friday 24 July 2026. Per The Local, thieves smashed the glass display case sheltering the roughly half-kilogram gold torque, which served among the Celts and Gauls as both an ornament and a symbol of power. The theft followed two recent attempted burglaries after which the museum had enhanced security. Dijon prosecutor Olivier Caracotch confirmed the theft; Mayor Jérémie Brigand said: \"The individuals acted in broad daylight to steal the necklace despite the presence of the public, staff and a security detail.\" No one was injured. The object's roughly half-kilo bullion content has prompted concern in coverage that it could be melted down.",
-   "outcome": "The torque is missing and a criminal investigation is under way; no arrests or recovery reported at logging. [FOLLOW-UP PENDING: recovery of the torque, arrests, or confirmation of its destruction/melting.]",
+   "outcome": "The torque is missing and a criminal investigation is under way. A suspect was arrested in connection with the theft, reported 28 July 2026 (see ACI-281-A), but recovery of the torque has not been confirmed. [FOLLOW-UP PENDING: recovery of the torque, prosecution outcome, or confirmation of its destruction/melting.]",
    "tags": "Security failure, Theft",
    "court_case": "No",
    "coverage_tier": "International",
@@ -17296,6 +17296,41 @@
    "additional_sources": [
     "https://www.artnews.com/art-news/news/thieves-snatch-2500-year-old-celtic-gold-torque-france-1234793494/"
    ]
+  },
+  {
+   "id": "ACI-281-A",
+   "entry_id": "281",
+   "seq": 580,
+   "title": "Vix torque theft: a suspect is arrested as France launches a 33-measure national museum-security plan",
+   "artist": "N/A",
+   "institution": "Musee du Pays Chatillonnais - Tresor de Vix; French Ministry of Culture",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "National security plan announced 27 July 2026; arrest reported 28 July 2026",
+   "date_discovered": "2026-07-29",
+   "sort_date": "2026-07-28",
+   "description": "Following the 24 July 2026 daylight theft of the Celtic gold torque from the Vix Treasure (ACI-281), French police arrested a suspect in connection with the theft, reported on 28 July 2026 by Hyperallergic and ARTnews. In parallel, Culture Minister Catherine Pegard on Monday 27 July 2026 unveiled a national action plan for the security of France's heritage institutions and cultural-property conservation sites — reported by The Art Newspaper and Xinhua as comprising 33 measures spanning infrastructure upgrades, staff training and site protection, and presented by the minister as placing the safety of collections as the first priority. Per the coverage, the plan responds to a run of recent thefts from French museums: the October 2025 Louvre jewel heist (ACI-002), the Vix torque, and thefts at the Rene Lalique museum in Alsace (ACI-222) and the Musee du Hieron in central France. Whether the torque itself has been recovered was not confirmed in the reporting retrieved.",
+   "outcome": "A suspect has been arrested in the Vix torque theft; recovery of the torque was not confirmed at logging. France's culture ministry announced a 33-measure national museum-security plan on 27 July 2026. [FOLLOW-UP PENDING: recovery of the torque, prosecution of the arrested suspect, and implementation of the national security plan.]",
+   "tags": "Security failure, Theft",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper",
+    "ARTnews",
+    "Hyperallergic",
+    "Xinhua"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/28/culture-minister-catherine-pegard-reveals-national-security-plan-following-another-major-museum-theft-in-france",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/police-arrest-suspect-theft-celtic-princess-gold-torque-1234793543/",
+    "https://english.news.cn/europe/20260728/89a70bbe54b9402a9b1d2622048ef9ec/c.html",
+    "https://hyperallergic.com/man-arrested-in-broad-daylight-theft-of-2-500-year-old-gold-torque-from-french-museum/"
+   ],
+   "themes": [],
+   "notes": "Sub-entry of ACI-281 (Vix torque theft, 24 July 2026). Two linked developments: arrest of a suspect (reported 28 July 2026) and the culture ministry's 27 July 2026 national museum-security plan (33 measures, per TAN/Xinhua). Cross-reference ACI-002 (2025 Louvre jewel heist), ACI-222 (Rene Lalique museum theft) and the Musee du Hieron theft — the plan is the institutional response to this French museum-theft cluster. Torque recovery not confirmed in coverage retrieved, so parent ACI-281's flag is retained until recovery or destruction is confirmed. Reference source TAN (Pegard plan); ARTnews and Xinhua (arrest/plan); Hyperallergic (arrest, partial/paywall).",
+   "interested_parties": "Catherine Pegard (French Culture Minister); French Ministry of Culture; Musee du Pays Chatillonnais; French police; arrested suspect (unnamed)",
+   "coverage_geography": "France, international",
+   "follow_up_pending": true
   },
   {
    "id": "ACI-282",
@@ -17448,6 +17483,78 @@
    "notes": "New parent. Community-mural preservation-vs-redevelopment fight at 5901 California Avenue; Tuesday US-local (South) trawl. Cross-reference other community-objection / preservation-of-public-art cases: ACI-188 cluster (Austin street murals), ACI-266 (Richmond Midlothian mural), ACI-161 (Miniluv). Artist and mural title not identified in the coverage retrieved — thin on those specifics; flagged for enrichment. Reference source is Fox 17 (post-vote, carries the amendment text and the Horton and Remke quotes); NewsChannel5 (pre-vote) as additional. Theme 9 (public objection to publicly sited art) applied in its preservation-oriented sense. Correction (2026-07-28): earlier draft characterized the amendment as permitting demolition with a 'disassemble and leave for pickup' option and no preservation mandate — that framing came from an advocate's social post, not the cited reporting, and is removed; the amendment as adopted requires preservation/reuse/return/relocation, with the dispute being over enforceability.",
    "interested_parties": "The Nations residents; Rachel Gladstone; Chris Remke (Save Our Nashville Neighborhoods); Councilmember Rollin Horton (District 20); Nashville Metro Council; redevelopment developer (unnamed in coverage)",
    "coverage_geography": "US (Nashville/Tennessee)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-287",
+   "entry_id": "287",
+   "seq": 579,
+   "title": "Picasso's 'Motherhood' Gaza-image protest: two Youth Demand activists convicted of criminal damage at the National Gallery",
+   "artist": "Pablo Picasso (work targeted); Jai Halai and Monday-Malachi Rosenfeld (Youth Demand) (subjects)",
+   "institution": "National Gallery, London",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Action 9 October 2024; jury conviction 28 July 2026",
+   "date_discovered": "2026-07-29",
+   "sort_date": "2026-07-28",
+   "description": "According to ARTnews, Hyperallergic and ArtReview, two activists from Youth Demand — an offshoot of the climate group Just Stop Oil — affixed a photograph of a Gazan mother holding her injured child (an image taken by Palestinian journalist Ali Jadallah during Israeli strikes on the Al-Shifa Hospital area) to the protective glass over Picasso's 1901 painting 'Motherhood (La Maternité)' at the National Gallery on 9 October 2024, then poured red water-based paint on the gallery floor. The National Gallery said the painting, its frame and the floors sustained no damage, though paint seeped and the floor required repair. On 28 July 2026, after more than nine hours of deliberation, a jury convicted Jai Halai and Monday-Malachi Rosenfeld of criminal damage; Judge David Tomlinson released them on bail ahead of sentencing set for September 2026. At the time of the action the pair framed it as a call for a change in UK policy: per Hyperallergic and ArtReview, Halai said the demand was for \"a two-way arms embargo on Israel now,\" and Rosenfeld said \"as a Jew, I feel like it's my duty to call out the genocide being committed in Gaza.\"",
+   "outcome": "A jury convicted both activists of criminal damage on 28 July 2026; they were released on bail pending sentencing scheduled for September 2026. [FOLLOW-UP PENDING: the September 2026 sentencing and any appeal.]",
+   "tags": "Protest art, Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews",
+    "Hyperallergic",
+    "ArtReview"
+   ],
+   "source": "https://www.artnews.com/art-news/news/activists-covered-picasso-gaza-national-gallery-1234793701/",
+   "additional_sources": [
+    "https://hyperallergic.com/gaza-photo-pasted-on-picasso-painting-at-uk-national-gallery/",
+    "https://artreview.com/picassos-motherhood-covered-with-image-of-gazan-mother-and-child/"
+   ],
+   "themes": [
+    6
+   ],
+   "notes": "New parent. Youth Demand (an offshoot of Just Stop Oil) protest action of 9 October 2024 at the National Gallery; jury conviction 28 July 2026. Wednesday Europe/UK trawl. Describe-don't-judge: the Index records the criminal-damage conviction and the activists' stated pro-Palestinian rationale; several Jewish-community outlets (Algemeiner, Jewish News, Jerusalem Post) characterized the action as antisemitic — that framing is theirs, not the Index's, and is not adopted as a tag. GB News coverage seen but not cited (excluded source). The painting itself was undamaged; the criminal damage concerned the gallery floor. Theme 6 (iconoclasm/when is targeting of art in protest justified) applied in its analytical sense even though nothing was destroyed. Reference source ARTnews (conviction); Hyperallergic and ArtReview (original-action detail, full text).",
+   "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (Youth Demand); National Gallery, London; Judge David Tomlinson; Ali Jadallah (photographer of the image used)",
+   "coverage_geography": "UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-288",
+   "entry_id": "288",
+   "seq": 581,
+   "title": "Museo Nacional del Ecuador design contest reset after public backlash; SANAA's scheme replaces Campo Baeza's winner",
+   "artist": "Studio Campo Baeza & MAODA (original winning design); SANAA (replacement design)",
+   "institution": "Museo Nacional del Ecuador (MuNA), Quito; Ecuador Ministry of Culture and Heritage",
+   "country": "Ecuador",
+   "governance_type": "Democracy",
+   "date_controversy": "Original result announced 6 July 2026; reselection reported 23 July 2026",
+   "date_discovered": "2026-07-29",
+   "sort_date": "2026-07-23",
+   "description": "According to The Art Newspaper, ARTnews, Parametric Architecture and Dezeen, an international competition for the new roughly $100m Museo Nacional del Ecuador (MuNA) in Quito — which drew 148 teams from more than 20 countries — announced Studio Campo Baeza and Quito-based MAODA as winners with a scheme titled 'Echoes of the Sun' on 6 July 2026. The result drew immediate public backlash, initially over the design's minimalism and then broadening into objections about the competition's transparency, governance and its relationship to Ecuadorian national identity. Ecuador's Vice-Minister of Culture and Heritage, Romina Munoz, and MuNA executive director Carlos Eduardo Montalvo Puente resigned amid the dispute, though the government did not officially tie the resignations to the competition. Reporting on 23 July 2026 said the original result was set aside and a reset competition selected the Japanese firm SANAA, whose proposal 'Living Strata' conceives the museum as layered spaces linking culture, landscape and history; several firms had withdrawn from the reset process over the changed rules.",
+   "outcome": "The original 6 July 2026 competition result (Campo Baeza/MAODA) was set aside after public backlash and two senior cultural resignations; a reset competition selected SANAA's 'Living Strata' scheme, reported 23 July 2026. [FOLLOW-UP PENDING: confirmation and finalization of the SANAA commission and any continued dispute over the competition process.]",
+   "tags": "Design controversy, Community objection, Institutional crisis, Public objection",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper",
+    "ARTnews",
+    "Parametric Architecture",
+    "Dezeen"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/23/museo-nacional-del-ecuador-design-competition-controversy",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/museo-nacional-del-ecuador-selects-architect-morning-links-1234793347/",
+    "https://parametric-architecture.com/controversy-national-museum/",
+    "https://www.dezeen.com/2026/07/15/national-museum-ecuador-recall-campo-baeza/"
+   ],
+   "themes": [
+    9
+   ],
+   "notes": "New parent. Design/governance controversy over the new roughly $100m Museo Nacional del Ecuador (MuNA) in Quito: the 6 July 2026 selection of Campo Baeza/MAODA's 'Echoes of the Sun' drew public backlash over process transparency and national identity, followed by the resignations of Vice-Minister Romina Munoz and MuNA director Carlos Montalvo and a reset that selected SANAA's 'Living Strata' (reported 23 July 2026). Caught on the daily dragnet during the Wednesday Europe trawl. Source discrepancy noted: Parametric Architecture (written mid-controversy) reported the original result as still standing, while later TAN/ARTnews/Dezeen coverage reports the reset and SANAA reselection — drafted to the later state. Theme 9 in its public-objection-to-a-publicly-commissioned-work sense; an architecture/design analog to public-art objection cases. Reference source TAN; Parametric Architecture (full text) for competition detail.",
+   "interested_parties": "Studio Campo Baeza; MAODA; SANAA; Ecuador Ministry of Culture and Heritage; Vice-Minister Romina Munoz; MuNA director Carlos Eduardo Montalvo Puente; petitioning architects and public",
+   "coverage_geography": "Ecuador, international art/architecture press",
    "follow_up_pending": true
   }
  ]

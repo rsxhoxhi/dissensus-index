@@ -54,6 +54,8 @@ DOMAIN_TO_OUTLET = {
     "storage.courtlistener.com": "CourtListener",
     "archdaily.com": "ArchDaily",
     "dezeen.com": "Dezeen",
+    "artreview.com": "ArtReview",
+    "parametric-architecture.com": "Parametric Architecture",
     "oc-media.org": "OC Media",
     "archpaper.com": "The Architect's Newspaper",
     "newrepublic.com": "The New Republic",
