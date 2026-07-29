@@ -225,12 +225,14 @@ loadData();
     'Indonesia': 'IDN', 'Thailand': 'THA', 'Cambodia': 'KHM',
     'Australia': 'AUS', 'New Zealand': 'NZL',
     'Canada': 'CAN', 'Mexico': 'MEX', 'Argentina': 'ARG', 'Brazil': 'BRA',
-    'Colombia': 'COL', 'Chile': 'CHI', 'Guatemala': 'GTM',
+    'Colombia': 'COL', 'Chile': 'CHL', 'Guatemala': 'GTM',
     'Netherlands': 'NLD', 'Switzerland': 'CHE', 'Austria': 'AUT',
     'Poland': 'POL', 'Romania': 'ROU', 'Slovakia': 'SVK', 'Latvia': 'LVA',
     'Lithuania': 'LTU', 'Finland': 'FIN', 'Ireland': 'IRL',
     'Kazakhstan': 'KAZ', 'Pakistan': 'PAK', 'United Arab Emirates': 'ARE',
     'Vatican': 'VAT',
+    'Sweden': 'SWE', 'Cuba': 'CUB', 'Ecuador': 'ECU', 'DR Congo': 'COD',
+    'Georgia': 'GEO', 'Palestine': 'PSE', 'Peru': 'PER', 'Venezuela': 'VEN',
   };
 
   // Fetch cases and count by canonical country name
@@ -265,9 +267,13 @@ loadData();
     643:'RUS',804:'UKR',792:'TUR',364:'IRN',376:'ISR',422:'LBN',887:'YEM',
     729:'SDN',706:'SOM',566:'NGA',288:'GHA',710:'ZAF',356:'IND',156:'CHN',
     392:'JPN',410:'KOR',360:'IDN',764:'THA',116:'KHM',36:'AUS',124:'CAN',
-    484:'MEX',32:'ARG',76:'BRA',170:'COL',152:'CHI',320:'GTM',528:'NLD',
+    484:'MEX',32:'ARG',76:'BRA',170:'COL',152:'CHL',320:'GTM',528:'NLD',
     756:'CHE',40:'AUT',616:'POL',642:'ROU',703:'SVK',428:'LVA',440:'LTU',
     246:'FIN',372:'IRL',398:'KAZ',586:'PAK',784:'ARE',336:'VAT',275:'PSE',
+    752:'SWE',192:'CUB',218:'ECU',180:'COD',268:'GEO',604:'PER',862:'VEN',
+    // NOTE: Vatican (336) and Belgium (56) have no feature in the 110m
+    // world-atlas, so they cannot render at this resolution regardless of
+    // the lookup. Switch to the 50m atlas if either needs to appear.
   };
   // reverse: alpha-3 → count
   const a3Counts = {};
