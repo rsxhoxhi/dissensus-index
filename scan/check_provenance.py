@@ -73,6 +73,12 @@ DOMAIN_TO_OUTLET = {
     "nortes.me": "Nortes",
     "eltiempo.com": "El Tiempo",
     "thelocal.fr": "The Local",
+    "aljazeera.com": "Al Jazeera",
+    "newschannel5.com": "NewsChannel5",
+    "usnews.com": "U.S. News & World Report",
+    "fox17.com": "Fox 17 Nashville",
+    "syriacpress.com": "SyriacPress",
+    "timesofisrael.com": "The Times of Israel",
 }
 
 ALIASES = {
