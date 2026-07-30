@@ -52,7 +52,7 @@
 </div>
 
 <script>
-let allCases = [], filtered = [], currentPage = 1, activeTag = '';
+let allCases = [], filtered = [], currentPage = 1, activeTag = '', activeCountry = '';
 const perPage = 50;
 
 async function loadData() {
@@ -69,9 +69,26 @@ async function loadData() {
 
   // Tag filter from URL (handoff from a clicked tag)
   activeTag = params.get('tag') || '';
+
+  // Country filter from URL (handoff from the homepage map)
+  activeCountry = params.get('country') || '';
+
   renderActiveTag();
 
   applyFilters();
+}
+
+// Country normalisation — keep in sync with the `norm` map in index.html
+const countryNorm = { 'USA': 'United States', 'UK': 'United Kingdom', 'West Germany': 'Germany' };
+function countryCanon(name) {
+  const n = String(name).trim();
+  return countryNorm.hasOwnProperty(n) ? countryNorm[n] : n;
+}
+function countryParts(raw) {
+  return String(raw || '').split(/[\/,]/)
+    .map(s => s.replace(/\(.*?\)/g, '').trim())
+    .filter(Boolean)
+    .map(countryCanon);
 }
 
 function applyFilters() {
@@ -87,7 +104,9 @@ function applyFilters() {
       c.id.toLowerCase().includes(q);
     const tagOk = !activeTag ||
       (c.tags || '').split(',').map(t => t.trim()).includes(activeTag);
-    return qOk && tagOk;
+    const countryOk = !activeCountry ||
+      countryParts(c.country).includes(countryCanon(activeCountry));
+    return qOk && tagOk && countryOk;
   });
   currentPage = 1;
   render();
@@ -138,9 +157,19 @@ function goPage(n) { currentPage = n; render(); window.scrollTo(0,0); }
 function renderActiveTag() {
   const el = document.getElementById('active-tag');
   if (!el) return;
-  el.innerHTML = activeTag
-    ? `<span class="active-tag-chip">Tag: ${escHtml(activeTag)} <button class="active-tag-x" onclick="clearTag()" aria-label="Clear tag filter">\u00d7</button></span>`
-    : '';
+  const chips = [];
+  if (activeTag) chips.push(`<span class="active-tag-chip">Tag: ${escHtml(activeTag)} <button class="active-tag-x" onclick="clearTag()" aria-label="Clear tag filter">\u00d7</button></span>`);
+  if (activeCountry) chips.push(`<span class="active-tag-chip">Country: ${escHtml(activeCountry)} <button class="active-tag-x" onclick="clearCountry()" aria-label="Clear country filter">\u00d7</button></span>`);
+  el.innerHTML = chips.join(' ');
+}
+
+function clearCountry() {
+  activeCountry = '';
+  const url = new URL(window.location);
+  url.searchParams.delete('country');
+  history.replaceState({}, '', url);
+  renderActiveTag();
+  applyFilters();
 }
 
 function clearTag() {
