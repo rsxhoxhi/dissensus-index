@@ -158,10 +158,14 @@ you don't reintroduce a duplicate/collision:
    prefix. The only existing entries you may modify are `follow_up_pending` cases where
    the sweep found a development — update that case's outcome and drop its flag. Touch
    nothing else.
-2. Validate: cases.json is still valid JSON, and the case count rose by exactly the
+2. After any insert or removal, set `meta.total_cases` to the exact length of the
+   `cases` array. This field is an integrity check against the data, not a display
+   source — the site counts the array directly — so a mismatch means an insert step
+   was skipped.
+3. Validate: cases.json is still valid JSON, and the case count rose by exactly the
    number of new entries added.
-3. Source check: for every new entry, confirm each listed source traces to an actual fetch or search result from this run. Any source that cannot be traced must be removed from the entry and flagged by name in the PR's "For your review" section ("ACI-XXX: listed outlet [name] not confirmed retrieved").
-4. Open a PR titled **"Daily scan — YYYY-MM-DD (Day)"** whose description contains:
+4. Source check: for every new entry, confirm each listed source traces to an actual fetch or search result from this run. Any source that cannot be traced must be removed from the entry and flagged by name in the PR's "For your review" section ("ACI-XXX: listed outlet [name] not confirmed retrieved").
+5. Open a PR titled **"Daily scan — YYYY-MM-DD (Day)"** whose description contains:
    - **Summary:** "X scanned, Y relevant, Z already logged, W new."
    - **Coverage report:** which dragnet languages ran, which trawl, non-EN sources
      returned vs. logged.
@@ -169,7 +173,7 @@ you don't reintroduce a duplicate/collision:
    - **For your review:** every judgment call the run wasn't sure about — borderline
      relevance, a tag that might near judgment, a possible duplicate, a thin entry
      needing enrichment. List these plainly so they can be settled on review.
-5. **Stop at the open PR.** Do not merge. Do not deploy.
+6. **Stop at the open PR.** Do not merge. Do not deploy.
 
 ## If the run can't finish
 
