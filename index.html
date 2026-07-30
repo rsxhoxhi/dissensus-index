@@ -345,7 +345,7 @@ loadData();
       const a3 = numToA3[+d.id];
       if (!a3 || !a3Counts[a3]) return;
       const name = Object.entries(nameToA3).find(([,v]) => v===a3)?.[0];
-      if (name) window.location.href = `browse.html?q=${encodeURIComponent(name)}`;
+      if (name) window.location.href = `browse.html?country=${encodeURIComponent(name)}`;
     });
 
   // Legend
