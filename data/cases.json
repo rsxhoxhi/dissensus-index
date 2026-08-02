@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 541
+  "total_cases": 543
  },
  "cases": [
   {
@@ -17518,6 +17518,71 @@
    "notes": "New parent. Youth Demand (an offshoot of Just Stop Oil) protest action of 9 October 2024 at the National Gallery; jury conviction 28 July 2026. Wednesday Europe/UK trawl. Describe-don't-judge: the Index records the criminal-damage conviction and the activists' stated pro-Palestinian rationale; several Jewish-community outlets (Algemeiner, Jewish News, Jerusalem Post) characterized the action as antisemitic — that framing is theirs, not the Index's, and is not adopted as a tag. GB News covered it but is on the excluded-sources list — seen, not cited. The painting and frame were undamaged; the criminal damage concerned the gallery floor, per trial testimony reported by ARTnews. Theme 6 (iconoclasm / when is protest-targeting of art justified) applied in its analytical sense even though the work itself was undamaged. Reference source ARTnews (conviction and trial detail; article body truncates/paywalls on automated fetch, so ARTnews is at snippet grade — the floor-damage detail is paraphrased, not quoted); Hyperallergic and ArtReview (original-action detail and the activist quotes, full text). Correction (2026-07-29, on maintainer review): an earlier draft stated the floor 'sustained no damage' (self-contradictory with 'required repair') and asserted a nine-hour jury deliberation and a bail release by 'Judge David Tomlinson'; the deliberation length and the named judge/bail detail could not be traced to a retrieved reliable source and were removed, and the floor-damage description corrected to match the ARTnews trial testimony.",
    "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (Youth Demand); National Gallery, London; Ali Jadallah (photographer of the image used)",
    "coverage_geography": "UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-293",
+   "entry_id": "293",
+   "seq": 581,
+   "title": "Boy George withdraws from Palladium 'Jesus Christ Superstar' after pro-Israel song backlash",
+   "artist": "Boy George (George Alan O'Dowd)",
+   "institution": "London Palladium ('Jesus Christ Superstar' production)",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Song 'We Will Dance Again' released week of 27 July 2026; withdrawal announced 31 July 2026",
+   "date_discovered": "2026-08-02",
+   "sort_date": "2026-07-31",
+   "description": "According to RTÉ, Variety and The Hollywood Reporter, the musician Boy George announced on 31 July 2026 that he was withdrawing from the London Palladium production of 'Jesus Christ Superstar,' in which he had been cast as King Herod for a run scheduled 3-15 August 2026. The withdrawal followed backlash to 'We Will Dance Again,' a song he released that week voicing support for Israel amid the war in Gaza; Boy George said the track was created using AI and was inspired by a visit to the Nova exhibition in London, which memorializes victims of the 7 October 2023 Hamas attack. His manager, Paul Kemsley, said the decision to step aside was taken to keep the focus on the production. Neither Boy George's team nor the producers stated that he was removed; both described the exit as his own decision.",
+   "outcome": "Boy George exited the production before its first scheduled performance on 3 August 2026. Withdrawn.",
+   "tags": "Geopolitics",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "RTÉ",
+    "Variety",
+    "The Hollywood Reporter"
+   ],
+   "source": "https://www.rte.ie/entertainment/2026/0731/1585947-boy-george-exits-musical-after-pro-israel-song-backlash/",
+   "additional_sources": [
+    "https://variety.com/2026/music/news/boy-george-drops-out-jesus-christ-superstar-pro-israel-song-1236824746/",
+    "https://www.hollywoodreporter.com/music/music-news/boy-george-jesus-christ-superstar-ai-israel-song-1236660409/"
+   ],
+   "themes": [
+    8
+   ],
+   "notes": "New parent. Discovered on the 2026-08-02 Sunday synthesis run (performing-arts item surfaced via RSS/dragnet). Boy George withdrew voluntarily after public backlash; because this was not an institutional removal, no Removal/Censorship tag is applied. Theme 8 (Artist Responsibility) — an artist's political expression and the question of what is owed to affected audiences. The song being AI-generated is a production detail the artist volunteered, not the substance of the dispute (the dispute is over the pro-Israel content); the 'AI' tag is therefore left off pending review. Reference source RTÉ (full text); Variety and The Hollywood Reporter corroborate at snippet grade. Describe-don't-judge: the Index records the release, the backlash, and the withdrawal without characterizing the song's politics or the objections.",
+   "interested_parties": "Boy George (George Alan O'Dowd); Paul Kemsley (manager); 'Jesus Christ Superstar' production, London Palladium",
+   "coverage_geography": "UK, US, international",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-294",
+   "entry_id": "294",
+   "seq": 582,
+   "title": "Yves Bouvier seeks Sotheby's records in US court for French criminal case over a Picasso",
+   "artist": "Pablo Picasso (work at issue); Yves Bouvier (subject)",
+   "institution": "Sotheby's; de Sarthe Gallery (Milocci Ltd)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "SDNY discovery motion reported 31 July 2026; underlying Picasso sale April 2024",
+   "date_discovered": "2026-08-02",
+   "sort_date": "2026-07-31",
+   "description": "According to ARTnews, the Swiss art dealer Yves Bouvier has asked a US federal court in the Southern District of New York to compel Sotheby's to produce records relating to the private sale of Pablo Picasso's 'Intimité (Femmes et Enfants),' saying the documents are needed for a criminal complaint he has filed in France against the French dealer Antoine Peretti. Per the filing as reported, Bouvier bought the painting from Peretti in April 2024 for $7.25 million on an understanding that it would be resold with profits split evenly, but alleges it was resold weeks later through Milocci Limited (trading as de Sarthe Gallery) to Sotheby's for a net seller price of $9 million; he is seeking the sale agreement, proof of payment, wire-transfer records, and documents identifying the accounts that ultimately received the proceeds. The request is part of Bouvier's wider legal exposure: in January 2026 a French investigating judge ordered him to stand trial in Paris on charges including handling stolen goods and money laundering.",
+   "outcome": "Bouvier's motion to compel was pending before the SDNY as of 31 July 2026. [FOLLOW-UP PENDING: the court's ruling on the discovery request, and the French proceedings against both Peretti and Bouvier.]",
+   "tags": "Art market fraud, Legal challenge, Market opacity",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/market/yves-bouvier-sothebys-documents-picasso-lawsuit-1234794113/",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "New parent, thin — drafted from a single retrieved trade-press report (ARTnews, snippet grade) and flagged for enrichment/corroboration. Art-market / Art-and-Capital cluster (cf. ACI-201, Courbet wire-fraud). The contested matter is a financial/market dispute in which a Picasso is the asset rather than a dispute over the work's meaning; logged under the Index's declared Art-and-Capital remit (theme 10). Borderline against the §7 'cultural object as the actual contested thing' test — see PR review notes. Single-source; treat as unverified pending corroboration. [FOLLOW-UP PENDING]",
+   "interested_parties": "Yves Bouvier; Antoine Peretti; Sotheby's; de Sarthe Gallery (Milocci Ltd)",
+   "coverage_geography": "US, Europe",
    "follow_up_pending": true
   }
  ]
