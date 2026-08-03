@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 541
+  "total_cases": 544
  },
  "cases": [
   {
@@ -15142,6 +15142,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-038-O",
+   "entry_id": "038-O",
+   "seq": 587,
+   "title": "Trump Triumphal Arch — NPS assessment finds adverse effect on Lincoln Memorial and Arlington views",
+   "artist": "N/A (renderings by Harrison Design)",
+   "institution": "Memorial Circle, George Washington Memorial Parkway (NPS); National Capital Planning Commission (NCPC)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "NPS Assessment of Effects (preliminary adverse-effect finding), June 2026; New York Times (Upshot) analysis published August 3, 2026",
+   "date_discovered": "2026-08-03",
+   "sort_date": "2026-08-03",
+   "description": "According to a New York Times (Upshot) analysis published August 3, 2026, the National Park Service's Section 106 Assessment of Effects for the proposed roughly 250-foot triumphal arch backed by President Trump near Memorial Circle reaches a preliminary finding of adverse effect, concluding the structure would alter protected views and settings across the monumental core and could detract from dozens of historic properties. The finding identifies impacts on the vista between the Lincoln Memorial and Arlington National Cemetery, the view from the Washington Monument toward Arlington, and the view of the cemetery from the Pentagon, and states the arch would diminish characteristics that qualify affected properties for the National Register. Earlier coverage by Washingtonian in June 2026 reported the same assessment's conclusion that the arch would change the interrelationships of the monumental landscape around the Lincoln Memorial.",
+   "outcome": "NPS preliminary Section 106 finding is adverse effect; the review process continues and no final determination, Programmatic Agreement or mitigation is documented in the coverage retrieved. [FOLLOW-UP PENDING: the final Section 106 determination, any Programmatic Agreement or mitigation measures, and whether the adverse-effect finding changes the project.]",
+   "tags": "Architectural preservation, Political interference, Design controversy, Landmark dispute",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times (Upshot; Emily Badger)",
+    "Washingtonian"
+   ],
+   "source": "https://www.nytimes.com/2026/08/03/upshot/arch-trump-historic-review.html",
+   "additional_sources": [
+    "https://washingtonian.com/2026/06/10/trumps-triumphal-arch-would-alter-monument-views-and-traffic-patterns-report-says/"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Cross-reference ACI-038-J (archaeological-deposits finding), ACI-038-L (DC preservation officer's alternative-site letter), and ACI-038-M/ACI-038-N (NCPC July 9 preliminary approval). Adds the NPS Assessment of Effects viewshed/setting adverse-effect finding, not previously captured in the cluster. Sourcing: NYT reached at metadata grade via the NYT API (Upshot abstract; body paywalled), corroborated by a search-result snippet of Washingtonian's June 2026 report; no quotations drawn. Note for review: the underlying NPS assessment dates to June 2026 and the August 3 NYT piece is an analysis-desk treatment, so some overlap with the June arch subs is possible.",
+   "interested_parties": "National Park Service; National Capital Planning Commission; Arlington National Cemetery; National Trust for Historic Preservation and allied preservation groups; Trump administration",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-007-F",
    "entry_id": "007-F",
    "seq": 466,
@@ -17518,6 +17552,64 @@
    "notes": "New parent. Youth Demand (an offshoot of Just Stop Oil) protest action of 9 October 2024 at the National Gallery; jury conviction 28 July 2026. Wednesday Europe/UK trawl. Describe-don't-judge: the Index records the criminal-damage conviction and the activists' stated pro-Palestinian rationale; several Jewish-community outlets (Algemeiner, Jewish News, Jerusalem Post) characterized the action as antisemitic — that framing is theirs, not the Index's, and is not adopted as a tag. GB News covered it but is on the excluded-sources list — seen, not cited. The painting and frame were undamaged; the criminal damage concerned the gallery floor, per trial testimony reported by ARTnews. Theme 6 (iconoclasm / when is protest-targeting of art justified) applied in its analytical sense even though the work itself was undamaged. Reference source ARTnews (conviction and trial detail; article body truncates/paywalls on automated fetch, so ARTnews is at snippet grade — the floor-damage detail is paraphrased, not quoted); Hyperallergic and ArtReview (original-action detail and the activist quotes, full text). Correction (2026-07-29, on maintainer review): an earlier draft stated the floor 'sustained no damage' (self-contradictory with 'required repair') and asserted a nine-hour jury deliberation and a bail release by 'Judge David Tomlinson'; the deliberation length and the named judge/bail detail could not be traced to a retrieved reliable source and were removed, and the floor-damage description corrected to match the ARTnews trial testimony.",
    "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (Youth Demand); National Gallery, London; Ali Jadallah (photographer of the image used)",
    "coverage_geography": "UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-295",
+   "entry_id": "295",
+   "seq": 588,
+   "title": "Royal Museums Greenwich workers vote to strike over pay and working conditions",
+   "artist": "N/A",
+   "institution": "Royal Museums Greenwich (National Maritime Museum, Queen's House, Royal Observatory, Cutty Sark); Prospect union",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Strike vote reported 3 August 2026; strike planned for 11-12 August 2026",
+   "date_discovered": "2026-08-03",
+   "sort_date": "2026-08-03",
+   "description": "According to The Art Newspaper, staff at Royal Museums Greenwich (RMG) in London - which comprises the National Maritime Museum, the Queen's House, the Royal Observatory and the Cutty Sark - represented by the Prospect union have voted to strike on 11 and 12 August 2026 over pay and working conditions, following an already-agreed two-year pay settlement. Prospect says its members are seeking London Living Wage accreditation, paid breaks for security staff, clearer policy on fixed-term contracts and improved training. RMG said it had engaged in constructive negotiations and an ACAS conciliation meeting, expressed disappointment at the planned action while noting progress made, and said it intends to remain open during the strike. Prospect general secretary Mike Clancy framed the action as part of a wider push across the UK heritage sector, saying members had been taken advantage of for too long and were signalling they would no longer accept it.",
+   "outcome": "Strike scheduled for 11-12 August 2026; the museum plans to stay open; the pay-and-conditions dispute is unresolved. [FOLLOW-UP PENDING: whether the strike proceeds on 11-12 August, its impact, and any settlement.]",
+   "tags": "Labor dispute",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/03/royal-museums-greenwich-workers-vote-to-strike-over-pay-and-working-conditions",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. UK heritage-sector labour-dispute wave, summer 2026: cross-reference ACI-284 and ACI-284-A (V&A and V&A East Storehouse strike ballots, same summer, PCS and Prospect). Broader museum-labour cluster: ACI-264 (Venice state-museum heat strike threat), ACI-211 (Guggenheim NY UAW strike authorisation), ACI-128 (Whitney union), ACI-268 (Art Institute of Chicago custodial outsourcing). Prospect frames a coordinated summer of heritage-sector action. Staging: escalating (strike voted and scheduled, not yet held). Full-text source (The Art Newspaper) reached; no quotations drawn.",
+   "interested_parties": "Prospect union (general secretary Mike Clancy); Royal Museums Greenwich management; RMG security and front-of-house staff",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-296",
+   "entry_id": "296",
+   "seq": 589,
+   "title": "Guggenheim Abu Dhabi sets December 2026 opening date, reviving Gulf Labor boycott calls",
+   "artist": "N/A (building designed by Frank Gehry)",
+   "institution": "Guggenheim Abu Dhabi (Saadiyat Island); Solomon R. Guggenheim Foundation; Gulf Labor Coalition",
+   "country": "United Arab Emirates",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Opening date announced for 11 December 2026; renewed boycott calls reported and discovered 3 August 2026",
+   "date_discovered": "2026-08-03",
+   "sort_date": "2026-08-03",
+   "description": "According to Hyperallergic, the long-delayed, Frank Gehry-designed Guggenheim Abu Dhabi has been given an opening date of 11 December 2026 and will be one of eight cultural institutions on Saadiyat Island. The announcement has revived boycott calls tied to the Gulf Labor Coalition (GLC), which for roughly 16 years has documented allegations of migrant-worker abuse and labour-law violations connected to the project; in 2015 an offshoot group, G.U.L.F., staged protest occupations at the Guggenheim Museum in New York and at the Peggy Guggenheim Collection in Venice during the Venice Biennale. GLC co-founder Andrew Ross said none of the initial reasons for the action had been adequately resolved over the years despite the coalition's efforts. Hyperallergic reported that the Guggenheim had not responded to a request for comment on the labour concerns or the opening announcement.",
+   "outcome": "Museum scheduled to open 11 December 2026; the Gulf Labor Coalition says worker-treatment concerns remain unresolved and activists are calling on artists to boycott the opening; no formal decision or institutional response is documented in the coverage retrieved. [FOLLOW-UP PENDING: whether an artist boycott materialises around the December 2026 opening and any Guggenheim or Abu Dhabi response.]",
+   "tags": "Labor dispute, Community objection",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/long-contested-guggenheim-abu-dhabi-gets-opening-date/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "New parent. Longstanding dispute (~16 years) logged now on the news hook of the announced 11 December 2026 opening date, which has revived boycott calls; the underlying Gulf Labor Coalition campaign predates the observation window. Cross-reference ACI-211 (Guggenheim NY UAW strike authorisation) as a separate Guggenheim-institution labour matter. Governance: UAE (Authoritarian). Single-source at logging (Hyperallergic, full fetch); borderline inclusion and theme tag [4] are judgment calls flagged for editorial review. Staging: escalating (organised boycott calls, no formal decision or action).",
+   "interested_parties": "Gulf Labor Coalition (co-founder Andrew Ross); G.U.L.F.; Solomon R. Guggenheim Foundation; Abu Dhabi authorities / Saadiyat Island developers",
+   "coverage_geography": "International",
    "follow_up_pending": true
   }
  ]
