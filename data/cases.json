@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 541
+  "total_cases": 546
  },
  "cases": [
   {
@@ -2278,6 +2278,43 @@
    "notes": "Sub-entry of ACI-167 (Beaufort Castle / Qalaat al-Shaqif; Tyre; Chama' Citadel) and ACI-167-A (June 10 damage warnings). Records the formal UNESCO World Heritage + Danger inscription on 24 July 2026. Same session inscribed Sebastia in the occupied West Bank (ACI-285) — the two entries are distinct subjects (Lebanon fortresses vs. a West Bank site) that share the Al Jazeera session report; each also carries a subject-specific second source (SyriacPress here; U.S. News and The Times of Israel on ACI-285). Spelling: primary rendering 'Qalaat al-Shaqif' per predominant usage; the parent cluster (ACI-167/167-A) uses the variant 'al-Chqif' — flagged so the parent spelling can be reconciled on review. Parent themes were [6, 5]; kept iconoclasm/conflict-destruction [6] and dropped Universal Museum [5] as ill-fitting a fortress-heritage designation.",
    "interested_parties": "UNESCO World Heritage Committee; Lebanese Ministry of Culture; Israeli Ministry of Foreign Affairs",
    "coverage_geography": "Middle East, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-167-C",
+   "entry_id": "167-C",
+   "seq": 593,
+   "title": "Beaufort Castle: Israeli forces detonate explosives near newly UNESCO-listed fortress; UNESCO probe urged",
+   "artist": "N/A",
+   "institution": "Beaufort Castle (Qalaat al-Shaqif), Nabatieh governorate, Lebanon (UNESCO World Heritage Site); Icomos Lebanon; UNESCO",
+   "country": "Lebanon",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Explosions shortly after midnight, 30 July 2026; coverage 3 August 2026",
+   "date_discovered": "2026-08-04",
+   "sort_date": "2026-07-30",
+   "description": "According to The Art Newspaper, Israeli forces detonated some 700 tonnes of explosives in southern Lebanon's Nabatieh governorate shortly after midnight on Thursday 30 July 2026, triggering blasts about 800 metres from Beaufort Castle (Qalaat al-Shaqif), the 12th-century Crusader fortress that had been inscribed on UNESCO's World Heritage List only five days earlier, on 25 July (see ACI-167, ACI-167-B). The blast registered a seismic magnitude of 3.8. Israel's government, in statements attributed to Prime Minister Netanyahu and Defence Minister Katz, said it had targeted 'terror tunnels in the Beaufort area' that it described as Hezbollah infrastructure. Lebanon's ministry of culture said damage to the site was 'possible' but that assessment remained impossible while the area is under Israeli occupation; a Lebanese official told The Art Newspaper that 'the explosion has had a huge impact on the cultural and natural landscape, completely altering the surrounding setting.' Icomos Lebanon called for 'an immediate, independent, on-site technical assessment' and asked UNESCO to obtain a formal and detailed accounting from Israel. Lebanese President Joseph Aoun condemned 'the ongoing Israeli violations and attacks in southern Lebanon, particularly the explosions targeting infrastructure and archaeological landmarks.' A UNESCO spokesperson said the organisation was 'concerned about the potential impact on the site's structural integrity' and that a technical assessment would be necessary.",
+   "outcome": "Explosions confirmed near the site; on-site damage assessment not yet possible under occupation; Icomos Lebanon and UNESCO calling for an independent technical assessment and an accounting from Israel. [FOLLOW-UP PENDING: results of any UNESCO/Icomos technical assessment and confirmation of damage to Beaufort Castle.]",
+   "tags": [
+    "Geopolitics",
+    "Cultural property destruction",
+    "Conflict zone",
+    "2026 Lebanon war",
+    "UNESCO World Heritage Site",
+    "Archaeological site"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/03/unesco-urged-to-investigate-after-israeli-forces-trigger-explosion-near-lebanons-world-heritage-listed-beaufort-castle",
+   "additional_sources": [],
+   "themes": [
+    6
+   ],
+   "notes": "Sub-entry of ACI-167 (Beaufort Castle / Mount Amel fortresses); follows ACI-167-B (UNESCO inscription, 24-25 July 2026). Explosions occurred five days after inscription. War-destruction cluster; shares the 2026 Lebanon war named-conflict tag.",
+   "interested_parties": "Israeli government (PM Netanyahu; Defence Minister Katz); Lebanese ministry of culture; President Joseph Aoun; Icomos Lebanon; UNESCO",
+   "coverage_geography": "Lebanon, Middle East, international",
    "follow_up_pending": true
   },
   {
@@ -13946,6 +13983,41 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-012-M",
+   "entry_id": "012-M",
+   "seq": 594,
+   "title": "Smithsonian: White House FY2027 request proposes lowest budget since 2020 and a 6% staff cut",
+   "artist": "N/A",
+   "institution": "Smithsonian Institution; White House / Office of Management and Budget",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "White House FY2027 budget request reported 3 August 2026",
+   "date_discovered": "2026-08-04",
+   "sort_date": "2026-08-03",
+   "description": "According to ARTnews, the White House's fiscal year 2027 budget request proposes 961.3 million dollars in federal funding for the Smithsonian Institution - roughly an 11 percent cut from the 1.08 billion dollars Congress provided in fiscal 2026, and the institution's lowest proposed funding level since at least 2020, the first request below 1 billion dollars since fiscal 2020. The proposal would reduce federally funded staffing by about 6 percent, from the equivalent of 4,047 full-time positions in fiscal 2026 to 3,804. ARTnews reports the deepest reductions fall on facilities spending, down about 21 percent from 152 million to 120 million dollars, with the salaries and expenses account cut by 87.2 million dollars. The request comes amid the Trump administration's broader effort to reshape the Smithsonian's content (see ACI-012, ACI-012-J, ACI-012-K, ACI-012-L), which the administration frames as removing ideological bias and which museum leadership has rejected.",
+   "outcome": "Budget request submitted; appropriations levels are set by Congress and remain undetermined. [FOLLOW-UP PENDING: the enacted FY2027 Smithsonian appropriation and any staffing changes.]",
+   "tags": [
+    "Funding dispute",
+    "Political interference",
+    "Institutional risk"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/white-house-proposes-smallest-smithsonian-budget-in-years-1234794165/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-012 (Trump administration / Smithsonian pressure campaign). Retrieved via search result (ARTnews homepage/article blocked by paywall proxy on direct fetch); no direct quotations used. Ties the content fight to the appropriations lever; cf. ACI-191 (arts-education appropriations).",
+   "interested_parties": "White House / OMB; Smithsonian Institution; Congress (appropriators)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-011",
    "entry_id": "011",
    "seq": 10,
@@ -17518,6 +17590,107 @@
    "notes": "New parent. Youth Demand (an offshoot of Just Stop Oil) protest action of 9 October 2024 at the National Gallery; jury conviction 28 July 2026. Wednesday Europe/UK trawl. Describe-don't-judge: the Index records the criminal-damage conviction and the activists' stated pro-Palestinian rationale; several Jewish-community outlets (Algemeiner, Jewish News, Jerusalem Post) characterized the action as antisemitic — that framing is theirs, not the Index's, and is not adopted as a tag. GB News covered it but is on the excluded-sources list — seen, not cited. The painting and frame were undamaged; the criminal damage concerned the gallery floor, per trial testimony reported by ARTnews. Theme 6 (iconoclasm / when is protest-targeting of art justified) applied in its analytical sense even though the work itself was undamaged. Reference source ARTnews (conviction and trial detail; article body truncates/paywalls on automated fetch, so ARTnews is at snippet grade — the floor-damage detail is paraphrased, not quoted); Hyperallergic and ArtReview (original-action detail and the activist quotes, full text). Correction (2026-07-29, on maintainer review): an earlier draft stated the floor 'sustained no damage' (self-contradictory with 'required repair') and asserted a nine-hour jury deliberation and a bail release by 'Judge David Tomlinson'; the deliberation length and the named judge/bail detail could not be traced to a retrieved reliable source and were removed, and the floor-damage description corrected to match the ARTnews trial testimony.",
    "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (Youth Demand); National Gallery, London; Ali Jadallah (photographer of the image used)",
    "coverage_geography": "UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-297",
+   "entry_id": "297",
+   "seq": 590,
+   "title": "Glasgow CCA archive listed for sale in liquidation, prompting 'Save Our CCA' campaign",
+   "artist": "N/A",
+   "institution": "Centre for Contemporary Arts (CCA), Glasgow; MB Valuations (liquidator); Creative Scotland; Ballast Trust",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "CCA entered liquidation January 2026; archive listed among assets for sale; 'Stop the Sale' protest and coverage reported 3 August 2026",
+   "date_discovered": "2026-08-04",
+   "sort_date": "2026-08-03",
+   "description": "According to The Art Newspaper, the archive of Glasgow's Centre for Contemporary Arts (CCA) - and its predecessor the Third Eye Centre - has been listed among the assets to be sold off after the organisation entered liquidation in January 2026, prompting an outcry from artists and cultural figures. The archive documents more than 50 years of exhibitions, performances and events and includes exhibition records, photographs, posters, film, flyers and ephemera. The liquidation asset disposal firm MB Valuations is handling the sale; the CCA building on Sauchiehall Street is owned by Creative Scotland. Amanda Catto of Creative Scotland said the archive 'encompasses more than 50 years of Scotland's contemporary cultural history' and that allowing its sale would represent 'an irreversible loss to Scotland's cultural record.' A 'Save Our CCA' campaign has launched a petition demanding the archive be kept intact and the building remain in public ownership; the Scottish Liberal Democrats' David Green MSP urged the government to act to protect the material. The archives charity Ballast Trust has been named among parties involved in efforts to safeguard the collection.",
+   "outcome": "Archive listed for sale as part of the liquidation; 'Save Our CCA' petition circulating and preservation efforts under way; disposition of the archive and building undetermined. [FOLLOW-UP PENDING: whether the archive is sold, dispersed, or secured intact, and the fate of the CCA building.]",
+   "tags": [
+    "Funding dispute",
+    "Institutional crisis",
+    "Deaccessioning",
+    "Historic preservation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/03/it-would-represent-an-irreversible-loss-to-scotlands-cultural-record-potential-sale-of-glasgow-art-centres-archive-sparks-outcry",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Distinct from ACI-272 (Glasgow School of Art rebuild affordability) and ACI-283 (Peruvian heritage church): this concerns the CCA/Third Eye Centre archive specifically. Dissensus themes: public funding and the fate of a publicly-supported institution's cultural record (2, 4).",
+   "interested_parties": "Amanda Catto (Creative Scotland); MB Valuations (liquidator); David Green MSP (Scottish Liberal Democrats); Ballast Trust; Save Our CCA campaign",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-298",
+   "entry_id": "298",
+   "seq": 591,
+   "title": "Eric Carle Museum workers file for union election, citing understaffing and conditions",
+   "artist": "N/A",
+   "institution": "Eric Carle Museum of Picture Book Art, Amherst, Massachusetts; UAW Local 2110",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Union filing and announcement reported 3 August 2026",
+   "date_discovered": "2026-08-04",
+   "sort_date": "2026-08-03",
+   "description": "According to Hyperallergic, workers at the Eric Carle Museum of Picture Book Art in Amherst, Massachusetts, are seeking to unionize with United Auto Workers (UAW) Local 2110 and have filed for a union election with the National Labor Relations Board. The organizing workers cited understaffing, a lack of promotions and poor workplace conditions among their reasons, and called on museum leadership 'not to interfere with or delay a union vote,' asking that all eligible staff be permitted to participate. The museum, founded in 2002 by children's book author Eric Carle and his wife Barbara, has drawn more than one million visitors over its 23-year history. Hyperallergic reported no statement from museum management.",
+   "outcome": "Union election petition filed with the NLRB; vote pending. [FOLLOW-UP PENDING: outcome of the union election and any management response.]",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/eric-carle-museum-workers-push-for-union-vote/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Part of a 2026 cluster of museum-labor organizing/strike actions in the Index (cf. ACI-295 Royal Museums Greenwich; ACI-284-A V&A East Storehouse). Thin entry; enrich on a US-local trawl day with local Massachusetts coverage.",
+   "interested_parties": "UAW Local 2110; Eric Carle Museum leadership; organizing staff",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-299",
+   "entry_id": "299",
+   "seq": 592,
+   "title": "Palais de Tokyo's planned 2027 move into La Générale's space draws objection from artist-run collective",
+   "artist": "N/A",
+   "institution": "Palais de Tokyo, Paris; La Générale (artist-run space, 14th arrondissement); Paris Department of Cultural Affairs",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Closure and relocation plan reported early August 2026; Palais de Tokyo to close for renovations from July 2027",
+   "date_discovered": "2026-08-04",
+   "sort_date": "2026-08-03",
+   "description": "According to Artforum, Paris's Palais de Tokyo will close for repairs from July 2027 - a renovation the institution attributes to climate change, having had to shut repeatedly in recent years as temperatures topped 35 degrees Celsius - with the work expected to take at least eighteen months. During the closure the kunsthalle plans to relocate its main offices to an annex of the town hall in the 14th arrondissement, a former conservatory that since 2019 has housed La Générale, one of Paris's first artist-run spaces. The plan has raised objections because it would displace the collective, whose lease was set to expire on 31 December. Artforum reports that the Department of Cultural Affairs said the collective submitted a formal relocation request only in early July, roughly six months before the agreement expired, leaving insufficient time to find it a new location.",
+   "outcome": "Relocation plan announced; La Générale collective facing displacement from the 14th-arrondissement annex. [FOLLOW-UP PENDING: whether La Générale is rehoused and whether the Palais de Tokyo relocation proceeds as planned.]",
+   "tags": [
+    "Funding dispute",
+    "Community objection",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Artforum"
+   ],
+   "source": "https://www.artforum.com/news/palais-de-tokyo-to-close-for-renovations-in-2027-1234756211/",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "Retrieved via search result (Artforum homepage/article blocked by paywall proxy on direct fetch); no direct quotations used. Enrich on a Europe (Wednesday) trawl with French-language Paris coverage. Dissensus theme 2 (public funding / institutional space).",
+   "interested_parties": "Palais de Tokyo; La Générale collective; Paris Department of Cultural Affairs; 14th-arrondissement town hall",
+   "coverage_geography": "France",
    "follow_up_pending": true
   }
  ]
