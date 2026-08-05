@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 541
+  "total_cases": 543
  },
  "cases": [
   {
@@ -17518,6 +17518,64 @@
    "notes": "New parent. Youth Demand (an offshoot of Just Stop Oil) protest action of 9 October 2024 at the National Gallery; jury conviction 28 July 2026. Wednesday Europe/UK trawl. Describe-don't-judge: the Index records the criminal-damage conviction and the activists' stated pro-Palestinian rationale; several Jewish-community outlets (Algemeiner, Jewish News, Jerusalem Post) characterized the action as antisemitic — that framing is theirs, not the Index's, and is not adopted as a tag. GB News covered it but is on the excluded-sources list — seen, not cited. The painting and frame were undamaged; the criminal damage concerned the gallery floor, per trial testimony reported by ARTnews. Theme 6 (iconoclasm / when is protest-targeting of art justified) applied in its analytical sense even though the work itself was undamaged. Reference source ARTnews (conviction and trial detail; article body truncates/paywalls on automated fetch, so ARTnews is at snippet grade — the floor-damage detail is paraphrased, not quoted); Hyperallergic and ArtReview (original-action detail and the activist quotes, full text). Correction (2026-07-29, on maintainer review): an earlier draft stated the floor 'sustained no damage' (self-contradictory with 'required repair') and asserted a nine-hour jury deliberation and a bail release by 'Judge David Tomlinson'; the deliberation length and the named judge/bail detail could not be traced to a retrieved reliable source and were removed, and the floor-damage description corrected to match the ARTnews trial testimony.",
    "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (Youth Demand); National Gallery, London; Ali Jadallah (photographer of the image used)",
    "coverage_geography": "UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-300",
+   "entry_id": "300",
+   "seq": 581,
+   "title": "Australian Museum returns 17 Rapa Nui skulls and a hair sample to Easter Island",
+   "artist": "N/A",
+   "institution": "Australian Museum, Sydney",
+   "country": "Australia (returned to Chile / Rapa Nui)",
+   "governance_type": "Democracy",
+   "date_controversy": "Remains removed 1882; repatriation ceremonies 15–17 July 2026",
+   "date_discovered": "2026-08-05",
+   "sort_date": "2026-08-05",
+   "description": "According to The Art Newspaper, the Australian Museum in Sydney has repatriated 17 skulls and one hair sample of Rapa Nui ancestors — referred to by the island's people as Ivi Tupuna — to the Rapa Nui community and Chile. A German naval expedition under Captain Wilhelm Geiseler removed the remains from Easter Island in 1882; the museum purchased them in 1883 and held them for more than 140 years. Repatriation ceremonies were held in Sydney on 15 July 2026, at Santiago's airport on 17 July, and on Rapa Nui, where islanders welcomed the ancestors home. Carlos Edmunds Paoa, president of the Council of the Elders of Rapa Nui, said: \"For us, they are our ancestors. Each bone will go back to its original place.\" Australian Museum director Kim McKay said returning them was \"an act of moral responsibility.\" The report situates the return within continuing efforts to reclaim Rapa Nui heritage held abroad, noting that the British Museum still holds prized moai statues despite repatriation calls.",
+   "outcome": "The remains were formally returned and received on Rapa Nui in July 2026 through a sequence of ceremonies in Sydney, Santiago and on the island. Resolved as to these particular remains; the wider return of Rapa Nui heritage held in overseas collections (including moai at the British Museum) remains outstanding.",
+   "tags": "Repatriation, Indigenous rights",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/04/australian-museum-repatriates-rapa-nui-remains-easter-island",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Human-remains repatriation resolution logged as a cluster anchor (analytically relevant non-controversy, per inclusion rules). Wednesday Europe/UK/repatriation trawl reach. Cross-reference the restitution/repatriation cluster and the standing of the universal museum: the report frames the British Museum's retention of Rapa Nui moai as the outstanding counter-case. Single retrieved source (The Art Newspaper, full text); flagged for enrichment with Chilean/Pacific-language coverage on a later trawl. Theme 12 (Restitution & Repatriation).",
+   "interested_parties": "Australian Museum (director Kim McKay; Laura McBride, director for First Nations); Carlos Edmunds Paoa (Council of the Elders of Rapa Nui); Beatriz de la Fuente (Chile's ambassador to Australia); Rapa Nui community; Chile",
+   "coverage_geography": "Australia, Chile, international",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-301",
+   "entry_id": "301",
+   "seq": 582,
+   "title": "Artist Srishti Gupta held in Uttar Pradesh after Noida factory-workers' protest",
+   "artist": "Srishti Gupta",
+   "institution": "Uttar Pradesh state police (custody)",
+   "country": "India",
+   "governance_type": "Democracy",
+   "date_controversy": "Arrest 11 April 2026; still detained as of early August 2026",
+   "date_discovered": "2026-08-05",
+   "sort_date": "2026-08-05",
+   "description": "According to The Art Newspaper, Srishti Gupta, 28, a Delhi-based visual artist and poet working in paper-making, weaving, printmaking and poetry, has remained in custody since 11 April 2026, when she was arrested while attending a protest by factory workers in Noida, Uttar Pradesh, and livestreamed her own arrest via the Mazdoor Bigul labour union's Instagram. The workers — the report puts the wider mobilisation at around 40,000 — were demanding higher minimum wages and better conditions. The paper reports that Uttar Pradesh police arrested Gupta without an arrest memo, warrant, or the female personnel required for such an arrest, and that she is named in four First Information Reports on allegations including rioting, criminal intimidation and causing hurt to a public servant; a colleague, Akriti Choudhary, faces charges under the National Security Act. More than 130 people were reported arrested in connection with the protests, with bail applications rejected at district-court level and under review by higher courts. Gupta's lawyer is quoted saying: \"The idea is to make the process the punishment.\"",
+   "outcome": "Gupta remains in detention; district-court bail applications have been rejected and the matter is under review by higher courts. The Art Newspaper and the union frame the prosecution as a criminalisation of dissent. [FOLLOW-UP PENDING: higher-court bail decision, the disposition of the FIRs against Gupta, and the National Security Act case against Akriti Choudhary.]",
+   "tags": "Political interference, Artist safety, Resistance",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/05/criminalisation-of-dissent-indian-artist-remains-behind-bars-after-workers-protest",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent, logged thin and flagged for review. Relevance is via the artist's identity and The Art Newspaper's own-voice framing (\"criminalisation of dissent\"), not an art-object or exhibition dispute — the immediate cause is a labour-protest arrest, so this sits at the edge of the inclusion criteria; kept per the err-toward-showing-more standard and surfaced here for editorial judgment. Governance: India logged as Democracy; note the illiberal-pressure trajectory relevant to the governance-friction frame. Single retrieved source (The Art Newspaper, full text); the quote is carried by that source. No Dissensus theme cleanly fits an artist-dissent/free-expression case among the current twelve — themes left empty pending an editorial call on whether the theme set should extend to artist free expression.",
+   "interested_parties": "Srishti Gupta (artist); Akriti Choudhary (co-accused, NSA charge); Mazdoor Bigul labour union; Uttar Pradesh state police; Noida factory workers",
+   "coverage_geography": "India, UK / international",
    "follow_up_pending": true
   }
  ]
