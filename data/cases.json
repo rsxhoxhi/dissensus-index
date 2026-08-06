@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 541
+  "total_cases": 544
  },
  "cases": [
   {
@@ -2307,6 +2307,41 @@
    "notes": "[FOLLOW-UP PENDING] Campus-censorship cluster (011/011-A/011-B, 031, 049, 087): the 'Palestine reference as trigger' pattern plus 'labor as a censorship mechanism' (employment risk functioning as censorship — cf. UNT/Marka27, Kennedy Center, Pepperdine, ANGA). Not an artwork: the contested object is course material, so this sits at the edge of the tracker's object-centered scope but belongs to the academic-freedom strand. Governance friction: US democracy under illiberal pressure; the institution's swift, disproportionate response reads as anticipatory obedience. Theme 8 inverted — who counts as the 'audience' harmed by a curricular reference? Pending: investigation outcome; Talwar litigation; whether tenure protections hold.",
    "interested_parties": "Savneet Talwar; SAIC administration (provost, dean, VP); complaining student; CAIR-Chicago; NCAC and academic-freedom advocates; AAUP",
    "coverage_geography": "International (Guardian UK; ynet Israel; US art + higher-ed press)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-166-B",
+   "entry_id": "166-B",
+   "seq": 595,
+   "title": "SAIC: hundreds petition for Savneet Talwar's reinstatement as leave continues",
+   "artist": "Savneet Talwar (tenured professor; director, graduate art therapy program)",
+   "institution": "School of the Art Institute of Chicago (SAIC)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Petition released 20 July 2026; renewed calls reported 5 August 2026",
+   "date_discovered": "2026-08-06",
+   "sort_date": "2026-08-05",
+   "description": "More than 400 members of the School of the Art Institute of Chicago community renewed their demand for the reinstatement of tenured art-therapy professor Savneet Talwar (see ACI-166), who has been on paid leave since April 20, 2026, when the school opened a discrimination/harassment investigation after a course case study referencing violence against Palestinian civilians. A petition first released on July 20 calls for ending the suspension and investigation; Hyperallergic reported the renewed campaign on August 5, 2026. The underlying matter — the class cancelled, the investigation unresolved, and Talwar framing the case as academic freedom and political pressure — remains as logged in ACI-166.",
+   "outcome": "Talwar remains on paid leave with the investigation unresolved; petition and community campaign for reinstatement ongoing. [FOLLOW-UP PENDING: investigation outcome, tenure/legal resolution, whether the campaign changes SAIC's position.]",
+   "tags": [
+    "Censorship",
+    "Labor dispute",
+    "Institutional crisis",
+    "Academic freedom"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/hundreds-demand-reinstatement-of-saic-professor-savneet-talwar/",
+   "additional_sources": [],
+   "themes": [
+    8
+   ],
+   "notes": "Development on ACI-166 (parent) and ACI-166-A. Campus-censorship / 'Palestine reference as trigger' cluster (011, 031, 049, 087) and the 'labor as censorship mechanism' reading — employment risk functioning as censorship. Governance friction: US democracy under illiberal pressure; the sustained community petition tests whether organized pressure moves an institution that acted swiftly on a single complaint. [FOLLOW-UP PENDING] investigation/litigation outcome.",
+   "interested_parties": "Savneet Talwar; SAIC administration (Provost Martin Berger); SAIC petition signatories (400+); CAIR-Chicago",
+   "coverage_geography": "US",
    "follow_up_pending": true
   },
   {
@@ -17518,6 +17553,83 @@
    "notes": "New parent. Youth Demand (an offshoot of Just Stop Oil) protest action of 9 October 2024 at the National Gallery; jury conviction 28 July 2026. Wednesday Europe/UK trawl. Describe-don't-judge: the Index records the criminal-damage conviction and the activists' stated pro-Palestinian rationale; several Jewish-community outlets (Algemeiner, Jewish News, Jerusalem Post) characterized the action as antisemitic — that framing is theirs, not the Index's, and is not adopted as a tag. GB News covered it but is on the excluded-sources list — seen, not cited. The painting and frame were undamaged; the criminal damage concerned the gallery floor, per trial testimony reported by ARTnews. Theme 6 (iconoclasm / when is protest-targeting of art justified) applied in its analytical sense even though the work itself was undamaged. Reference source ARTnews (conviction and trial detail; article body truncates/paywalls on automated fetch, so ARTnews is at snippet grade — the floor-damage detail is paraphrased, not quoted); Hyperallergic and ArtReview (original-action detail and the activist quotes, full text). Correction (2026-07-29, on maintainer review): an earlier draft stated the floor 'sustained no damage' (self-contradictory with 'required repair') and asserted a nine-hour jury deliberation and a bail release by 'Judge David Tomlinson'; the deliberation length and the named judge/bail detail could not be traced to a retrieved reliable source and were removed, and the floor-damage description corrected to match the ARTnews trial testimony.",
    "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (Youth Demand); National Gallery, London; Ali Jadallah (photographer of the image used)",
    "coverage_geography": "UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-302",
+   "entry_id": "302",
+   "seq": 596,
+   "title": "Wyoming archaeologists sue Interior over 2024 NAGPRA rules restricting collection access",
+   "artist": "N/A",
+   "institution": "Wyoming Association of Professional Archaeologists; U.S. Department of the Interior / Bureau of Land Management; University of Wyoming Archaeological Repository",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Suit filed 24 July 2026 (Wyoming Association of Professional Archaeologists v. Burgum, D. Wyo.)",
+   "date_discovered": "2026-08-06",
+   "sort_date": "2026-07-24",
+   "description": "The Wyoming Association of Professional Archaeologists filed suit against Interior Secretary Douglas Burgum and the Bureau of Land Management in the U.S. District Court for the District of Wyoming, asking the court to halt transfers of, and restore research access to, archaeological materials handled under the Native American Graves Protection and Repatriation Act (NAGPRA). The group argues that the Interior Department's 2024 NAGPRA regulations expanded the statute's definitions of \"cultural items\" and \"funerary objects\" far beyond the 1990 law's scope, sweeping in materials such as stone-tool debris, soil samples and campsite refuse, and that as a result large volumes of archaeological resources have been divested from repositories while museums have closed galleries, covered display cases and restricted access to Native American collections. The complaint centers on six sites and cites orders to the University of Wyoming's repository to repatriate entire collections. The BLM declined to comment.",
+   "outcome": "Suit pending in the U.S. District Court for the District of Wyoming; plaintiffs seek to halt transfers and restore research access. Interior/BLM declined to comment. [FOLLOW-UP PENDING: ruling, Interior/BLM response, any tribal intervention.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge",
+    "Indigenous rights",
+    "Archaeological site"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews",
+    "The College Fix"
+   ],
+   "source": "https://www.artnews.com/art-news/news/wyoming-association-of-archaeologists-lawsuit-nagpra-1234794355/",
+   "additional_sources": [
+    "https://www.thecollegefix.com/wyoming-archeologists-claim-federal-regs-are-destroying-native-american-research/"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "Restitution & Repatriation cluster (cross-ref ACI-230 AMNH NAGPRA expansion, ACI-015 colonial repatriation, ACI-089), but inverted: here archaeologists challenge the *expansion* of repatriation obligations, arguing regulatory overreach against research access. A domestic-policy counter-current to the broader repatriation trend the Index tracks. [FOLLOW-UP PENDING] litigation outcome. Source note: ARTnews carried the art-world coverage (full text behind a bot wall this run, retrieved as search metadata); The College Fix full text used for the complaint's specifics — facts corroborated across WyoFile and PACER docket (case 2:26-cv-00222).",
+   "interested_parties": "Wyoming Association of Professional Archaeologists; Interior Secretary Douglas Burgum; Bureau of Land Management; University of Wyoming Archaeological Repository",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-303",
+   "entry_id": "303",
+   "seq": 597,
+   "title": "Russian drone strike destroys 300-year-old wooden Cossack church in Beryslav, Ukraine",
+   "artist": "N/A",
+   "institution": "Holy Vvedensky Church (Sviato-Vvedenska Church), Beryslav; Novokakhovka Diocese, Ukrainian Orthodox Church",
+   "country": "Ukraine",
+   "governance_type": "Democracy",
+   "date_controversy": "Drone strike 2 August 2026",
+   "date_discovered": "2026-08-06",
+   "sort_date": "2026-08-02",
+   "description": "On August 2, 2026, a Russian drone strike destroyed the Holy Vvedensky Church (Sviato-Vvedenska Church) in Beryslav, in the Ukrainian-controlled part of Kherson region, burning the wooden structure to the ground. Built in 1725-1726 from oak without a single nail, it was described by Ukrainian outlets and heritage advocates as a rare surviving example of Zaporizhzhian Cossack church architecture of the Middle Dnipro school. Originally erected at the Cossack fortress of Perevolochna, it was dismantled and floated down the Dnipro to Beryslav in the late 18th century, earning the name the \"traveling church,\" and had survived the Russian Empire, Soviet-era persecution and the Second World War. Ukrainian authorities attributed the destruction to a Russian drone. The church was not UNESCO-listed but was regarded as a monument of national significance.",
+   "outcome": "Church reported destroyed by fire; described as a total and irreparable loss. [FOLLOW-UP PENDING: official Ukrainian Ministry of Culture / heritage-body statement, any reconstruction plans, documentation of the loss.]",
+   "tags": [
+    "Cultural property destruction",
+    "Conflict zone",
+    "Religious site",
+    "Russia-Ukraine war",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper",
+    "Intent"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/05/russian-drone-destroys-unique-300-year-old-wooden-cossack-church-in-ukraine",
+   "additional_sources": [
+    "https://intent.press/en/news/society/2026/in-the-kherson-region-the-occupiers-destroyed-a-unique-18th-century-cossack-church/"
+   ],
+   "themes": [
+    6
+   ],
+   "notes": "War-destruction cluster: cross-ref ACI-187, ACI-178, ACI-127, ACI-277 (Russia-Ukraine cultural-heritage losses). Lateral-iconoclasm frame (CLAUDE.md §14) — warfare damage to a religious/heritage site; Theme 6 applied per the church-destruction precedent of ACI-187. Cultural-property-destruction umbrella applies on recognized national significance (UNESCO status sufficient but not required); co-tagged Conflict zone (military force) and the canonical named-conflict string Russia-Ukraine war. [FOLLOW-UP PENDING] official documentation / attribution.",
+   "interested_parties": "Novokakhovka Diocese (Ukrainian Orthodox Church); Beryslav City Military Administration; Ukrainian Ministry of Culture",
+   "coverage_geography": "Ukraine, UK (international art press)",
    "follow_up_pending": true
   }
  ]
