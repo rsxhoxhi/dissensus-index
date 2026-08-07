@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 553
+  "total_cases": 556
  },
  "cases": [
   {
@@ -17904,6 +17904,95 @@
    "notes": "New parent, thin — drafted from a single retrieved trade-press report (ARTnews, snippet grade) and flagged for enrichment/corroboration. Art-market / Art-and-Capital cluster (cf. ACI-201, Courbet wire-fraud). The contested matter is a financial/market dispute in which a Picasso is the asset rather than a dispute over the work's meaning; logged under the Index's declared Art-and-Capital remit (theme 10). Borderline against the §7 'cultural object as the actual contested thing' test — see PR review notes. On PR review (2026-08-07): removed an unsupported claim that the January 2026 Paris trial order was on charges of handling stolen goods and money laundering - not in the cited ARTnews report. Core facts (the SDNY records bid, the April 2024 Peretti sale, the $9M resale) corroborated on review via urgentmatter.press and The Art Newspaper; ARTnews itself is paywall-blocked to automated fetch. [FOLLOW-UP PENDING]",
    "interested_parties": "Yves Bouvier; Antoine Peretti; Sotheby's; de Sarthe Gallery (Milocci Ltd)",
    "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-305",
+   "entry_id": "305",
+   "seq": 598,
+   "title": "16 arrested at a Senate 'die-in' displaying portraits of people killed in ICE custody",
+   "artist": "Gianluca Costantini",
+   "institution": "Hart Senate Office Building; US Capitol Police; Women's March (organizer)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "protest and arrests 5 August 2026",
+   "date_discovered": "2026-08-07",
+   "sort_date": "2026-08-05",
+   "description": "According to Hyperallergic, on 5 August 2026 US Capitol Police arrested 16 protesters inside the Hart Senate Office Building in Washington, DC during a demonstration organized by the advocacy group Women's March. Participants staged a \"die-in\" while holding banner-portraits, hand-drawn by the Italian artist Gianluca Costantini, of people killed by ICE or who died in ICE custody; the banners resembled gravestones marked with names and dates of death, including Alex Pretti, Renée Good and Johan Sebastián Durán Guerrero. Additional banners reading \"ICE Kills\" and \"Abolish ICE\" were unfurled from upper-level balconies. The action targeted senators ahead of the August recess over funding for ICE operations; those taking part were zip-tied and removed. Costantini said, \"Art can make visible what institutions try to turn into something abstract or invisible.\"",
+   "outcome": "16 people were arrested; US Capitol Police had not announced charges as of publication. [FOLLOW-UP PENDING: whether those arrested are charged, and any resulting prosecution.]",
+   "tags": "Protest art, Political art, Migration",
+   "court_case": "Pending",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/16-arrested-for-showing-portraits-of-people-killed-by-ice-in-dc-senate-building/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent, thin — single retrieved source (Hyperallergic, full text). Protest-art / immigration cluster. Borderline against the §7 'cultural object as the actual contested thing' test: the portraits are the medium of a political protest over ICE rather than themselves the disputed object — flagged for editorial judgment. Artist Gianluca Costantini is a political-cartoon / free-expression figure.",
+   "interested_parties": "Women's March (Rachel O'Leary Murphy Carmona, executive director); artist Gianluca Costantini; US Capitol Police; US Senate",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-306",
+   "entry_id": "306",
+   "seq": 599,
+   "title": "New-York Historical replaces 17 objects with reproductions over light in new $175M wing",
+   "artist": "N/A",
+   "institution": "New-York Historical (Tang Wing for American Democracy); Louise Mirrer (director); Robert A.M. Stern (architect)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "exhibition 'Democracy Matters' opened 18 June 2026; reproduction swaps reported early August 2026",
+   "date_discovered": "2026-08-07",
+   "sort_date": "2026-08-04",
+   "description": "According to ARTnews (whose report was read via a search result; the article and a parallel New York Times piece could not be fetched directly this run), the New-York Historical replaced 17 objects in its inaugural exhibition, 'Democracy Matters', with reproductions and removed three others entirely, less than two months after opening its $175 million Tang Wing for American Democracy on 18 June 2026. The wing's main gallery has large windows that flood the space with daylight, and several of the objects selected for display are light-sensitive and at risk of overexposure. Museum staff initially lowered blackout shades, which addressed the conservation risk, but the museum's director, Louise Mirrer, had the shades raised again, saying she felt they were disrespectful of the vision of the architect Robert A.M. Stern, for whom the wing was a final museum project.",
+   "outcome": "As reported, the reproductions and removals were in place; the episode drew criticism over prioritizing the architecture over conservation and over showing reproductions weeks after a costly opening. [FOLLOW-UP PENDING: the museum's longer-term solution for the light-sensitive objects and any institutional response.]",
+   "tags": "Conservation, Design controversy",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/new-york-historical-artworks-reproductions-sunlight-1234794416/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "New parent, thin — drafted from an ARTnews report read via search snippet (snippet grade); direct fetches of ARTnews and a parallel New York Times article were both blocked this run, so no direct quotations are used and figures follow ARTnews's reporting. Conservation-vs-architecture dispute; director overrode a conservation fix. Flag for enrichment/corroboration on the relevant trawl day.",
+   "interested_parties": "New-York Historical; Louise Mirrer (director); Robert A.M. Stern (architect)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-297-A",
+   "entry_id": "297-A",
+   "seq": 600,
+   "title": "Glasgow CCA: artists rally against archive and building sale as 14 August offers deadline nears",
+   "artist": "N/A",
+   "institution": "Centre for Contemporary Arts (CCA), Glasgow; Creative Scotland; MB Valuation (liquidator); Save Our CCA campaign",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "protest 31 July 2026; offers on assets invited until 14 August 2026; coverage 5 August 2026",
+   "date_discovered": "2026-08-07",
+   "sort_date": "2026-08-05",
+   "description": "According to Hyperallergic, a Save Our CCA campaign and supporting artists have escalated their opposition to the sale or lease of Glasgow's Centre for Contemporary Arts (CCA) building at 350 Sauchiehall Street and its roughly 50-year archive, after Creative Scotland — which owns the building — moved to dispose of the assets following the CCA's January 2026 closure. A protest drew dozens of participants on 31 July 2026, and the liquidation firm MB Valuation invited offers on the assets until 14 August 2026. Artists including Karla Black and Tanoa Sasraku, former CCA workers, and the Glasgow MSP Paul Sweeney backed the campaign; Sasraku framed artists' and educators' aims as being thwarted by the gutting of the city's cultural infrastructure, and Sweeney called for urgent clarification from the liquidator about its plans for the CCA's assets. Glasgow Life and the Ballast Trust are reported to be working to keep the archive intact and accessible.",
+   "outcome": "The assets remained listed for disposal with an offers deadline of 14 August 2026; Creative Scotland said it wants continued cultural use, but campaigners note that is not a binding condition of any sale. [FOLLOW-UP PENDING: the outcome of the 14 August 2026 offers deadline and the fate of the CCA building and archive.]",
+   "tags": "Funding dispute, Institutional crisis, Deaccessioning, Historic preservation, Community objection",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/advocates-rally-to-stop-sale-of-glasgows-centre-for-contemporary-arts/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-297 (Glasgow CCA archive listed for sale in liquidation). NOTE: parent ACI-297 is not yet in origin/main — it lives in the unmerged 2026-08-04 daily-scan PR; merge order matters. Development over the parent: documents the 31 July 2026 physical protest, the named artist backers (Karla Black, Tanoa Sasraku), MSP Paul Sweeney's intervention, and the hard 14 August 2026 offers deadline. Incremental — flagged for review against ACI-297 to confirm it is not duplicative.",
+   "interested_parties": "Save Our CCA campaign; Karla Black; Tanoa Sasraku; Paul Sweeney (Glasgow MSP); Creative Scotland; MB Valuation (liquidator); Glasgow Life; Ballast Trust",
+   "coverage_geography": "UK",
    "follow_up_pending": true
   }
  ]
