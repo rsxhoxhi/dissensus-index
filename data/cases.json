@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 552
+  "total_cases": 553
  },
  "cases": [
   {
@@ -17874,6 +17874,36 @@
    "notes": "Backfill parent, drafted on maintainer review (2026-08-07) from the candidate the 2026-08-01 Saturday South-Asia sweep surfaced but the unattended run declined to draft (see PR #75 review notes). Logged per the Index's err-toward-showing-more and log-thin standards for minority/religious-heritage cases with sparse neutral coverage. Describe-don't-judge: the facts are contested - India's MEA alleges a targeted demolition of the shrine, Pakistan's ETPB says only two adjacent shops were razed by tenants and the gurdwara is intact, and the Paigham-e-Aman coordinator acknowledges a wall collapse plus illegal demolition by a businessman - so the Cultural property destruction umbrella is NOT applied (whether the recognized heritage structure was destroyed is itself the dispute) and no verdict tag is used. Sourced from both sides: The Express Tribune (Pakistan, full text) for the ETPB and Paigham-e-Aman accounts (the ETPB's account is rendered as paraphrase, since the Tribune reports it in indirect speech, not as direct quotation); The Hans India (India, full text) for the MEA statement. ID note: assigned ACI-304 rather than the ACI-293 the 08-01 guard reserved, because 293-303 were taken by the later daily-scan PRs (#76-#80) while this scan sat unmerged. Governance: Pakistan logged Hybrid Regime; relevant to the governance hypothesis on minority religious-heritage protection. Themes left [] pending editorial view (Theme 6 iconoclasm would presume intentional ideological destruction, which is exactly what is disputed). Tags flagged for review.",
    "interested_parties": "Gurdwara Sri Guru Singh Sabha Sahib (Farooqabad); Evacuee Trust Property Board (ETPB); local Sikh community; India's Ministry of External Affairs (Randhir Jaiswal); Pakistan's National Paigham-e-Aman Committee (Hafiz Muhammad Tahir Mehmood Ashrafi)",
    "coverage_geography": "Pakistan, India",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-294",
+   "entry_id": "294",
+   "seq": 582,
+   "title": "Yves Bouvier seeks Sotheby's records in US court for French criminal case over a Picasso",
+   "artist": "Pablo Picasso (work at issue); Yves Bouvier (subject)",
+   "institution": "Sotheby's; de Sarthe Gallery (Milocci Ltd)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "SDNY discovery motion reported 31 July 2026; underlying Picasso sale April 2024",
+   "date_discovered": "2026-08-02",
+   "sort_date": "2026-07-31",
+   "description": "According to ARTnews, the Swiss art dealer Yves Bouvier has asked a US federal court in the Southern District of New York to compel Sotheby's to produce records relating to the private sale of Pablo Picasso's 'Intimité (Femmes et Enfants),' saying the documents are needed for a criminal complaint he has filed in France against the French dealer Antoine Peretti. Per the filing as reported, Bouvier bought the painting from Peretti in April 2024 for $7.25 million on an understanding that it would be resold with profits split evenly, but alleges it was resold weeks later through Milocci Limited (trading as de Sarthe Gallery) to Sotheby's for a net seller price of $9 million; he is seeking the sale agreement, proof of payment, wire-transfer records, and documents identifying the accounts that ultimately received the proceeds. The request is part of Bouvier's wider legal exposure: in January 2026 a French investigating judge ordered him to stand trial in Paris in a separate case.",
+   "outcome": "Bouvier's motion to compel was pending before the SDNY as of 31 July 2026. [FOLLOW-UP PENDING: the court's ruling on the discovery request, and the French proceedings against both Peretti and Bouvier.]",
+   "tags": "Art market fraud, Legal challenge, Market opacity",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/market/yves-bouvier-sothebys-documents-picasso-lawsuit-1234794113/",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "New parent, thin — drafted from a single retrieved trade-press report (ARTnews, snippet grade) and flagged for enrichment/corroboration. Art-market / Art-and-Capital cluster (cf. ACI-201, Courbet wire-fraud). The contested matter is a financial/market dispute in which a Picasso is the asset rather than a dispute over the work's meaning; logged under the Index's declared Art-and-Capital remit (theme 10). Borderline against the §7 'cultural object as the actual contested thing' test — see PR review notes. On PR review (2026-08-07): removed an unsupported claim that the January 2026 Paris trial order was on charges of handling stolen goods and money laundering - not in the cited ARTnews report. Core facts (the SDNY records bid, the April 2024 Peretti sale, the $9M resale) corroborated on review via urgentmatter.press and The Art Newspaper; ARTnews itself is paywall-blocked to automated fetch. [FOLLOW-UP PENDING]",
+   "interested_parties": "Yves Bouvier; Antoine Peretti; Sotheby's; de Sarthe Gallery (Milocci Ltd)",
+   "coverage_geography": "US, Europe",
    "follow_up_pending": true
   }
  ]

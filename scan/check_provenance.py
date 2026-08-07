@@ -91,6 +91,8 @@ DOMAIN_TO_OUTLET = {
     "cbc.ca": "CBC News",
     "tribune.com.pk": "The Express Tribune",
     "thehansindia.com": "The Hans India",
+    "rte.ie": "RTÉ",
+    "hollywoodreporter.com": "The Hollywood Reporter",
 }
 
 ALIASES = {
