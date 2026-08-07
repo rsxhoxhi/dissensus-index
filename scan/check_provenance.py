@@ -81,6 +81,8 @@ DOMAIN_TO_OUTLET = {
     "fox17.com": "Fox 17 Nashville",
     "syriacpress.com": "SyriacPress",
     "timesofisrael.com": "The Times of Israel",
+    "tribune.com.pk": "The Express Tribune",
+    "thehansindia.com": "The Hans India",
 }
 
 ALIASES = {

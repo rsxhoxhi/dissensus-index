@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 541
+  "total_cases": 542
  },
  "cases": [
   {
@@ -17518,6 +17518,38 @@
    "notes": "New parent. Youth Demand (an offshoot of Just Stop Oil) protest action of 9 October 2024 at the National Gallery; jury conviction 28 July 2026. Wednesday Europe/UK trawl. Describe-don't-judge: the Index records the criminal-damage conviction and the activists' stated pro-Palestinian rationale; several Jewish-community outlets (Algemeiner, Jewish News, Jerusalem Post) characterized the action as antisemitic — that framing is theirs, not the Index's, and is not adopted as a tag. GB News covered it but is on the excluded-sources list — seen, not cited. The painting and frame were undamaged; the criminal damage concerned the gallery floor, per trial testimony reported by ARTnews. Theme 6 (iconoclasm / when is protest-targeting of art justified) applied in its analytical sense even though the work itself was undamaged. Reference source ARTnews (conviction and trial detail; article body truncates/paywalls on automated fetch, so ARTnews is at snippet grade — the floor-damage detail is paraphrased, not quoted); Hyperallergic and ArtReview (original-action detail and the activist quotes, full text). Correction (2026-07-29, on maintainer review): an earlier draft stated the floor 'sustained no damage' (self-contradictory with 'required repair') and asserted a nine-hour jury deliberation and a bail release by 'Judge David Tomlinson'; the deliberation length and the named judge/bail detail could not be traced to a retrieved reliable source and were removed, and the floor-damage description corrected to match the ARTnews trial testimony.",
    "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (Youth Demand); National Gallery, London; Ali Jadallah (photographer of the image used)",
    "coverage_geography": "UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-304",
+   "entry_id": "304",
+   "seq": 587,
+   "title": "Farooqabad Gurdwara Singh Sabha: India alleges targeted demolition; Pakistan's ETPB says only adjacent shops razed",
+   "artist": "N/A",
+   "institution": "Gurdwara Sri Guru Singh Sabha Sahib, Farooqabad; Evacuee Trust Property Board (ETPB)",
+   "country": "Pakistan",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Demolition work overnight 24-25 June 2026; disputed accounts and India's MEA condemnation early July 2026",
+   "date_discovered": "2026-08-01",
+   "sort_date": "2026-06-24",
+   "description": "According to The Express Tribune and Indian news reports, a dispute has arisen over demolition work at the site of the roughly 125-year-old Gurdwara Sri Guru Singh Sabha Sahib in Farooqabad (Mandi Chuharkana), Sheikhupura district, Punjab, Pakistan, overnight on 24-25 June 2026, and accounts of what was demolished diverge. India's Ministry of External Affairs condemned what it called a targeted demolition of the shrine; spokesperson Randhir Jaiswal said India strongly condemned a \"highly deplorable and targeted act of vandalism against a revered Sikh shrine\" and called on Pakistan to investigate, prosecute those responsible and restore the site, framing it as part of a pattern of targeting religious minorities. Pakistan's Evacuee Trust Property Board (ETPB) rejected the demolition claims, saying the work was limited to \"two shops adjacent to the inactive Gurdwara Singh Sabha, where tenants had started tearing down the structures without obtaining prior approval,\" and that \"the original historic gurdwara has remained fully protected and was not affected in any way\"; the ETPB said officials halted the work, sealed the site, cancelled the tenancies and began legal proceedings. Separately, the Prime Minister's coordinator for the National Paigham-e-Aman Committee, Hafiz Muhammad Tahir Mehmood Ashrafi, said a wall had collapsed through structural weakness and was followed by illegal demolition by a local businessman, and announced that the government would restore and protect the heritage site. Local Sikh residents had protested after the work began.",
+   "outcome": "The site has been sealed and the ETPB says it cancelled the tenancies and began legal proceedings; Pakistani officials have pledged to restore and protect the site. The competing accounts of what was actually demolished - the shrine itself versus only adjacent shops - remain unreconciled in the retrieved coverage. [FOLLOW-UP PENDING: investigation and any prosecution, the promised restoration, and resolution of the disputed accounts of the damage.]",
+   "tags": "Demolition, Religious site, Historic preservation, Community objection, Geopolitics",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Express Tribune",
+    "The Hans India"
+   ],
+   "source": "https://tribune.com.pk/story/2616336/etpb-rejects-social-media-claims-of-gurdwara-singh-sabha-demolition-in-sheikhupura",
+   "additional_sources": [
+    "https://tribune.com.pk/story/2616475/paigham-e-aman-committee-announces-reconstruction-of-sikh-dharamsala-in-sheikhupura",
+    "https://www.thehansindia.com/news/international/pakistan-demolition-of-historic-sikh-shrine-raises-fresh-concerns-over-protection-of-minorities-their-heritage-1096027"
+   ],
+   "themes": [],
+   "notes": "Backfill parent, drafted on maintainer review (2026-08-07) from the candidate the 2026-08-01 Saturday South-Asia sweep surfaced but the unattended run declined to draft (see PR #75 review notes). Logged per the Index's err-toward-showing-more and log-thin standards for minority/religious-heritage cases with sparse neutral coverage. Describe-don't-judge: the facts are contested - India's MEA alleges a targeted demolition of the shrine, Pakistan's ETPB says only two adjacent shops were razed by tenants and the gurdwara is intact, and the Paigham-e-Aman coordinator acknowledges a wall collapse plus illegal demolition by a businessman - so the Cultural property destruction umbrella is NOT applied (whether the recognized heritage structure was destroyed is itself the dispute) and no verdict tag is used. Sourced from both sides: The Express Tribune (Pakistan, full text) for the ETPB and Paigham-e-Aman accounts; The Hans India (India, full text) for the MEA statement. ID note: assigned ACI-304 rather than the ACI-293 the 08-01 guard reserved, because 293-303 were taken by the later daily-scan PRs (#76-#80) while this scan sat unmerged. Governance: Pakistan logged Hybrid Regime; relevant to the governance hypothesis on minority religious-heritage protection. Themes left [] pending editorial view (Theme 6 iconoclasm would presume intentional ideological destruction, which is exactly what is disputed). Tags flagged for review.",
+   "interested_parties": "Gurdwara Sri Guru Singh Sabha Sahib (Farooqabad); Evacuee Trust Property Board (ETPB); local Sikh community; India's Ministry of External Affairs (Randhir Jaiswal); Pakistan's National Paigham-e-Aman Committee (Hafiz Muhammad Tahir Mehmood Ashrafi)",
+   "coverage_geography": "Pakistan, India",
    "follow_up_pending": true
   }
  ]
