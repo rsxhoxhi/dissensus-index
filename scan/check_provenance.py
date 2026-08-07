@@ -89,6 +89,8 @@ DOMAIN_TO_OUTLET = {
     "newsweek.com": "Newsweek",
     "theglobeandmail.com": "The Globe and Mail",
     "cbc.ca": "CBC News",
+    "tribune.com.pk": "The Express Tribune",
+    "thehansindia.com": "The Hans India",
 }
 
 ALIASES = {
