@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T11:06:19.569675+00:00",
+  "generated_at": "2026-08-03T11:07:51.675447+00:00",
   "window_hours": 96,
   "feed_summary": [
     {
@@ -7,24 +7,24 @@
       "status": "ok",
       "total_in_feed": 15,
       "in_window": 15,
-      "new_candidates": 13,
-      "already_logged": 2
+      "new_candidates": 14,
+      "already_logged": 1
     },
     {
       "feed": "ARTnews",
       "status": "ok",
       "total_in_feed": 10,
       "in_window": 10,
-      "new_candidates": 10,
-      "already_logged": 0
+      "new_candidates": 9,
+      "already_logged": 1
     },
     {
       "feed": "The Art Newspaper",
       "status": "ok",
       "total_in_feed": 61,
-      "in_window": 17,
-      "new_candidates": 15,
-      "already_logged": 2
+      "in_window": 12,
+      "new_candidates": 11,
+      "already_logged": 1
     },
     {
       "feed": "Artforum",
@@ -45,13 +45,20 @@
     {
       "feed": "NYT Arts",
       "status": "ok",
-      "total_in_feed": 63,
-      "in_window": 60,
-      "new_candidates": 60,
+      "total_in_feed": 62,
+      "in_window": 53,
+      "new_candidates": 53,
       "already_logged": 0
     }
   ],
   "candidates": [
+    {
+      "source_feed": "Hyperallergic",
+      "title": "Guggenheim Abu Dhabi Will Finally Open",
+      "link": "https://hyperallergic.com/guggenheim-abu-dhabi-will-finally-open/",
+      "published": "2026-08-03T10:00:41+00:00",
+      "summary": "The long-contested museum has an opening date. Plus, V&A Museum workers strike, a Taipei military settlement becomes an artist residency, and a documentary on protest photography."
+    },
     {
       "source_feed": "Hyperallergic",
       "title": "Betye Saar, Simone Forti, Walter Benjamin",
@@ -166,13 +173,6 @@
     },
     {
       "source_feed": "ARTnews",
-      "title": "In New York Court, Dealer Yves Bouvier Seeks Sotheby’s Records as Part of New French Criminal Case",
-      "link": "https://www.artnews.com/art-news/market/yves-bouvier-sothebys-documents-picasso-lawsuit-1234794113/",
-      "published": "2026-07-31T20:01:36+00:00",
-      "summary": "The Swiss dealer is hope the Court will help him win an ongoing legal battle in France."
-    },
-    {
-      "source_feed": "ARTnews",
       "title": "See the Trailer for the New Thomas Crown Affair Movie, Starring Michael B. Jordan as a Notorious Art Thief",
       "link": "https://www.artnews.com/art-news/news/thomas-crown-affair-movie-trailer-michael-b-jordan-art-thief-1234794102/",
       "published": "2026-07-31T18:48:46+00:00",
@@ -215,6 +215,13 @@
     },
     {
       "source_feed": "The Art Newspaper",
+      "title": "Royal Museums Greenwich workers vote to strike over pay and working conditions",
+      "link": "https://www.theartnewspaper.com/2026/08/03/royal-museums-greenwich-workers-vote-to-strike-over-pay-and-working-conditions",
+      "published": "2026-08-03T10:47:09+00:00",
+      "summary": "The strike will occur on 11 and 12 August as Prospect union pledges to step up industrial action across the heritage sector this summer"
+    },
+    {
+      "source_feed": "The Art Newspaper",
       "title": "Gagosian exits locations in Basel and London's Burlington Arcade",
       "link": "https://www.theartnewspaper.com/2026/07/31/gagosian-exits-locations-in-basel-and-londons-burlington-arcade",
       "published": "2026-07-31T19:50:45+00:00",
@@ -222,7 +229,7 @@
     },
     {
       "source_feed": "The Art Newspaper",
-      "title": "‘Art world summer camp’: the Aspen Art Fair prioritises immersion over expansion",
+      "title": "‘Art-world summer camp’: the Aspen Art Fair prioritises immersion over expansion",
       "link": "https://www.theartnewspaper.com/2026/07/31/aspen-art-fair-sales-report-immersion-over-expansion",
       "published": "2026-07-31T18:45:12+00:00",
       "summary": "The boutique fair is attracting increasingly ambitious exhibitors while leaning into the mountain town's distinctive character"
@@ -282,41 +289,6 @@
       "link": "https://www.theartnewspaper.com/2026/07/30/lessons-from-notre-dame-inform-reconstruction-of-copenhagen-stock-exchange-building",
       "published": "2026-07-30T11:25:12+00:00",
       "summary": "After fire destroyed half of the historic red-brick structure in 2024, its owners’ ambitious goal is to rebuild even faster than the French did with the Paris cathedral"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Treasures from Ancient Egypt’s ‘Golden City’, and the stories of the people who made them, revealed in San Francisco show",
-      "link": "https://www.theartnewspaper.com/2026/07/30/life-and-treasure-from-ancient-egypts-golden-city-revealed-in-san-francisco-show",
-      "published": "2026-07-30T10:45:46+00:00",
-      "summary": "Twenty artefacts from Pharaoh Amenhotep III's abandoned city, discovered on Luxor’s west bank in 2021, are part of the exhibition at the de Young Museum"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Arts groups in US cities that increased culture funding during Covid have rebounded more quickly: report",
-      "link": "https://www.theartnewspaper.com/2026/07/29/municipal-arts-funding-covid-rebound-dataarts-southern-methodist-university-study",
-      "published": "2026-07-30T01:52:09+00:00",
-      "summary": "While municipal funding covered a modest share of organisations’ expenses, it had an outsized impact in cities that increased their cultural support, a new study from DataArts shows"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Betye Saar, assemblage artist who reframed racist and sexist imagery, has died, aged 99",
-      "link": "https://www.theartnewspaper.com/2026/07/29/betye-saar-obituary-legendary-los-angeles-assemblage-artist",
-      "published": "2026-07-29T21:38:38+00:00",
-      "summary": "The legendary Los Angeles artist reframed charged images and objects, embraced printmaking and developed elaborate, transporting installations"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "English Heritage debuts daily prize draw for ‘private time’ at Stonehenge this August",
-      "link": "https://www.theartnewspaper.com/2026/07/29/english-heritage-debuts-daily-prize-draw-for-private-time-at-stonehenge-this-august",
-      "published": "2026-07-29T16:43:28+00:00",
-      "summary": "Winners and their booking group will receive ‘a once-in-a-lifetime opportunity to stand within the ancient stones with no one else around’ before opening hours"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Sites in Iran, Lebanon and Palestine among 25 new additions to Unesco’s World Heritage List",
-      "link": "https://www.theartnewspaper.com/2026/07/29/sites-in-iran-lebanon-and-palestine-among-25-new-additions-to-unescos-world-heritage-list",
-      "published": "2026-07-29T11:48:02+00:00",
-      "summary": "Three new properties were inscribed under emergency procedures and simultaneously placed on the World Heritage in Danger List"
     },
     {
       "source_feed": "Artforum",
@@ -404,6 +376,34 @@
     },
     {
       "source_feed": "The Guardian (art)",
+      "title": "‘Sade wasn’t particularly friendly’: the stories behind music’s most iconic portraits – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/03/gered-mankowitz-gallery-interview-eurythmics-revenge-young-sade-diamond-life-wham-rolling-stones",
+      "published": "2026-08-03T10:00:15+00:00",
+      "summary": "In a career spanning six decades, photographer Gered Mankowitz has nurtured trusting relationships with many of the twentieth century’s defining artists. As he celebrates his 80th birthday, Mankowitz opens up about the stories behind iconic images of Elton John, Jimi Hendrix, Annie Lennox and others…"
+    },
+    {
+      "source_feed": "The Guardian (art)",
+      "title": "Atlas of Disappearance review – forensic quest for thousands of forgotten victims of the Spanish civil war",
+      "link": "https://www.theguardian.com/film/2026/aug/03/atlas-of-disappearance-review-forensic-quest-for-families-robbed-of-graves-by-franco",
+      "published": "2026-08-03T06:00:43+00:00",
+      "summary": "Researchers employ technology in a bid to identify and retrieve remains in Spain’s Valley of the Fallen, in Manuel Correa’s emotional documentaryPerched on the Sierra de Guadarrama mountain range overlooking Madrid is the Valle de los Caídos, a colossal memorial site constructed under the Franco reg…"
+    },
+    {
+      "source_feed": "The Guardian (art)",
+      "title": "Beautiful Country: Cortona international photography festival – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/03/cortona-international-photography-festival-in-pictures",
+      "published": "2026-08-03T06:00:43+00:00",
+      "summary": "Cortona on the Move 2026, an international photography festival, has opened with the theme Beautiful Country. More than 30 exhibitions explore Italy in all its complexity, blending the spirit of the aristocratic grand tour with the depth of contemporary documentaries Continue reading..."
+    },
+    {
+      "source_feed": "The Guardian (art)",
+      "title": "Who will make the bigger splash? Two blockbuster David Hockney exhibitions opening in Australia",
+      "link": "https://www.theguardian.com/artanddesign/2026/aug/03/who-will-make-the-bigger-splash-two-blockbuster-david-hockney-exhibitions-opening-in-australia",
+      "published": "2026-08-03T00:00:35+00:00",
+      "summary": "A immersive show made with the British artist before he died is headed to Sydney, at the same time as a Hockney portraiture exhibition at Canberra’s National GalleryTwo blockbuster exhibitions dedicated to the late David Hockney are opening in Australia later this year, months after the British arti…"
+    },
+    {
+      "source_feed": "The Guardian (art)",
       "title": "The Australian Photography awards 2026 – in pictures",
       "link": "https://www.theguardian.com/artanddesign/gallery/2026/aug/02/the-australian-photography-awards-2026-in-pictures",
       "published": "2026-08-02T00:00:06+00:00",
@@ -421,7 +421,7 @@
       "title": "From Spider-Man: Brand New Day to Ariana Grande: your complete entertainment guide to the week ahead",
       "link": "https://www.theguardian.com/culture/2026/aug/01/entertainment-week-ahead-spider-man-brand-new-day-ariana-grande-album-ted-lasso",
       "published": "2026-08-01T05:00:45+00:00",
-      "summary": "Your friendly neighbourhood superhero spins a new web of adventures, and the singer returns from Oz with her hopeful eighth albumSpider-Man: Brand New DayOut now\n The – sequel to No Way Home maintains the focus on what’s now Spidey’s day job: protecting the city. New characters include crime boss To…"
+      "summary": "Your friendly neighbourhood superhero spins a new web of adventures, and the singer returns from Oz with her hopeful eighth albumSpider-Man: Brand New DayOut now\n The sequel to No Way Home maintains the focus on what’s now Spidey’s day job: protecting the city. New characters include crime boss Tomb…"
     },
     {
       "source_feed": "The Guardian (art)",
@@ -438,45 +438,38 @@
       "summary": "Gwen John’s singular poetic world, Enid Marx’s signature designs for the London Underground and the rural gothic of LR Vandy – all in your weekly dispatchGwen John: Strange BeautiesThis excellent and moving encounter with the Welsh modern painter, touring from Wales’s National Museum, takes you deep…"
     },
     {
-      "source_feed": "The Guardian (art)",
-      "title": "From Felix the Cat to MTV: MoMA explores a century of animation",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/31/moma-animation-exhibition-its-alive",
-      "published": "2026-07-31T09:00:09+00:00",
-      "summary": "Exhibition It’s Alive follows the evolution of animation in the 100 years before digital technology changed the gameAlthough the word “animation” may bring to mind rascally, anthropomorphic bunnies, cats and ducks doing outlandish things, the truth of the medium’s diversity goes far beyond these few…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "‘Impressive and unexpected’: $100,000 Hadley’s art prize for Australian landscapes – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/31/hadleys-art-prize-2026-australian-landscapes-in-pictures",
-      "published": "2026-07-31T07:00:06+00:00",
-      "summary": "APY Lands artist Robert Fielding has won the 2026 Hadley’s art prize, awarded to the most outstanding portrayal of Australian landscape. The judges said Fielding’s painting, which depicts stacked, wrecked cars, ‘revealed ‘a landscape which is lived and still sacred’. It will be exhibited with 26 oth…"
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "Snowy valleys, balloon bikes and a wild game of buzkashi: a different view of Afghanistan – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/30/afghanistan-daniel-malikyar-in-pictures",
-      "published": "2026-07-30T06:00:55+00:00",
-      "summary": "As the son of Afghan refugees, Daniel Malikyar wanted to paint a picture of the country he knew, rather than the one he read about in news headlines Continue reading..."
-    },
-    {
-      "source_feed": "The Guardian (art)",
-      "title": "You can’t argue with 118 Brummies in their swimsuits: Attilio Fiumarella’s best photograph",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/29/brummie-birmingham-swimmers-attilio-fiumarellas-best-photograph-terracotta-army",
-      "published": "2026-07-29T13:45:24+00:00",
-      "summary": "‘I was thinking about the Terracotta Army when I took this shot of Birmingham swimmers in their local pool, which faced closure. They had to stand there for an hour, waiting for the sun to come out’I took this image in Birmingham on 20 July 2014 – part of my first professional photography project. I…"
+      "source_feed": "NYT Arts",
+      "title": "Misty Copeland on Her Joyce Theater Festival and Ballet Philosophy",
+      "link": "https://www.nytimes.com/2026/08/03/arts/dance/misty-copeland-ballet-festival-joyce-theater.html",
+      "published": "2026-08-03T09:00:30+00:00",
+      "summary": "Copeland, the retired ballerina was the first Black female principal of American Ballet Theater, curates a two-week festival at the Joyce."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Can Mary Beth Barone Revive Feminist Standup?",
-      "link": "https://www.nytimes.com/2026/07/31/arts/television/mary-beth-barone-galaxy-brain-comedy.html",
-      "published": "2026-07-31T09:01:01+00:00",
-      "summary": "A decade ago, Amy Schumer became the only woman to headline Madison Square Garden. With a new Netflix special, Barone is looking to break out in a very different atmosphere."
+      "title": "Morgan Freeman Interview: On “Lioness” and His Iconic Voice",
+      "link": "https://www.nytimes.com/2026/08/02/arts/television/morgan-freeman-interview-lioness.html",
+      "published": "2026-08-02T09:01:00+00:00",
+      "summary": "The 89-year-old actor returns for the third season of “Lioness,” and he still can’t understand the fuss over his voice."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘The Shards,’ and 7 More Shows to Watch on TV This Week",
+      "link": "https://www.nytimes.com/2026/08/03/arts/television/the-shards-tv-to-watch-this-week.html",
+      "published": "2026-08-03T05:00:05+00:00",
+      "summary": "This adaptation of a Bret Easton Ellis book comes to Hulu and FX. Six of Bravo’s “Real Housewives” travel the country in “Ultimate Girls Trip.”"
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "A ‘Death of a Salesman,’ Edged in Darkness",
+      "link": "https://www.nytimes.com/2026/08/02/arts/death-of-a-salesman.html",
+      "published": "2026-08-02T04:01:13+00:00",
+      "summary": "Every Broadway production of “Death of a Salesman” has its distinguishing features. Willy Loman’s Chevrolet is a powerful character in the latest production."
     },
     {
       "source_feed": "NYT Arts",
       "title": "On ‘Ted Lasso,’ Hannah Waddingham Is Ruthless. Off Camera, She’s ‘Quite a Goofy Nugget.’",
       "link": "https://www.nytimes.com/2026/08/01/arts/television/hannah-waddington-ted-lasso.html",
-      "published": "2026-08-01T04:01:09+00:00",
+      "published": "2026-08-03T08:48:34+00:00",
       "summary": "Hannah Waddingham is a rare British actor to beat a path from musical theater to the screen."
     },
     {
@@ -485,6 +478,13 @@
       "link": "https://www.nytimes.com/2026/07/31/arts/music/ariana-grande-petal-review.html",
       "published": "2026-07-31T14:04:35+00:00",
       "summary": "The singer’s new album, “Petal,” finds her dissatisfied with fame, but offers few details on exactly why."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Can Mary Beth Barone Revive Feminist Standup?",
+      "link": "https://www.nytimes.com/2026/07/31/arts/television/mary-beth-barone-galaxy-brain-comedy.html",
+      "published": "2026-07-31T09:01:01+00:00",
+      "summary": "A decade ago, Amy Schumer became the only woman to headline Madison Square Garden. With a new Netflix special, Barone is looking to break out in a very different atmosphere."
     },
     {
       "source_feed": "NYT Arts",
@@ -530,13 +530,6 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Dance Review: ‘To Philly, Love, Rennie’ Is the Sound of Soul, but Muted",
-      "link": "https://www.nytimes.com/2026/07/31/arts/dance/review-philadanco-rennie-harris.html",
-      "published": "2026-07-31T11:58:37+00:00",
-      "summary": "At the Joyce Theater, Philadanco! premiered a new dance of civic pride by Rennie Harris that’s oddly muffled."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "5 New Movies Our Critics Are Talking About This Week",
       "link": "https://www.nytimes.com/2026/07/31/movies/new-movies-this-week-critics.html",
       "published": "2026-07-31T09:04:33+00:00",
@@ -544,45 +537,31 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Broadway Shows Closing Soon: ‘Death of a Salesman,’ ‘Ragtime’ and More",
-      "link": "https://www.nytimes.com/2026/07/31/theater/broadway-shows-closing-death-of-a-salesman-ragtime.html",
-      "published": "2026-07-31T09:01:54+00:00",
-      "summary": "Catch these Tony Award winners and nominees before the curtain comes down on them for a final time."
+      "title": "‘House of the Dragon’ Season 3, Episode 7 Recap: Wild Animals",
+      "link": "https://www.nytimes.com/2026/08/02/arts/television/house-of-the-dragon-recap-season-3-episode-7.html",
+      "published": "2026-08-03T10:57:03+00:00",
+      "summary": "Everyone has a plan until the fire-breathing dragon gets involved."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Boy George Pulled From ‘Jesus Christ Superstar’ Days After Posting Pro-Israel Reggae Song",
-      "link": "https://www.nytimes.com/2026/07/31/theater/boy-george-israel.html",
-      "published": "2026-07-31T13:09:52+00:00",
-      "summary": "Boy George’s manager said he was pulling the singer from a role in “Jesus Christ Superstar” in “the best interests of my artist.”"
+      "title": "Ariana Grande to Step Away From Public Life After Tour Concludes",
+      "link": "https://www.nytimes.com/2026/08/02/arts/music/ariana-grande-break-world-tour.html",
+      "published": "2026-08-02T23:34:34+00:00",
+      "summary": "Grande “will be taking a step back from visibility” after her Eternal Sunshine Tour concludes next month, a spokeswoman for the singer said on Sunday."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Flaco on Film (Along With the Community the Owl Inspired)",
-      "link": "https://www.nytimes.com/2026/07/31/movies/flaco-owl-wild-inside-documentary.html",
-      "published": "2026-07-31T09:01:34+00:00",
-      "summary": "“Wild Inside” starts off with the director Penny Lane’s characteristic curiosity and winds up being a collective tribute to a bird and his city."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Morgan Freeman Interview: On “Lioness” and His Iconic Voice",
-      "link": "https://www.nytimes.com/2026/08/02/arts/television/morgan-freeman-interview-lioness.html",
-      "published": "2026-08-02T09:01:00+00:00",
-      "summary": "The 89-year-old actor returns for the third season of “Lioness,” and he still can’t understand the fuss over his voice."
+      "title": "‘Hadestown’ Parts Ways With Geno Segers After Transgender Comments Surface",
+      "link": "https://www.nytimes.com/2026/08/02/arts/hadestown-geno-segers-transgender-departs.html",
+      "published": "2026-08-03T04:24:37+00:00",
+      "summary": "Geno Segers was set to join the production with an all-new principal cast in September."
     },
     {
       "source_feed": "NYT Arts",
       "title": "Is Chess a Form of Art?",
       "link": "https://www.nytimes.com/video/arts/100000011045309/is-chess-a-form-of-art.html",
-      "published": "2026-08-02T09:00:55+00:00",
+      "published": "2026-08-02T16:50:20+00:00",
       "summary": "Our art critic Deborah Solomon was one of 50 players to go up against a chess grandmaster for Marcel Duchamp’s 139th birthday celebration at MoMA, exploring the game as an art form."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "A ‘Death of a Salesman,’ Edged in Darkness",
-      "link": "https://www.nytimes.com/2026/08/02/arts/death-of-a-salesman.html",
-      "published": "2026-08-02T04:01:13+00:00",
-      "summary": "Every Broadway production of “Death of a Salesman” has its distinguishing features. Willy Loman’s Chevrolet is a powerful character in the latest production."
     },
     {
       "source_feed": "NYT Arts",
@@ -595,15 +574,15 @@
       "source_feed": "NYT Arts",
       "title": "Vincent Pastore, Actor on ‘The Sopranos,’ Dies at 80",
       "link": "https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html",
-      "published": "2026-08-01T23:58:47+00:00",
+      "published": "2026-08-03T04:06:21+00:00",
       "summary": "He played Salvatore Bonpensiero, a mobster’s foot soldier turned F.B.I. informant known to his friends as Big Pussy, on the celebrated HBO series."
     },
     {
       "source_feed": "NYT Arts",
       "title": "‘Spider-Man: Brand New Day’ Heads for $875 Million Opening at Global Box Office",
       "link": "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html",
-      "published": "2026-08-01T20:00:52+00:00",
-      "summary": "The movie, the 11th big-budget Spider-Man movie since 2002, was on pace to have one of the biggest domestic first weekends ever."
+      "published": "2026-08-02T16:48:04+00:00",
+      "summary": "The Sony Pictures movie, the 11th big-budget Spider-Man blockbuster since 2002, was on pace to have one of the biggest domestic first weekends ever."
     },
     {
       "source_feed": "NYT Arts",
@@ -644,7 +623,7 @@
       "source_feed": "NYT Arts",
       "title": "Greta Lee Has a New Appreciation for Martha Stewart",
       "link": "https://www.nytimes.com/2026/08/01/movies/greta-lee-late-fame.html",
-      "published": "2026-08-01T09:00:36+00:00",
+      "published": "2026-08-01T09:00:37+00:00",
       "summary": "“I mean, here she is, tending her garden in such a physical and athletic way in her short shorts,” the actress said. “That’s how I do it.”"
     },
     {
@@ -681,6 +660,34 @@
       "link": "https://www.nytimes.com/2026/07/31/movies/science-fiction-movies-streaming.html",
       "published": "2026-07-31T15:00:03+00:00",
       "summary": "From the Ryan Gosling hit “Project Hail Mary” to the psychosexual alien rom-com “Touch Me,” explore this month’s eclectic picks."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Boy George Pulled From ‘Jesus Christ Superstar’ Days After Posting Pro-Israel Reggae Song",
+      "link": "https://www.nytimes.com/2026/07/31/theater/boy-george-israel.html",
+      "published": "2026-07-31T13:09:52+00:00",
+      "summary": "Boy George’s manager said he was pulling the singer from a role in “Jesus Christ Superstar” in “the best interests of my artist.”"
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Dance Review: ‘To Philly, Love, Rennie’ Is the Sound of Soul, but Muted",
+      "link": "https://www.nytimes.com/2026/07/31/arts/dance/review-philadanco-rennie-harris.html",
+      "published": "2026-07-31T11:58:37+00:00",
+      "summary": "At the Joyce Theater, Philadanco! premiered a new dance of civic pride by Rennie Harris that’s oddly muffled."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Broadway Shows Closing Soon: ‘Death of a Salesman,’ ‘Ragtime’ and More",
+      "link": "https://www.nytimes.com/2026/07/31/theater/broadway-shows-closing-death-of-a-salesman-ragtime.html",
+      "published": "2026-07-31T09:01:54+00:00",
+      "summary": "Catch these Tony Award winners and nominees before the curtain comes down on them for a final time."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Flaco on Film (Along With the Community the Owl Inspired)",
+      "link": "https://www.nytimes.com/2026/07/31/movies/flaco-owl-wild-inside-documentary.html",
+      "published": "2026-07-31T09:01:34+00:00",
+      "summary": "“Wild Inside” starts off with the director Penny Lane’s characteristic curiosity and winds up being a collective tribute to a bird and his city."
     },
     {
       "source_feed": "NYT Arts",
@@ -742,7 +749,7 @@
       "source_feed": "NYT Arts",
       "title": "For Kim Sajet, Trump’s Targeting of Another Smithsonian Chief Is Déjà Vu",
       "link": "https://www.nytimes.com/2026/07/30/arts/design/trump-smithsonian-museums-sajet-hartig.html",
-      "published": "2026-07-30T16:06:14+00:00",
+      "published": "2026-08-02T17:55:25+00:00",
       "summary": "Kim Sajet left as director of the National Portrait Gallery when she found herself in the White House cross hairs. Now she’s watching another Smithsonian chief go through it."
     },
     {
@@ -775,38 +782,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Iris van Herpen: Please Pleat With Me",
-      "link": "https://www.nytimes.com/2026/07/30/arts/design/iris-van-herpen-fashion-sculpting-the-senses-brooklyn.html",
-      "published": "2026-07-30T09:01:49+00:00",
-      "summary": "A Dutch fashion iconoclast turns the Brooklyn Museum into her atelier — and a reporter tries to be a couturier for a day."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘I Want Your Sex’ Review: Working Out the Kinks With Your Boss",
-      "link": "https://www.nytimes.com/2026/07/30/movies/i-want-your-sex-review-olivia-wilde.html",
-      "published": "2026-07-30T09:01:02+00:00",
-      "summary": "Cooper Hoffman and Olivia Wilde explore a tie-me-up, turn-me-on relationship in Gregg Araki’s jolly sex comedy."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘The Samurai and the Prisoner’ Review: Kiyoshi Kurosawa’s Satisfying Whodunit",
-      "link": "https://www.nytimes.com/2026/07/30/movies/the-samurai-and-the-prisoner-review.html",
-      "published": "2026-07-30T09:00:57+00:00",
-      "summary": "Kiyoshi Kurosawa directs a satisfying period piece about the tense collaboration between a lord and a cunning envoy."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "It’s ‘Game of Thrones,’ on Shakespeare’s Stage",
       "link": "https://www.nytimes.com/2026/07/30/theater/game-of-thrones-mad-king-royal-shakespeare.html",
-      "published": "2026-08-02T09:40:00+00:00",
+      "published": "2026-08-02T09:40:01+00:00",
       "summary": "As the hit series keeps expanding, an ambitious stage adaptation of George R.R. Martin’s prequel saga has found a natural home at the Royal Shakespeare Company."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Books That Illuminate New York’s Forgotten History",
-      "link": "https://www.nytimes.com/2026/07/30/books/new-york-books-historical-fiction.html",
-      "published": "2026-07-30T09:00:23+00:00",
-      "summary": "The best-selling authors Marie Benedict and Victoria Christopher Murray recommend gripping books that illuminate hidden chapters of the city’s past."
     },
     {
       "source_feed": "NYT Arts",
@@ -817,13 +796,6 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Late Night Reviews Trump’s Eulogy for ‘Friend’ Lindsey Graham",
-      "link": "https://www.nytimes.com/2026/07/30/arts/television/late-night-trump-eulogy-lindsey-graham.html",
-      "published": "2026-07-30T05:56:01+00:00",
-      "summary": "“I can’t believe I have to say this to Donald Trump, but can you just lie to us?” Jordan Klepper said on “The Daily Show.”"
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "Simone Forti, Movement Artist Inspired by the Everyday, Dies at 91",
       "link": "https://www.nytimes.com/2026/07/29/arts/dance/simone-forti-dead.html",
       "published": "2026-08-01T05:45:48+00:00",
@@ -831,59 +803,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "10 Women Accuse Jared Leto of Sexual Misconduct in BBC Report",
-      "link": "https://www.nytimes.com/2026/07/29/us/jared-leto-sexual-assault-bbc.html",
-      "published": "2026-07-29T21:45:40+00:00",
-      "summary": "The accusations include sex with underage girls and sexually explicit messages. The actor denied the allegations."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "The Good List: 6 Things to Bring Joy to Your Day",
-      "link": "https://www.nytimes.com/2026/07/29/briefing/29-the-good-list-museum-first-kiss.html",
-      "published": "2026-07-29T20:20:21+00:00",
-      "summary": "First Kiss Moon, the biggest museum and being sure of someone."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "Kavinsky, French D.J. Best Known for ‘Nightcall,’ Dies at 50",
       "link": "https://www.nytimes.com/2026/07/29/arts/music/kavinsky-dj-dead.html",
       "published": "2026-07-31T14:20:46+00:00",
       "summary": "That 2010 hit by the electronic musician, whose real name was Vincent Belorgey, was featured in the title sequence of the film “Drive.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "BTS Won’t Enter Music From Comeback Album for Grammy Awards",
-      "link": "https://www.nytimes.com/2026/07/29/world/asia/bts-grammys-arirang-boycott-asian-category.html",
-      "published": "2026-07-30T00:39:28+00:00",
-      "summary": "The group announced it would not submit its most recent album, ‘Arirang,’ for consideration a month after the Recording Academy introduced a new category for Asian pop."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56",
-      "link": "https://www.nytimes.com/2026/07/29/arts/glen-hansard-dead.html",
-      "published": "2026-07-29T18:00:48+00:00",
-      "summary": "The popular singer-songwriter won, with Markéta Irglová, an Oscar for the song “Falling Slowly” from the film “Once.”"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Ma Rainey, Mother of More Than Just Blues, Comes Alive on New Release",
-      "link": "https://www.nytimes.com/2026/07/29/arts/music/ma-rainey-boxed-set.html",
-      "published": "2026-07-29T17:01:55+00:00",
-      "summary": "Working from archives and private collections, engineers restored notes and uncovered previously unheard details for a compilation that displays Rainey’s wide-ranging impact."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "The Young Hopefuls of ‘Spring Awakening’ Take Their Musical Shot",
-      "link": "https://www.nytimes.com/2026/07/29/theater/spring-awakening-revival-casting.html",
-      "published": "2026-07-29T13:29:34+00:00",
-      "summary": "The creative team behind a revival of the rock musical celebrating teenage love and angst turned to open auditions as they cast the show."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "How the Curtain Rose on One of Zaha Hadid’s Final Acts",
-      "link": "https://www.nytimes.com/2026/07/29/arts/design/how-the-curtain-rose-on-one-of-zaha-hadids-final-acts.html",
-      "published": "2026-08-01T13:09:15+00:00",
-      "summary": "The Royal Theater of Rabat is an architectural performance itself, with devilishly difficult curves. It was a homecoming to a world the star designer loved."
     }
   ]
 }
