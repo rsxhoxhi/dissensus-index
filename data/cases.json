@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 547
+  "total_cases": 551
  },
  "cases": [
   {
@@ -14013,6 +14013,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-012-K",
+   "entry_id": "012",
+   "seq": 584,
+   "title": "American Alliance of Museums condemns White House Smithsonian report, warns of threat to museum independence",
+   "artist": "N/A",
+   "institution": "American Alliance of Museums; Smithsonian Institution",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "AAM statement, reported 28 July 2026",
+   "date_discovered": "2026-07-30",
+   "sort_date": "2026-07-28",
+   "description": "According to the Museums Association (Museums Journal) and ARTnews, the American Alliance of Museums (AAM), the national accrediting body for US museums, issued a statement backing the Smithsonian Institution against the Trump administration's review of its content, including the executive order 'Restoring Truth and Sanity to American History', a White House report titled 'Saving America's Story: How Ideological Capture at the Smithsonian Institution's National Museum of American History Erases Our Heritage', and the directive to place warning signs outside the National Museum of American History (cf. ACI-012-F, ACI-012-G, ACI-012-H, ACI-012-J). The AAM said that 'as our nation's flagship museum system and an AAM-accredited institution, the Smithsonian reflects the highest standards of scholarship, stewardship, and public service', and warned that 'efforts to politicise how museums present history, art, science, culture, and the natural world - and personal attacks on the museum professionals who carry out that work - threaten the integrity and independence of museums across the country'. It cited polling that a large majority of US adults regard museums as non-partisan.",
+   "outcome": "The AAM publicly defended the Smithsonian and framed the administration's intervention as a threat to museums nationwide; the underlying dispute over Smithsonian content remains open. [FOLLOW-UP PENDING: installation of the ordered signage and any further institutional or legal response.]",
+   "tags": "Political interference, Institutional risk",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Museums Association (Museums Journal)",
+    "ARTnews"
+   ],
+   "source": "https://www.museumsassociation.org/museums-journal/news/2026/07/american-alliance-of-museums-backs-smithsonian-institution/",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/american-alliance-of-museums-trump-report-smithsonian-1234793789/"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-012 (Smithsonian cluster); the museum profession's collective response to the White House Smithsonian report and signage order tracked in ACI-012-F/G/H/J. Themes limited to Public Funding (2) and Institutional Risk (4), matching ACI-012-J; parent's Universal Museum (5) omitted as it does not fit a narrative/politicization dispute. Reference source Museums Association / Museums Journal (full text, carries the AAM quotations); ARTnews corroborates but its article body truncated on automated fetch this run.",
+   "interested_parties": "American Alliance of Museums; Smithsonian Institution; Secretary Lonnie Bunch; Trump administration / White House",
+   "coverage_geography": "US, UK",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-012-L",
    "entry_id": "012-L",
    "seq": 586,
@@ -17652,6 +17686,96 @@
    "notes": "New parent. Youth Demand (an offshoot of Just Stop Oil) protest action of 9 October 2024 at the National Gallery; jury conviction 28 July 2026. Wednesday Europe/UK trawl. Describe-don't-judge: the Index records the criminal-damage conviction and the activists' stated pro-Palestinian rationale; several Jewish-community outlets (Algemeiner, Jewish News, Jerusalem Post) characterized the action as antisemitic — that framing is theirs, not the Index's, and is not adopted as a tag. GB News covered it but is on the excluded-sources list — seen, not cited. The painting and frame were undamaged; the criminal damage concerned the gallery floor, per trial testimony reported by ARTnews. Theme 6 (iconoclasm / when is protest-targeting of art justified) applied in its analytical sense even though the work itself was undamaged. Reference source ARTnews (conviction and trial detail; article body truncates/paywalls on automated fetch, so ARTnews is at snippet grade — the floor-damage detail is paraphrased, not quoted); Hyperallergic and ArtReview (original-action detail and the activist quotes, full text). Correction (2026-07-29, on maintainer review): an earlier draft stated the floor 'sustained no damage' (self-contradictory with 'required repair') and asserted a nine-hour jury deliberation and a bail release by 'Judge David Tomlinson'; the deliberation length and the named judge/bail detail could not be traced to a retrieved reliable source and were removed, and the floor-damage description corrected to match the ARTnews trial testimony.",
    "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (Youth Demand); National Gallery, London; Ali Jadallah (photographer of the image used)",
    "coverage_geography": "UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-288",
+   "entry_id": "288",
+   "seq": 581,
+   "title": "Artist Emma Shapiro sues Meta over Instagram deletion in first DSA case targeting account-level bans",
+   "artist": "Emma Shapiro",
+   "institution": "Meta Platforms Inc. (Instagram)",
+   "country": "Spain",
+   "governance_type": "Democracy",
+   "date_controversy": "Account @nipeople terminated 9 December 2025; legal complaints reported 30 July 2026",
+   "date_discovered": "2026-07-30",
+   "sort_date": "2026-07-30",
+   "description": "According to The Art Newspaper, US-born artist Emma Shapiro, who lives in Spain, has begun legal action against Meta over the permanent deletion of her Instagram account @nipeople, created in 2018 as part of her art project 'Exposure Therapy', which challenges the online censorship of female-presenting bodies. Meta suspended the account after Shapiro posted a video of a metal pole covered in nipple stickers, citing an account-integrity violation, and permanently terminated it on 9 December 2025, a day after she appealed. Represented by Avant-Garde Lawyers, Shapiro filed complaints in Spain with the Comision Nacional de los Mercados y la Competencia and through the dispute body User Rights, arguing that Meta breached the European Union's Digital Services Act by failing to give clear reasons for the suspension, to provide an effective complaint procedure, or to act proportionately. The lawyers say Meta denied Shapiro access to an effective internal complaint-handling process, and the case seeks to extend DSA protections to account-level sanctions rather than only individual content removals, citing her loss of her artistic archive, audience, professional visibility and space for public debate.",
+   "outcome": "Complaints filed with Spanish and EU bodies; Meta had not publicly responded at logging. The case is framed as an early test of whether the Digital Services Act constrains platform account terminations, not only single-post removals. [FOLLOW-UP PENDING: regulator and User Rights decisions, and any Meta response.]",
+   "tags": "Censorship, Legal challenge",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/30/artist-starts-legal-case-against-meta-for-deleting-her-instagram-account",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Platform-censorship / artist-rights case: the contested thing is an artist's control over her own archive and expression on a dominant platform, litigated under the EU DSA. No Dissensus theme (1-12) maps cleanly to platform content moderation of art; left empty pending editorial view (candidate: Theme 1, who decides what counts as art). Single retrievable source this run (The Art Newspaper, full text); logged accordingly rather than padded.",
+   "interested_parties": "Emma Shapiro; Meta Platforms Inc.; Avant-Garde Lawyers; Comision Nacional de los Mercados y la Competencia (CNMC); User Rights",
+   "coverage_geography": "Europe, US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-289",
+   "entry_id": "289",
+   "seq": 582,
+   "title": "Writers Guild East withdraws sponsorship of Urbanworld Film Festival over new AI-generated films section",
+   "artist": "N/A",
+   "institution": "Urbanworld Film Festival; Writers Guild of America East",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Withdrawal reported 28 July 2026; festival AI initiative announced for its 30th edition (October 2026)",
+   "date_discovered": "2026-07-30",
+   "sort_date": "2026-07-28",
+   "description": "According to The New York Times and Variety, the Writers Guild of America East withdrew its sponsorship of the Urbanworld Film Festival, a long-running New York showcase for work by filmmakers of color, after the festival added a new section for movies made with generative artificial-intelligence tools for its 30th anniversary edition in October 2026. Variety reported that the festival announced an initiative to accept AI-generated films and shorts, presented in partnership with a university program. The Writers Guild, which had been a festival sponsor, has been an outspoken critic of studios' and technology companies' use of AI in film and television, a central issue in the union's recent labor fights, and ended its support in response to the festival's decision.",
+   "outcome": "The union has ended its sponsorship; the festival's AI section remains planned for its October 2026 edition. [FOLLOW-UP PENDING: whether other sponsors or participants follow, and how the festival proceeds with the AI section.]",
+   "tags": "AI, Labor dispute",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times",
+    "Variety"
+   ],
+   "source": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
+   "additional_sources": [
+    "https://variety.com/2026/film/news/urbanworld-festival-accept-ai-films-30th-anniversary-1236781077/"
+   ],
+   "themes": [],
+   "notes": "New parent. AI-in-culture / labor entry: a union withdrawing institutional support (an organized response) over a festival's embrace of generative-AI filmmaking. Thin entry: NYT retrieved at metadata grade via the developer API; Variety at search-snippet grade (article paywalled on automated fetch) — no direct quotations drawn, so described plainly without quotes. Flag for enrichment on a US-local / Friday trawl (festival's AI-initiative name and partner, and the Guild's exact statement).",
+   "interested_parties": "Writers Guild of America East; Urbanworld Film Festival",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-290",
+   "entry_id": "290",
+   "seq": 583,
+   "title": "Kyiv to replace toppled Lenin statue site with a monument to Cossack hetman Ivan Mazepa",
+   "artist": "N/A",
+   "institution": "Government of Ukraine (Office of the President); Kyiv",
+   "country": "Ukraine",
+   "governance_type": "Democracy",
+   "date_controversy": "Announced 28 June 2026",
+   "date_discovered": "2026-07-30",
+   "sort_date": "2026-06-28",
+   "description": "According to ARTnews and Euromaidan Press, President Volodymyr Zelensky announced on 28 June 2026, Ukraine's Constitution Day, that a monument to the Cossack hetman Ivan Mazepa would be erected on Taras Shevchenko Boulevard in Kyiv at the pedestal where a statue of Lenin stood until it was toppled by protesters in December 2013. Zelensky unveiled a bust of Mazepa at the Kyiv-Pechersk Lavra monastery and framed the plan as righting a historical injustice, describing Mazepa as an outstanding statesman and patron of the arts who led the Cossack state; Euromaidan Press quotes him as saying, 'I am sure that where Lenin fell, there Mazepa will stand firmly.' Mazepa is a divisive figure in the Russia-Ukraine dispute over historical memory: after he allied with Sweden against Tsar Peter I and Russia's 1709 victory at Poltava, Russia condemned him as a traitor and the Russian Orthodox Church placed an anathema on him in 1708 that has never been lifted, while Ukraine venerates him. The plan forms part of Ukraine's continuing decommunization and decolonization campaign, per Euromaidan Press.",
+   "outcome": "The monument has been announced and a Mazepa bust unveiled at the Lavra, but the full monument had not been commissioned or installed at logging. [FOLLOW-UP PENDING: commissioning of the monument, its design and artist, and any objection to the plan.]",
+   "tags": "Historical erasure, Geopolitics",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Euromaidan Press",
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/ukrainian-president-volodymyr-zelenskyy-announces-replacement-toppled-lenin-monument-kyiv-1234790729/",
+   "additional_sources": [
+    "https://euromaidanpress.com/2026/06/28/zelenskyy-in-kyiv-where-lenin-fell-mazepa-will-stand-a-cossack-hetman-russia-still-curses/"
+   ],
+   "themes": [],
+   "notes": "New parent. Monument / decommunization entry surfaced on the Thursday Asia-Pacific run via the general dragnet (Guardian world-culture explainer, 30 July 2026); the underlying announcement dates to 28 June 2026, a currency gap the tracker had not yet filled. Borderline: this is a head-of-state cultural-memory proposal more than a classic art dispute, and it straddles the monument-debate and geopolitics axes; flagged for editorial review of inclusion, tags, and themes. Reference source is ARTnews (mainstream, retrieved at snippet/truncated grade); the direct Zelensky quote and the Mazepa-anathema detail come from Euromaidan Press (full text) — a Ukrainian, pro-Ukraine outlet whose framing is not adopted as the Index's voice; the factual announcement is corroborated across ARTnews, Kyiv Post, Kyiv Independent and NV. The Guardian was not retrievable on automated fetch this run and is therefore not cited.",
+   "interested_parties": "President Volodymyr Zelensky; Government of Ukraine; Ivan Mazepa (historical subject); Russian Orthodox Church (1708 anathema)",
+   "coverage_geography": "Ukraine, international",
    "follow_up_pending": true
   },
   {
