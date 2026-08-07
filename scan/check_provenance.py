@@ -84,6 +84,11 @@ DOMAIN_TO_OUTLET = {
     "museumsassociation.org": "Museums Association",
     "euromaidanpress.com": "Euromaidan Press",
     "variety.com": "Variety",
+    "notus.org": "NOTUS",
+    "prospect.org.uk": "Prospect",
+    "newsweek.com": "Newsweek",
+    "theglobeandmail.com": "The Globe and Mail",
+    "cbc.ca": "CBC News",
 }
 
 ALIASES = {
