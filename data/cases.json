@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 544
+  "total_cases": 566
  },
  "cases": [
   {
@@ -2278,6 +2278,39 @@
    "notes": "Sub-entry of ACI-167 (Beaufort Castle / Qalaat al-Shaqif; Tyre; Chama' Citadel) and ACI-167-A (June 10 damage warnings). Records the formal UNESCO World Heritage + Danger inscription on 24 July 2026. Same session inscribed Sebastia in the occupied West Bank (ACI-285) — the two entries are distinct subjects (Lebanon fortresses vs. a West Bank site) that share the Al Jazeera session report; each also carries a subject-specific second source (SyriacPress here; U.S. News and The Times of Israel on ACI-285). Spelling: primary rendering 'Qalaat al-Shaqif' per predominant usage; the parent cluster (ACI-167/167-A) uses the variant 'al-Chqif' — flagged so the parent spelling can be reconciled on review. Parent themes were [6, 5]; kept iconoclasm/conflict-destruction [6] and dropped Universal Museum [5] as ill-fitting a fortress-heritage designation.",
    "interested_parties": "UNESCO World Heritage Committee; Lebanese Ministry of Culture; Israeli Ministry of Foreign Affairs",
    "coverage_geography": "Middle East, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-167-C",
+   "entry_id": "167-C",
+   "seq": 593,
+   "title": "Beaufort Castle: Israeli forces detonate explosives near newly UNESCO-listed fortress; UNESCO probe urged",
+   "artist": "N/A",
+   "institution": "Beaufort Castle (Qalaat al-Shaqif), Nabatieh governorate, Lebanon (UNESCO World Heritage Site); Icomos Lebanon; UNESCO",
+   "country": "Lebanon",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Explosions shortly after midnight, 30 July 2026; coverage 3 August 2026",
+   "date_discovered": "2026-08-04",
+   "sort_date": "2026-07-30",
+   "description": "According to The Art Newspaper, Israeli forces detonated some 700 tonnes of explosives in southern Lebanon's Nabatieh governorate shortly after midnight on Thursday 30 July 2026, triggering blasts about 800 metres from Beaufort Castle (Qalaat al-Shaqif), the 12th-century Crusader fortress that had been inscribed on UNESCO's World Heritage List only five days earlier, on 25 July (see ACI-167, ACI-167-B). The blast registered a seismic magnitude of 3.8. Israel's government, in statements attributed to Prime Minister Netanyahu and Defence Minister Katz, said it had targeted 'terror tunnels in the Beaufort area' that it described as Hezbollah infrastructure. Lebanon's ministry of culture said the castle itself had not been destroyed by the explosions, but that the strong vibrations could have caused damage in the vicinity of the castle, the extent of which could only be established by a field inspection that remained impossible while the area is under Israeli occupation; a Lebanese official told The Art Newspaper that 'the explosion has had a huge impact on the cultural and natural landscape, completely altering the surrounding setting.' Icomos Lebanon called for 'an immediate, independent, on-site technical assessment' and asked UNESCO to obtain a formal and detailed accounting from Israel. Lebanese President Joseph Aoun condemned 'the ongoing Israeli violations and attacks in southern Lebanon, particularly the explosions targeting infrastructure and archaeological landmarks.' A UNESCO spokesperson said the organisation was 'concerned about the potential impact on the site's structural integrity' and that a technical assessment would be necessary.",
+   "outcome": "Explosions confirmed near the site; the Lebanese culture ministry says the castle itself was not destroyed, but possible damage in the vicinity is unassessed while the area is under Israeli occupation; Icomos Lebanon and UNESCO calling for an independent technical assessment and an accounting from Israel. [FOLLOW-UP PENDING: results of any UNESCO/Icomos technical assessment and confirmation of damage to Beaufort Castle.]",
+   "tags": [
+    "Geopolitics",
+    "2026 Lebanon war",
+    "UNESCO World Heritage Site",
+    "Archaeological site"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/03/unesco-urged-to-investigate-after-israeli-forces-trigger-explosion-near-lebanons-world-heritage-listed-beaufort-castle",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Sub-entry of ACI-167 (Beaufort Castle / Mount Amel fortresses); follows ACI-167-B (UNESCO inscription, 24-25 July 2026). Explosions occurred five days after inscription. Shares the 2026 Lebanon war named-conflict tag. On PR review: the Lebanese culture ministry stated the castle itself was not destroyed (possible unassessed damage in the vicinity), so the Cultural property destruction and Conflict zone tags were removed per the threat-vs-destruction rule; flip to them only if a field assessment confirms damage - the [FOLLOW-UP PENDING] tracks that. Also corrected a mis-rendered 'possible' quotation that the ministry did not use. Theme dropped to [] on review: with no confirmed destruction this is a war-damage threat, not an iconoclasm case.",
+   "interested_parties": "Israeli government (PM Netanyahu; Defence Minister Katz); Lebanese ministry of culture; President Joseph Aoun; Icomos Lebanon; UNESCO",
+   "coverage_geography": "Lebanon, Middle East, international",
    "follow_up_pending": true
   },
   {
@@ -7070,6 +7103,41 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-103-D",
+   "entry_id": "103-D",
+   "seq": 584,
+   "title": "Palestine Uprooted: Asper family pauses funding to Canadian Museum for Human Rights over Nakba exhibition",
+   "artist": "Multiple (Palestinian Canadian artists, video testimonies, photography)",
+   "institution": "Canadian Museum for Human Rights, Winnipeg, Manitoba",
+   "country": "Canada",
+   "governance_type": "Democracy",
+   "date_controversy": "Funding pause reported July 27, 2026",
+   "date_discovered": "2026-07-31",
+   "sort_date": "2026-07-27",
+   "description": "According to CBC News and The Globe and Mail, Gail Asper — a Winnipeg philanthropist who took over the campaign to build the Canadian Museum for Human Rights (CMHR) after the 2003 death of her father, CanWest Global Communications founder Israel Asper, who had championed it — said her family is pausing financial support for the museum over its exhibition Palestine Uprooted: Nakba Past and Present (see ACI-103). Asper said she found parts of the exhibition compelling, including interviews with displaced Palestinians and artifacts such as property deeds and house keys, but objected that the interpretive panels lack context and, in her view, accuracy. CBC reports the exhibition had drawn criticism before it opened, including from some Jewish Canadian organizations that cited a lack of consultation and said the exhibition does not acknowledge the roughly 850,000 Jews who left or were expelled from Arab countries after 1948. The museum has not altered or withdrawn the exhibition, which runs into 2028. Museum spokesperson Amanda Gaudes said the exhibit focuses on the impact forced displacement continues to have on Palestinian Canadians — a community she said was underrepresented in its galleries — and that focusing on those stories 'does not detract or minimize experiences of Jewish people who were displaced and who have also faced human rights violations, which our galleries also share stories about.'",
+   "outcome": "The Asper family paused funding to the CMHR over the exhibition; the museum has kept the exhibition on display without alteration. [FOLLOW-UP PENDING: whether the funding pause becomes permanent, and any museum response or changes to the exhibition.]",
+   "tags": "Funding dispute, Community objection, Geopolitics",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "CBC News",
+    "The Globe and Mail"
+   ],
+   "source": "https://www.cbc.ca/news/canada/manitoba/gail-asper-canadian-museum-human-rights-nakba-exhibit-funding-9.7283326",
+   "additional_sources": [
+    "https://www.theglobeandmail.com/culture/article-gail-asper-who-helped-create-the-canadian-museum-of-human-rights/"
+   ],
+   "themes": [
+    3,
+    4,
+    5
+   ],
+   "notes": "Sub-entry of ACI-103 (Palestine Uprooted, CMHR). Development: the museum's founding family pauses funding over the exhibition. Describe-don't-judge: the Index records the funding pause and the stated objections (context/accuracy; lack of consultation; the omission of Jewish expulsions from Arab countries) attributed to Asper and to critical organizations per CBC — none adopted as the Index's own assessment. Reference source CBC News; The Globe and Mail corroborating. Snippet grade. Themes inherited from parent. Domains cbc.ca and theglobeandmail.com added to check_provenance DOMAIN_TO_OUTLET this run. On PR review: corrected the Asper/CMHR founding detail (Israel Asper championed the museum but died in 2003; Gail Asper led the campaign to build it, opened 2014) and added the museum's curatorial defense (Gaudes). Gaudes quote verbatim from CBC, maintainer-verified on review (automated re-fetch returned 403).",
+   "interested_parties": "Gail Asper / Asper Foundation; Canadian Museum for Human Rights; Jewish Canadian organizations critical of the exhibition; curators of Palestine Uprooted",
+   "coverage_geography": "Canada",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-102",
    "entry_id": "102",
    "seq": 226,
@@ -8878,6 +8946,38 @@
    ],
    "notes": "Sub-entry of 080. Develops the April 3 restitution ruling with a 30-day return deadline (June 16, 2026) and Nahmad's stated intent to appeal. Freeport/financialization and auction-house provenance themes (cf. 056 Wildenstein/Monet). [FOLLOW-UP PENDING: appeal; execution of return]",
    "interested_parties": "David Nahmad; International Art Center S.A.; Philippe Maestracci (Stettiner heir); Judge Joel M. Cohen; Mondex Corp.",
+   "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-080-B",
+   "entry_id": "080-B",
+   "seq": 583,
+   "title": "Seated Man with a Cane (1918): NY judge rules Nahmad owes prejudgment interest; value hearing set for September",
+   "artist": "Amedeo Modigliani",
+   "institution": "New York Supreme Court; International Art Center S.A. (David Nahmad)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Prejudgment-interest ruling reported late July 2026; evidentiary value hearing set for September 2026",
+   "date_discovered": "2026-07-31",
+   "sort_date": "2026-07-29",
+   "description": "According to ARTnews, weeks after the New York court ordered art dealer David Nahmad to return the Nazi-looted Modigliani painting Seated Man with a Cane (1918) to the heirs of Jewish dealer Oscar Stettiner, Justice Joel M. Cohen ruled that the heirs are also entitled to prejudgment interest, on the reasoning that New York law requires it in cases of this kind. ARTnews reports the court scheduled an evidentiary hearing for September 2026 to determine the painting's value — which will largely set the size of any interest award. The heirs' appraisals put the painting at roughly 20 million dollars when the suit was filed in 2014, while Nahmad's side valued it at about 6.5 million dollars. The underlying April 2026 ruling ordered the painting's return after more than a decade of litigation (see ACI-080, ACI-080-A); the work has been held in storage in Switzerland.",
+   "outcome": "The court ruled the heirs are entitled to prejudgment interest and set a September 2026 hearing to value the painting; the size of the award is undetermined, and Nahmad's side has signaled it will appeal the return order. [FOLLOW-UP PENDING: the September 2026 valuation hearing, the interest award, and Nahmad's appeal.]",
+   "tags": "Repatriation, Legal challenge, Art market, Authenticity, Geopolitics",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/market/judge-awards-interest-nahmad-modigliani-restitution-case-1234793997/",
+   "additional_sources": [],
+   "themes": [
+    5,
+    10,
+    12
+   ],
+   "notes": "Sub-entry of ACI-080 (Seated Man with a Cane). Development: prejudgment-interest ruling and a September 2026 valuation hearing following the April 2026 return order (see ACI-080-A). Reference source ARTnews (market article, snippet grade); no quotations drawn. On PR review: replaced an unsourced ~30 million dollar valuation with the figures ARTnews actually reports (heirs ~20 million at the 2014 filing; Nahmad ~6.5 million). Themes inherited from parent. Restitution / theme-12 cluster.",
+   "interested_parties": "David Nahmad / International Art Center S.A.; heirs of Oscar Stettiner; Justice Joel M. Cohen; New York Supreme Court",
    "coverage_geography": "US, Europe",
    "follow_up_pending": true
   },
@@ -13981,6 +14081,109 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-012-K",
+   "entry_id": "012",
+   "seq": 584,
+   "title": "American Alliance of Museums condemns White House Smithsonian report, warns of threat to museum independence",
+   "artist": "N/A",
+   "institution": "American Alliance of Museums; Smithsonian Institution",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "AAM statement, reported 28 July 2026",
+   "date_discovered": "2026-07-30",
+   "sort_date": "2026-07-28",
+   "description": "According to the Museums Association (Museums Journal) and ARTnews, the American Alliance of Museums (AAM), the national accrediting body for US museums, issued a statement backing the Smithsonian Institution against the Trump administration's review of its content, including the executive order 'Restoring Truth and Sanity to American History', a White House report titled 'Saving America's Story: How Ideological Capture at the Smithsonian Institution's National Museum of American History Erases Our Heritage', and the directive to place warning signs outside the National Museum of American History (cf. ACI-012-F, ACI-012-G, ACI-012-H, ACI-012-J). The AAM said that 'as our nation's flagship museum system and an AAM-accredited institution, the Smithsonian reflects the highest standards of scholarship, stewardship, and public service', and warned that 'efforts to politicise how museums present history, art, science, culture, and the natural world - and personal attacks on the museum professionals who carry out that work - threaten the integrity and independence of museums across the country'. It cited polling that a large majority of US adults regard museums as non-partisan.",
+   "outcome": "The AAM publicly defended the Smithsonian and framed the administration's intervention as a threat to museums nationwide; the underlying dispute over Smithsonian content remains open. [FOLLOW-UP PENDING: installation of the ordered signage and any further institutional or legal response.]",
+   "tags": "Political interference, Institutional risk",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Museums Association (Museums Journal)",
+    "ARTnews"
+   ],
+   "source": "https://www.museumsassociation.org/museums-journal/news/2026/07/american-alliance-of-museums-backs-smithsonian-institution/",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/american-alliance-of-museums-trump-report-smithsonian-1234793789/"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-012 (Smithsonian cluster); the museum profession's collective response to the White House Smithsonian report and signage order tracked in ACI-012-F/G/H/J. Themes limited to Public Funding (2) and Institutional Risk (4), matching ACI-012-J; parent's Universal Museum (5) omitted as it does not fit a narrative/politicization dispute. Reference source Museums Association / Museums Journal (full text, carries the AAM quotations); ARTnews corroborates but its article body truncated on automated fetch this run.",
+   "interested_parties": "American Alliance of Museums; Smithsonian Institution; Secretary Lonnie Bunch; Trump administration / White House",
+   "coverage_geography": "US, UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-012-L",
+   "entry_id": "012-L",
+   "seq": 586,
+   "title": "Smithsonian: Trump officials stage a patriotic counter-exhibition after alleging bias at the museum",
+   "artist": "N/A",
+   "institution": "Smithsonian Institution / National Museum of American History; White House",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported July 30, 2026, following the July 24, 2026 executive order",
+   "date_discovered": "2026-07-31",
+   "sort_date": "2026-07-30",
+   "description": "According to The New York Times and Newsweek, Trump administration officials staged a patriotic exhibition to counter what they describe as ideological bias in the Smithsonian, part of the same initiative under which President Trump on July 24, 2026 ordered warning signage outside the National Museum of American History (see ACI-012-J). Reporting ties the effort to the administration's July 2026 Domestic Policy Council report on the Smithsonian and to a broader review of the institution's exhibits ahead of the America 250 anniversary. Museum leadership has rejected the administration's characterization of bias, saying its exhibits follow historical scholarship.",
+   "outcome": "The administration has staged a patriotic exhibition and is proceeding with signage and exhibit reviews at the Smithsonian; the museum has not adopted the administration's proposed changes. [FOLLOW-UP PENDING: the exhibition's details and duration, the Smithsonian exhibit review, and the museum's response.]",
+   "tags": "Political interference, Historical erasure",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times",
+    "Newsweek"
+   ],
+   "source": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html",
+   "additional_sources": [
+    "https://www.newsweek.com/donald-trump-plans-exhibits-near-smithsonian-to-correct-inaccurate-information-12243858"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-012 (Smithsonian). FLAGGED FOR REVIEW: may overlap ACI-012-J (the July 24 warning-signage order) — this entry captures the reported staging of a patriotic counter-exhibition (NYT, July 30), which appears to be a distinct concrete act from the signage order, but the retrieved coverage is metadata/snippet grade and the exhibition's specifics are unconfirmed. If judged duplicative of 012-J on review, merge. Reference source NYT (API metadata grade); Newsweek corroborating (search snippet). Themes inherited from parent. Domain newsweek.com added to check_provenance DOMAIN_TO_OUTLET this run.",
+   "interested_parties": "White House / Trump administration; Smithsonian Institution; National Museum of American History (director Anthea Hartig)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-012-M",
+   "entry_id": "012-M",
+   "seq": 594,
+   "title": "Smithsonian: White House FY2027 request proposes lowest budget since 2020 and a 6% staff cut",
+   "artist": "N/A",
+   "institution": "Smithsonian Institution; White House / Office of Management and Budget",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "White House FY2027 budget request reported 3 August 2026",
+   "date_discovered": "2026-08-04",
+   "sort_date": "2026-08-03",
+   "description": "According to ARTnews, the White House's fiscal year 2027 budget request proposes 961.3 million dollars in federal funding for the Smithsonian Institution - the institution's lowest proposed funding level since at least 2020. The proposal would reduce federally funded staffing by about 6 percent, from the equivalent of 4,047 full-time positions in fiscal 2026 to 3,804. ARTnews reports the deepest reductions fall on facilities spending, down about 21 percent from 152 million to 120 million dollars, with the salaries and expenses account cut by 87.2 million dollars. The request comes amid the Trump administration's broader effort to reshape the Smithsonian's content (see ACI-012, ACI-012-J, ACI-012-K, ACI-012-L), which the administration frames as removing ideological bias and which museum leadership has rejected.",
+   "outcome": "Budget request submitted; appropriations levels are set by Congress and remain undetermined. [FOLLOW-UP PENDING: the enacted FY2027 Smithsonian appropriation and any staffing changes.]",
+   "tags": [
+    "Funding dispute",
+    "Political interference",
+    "Institutional risk"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/white-house-proposes-smallest-smithsonian-budget-in-years-1234794165/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-012 (Trump administration / Smithsonian pressure campaign). Retrieved via search result (ARTnews homepage/article blocked by paywall proxy on direct fetch); no direct quotations used. Ties the content fight to the appropriations lever; cf. ACI-191 (arts-education appropriations). On PR review: removed comparison figures not in the cited ARTnews report (the $1.08bn FY2026 total, the ~11 percent cut, and the 'first request below $1 billion since 2020' framing), keeping ARTnews's own wording ('lowest proposed funding level since at least 2020'). The removed comparison is factually correct and corroborated (Hyperallergic; the Smithsonian FY2027 request) if a corroborating source is later added.",
+   "interested_parties": "White House / OMB; Smithsonian Institution; Congress (appropriators)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-011",
    "entry_id": "011",
    "seq": 10,
@@ -15174,6 +15377,40 @@
    "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Development following ACI-038-M (NCPC staff recommendation for design revisions) and ACI-038-L (D.C. historic preservation officer urging an alternative site). The Washington Times is used here only as corroborating original DC reporting (see CLAUDE.md source determination, reviewed 2 July 2026), not as a sole source for a contested claim. | Enrichment (2026-07-11): The Art Newspaper (10 July 2026) covered the same NCPC preliminary clearance, emphasizing that approving the ~250-ft arch could upend long-standing precedent limiting building heights in Washington, DC (see https://www.theartnewspaper.com/2026/07/10/trumps-arch-clears-preliminary-reviewand-could-upend-years-of-precedent-over-building-heights-in-washington-dc).",
    "interested_parties": "National Capital Planning Commission; Trump administration; public commenters; Arlington National Cemetery / Lincoln Memorial sightline advocates",
    "coverage_geography": "US, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-038-O",
+   "entry_id": "038-O",
+   "seq": 587,
+   "title": "Trump Triumphal Arch — NPS assessment finds adverse effect on Lincoln Memorial and Arlington views",
+   "artist": "N/A (renderings by Harrison Design)",
+   "institution": "Memorial Circle, George Washington Memorial Parkway (NPS); National Capital Planning Commission (NCPC)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "NPS Section 106 assessment (preliminary adverse-effect finding), June 2026; New York Times (Upshot) analysis published August 3, 2026",
+   "date_discovered": "2026-08-03",
+   "sort_date": "2026-08-03",
+   "description": "According to a New York Times (Upshot) analysis published August 3, 2026, the National Park Service's Section 106 assessment for the proposed roughly 250-foot triumphal arch backed by President Trump near Memorial Circle reaches a preliminary finding of adverse effect, concluding the structure would alter protected views and settings across the monumental core and could detract from dozens of historic properties. The finding identifies impacts on the vista between the Lincoln Memorial and Arlington National Cemetery, the view from the Washington Monument toward Arlington, and the view of the cemetery from the Pentagon, and states the arch would diminish characteristics that qualify affected properties for the National Register. Earlier coverage by Washingtonian in June 2026 reported the same assessment's conclusion that the arch would change the interrelationships of the monumental landscape around the Lincoln Memorial.",
+   "outcome": "NPS preliminary Section 106 finding is adverse effect; the review process continues and no final determination, Programmatic Agreement or mitigation is documented in the coverage retrieved. [FOLLOW-UP PENDING: the final Section 106 determination, any Programmatic Agreement or mitigation measures, and whether the adverse-effect finding changes the project.]",
+   "tags": "Architectural preservation, Political interference, Design controversy, Landmark dispute",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times (Upshot; Emily Badger)",
+    "Washingtonian"
+   ],
+   "source": "https://www.nytimes.com/2026/08/03/upshot/arch-trump-historic-review.html",
+   "additional_sources": [
+    "https://washingtonian.com/2026/06/10/trumps-triumphal-arch-would-alter-monument-views-and-traffic-patterns-report-says/"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Cross-reference ACI-038-J (archaeological-deposits finding), ACI-038-L (DC preservation officer's alternative-site letter), and ACI-038-M/ACI-038-N (NCPC July 9 preliminary approval). Adds the NPS Section 106 assessment's viewshed/setting adverse-effect finding, not previously captured in the cluster. Sourcing: NYT reached at metadata grade via the NYT API (Upshot abstract; body paywalled), corroborated by a search-result snippet of Washingtonian's June 2026 report; no quotations drawn. Note for review: the underlying NPS assessment dates to June 2026 and the August 3 NYT piece is an analysis-desk treatment, so some overlap with the June arch subs is possible.",
+   "interested_parties": "National Park Service; National Capital Planning Commission; Arlington National Cemetery; National Trust for Historic Preservation and allied preservation groups; Trump administration",
+   "coverage_geography": "US",
    "follow_up_pending": true
   },
   {
@@ -17455,6 +17692,39 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-284-A",
+   "entry_id": "284-A",
+   "seq": 585,
+   "title": "V&A East Storehouse: Prospect union collections officers vote to strike over working conditions",
+   "artist": "N/A",
+   "institution": "Victoria and Albert Museum (V&A East Storehouse); Prospect union",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Strike ballot result announced 30 July 2026",
+   "date_discovered": "2026-07-31",
+   "sort_date": "2026-07-30",
+   "description": "According to The Art Newspaper, ARTnews and the Prospect trade union, collections access officers at the Victoria and Albert Museum's new V&A East Storehouse in east London voted to strike over pay and working conditions, with the union reporting that all members who voted backed strike action on a turnout of nearly 88 percent. The ballot, run by Prospect, covers the officers who staff the Storehouse's Order an Object programme, which lets visitors book appointments to view items from the collection. Prospect says the officers are not given adequate time during shifts for breaks, water or restroom use while working near the objects, and is seeking two paid breaks per shift. The Art Newspaper reports the vote comes as other UK museum staff also weigh industrial action. It is a separate ballot from the broader V&A action run by the PCS union recorded at ACI-284 — a different union and bargaining unit — though the two overlap in their grievances over pay and working conditions, including breaks and access to water for staff working near the collection.",
+   "outcome": "V&A East Storehouse collections officers voted to strike; no strike dates have been announced and the museum's response is not documented in the retrieved coverage. [FOLLOW-UP PENDING: strike dates, any V&A response, and the outcome of the parallel PCS ballot at ACI-284.]",
+   "tags": "Labor dispute",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper",
+    "ARTnews",
+    "Prospect"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/30/amazon-style-conditions-va-east-storehouse-officers-overwhelmingly-vote-to-strike-as-other-museum-workers-also-consider-industrial-action",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/va-east-storehouse-workers-strike-working-conditions-1234793985/",
+    "https://prospect.org.uk/news/prospect-members-to-strike-over-amazon-style-working-practices-at-flagship-va-site"
+   ],
+   "themes": [],
+   "notes": "Sub-entry of ACI-284 (V&A labour dispute). Separate union and bargaining unit from the parent: the Prospect-balloted collections access officers at V&A East Storehouse, where ACI-284 is the wider PCS ballot across four V&A sites; the two overlap in grievances (pay, conditions, breaks/water near objects) rather than being wholly distinct. Museum labour-dispute cluster (cross-ref ACI-264 Venice heat, ACI-211 Guggenheim, ACI-128 Whitney, ACI-096 Seattle, ACI-268 Art Institute of Chicago). Snippet-grade sourcing; no quotations drawn. Domain prospect.org.uk added to check_provenance DOMAIN_TO_OUTLET this run.",
+   "interested_parties": "Prospect trade union; collections access officers at V&A East Storehouse; Victoria and Albert Museum management",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-285",
    "entry_id": "285",
    "seq": 574,
@@ -17553,6 +17823,441 @@
    "notes": "New parent. Youth Demand (an offshoot of Just Stop Oil) protest action of 9 October 2024 at the National Gallery; jury conviction 28 July 2026. Wednesday Europe/UK trawl. Describe-don't-judge: the Index records the criminal-damage conviction and the activists' stated pro-Palestinian rationale; several Jewish-community outlets (Algemeiner, Jewish News, Jerusalem Post) characterized the action as antisemitic — that framing is theirs, not the Index's, and is not adopted as a tag. GB News covered it but is on the excluded-sources list — seen, not cited. The painting and frame were undamaged; the criminal damage concerned the gallery floor, per trial testimony reported by ARTnews. Theme 6 (iconoclasm / when is protest-targeting of art justified) applied in its analytical sense even though the work itself was undamaged. Reference source ARTnews (conviction and trial detail; article body truncates/paywalls on automated fetch, so ARTnews is at snippet grade — the floor-damage detail is paraphrased, not quoted); Hyperallergic and ArtReview (original-action detail and the activist quotes, full text). Correction (2026-07-29, on maintainer review): an earlier draft stated the floor 'sustained no damage' (self-contradictory with 'required repair') and asserted a nine-hour jury deliberation and a bail release by 'Judge David Tomlinson'; the deliberation length and the named judge/bail detail could not be traced to a retrieved reliable source and were removed, and the floor-damage description corrected to match the ARTnews trial testimony.",
    "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (Youth Demand); National Gallery, London; Ali Jadallah (photographer of the image used)",
    "coverage_geography": "UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-288",
+   "entry_id": "288",
+   "seq": 581,
+   "title": "Artist Emma Shapiro sues Meta over Instagram deletion in first DSA case targeting account-level bans",
+   "artist": "Emma Shapiro",
+   "institution": "Meta Platforms Inc. (Instagram)",
+   "country": "Spain",
+   "governance_type": "Democracy",
+   "date_controversy": "Account @nipeople terminated 9 December 2025; legal complaints reported 30 July 2026",
+   "date_discovered": "2026-07-30",
+   "sort_date": "2026-07-30",
+   "description": "According to The Art Newspaper, US-born artist Emma Shapiro, who lives in Spain, has begun legal action against Meta over the permanent deletion of her Instagram account @nipeople, created in 2018 as part of her art project 'Exposure Therapy', which challenges the online censorship of female-presenting bodies. Meta suspended the account after Shapiro posted a video of a metal pole covered in nipple stickers, citing an account-integrity violation, and permanently terminated it on 9 December 2025, a day after she appealed. Represented by Avant-Garde Lawyers, Shapiro filed complaints in Spain with the Comision Nacional de los Mercados y la Competencia and through the dispute body User Rights, arguing that Meta breached the European Union's Digital Services Act by failing to give clear reasons for the suspension, to provide an effective complaint procedure, or to act proportionately. The lawyers say Meta denied Shapiro access to an effective internal complaint-handling process, and the case seeks to extend DSA protections to account-level sanctions rather than only individual content removals, citing her loss of her artistic archive, audience, professional visibility and space for public debate.",
+   "outcome": "Complaints filed with Spanish and EU bodies; Meta had not publicly responded at logging. The case is framed as an early test of whether the Digital Services Act constrains platform account terminations, not only single-post removals. [FOLLOW-UP PENDING: regulator and User Rights decisions, and any Meta response.]",
+   "tags": "Censorship, Legal challenge",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/07/30/artist-starts-legal-case-against-meta-for-deleting-her-instagram-account",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Platform-censorship / artist-rights case: the contested thing is an artist's control over her own archive and expression on a dominant platform, litigated under the EU DSA. No Dissensus theme (1-12) maps cleanly to platform content moderation of art; left empty pending editorial view (candidate: Theme 1, who decides what counts as art). Single retrievable source this run (The Art Newspaper, full text); logged accordingly rather than padded.",
+   "interested_parties": "Emma Shapiro; Meta Platforms Inc.; Avant-Garde Lawyers; Comision Nacional de los Mercados y la Competencia (CNMC); User Rights",
+   "coverage_geography": "Europe, US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-289",
+   "entry_id": "289",
+   "seq": 582,
+   "title": "Writers Guild East withdraws sponsorship of Urbanworld Film Festival over new AI-generated films section",
+   "artist": "N/A",
+   "institution": "Urbanworld Film Festival; Writers Guild of America East",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Withdrawal reported 28 July 2026; festival AI initiative announced for its 30th edition (October 2026)",
+   "date_discovered": "2026-07-30",
+   "sort_date": "2026-07-28",
+   "description": "According to The New York Times and Variety, the Writers Guild of America East withdrew its sponsorship of the Urbanworld Film Festival, a long-running New York showcase for work by filmmakers of color, after the festival added a new section for movies made with generative artificial-intelligence tools for its 30th anniversary edition in October 2026. Variety reported that the festival announced an initiative to accept AI-generated films and shorts, presented in partnership with a university program. The Writers Guild, which had been a festival sponsor, has been an outspoken critic of studios' and technology companies' use of AI in film and television, a central issue in the union's recent labor fights, and ended its support in response to the festival's decision.",
+   "outcome": "The union has ended its sponsorship; the festival's AI section remains planned for its October 2026 edition. [FOLLOW-UP PENDING: whether other sponsors or participants follow, and how the festival proceeds with the AI section.]",
+   "tags": "AI, Labor dispute",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times",
+    "Variety"
+   ],
+   "source": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
+   "additional_sources": [
+    "https://variety.com/2026/film/news/urbanworld-festival-accept-ai-films-30th-anniversary-1236781077/"
+   ],
+   "themes": [],
+   "notes": "New parent. AI-in-culture / labor entry: a union withdrawing institutional support (an organized response) over a festival's embrace of generative-AI filmmaking. Thin entry: NYT retrieved at metadata grade via the developer API; Variety at search-snippet grade (article paywalled on automated fetch) — no direct quotations drawn, so described plainly without quotes. Flag for enrichment on a US-local / Friday trawl (festival's AI-initiative name and partner, and the Guild's exact statement).",
+   "interested_parties": "Writers Guild of America East; Urbanworld Film Festival",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-290",
+   "entry_id": "290",
+   "seq": 583,
+   "title": "Kyiv to replace toppled Lenin statue site with a monument to Cossack hetman Ivan Mazepa",
+   "artist": "N/A",
+   "institution": "Government of Ukraine (Office of the President); Kyiv",
+   "country": "Ukraine",
+   "governance_type": "Democracy",
+   "date_controversy": "Announced 28 June 2026",
+   "date_discovered": "2026-07-30",
+   "sort_date": "2026-06-28",
+   "description": "According to ARTnews and Euromaidan Press, President Volodymyr Zelensky announced on 28 June 2026, Ukraine's Constitution Day, that a monument to the Cossack hetman Ivan Mazepa would be erected on Taras Shevchenko Boulevard in Kyiv at the pedestal where a statue of Lenin stood until it was toppled by protesters in December 2013. Zelensky unveiled a bust of Mazepa at the Kyiv-Pechersk Lavra monastery and framed the plan as righting a historical injustice, describing Mazepa as an outstanding statesman and patron of the arts who led the Cossack state; Euromaidan Press quotes him as saying, 'I am sure that where Lenin fell, there Mazepa will stand firmly.' Mazepa is a divisive figure in the Russia-Ukraine dispute over historical memory: after he allied with Sweden against Tsar Peter I and Russia's 1709 victory at Poltava, Russia condemned him as a traitor and the Russian Orthodox Church placed an anathema on him in 1708 that has never been lifted, while Ukraine venerates him. The plan forms part of Ukraine's continuing decommunization and decolonization campaign, per Euromaidan Press.",
+   "outcome": "The monument has been announced and a Mazepa bust unveiled at the Lavra, but the full monument had not been commissioned or installed at logging. [FOLLOW-UP PENDING: commissioning of the monument, its design and artist, and any objection to the plan.]",
+   "tags": "Historical erasure, Geopolitics",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Euromaidan Press",
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/ukrainian-president-volodymyr-zelenskyy-announces-replacement-toppled-lenin-monument-kyiv-1234790729/",
+   "additional_sources": [
+    "https://euromaidanpress.com/2026/06/28/zelenskyy-in-kyiv-where-lenin-fell-mazepa-will-stand-a-cossack-hetman-russia-still-curses/"
+   ],
+   "themes": [],
+   "notes": "New parent. Monument / decommunization entry surfaced on the Thursday Asia-Pacific run via the general dragnet (Guardian world-culture explainer, 30 July 2026); the underlying announcement dates to 28 June 2026, a currency gap the tracker had not yet filled. Borderline: this is a head-of-state cultural-memory proposal more than a classic art dispute, and it straddles the monument-debate and geopolitics axes; flagged for editorial review of inclusion, tags, and themes. Reference source is ARTnews (mainstream, retrieved at snippet/truncated grade); the direct Zelensky quote and the Mazepa-anathema detail come from Euromaidan Press (full text) — a Ukrainian, pro-Ukraine outlet whose framing is not adopted as the Index's voice; the factual announcement is corroborated across ARTnews, Kyiv Post, Kyiv Independent and NV. The Guardian was not retrievable on automated fetch this run and is therefore not cited.",
+   "interested_parties": "President Volodymyr Zelensky; Government of Ukraine; Ivan Mazepa (historical subject); Russian Orthodox Church (1708 anathema)",
+   "coverage_geography": "Ukraine, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-291",
+   "entry_id": "291",
+   "seq": 581,
+   "title": "Trump administration regilds DC's 'Arts of War' and 'Arts of Peace' statues in gold",
+   "artist": "Leo Friedlander and James Earle Fraser (original sculptors)",
+   "institution": "National Park Service / US Department of the Interior; Arts of War and Arts of Peace statues, Arlington Memorial Bridge, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Regilded statues unveiled July 27, 2026",
+   "date_discovered": "2026-07-31",
+   "sort_date": "2026-07-27",
+   "description": "According to Hyperallergic, NOTUS and The Hill, the National Park Service awarded a contract to regild the four monumental Arts of War and Arts of Peace gilded-bronze equestrian statues that flank the east end of Arlington Memorial Bridge, near the Lincoln Memorial in Washington, DC. The project — reported to cost more than 5 million dollars and, per NOTUS, awarded as a no-bid contract to a Maryland gilding studio (Gilders' Studio) — involved regilding the bronzes and restoring the granite pedestals, per the reporting; NOTUS and The Hill report it is the first regilding of the statues in roughly 50 years. President Donald Trump shared images of the newly gilded statues on July 27, 2026 as scaffolding was removed. Coverage situates the work within a series of Trump-directed changes to the capital's monumental core (cross-reference the Lincoln Memorial Reflecting Pool renovation and the proposed triumphal arch nearby) and reports criticism of the cost and of the reported no-bid contracting; supporters describe the work as an overdue restoration.",
+   "outcome": "The regilding was unveiled on July 27, 2026, restoring the statues to a gilded finish; the reported 5-million-dollar cost and no-bid contract drew public criticism. [FOLLOW-UP PENDING: any contracting or oversight review, and further alterations to the DC monumental core.]",
+   "tags": "Conservation, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic",
+    "NOTUS",
+    "The Hill"
+   ],
+   "source": "https://hyperallergic.com/trump-regilds-dc-statues-mar-a-lago-style/",
+   "additional_sources": [
+    "https://www.notus.org/trump-white-house/national-park-service-dc-beautification-contracts-horse-statues",
+    "https://thehill.com/homenews/administration/5910153-trump-administration-lincoln-memorial-horse-statue-renovations/"
+   ],
+   "themes": [
+    2
+   ],
+   "notes": "New parent. DC federal-alteration cluster: cross-reference ACI-046 (Lincoln Memorial Reflecting Pool renovation), ACI-038 (proposed triumphal arch nearby), ACI-050 (White House ballroom/East Wing), ACI-265 (Rose Garden Founding Father statues). Conservation tag applied per the CLAUDE.md rule that it fits only where the conservation work is itself contested. Snippet-grade sourcing (Hyperallergic homepage + dragnet search results; NOTUS and The Hill via search results); no quotations drawn. Domain notus.org added to check_provenance DOMAIN_TO_OUTLET this run. On PR review: removed an unsupported attribution to the Interior Department for the work-scope description and dropped an unverified 23.75-karat detail; scope now limited to what the cited reporting states (regilding the bronzes, restoring the plinths). Friday US run; surfaced via Hyperallergic homepage scan and the DC/federal WaPo standing search.",
+   "interested_parties": "National Park Service; US Department of the Interior; President Donald Trump; the Maryland gilding studio awarded the contract",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-292",
+   "entry_id": "292",
+   "seq": 582,
+   "title": "US-Mexico border wall in Texas threatens Lower Pecos rock art after preservation-law exemption",
+   "artist": "N/A (prehistoric rock art / cave murals)",
+   "institution": "US Department of Homeland Security / Customs and Border Protection; Lower Pecos Canyonlands Archaeological District, Val Verde County, Texas",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Rock-art threat raised March 2026; federal preservation-law exemption for the Texas border segment reported July 2026",
+   "date_discovered": "2026-07-31",
+   "sort_date": "2026-07-30",
+   "description": "According to Hyperallergic and The Art Newspaper, archaeologists and landowners have warned that a planned expansion of the US-Mexico border barrier through the Big Bend and Lower Pecos region of Texas threatens hundreds of archaeological sites, including cave murals and rock art dated to roughly 6,000 years old. The Lower Pecos Canyonlands Archaeological District contains an unusually dense concentration of hunter-gatherer sites; Hyperallergic reports at least 425 Texas archaeological sites, including 84 cave murals, could be disrupted, and The Art Newspaper cites archaeologist Carolyn Boyd describing more than 200 murals in the region. Reporting states that scores of known sites lie south of the proposed wall alignment and that additional sites fall within about 500 metres of it. The federal government announced that the Texas portion of the border wall would be exempt from environmental- and historic-preservation review requirements, which critics say removes the legal mechanism that would otherwise weigh the harm to the sites. The Art Newspaper separately reported in 2026 that border-wall construction had already bulldozed an archaeological site elsewhere along the frontier (the Las Playas Intaglio, tracked at ACI-068). Federal officials frame the barrier as a border-security measure.",
+   "outcome": "The border-wall expansion is proceeding with the Texas segment exempted from environmental- and historic-preservation review; the Lower Pecos rock-art and archaeological sites remain under threat, with no destruction of those sites documented in the retrieved coverage. [FOLLOW-UP PENDING: whether construction proceeds through the district and whether any sites are damaged or destroyed.]",
+   "tags": "Historic preservation, Archaeological site, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic",
+    "The Art Newspaper"
+   ],
+   "source": "https://hyperallergic.com/trumps-border-expansion-threatens-6-000-year-old-cave-paintings/",
+   "additional_sources": [
+    "https://www.theartnewspaper.com/2026/03/31/lower-pecos-river-rock-art-threatened-mexico-us-border-wall-construction-texas"
+   ],
+   "themes": [],
+   "notes": "New parent. Threat-stage heritage case: tagged Historic preservation (not the Cultural property destruction umbrella) per CLAUDE.md's threat-vs-destruction rule — flip to the umbrella only if construction actually damages the sites. Underlying dispute raised March 2026 (The Art Newspaper); the federal preservation-law exemption for the Texas segment reported July 2026 (Hyperallergic). Cross-reference ACI-068 (Las Playas Intaglio, bulldozed by border-wall construction in April 2026). On PR review: corrected an unsourced 'more than 300' rock-art figure to the sourced counts (Hyperallergic: 84 cave murals among at least 425 sites; TAN/Carolyn Boyd: 200-plus murals). Snippet-grade sourcing; no quotations drawn. Friday US run; surfaced via Hyperallergic homepage scan.",
+   "interested_parties": "US Department of Homeland Security / Customs and Border Protection; archaeologists and landowners in Val Verde County, Texas; the Lower Pecos Canyonlands Archaeological District",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-304",
+   "entry_id": "304",
+   "seq": 587,
+   "title": "Farooqabad Gurdwara Singh Sabha: India alleges targeted demolition; Pakistan's ETPB says only adjacent shops razed",
+   "artist": "N/A",
+   "institution": "Gurdwara Sri Guru Singh Sabha Sahib, Farooqabad; Evacuee Trust Property Board (ETPB)",
+   "country": "Pakistan",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Demolition work overnight 24-25 June 2026; disputed accounts and India's MEA condemnation early July 2026",
+   "date_discovered": "2026-08-01",
+   "sort_date": "2026-06-24",
+   "description": "According to The Express Tribune and Indian news reports, a dispute has arisen over demolition work at the site of the roughly 125-year-old Gurdwara Sri Guru Singh Sabha Sahib in Farooqabad (Mandi Chuharkana), Sheikhupura district, Punjab, Pakistan, overnight on 24-25 June 2026, and accounts of what was demolished diverge. India's Ministry of External Affairs condemned what it called a targeted demolition of the shrine; spokesperson Randhir Jaiswal said India strongly condemned a \"highly deplorable and targeted act of vandalism against a revered Sikh shrine\" and called on Pakistan to investigate, prosecute those responsible and restore the site, framing it as part of a pattern of targeting religious minorities. Pakistan's Evacuee Trust Property Board (ETPB) rejected the demolition claims, saying the demolition was limited to two shops adjacent to the inactive Gurdwara Singh Sabha, where tenants had begun tearing down structures without obtaining prior approval, and that the historic gurdwara itself remained fully protected and unaffected; the ETPB said officials halted the work, sealed the site, cancelled the tenancies and began legal proceedings. Separately, the Prime Minister's coordinator for the National Paigham-e-Aman Committee, Hafiz Muhammad Tahir Mehmood Ashrafi, said a wall had collapsed through structural weakness and was followed by illegal demolition by a local businessman, and announced that the government would restore and protect the heritage site. Local Sikh residents had protested after the work began.",
+   "outcome": "The site has been sealed and the ETPB says it cancelled the tenancies and began legal proceedings; Pakistani officials have pledged to restore and protect the site. The competing accounts of what was actually demolished - the shrine itself versus only adjacent shops - remain unreconciled in the retrieved coverage. [FOLLOW-UP PENDING: investigation and any prosecution, the promised restoration, and resolution of the disputed accounts of the damage.]",
+   "tags": "Demolition, Religious site, Historic preservation, Community objection, Geopolitics",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Express Tribune",
+    "The Hans India"
+   ],
+   "source": "https://tribune.com.pk/story/2616336/etpb-rejects-social-media-claims-of-gurdwara-singh-sabha-demolition-in-sheikhupura",
+   "additional_sources": [
+    "https://tribune.com.pk/story/2616475/paigham-e-aman-committee-announces-reconstruction-of-sikh-dharamsala-in-sheikhupura",
+    "https://www.thehansindia.com/news/international/pakistan-demolition-of-historic-sikh-shrine-raises-fresh-concerns-over-protection-of-minorities-their-heritage-1096027"
+   ],
+   "themes": [],
+   "notes": "Backfill parent, drafted on maintainer review (2026-08-07) from the candidate the 2026-08-01 Saturday South-Asia sweep surfaced but the unattended run declined to draft (see PR #75 review notes). Logged per the Index's err-toward-showing-more and log-thin standards for minority/religious-heritage cases with sparse neutral coverage. Describe-don't-judge: the facts are contested - India's MEA alleges a targeted demolition of the shrine, Pakistan's ETPB says only two adjacent shops were razed by tenants and the gurdwara is intact, and the Paigham-e-Aman coordinator acknowledges a wall collapse plus illegal demolition by a businessman - so the Cultural property destruction umbrella is NOT applied (whether the recognized heritage structure was destroyed is itself the dispute) and no verdict tag is used. Sourced from both sides: The Express Tribune (Pakistan, full text) for the ETPB and Paigham-e-Aman accounts (the ETPB's account is rendered as paraphrase, since the Tribune reports it in indirect speech, not as direct quotation); The Hans India (India, full text) for the MEA statement. ID note: assigned ACI-304 rather than the ACI-293 the 08-01 guard reserved, because 293-303 were taken by the later daily-scan PRs (#76-#80) while this scan sat unmerged. Governance: Pakistan logged Hybrid Regime; relevant to the governance hypothesis on minority religious-heritage protection. Themes left [] pending editorial view (Theme 6 iconoclasm would presume intentional ideological destruction, which is exactly what is disputed). Tags flagged for review.",
+   "interested_parties": "Gurdwara Sri Guru Singh Sabha Sahib (Farooqabad); Evacuee Trust Property Board (ETPB); local Sikh community; India's Ministry of External Affairs (Randhir Jaiswal); Pakistan's National Paigham-e-Aman Committee (Hafiz Muhammad Tahir Mehmood Ashrafi)",
+   "coverage_geography": "Pakistan, India",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-294",
+   "entry_id": "294",
+   "seq": 582,
+   "title": "Yves Bouvier seeks Sotheby's records in US court for French criminal case over a Picasso",
+   "artist": "Pablo Picasso (work at issue); Yves Bouvier (subject)",
+   "institution": "Sotheby's; de Sarthe Gallery (Milocci Ltd)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "SDNY discovery motion reported 31 July 2026; underlying Picasso sale April 2024",
+   "date_discovered": "2026-08-02",
+   "sort_date": "2026-07-31",
+   "description": "According to ARTnews, the Swiss art dealer Yves Bouvier has asked a US federal court in the Southern District of New York to compel Sotheby's to produce records relating to the private sale of Pablo Picasso's 'Intimité (Femmes et Enfants),' saying the documents are needed for a criminal complaint he has filed in France against the French dealer Antoine Peretti. Per the filing as reported, Bouvier bought the painting from Peretti in April 2024 for $7.25 million on an understanding that it would be resold with profits split evenly, but alleges it was resold weeks later through Milocci Limited (trading as de Sarthe Gallery) to Sotheby's for a net seller price of $9 million; he is seeking the sale agreement, proof of payment, wire-transfer records, and documents identifying the accounts that ultimately received the proceeds. The request is part of Bouvier's wider legal exposure: in January 2026 a French investigating judge ordered him to stand trial in Paris in a separate case.",
+   "outcome": "Bouvier's motion to compel was pending before the SDNY as of 31 July 2026. [FOLLOW-UP PENDING: the court's ruling on the discovery request, and the French proceedings against both Peretti and Bouvier.]",
+   "tags": "Art market fraud, Legal challenge, Market opacity",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/market/yves-bouvier-sothebys-documents-picasso-lawsuit-1234794113/",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "New parent, thin — drafted from a single retrieved trade-press report (ARTnews, snippet grade) and flagged for enrichment/corroboration. Art-market / Art-and-Capital cluster (cf. ACI-201, Courbet wire-fraud). The contested matter is a financial/market dispute in which a Picasso is the asset rather than a dispute over the work's meaning; logged under the Index's declared Art-and-Capital remit (theme 10). Borderline against the §7 'cultural object as the actual contested thing' test — see PR review notes. On PR review (2026-08-07): removed an unsupported claim that the January 2026 Paris trial order was on charges of handling stolen goods and money laundering - not in the cited ARTnews report. Core facts (the SDNY records bid, the April 2024 Peretti sale, the $9M resale) corroborated on review via urgentmatter.press and The Art Newspaper; ARTnews itself is paywall-blocked to automated fetch. [FOLLOW-UP PENDING]",
+   "interested_parties": "Yves Bouvier; Antoine Peretti; Sotheby's; de Sarthe Gallery (Milocci Ltd)",
+   "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-295",
+   "entry_id": "295",
+   "seq": 588,
+   "title": "Royal Museums Greenwich workers vote to strike over pay and working conditions",
+   "artist": "N/A",
+   "institution": "Royal Museums Greenwich (National Maritime Museum, Queen's House, Royal Observatory, Cutty Sark); Prospect union",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Strike vote reported 3 August 2026; strike planned for 11-12 August 2026",
+   "date_discovered": "2026-08-03",
+   "sort_date": "2026-08-03",
+   "description": "According to The Art Newspaper, staff at Royal Museums Greenwich (RMG) in London - which comprises the National Maritime Museum, the Queen's House, the Royal Observatory and the Cutty Sark - represented by the Prospect union have voted to strike on 11 and 12 August 2026 over pay and working conditions, following an already-agreed two-year pay settlement. Prospect says its members are seeking London Living Wage accreditation, paid breaks for security staff, clearer policy on fixed-term contracts and improved training. RMG said it had engaged in constructive negotiations and an ACAS conciliation meeting, expressed disappointment at the planned action while noting progress made, and said it intends to remain open during the strike. Prospect General Secretary Mike Clancy framed the action as part of a wider push across the UK heritage sector, saying members had been taken advantage of for too long and were signalling they would no longer accept it.",
+   "outcome": "Strike scheduled for 11-12 August 2026; the museum plans to stay open; the pay-and-conditions dispute is unresolved. [FOLLOW-UP PENDING: whether the strike proceeds on 11-12 August, its impact, and any settlement.]",
+   "tags": "Labor dispute",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/03/royal-museums-greenwich-workers-vote-to-strike-over-pay-and-working-conditions",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. UK heritage-sector labour-dispute wave, summer 2026: cross-reference ACI-284 and ACI-284-A (V&A and V&A East Storehouse strike ballots, same summer, PCS and Prospect). Broader museum-labour cluster: ACI-264 (Venice state-museum heat strike threat), ACI-211 (Guggenheim NY UAW strike authorisation), ACI-128 (Whitney union), ACI-268 (Art Institute of Chicago custodial outsourcing). Prospect frames a coordinated summer of heritage-sector action. Staging: escalating (strike voted and scheduled, not yet held). Full-text source (The Art Newspaper) reached; no quotations drawn.",
+   "interested_parties": "Prospect union (General Secretary Mike Clancy); Royal Museums Greenwich management; RMG security and front-of-house staff",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-296",
+   "entry_id": "296",
+   "seq": 589,
+   "title": "Guggenheim Abu Dhabi sets December 2026 opening date, reviving Gulf Labor boycott calls",
+   "artist": "N/A (building designed by Frank Gehry)",
+   "institution": "Guggenheim Abu Dhabi (Saadiyat Island); Solomon R. Guggenheim Foundation; Gulf Labor Coalition",
+   "country": "United Arab Emirates",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Opening date announced for 11 December 2026; renewed boycott calls reported and discovered 3 August 2026",
+   "date_discovered": "2026-08-03",
+   "sort_date": "2026-08-03",
+   "description": "According to Hyperallergic, the long-delayed, Frank Gehry-designed Guggenheim Abu Dhabi has been given an opening date of 11 December 2026 and will be one of eight cultural institutions on Saadiyat Island. The announcement has revived boycott calls tied to the Gulf Labor Coalition (GLC), which for roughly 16 years has documented allegations of migrant-worker abuse and labour-law violations connected to the project; in 2015 an offshoot group, G.U.L.F., staged protest occupations at the Guggenheim Museum in New York and at the Peggy Guggenheim Collection in Venice during the Venice Biennale. GLC co-founder Andrew Ross said none of the initial reasons for the action had been adequately resolved over the years despite the coalition's efforts. Hyperallergic reported that the Guggenheim had not responded to a request for comment on the labour concerns or the opening announcement.",
+   "outcome": "Museum scheduled to open 11 December 2026; the Gulf Labor Coalition says worker-treatment concerns remain unresolved and activists are calling on artists to boycott the opening; no formal decision or institutional response is documented in the coverage retrieved. [FOLLOW-UP PENDING: whether an artist boycott materialises around the December 2026 opening and any Guggenheim or Abu Dhabi response.]",
+   "tags": "Labor dispute, Community objection",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/long-contested-guggenheim-abu-dhabi-gets-opening-date/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "New parent. Longstanding dispute (~16 years) logged now on the news hook of the announced 11 December 2026 opening date, which has revived boycott calls; the underlying Gulf Labor Coalition campaign predates the observation window. Cross-reference ACI-211 (Guggenheim NY UAW strike authorisation) as a separate Guggenheim-institution labour matter. Governance: UAE (Authoritarian). Single-source at logging (Hyperallergic, full fetch); borderline inclusion and theme tag [4] are judgment calls flagged for editorial review. Staging: escalating (organised boycott calls, no formal decision or action).",
+   "interested_parties": "Gulf Labor Coalition (co-founder Andrew Ross); G.U.L.F.; Solomon R. Guggenheim Foundation; Abu Dhabi authorities / Saadiyat Island developers",
+   "coverage_geography": "International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-297",
+   "entry_id": "297",
+   "seq": 590,
+   "title": "Glasgow CCA archive listed for sale in liquidation, prompting 'Save Our CCA' campaign",
+   "artist": "N/A",
+   "institution": "Centre for Contemporary Arts (CCA), Glasgow; MB Valuations (liquidator); Creative Scotland; Ballast Trust",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "CCA entered liquidation January 2026; archive listed among assets for sale; 'Stop the Sale' protest and coverage reported 3 August 2026",
+   "date_discovered": "2026-08-04",
+   "sort_date": "2026-08-03",
+   "description": "According to The Art Newspaper, the archive of Glasgow's Centre for Contemporary Arts (CCA) - and its predecessor the Third Eye Centre - has been listed among the assets to be sold off after the organisation entered liquidation in January 2026, prompting an outcry from artists and cultural figures. The archive documents more than 50 years of exhibitions, performances and events and includes exhibition records, photographs, posters, film, flyers and ephemera. The liquidation asset disposal firm MB Valuations is handling the sale; the CCA building on Sauchiehall Street is owned by Creative Scotland. Amanda Catto of Creative Scotland said the archive 'encompasses more than 50 years of Scotland's contemporary cultural history' and that allowing its sale would represent 'an irreversible loss to Scotland's cultural record.' A 'Save Our CCA' campaign has launched a petition demanding the archive be kept intact and the building remain in public ownership; the Scottish Liberal Democrats' David Green MSP urged the government to act to protect the material. The archives charity Ballast Trust has been named among parties involved in efforts to safeguard the collection.",
+   "outcome": "Archive listed for sale as part of the liquidation; 'Save Our CCA' petition circulating and preservation efforts under way; disposition of the archive and building undetermined. [FOLLOW-UP PENDING: whether the archive is sold, dispersed, or secured intact, and the fate of the CCA building.]",
+   "tags": [
+    "Funding dispute",
+    "Institutional crisis",
+    "Deaccessioning",
+    "Historic preservation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/03/it-would-represent-an-irreversible-loss-to-scotlands-cultural-record-potential-sale-of-glasgow-art-centres-archive-sparks-outcry",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Distinct from ACI-272 (Glasgow School of Art rebuild affordability) and ACI-283 (Peruvian heritage church): this concerns the CCA/Third Eye Centre archive specifically. Dissensus themes: public funding and the fate of a publicly-supported institution's cultural record (2, 4).",
+   "interested_parties": "Amanda Catto (Creative Scotland); MB Valuations (liquidator); David Green MSP (Scottish Liberal Democrats); Ballast Trust; Save Our CCA campaign",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-298",
+   "entry_id": "298",
+   "seq": 591,
+   "title": "Eric Carle Museum workers file for union election, citing understaffing and conditions",
+   "artist": "N/A",
+   "institution": "Eric Carle Museum of Picture Book Art, Amherst, Massachusetts; UAW Local 2110",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Union filing and announcement reported 3 August 2026",
+   "date_discovered": "2026-08-04",
+   "sort_date": "2026-08-03",
+   "description": "According to Hyperallergic, workers at the Eric Carle Museum of Picture Book Art in Amherst, Massachusetts, are seeking to unionize with United Auto Workers (UAW) Local 2110 and have filed for a union election with the National Labor Relations Board. The organizing workers cited understaffing, a lack of promotions and poor workplace conditions among their reasons, and called on museum leadership 'not to interfere with or delay a union vote,' asking that all eligible staff be permitted to participate. The museum, founded in 2002 by children's book author Eric Carle and his wife Barbara, has drawn more than one million visitors over its 23-year history. Hyperallergic reported no statement from museum management.",
+   "outcome": "Union election petition filed with the NLRB; vote pending. [FOLLOW-UP PENDING: outcome of the union election and any management response.]",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/eric-carle-museum-workers-push-for-union-vote/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Part of a 2026 cluster of museum-labor organizing/strike actions in the Index (cf. ACI-295 Royal Museums Greenwich; ACI-284-A V&A East Storehouse). Thin entry; enrich on a US-local trawl day with local Massachusetts coverage.",
+   "interested_parties": "UAW Local 2110; Eric Carle Museum leadership; organizing staff",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-299",
+   "entry_id": "299",
+   "seq": 592,
+   "title": "Palais de Tokyo's planned 2027 move into La Générale's space draws objection from artist-run collective",
+   "artist": "N/A",
+   "institution": "Palais de Tokyo, Paris; La Générale (artist-run space, 14th arrondissement); Paris Department of Cultural Affairs",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Closure and relocation plan reported early August 2026; Palais de Tokyo to close for renovations from July 2027",
+   "date_discovered": "2026-08-04",
+   "sort_date": "2026-08-03",
+   "description": "According to Artforum, Paris's Palais de Tokyo will close for repairs from July 2027 - a renovation the institution attributes to climate change, having had to shut repeatedly in recent years as temperatures topped 35 degrees Celsius - with the work expected to take at least eighteen months. During the closure the kunsthalle plans to relocate its main offices to an annex of the town hall in the 14th arrondissement, a former conservatory that since 2019 has housed La Générale, one of Paris's first artist-run spaces. The plan has raised objections because it would displace the collective, whose lease was set to expire on 31 December. Artforum reports that the Department of Cultural Affairs said the collective submitted a formal relocation request only in early July, roughly six months before the agreement expired, leaving insufficient time to find it a new location.",
+   "outcome": "Relocation plan announced; La Générale collective facing displacement from the 14th-arrondissement annex. [FOLLOW-UP PENDING: whether La Générale is rehoused and whether the Palais de Tokyo relocation proceeds as planned.]",
+   "tags": [
+    "Funding dispute",
+    "Community objection",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Artforum"
+   ],
+   "source": "https://www.artforum.com/news/palais-de-tokyo-to-close-for-renovations-in-2027-1234756211/",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "Retrieved via search result (Artforum homepage/article blocked by paywall proxy on direct fetch); no direct quotations used. Enrich on a Europe (Wednesday) trawl with French-language Paris coverage. Dissensus theme 2 (public funding / institutional space).",
+   "interested_parties": "Palais de Tokyo; La Générale collective; Paris Department of Cultural Affairs; 14th-arrondissement town hall",
+   "coverage_geography": "France",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-300",
+   "entry_id": "300",
+   "seq": 581,
+   "title": "Australian Museum returns 17 Rapa Nui skulls and a hair sample to Easter Island",
+   "artist": "N/A",
+   "institution": "Australian Museum, Sydney",
+   "country": "Australia/Chile",
+   "governance_type": "Democracy",
+   "date_controversy": "Remains removed 1882; repatriation ceremonies 15–17 July 2026",
+   "date_discovered": "2026-08-05",
+   "sort_date": "2026-08-05",
+   "description": "According to The Art Newspaper, the Australian Museum in Sydney has repatriated 17 skulls and one hair sample of Rapa Nui ancestors — referred to by the island's people as Ivi Tupuna — to the Rapa Nui community and Chile. A German naval expedition under Captain Wilhelm Geiseler removed the remains from Easter Island in 1882; the museum purchased them in 1883 and held them for more than 140 years. Repatriation ceremonies were held in Sydney on 15 July 2026, at Santiago's airport on 17 July, and on Rapa Nui, where islanders welcomed the ancestors home. Carlos Edmunds Paoa, president of the Council of the Elders of Rapa Nui, said: \"For us, they are our ancestors. Each bone will go back to its original place.\" Australian Museum director Kim McKay said returning them was \"an act of moral responsibility.\" The report situates the return within continuing efforts to reclaim Rapa Nui heritage held abroad, noting that the British Museum still holds prized moai statues despite repatriation calls.",
+   "outcome": "The remains were formally returned and received on Rapa Nui in July 2026 through a sequence of ceremonies in Sydney, Santiago and on the island. Resolved as to these particular remains; the wider return of Rapa Nui heritage held in overseas collections (including moai at the British Museum) remains outstanding.",
+   "tags": "Repatriation, Indigenous rights",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/04/australian-museum-repatriates-rapa-nui-remains-easter-island",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Human-remains repatriation resolution logged as a cluster anchor (analytically relevant non-controversy, per inclusion rules). Wednesday Europe/UK/repatriation trawl reach. Cross-reference the restitution/repatriation cluster and the standing of the universal museum: the report frames the British Museum's retention of Rapa Nui moai as the outstanding counter-case. Single retrieved source (The Art Newspaper, full text); flagged for enrichment with Chilean/Pacific-language coverage on a later trawl. Theme 12 (Restitution & Repatriation).",
+   "interested_parties": "Australian Museum (director Kim McKay; Laura McBride, director for First Nations); Carlos Edmunds Paoa (Council of the Elders of Rapa Nui); Beatriz de la Fuente (Chile's ambassador to Australia); Rapa Nui community; Chile",
+   "coverage_geography": "Australia, Chile, international",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-301",
+   "entry_id": "301",
+   "seq": 582,
+   "title": "Artist Srishti Gupta held in Uttar Pradesh after Noida factory-workers' protest",
+   "artist": "Srishti Gupta",
+   "institution": "Uttar Pradesh state police (custody)",
+   "country": "India",
+   "governance_type": "Democracy",
+   "date_controversy": "Arrest 11 April 2026; still detained as of early August 2026",
+   "date_discovered": "2026-08-05",
+   "sort_date": "2026-08-05",
+   "description": "According to The Art Newspaper, Srishti Gupta, 28, a Delhi-based visual artist and poet working in paper-making, weaving, printmaking and poetry, has remained in custody since 11 April 2026, when she was arrested while attending a protest by factory workers in Noida, Uttar Pradesh, and livestreamed her own arrest via the Mazdoor Bigul labour union's Instagram. The workers — the report puts the wider mobilisation at around 40,000 — were demanding higher minimum wages and better conditions. The paper reports that Uttar Pradesh police arrested Gupta without an arrest memo, warrant, or the female personnel required for such an arrest, and that she is named in four First Information Reports on allegations including rioting, criminal intimidation and causing hurt to a public servant; a colleague, Akriti Choudhary, faces charges under the National Security Act. More than 130 people were reported arrested in connection with the protests, with bail applications rejected at district-court level and under review by higher courts. Gupta's lawyer is quoted saying: \"The idea is to make the process the punishment.\"",
+   "outcome": "Gupta remains in detention; district-court bail applications have been rejected and the matter is under review by higher courts. The Art Newspaper and the union frame the prosecution as a criminalisation of dissent. [FOLLOW-UP PENDING: higher-court bail decision, the disposition of the FIRs against Gupta, and the National Security Act case against Akriti Choudhary.]",
+   "tags": "Political interference, Artist safety, Resistance",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/05/criminalisation-of-dissent-indian-artist-remains-behind-bars-after-workers-protest",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent, logged thin and flagged for review. Relevance is via the artist's identity and The Art Newspaper's own-voice framing (\"criminalisation of dissent\"), not an art-object or exhibition dispute — the immediate cause is a labour-protest arrest, so this sits at the edge of the inclusion criteria; kept per the err-toward-showing-more standard and surfaced here for editorial judgment. Governance: India logged as Democracy; note the illiberal-pressure trajectory relevant to the governance-friction frame. Single retrieved source (The Art Newspaper, full text); the quote is carried by that source. No Dissensus theme cleanly fits an artist-dissent/free-expression case among the current twelve — themes left empty pending an editorial call on whether the theme set should extend to artist free expression.",
+   "interested_parties": "Srishti Gupta (artist); Akriti Choudhary (co-accused, NSA charge); Mazdoor Bigul labour union; Uttar Pradesh state police; Noida factory workers",
+   "coverage_geography": "India, UK / international",
    "follow_up_pending": true
   },
   {
