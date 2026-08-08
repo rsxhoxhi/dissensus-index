@@ -96,6 +96,7 @@ DOMAIN_TO_OUTLET = {
     "washingtonian.com": "Washingtonian",
     "intent.press": "Intent",
     "thecollegefix.com": "The College Fix",
+    "freepressjournal.in": "The Free Press Journal",
 }
 
 ALIASES = {
