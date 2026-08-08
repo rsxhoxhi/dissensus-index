@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 556
+  "total_cases": 557
  },
  "cases": [
   {
@@ -1267,7 +1267,7 @@
    "date_discovered": "June 15, 2026",
    "sort_date": "2026-06-15",
    "description": "On June 5, 2026, a three-judge DC Circuit panel heard oral argument in the National Trust for Historic Preservation's suit over the ~$400M ballroom built on the demolished East Wing site. The panel appeared skeptical of the administration's claim that no court could review or block the project; one judge likened the government's position (no standing once a structure is already destroyed) to \"move fast and break things,\" invoking a hypothetical about demolishing the Statue of Liberty, and the panel signaled that only Congress can authorize such a project. A ruling is expected in the coming weeks.",
-   "outcome": "DC Circuit June 5 oral argument held; panel skeptical of DOJ's no-review / national-security claims; ruling pending as of June 15, 2026.",
+   "outcome": "DC Circuit June 5 oral argument held; panel skeptical of DOJ's no-review / national-security claims; ruling pending as of June 15, 2026. On 7 August 2026 the DC Circuit ruled 2-1 that above-ground construction must halt unless Congress approves, staying its order two weeks for a possible Supreme Court appeal (see ACI-050-H).",
    "tags": "Historic preservation, Demolition, Legal challenge, Political interference, Cultural property destruction",
    "court_case": "Pending",
    "coverage_tier": "National",
@@ -1281,10 +1281,10 @@
     2,
     9
    ],
-   "notes": "[FOLLOW-UP PENDING] Updates 050-C. The \"move fast and break things\" exchange crystallizes the tracker's governance-friction theme — destruction-before-review as a method of evading judicial oversight (cf. arch Section 106 process compression, 038-K). Watch for the DC Circuit ruling.",
+   "notes": "Updates 050-C. The \"move fast and break things\" exchange crystallizes the tracker's governance-friction theme — destruction-before-review as a method of evading judicial oversight (cf. arch Section 106 process compression, 038-K). Watch for the DC Circuit ruling.",
    "interested_parties": "National Trust for Historic Preservation; U.S. DOJ; DC Circuit three-judge panel; White House",
    "coverage_geography": "US national (Courthouse News, Washington Examiner, AP)",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-166-A",
@@ -11578,6 +11578,42 @@
    "themes": [],
    "notes": "Quick-add (maintainer-supplied WaPo link, 9 July 2026). Logged as a sub-entry of the White House-alterations cluster (ACI-050, State Ballroom / East Wing) though it is a physically distinct project — the North Portico columns — within the same actor/building/historic-preservation pattern; promote to its own parent if the column-replacement question becomes an active dispute. Stage 1 (Watching): current work is framed as repair, with a latent preservation concern over the earlier musing about replacing the columns. Single-source (WaPo) at logging.",
    "interested_parties": "President Donald Trump; Interior Secretary Doug Burgum; National Park Service; The White House",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-050-H",
+   "entry_id": "050",
+   "seq": 601,
+   "title": "White House ballroom: DC Circuit rules 2-1 that construction requires Congress's approval and must halt",
+   "artist": "N/A",
+   "institution": "The White House; U.S. Court of Appeals for the D.C. Circuit",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "DC Circuit ruling 7 August 2026",
+   "date_discovered": "2026-08-07",
+   "sort_date": "2026-08-07",
+   "description": "According to The Washington Post, NPR and CNN, the U.S. Court of Appeals for the D.C. Circuit ruled 2-1 on 7 August 2026 that the Trump administration may not continue above-ground construction of the roughly 90,000-square-foot White House ballroom - for which the East Wing was demolished beginning October 2025 - unless Congress approves it, upholding a district-court preliminary injunction. The court said: \"Whether or not a massive ballroom should be constructed is for Congress to decide and is not a matter for Executive self-help.\" The two judges in the majority were appointed by Presidents Obama and Biden. The panel stayed its order for two weeks to let the administration seek Supreme Court review, while allowing work necessary for safety and security to continue. The White House originally estimated the project at about $200m, though the Washington Post reported in June 2026 that contractors' invoices suggested a total of at least $600m (see ACI-050-F).",
+   "outcome": "The DC Circuit ordered above-ground ballroom construction halted unless Congress authorizes it, staying its ruling for two weeks for a possible Supreme Court appeal; safety and security work may continue. Resolves the appeal tracked at ACI-050-D. [FOLLOW-UP PENDING: whether the administration seeks Supreme Court review, and the congressional response.]",
+   "tags": "Legal challenge, Demolition, Historic preservation, Political interference",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post",
+    "NPR",
+    "CNN"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/",
+   "additional_sources": [
+    "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
+    "https://www.cnn.com/2026/08/07/politics/white-house-ballroom-appeals-court-ruling"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-050 (White House ballroom / East Wing demolition); resolves the pending DC Circuit appeal tracked at ACI-050-D (5 June argument, ruling then pending). Maintainer quick-add from a Washington Post tip; WaPo is blocked to automated fetch (403), so the ruling and the verbatim quote were verified against NPR (full text) and corroborated across CNN, PBS and the Boston Globe - the WaPo canonical URL is pinned as source per the verified-via-syndication convention. Cost figures ($200m estimate; $600m per June invoices) per NPR/WaPo (cf. ACI-050-F). Themes inherited from parent ACI-050.",
+   "interested_parties": "Trump administration; U.S. Court of Appeals for the D.C. Circuit; National Trust for Historic Preservation; Congress",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
