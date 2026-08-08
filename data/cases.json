@@ -17605,7 +17605,7 @@
    "date_controversy": "Drone strike 2 August 2026",
    "date_discovered": "2026-08-06",
    "sort_date": "2026-08-02",
-   "description": "On August 2, 2026, a Russian drone strike destroyed the Holy Vvedensky Church (Sviato-Vvedenska Church) in Beryslav, in the Ukrainian-controlled part of Kherson region, burning the wooden structure to the ground. Built in 1725-1726 from oak without a single nail, it was described by Ukrainian outlets and heritage advocates as a rare surviving example of Zaporizhzhian Cossack church architecture of the Middle Dnieper school. Originally erected at the Cossack fortress of Perevolochna, it was dismantled and floated down the Dnipro to Beryslav in the late 18th century, earning the name the \"traveling church,\" and had survived the Russian Empire, Soviet-era persecution and the Second World War. Ukrainian authorities attributed the destruction to a Russian drone.",
+   "description": "On August 2, 2026, a Russian drone strike destroyed the Holy Vvedensky Church (Sviato-Vvedenska Church) in Beryslav, in the Ukrainian-controlled part of Kherson region, burning the wooden structure to the ground. According to The Art Newspaper, the church was built in 1725 of oak from the Zaporizhzhian Cossacks' Perevolochna fortress, without a single nail, and was transported along the Dnipro to Beryslav in 1784; the paper described it as the country's last remaining example of wooden Cossack architecture from that period. Ukrainian authorities attributed the destruction to a Russian drone, and The Art Newspaper reported that the Kherson region is under constant bombardment, putting its cultural and religious sites at risk.",
    "outcome": "Church reported destroyed by fire; described as a total and irreparable loss. [FOLLOW-UP PENDING: official Ukrainian Ministry of Culture / heritage-body statement, any reconstruction plans, documentation of the loss.]",
    "tags": [
     "Cultural property destruction",
@@ -17621,11 +17621,9 @@
     "Intent"
    ],
    "source": "https://www.theartnewspaper.com/2026/08/05/russian-drone-destroys-unique-300-year-old-wooden-cossack-church-in-ukraine",
-   "additional_sources": [
-    "https://intent.press/en/news/society/2026/in-the-kherson-region-the-occupiers-destroyed-a-unique-18th-century-cossack-church/"
-   ],
+   "additional_sources": [],
    "themes": [],
-   "notes": "War-destruction cluster: cross-ref ACI-187, ACI-178, ACI-127, ACI-277 (Russia-Ukraine cultural-heritage losses). Lateral-iconoclasm frame (CLAUDE.md §14) — warfare damage to a religious/heritage site; Theme 6 applied per the church-destruction precedent of ACI-187. Cultural-property-destruction umbrella applies on recognized national significance (UNESCO status sufficient but not required); co-tagged Conflict zone (military force) and the canonical named-conflict string Russia-Ukraine war. [FOLLOW-UP PENDING] official documentation / attribution.",
+   "notes": "War-destruction cluster: cross-ref ACI-187, ACI-178, ACI-127, ACI-277 (Russia-Ukraine cultural-heritage losses). Lateral-iconoclasm frame (CLAUDE.md §14) — warfare damage to a religious/heritage site; Theme 6 applied per the church-destruction precedent of ACI-187. Cultural-property-destruction umbrella applies on recognized national significance (UNESCO status sufficient but not required); co-tagged Conflict zone (military force) and the canonical named-conflict string Russia-Ukraine war. [FOLLOW-UP PENDING] official documentation / attribution. On PR review: dropped intent.press (an unvouched, participant-adjacent Ukrainian outlet) as a source; removed the Intent-only details it carried (the 'traveling church' nickname, the 'Middle Dnieper school' classification, and the 'survived the Russian Empire/Soviet era/WWII' claim, the last absent from TAN). Entry now rests solely on The Art Newspaper (full text).",
    "interested_parties": "Novokakhovka Diocese (Ukrainian Orthodox Church); Beryslav City Military Administration; Ukrainian Ministry of Culture",
    "coverage_geography": "Ukraine, UK (international art press)",
    "follow_up_pending": true
