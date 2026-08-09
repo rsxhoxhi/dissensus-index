@@ -74,6 +74,7 @@ DOMAIN_TO_OUTLET = {
     "cbsnews.com": "CBS News",
     "nortes.me": "Nortes",
     "eltiempo.com": "El Tiempo",
+    "infobae.com": "Infobae",
     "thelocal.fr": "The Local",
     "aljazeera.com": "Al Jazeera",
     "newschannel5.com": "NewsChannel5",
