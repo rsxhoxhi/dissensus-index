@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 566
+  "total_cases": 569
  },
  "cases": [
   {
@@ -1267,7 +1267,7 @@
    "date_discovered": "June 15, 2026",
    "sort_date": "2026-06-15",
    "description": "On June 5, 2026, a three-judge DC Circuit panel heard oral argument in the National Trust for Historic Preservation's suit over the ~$400M ballroom built on the demolished East Wing site. The panel appeared skeptical of the administration's claim that no court could review or block the project; one judge likened the government's position (no standing once a structure is already destroyed) to \"move fast and break things,\" invoking a hypothetical about demolishing the Statue of Liberty, and the panel signaled that only Congress can authorize such a project. A ruling is expected in the coming weeks.",
-   "outcome": "DC Circuit June 5 oral argument held; panel skeptical of DOJ's no-review / national-security claims; ruling pending as of June 15, 2026.",
+   "outcome": "DC Circuit June 5 oral argument held; panel skeptical of DOJ's no-review / national-security claims; ruling pending as of June 15, 2026. On 7 August 2026 the DC Circuit ruled 2-1 that above-ground construction must halt unless Congress approves, staying its order two weeks for a possible Supreme Court appeal (see ACI-050-H).",
    "tags": "Historic preservation, Demolition, Legal challenge, Political interference, Cultural property destruction",
    "court_case": "Pending",
    "coverage_tier": "National",
@@ -1281,10 +1281,10 @@
     2,
     9
    ],
-   "notes": "[FOLLOW-UP PENDING] Updates 050-C. The \"move fast and break things\" exchange crystallizes the tracker's governance-friction theme — destruction-before-review as a method of evading judicial oversight (cf. arch Section 106 process compression, 038-K). Watch for the DC Circuit ruling.",
+   "notes": "Updates 050-C. The \"move fast and break things\" exchange crystallizes the tracker's governance-friction theme — destruction-before-review as a method of evading judicial oversight (cf. arch Section 106 process compression, 038-K). Watch for the DC Circuit ruling.",
    "interested_parties": "National Trust for Historic Preservation; U.S. DOJ; DC Circuit three-judge panel; White House",
    "coverage_geography": "US national (Courthouse News, Washington Examiner, AP)",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-166-A",
@@ -11640,6 +11640,42 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-050-H",
+   "entry_id": "050",
+   "seq": 601,
+   "title": "White House ballroom: DC Circuit rules 2-1 that construction requires Congress's approval and must halt",
+   "artist": "N/A",
+   "institution": "The White House; U.S. Court of Appeals for the D.C. Circuit",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "DC Circuit ruling 7 August 2026",
+   "date_discovered": "2026-08-07",
+   "sort_date": "2026-08-07",
+   "description": "According to The Washington Post, NPR and CNN, the U.S. Court of Appeals for the D.C. Circuit ruled 2-1 on 7 August 2026 that the Trump administration may not continue above-ground construction of the roughly 90,000-square-foot White House ballroom - for which the East Wing was demolished beginning October 2025 - unless Congress approves it, upholding a district-court preliminary injunction. The court said: \"Whether or not a massive ballroom should be constructed is for Congress to decide and is not a matter for Executive self-help.\" Judge Neomi Rao, a Trump appointee, dissented, writing: \"The equities in this case turn on complex architectural and security determinations best made by the Secret Service and the military — not judges.\" Rao also agreed with the administration that the National Trust for Historic Preservation lacked standing. The panel stayed its order for two weeks to let the administration seek Supreme Court review, while allowing work necessary for safety and security to continue. The White House originally estimated the project at about $200m, though the Washington Post reported in June 2026 that contractors' invoices suggested a total of at least $600m (see ACI-050-F).",
+   "outcome": "The DC Circuit ordered above-ground ballroom construction halted unless Congress authorizes it, staying its ruling for two weeks for a possible Supreme Court appeal; safety and security work may continue. Resolves the appeal tracked at ACI-050-D. [FOLLOW-UP PENDING: whether the administration seeks Supreme Court review, and the congressional response.]",
+   "tags": "Legal challenge, Demolition, Historic preservation, Political interference",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post",
+    "NPR",
+    "CNN"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/",
+   "additional_sources": [
+    "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
+    "https://www.cnn.com/2026/08/07/politics/white-house-ballroom-appeals-court-ruling"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-050 (White House ballroom / East Wing demolition); resolves the pending DC Circuit appeal tracked at ACI-050-D (5 June argument, ruling then pending). Maintainer quick-add from a Washington Post tip; WaPo is blocked to automated fetch (403), so the ruling and the verbatim quote were verified against NPR (full text) and corroborated across CNN, PBS and the Boston Globe - the WaPo canonical URL is pinned as source per the verified-via-syndication convention. Cost figures ($200m estimate; $600m per June invoices) per NPR/WaPo (cf. ACI-050-F). Themes inherited from parent ACI-050. On review: dropped a sentence noting the majority judges' appointing presidents (implies a partisan read the Index does not adopt) and added the dissent instead; Judge Rao's dissent quote is from the Washington Post (maintainer-provided verbatim; WaPo blocked to automated fetch).",
+   "interested_parties": "Trump administration; U.S. Court of Appeals for the D.C. Circuit; National Trust for Historic Preservation; Congress",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-035-C",
    "entry_id": "035-C",
    "seq": 82,
@@ -18297,6 +18333,67 @@
    "notes": "War-destruction cluster: cross-ref ACI-187, ACI-178, ACI-127, ACI-277 (Russia-Ukraine cultural-heritage losses). Lateral-iconoclasm frame (CLAUDE.md §14) — warfare damage to a religious/heritage site; Theme 6 applied per the church-destruction precedent of ACI-187. Cultural-property-destruction umbrella applies on recognized national significance (UNESCO status sufficient but not required); co-tagged Conflict zone (military force) and the canonical named-conflict string Russia-Ukraine war. [FOLLOW-UP PENDING] official documentation / attribution. On PR review: dropped intent.press (an unvouched, participant-adjacent Ukrainian outlet) as a source; removed the Intent-only details it carried (the 'traveling church' nickname, the 'Middle Dnieper school' classification, and the 'survived the Russian Empire/Soviet era/WWII' claim, the last absent from TAN). Entry now rests solely on The Art Newspaper (full text).",
    "interested_parties": "Novokakhovka Diocese (Ukrainian Orthodox Church); Beryslav City Military Administration; Ukrainian Ministry of Culture",
    "coverage_geography": "Ukraine, UK (international art press)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-305",
+   "entry_id": "305",
+   "seq": 598,
+   "title": "16 arrested at a Senate 'die-in' displaying portraits of people killed in ICE custody",
+   "artist": "Gianluca Costantini",
+   "institution": "Hart Senate Office Building; US Capitol Police; Women's March (organizer)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "protest and arrests 5 August 2026",
+   "date_discovered": "2026-08-07",
+   "sort_date": "2026-08-05",
+   "description": "According to Hyperallergic, on 5 August 2026 US Capitol Police arrested 16 protesters inside the Hart Senate Office Building in Washington, DC during a demonstration organized by the advocacy group Women's March. Participants staged a \"die-in\" while holding banner-portraits, hand-drawn by the Italian artist Gianluca Costantini, of people killed by ICE or who died in ICE custody; the banners resembled gravestones marked with names and dates of death, including Alex Pretti, Renée Good and Johan Sebastián Durán Guerrero. Additional banners reading \"ICE Kills\" and \"Abolish ICE\" were unfurled from upper-level balconies. The action targeted senators ahead of the August recess over funding for ICE operations; those taking part were zip-tied and removed. Costantini said, \"Art can make visible what institutions try to turn into something abstract or invisible.\"",
+   "outcome": "16 people were arrested; US Capitol Police had not announced charges as of publication. [FOLLOW-UP PENDING: whether those arrested are charged, and any resulting prosecution.]",
+   "tags": "Protest art, Political art, Migration",
+   "court_case": "Pending",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/16-arrested-for-showing-portraits-of-people-killed-by-ice-in-dc-senate-building/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent, thin — single retrieved source (Hyperallergic, full text). Protest-art / immigration cluster. Borderline against the §7 'cultural object as the actual contested thing' test: the portraits are the medium of a political protest over ICE rather than themselves the disputed object — flagged for editorial judgment. Artist Gianluca Costantini is a political-cartoon / free-expression figure.",
+   "interested_parties": "Women's March (Rachel O'Leary Murphy Carmona, executive director); artist Gianluca Costantini; US Capitol Police; US Senate",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-306",
+   "entry_id": "306",
+   "seq": 599,
+   "title": "New York Historical replaces 17 objects with reproductions over light in new $175M wing",
+   "artist": "N/A",
+   "institution": "New-York Historical (Tang Wing for American Democracy); Louise Mirrer (director); Robert A.M. Stern (architect)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "exhibition 'Democracy Matters' opened 18 June 2026; reproduction swaps reported early August 2026",
+   "date_discovered": "2026-08-07",
+   "sort_date": "2026-08-04",
+   "description": "According to ARTnews and The New York Times, the New York Historical replaced 17 objects in its inaugural exhibition, 'Democracy Matters', with reproductions and removed three others entirely, less than two months after opening its $175 million Tang Wing for American Democracy on 18 June 2026. The wing's main gallery has large windows that flood the space with daylight, and several of the objects selected for display are light-sensitive and at risk of overexposure. Museum staff initially lowered blackout shades, which addressed the conservation risk, but the museum's director, Louise Mirrer, had the shades raised again, saying she felt they were disrespectful of the vision of the architect Robert A.M. Stern, for whom the wing was a final museum project.",
+   "outcome": "As reported, the reproductions and removals were in place; the episode drew criticism over prioritizing the architecture over conservation and over showing reproductions weeks after a costly opening. [FOLLOW-UP PENDING: the museum's longer-term solution for the light-sensitive objects and any institutional response.]",
+   "tags": "Conservation, Design controversy",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews",
+    "The New York Times"
+   ],
+   "source": "https://www.artnews.com/art-news/news/new-york-historical-artworks-reproductions-sunlight-1234794416/",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/04/arts/design/new-york-historical-show-reproductions.html"
+   ],
+   "themes": [
+    4
+   ],
+   "notes": "New parent. Conservation-vs-architecture dispute; the director overrode a conservation fix. ARTnews read via search snippet (snippet grade) and TollBit-blocked to direct fetch; The New York Times (Robin Pogrebin, 4 Aug 2026) added as corroboration on review, confirmed via the NYT API (metadata grade). No direct quotations used; figures follow the reporting.",
+   "interested_parties": "New-York Historical; Louise Mirrer (director); Robert A.M. Stern (architect)",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
