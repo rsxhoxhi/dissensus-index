@@ -46,6 +46,8 @@ async function loadCase() {
   const c = data.cases.find(x => x.id === id);
   if (!c) { document.getElementById('case-content').innerHTML = '<p>Case not found.</p>'; return; }
 
+  if (Array.isArray(c.tags)) c.tags = c.tags.join(', ');
+
   document.title = `${c.id} — ${c.title} — The Dissensus Index`;
 
   const tags = c.tags ? c.tags.split(',').map(t => { const tg = t.trim(); return `<a class="tag" href="browse.html?tag=${encodeURIComponent(tg)}">${escHtml(tg)}</a>`; }).join('') : '';
