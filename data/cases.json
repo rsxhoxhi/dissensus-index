@@ -11593,7 +11593,7 @@
    "date_controversy": "DC Circuit ruling 7 August 2026",
    "date_discovered": "2026-08-07",
    "sort_date": "2026-08-07",
-   "description": "According to The Washington Post, NPR and CNN, the U.S. Court of Appeals for the D.C. Circuit ruled 2-1 on 7 August 2026 that the Trump administration may not continue above-ground construction of the roughly 90,000-square-foot White House ballroom - for which the East Wing was demolished beginning October 2025 - unless Congress approves it, upholding a district-court preliminary injunction. The court said: \"Whether or not a massive ballroom should be constructed is for Congress to decide and is not a matter for Executive self-help.\" The two judges in the majority were appointed by Presidents Obama and Biden. The panel stayed its order for two weeks to let the administration seek Supreme Court review, while allowing work necessary for safety and security to continue. The White House originally estimated the project at about $200m, though the Washington Post reported in June 2026 that contractors' invoices suggested a total of at least $600m (see ACI-050-F).",
+   "description": "According to The Washington Post, NPR and CNN, the U.S. Court of Appeals for the D.C. Circuit ruled 2-1 on 7 August 2026 that the Trump administration may not continue above-ground construction of the roughly 90,000-square-foot White House ballroom - for which the East Wing was demolished beginning October 2025 - unless Congress approves it, upholding a district-court preliminary injunction. The court said: \"Whether or not a massive ballroom should be constructed is for Congress to decide and is not a matter for Executive self-help.\" Judge Neomi Rao, a Trump appointee, dissented, writing: \"The equities in this case turn on complex architectural and security determinations best made by the Secret Service and the military — not judges.\" Rao also agreed with the administration that the National Trust for Historic Preservation lacked standing. The panel stayed its order for two weeks to let the administration seek Supreme Court review, while allowing work necessary for safety and security to continue. The White House originally estimated the project at about $200m, though the Washington Post reported in June 2026 that contractors' invoices suggested a total of at least $600m (see ACI-050-F).",
    "outcome": "The DC Circuit ordered above-ground ballroom construction halted unless Congress authorizes it, staying its ruling for two weeks for a possible Supreme Court appeal; safety and security work may continue. Resolves the appeal tracked at ACI-050-D. [FOLLOW-UP PENDING: whether the administration seeks Supreme Court review, and the congressional response.]",
    "tags": "Legal challenge, Demolition, Historic preservation, Political interference",
    "court_case": "Yes",
@@ -11612,7 +11612,7 @@
     2,
     9
    ],
-   "notes": "Sub-entry of ACI-050 (White House ballroom / East Wing demolition); resolves the pending DC Circuit appeal tracked at ACI-050-D (5 June argument, ruling then pending). Maintainer quick-add from a Washington Post tip; WaPo is blocked to automated fetch (403), so the ruling and the verbatim quote were verified against NPR (full text) and corroborated across CNN, PBS and the Boston Globe - the WaPo canonical URL is pinned as source per the verified-via-syndication convention. Cost figures ($200m estimate; $600m per June invoices) per NPR/WaPo (cf. ACI-050-F). Themes inherited from parent ACI-050.",
+   "notes": "Sub-entry of ACI-050 (White House ballroom / East Wing demolition); resolves the pending DC Circuit appeal tracked at ACI-050-D (5 June argument, ruling then pending). Maintainer quick-add from a Washington Post tip; WaPo is blocked to automated fetch (403), so the ruling and the verbatim quote were verified against NPR (full text) and corroborated across CNN, PBS and the Boston Globe - the WaPo canonical URL is pinned as source per the verified-via-syndication convention. Cost figures ($200m estimate; $600m per June invoices) per NPR/WaPo (cf. ACI-050-F). Themes inherited from parent ACI-050. On review: dropped a sentence noting the majority judges' appointing presidents (implies a partisan read the Index does not adopt) and added the dissent instead; Judge Rao's dissent quote is from the Washington Post (maintainer-provided verbatim; WaPo blocked to automated fetch).",
    "interested_parties": "Trump administration; U.S. Court of Appeals for the D.C. Circuit; National Trust for Historic Preservation; Congress",
    "coverage_geography": "US",
    "follow_up_pending": true
@@ -17974,7 +17974,7 @@
    "id": "ACI-306",
    "entry_id": "306",
    "seq": 599,
-   "title": "New-York Historical replaces 17 objects with reproductions over light in new $175M wing",
+   "title": "New York Historical replaces 17 objects with reproductions over light in new $175M wing",
    "artist": "N/A",
    "institution": "New-York Historical (Tang Wing for American Democracy); Louise Mirrer (director); Robert A.M. Stern (architect)",
    "country": "United States",
@@ -17982,20 +17982,23 @@
    "date_controversy": "exhibition 'Democracy Matters' opened 18 June 2026; reproduction swaps reported early August 2026",
    "date_discovered": "2026-08-07",
    "sort_date": "2026-08-04",
-   "description": "According to ARTnews (whose report was read via a search result; the article and a parallel New York Times piece could not be fetched directly this run), the New-York Historical replaced 17 objects in its inaugural exhibition, 'Democracy Matters', with reproductions and removed three others entirely, less than two months after opening its $175 million Tang Wing for American Democracy on 18 June 2026. The wing's main gallery has large windows that flood the space with daylight, and several of the objects selected for display are light-sensitive and at risk of overexposure. Museum staff initially lowered blackout shades, which addressed the conservation risk, but the museum's director, Louise Mirrer, had the shades raised again, saying she felt they were disrespectful of the vision of the architect Robert A.M. Stern, for whom the wing was a final museum project.",
+   "description": "According to ARTnews and The New York Times, the New York Historical replaced 17 objects in its inaugural exhibition, 'Democracy Matters', with reproductions and removed three others entirely, less than two months after opening its $175 million Tang Wing for American Democracy on 18 June 2026. The wing's main gallery has large windows that flood the space with daylight, and several of the objects selected for display are light-sensitive and at risk of overexposure. Museum staff initially lowered blackout shades, which addressed the conservation risk, but the museum's director, Louise Mirrer, had the shades raised again, saying she felt they were disrespectful of the vision of the architect Robert A.M. Stern, for whom the wing was a final museum project.",
    "outcome": "As reported, the reproductions and removals were in place; the episode drew criticism over prioritizing the architecture over conservation and over showing reproductions weeks after a costly opening. [FOLLOW-UP PENDING: the museum's longer-term solution for the light-sensitive objects and any institutional response.]",
    "tags": "Conservation, Design controversy",
    "court_case": "No",
    "coverage_tier": "National",
    "outlets": [
-    "ARTnews"
+    "ARTnews",
+    "The New York Times"
    ],
    "source": "https://www.artnews.com/art-news/news/new-york-historical-artworks-reproductions-sunlight-1234794416/",
-   "additional_sources": [],
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/04/arts/design/new-york-historical-show-reproductions.html"
+   ],
    "themes": [
     4
    ],
-   "notes": "New parent, thin — drafted from an ARTnews report read via search snippet (snippet grade); direct fetches of ARTnews and a parallel New York Times article were both blocked this run, so no direct quotations are used and figures follow ARTnews's reporting. Conservation-vs-architecture dispute; director overrode a conservation fix. Flag for enrichment/corroboration on the relevant trawl day.",
+   "notes": "New parent. Conservation-vs-architecture dispute; the director overrode a conservation fix. ARTnews read via search snippet (snippet grade) and TollBit-blocked to direct fetch; The New York Times (Robin Pogrebin, 4 Aug 2026) added as corroboration on review, confirmed via the NYT API (metadata grade). No direct quotations used; figures follow the reporting.",
    "interested_parties": "New-York Historical; Louise Mirrer (director); Robert A.M. Stern (architect)",
    "coverage_geography": "US",
    "follow_up_pending": true
