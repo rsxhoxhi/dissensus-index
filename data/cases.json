@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 571
+  "total_cases": 572
  },
  "cases": [
   {
@@ -18459,6 +18459,40 @@
    "notes": "Borderline inclusion (flagged for editorial review): an institutional-governance decision drawing organised criticism rather than a discrete censorship/removal event. Thematically about who decides an art institution's direction — art-expert authority versus public deliberation — hence Theme 1 (Defining Art / who decides) and Theme 4 (Institutional Risk); a case could also be made for Theme 2 (Public Funding) given the £250k public spend. Thin, single-source entry: drafted from ARTnews coverage retrieved as a search-result snippet this run (ARTnews homepage was bot-walled); the underlying reporting also appeared via Artnet, Ocula and the Telegraph, which were not directly retrievable this run. Flag for enrichment on a UK/Europe trawl day. [FOLLOW-UP PENDING] recommendations publication. On review: replaced a Telegraph reference (paywalled, not readable to fact-/neutrality-check) with Artnet News, which carries the same 60%/criticism detail; Artnet is blocked to automated fetch but maintainer-verified.",
    "interested_parties": "National Gallery, London; Conservative MP Charlie Dewhirst; The Daily Telegraph; UK arts-sector commentators",
    "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-309",
+   "entry_id": "309",
+   "seq": 602,
+   "title": "Zendaya's ancient Iranian earrings draw a petition pressing Mayfair gallery Barron London to disclose provenance",
+   "artist": "Glenn Spiro (jeweller)",
+   "institution": "Barron London (Mayfair gallery); Forensic Archive of Iran",
+   "country": "United Kingdom / Iran",
+   "governance_type": "Democracy",
+   "date_controversy": "Photocall 5 July 2026; provenance petition mid-July 2026",
+   "date_discovered": "2026-08-08",
+   "sort_date": "2026-07-05",
+   "description": "According to Hyperallergic and Euronews, the actor Zendaya wore a pair of earrings made from roughly 3,000-year-old gold disc medallions - attributed to the Ziwiyeh hoard, discovered in northwestern Iran in 1947, from which surviving pieces were removed from Iran and sold on the antiquities market in the 1960s - at a London photocall for Christopher Nolan's film The Odyssey on 5 July 2026. The medallions had been remounted with diamonds and 18-karat gold by the London jeweller Glenn Spiro for his 'Materials of the Old World' series and are owned by Barron London, a Mayfair gallery. Archaeologists on social media objected that the pieces were, in the words of one, \"likely looted,\" and the Forensic Archive of Iran launched a petition asking Barron London to publish the discs' full provenance, disclose the legality checks it had made, permit examination of the objects, and suspend any sale. Barron London responded that the earrings are \"responsibly stewarded in accordance with their documented provenance,\" that they belong to its private collection and are not for sale, and that lending them was intended \"to honour the remarkable artistry of ancient Iranian goldsmiths\" rather than for commercial purposes. The critic Zirrar Ali framed the episode as part of a pattern of celebrities being \"largely deaf to questions of ethics and history when it comes to the Global South.\"",
+   "outcome": "The Forensic Archive of Iran's provenance petition is pending; Barron London has declined the looting characterisation, saying the earrings are privately held, not for sale, and responsibly stewarded in line with their documented provenance. No formal repatriation claim for these specific pieces has been made by Tehran, which maintains an active repatriation working group. [FOLLOW-UP PENDING: any provenance disclosure or examination by Barron London, and whether Iran lodges a formal claim.]",
+   "tags": "Repatriation, Financialization, Market opacity, Archaeological site",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic",
+    "Euronews"
+   ],
+   "source": "https://hyperallergic.com/zendayas-earrings-are-part-of-a-much-bigger-problem/",
+   "additional_sources": [
+    "https://www.euronews.com/2026/07/22/zendayas-ancient-iranian-earrings-stir-debate-over-looted-artefacts"
+   ],
+   "themes": [
+    10,
+    12
+   ],
+   "notes": "Backfill parent, drafted on maintainer review (2026-08-08). This story surfaced as a 'considered, not logged' flag in three separate unattended scans (PRs #45 18 July, #61 24 July, #73 30 July), each treating the Hyperallergic piece as a market/trend feature; logged now because the discrete controversy is the Forensic Archive of Iran's provenance petition with specific demands directed at a named party (Barron London), which clears the §7 inclusion bar. Describe-don't-judge: the 'likely looted' characterisation is attributed to critics/archaeologists and the Ziwiyeh looting history to research; Barron London's rebuttal (privately held, not for sale, responsibly stewarded per documented provenance) is given in full. Restitution/Art-and-Capital cluster (themes 12 and 10 - looted antiquities repurposed as luxury jewellery). Sources: Hyperallergic and Euronews (both full text). Tags/themes/governance (UK locus) flagged for review.",
+   "interested_parties": "Zendaya (wore the earrings); Glenn Spiro (jeweller); Barron London (Mayfair gallery, owner); Forensic Archive of Iran (petition); critic Zirrar Ali",
+   "coverage_geography": "UK, Iran, international",
    "follow_up_pending": true
   }
  ]
