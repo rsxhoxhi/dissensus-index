@@ -97,6 +97,7 @@ DOMAIN_TO_OUTLET = {
     "intent.press": "Intent",
     "thecollegefix.com": "The College Fix",
     "freepressjournal.in": "The Free Press Journal",
+    "news.artnet.com": "Artnet News",
 }
 
 ALIASES = {

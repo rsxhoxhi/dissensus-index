@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 568
+  "total_cases": 571
  },
  "cases": [
   {
@@ -1267,7 +1267,7 @@
    "date_discovered": "June 15, 2026",
    "sort_date": "2026-06-15",
    "description": "On June 5, 2026, a three-judge DC Circuit panel heard oral argument in the National Trust for Historic Preservation's suit over the ~$400M ballroom built on the demolished East Wing site. The panel appeared skeptical of the administration's claim that no court could review or block the project; one judge likened the government's position (no standing once a structure is already destroyed) to \"move fast and break things,\" invoking a hypothetical about demolishing the Statue of Liberty, and the panel signaled that only Congress can authorize such a project. A ruling is expected in the coming weeks.",
-   "outcome": "DC Circuit June 5 oral argument held; panel skeptical of DOJ's no-review / national-security claims; ruling pending as of June 15, 2026.",
+   "outcome": "DC Circuit June 5 oral argument held; panel skeptical of DOJ's no-review / national-security claims; ruling pending as of June 15, 2026. On 7 August 2026 the DC Circuit ruled 2-1 that above-ground construction must halt unless Congress approves, staying its order two weeks for a possible Supreme Court appeal (see ACI-050-H).",
    "tags": "Historic preservation, Demolition, Legal challenge, Political interference, Cultural property destruction",
    "court_case": "Pending",
    "coverage_tier": "National",
@@ -1281,10 +1281,10 @@
     2,
     9
    ],
-   "notes": "[FOLLOW-UP PENDING] Updates 050-C. The \"move fast and break things\" exchange crystallizes the tracker's governance-friction theme — destruction-before-review as a method of evading judicial oversight (cf. arch Section 106 process compression, 038-K). Watch for the DC Circuit ruling.",
+   "notes": "Updates 050-C. The \"move fast and break things\" exchange crystallizes the tracker's governance-friction theme — destruction-before-review as a method of evading judicial oversight (cf. arch Section 106 process compression, 038-K). Watch for the DC Circuit ruling.",
    "interested_parties": "National Trust for Historic Preservation; U.S. DOJ; DC Circuit three-judge panel; White House",
    "coverage_geography": "US national (Courthouse News, Washington Examiner, AP)",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-166-A",
@@ -2294,12 +2294,7 @@
    "sort_date": "2026-07-30",
    "description": "According to The Art Newspaper, Israeli forces detonated some 700 tonnes of explosives in southern Lebanon's Nabatieh governorate shortly after midnight on Thursday 30 July 2026, triggering blasts about 800 metres from Beaufort Castle (Qalaat al-Shaqif), the 12th-century Crusader fortress that had been inscribed on UNESCO's World Heritage List only five days earlier, on 25 July (see ACI-167, ACI-167-B). The blast registered a seismic magnitude of 3.8. Israel's government, in statements attributed to Prime Minister Netanyahu and Defence Minister Katz, said it had targeted 'terror tunnels in the Beaufort area' that it described as Hezbollah infrastructure. Lebanon's ministry of culture said the castle itself had not been destroyed by the explosions, but that the strong vibrations could have caused damage in the vicinity of the castle, the extent of which could only be established by a field inspection that remained impossible while the area is under Israeli occupation; a Lebanese official told The Art Newspaper that 'the explosion has had a huge impact on the cultural and natural landscape, completely altering the surrounding setting.' Icomos Lebanon called for 'an immediate, independent, on-site technical assessment' and asked UNESCO to obtain a formal and detailed accounting from Israel. Lebanese President Joseph Aoun condemned 'the ongoing Israeli violations and attacks in southern Lebanon, particularly the explosions targeting infrastructure and archaeological landmarks.' A UNESCO spokesperson said the organisation was 'concerned about the potential impact on the site's structural integrity' and that a technical assessment would be necessary.",
    "outcome": "Explosions confirmed near the site; the Lebanese culture ministry says the castle itself was not destroyed, but possible damage in the vicinity is unassessed while the area is under Israeli occupation; Icomos Lebanon and UNESCO calling for an independent technical assessment and an accounting from Israel. [FOLLOW-UP PENDING: results of any UNESCO/Icomos technical assessment and confirmation of damage to Beaufort Castle.]",
-   "tags": [
-    "Geopolitics",
-    "2026 Lebanon war",
-    "UNESCO World Heritage Site",
-    "Archaeological site"
-   ],
+   "tags": "Geopolitics, 2026 Lebanon war, UNESCO World Heritage Site, Archaeological site",
    "court_case": "No",
    "coverage_tier": "International",
    "outlets": [
@@ -2356,12 +2351,7 @@
    "sort_date": "2026-08-05",
    "description": "More than 400 members of the School of the Art Institute of Chicago community renewed their demand for the reinstatement of tenured art-therapy professor Savneet Talwar (see ACI-166), who has been on paid leave since April 20, 2026, when the school opened a discrimination investigation after a course case study referencing violence against Palestinian civilians. A petition first released on July 20 calls for ending the suspension and investigation.",
    "outcome": "Talwar remains on paid leave with the investigation unresolved; petition and community campaign for reinstatement ongoing. [FOLLOW-UP PENDING: investigation outcome, tenure/legal resolution, whether the campaign changes SAIC's position.]",
-   "tags": [
-    "Censorship",
-    "Labor dispute",
-    "Institutional crisis",
-    "Academic freedom"
-   ],
+   "tags": "Censorship, Labor dispute, Institutional crisis, Academic freedom",
    "court_case": "Pending",
    "coverage_tier": "National",
    "outlets": [
@@ -11650,6 +11640,42 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-050-H",
+   "entry_id": "050",
+   "seq": 601,
+   "title": "White House ballroom: DC Circuit rules 2-1 that construction requires Congress's approval and must halt",
+   "artist": "N/A",
+   "institution": "The White House; U.S. Court of Appeals for the D.C. Circuit",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "DC Circuit ruling 7 August 2026",
+   "date_discovered": "2026-08-07",
+   "sort_date": "2026-08-07",
+   "description": "According to The Washington Post, NPR and CNN, the U.S. Court of Appeals for the D.C. Circuit ruled 2-1 on 7 August 2026 that the Trump administration may not continue above-ground construction of the roughly 90,000-square-foot White House ballroom - for which the East Wing was demolished beginning October 2025 - unless Congress approves it, upholding a district-court preliminary injunction. The court said: \"Whether or not a massive ballroom should be constructed is for Congress to decide and is not a matter for Executive self-help.\" Judge Neomi Rao, a Trump appointee, dissented, writing: \"The equities in this case turn on complex architectural and security determinations best made by the Secret Service and the military — not judges.\" Rao also agreed with the administration that the National Trust for Historic Preservation lacked standing. The panel stayed its order for two weeks to let the administration seek Supreme Court review, while allowing work necessary for safety and security to continue. The White House originally estimated the project at about $200m, though the Washington Post reported in June 2026 that contractors' invoices suggested a total of at least $600m (see ACI-050-F).",
+   "outcome": "The DC Circuit ordered above-ground ballroom construction halted unless Congress authorizes it, staying its ruling for two weeks for a possible Supreme Court appeal; safety and security work may continue. Resolves the appeal tracked at ACI-050-D. [FOLLOW-UP PENDING: whether the administration seeks Supreme Court review, and the congressional response.]",
+   "tags": "Legal challenge, Demolition, Historic preservation, Political interference",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post",
+    "NPR",
+    "CNN"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/",
+   "additional_sources": [
+    "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
+    "https://www.cnn.com/2026/08/07/politics/white-house-ballroom-appeals-court-ruling"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-050 (White House ballroom / East Wing demolition); resolves the pending DC Circuit appeal tracked at ACI-050-D (5 June argument, ruling then pending). Maintainer quick-add from a Washington Post tip; WaPo is blocked to automated fetch (403), so the ruling and the verbatim quote were verified against NPR (full text) and corroborated across CNN, PBS and the Boston Globe - the WaPo canonical URL is pinned as source per the verified-via-syndication convention. Cost figures ($200m estimate; $600m per June invoices) per NPR/WaPo (cf. ACI-050-F). Themes inherited from parent ACI-050. On review: dropped a sentence noting the majority judges' appointing presidents (implies a partisan read the Index does not adopt) and added the dissent instead; Judge Rao's dissent quote is from the Washington Post (maintainer-provided verbatim; WaPo blocked to automated fetch).",
+   "interested_parties": "Trump administration; U.S. Court of Appeals for the D.C. Circuit; National Trust for Historic Preservation; Congress",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-035-C",
    "entry_id": "035-C",
    "seq": 82,
@@ -14162,11 +14188,7 @@
    "sort_date": "2026-08-03",
    "description": "According to ARTnews, the White House's fiscal year 2027 budget request proposes 961.3 million dollars in federal funding for the Smithsonian Institution - the institution's lowest proposed funding level since at least 2020. The proposal would reduce federally funded staffing by about 6 percent, from the equivalent of 4,047 full-time positions in fiscal 2026 to 3,804. ARTnews reports the deepest reductions fall on facilities spending, down about 21 percent from 152 million to 120 million dollars, with the salaries and expenses account cut by 87.2 million dollars. The request comes amid the Trump administration's broader effort to reshape the Smithsonian's content (see ACI-012, ACI-012-J, ACI-012-K, ACI-012-L), which the administration frames as removing ideological bias and which museum leadership has rejected.",
    "outcome": "Budget request submitted; appropriations levels are set by Congress and remain undetermined. [FOLLOW-UP PENDING: the enacted FY2027 Smithsonian appropriation and any staffing changes.]",
-   "tags": [
-    "Funding dispute",
-    "Political interference",
-    "Institutional risk"
-   ],
+   "tags": "Funding dispute, Political interference, Institutional risk",
    "court_case": "No",
    "coverage_tier": "National",
    "outlets": [
@@ -18114,25 +18136,23 @@
    "date_discovered": "2026-08-04",
    "sort_date": "2026-08-03",
    "description": "According to The Art Newspaper, the archive of Glasgow's Centre for Contemporary Arts (CCA) - and its predecessor the Third Eye Centre - has been listed among the assets to be sold off after the organisation entered liquidation in January 2026, prompting an outcry from artists and cultural figures. The archive documents more than 50 years of exhibitions, performances and events and includes exhibition records, photographs, posters, film, flyers and ephemera. The liquidation asset disposal firm MB Valuations is handling the sale; the CCA building on Sauchiehall Street is owned by Creative Scotland. Amanda Catto of Creative Scotland said the archive 'encompasses more than 50 years of Scotland's contemporary cultural history' and that allowing its sale would represent 'an irreversible loss to Scotland's cultural record.' A 'Save Our CCA' campaign has launched a petition demanding the archive be kept intact and the building remain in public ownership; the Scottish Liberal Democrats' David Green MSP urged the government to act to protect the material. The archives charity Ballast Trust has been named among parties involved in efforts to safeguard the collection.",
-   "outcome": "Archive listed for sale as part of the liquidation; 'Save Our CCA' petition circulating and preservation efforts under way; disposition of the archive and building undetermined. [FOLLOW-UP PENDING: whether the archive is sold, dispersed, or secured intact, and the fate of the CCA building.]",
-   "tags": [
-    "Funding dispute",
-    "Institutional crisis",
-    "Deaccessioning",
-    "Historic preservation"
-   ],
+   "outcome": "Archive listed for sale as part of the liquidation; 'Save Our CCA' petition circulating and preservation efforts under way; disposition of the archive and building undetermined. Per Hyperallergic, a Save Our CCA rally on 31 July 2026 — backed by artists Karla Black and Tanoa Sasraku and Glasgow MSP Paul Sweeney — escalated opposition to the sale, and the liquidator set a 14 August 2026 deadline for offers on the assets. [FOLLOW-UP PENDING: whether the archive is sold, dispersed, or secured intact, and the fate of the CCA building.]",
+   "tags": "Funding dispute, Institutional crisis, Deaccessioning, Historic preservation",
    "court_case": "No",
    "coverage_tier": "National",
    "outlets": [
-    "The Art Newspaper"
+    "The Art Newspaper",
+    "Hyperallergic"
    ],
    "source": "https://www.theartnewspaper.com/2026/08/03/it-would-represent-an-irreversible-loss-to-scotlands-cultural-record-potential-sale-of-glasgow-art-centres-archive-sparks-outcry",
-   "additional_sources": [],
+   "additional_sources": [
+    "https://hyperallergic.com/advocates-rally-to-stop-sale-of-glasgows-centre-for-contemporary-arts/"
+   ],
    "themes": [
     2,
     4
    ],
-   "notes": "Distinct from ACI-272 (Glasgow School of Art rebuild affordability) and ACI-283 (Peruvian heritage church): this concerns the CCA/Third Eye Centre archive specifically. Dissensus themes: public funding and the fate of a publicly-supported institution's cultural record (2, 4).",
+   "notes": "Distinct from ACI-272 (Glasgow School of Art rebuild affordability) and ACI-283 (Peruvian heritage church): this concerns the CCA/Third Eye Centre archive specifically. Dissensus themes: public funding and the fate of a publicly-supported institution's cultural record (2, 4). On review (2026-08-08): folded in the 31 July rally and the 14 August offers deadline from Hyperallergic; the separately drafted sub-entry ACI-297-A (same controversy, second outlet) was dropped as duplicative.",
    "interested_parties": "Amanda Catto (Creative Scotland); MB Valuations (liquidator); David Green MSP (Scottish Liberal Democrats); Ballast Trust; Save Our CCA campaign",
    "coverage_geography": "UK",
    "follow_up_pending": true
@@ -18151,10 +18171,7 @@
    "sort_date": "2026-08-03",
    "description": "According to Hyperallergic, workers at the Eric Carle Museum of Picture Book Art in Amherst, Massachusetts, are seeking to unionize with United Auto Workers (UAW) Local 2110 and have filed for a union election with the National Labor Relations Board. The organizing workers cited understaffing, a lack of promotions and poor workplace conditions among their reasons, and called on museum leadership 'not to interfere with or delay a union vote,' asking that all eligible staff be permitted to participate. The museum, founded in 2002 by children's book author Eric Carle and his wife Barbara, has drawn more than one million visitors over its 23-year history. Hyperallergic reported no statement from museum management.",
    "outcome": "Union election petition filed with the NLRB; vote pending. [FOLLOW-UP PENDING: outcome of the union election and any management response.]",
-   "tags": [
-    "Labor dispute",
-    "Institutional crisis"
-   ],
+   "tags": "Labor dispute, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "Regional",
    "outlets": [
@@ -18182,11 +18199,7 @@
    "sort_date": "2026-08-03",
    "description": "According to Artforum, Paris's Palais de Tokyo will close for repairs from July 2027 - a renovation the institution attributes to climate change, having had to shut repeatedly in recent years as temperatures topped 35 degrees Celsius - with the work expected to take at least eighteen months. During the closure the kunsthalle plans to relocate its main offices to an annex of the town hall in the 14th arrondissement, a former conservatory that since 2019 has housed La Générale, one of Paris's first artist-run spaces. The plan has raised objections because it would displace the collective, whose lease was set to expire on 31 December. Artforum reports that the Department of Cultural Affairs said the collective submitted a formal relocation request only in early July, roughly six months before the agreement expired, leaving insufficient time to find it a new location.",
    "outcome": "Relocation plan announced; La Générale collective facing displacement from the 14th-arrondissement annex. [FOLLOW-UP PENDING: whether La Générale is rehoused and whether the Palais de Tokyo relocation proceeds as planned.]",
-   "tags": [
-    "Funding dispute",
-    "Community objection",
-    "Institutional crisis"
-   ],
+   "tags": "Funding dispute, Community objection, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "National",
    "outlets": [
@@ -18274,12 +18287,7 @@
    "sort_date": "2026-07-24",
    "description": "The Wyoming Association of Professional Archaeologists filed suit against Interior Secretary Douglas Burgum and the Bureau of Land Management in the U.S. District Court for the District of Wyoming, asking the court to halt transfers of, and restore research access to, archaeological materials handled under the Native American Graves Protection and Repatriation Act (NAGPRA). The group argues that the Interior Department's 2024 NAGPRA regulations expanded the statute's definitions of \"cultural items\" and \"funerary objects\" far beyond the 1990 law's scope, sweeping in materials such as stone-tool debris, soil samples and campsite refuse, and that as a result large volumes of archaeological resources have been divested from repositories while museums have closed galleries, covered display cases and restricted access to Native American collections. The complaint centers on six sites and cites orders to the University of Wyoming's repository to repatriate entire collections. The BLM declined to comment.",
    "outcome": "Suit pending in the U.S. District Court for the District of Wyoming; plaintiffs seek to halt transfers and restore research access. Interior/BLM declined to comment. [FOLLOW-UP PENDING: ruling, Interior/BLM response, any tribal intervention.]",
-   "tags": [
-    "Repatriation",
-    "Legal challenge",
-    "Indigenous rights",
-    "Archaeological site"
-   ],
+   "tags": "Repatriation, Legal challenge, Indigenous rights, Archaeological site",
    "court_case": "Yes",
    "coverage_tier": "National",
    "outlets": [
@@ -18312,13 +18320,7 @@
    "sort_date": "2026-08-02",
    "description": "On August 2, 2026, a Russian drone strike destroyed the Holy Vvedensky Church (Sviato-Vvedenska Church) in Beryslav, in the Ukrainian-controlled part of Kherson region, burning the wooden structure to the ground. According to The Art Newspaper, the church was built in 1725 of oak from the Zaporizhzhian Cossacks' Perevolochna fortress, without a single nail, and was transported along the Dnipro to Beryslav in 1784; the paper described it as the country's last remaining example of wooden Cossack architecture from that period. Ukrainian authorities attributed the destruction to a Russian drone, and The Art Newspaper reported that the Kherson region is under constant bombardment, putting its cultural and religious sites at risk.",
    "outcome": "Church reported destroyed by fire; described as a total and irreparable loss. [FOLLOW-UP PENDING: official Ukrainian Ministry of Culture / heritage-body statement, any reconstruction plans, documentation of the loss.]",
-   "tags": [
-    "Cultural property destruction",
-    "Conflict zone",
-    "Religious site",
-    "Russia-Ukraine war",
-    "Geopolitics"
-   ],
+   "tags": "Cultural property destruction, Conflict zone, Religious site, Russia-Ukraine war, Geopolitics",
    "court_case": "No",
    "coverage_tier": "International",
    "outlets": [
@@ -18331,6 +18333,67 @@
    "notes": "War-destruction cluster: cross-ref ACI-187, ACI-178, ACI-127, ACI-277 (Russia-Ukraine cultural-heritage losses). Lateral-iconoclasm frame (CLAUDE.md §14) — warfare damage to a religious/heritage site; Theme 6 applied per the church-destruction precedent of ACI-187. Cultural-property-destruction umbrella applies on recognized national significance (UNESCO status sufficient but not required); co-tagged Conflict zone (military force) and the canonical named-conflict string Russia-Ukraine war. [FOLLOW-UP PENDING] official documentation / attribution. On PR review: dropped intent.press (an unvouched, participant-adjacent Ukrainian outlet) as a source; removed the Intent-only details it carried (the 'traveling church' nickname, the 'Middle Dnieper school' classification, and the 'survived the Russian Empire/Soviet era/WWII' claim, the last absent from TAN). Entry now rests solely on The Art Newspaper (full text).",
    "interested_parties": "Novokakhovka Diocese (Ukrainian Orthodox Church); Beryslav City Military Administration; Ukrainian Ministry of Culture",
    "coverage_geography": "Ukraine, UK (international art press)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-305",
+   "entry_id": "305",
+   "seq": 598,
+   "title": "16 arrested at a Senate 'die-in' displaying portraits of people killed in ICE custody",
+   "artist": "Gianluca Costantini",
+   "institution": "Hart Senate Office Building; US Capitol Police; Women's March (organizer)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "protest and arrests 5 August 2026",
+   "date_discovered": "2026-08-07",
+   "sort_date": "2026-08-05",
+   "description": "According to Hyperallergic, on 5 August 2026 US Capitol Police arrested 16 protesters inside the Hart Senate Office Building in Washington, DC during a demonstration organized by the advocacy group Women's March. Participants staged a \"die-in\" while holding banner-portraits, hand-drawn by the Italian artist Gianluca Costantini, of people killed by ICE or who died in ICE custody; the banners resembled gravestones marked with names and dates of death, including Alex Pretti, Renée Good and Johan Sebastián Durán Guerrero. Additional banners reading \"ICE Kills\" and \"Abolish ICE\" were unfurled from upper-level balconies. The action targeted senators ahead of the August recess over funding for ICE operations; those taking part were zip-tied and removed. Costantini said, \"Art can make visible what institutions try to turn into something abstract or invisible.\"",
+   "outcome": "16 people were arrested; US Capitol Police had not announced charges as of publication. [FOLLOW-UP PENDING: whether those arrested are charged, and any resulting prosecution.]",
+   "tags": "Protest art, Political art, Migration",
+   "court_case": "Pending",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/16-arrested-for-showing-portraits-of-people-killed-by-ice-in-dc-senate-building/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent, thin — single retrieved source (Hyperallergic, full text). Protest-art / immigration cluster. Borderline against the §7 'cultural object as the actual contested thing' test: the portraits are the medium of a political protest over ICE rather than themselves the disputed object — flagged for editorial judgment. Artist Gianluca Costantini is a political-cartoon / free-expression figure.",
+   "interested_parties": "Women's March (Rachel O'Leary Murphy Carmona, executive director); artist Gianluca Costantini; US Capitol Police; US Senate",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-306",
+   "entry_id": "306",
+   "seq": 599,
+   "title": "New York Historical replaces 17 objects with reproductions over light in new $175M wing",
+   "artist": "N/A",
+   "institution": "New-York Historical (Tang Wing for American Democracy); Louise Mirrer (director); Robert A.M. Stern (architect)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "exhibition 'Democracy Matters' opened 18 June 2026; reproduction swaps reported early August 2026",
+   "date_discovered": "2026-08-07",
+   "sort_date": "2026-08-04",
+   "description": "According to ARTnews and The New York Times, the New York Historical replaced 17 objects in its inaugural exhibition, 'Democracy Matters', with reproductions and removed three others entirely, less than two months after opening its $175 million Tang Wing for American Democracy on 18 June 2026. The wing's main gallery has large windows that flood the space with daylight, and several of the objects selected for display are light-sensitive and at risk of overexposure. Museum staff initially lowered blackout shades, which addressed the conservation risk, but the museum's director, Louise Mirrer, had the shades raised again, saying she felt they were disrespectful of the vision of the architect Robert A.M. Stern, for whom the wing was a final museum project.",
+   "outcome": "As reported, the reproductions and removals were in place; the episode drew criticism over prioritizing the architecture over conservation and over showing reproductions weeks after a costly opening. [FOLLOW-UP PENDING: the museum's longer-term solution for the light-sensitive objects and any institutional response.]",
+   "tags": "Conservation, Design controversy",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews",
+    "The New York Times"
+   ],
+   "source": "https://www.artnews.com/art-news/news/new-york-historical-artworks-reproductions-sunlight-1234794416/",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/04/arts/design/new-york-historical-show-reproductions.html"
+   ],
+   "themes": [
+    4
+   ],
+   "notes": "New parent. Conservation-vs-architecture dispute; the director overrode a conservation fix. ARTnews read via search snippet (snippet grade) and TollBit-blocked to direct fetch; The New York Times (Robin Pogrebin, 4 Aug 2026) added as corroboration on review, confirmed via the NYT API (metadata grade). No direct quotations used; figures follow the reporting.",
+   "interested_parties": "New-York Historical; Louise Mirrer (director); Robert A.M. Stern (architect)",
+   "coverage_geography": "US",
    "follow_up_pending": true
   },
   {
