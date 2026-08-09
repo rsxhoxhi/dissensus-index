@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T11:07:51.904168+00:00",
+  "generated_at": "2026-08-09T11:09:05.778086+00:00",
   "window_hours": 96,
   "feed_summary": [
     {
@@ -15,16 +15,16 @@
       "status": "ok",
       "total_in_feed": 10,
       "in_window": 10,
-      "new_candidates": 10,
-      "already_logged": 0
+      "new_candidates": 9,
+      "already_logged": 1
     },
     {
       "feed": "The Art Newspaper",
       "status": "ok",
       "total_in_feed": 61,
-      "in_window": 16,
-      "new_candidates": 14,
-      "already_logged": 2
+      "in_window": 10,
+      "new_candidates": 9,
+      "already_logged": 1
     },
     {
       "feed": "Artforum",
@@ -45,9 +45,9 @@
     {
       "feed": "NYT Arts",
       "status": "ok",
-      "total_in_feed": 57,
-      "in_window": 54,
-      "new_candidates": 54,
+      "total_in_feed": 56,
+      "in_window": 48,
+      "new_candidates": 48,
       "already_logged": 0
     }
   ],
@@ -214,13 +214,6 @@
       "summary": "The foundation says development at an adjacent parking lot could impact the building’s integrity."
     },
     {
-      "source_feed": "ARTnews",
-      "title": "National Gallery’s £250 K. Citizens’ Assembly Sparks Art World Criticism and Conservative Backslash",
-      "link": "https://www.artnews.com/artnews/news/national-gallery-citizens-assembly-criticism-uk-1234794521/",
-      "published": "2026-08-07T16:12:07+00:00",
-      "summary": "For the assembly, called NG Citizens, the National Gallery brought together a demographically representative group of the UK population."
-    },
-    {
       "source_feed": "The Art Newspaper",
       "title": "‘We’re astounded and a bit perplexed by it’: colossal 2,500-year-old sculpture discovered at Unesco site in Turkey",
       "link": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
@@ -282,41 +275,6 @@
       "link": "https://www.theartnewspaper.com/2026/08/05/louvre-loans-islamic-art-treasures-smithsonian-national-museum-asian-art",
       "published": "2026-08-05T12:00:00+00:00",
       "summary": "Upcoming exhibition at the National Museum of Asian Art in Washington, DC, will feature 26 works from the Louvre, some of which have never been shown in the US"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "V&A deputy director Tim Reeve appointed to lead English Heritage",
-      "link": "https://www.theartnewspaper.com/2026/08/05/va-deputy-director-tim-reeve-departs-to-lead-english-heritage",
-      "published": "2026-08-05T10:33:34+00:00",
-      "summary": "Reeve will become chief executive officer of the organisation at which he started his career"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Valerie Hillings appointed inaugural director of Guggenheim Abu Dhabi",
-      "link": "https://www.theartnewspaper.com/2026/08/05/valerie-hillings-appointed-inaugural-director-of-guggenheim-abu-dhabi",
-      "published": "2026-08-05T10:04:41+00:00",
-      "summary": "Currently the director of the North Carolina Museum of Art, Hillings worked on the Abu Dhabi project from 2009 to 2018"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "The Australian Museum returns remains of Rapa Nui ancestors to Easter Island",
-      "link": "https://www.theartnewspaper.com/2026/08/05/australian-museum-repatriates-rapa-nui-remains-easter-island",
-      "published": "2026-08-05T02:12:41+00:00",
-      "summary": "The restituted human remains include 17 skulls and one sample of hair, which were taken from the island during a German expedition in 1882"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "Fra Angelico’s earliest surviving altarpiece returns to Fiesole after restoration reveals hidden throne",
-      "link": "https://www.theartnewspaper.com/2026/08/04/fra-angelicos-earliest-surviving-altarpiece-returns-to-fiesole-after-restoration-reveals-hidden-throne",
-      "published": "2026-08-04T15:45:05+00:00",
-      "summary": "The work, created by the young friar-artist and updated later by Lorenzo di Credi, has undergone careful repair and cleaning"
-    },
-    {
-      "source_feed": "The Art Newspaper",
-      "title": "London mayor Sadiq Khan calls for city's public museums to remain free to enter",
-      "link": "https://www.theartnewspaper.com/2026/08/04/london-mayor-sadiq-khan-calls-for-national-museums-to-remain-free-to-enter",
-      "published": "2026-08-04T11:58:08+00:00",
-      "summary": "‘Free museums and galleries are a fundamental part of London life’, says the long-serving Labour mayor in a new op-ed"
     },
     {
       "source_feed": "Artforum",
@@ -491,7 +449,7 @@
       "title": "Foster + Partners cleared over man’s death when window fell from London penthouse",
       "link": "https://www.theguardian.com/uk-news/2026/aug/06/foster-partners-cleared-death-window-fell-london-penthouse",
       "published": "2026-08-06T18:06:05+00:00",
-      "summary": "Court rules architecture firm not responsible for fatal incident but project managers and engineers found guilty of safety breachesThe architecture firm founded by Norman Foster has been cleared over the death of a man killed by a window that fell 90 metres from a newly constructed London penthouse.…"
+      "summary": "Court rules architecture firm not responsible for safety breaches before fatal incident but project managers and contractors found guiltyThe architecture firm founded by Norman Foster has been cleared over the death of a man killed by a window that fell 90 metres from a newly constructed London pent…"
     },
     {
       "source_feed": "The Guardian (art)",
@@ -502,6 +460,13 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "Where a Ring of Steel Once Stood, Belfast Unites at the Fleadh Cheoil",
+      "link": "https://www.nytimes.com/2026/08/08/arts/music/irish-festival-belfast-fleadh-cheoil.html",
+      "published": "2026-08-08T12:52:37+00:00",
+      "summary": "A weeklong celebration of Irish music and culture is bringing an expected 800,000 people to Northern Ireland’s capital. It’s a sign of how far the city has come decades after a bloody sectarian conflict."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "Esperanza Spalding, Kayla Farrish and the Riffy Potential of Jazz and Dance",
       "link": "https://www.nytimes.com/2026/08/07/arts/dance/esperanza-spalding-kayla-farrish-jazz-dance.html",
       "published": "2026-08-07T09:00:11+00:00",
@@ -509,10 +474,24 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "Kacey Musgraves Just Wants to Find the Perfect Dirty Martini",
+      "link": "https://www.nytimes.com/2026/08/08/arts/music/kacey-musgraves-middle-of-nowhere.html",
+      "published": "2026-08-08T11:36:08+00:00",
+      "summary": "“I need an ice-cold, perfect balance of dirty, and I think people don’t go dirty enough,” the country singer said."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "Monica Barbaro and Callum Turner on Rom-Coms and the Politics of ‘One Night Only’",
       "link": "https://www.nytimes.com/2026/08/07/movies/monica-barbaro-callum-turner-one-night-only.html",
       "published": "2026-08-07T09:01:46+00:00",
       "summary": "In “One Night Only,” Monica Barbaro and Callum Turner play singles living in a world where the government has banned premarital sex. How far-fetched is that?"
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "Karol G, Flo: Songs to Know This Week",
+      "link": "https://www.nytimes.com/2026/08/08/arts/music/9-songs-were-talking-about-this-week.html",
+      "published": "2026-08-08T09:02:09+00:00",
+      "summary": "Karol G returns, Steve Earle and Los Lobos link up and Temper City climbs the charts."
     },
     {
       "source_feed": "NYT Arts",
@@ -546,7 +525,7 @@
       "source_feed": "NYT Arts",
       "title": "A Bat Lord Has Landed at the Cloisters. He’ll Be Its Caretaker.",
       "link": "https://www.nytimes.com/2026/08/06/arts/design/cloisters-art-handler-bat-lord.html",
-      "published": "2026-08-06T19:08:41+00:00",
+      "published": "2026-08-08T13:41:56+00:00",
       "summary": "As the museum reframes its story of medieval art, Andrew Winslow, the collections manager, embraces the challenge."
     },
     {
@@ -579,58 +558,44 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘Teenage Sex and Death at Camp Miasma’ Review: Gushing With Desire",
-      "link": "https://www.nytimes.com/2026/08/06/movies/teenage-sex-and-death-at-camp-miasma-review.html",
-      "published": "2026-08-06T09:01:57+00:00",
-      "summary": "Hannah Einbinder and Gillian Anderson star in an exhilarating tale of a filmmaker rebooting a problematic slasher franchise."
+      "title": "What to Know About the Tupac Murder, Trial and Suspect",
+      "link": "https://www.nytimes.com/2026/08/09/arts/music/tupac-shakur-murder-trial-duane-davis.html",
+      "published": "2026-08-09T09:01:38+00:00",
+      "summary": "Three decades after the rapper Tupac Shakur was killed in Las Vegas, a man who prosecutors say provided the murder weapon is scheduled to go to trial."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘Late Fame’ Review: Lost Poet, Found Again",
-      "link": "https://www.nytimes.com/2026/08/06/movies/late-fame-review.html",
-      "published": "2026-08-06T09:01:58+00:00",
-      "summary": "Willem Dafoe stars as a former poet charmed by a group of would-be young artists."
+      "title": "How Maurizio Cattelan Threw His Own Version of the Last Supper",
+      "link": "https://www.nytimes.com/2026/08/08/t-magazine/maurizio-cattelan-last-supper-dinner-berlin.html",
+      "published": "2026-08-09T01:53:38+00:00",
+      "summary": "In Berlin, the artist Maurizio Cattelan gathered friends and collaborators for a dinner with a dramatic theme."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘Olmo’ Review: A New Mexican Coming-of-Age Comedy",
-      "link": "https://www.nytimes.com/2026/08/06/movies/olmo-review-a-new-mexican-coming-of-age-comedy.html",
-      "published": "2026-08-06T19:05:28+00:00",
-      "summary": "Fernando Eimbcke’s film, set in Las Cruces, finds tenderness and turmoil in a 1970s Mexican American household."
+      "title": "Abbe Lane, Sultry Singer With a Latin Flair, Dies at 94",
+      "link": "https://www.nytimes.com/2026/08/08/arts/music/abbe-lane-dead.html",
+      "published": "2026-08-08T22:40:41+00:00",
+      "summary": "She was a Broadway dancer before becoming Xavier Cugat’s star vocalist and later building a solo career."
     },
     {
       "source_feed": "NYT Arts",
-      "title": "Karol G, Flo: Songs to Know This Week",
-      "link": "https://www.nytimes.com/2026/08/08/arts/music/9-songs-were-talking-about-this-week.html",
-      "published": "2026-08-08T09:02:08+00:00",
-      "summary": "Karol G returns, Steve Earle and Los Lobos link up and Temper City climbs the charts."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Where a Ring of Steel Once Stood, Belfast Unites at the Fleadh Cheoil",
-      "link": "https://www.nytimes.com/2026/08/08/arts/music/irish-festival-belfast-fleadh-cheoil.html",
-      "published": "2026-08-08T09:01:43+00:00",
-      "summary": "A weeklong celebration of Irish music and culture is bringing an expected 800,000 people to Northern Ireland’s capital. It’s a sign of how far the city has come decades after a bloody sectarian conflict."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Kacey Musgraves Just Wants to Find the Perfect Dirty Martini",
-      "link": "https://www.nytimes.com/2026/08/08/arts/music/kacey-musgraves-middle-of-nowhere.html",
-      "published": "2026-08-08T09:00:52+00:00",
-      "summary": "“I need an ice-cold, perfect balance of dirty, and I think people don’t go dirty enough,” the country singer said."
+      "title": "William Orbit, Producer for Madonna’s ‘Ray of Light,’ Dies at 69",
+      "link": "https://www.nytimes.com/2026/08/08/arts/music/william-orbit-dead.html",
+      "published": "2026-08-08T21:53:59+00:00",
+      "summary": "A three-time Grammy winner who was renowned for his mastery of electronic music styles, he also worked with Blur, Pink, Britney Spears and All Saints."
     },
     {
       "source_feed": "NYT Arts",
       "title": "‘Teenage Sex and Death at Camp Miasma’ Makes a Case For Embracing Beloved Problematic Films",
       "link": "https://www.nytimes.com/video/movies/100000011022361/teenage-sex-and-death-at-camp-miasma-makes-a-case-for-embracing-beloved-problematic-films.html",
-      "published": "2026-08-08T09:00:38+00:00",
+      "published": "2026-08-08T18:58:51+00:00",
       "summary": "Our film critic Alissa Wilkinson reviews “Teenage Sex and Death at Camp Miasma,” dissecting its argument not to discard your favorite films that may not have aged well."
     },
     {
       "source_feed": "NYT Arts",
       "title": "How One of the Last Ventriloquists in the Country Brings Dummies to Life",
       "link": "https://www.nytimes.com/2026/08/08/arts/ventriloquist-dummies-austin-phillips.html",
-      "published": "2026-08-08T09:00:10+00:00",
+      "published": "2026-08-08T09:00:11+00:00",
       "summary": "From his studio in Maine, one of the last full-time ventriloquist puppet makers in the country combines mechanics, painting and performance to create one-of-a-kind characters."
     },
     {
@@ -665,7 +630,7 @@
       "source_feed": "NYT Arts",
       "title": "Edinburgh Fringe: 9 Shows That Are Sure to Make Waves",
       "link": "https://www.nytimes.com/2026/08/07/theater/edinburgh-fringe-what-to-see.html",
-      "published": "2026-08-07T23:18:39+00:00",
+      "published": "2026-08-07T23:18:40+00:00",
       "summary": "As the festival opens Friday, some of the acts already have significant word-of-mouth buzz or planned runs beyond the Fringe."
     },
     {
@@ -726,6 +691,13 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "‘Olmo’ Review: A New Mexican Coming-of-Age Comedy",
+      "link": "https://www.nytimes.com/2026/08/06/movies/olmo-review-a-new-mexican-coming-of-age-comedy.html",
+      "published": "2026-08-06T19:05:28+00:00",
+      "summary": "Fernando Eimbcke’s film, set in Las Cruces, finds tenderness and turmoil in a 1970s Mexican American household."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "‘Julian’ Review: Getting Married in 22 Countries",
       "link": "https://www.nytimes.com/2026/08/06/movies/julian-review.html",
       "published": "2026-08-06T09:02:41+00:00",
@@ -740,9 +712,23 @@
     },
     {
       "source_feed": "NYT Arts",
+      "title": "‘Late Fame’ Review: Lost Poet, Found Again",
+      "link": "https://www.nytimes.com/2026/08/06/movies/late-fame-review.html",
+      "published": "2026-08-06T09:01:58+00:00",
+      "summary": "Willem Dafoe stars as a former poet charmed by a group of would-be young artists."
+    },
+    {
+      "source_feed": "NYT Arts",
+      "title": "‘Teenage Sex and Death at Camp Miasma’ Review: Gushing With Desire",
+      "link": "https://www.nytimes.com/2026/08/06/movies/teenage-sex-and-death-at-camp-miasma-review.html",
+      "published": "2026-08-06T09:01:57+00:00",
+      "summary": "Hannah Einbinder and Gillian Anderson star in an exhilarating tale of a filmmaker rebooting a problematic slasher franchise."
+    },
+    {
+      "source_feed": "NYT Arts",
       "title": "Lou Koller, Ambassador of New York Hardcore, Dies at 61",
       "link": "https://www.nytimes.com/2026/08/05/arts/music/lou-koller-dead.html",
-      "published": "2026-08-05T21:48:26+00:00",
+      "published": "2026-08-05T21:48:27+00:00",
       "summary": "He screamed as much as sang, as his heavy-metal-inflected punk band, Sick of It All, spread the sound of the New York underground to the world."
     },
     {
@@ -775,34 +761,6 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "‘Ted Lasso’ Season 4 Premiere Recap: Begin Again",
-      "link": "https://www.nytimes.com/2026/08/05/arts/television/ted-lasso-recap-season-4-premiere.html",
-      "published": "2026-08-05T09:02:30+00:00",
-      "summary": "Ted is back in Kansas City. But how long will he stay there?"
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Where Did All My Male Friendships Go? (Encore)",
-      "link": "https://www.nytimes.com/2026/08/05/podcasts/where-did-all-my-male-friendships-go-encore.html",
-      "published": "2026-08-05T09:02:29+00:00",
-      "summary": "One man’s quest to cure his loneliness and get his friends back."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘Center Stage’: A Star of Shanghai’s 1930s Heyday Is (Re)Born",
-      "link": "https://www.nytimes.com/2026/08/05/movies/center-stage-a-star-of-shanghais-1930s-heyday-is-re-born.html",
-      "published": "2026-08-05T09:02:16+00:00",
-      "summary": "This 1991 film is at once a biopic devoted to the Chinese silent-film star, Ruan Lingyu, and a self-reflexive documentary starring Maggie Cheung."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "‘The Shards’ and ‘Sterling Point’ Offer Class Struggle as Teen Drama",
-      "link": "https://www.nytimes.com/2026/08/05/arts/television/the-shards-sterling-point-teen-dramas.html",
-      "published": "2026-08-05T09:02:00+00:00",
-      "summary": "“The Shards” and “Sterling Point” offer different angles on that most status-conscious of genres, the teen drama."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "Listening to New York City",
       "link": "https://www.nytimes.com/video/arts/100000011044524/listening-to-new-york-city.html",
       "published": "2026-08-05T14:00:05+00:00",
@@ -817,31 +775,10 @@
     },
     {
       "source_feed": "NYT Arts",
-      "title": "5 Minutes That Will Make You Love Lee Morgan",
-      "link": "https://www.nytimes.com/2026/08/05/arts/music/lee-morgan-jazz-music.html",
-      "published": "2026-08-05T09:00:57+00:00",
-      "summary": "This trumpeter earned the admiration of Dizzy Gillespie and Art Blakey when he was still a teenager, and balanced virtuosity with accessibility. Hear 11 of his best tracks."
-    },
-    {
-      "source_feed": "NYT Arts",
       "title": "It’s the Summer of Soundwalking. He Is Your Sherpa.",
       "link": "https://www.nytimes.com/2026/08/05/arts/design/soundwalk-jacek-smolicki-central-park.html",
       "published": "2026-08-05T16:07:48+00:00",
       "summary": "“We may be hearing but not listening,” Jacek Smolicki said, showing a reporter how sound travels through tree roots in Central Park and amplifying the scraping of aquatic snails."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Bowen Yang to Make Broadway Debut as Mary Todd Lincoln in ‘Oh, Mary!’",
-      "link": "https://www.nytimes.com/2026/08/04/theater/bowen-yang-broadway-oh-mary.html",
-      "published": "2026-08-04T21:37:03+00:00",
-      "summary": "The comic actor, who ended a celebrated run on “Saturday Night Live” last year, will begin a 12-week engagement in mid-September."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Songs for the Return of Lizard Season 🦎☀️",
-      "link": "https://www.nytimes.com/2026/08/04/arts/music/amplifier-newsletter-summer-way-machine-lolitah.html",
-      "published": "2026-08-04T21:47:18+00:00",
-      "summary": "Let Victoryland, Way Dynamic, Lolitah and other artists help you embrace Peak Summer."
     },
     {
       "source_feed": "NYT Arts",
@@ -856,27 +793,6 @@
       "link": "https://www.nytimes.com/2026/08/04/arts/dance/venice-dance-biennale-diana-vishneva.html",
       "published": "2026-08-07T11:54:43+00:00",
       "summary": "Diana Vishneva’s performance at the Venice Dance Biennale raised uncomfortable questions for an event that once vowed to cut ties with Russia’s artists over the war in Ukraine."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Ariana Grande and the Debate Over Health, Privacy and Celebrity",
-      "link": "https://www.nytimes.com/2026/08/04/arts/music/ariana-grande-health-weight.html",
-      "published": "2026-08-04T16:01:55+00:00",
-      "summary": "The pop star has long pushed back on comments about her weight loss, urging fans to be “gentler.” As her fame reached new heights, so did the scrutiny."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Yes, the Show Has Drawn Raves. But Some of the Objects Are Not Real.",
-      "link": "https://www.nytimes.com/2026/08/04/arts/design/new-york-historical-show-reproductions.html",
-      "published": "2026-08-04T21:37:42+00:00",
-      "summary": "When the New York Historical realized that sunlight in its new wing would potentially damage some items on display, it scrambled to reproduce or remove them."
-    },
-    {
-      "source_feed": "NYT Arts",
-      "title": "Miss ‘Grantchester’? Here Are More Crime-Solving Clergy",
-      "link": "https://www.nytimes.com/2026/08/04/arts/television/grantchester.html",
-      "published": "2026-08-04T16:30:55+00:00",
-      "summary": "The longtime PBS mystery series just ended. But TV has a surprising number of other theological murder investigators to fill the void."
     }
   ]
 }

@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 572
+  "total_cases": 573
  },
  "cases": [
   {
@@ -17542,7 +17542,7 @@
    "date_discovered": "2026-07-26",
    "sort_date": "2026-07-17",
    "description": "According to El Tiempo (July 2026), the Monumento a la Resistencia — an artisanal structure erected during Colombia's 2021 social unrest in Cali's Puerto Rellena (Puerto Resistencia) sector — is sharply contested. Supporters seek to preserve it as cultural heritage and have pressed the city to formalize its protection; opponents, including local councilman Andrés Escobar and president-elect Abelardo de la Espriella, view it as representing \"insurgency and vandalism.\" De la Espriella has said he would \"order it torn down\" on his 7 August 2026 inauguration day, calling it a work erected by \"the city's frontline terrorists,\" while a middle-ground position proposes relocating it, citing interference with planned transit infrastructure. On 17 July 2026 a fabricated, AI-manipulated photograph showing the monument demolished circulated on social media; residents debunked it with photos and video confirming the structure stood, reigniting tensions ahead of the presidential transition. Defenders warned that forced demolition could trigger new and serious confrontations.",
-   "outcome": "The monument stands; its fate is tied to the 7 August 2026 presidential transition, with the incoming president having vowed demolition and defenders vowing resistance. [FOLLOW-UP PENDING: whether the monument is demolished, relocated, or protected after the 7 August 2026 inauguration.]",
+   "outcome": "The monument stands. De la Espriella's 7 August 2026 inauguration-day demolition threat did not result in demolition; a defense mobilization gathered at Puerto Rellena and Cali's city government said there were no current demolition orders. The monument's fate now turns on a license-nullification appeal before the Administrative Court of Valle del Cauca (see ACI-280-A). [FOLLOW-UP PENDING: the Administrative Court's ruling on the construction license, and any renewed demolition or relocation move.]",
    "tags": "Removal, Community objection, Protest art, Political art, AI",
    "court_case": "No",
    "coverage_tier": "National",
@@ -17554,11 +17554,48 @@
     6,
     9
    ],
-   "notes": "New parent. Contested community-built protest monument from Colombia's 2021 estallido social; tagged Removal / Community objection (a contested political structure, not recognized heritage, so outside the cultural-property-destruction umbrella per CLAUDE.md §4). The AI tag marks the news hook: an AI-fabricated image of the monument's collapse. Watch the 7 Aug 2026 inauguration of president-elect Abelardo de la Espriella, who has vowed demolition. Cf. Cali memory-mural cases ACI-137-A, ACI-195. Single national source (El Tiempo) at logging; enrich on the Monday Latin America trawl.",
+   "notes": "New parent. Contested community-built protest monument from Colombia's 2021 estallido social; tagged Removal / Community objection (a contested political structure, not recognized heritage, so outside the cultural-property-destruction umbrella per CLAUDE.md §4). The AI tag marks the news hook: an AI-fabricated image of the monument's collapse. Watch the 7 Aug 2026 inauguration of president-elect Abelardo de la Espriella, who has vowed demolition. Cf. Cali memory-mural cases ACI-137-A, ACI-195. Single national source (El Tiempo) at logging; enrich on the Monday Latin America trawl. Update (2026-08-09): the 7 Aug 2026 inauguration passed without demolition; development logged as sub-entry ACI-280-A.",
    "interested_parties": "Abelardo de la Espriella (president-elect); Andrés Escobar (Cali councilman); Gustavo Petro (president); Cali city government; Primera Línea / defenders of the monument",
    "coverage_geography": "Colombia",
    "follow_up_pending": true,
    "additional_sources": []
+  },
+  {
+   "id": "ACI-280-A",
+   "entry_id": "280-A",
+   "seq": 603,
+   "title": "Cali's Monumento a la Resistencia: no demolition on inauguration day; Procuraduría moves to annul its license",
+   "artist": "N/A (community-built structure, 2021 protests)",
+   "institution": "N/A (Puerto Rellena / Puerto Resistencia, Cali)",
+   "country": "Colombia",
+   "governance_type": "Democracy",
+   "date_controversy": "Procuraduría license-annulment concept 5 August 2026; inauguration-day defense mobilization 7 August 2026",
+   "date_discovered": "2026-08-09",
+   "sort_date": "2026-08-07",
+   "description": "According to Infobae, the dispute over Cali's Monumento a la Resistencia — the large hand-shaped structure raised at Puerto Rellena (Puerto Resistencia) during Colombia's 2021 social unrest — came to a head around the 7 August 2026 presidential inauguration of Abelardo de la Espriella, who had said he would order the monument torn down on inauguration day and has characterized it as an “ode to terrorism” built by “the terrorist first line of the city.” On 5 August 2026 the Procuraduría (Public Ministry) issued a non-binding concept asking the Administrative Court of Valle del Cauca to overturn a first-instance ruling that had denied nullification of the monument's construction license (Resolution No. 9183 of 2021); Cali councilman Andrés Escobar, a longtime opponent, said “La Procuraduría nos dio la razón. La mano instalada en Puerto Rellena es ilegal,” citing alleged irregularities including a license issued after construction, an overlap with a planned MIO transit station, and a lack of consultation with Metro Cali. The Procuraduría's request is for annulment of the license, not for demolition, and the second-instance decision rests with the Administrative Court of Valle. No demolition took place on 7 August: instead, social, popular, student and Indigenous (minga) organizations, together with Pacto Histórico figures, concentrated at Puerto Rellena in defense of the monument during the inauguration, in a gathering described as festive. Pacto Histórico senator Kevin Gómez Paz said “Nos erigimos desde la calle y el Congreso como un muro de contención democrático,” and opposition legislators characterized the demolition push as authoritarian. Cali's city government reiterated that there were no current demolition orders. El Tiempo, reporting the Procuraduría's concept on 5 August, framed it as a non-binding technical opinion within the appeal rather than an enforceable demolition order, with the Administrative Court of Valle to decide; Escobar told the paper the challenge sought to have judicial authorities review the district administration's licensing, not to question the monument's symbolic meaning. El País (Cali) reported that the 7 August gathering — which drew Valle del Cauca labor unions, community organizations, an Indigenous minga, and Pacto Histórico figures including Representative Alfredo Mondragón and former vice-presidential candidate Aída Quilcué — stayed peaceful, with cultural and musical performances; Mondragón characterized the demolition rumors as provocations and urged calm.",
+   "outcome": "The monument was not demolished on inauguration day and still stands; a large defense mobilization gathered at Puerto Rellena. Its fate now turns on a license-nullification appeal before the Administrative Court of Valle del Cauca, where the Procuraduría has filed a non-binding concept seeking annulment of the construction license. [FOLLOW-UP PENDING: the Administrative Court of Valle's second-instance ruling on the construction license, and any renewed demolition or relocation move by the new administration.]",
+   "tags": "Removal, Community objection, Protest art, Political art, Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Infobae",
+    "El Tiempo",
+    "El País (Cali)"
+   ],
+   "source": "https://www.infobae.com/colombia/2026/08/07/en-vivo-protestas-en-cali-por-posesion-de-de-la-espriella-tendran-como-punto-central-puerto-rellena/",
+   "additional_sources": [
+    "https://www.infobae.com/colombia/2026/08/05/andres-escobar-asegura-que-la-procuraduria-le-dio-la-razon-y-pidio-anular-la-licencia-del-monumento-a-la-resistencia/",
+    "https://www.eltiempo.com/colombia/cali/tension-en-cali-concejal-aseguro-que-procuraduria-cuestiona-el-monumento-a-la-resistencia-previo-a-movilizaciones-el-7-de-agosto-3576529",
+    "https://www.elpais.com.co/cali/monumento-a-la-resistencia-en-cali-asi-esta-el-ambiente-previo-a-la-concentracion-en-puerto-rellena-0709.html"
+   ],
+   "themes": [
+    6,
+    9
+   ],
+   "notes": "Sub-entry of ACI-280, resolving the 7 August 2026 transition the parent flagged for watch: the inauguration-day demolition threat did not produce a demolition; the contest has moved into a license-nullification appeal before the Administrative Court of Valle del Cauca (the Procuraduría's 5 Aug 2026 concept is non-binding). Describe-don't-judge: de la Espriella's “ode to terrorism” framing and Escobar's illegality claim are attributed to them; the defenders' framing is attributed to Pacto Histórico figures. Governance: Colombia is a democracy, logged plain to match the parent, though the incoming de la Espriella administration is a trajectory-to-watch (far-right, monument-demolition posture) per CLAUDE.md §2/§14. Sources: two Infobae reports (5 and 7 Aug) plus El Tiempo (5 Aug) and El País Cali (7 Aug), all full text; El Tiempo/El País added on enrichment (2026-08-09). Cf. Cali/Colombia memory cases ACI-137-A, ACI-195, ACI-200.",
+   "interested_parties": "Abelardo de la Espriella (president, inaugurated 7 Aug 2026); Andrés Escobar (Cali councilman, opponent); Procuraduría General de la Nación; Administrative Court of Valle del Cauca; Metro Cali; Pacto Histórico (Sen. Kevin Gómez Paz; Rep. Alfredo Mondragón; Rep. Mafe Carrascal); Aída Quilcué; Iván Cepeda (convened the 7 Aug plantón); Cali city government; monument defenders",
+   "coverage_geography": "Colombia",
+   "follow_up_pending": true
   },
   {
    "id": "ACI-281",
