@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 569
+  "total_cases": 571
  },
  "cases": [
   {
@@ -18394,6 +18394,71 @@
    "notes": "New parent. Conservation-vs-architecture dispute; the director overrode a conservation fix. ARTnews read via search snippet (snippet grade) and TollBit-blocked to direct fetch; The New York Times (Robin Pogrebin, 4 Aug 2026) added as corroboration on review, confirmed via the NYT API (metadata grade). No direct quotations used; figures follow the reporting.",
    "interested_parties": "New-York Historical; Louise Mirrer (director); Robert A.M. Stern (architect)",
    "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-307",
+   "entry_id": "307",
+   "seq": 598,
+   "title": "India presses British Museum for Bhojshala's Vagdevi idol at BRICS culture meeting",
+   "artist": "N/A",
+   "institution": "British Museum; India Ministry of Culture / Archaeological Survey of India; Bhojshala (Kamal Maula Mosque complex), Dhar, Madhya Pradesh",
+   "country": "United Kingdom / India",
+   "governance_type": "Democracy",
+   "date_controversy": "Renewed claim raised at BRICS Culture Ministers' meeting, Bhopal, 5–8 August 2026; Madhya Pradesh High Court direction, May 2026",
+   "date_discovered": "2026-08-08",
+   "sort_date": "2026-08-07",
+   "description": "India renewed its call for the return of an 11th-century sculpture that New Delhi identifies as the Vagdevi (Saraswati) idol of Bhojshala, held by the British Museum in London, during the BRICS Culture Ministers' meeting held in Bhopal from August 5 to 8, 2026. According to The Free Press Journal, Union Culture Secretary Vivek Aggarwal said the government had been pursuing the idol's repatriation since about a year before a May 2026 Madhya Pradesh High Court judgment on the Bhojshala–Kamal Maula Mosque complex, which declared the site religiously a temple to Vagdevi and asked the Union government to consider representations seeking the idol's return; Aggarwal said the government had written to the museum and was making constant efforts to bring the idol back, and noted that India had repatriated around 650 antiquities since 2014. The marble sculpture, roughly 1.285 metres tall and about 250 kg, was discovered in Dhar in 1875 and formally acquired by the British Museum in 1909; the museum catalogues it as an image of Ambika from the Jain tradition, a characterisation that differs from India's identification of the work as the Hindu goddess Vagdevi and that complicates the repatriation claim.",
+   "outcome": "Diplomatic repatriation request pending; the British Museum has not agreed to return the sculpture, which it catalogues as a Jain image of Ambika rather than the Vagdevi/Saraswati idol claimed by India. [FOLLOW-UP PENDING: British Museum response, any formal return decision, and developments in the Bhojshala litigation.]",
+   "tags": "Repatriation, Religious site, Legal challenge",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Free Press Journal"
+   ],
+   "source": "https://www.freepressjournal.in/india/india-renews-push-to-bring-back-bhojshalas-vagdevi-idol-from-uk-at-brics-culture-ministers-meet",
+   "additional_sources": [],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "Restitution & Repatriation cluster (cross-ref ACI-059 Koh-i-Noor, ACI-089 Wellcome Collection Jain manuscripts, ACI-015 colonial repatriation). Universal-museum axis (Theme 5): the British Museum, an encyclopedic museum, is a party to the dispute, as in the Benin Bronzes precedent. Distinctive feature: a live identity disagreement — India names the work the Hindu goddess Vagdevi/Saraswati while the British Museum catalogues it as the Jain figure Ambika — so the object's very identity is entangled with the return claim and with the separately contested Hindu/Muslim status of the Bhojshala site. Governance note: India classified Democracy; the Bhojshala dispute sits within a wider Hindu-nationalist heritage-reclamation current worth tracking. Source note: drafted from The Free Press Journal (full text). The renewed push was also carried by RSS-affiliated outlet Panchjanya, not cited here; corroboration sought from mainstream coverage. [FOLLOW-UP PENDING] British Museum response / return decision.",
+   "interested_parties": "India Ministry of Culture (Culture Secretary Vivek Aggarwal); Archaeological Survey of India; British Museum; Hindu petitioners in the Bhojshala case; Madhya Pradesh High Court",
+   "coverage_geography": "India, UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-308",
+   "entry_id": "308",
+   "seq": 599,
+   "title": "National Gallery's £250,000 citizens' assembly draws criticism from an MP and the press",
+   "artist": "N/A",
+   "institution": "National Gallery, London",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "NG Citizens assembly convened over 2025–26; criticism reported late July–August 2026",
+   "date_discovered": "2026-08-08",
+   "sort_date": "2026-08-06",
+   "description": "The National Gallery in London drew criticism over NG Citizens, a citizens' assembly it convened to help shape the institution's future direction. The assembly brought together 50 members of the public aged 16 and over, selected by civic lottery to reflect the diversity of the UK, including people who had never engaged with the gallery; the group met five times over the past year, and the gallery has budgeted around £250,000 for the programme across five years, from 2025 to 2029. Conservative MP Charlie Dewhirst questioned the approach, arguing that those making decisions on behalf of the gallery's audiences should be leading experts on art, and press coverage criticised the initiative, with Artnet News noting that more than 60 percent of the selected participants had never previously visited the gallery. Arts-sector figures defended the assembly, saying it was premature to judge its value before its recommendations were published.",
+   "outcome": "Assembly's recommendations pending publication; criticism ongoing. [FOLLOW-UP PENDING: publication of the assembly's recommendations and the gallery's response.]",
+   "tags": "Funding dispute",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews",
+    "Artnet News"
+   ],
+   "source": "https://www.artnews.com/artnews/news/national-gallery-citizens-assembly-criticism-uk-1234794521/",
+   "additional_sources": [
+    "https://news.artnet.com/art-world/london-national-gallery-citizens-assembly-2794057"
+   ],
+   "themes": [
+    1,
+    4
+   ],
+   "notes": "Borderline inclusion (flagged for editorial review): an institutional-governance decision drawing organised criticism rather than a discrete censorship/removal event. Thematically about who decides an art institution's direction — art-expert authority versus public deliberation — hence Theme 1 (Defining Art / who decides) and Theme 4 (Institutional Risk); a case could also be made for Theme 2 (Public Funding) given the £250k public spend. Thin, single-source entry: drafted from ARTnews coverage retrieved as a search-result snippet this run (ARTnews homepage was bot-walled); the underlying reporting also appeared via Artnet, Ocula and the Telegraph, which were not directly retrievable this run. Flag for enrichment on a UK/Europe trawl day. [FOLLOW-UP PENDING] recommendations publication. On review: replaced a Telegraph reference (paywalled, not readable to fact-/neutrality-check) with Artnet News, which carries the same 60%/criticism detail; Artnet is blocked to automated fetch but maintainer-verified.",
+   "interested_parties": "National Gallery, London; Conservative MP Charlie Dewhirst; The Daily Telegraph; UK arts-sector commentators",
+   "coverage_geography": "UK",
    "follow_up_pending": true
   }
  ]
