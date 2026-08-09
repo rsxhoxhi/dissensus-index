@@ -93,6 +93,9 @@ DOMAIN_TO_OUTLET = {
     "thehansindia.com": "The Hans India",
     "rte.ie": "RTÉ",
     "hollywoodreporter.com": "The Hollywood Reporter",
+    "washingtonian.com": "Washingtonian",
+    "intent.press": "Intent",
+    "thecollegefix.com": "The College Fix",
 }
 
 ALIASES = {
