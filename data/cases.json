@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 575
+  "total_cases": 574
  },
  "cases": [
   {
@@ -17235,34 +17235,6 @@
    "themes": [],
    "notes": "Sub-entry of ACI-270 (Section 106 / NHPA regulatory rewrite). Resolves the parent's first flagged development — the 24-25 July member vote — which passed on 25 July 2026; the parent follow-up is narrowed to the remaining rulemaking stages. Process layer beneath ACI-038 (triumphal arch), ACI-050 (White House ballroom/East Wing), ACI-046 (Reflecting Pool), ACI-005 (Kennedy Center), ACI-075 (EEOB) and ACI-258 (national-monument reductions). WaPo direct fetch is blocked this run; reached via search result (snippet grade), NPR likewise. Enrich from full text on a personal-subscription pass. Externalised-obedience / political-interference frame: rollback of the public-participation mechanism itself.",
    "interested_parties": "Advisory Council on Historic Preservation (ACHP); National Trust for Historic Preservation; National Association of Tribal Historic Preservation Officers; National Conference of State Historic Preservation Officers; Office of Management and Budget",
-   "coverage_geography": "US",
-   "follow_up_pending": true
-  },
-  {
-   "id": "ACI-270-B",
-   "entry_id": "270-B",
-   "seq": 605,
-   "title": "Section 106 rewrite: Democrats float the PRESERVE Act to shield historic sites and public art",
-   "artist": "N/A (institutional / legislative)",
-   "institution": "US Congress; Advisory Council on Historic Preservation (ACHP); National Historic Preservation Act, Section 106",
-   "country": "United States",
-   "governance_type": "Democracy",
-   "date_controversy": "Reported 7 August 2026",
-   "date_discovered": "2026-08-10",
-   "sort_date": "2026-08-07",
-   "description": "According to Hyperallergic (7 August 2026), Democratic lawmakers and preservation groups have advanced a legislative proposal — reported as the PRESERVE Act — that would strengthen federal protection for historic sites and publicly commissioned art, framed as a response to the Trump administration's move to weaken Section 106 review of the National Historic Preservation Act (see parent ACI-270 and sub-entry ACI-270-A, the ACHP vote to advance a rewrite making mitigation and public comment discretionary). The report ties the effort to broader concern over threats to historic sites from federal projects, including border-barrier expansion. Coverage at logging is limited to a single outlet and a partial (metadata-grade) read; bill sponsors, number, and text were not confirmed this run.",
-   "outcome": "Legislation reported as introduced/proposed; no committee action, vote, or bill number confirmed at logging. [FOLLOW-UP PENDING: confirm the bill's name, sponsors and number; committee referral and any hearing; relationship to the Section 106 rulemaking timeline on ACI-270.]",
-   "tags": "Historic preservation, Political interference",
-   "court_case": "No",
-   "coverage_tier": "National",
-   "outlets": [
-    "Hyperallergic"
-   ],
-   "source": "https://hyperallergic.com/could-this-new-legislation-protect-historic-sites-from-trumps-wrath/",
-   "additional_sources": [],
-   "themes": [],
-   "notes": "Sub-entry of ACI-270 (Section 106 / NHPA rewrite); the legislative counter-move to the regulatory rollback logged in ACI-270 / ACI-270-A. THIN and SINGLE-SOURCE at logging: Hyperallergic full text was paywalled (snippet grade this run) and the bill name 'PRESERVE Act' could not be corroborated by an independent search for a bill of that name. Enrich from Congress.gov and a second outlet before treating the bill name or details as settled. Process layer beneath ACI-038 (triumphal arch) and the DC federal-cultural cluster.",
-   "interested_parties": "Congressional Democrats (sponsors unconfirmed); preservation advocacy groups; Advisory Council on Historic Preservation",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
