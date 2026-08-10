@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 573
+  "total_cases": 575
  },
  "cases": [
   {
@@ -17239,6 +17239,34 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-270-B",
+   "entry_id": "270-B",
+   "seq": 605,
+   "title": "Section 106 rewrite: Democrats float the PRESERVE Act to shield historic sites and public art",
+   "artist": "N/A (institutional / legislative)",
+   "institution": "US Congress; Advisory Council on Historic Preservation (ACHP); National Historic Preservation Act, Section 106",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 7 August 2026",
+   "date_discovered": "2026-08-10",
+   "sort_date": "2026-08-07",
+   "description": "According to Hyperallergic (7 August 2026), Democratic lawmakers and preservation groups have advanced a legislative proposal — reported as the PRESERVE Act — that would strengthen federal protection for historic sites and publicly commissioned art, framed as a response to the Trump administration's move to weaken Section 106 review of the National Historic Preservation Act (see parent ACI-270 and sub-entry ACI-270-A, the ACHP vote to advance a rewrite making mitigation and public comment discretionary). The report ties the effort to broader concern over threats to historic sites from federal projects, including border-barrier expansion. Coverage at logging is limited to a single outlet and a partial (metadata-grade) read; bill sponsors, number, and text were not confirmed this run.",
+   "outcome": "Legislation reported as introduced/proposed; no committee action, vote, or bill number confirmed at logging. [FOLLOW-UP PENDING: confirm the bill's name, sponsors and number; committee referral and any hearing; relationship to the Section 106 rulemaking timeline on ACI-270.]",
+   "tags": "Historic preservation, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/could-this-new-legislation-protect-historic-sites-from-trumps-wrath/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Sub-entry of ACI-270 (Section 106 / NHPA rewrite); the legislative counter-move to the regulatory rollback logged in ACI-270 / ACI-270-A. THIN and SINGLE-SOURCE at logging: Hyperallergic full text was paywalled (snippet grade this run) and the bill name 'PRESERVE Act' could not be corroborated by an independent search for a bill of that name. Enrich from Congress.gov and a second outlet before treating the bill name or details as settled. Process layer beneath ACI-038 (triumphal arch) and the DC federal-cultural cluster.",
+   "interested_parties": "Congressional Democrats (sponsors unconfirmed); preservation advocacy groups; Advisory Council on Historic Preservation",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-271",
    "entry_id": "271",
    "seq": 555,
@@ -18530,6 +18558,34 @@
    "notes": "Backfill parent, drafted on maintainer review (2026-08-08). This story surfaced as a 'considered, not logged' flag in three separate unattended scans (PRs #45 18 July, #61 24 July, #73 30 July), each treating the Hyperallergic piece as a market/trend feature; logged now because the discrete controversy is the Forensic Archive of Iran's provenance petition with specific demands directed at a named party (Barron London), which clears the §7 inclusion bar. Describe-don't-judge: the 'likely looted' characterisation is attributed to critics/archaeologists and the Ziwiyeh looting history to research; Barron London's rebuttal (privately held, not for sale, responsibly stewarded per documented provenance) is given in full. Restitution/Art-and-Capital cluster (themes 12 and 10 - looted antiquities repurposed as luxury jewellery). Sources: Hyperallergic and Euronews (both full text). Tags/themes/governance (UK locus) flagged for review.",
    "interested_parties": "Zendaya (wore the earrings); Glenn Spiro (jeweller); Barron London (Mayfair gallery, owner); Forensic Archive of Iran (petition); critic Zirrar Ali",
    "coverage_geography": "UK, Iran, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-310",
+   "entry_id": "310",
+   "seq": 604,
+   "title": "Office-tower schemes and heritage objections in London's Square Mile",
+   "artist": "N/A",
+   "institution": "City of London Corporation; Barbican Centre (Grade II-listed); Liverpool Street Station (Grade II-listed)",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "1 Silk Street permission granted May 2026; Liverpool Street Station plan under review; coverage 10 August 2026",
+   "date_discovered": "2026-08-10",
+   "sort_date": "2026-08-10",
+   "description": "According to The Art Newspaper (10 August 2026), development pressure in the City of London — the 'Square Mile,' which contains roughly 600 listed buildings and 27 conservation areas — has produced a series of contests between office developers and heritage campaigners. At 1 Silk Street, Lipton Rogers Developments and LaSalle Investment Management won planning permission from the City of London Corporation in May 2026 for two towers of 16 and 20 storeys with a plaza and retail space; heritage campaigners object that the scheme's bulk harms the setting of the Grade II-listed Barbican Centre and the Brewery conservation area, while developers say it would supply a significant share of the office space the City targets by 2040. Separately, Network Rail's proposal for a roughly 97-metre tower complex over Liverpool Street Station — to expand capacity for projected passenger growth — draws opposition from campaign groups over the demolition of parts of the Grade II-listed station and the Bishopsgate conservation area. The report frames these as flashpoints in a broader tension between commercial redevelopment and heritage protection in the historic core.",
+   "outcome": "1 Silk Street holds planning permission (May 2026) and faces continuing heritage opposition; the Liverpool Street Station redevelopment is under review. No demolition or construction resolved as of 10 August 2026. [FOLLOW-UP PENDING: planning decisions, any call-in or public inquiry, and appeals on the Liverpool Street scheme and challenges to 1 Silk Street.]",
+   "tags": "Historic preservation, Design controversy, Landmark dispute, Community objection, Demolition",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/10/office-block-developers-fight-with-heritage-campaigners-over-londons-historic-square-mile",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Umbrella entry for the City of London heritage-vs-development cluster; two named flashpoints as of logging (1 Silk Street, near the Barbican; Liverpool Street Station, Bishopsgate). Single-source (The Art Newspaper) at logging; enrich on a UK trawl with planning-authority records and local coverage. Sub-entries can split out either site if a flashpoint escalates to a call-in or inquiry.",
+   "interested_parties": "Lipton Rogers Developments; LaSalle Investment Management; Network Rail; City of London Corporation; heritage campaigners (James Hughes cited by The Art Newspaper)",
+   "coverage_geography": "UK",
    "follow_up_pending": true
   }
  ]
