@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 574
+  "total_cases": 577
  },
  "cases": [
   {
@@ -15307,6 +15307,73 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-046-N",
+   "entry_id": "046-N",
+   "seq": 606,
+   "title": "Reflecting Pool: Trump concedes contractor error, stepping back from weeks of vandalism claims",
+   "artist": "N/A",
+   "institution": "Lincoln Memorial Reflecting Pool; National Park Service; US Department of the Interior",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 10 August 2026",
+   "date_discovered": "2026-08-10",
+   "sort_date": "2026-08-10",
+   "description": "According to The New York Times (10 August 2026), President Trump acknowledged that there was some contractor error in the Lincoln Memorial Reflecting Pool renovation, after insisting for weeks that the pool's algae-stained water and peeling lining were the fault of vandals rather than of the project itself (the vandalism allegation and arrests logged at ACI-046-H). The concession marks a retreat from the administration's earlier framing of the renovation's visible failure. Logged from NYT API metadata this run; full text not retrievable (NYT body blocked).",
+   "outcome": "Trump conceded some contractor error at the Reflecting Pool, partially walking back the earlier vandalism attribution. [FOLLOW-UP PENDING: the Interior Department / inspector-general review of the renovation, any accountability for the contractor, and whether the vandalism arrests (ACI-046-H) proceed.]",
+   "tags": "Conservation, Political interference, Design controversy",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/08/10/us/politics/trump-reflecting-pool-renovation-vandalism.html",
+   "additional_sources": [],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-046 (Lincoln Memorial Reflecting Pool renovation); directly updates the vandalism-attribution thread on ACI-046-H by recording Trump's concession of contractor error. Pairs with ACI-046-O (Interior IG nomination). THIN/metadata-grade (NYT body blocked); enrich on a personal-subscription pass.",
+   "interested_parties": "President Trump; National Park Service; US Department of the Interior; renovation contractor",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-046-O",
+   "entry_id": "046-O",
+   "seq": 607,
+   "title": "Reflecting Pool: Trump nominates Project 2025 author Dennis Kirk as Interior watchdog reviewing the renovation",
+   "artist": "N/A",
+   "institution": "US Department of the Interior, Office of Inspector General; Lincoln Memorial Reflecting Pool",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 10 August 2026",
+   "date_discovered": "2026-08-10",
+   "sort_date": "2026-08-10",
+   "description": "According to The Washington Post (10 August 2026), with corroborating coverage from The Hill, President Trump nominated Dennis Kirk — an author associated with Project 2025 — to lead the Department of the Interior's Office of Inspector General, the watchdog that has been asked to review the troubled Lincoln Memorial Reflecting Pool renovation (ACI-046). Reporting frames the nomination as raising concerns about the independence of that review, placing a Trump ally atop the office that would oversee scrutiny of the administration's own project. WaPo direct fetch was blocked this run (reached via search result, snippet grade); The Hill likewise.",
+   "outcome": "Nomination announced; Senate confirmation pending and the IG review of the Reflecting Pool not yet reported as complete. [FOLLOW-UP PENDING: confirmation proceedings, the scope and findings of the Interior IG review, and objections to the nominee's independence.]",
+   "tags": "Political interference, Institutional crisis, Conservation",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Washington Post",
+    "The Hill"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/08/10/trump-nominates-loyalist-office-that-would-oversee-reflecting-pool-review/",
+   "additional_sources": [
+    "https://thehill.com/policy/energy-environment/6017264-project-2025-interior-department-watchdog-oig/"
+   ],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-046 (Reflecting Pool renovation); the oversight/personnel thread — a loyalist nomination to the Interior IG that would review the renovation. Pairs with ACI-046-N (contractor-error concession). Governance-friction / political-interference frame: capture of the review mechanism. THIN at logging (WaPo + The Hill via search snippet); enrich from full text.",
+   "interested_parties": "President Trump; Dennis Kirk (nominee); Department of the Interior Office of Inspector General; US Senate",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-038-L",
    "entry_id": "038-L",
    "seq": 465,
@@ -18558,6 +18625,37 @@
    "notes": "Umbrella entry for the City of London heritage-vs-development cluster; two named flashpoints as of logging (1 Silk Street, near the Barbican; Liverpool Street Station, Bishopsgate). Single-source (The Art Newspaper) at logging; enrich on a UK trawl with planning-authority records and local coverage. Sub-entries can split out either site if a flashpoint escalates to a call-in or inquiry.",
    "interested_parties": "Lipton Rogers Developments; LaSalle Investment Management; Network Rail; City of London Corporation; heritage campaigners (James Hughes cited by The Art Newspaper)",
    "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-311",
+   "entry_id": "311",
+   "seq": 605,
+   "title": "National Gallery of Art accused of moving a race-in-art symposium to avoid Trump-era blowback",
+   "artist": "N/A",
+   "institution": "National Gallery of Art (Washington, DC)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 10 August 2026",
+   "date_discovered": "2026-08-10",
+   "sort_date": "2026-08-10",
+   "description": "According to The New York Times (10 August 2026), a former executive of the National Gallery of Art in Washington says the museum moved a scholarly symposium about race in art to avoid political blowback under the Trump administration — an account the report presents as a form of pre-emptive institutional self-censorship undertaken to head off anticipated consequences rather than in response to a direct order. The claim adds to a run of pressure on federally connected Washington cultural institutions over diversity and race-related programming; the National Gallery had earlier closed its office of belonging and inclusion following a Trump executive order. Details beyond the abstract were not retrievable this run (NYT body paywalled/blocked; logged from the API metadata).",
+   "outcome": "Allegation reported via a former executive; the National Gallery's response and the symposium's specifics are not established at logging. [FOLLOW-UP PENDING: the museum's response, identification of the symposium and what changed, and any further reporting or documentation.]",
+   "tags": "Censorship, Institutional crisis, Political interference, Racial/ethnic sensitivity",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/08/10/arts/design/national-gallery-art-doge-trump-censorship.html",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Anticipatory-obedience frame (§14): institution reported to have moved first, absent a direct order, to avoid anticipated political consequences. Do NOT apply the retired 'Soft censorship architecture' tag; the 'soft censorship' phrasing in the coverage is the source's characterization, paraphrased here rather than quoted because retrieval this run was metadata-grade, and never adopted as the Index's voice. Part of the DC federal-cultural-pressure cluster (cf. Smithsonian ACI-012 cluster, NEH/NEA ACI-077/034). THIN/metadata-grade at logging (NYT body blocked); enrich from full text on a personal-subscription pass and seek a second outlet.",
+   "interested_parties": "National Gallery of Art; unnamed former Gallery executive (per NYT); Trump administration",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
