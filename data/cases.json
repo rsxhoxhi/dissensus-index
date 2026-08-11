@@ -15310,31 +15310,34 @@
    "id": "ACI-046-N",
    "entry_id": "046-N",
    "seq": 606,
-   "title": "Reflecting Pool: Trump concedes contractor error, stepping back from weeks of vandalism claims",
+   "title": "Reflecting Pool: Trump concedes contractor error and no proof of vandalism, yet again accuses David Hearn",
    "artist": "N/A",
-   "institution": "Lincoln Memorial Reflecting Pool; National Park Service; US Department of the Interior",
+   "institution": "Lincoln Memorial Reflecting Pool; National Park Service; US Department of the Interior; US Attorney's Office (DC)",
    "country": "United States",
    "governance_type": "Democracy",
    "date_controversy": "Reported 10 August 2026",
    "date_discovered": "2026-08-10",
    "sort_date": "2026-08-10",
-   "description": "According to The New York Times (10 August 2026), President Trump acknowledged that there was some contractor error in the Lincoln Memorial Reflecting Pool renovation, after insisting for weeks that the pool's algae-stained water and peeling lining were the fault of vandals rather than of the project itself (the vandalism allegation and arrests logged at ACI-046-H). The concession marks a retreat from the administration's earlier framing of the renovation's visible failure. Logged from NYT API metadata this run; full text not retrievable (NYT body blocked).",
-   "outcome": "Trump conceded some contractor error at the Reflecting Pool, partially walking back the earlier vandalism attribution. [FOLLOW-UP PENDING: the Interior Department / inspector-general review of the renovation, any accountability for the contractor, and whether the vandalism arrests (ACI-046-H) proceed.]",
-   "tags": "Conservation, Political interference, Design controversy",
+   "description": "According to ABC News (10 August 2026), President Trump acknowledged that there is \"no video or proof\" of the alleged vandalism to the Lincoln Memorial Reflecting Pool \"other than the damage, itself,\" and conceded there was \"some contractor error done by rushing the job for a July 4th opening.\" He did not, however, withdraw the vandalism allegation. In the same remarks he again accused former Olympic canoeist David Hearn (indicted 2 July 2026; see ACI-046-I) of intentional vandalism, even though federal prosecutors had moved to dismiss the charge against Hearn after evidence indicated the damaged section was already in disrepair before his arrival; an associate judge granted a partial dismissal while deferring whether it would be with or without prejudice. The Hill similarly reports Trump blaming contractor error while continuing to press the vandalism claim.",
+   "outcome": "Trump admitted contractor error and conceded a lack of proof of vandalism, but did not retract the vandalism allegation and again accused David Hearn, whose felony charge prosecutors had already moved to dismiss (partial dismissal granted; with- or without-prejudice undecided). [FOLLOW-UP PENDING: final disposition of the Hearn case; the Interior IG review (ACI-046-O); any accountability for the contractor.]",
+   "tags": "Conservation, Political interference, Legal challenge, Design controversy",
    "court_case": "No",
    "coverage_tier": "National",
    "outlets": [
-    "New York Times"
+    "ABC News",
+    "The Hill"
    ],
-   "source": "https://www.nytimes.com/2026/08/10/us/politics/trump-reflecting-pool-renovation-vandalism.html",
-   "additional_sources": [],
+   "source": "https://abcnews.com/Politics/trump-acknowledges-video-proof-alleged-vandalism-reflecting-pool/story?id=135510561",
+   "additional_sources": [
+    "https://thehill.com/homenews/administration/6019582-contractor-error-reflecting-pool-renovations/"
+   ],
    "themes": [
     1,
     2,
     9
    ],
-   "notes": "Sub-entry of ACI-046 (Lincoln Memorial Reflecting Pool renovation); directly updates the vandalism-attribution thread on ACI-046-H by recording Trump's concession of contractor error. Pairs with ACI-046-O (Interior IG nomination). THIN/metadata-grade (NYT body blocked); enrich on a personal-subscription pass.",
-   "interested_parties": "President Trump; National Park Service; US Department of the Interior; renovation contractor",
+   "notes": "Sub-entry of ACI-046 (Reflecting Pool renovation); updates the vandalism-attribution thread (ACI-046-H, ACI-046-I). Corrected 10 Aug 2026 after maintainer flag: Trump conceded contractor error and no proof of vandalism but did NOT abandon the vandalism claim, continuing to accuse David Hearn. Pairs with ACI-046-O (Interior IG nomination). NOTE/GAP: the late-July charge dismissal itself (prosecutors' motion citing a botched installation; three other defendants' charges dropped ~3 Aug per NPR) is not yet its own sub-entry between ACI-046-M and here - candidate for a dedicated dismissal entry. ABC News read at full text this run; The Hill via search snippet (direct fetch 403); NYT metadata.",
+   "interested_parties": "President Trump; David Hearn (former Olympic canoeist, indicted then charge partially dismissed); US Attorney's Office (DC); National Park Service; US Department of the Interior; renovation contractor",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
