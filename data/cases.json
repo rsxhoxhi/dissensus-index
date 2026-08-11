@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 578
+  "total_cases": 583
  },
  "cases": [
   {
@@ -9530,6 +9530,36 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-069-E",
+   "entry_id": "069-E",
+   "seq": 613,
+   "title": "America250/Freedom250: National Gallery boards up works over Freedom 250 IndyCar race on the Mall",
+   "artist": "N/A",
+   "institution": "National Gallery of Art (Washington, DC)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 10 August 2026 (race staged later in August 2026)",
+   "date_discovered": "2026-08-11",
+   "sort_date": "2026-08-11",
+   "description": "According to Hyperallergic (10 August 2026), the National Gallery of Art boarded up I.M. Pei's skylights at its East Building and an outdoor Alexander Calder sculpture, and repositioned some artworks to face away from the side of the building nearest the racetrack, ahead of the \"Freedom 250\" Grand Prix — an IndyCar race staged in Washington, DC later in August 2026 as part of President Trump's 250th-anniversary celebrations. The 1.7-mile circuit runs near several Smithsonian institutions and the National Archives. An NGA spokesperson said the measures were taken \"out of a great abundance of caution\" after studying potential vibration impacts on the collection, and were meant \"to ensure the safety of our staff, visitors, collection, and facilities during the race\"; the museum declined to disclose its study findings. A White House spokesperson said coordination occurred \"to ensure this is also the safest and most secure race.\" No formal objection from the museum or preservation groups was reported at logging.",
+   "outcome": "Protective measures in place ahead of the race; no formal dispute reported at logging. [FOLLOW-UP PENDING: whether the race causes damage or draws objections from the museum, the Smithsonian, or preservation groups.]",
+   "tags": "Historic preservation, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/national-gallery-of-art-protects-works-ahead-of-trumps-indycar-race/",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "Sub-entry of ACI-069 (America250 vs. Freedom250). Documents Freedom250 programming's concrete impact on a federal museum: the NGA's protective measures for I.M. Pei's East Building skylights and a Calder sculpture ahead of the Freedom 250 IndyCar race. Themes narrowed from parent's [2,5]; the universal-museum theme (5) is not applicable to this sub-thread. WATCH — no formal dispute or objection reported at logging; logged as a Freedom250-cluster development. Cf. ACI-050 (White House ballroom) and the DC federal-cultural cluster.",
+   "interested_parties": "National Gallery of Art; White House / Trump administration; Freedom250 organizers; nearby Smithsonian institutions and the National Archives",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-056-D",
    "entry_id": "056-D",
    "seq": 148,
@@ -18693,6 +18723,134 @@
    "notes": "Anticipatory-obedience frame (§14): institution reported to have moved first, absent a direct order, to avoid anticipated political consequences. Do NOT apply the retired 'Soft censorship architecture' tag; the 'soft censorship' phrasing in the coverage is the source's characterization, paraphrased here rather than quoted because retrieval this run was metadata-grade, and never adopted as the Index's voice. Part of the DC federal-cultural-pressure cluster (cf. Smithsonian ACI-012 cluster, NEH/NEA ACI-077/034). THIN/metadata-grade at logging (NYT body blocked); enrich from full text on a personal-subscription pass and seek a second outlet.",
    "interested_parties": "National Gallery of Art; unnamed former Gallery executive (per NYT); Trump administration",
    "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-312",
+   "entry_id": "312",
+   "seq": 609,
+   "title": "Banksy's Royal Courts of Justice mural cost £85,300 to remove; BBC tallies nearly £150,000 across three works",
+   "artist": "Banksy",
+   "institution": "HM Courts and Tribunals Service (Royal Courts of Justice, London)",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Mural appeared September 2025; removal cost disclosed 10 August 2026",
+   "date_discovered": "2026-08-11",
+   "sort_date": "2026-08-11",
+   "description": "A Banksy mural depicting a judge in wig and robes striking a prone demonstrator with a gavel, blood splattering a placard, appeared on the Grade II-listed Royal Courts of Justice on Carey Street, London, in September 2025 and was removed within days. On 10 August 2026, figures obtained by the BBC under Freedom of Information requests showed HM Courts and Tribunals Service spent £85,300 on the mural — about £50,000 to remove the paint with chemicals and £35,300 on security and overtime — with HMCTS stating that the Royal Courts of Justice is a listed building and it is obliged to maintain \"its original character.\" The BBC tally put total UK public spending on three Banksy works at nearly £150,000: the Royal Courts mural, roughly £60,000 by Westminster City Council on barriers, administration and a security guard for the April 2026 Waterloo Place statue (see ACI-062), and £2,200 to remove a piranha design from a City of London Police sentry box in August 2024. The Metropolitan Police investigated the Royal Courts mural but had made no arrests as of 10 August 2026. Coverage framed the disclosure as reviving debate over whether Banksy's unsanctioned works are vandalism or valuable public art.",
+   "outcome": "Mural removed (September 2025); public cost disclosed August 2026 via BBC FOI requests. Metropolitan Police investigation open with no arrests as of 10 August 2026. [FOLLOW-UP PENDING: outcome of the Metropolitan Police investigation and any Westminster decision on the Waterloo Place statue's permanence.]",
+   "tags": "Removal, Political art, Funding dispute",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper",
+    "The Irish News"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/10/uk-ministry-of-justice-spent-more-than-£85000-removing-banksy-mural-from-the-royal-courts-of-justice",
+   "additional_sources": [
+    "https://www.irishnews.com/news/uk/banksy-artworks-have-cost-public-almost-150000-in-clean-up-and-security-costs-XRQJIUI6W5N3ZIH5RSAEHFQA54/"
+   ],
+   "themes": [
+    7,
+    2
+   ],
+   "notes": "New parent for the Royal Courts of Justice Banksy mural, previously referenced only in ACI-062-A's notes as a contrast case. Cross-references ACI-062 / ACI-062-A / ACI-062-B (Waterloo Place statue), whose ~£60,000 security cost is part of the BBC's ~£150,000 tally. The vandalism-vs-public-art debate is noted per coverage, not adopted as the Index's voice. BBC is credited as the FOI originator in the description but was not directly retrieved this run; corroborated via The Art Newspaper (full) and The Irish News (BBC-sourced wire).",
+   "interested_parties": "Banksy; HM Courts and Tribunals Service; Westminster City Council; City of London Police; Metropolitan Police; BBC (FOI requester)",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-313",
+   "entry_id": "313",
+   "seq": 610,
+   "title": "Djidji Ayôkwé 'talking drum' reaches its home village in Côte d'Ivoire after France's return",
+   "artist": "N/A",
+   "institution": "Musée du Quai Branly (France); Museum of Civilisations, Abidjan",
+   "country": "Côte d'Ivoire",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Looted c. 1916 by French colonial authorities; handed to Côte d'Ivoire February 2026; arrived home village Adjamé 7 August 2026",
+   "date_discovered": "2026-08-11",
+   "sort_date": "2026-08-11",
+   "description": "The Djidji Ayôkwé, a roughly ten-foot, 940-pound Atchan (Ebrié) talking drum once used to transmit messages between villages — including warnings of French colonial recruitment operations — was seized by French colonial authorities in the early 20th century (around 1916) and later held at the Musée du Quai Branly in Paris. After the French parliament passed a dedicated 2025 law authorizing its return, France formally handed the drum to the Republic of Côte d'Ivoire in a February 2026 ceremony at the Quai Branly; it reached Côte d'Ivoire in March 2026. On 7 August 2026 the drum arrived at Adjamé, the community associated with its origin, where residents saw it for the first time; it is expected to go on display at the Museum of Civilisations in Abidjan. UNESCO described the return as an emblematic example of France–Côte d'Ivoire cultural cooperation. It is the first cultural object France has returned to Côte d'Ivoire.",
+   "outcome": "Resolved: drum restituted to Côte d'Ivoire (handover February 2026), reached its origin community of Adjamé on 7 August 2026, and is to be displayed at the Museum of Civilisations, Abidjan.",
+   "tags": "Repatriation",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "UNESCO",
+    "allAfrica"
+   ],
+   "source": "https://www.unesco.org/en/articles/return-djidji-ayokwe-emblematic-example-cultural-cooperation-between-france-and-cote-divoire",
+   "additional_sources": [
+    "https://allafrica.com/view/group/main/main/id/00097709.html"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "Repatriation resolution logged as a cluster anchor (§7). Cross-references France's colonial-restitution framework law (ACI-035 cluster) — but the drum was returned under a separate dedicated 2025 law and is France's first restitution to Côte d'Ivoire, so logged as its own parent. Discovered via ARTnews outlet scan (source tollbit-blocked to automated fetch); corroborated via UNESCO and allAfrica.",
+   "interested_parties": "Republic of Côte d'Ivoire; French government; Musée du Quai Branly; Atchan (Ebrié) community of Adjamé; Museum of Civilisations, Abidjan; UNESCO",
+   "coverage_geography": "France, Côte d'Ivoire, Pan-Africa",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-314",
+   "entry_id": "314",
+   "seq": 611,
+   "title": "Galax, Virginia cancels downtown old-time-music mural after council objection and funding shortfall",
+   "artist": "N/A",
+   "institution": "City of Galax, Virginia",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Council rejection 9 July 2026; project canceled reported 22–23 July 2026",
+   "date_discovered": "2026-08-11",
+   "sort_date": "2026-08-11",
+   "description": "A proposed mural celebrating Galax's old-time-music heritage, depicting four musicians including non-white figures, was rejected by the Galax City Council on 9 July 2026. Council member Shane Coomes objected that the design did not represent the city's musical identity, saying it lacked references to the Old Fiddlers' Convention, the Rex Theater and other local landmarks and that he wanted \"people who represent the music of Galax.\" When council member Sharon Ritchie asked directly, \"Is it because there's a Black person on there?\", Coomes did not accept that framing and maintained his objection was about local representativeness. The city subsequently scrapped the project entirely, citing a cost estimate of $35,000 that exceeded its $20,000 in grant funding by $15,000. No artist was named in the coverage. (Reported by Cardinal News, 23 July 2026.)",
+   "outcome": "Project canceled. The council rejected the proposed design (9 July 2026) and the city dropped the mural, citing a funding shortfall of about $15,000 over its grant.",
+   "tags": "Community objection, Funding dispute",
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "Cardinal News"
+   ],
+   "source": "https://cardinalnews.org/2026/07/23/galax-cancels-its-mural-project-that-turned-controversial-here-are-5-things-to-know/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Tuesday US-local (Virginia) trawl find; previously unlogged and ~3 weeks old at logging (events 9–23 July 2026), not breaking. Race was raised in the council exchange (Ritchie's question) but the stated objection was local representativeness and the cancellation was attributed to cost; the Index does not attribute the dispute to race as a motive, so no Racial/ethnic sensitivity axis tag is applied. Enrich with WVTF/Pulaski coverage on a later pass.",
+   "interested_parties": "Galax City Council; council member Shane Coomes; council member Sharon Ritchie; tourism director Patti Price-Love",
+   "coverage_geography": "US (regional Virginia)",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-315",
+   "entry_id": "315",
+   "seq": 612,
+   "title": "Chris Devins's Nat King Cole mural removed in Chicago's Bronzeville, drawing community objection",
+   "artist": "Chris Devins",
+   "institution": "T.K. Lawless building (private owner), Bronzeville, Chicago",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Removal began week of 16 July 2026",
+   "date_discovered": "2026-08-11",
+   "sort_date": "2026-08-11",
+   "description": "A mural of singer Nat King Cole painted by artist Chris Devins in 2014 — the first work in his Bronzeville Legends series — on the T.K. Lawless building at 43rd Street and Martin Luther King Drive in Chicago's Bronzeville was removed during the week of 16 July 2026; about two-thirds had been taken down before Devins learned of it. Lisa Collins and her husband Ryan Wilkins, who bought the building earlier in 2026 and are converting it into a daycare and affordable office space, said the mural was being removed because of renovations and safety concerns as deteriorating bricks fell from the building. Devins said he was \"definitely shocked because it was treated so callously, without any discussion or anything,\" and reported hundreds of messages from upset neighbors. Sherry Williams of the Bronzeville Historical Society said it \"would just be common courtesy to alert us if there was a removal.\" Alderman Pat Dowell's office, which had supported the mural's 2014 creation and 2023 restoration, said it hoped any replacement would continue to celebrate Bronzeville's history. Collins said she planned to hold a contest for Bronzeville artists to propose new artwork.",
+   "outcome": "Mural largely removed by the new building owners (week of 16 July 2026). The owner met with the artist and plans a contest for replacement artwork; no replacement decided at logging. [FOLLOW-UP PENDING: what replaces the mural and whether the owner's artist contest proceeds.]",
+   "tags": "Removal, Community objection",
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "Block Club Chicago"
+   ],
+   "source": "https://blockclubchicago.org/2026/07/16/bronzeville-residents-want-answers-after-nat-king-cole-mural-removed/",
+   "additional_sources": [],
+   "themes": [
+    9
+   ],
+   "notes": "Tuesday US-local (Midwest) trawl find; previously unlogged and ~4 weeks old at logging (removal week of 16 July 2026), surfaced via Block Club Chicago. Private-owner removal of a community-valued but non-landmarked mural; the Bronzeville Historical Society and neighbors objected to the lack of notice. Distinct from unauthorized-public-art cases — the mural was locally commissioned and had prior aldermanic support.",
+   "interested_parties": "Chris Devins (artist); Lisa Collins and Ryan Wilkins (building owners); Sherry Williams (Bronzeville Historical Society); Alderman Pat Dowell",
+   "coverage_geography": "US (Chicago)",
    "follow_up_pending": true
   }
  ]
