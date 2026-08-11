@@ -70,6 +70,14 @@ Do not assign any new ID until the guard passes and this read is complete.
 
 ## Step 2A — Outlet homepage scan (MANDATORY, every run)
 
+**First, open the run's retrieval ledger** so it belongs to this scan and nothing else:
+
+```
+python scan/log_retrieval.py --new-run --outlet "<first outlet>" --url "<first url>" --method fetch --status <grade>
+```
+
+`--new-run` starts a fresh ledger and stamps it with today as the run anchor. Use it on the **first** retrieval of the scan only; every later `log_retrieval.py` call omits the flag and appends. The ledger is anchored to the date the run *started* and is never reset by the clock rolling past midnight UTC, so a scan that spans midnight keeps all its records (a genuinely separate run — more than 20h later — resets automatically). If the very first retrieval is a homepage fetch below, fold `--new-run` into that call.
+
 Directly fetch each of these four homepages and read every visible headline:
 - Hyperallergic — hyperallergic.com
 - The Art Newspaper — theartnewspaper.com
@@ -83,7 +91,7 @@ Fetch each at 8,000–10,000 tokens. List every headline with a one-word notatio
 
 `python scan/log_retrieval.py --outlet "<name>" --url "<url>" --method fetch|search_result|api --status success|truncated|snippet_only|blocked`
 
-Grades: `success` = full body read; `truncated` = partial body; `snippet_only` = metadata/abstract/search-snippet only; `blocked` = not retrieved. Ledger records are written at retrieval time only — if the gate later fails on an unlogged outlet, the fix is to re-fetch and log properly, **never to backfill the ledger from memory**: backfilling reinstates the exact self-attestation problem the ledger exists to remove.
+Grades: `success` = full body read; `truncated` = partial body; `snippet_only` = metadata/abstract/search-snippet only; `blocked` = not retrieved. Ledger records are written at retrieval time only — if the gate later fails on an unlogged outlet, the fix is to re-fetch and log properly, **never to backfill the ledger from memory**: backfilling reinstates the exact self-attestation problem the ledger exists to remove. Records only ever accumulate within a run; the ledger's `run_date` is the run's anchor and stays fixed even if the scan crosses midnight UTC.
 
 This step is NOT satisfied by ingest.py / the RSS feed. RSS is a narrow, time-windowed slice; the homepage shows what editors are featuring across several days, including stories older than the RSS window and stories the dragnet keywords would never match. Run it as its own step, every day, regardless of what ingest.py returned.
 
@@ -144,7 +152,7 @@ this project is built around:
 
 ## Step 4B — Provenance gate (MANDATORY, before the PR opens)
 
-Run `python scan/check_provenance.py`. The PR does not open until it prints OK. The gate enforces two rules against today's ledger: (1) **reach** — every outlet cited in `outlets`, `source`, or `additional_sources` must have a non-blocked retrieval record this run (metadata-grade thin entries are legitimate); (2) **depth** — any entry containing quotation marks must have at least one cited outlet with a full `success` retrieval, because quotes cannot come from metadata or truncated fetches. On FAIL: re-fetch and log the missing outlet, correct the entry to match what was actually retrieved, or remove the unverifiable material — then re-run the gate. Never edit the ledger to satisfy the gate. If the failure is `unrecognized domain`, add the domain to `DOMAIN_TO_OUTLET` in `scan/check_provenance.py` as part of the run and note it in the PR.
+Run `python scan/check_provenance.py`. The PR does not open until it prints OK. The gate enforces two rules against this run's ledger: (1) **reach** — every outlet cited in `outlets`, `source`, or `additional_sources` must have a non-blocked retrieval record this run (metadata-grade thin entries are legitimate); (2) **depth** — any entry containing quotation marks must have at least one cited outlet with a full `success` retrieval, because quotes cannot come from metadata or truncated fetches. The gate validates the entries authored this run, anchored to the ledger's `run_date`; if the scan crossed midnight UTC it prints a NOTE that `run_date` differs from today and validates against the anchor — this is normal, not a failure. On FAIL: re-fetch and log the missing outlet, correct the entry to match what was actually retrieved, or remove the unverifiable material — then re-run the gate. Never edit the ledger to satisfy the gate. If the failure is `unrecognized domain`, add the domain to `DOMAIN_TO_OUTLET` in `scan/check_provenance.py` as part of the run and note it in the PR.
 
 ## Step 5 — Write the result as a pull request
 
