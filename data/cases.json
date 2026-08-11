@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 577
+  "total_cases": 578
  },
  "cases": [
   {
@@ -15373,6 +15373,40 @@
    ],
    "notes": "Sub-entry of ACI-046 (Reflecting Pool renovation); the oversight/personnel thread — a loyalist nomination to the Interior IG that would review the renovation. Pairs with ACI-046-N (contractor-error concession). Governance-friction / political-interference frame: capture of the review mechanism. THIN at logging (WaPo + The Hill via search snippet); enrich from full text.",
    "interested_parties": "President Trump; Dennis Kirk (nominee); Department of the Interior Office of Inspector General; US Senate",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-046-P",
+   "entry_id": "046-P",
+   "seq": 608,
+   "title": "Reflecting Pool: prosecutors drop the vandalism cases against David Hearn and three others",
+   "artist": "N/A",
+   "institution": "Lincoln Memorial Reflecting Pool; US Attorney's Office (DC); US Department of the Interior; National Park Service",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Hearn dismissal motion filed 31 July 2026; three further cases dropped by 3-4 August 2026",
+   "date_discovered": "2026-08-11",
+   "sort_date": "2026-07-31",
+   "description": "According to NPR (31 July 2026, updated 1 August), the U.S. Attorney's Office for the District of Columbia moved to dismiss the felony destruction-of-property charge against David Hearn - a 67-year-old former Olympic canoeist indicted 2 July 2026 (see ACI-046-I) - citing newly released Department of the Interior evidence that the Lincoln Memorial Reflecting Pool's failure resulted from a flawed installation by the contractor, Atlantic Industrial Coatings, and the rush to finish before the July 4 events. The filing described the damage as \"the result of botched installation and not vandalism.\" NPR reported (3 August 2026) that prosecutors then dropped misdemeanor cases against three others arrested in June - Justin Carreno, Dr. Sophie Dennison-Gibby (a Washington-area veterinarian) and Cameron Thiers - each of whom had pleaded not guilty. The dismissals unwound, in the government's own filings, the vandalism theory the administration had advanced when the renovation visibly failed (see ACI-046-H), attributing the damage to the project itself rather than to sabotage.",
+   "outcome": "The U.S. Attorney's Office moved to dismiss Hearn's felony charge on 31 July 2026 and dropped three related misdemeanor cases by early August, attributing the pool's failure to the contractor rather than to vandalism. [FOLLOW-UP PENDING: whether the Hearn dismissal is entered with or without prejudice (a partial dismissal was granted by 10 Aug, see ACI-046-N); any claims by the cleared defendants; the Interior IG review (ACI-046-O).]",
+   "tags": "Legal challenge, Conservation, Political interference, Design controversy",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "NPR"
+   ],
+   "source": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
+   "additional_sources": [
+    "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped"
+   ],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-046 (Reflecting Pool renovation); fills the gap between ACI-046-M (23 July) and ACI-046-N/O (10 Aug) flagged at the merge of PR #86. Resolves, in the government's own filings, the vandalism-arrests thread opened at ACI-046-H and the Hearn indictment at ACI-046-I: the U.S. Attorney attributed the damage to contractor Atlantic Industrial Coatings' botched installation, not vandalism. Note the later rhetorical reversal at ACI-046-N, where on 10 Aug Trump again accused Hearn despite this dismissal. Both NPR articles read at full text.",
+   "interested_parties": "David Hearn; Justin Carreno; Dr. Sophie Dennison-Gibby; Cameron Thiers; U.S. Attorney's Office (DC); U.S. Department of the Interior; contractor Atlantic Industrial Coatings",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
