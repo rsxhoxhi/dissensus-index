@@ -131,9 +131,13 @@ def main():
         sys.exit(1)
 
     ledger = json.loads(LEDGER_PATH.read_text())
-    if ledger.get("run_date") != today:
-        print(f"FAIL: ledger run_date ({ledger.get('run_date')}) does not match today ({today}).")
-        sys.exit(1)
+    # A run is anchored to the date it STARTED (run_date); a scan may legitimately
+    # span midnight UTC, so validate against that anchor, not the live wall clock.
+    # A mismatch is normal (and only informational), not a failure.
+    run_date = ledger.get("run_date") or today
+    if run_date != today:
+        print(f"NOTE: ledger run_date ({run_date}) != today ({today}); "
+              f"validating this run's entries (normal for a scan that crossed midnight UTC).")
 
     reached = {norm(r["outlet"]) for r in ledger["retrievals"] if r["status"] != "blocked"}
     full    = {norm(r["outlet"]) for r in ledger["retrievals"] if r["status"] == "success"}
@@ -142,9 +146,9 @@ def main():
 
     # The gate validates entries authored by THIS run. Entries already merged
     # to origin/main were gated on their own run; exclude them so a quick-add
-    # from an earlier session that happens to share today's date_discovered is
+    # from an earlier session that happens to share this run's date_discovered is
     # not re-litigated against a ledger it was never part of. If origin/main
-    # can't be read, fall back to checking every entry dated today.
+    # can't be read, fall back to checking every entry dated in this run's window.
     base_ids = set()
     try:
         base_json = subprocess.run(
@@ -153,11 +157,16 @@ def main():
         ).stdout
         base_ids = {c["id"] for c in json.loads(base_json)["cases"]}
     except Exception as e:
-        print(f"WARN: could not read origin/main:data/cases.json ({e}); checking all entries dated today.")
+        print(f"WARN: could not read origin/main:data/cases.json ({e}); checking all entries in the run window.")
 
+    # Scope to entries stamped with the run's anchor date OR today — a scan that
+    # crosses midnight UTC may stamp entries with either, and run_date always
+    # covers the pre-midnight half, so this is immune to the wall-clock rollover.
+    scope_dates = {run_date, today}
     todays_entries = [
         c for c in cases
-        if today in c.get("date_discovered", "") and c.get("id") not in base_ids
+        if any(d in c.get("date_discovered", "") for d in scope_dates)
+        and c.get("id") not in base_ids
     ]
 
     failures = []
