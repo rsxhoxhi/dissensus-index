@@ -108,6 +108,7 @@ DOMAIN_TO_OUTLET = {
     "blockclubchicago.org": "Block Club Chicago",
     "wvtf.org": "WVTF",
     "gofundme.com": "GoFundMe (Devins fundraiser)",
+    "wgntv.com": "WGN-TV",
 }
 
 ALIASES = {
