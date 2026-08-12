@@ -106,6 +106,8 @@ DOMAIN_TO_OUTLET = {
     "allafrica.com": "allAfrica",
     "cardinalnews.org": "Cardinal News",
     "blockclubchicago.org": "Block Club Chicago",
+    "wvtf.org": "WVTF",
+    "gofundme.com": "GoFundMe (Devins fundraiser)",
 }
 
 ALIASES = {
