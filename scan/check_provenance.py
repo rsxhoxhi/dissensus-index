@@ -101,6 +101,14 @@ DOMAIN_TO_OUTLET = {
     "thecollegefix.com": "The College Fix",
     "freepressjournal.in": "The Free Press Journal",
     "news.artnet.com": "Artnet News",
+    "irishnews.com": "The Irish News",
+    "unesco.org": "UNESCO",
+    "allafrica.com": "allAfrica",
+    "cardinalnews.org": "Cardinal News",
+    "blockclubchicago.org": "Block Club Chicago",
+    "wvtf.org": "WVTF",
+    "gofundme.com": "GoFundMe (Devins fundraiser)",
+    "wgntv.com": "WGN-TV",
 }
 
 ALIASES = {
