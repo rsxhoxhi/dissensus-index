@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 582
+  "total_cases": 585
  },
  "cases": [
   {
@@ -15151,6 +15151,38 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-AS",
+   "entry_id": "005",
+   "seq": 614,
+   "title": "Kennedy Center: Chuck Redd: court orders center to pay musician $252,479 after its breach suit is dismissed",
+   "artist": "Chuck Redd",
+   "institution": "John F. Kennedy Center for the Performing Arts, Washington, D.C.",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Fee award August 10, 2026",
+   "date_discovered": "2026-08-12",
+   "sort_date": "2026-08-11",
+   "description": "D.C. Superior Court Judge Tanya M. Jones Bosier ordered the Kennedy Center to pay jazz vibraphonist and drummer Chuck Redd $252,479.70 in attorneys' fees and legal costs, following the dismissal of the Center's breach-of-contract suit against him. Redd had cancelled the annual Christmas Eve performance he had hosted at the Center for roughly two decades, pulling out in December 2025 after President Trump's name was added to the building's facade during the institution's takeover and renaming. The Kennedy Center then sued Redd for $1 million in damages, alleging breach of contract; in June 2026 Judge Jones Bosier dismissed the suit under the District of Columbia's anti-SLAPP statute, which protects speech on matters of public interest, finding the Center had not shown Redd had signed a performance contract. Redd's attorney, Lisa J. Banks, said in the coverage retrieved that \"No citizen should have to spend time and money fending off baseless and politically motivated lawsuits filed by the Trump Administration.\" A Kennedy Center spokesperson said the institution intended to appeal the fee amount. Sub-entry of ACI-005 (Kennedy Center renaming / artist boycott); follows ACI-005-AG, which logged the June dismissal.",
+   "outcome": "Fee award of $252,479.70 entered against the Kennedy Center on August 10, 2026; the Center said it will appeal the amount. [FOLLOW-UP PENDING: the Kennedy Center's appeal of the fee award.]",
+   "tags": "Legal challenge, Political interference, Censorship",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "NPR"
+   ],
+   "source": "https://www.kclu.org/arts-culture/2026-08-11/kennedy-center-must-pay-250-000-in-legal-fees-to-musician-who-canceled-in-protest",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4,
+    8
+   ],
+   "notes": "Update to the Chuck Redd thread first logged at ACI-005-AG (June 2026 anti-SLAPP dismissal). Cross-references the ACI-005 Kennedy Center cluster. Retrieved full text via NPR (KCLU member-station copy of the NPR wire report); widely corroborated the same day by Billboard, Variety, Forbes and Bloomberg (not separately retrieved this run). Amount and quote taken from the NPR text.",
+   "interested_parties": "Chuck Redd (musician); Lisa J. Banks (Redd's attorney); Judge Tanya M. Jones Bosier (D.C. Superior Court); Kennedy Center",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -17888,6 +17920,34 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-284-B",
+   "entry_id": "284",
+   "seq": 615,
+   "title": "V&A East Storehouse: museum grants two paid daily breaks, but Prospect strike proceeds over pay",
+   "artist": "N/A",
+   "institution": "Victoria and Albert Museum (V&A East Storehouse), London",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Concession announced early August 2026",
+   "date_discovered": "2026-08-12",
+   "sort_date": "2026-08-11",
+   "description": "The Victoria and Albert Museum notified staff it would change its policy and grant collections access officers at its East Storehouse site two paid customary breaks a day, the central demand behind an earlier strike ballot in which Prospect union members voted overwhelmingly for industrial action over what the union called Amazon-style working conditions. The officers, who facilitate the storehouse's order-an-object public access service, had said they were allowed only one break during long shifts of manual work and were denied adequate time for toilet or hydration breaks during a heatwave, with one worker reported to have fainted. Prospect general secretary Mike Clancy said in the coverage retrieved that \"This is a great result for our members but it really shouldn't have taken the threat of strike action for V&A to grant this reasonable request.\" The union said strike action would nonetheless still go ahead over unresolved wider claims, including a minimum 4 percent pay rise for staff earning above the living wage and a demand that the V&A become an accredited London Living Wage employer within a year. Sub-entry of ACI-284; follows ACI-284-A (the Prospect strike vote).",
+   "outcome": "V&A conceded the two-paid-breaks demand in early August 2026; Prospect said industrial action would still proceed over pay and other terms, with no strike dates yet announced. [FOLLOW-UP PENDING: strike dates and the outcome of the pay dispute; the separate PCS ballot closing August 20, 2026.]",
+   "tags": "Labor dispute, Institutional crisis",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "PA Media"
+   ],
+   "source": "https://www.aol.co.uk/articles/v-workers-win-toilet-break-170146000.html",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Update to ACI-284 / ACI-284-A (V&A pay-and-conditions dispute). The concession was reported by ARTnews ('V&A Changes Paid Break Policy as East Storehouse Strike Looms', seen via RSS headline) and carried on the PA Media wire; the full text and the Mike Clancy quote were retrieved this run from the PA Media report via its AOL-hosted copy — PA Media, a wire service, is the originating outlet, cited per CLAUDE.md's aggregator rule. Trade outlets (The Art Newspaper, Museums Association, Arts Professional) had not yet published the concession in searches this run. Separate PCS union ballot of 300+ museum workers runs to August 20, 2026.",
+   "interested_parties": "Prospect union; Mike Clancy (Prospect general secretary); V&A management; PCS union",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-285",
    "entry_id": "285",
    "seq": 574,
@@ -18831,6 +18891,40 @@
    "notes": "Tuesday US-local (Midwest) trawl find; previously unlogged and ~4 weeks old at logging (removal week of 16 July 2026). Cites Block Club Chicago (full) and WGN-TV (via search snippet — direct fetch is blocked to automation). The Chicago Tribune's 15 July 2026 report (chicagotribune.com/2026/07/15/nat-king-cole-mural-bronzeville/) is paywalled and could not be retrieved this run; it is a maintainer-confirmed pointer, not cited. Private-owner removal of a community-valued but non-landmarked mural; the Bronzeville Historical Society and neighbors objected to the lack of notice. Distinct from unauthorized-public-art cases — the mural was locally commissioned and had prior aldermanic support. Community investment is documented: a 2023 GoFundMe by Devins raised $2,395 toward a ~$3,000 restoration.",
    "interested_parties": "Chris Devins (artist); Lisa Collins and Ryan Wilkins (building owners); Sherry Williams (Bronzeville Historical Society); Alderman Pat Dowell",
    "coverage_geography": "US (Chicago)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-316",
+   "entry_id": "316",
+   "seq": 613,
+   "title": "Former National Gallery of Art executive accuses museum of soft censorship over relocated race-in-art symposium",
+   "artist": "N/A",
+   "institution": "National Gallery of Art, Washington, D.C.",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Symposium relocated May 2025; accusation published August 2026",
+   "date_discovered": "2026-08-12",
+   "sort_date": "2026-08-12",
+   "description": "Steven Nelson, former head of the National Gallery of Art's Center for Advanced Study in the Visual Arts (CASVA), published an essay in the art-history journal October accusing the museum of soft censorship over its handling of a scholarly symposium on race in American and Mexican art. According to reporting on the essay by Artforum and The New York Times, the symposium, titled Color Lines Across the United States and Mexico and inspired by the Gallery's Elizabeth Catlett exhibition, had been scheduled for May 2025. About two weeks before it was to take place, the National Gallery removed the event from its website, cancelled virtual-attendance options, and moved the venue to Dumbarton Oaks, a Harvard-affiliated research institute in Washington. Nelson wrote that the Gallery took these steps after its leadership met with representatives of the Department of Government Efficiency (DOGE), and situated the episode within a wider pattern of institutional self-restriction following executive orders restricting diversity programming and reframing interpretations of American history. The National Gallery's response was not documented in the coverage retrieved this run.",
+   "outcome": "Accusation made public via Nelson's October essay in August 2026; the National Gallery had not responded on the record in the coverage retrieved. [FOLLOW-UP PENDING: any National Gallery response, and whether other relocated or altered programming at federal cultural institutions is documented.]",
+   "tags": "Censorship, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times",
+    "Artforum"
+   ],
+   "source": "https://www.nytimes.com/2026/08/10/arts/design/national-gallery-art-doge-trump-censorship.html",
+   "additional_sources": [
+    "https://www.artforum.com/news/former-natl-gallery-exec-accuses-museum-of-soft-censorship-1234756810/"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Wednesday scan (Europe/UK trawl day, but a US federal-cultural item surfaced via NYT all-desk API and Artforum). Analytically an anticipatory-obedience case per CLAUDE.md §14 (the museum moved first, no direct order documented); the retired 'soft censorship architecture' tag is deliberately NOT applied — 'soft censorship' appears here only as Nelson's own characterization, attributed to him, never in the Index's voice. Connects to the Smithsonian censorship-review cluster and the broader DOGE/federal-arts pressure entries. NYT source is metadata-grade (API abstract); Artforum via search-result snippet; the underlying essay ran in the journal October and was not directly retrieved. Thin entry — enrich when full-text coverage or the museum's response is retrievable.",
+   "interested_parties": "Steven Nelson (former CASVA head, National Gallery of Art); National Gallery of Art leadership; Department of Government Efficiency (DOGE)",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]

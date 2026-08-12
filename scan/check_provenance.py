@@ -42,6 +42,8 @@ DOMAIN_TO_OUTLET = {
     "reuters.com": "Reuters",
     "apnews.com": "Associated Press",
     "npr.org": "NPR",
+    "kclu.org": "NPR",
+    "aol.co.uk": "PA Media",
     "wtvr.com": "WTVR",
     "ansa.it": "ANSA",
     "ilfattoquotidiano.it": "Il Fatto Quotidiano",
