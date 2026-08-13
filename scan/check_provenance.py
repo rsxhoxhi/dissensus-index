@@ -44,6 +44,7 @@ DOMAIN_TO_OUTLET = {
     "npr.org": "NPR",
     "kclu.org": "NPR",
     "wtvr.com": "WTVR",
+    "wtop.com": "WTOP",
     "ansa.it": "ANSA",
     "ilfattoquotidiano.it": "Il Fatto Quotidiano",
     "lanazione.it": "La Nazione",

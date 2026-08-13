@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-06-24",
   "methodology_version": "1.0",
-  "total_cases": 584
+  "total_cases": 585
  },
  "cases": [
   {
@@ -15439,6 +15439,38 @@
    ],
    "notes": "Sub-entry of ACI-046 (Reflecting Pool renovation); fills the gap between ACI-046-M (23 July) and ACI-046-N/O (10 Aug) flagged at the merge of PR #86. Resolves, in the government's own filings, the vandalism-arrests thread opened at ACI-046-H and the Hearn indictment at ACI-046-I: the U.S. Attorney attributed the damage to contractor Atlantic Industrial Coatings' botched installation, not vandalism. Note the later rhetorical reversal at ACI-046-N, where on 10 Aug Trump again accused Hearn despite this dismissal. Both NPR articles read at full text.",
    "interested_parties": "David Hearn; Justin Carreno; Dr. Sophie Dennison-Gibby; Cameron Thiers; U.S. Attorney's Office (DC); U.S. Department of the Interior; contractor Atlantic Industrial Coatings",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-046-Q",
+   "entry_id": "046",
+   "seq": 616,
+   "title": "Reflecting Pool: House Judiciary Democrats demand records on the dropped Hearn prosecution",
+   "artist": "N/A",
+   "institution": "Lincoln Memorial Reflecting Pool, National Mall, Washington, D.C.",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Records request letter August 11, 2026",
+   "date_discovered": "2026-08-12",
+   "sort_date": "2026-08-11",
+   "description": "Representative Jamie Raskin of Maryland, ranking Democrat on the House Judiciary Committee, opened an investigation into the felony prosecution of David Hearn, the former Olympic canoeist who had been accused of vandalizing the Lincoln Memorial Reflecting Pool before the case was abandoned. In a letter dated 11 August 2026 to U.S. Attorney for the District of Columbia Jeanine Pirro and Interior Secretary Doug Burgum, Raskin requested, by 25 August 2026, all documents relating to the decision to prosecute Hearn, the rationale for filing a felony charge, communications between the agencies and the White House about the case, and grand-jury materials. Raskin's letter asked whether the government had, in his words, sought to \"maliciously prosecute an American citizen it knew to be innocent with a felony charge,\" and whether the Interior Department had moved to \"deliberately mislead prosecutors to cover up a 'botched' renovation by a company awarded a dubious $15 million insider no-bid contract.\" Pirro had dropped the felony charge in late July 2026, stating that \"it is difficult to attribute the widespread damage to the Reflecting Pool to vandalism, let alone to establish that fact beyond a reasonable doubt\"; the White House had reportedly asked the Justice Department to consider a misdemeanor charge instead of a felony. Sub-entry of ACI-046; escalation of ACI-046-P (the dropped cases) and ACI-046-N (contractor error conceded).",
+   "outcome": "Congressional oversight opened: Raskin's 11 August 2026 letter set a 25 August 2026 deadline for Pirro and Burgum to produce records on the prosecution and its dismissal. No documents produced and no agency response recorded at logging. [FOLLOW-UP PENDING: the agencies' response to the records demand by the 25 August deadline; any findings on how the felony charge was brought; the Interior IG review at ACI-046-O.]",
+   "tags": "Legal challenge, Political interference, Conservation",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "WTOP"
+   ],
+   "source": "https://wtop.com/dc/2026/08/democrats-begin-probe-into-prosecution-linked-to-reflecting-pool/",
+   "additional_sources": [],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Escalation within the ACI-046 Reflecting Pool cluster; follows ACI-046-P (prosecutors drop the vandalism cases, 31 July–early Aug 2026), ACI-046-N (Trump/DOJ concede contractor error, no proof of vandalism) and ACI-046-O (Interior IG review). Interested party David Hearn is a former Olympic canoeist. Full text and quotes retrieved from WTOP. The maintainer-supplied Washington Post report (washingtonpost.com, 11 Aug 2026) is the originating coverage but is blocked to this run's automated retrieval (403), so it is not cited; The Hill and Courthouse News also covered it but likewise returned 403 this run. Ties the pool-failure conservation dispute to a political-interference/oversight axis (the $15M no-bid contract and alleged White House involvement in the charging decision).",
+   "interested_parties": "Rep. Jamie Raskin (ranking Democrat, House Judiciary Committee); U.S. Attorney Jeanine Pirro (DC); Interior Secretary Doug Burgum; David Hearn (former Olympic canoeist); the White House",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
