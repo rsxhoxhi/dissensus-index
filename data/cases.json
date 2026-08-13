@@ -15463,13 +15463,15 @@
     "WTOP"
    ],
    "source": "https://wtop.com/dc/2026/08/democrats-begin-probe-into-prosecution-linked-to-reflecting-pool/",
-   "additional_sources": [],
+   "additional_sources": [
+    "https://www.washingtonpost.com/dc-md-va/2026/08/11/house-democrats-seek-records-dropped-reflecting-pool-case-against-ex-olympian/"
+   ],
    "themes": [
     1,
     2,
     9
    ],
-   "notes": "Escalation within the ACI-046 Reflecting Pool cluster; follows ACI-046-P (prosecutors drop the vandalism cases, 31 July–early Aug 2026), ACI-046-N (Trump/DOJ concede contractor error, no proof of vandalism) and ACI-046-O (Interior IG review). Interested party David Hearn is a former Olympic canoeist. Full text and quotes retrieved from WTOP. The maintainer-supplied Washington Post report (washingtonpost.com, 11 Aug 2026) is the originating coverage but is blocked to this run's automated retrieval (403), so it is not cited; The Hill and Courthouse News also covered it but likewise returned 403 this run. Ties the pool-failure conservation dispute to a political-interference/oversight axis (the $15M no-bid contract and alleged White House involvement in the charging decision).",
+   "notes": "Escalation within the ACI-046 Reflecting Pool cluster; follows ACI-046-P (prosecutors drop the vandalism cases, 31 July–early Aug 2026), ACI-046-N (Trump/DOJ concede contractor error, no proof of vandalism) and ACI-046-O (Interior IG review). Interested party David Hearn is a former Olympic canoeist. Full text and quotes retrieved from WTOP (cited as source). The maintainer-supplied Washington Post report is the originating coverage; automated fetch returned 403, but it surfaced in this run's search results and the maintainer confirmed a full read, so it is cited as an additional source. The Hill and Courthouse News also covered it but returned 403 to automated fetch this run. Ties the pool-failure conservation dispute to a political-interference/oversight axis (the $15M no-bid contract and alleged White House involvement in the charging decision).",
    "interested_parties": "Rep. Jamie Raskin (ranking Democrat, House Judiciary Committee); U.S. Attorney Jeanine Pirro (DC); Interior Secretary Doug Burgum; David Hearn (former Olympic canoeist); the White House",
    "coverage_geography": "US",
    "follow_up_pending": true
