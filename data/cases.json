@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-12",
   "methodology_version": "1.0",
-  "total_cases": 585
+  "total_cases": 589
  },
  "cases": [
   {
@@ -4922,6 +4922,36 @@
    "notes": "[FOLLOW-UP PENDING] The National Chornobyl Museum is the most analytically significant loss: it was a museum dedicated to documenting a Soviet cover-up (the 1986 disaster), had recently been modernized and reopened for the 40th anniversary, and the destroyed room contained 'saved cultural heritage from the Polissia region' — items that had survived the nuclear disaster and the evacuation of Prypiat only to be destroyed by Russian missiles 40 years later. Oksana Semenik's observation — 'Many artefacts are personal items of people who died or had to move from their houses, and that's why they are unreplaceable' — is the human dimension. Berezhna's framing: 'Russia systematically beats on culture and spaces that form Ukrainian identity. They are trying to destroy our memory.' The 1,783 cultural heritage monuments and 2,540 cultural infrastructure objects figure gives scale to the systematic dimension. Connects structurally to entry 037 (Iran war cultural heritage destruction) and entry 047 (Sudan museum looting) as the third active conflict-zone cultural destruction cluster in the tracker. The Ukraine case is distinct from both: not collateral damage (Iran) or war-economy looting (Sudan), but the systematic targeting of sites of Ukrainian memory and national identity. The Sahaidak quote is the analytical distillation: 'The decision-making centres are in every apartment, in every institution.' Lavrov's threat of further strikes against 'decision-making centres' is effectively a threat to continue targeting cultural institutions. GOVERNANCE NOTE: Ukraine is a democracy under siege. Russia is a consolidated authoritarian state using cultural destruction as a weapon of war and identity erasure. — RUSSIA–UKRAINE WAR DESTRUCTION CLUSTER (same conflict): 127 (May 24–26 Kyiv barrage), 178 (Ukrainian strike on the Roubaud Sevastopol panorama, Russian-occupied Crimea — reverse vector), 187 (June 13–15 barrage: Kyiv Pechersk Lavra/Dormition Cathedral, Mystetskyi Arsenal, Kharkiv Art Museum, Dovzhenko costume collection). Linked via the shared \"Russia-Ukraine war\" Broad Tag for filtering; add future Ukraine-war cultural-destruction entries to this cluster.",
    "interested_parties": "Ukraine Ministry of Culture / Tetyana Berezhna (minister); National Art Museum of Ukraine; National Chornobyl Museum; Yaroslav Mudryi National Library; Kyiv Opera Theatre; President Zelensky (visited Chornobyl Museum); Olha Sahaidak (Coalition of Cultural Actors); art historian Oksana Semenik (Chornobyl exhibition curator); Russia / Lavrov (threatened further strikes); UNESCO",
    "coverage_geography": "Global",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-127-A",
+   "entry_id": "127-A",
+   "seq": 619,
+   "title": "Ukraine war cultural damage: culture ministry tally reaches 1,990 heritage sites and 2,625 facilities by July 31, 2026",
+   "artist": "N/A",
+   "institution": "Ukraine Ministry of Culture; National Art Museum of Ukraine; Odesa National Fine Arts Museum",
+   "country": "Ukraine",
+   "governance_type": "Democracy",
+   "date_controversy": "Figures as of July 31, 2026; reported August 11, 2026",
+   "date_discovered": "2026-08-13",
+   "sort_date": "2026-08-11",
+   "description": "As of July 31, 2026, Ukraine's Ministry of Culture reported that Russian attacks had damaged or destroyed 1,990 cultural heritage sites and 2,625 cultural infrastructure facilities across the country since the February 2022 full-scale invasion, according to Hyperallergic (August 11, 2026). The cumulative tally includes 141 museums and galleries -- among them the National Art Museum of Ukraine and the Odesa National Fine Arts Museum -- and 196 arts-education institutions; cultural institutions across roughly 24% of Ukrainian territory and nearly half of the country's community cultural centers have been affected. Hyperallergic reported: \"Russian missile attacks have damaged or destroyed 1,990 cultural heritage sites and 2,625 cultural infrastructure facilities in Ukraine as of July 31, according to a statement from Ukraine's Ministry of Culture.\"",
+   "outcome": "Cumulative wartime tally; damage ongoing. [FOLLOW-UP PENDING: subsequent Ukraine culture-ministry tallies and UNESCO verification updates.]",
+   "tags": "Cultural property destruction, Conflict zone, Geopolitics, Historical erasure, Russia-Ukraine war",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/russia-has-damaged-or-destroyed-over-4-500-cultural-sites-in-ukraine/",
+   "additional_sources": [],
+   "themes": [
+    5
+   ],
+   "notes": "Sub-entry of ACI-127 (May 24, 2026 Kyiv barrage); cf. ACI-187 (June 2026 Kyiv Pechersk Lavra strikes), ACI-127 cluster. Cumulative Ukraine culture-ministry running total; figures attributed to Ukraine's Ministry of Culture as reported by Hyperallergic. Themes inherited from ACI-127 ([5]); FOR REVIEW: theme 5 (Universal Museum) is the parent's tag but fits wartime destruction poorly -- the theme set has no dedicated cultural-destruction category.",
+   "interested_parties": "Ukraine Ministry of Culture; UNESCO",
+   "coverage_geography": "US, Europe",
    "follow_up_pending": true
   },
   {
@@ -14206,6 +14236,38 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-012-N",
+   "entry_id": "012-N",
+   "seq": 620,
+   "title": "Smithsonian: ICOM-US pledges support for the institution amid Trump administration pressure",
+   "artist": "N/A",
+   "institution": "Smithsonian Institution; ICOM-US (US National Committee of the International Council of Museums)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Statement released Tuesday, August 11, 2026",
+   "date_discovered": "2026-08-13",
+   "sort_date": "2026-08-12",
+   "description": "The US National Committee of the International Council of Museums (ICOM-US) released a statement pledging its support for the Smithsonian Institution as the institution faces continued pressure from the Trump administration over the content of its exhibitions, according to ARTnews. ICOM-US said it was responding to recent congressional hearings in which Anthea Hartig, director of the Smithsonian's National Museum of American History, was questioned over allegations that the institution had failed in its duty to preserve and present the nation's story. The statement affirmed that museums are guided by scholarship, professional expertise, ethical practice, and intellectual integrity, and called on museums to resist financial or political influence and to retain control of their activities, exhibitions, and publications regardless of funding sources or governance models. The statement follows a White House-commissioned report criticizing the National Museum of American History (see ACI-012-F, ACI-012-G, ACI-012-I).",
+   "outcome": "ICOM-US statement issued, adding to museum-sector pushback against the administration's review of the Smithsonian (cf. ACI-012-K, American Alliance of Museums). [FOLLOW-UP PENDING: the Smithsonian's response to White House compliance demands and any further sector statements.]",
+   "tags": "Political interference, Institutional risk",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/icom-releases-statement-in-support-smithsonian-institution-1234794828/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4,
+    5
+   ],
+   "notes": "Sub-entry of ACI-012 (Trump administration / Smithsonian pressure campaign). Museum-sector solidarity response; cf. ACI-012-K (American Alliance of Museums), ACI-012-I (House DOGE subcommittee hearing on the National Museum of American History). Retrieved via ARTnews search result (bot-walled on direct fetch); no direct quotations used. Themes inherited from parent ACI-012 ([2,4,5]).",
+   "interested_parties": "ICOM-US; Smithsonian Institution; Anthea Hartig (director, National Museum of American History); White House",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-011",
    "entry_id": "011",
    "seq": 10,
@@ -18931,6 +18993,73 @@
    "notes": "Tuesday US-local (Midwest) trawl find; previously unlogged and ~4 weeks old at logging (removal week of 16 July 2026). Cites Block Club Chicago (full) and WGN-TV (via search snippet — direct fetch is blocked to automation). The Chicago Tribune's 15 July 2026 report (chicagotribune.com/2026/07/15/nat-king-cole-mural-bronzeville/) is paywalled and could not be retrieved this run; it is a maintainer-confirmed pointer, not cited. Private-owner removal of a community-valued but non-landmarked mural; the Bronzeville Historical Society and neighbors objected to the lack of notice. Distinct from unauthorized-public-art cases — the mural was locally commissioned and had prior aldermanic support. Community investment is documented: a 2023 GoFundMe by Devins raised $2,395 toward a ~$3,000 restoration.",
    "interested_parties": "Chris Devins (artist); Lisa Collins and Ryan Wilkins (building owners); Sherry Williams (Bronzeville Historical Society); Alderman Pat Dowell",
    "coverage_geography": "US (Chicago)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-316",
+   "entry_id": "316",
+   "seq": 617,
+   "title": "Ex-National Gallery of Art dean alleges soft censorship of race symposium after DOGE meeting",
+   "artist": "N/A",
+   "institution": "National Gallery of Art, Washington, DC; Center for Advanced Study in the Visual Arts (CASVA)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Symposium relocated May 2025; Nelson essay published week of 4 August 2026",
+   "date_discovered": "2026-08-13",
+   "sort_date": "2026-08-10",
+   "description": "Steven Nelson, the former dean of the National Gallery of Art's Center for Advanced Study in the Visual Arts (CASVA), accused the Gallery of soft censorship in an essay published in the art-history journal October, according to the New York Times, ARTnews, and Artforum. Nelson wrote that a scholarly symposium titled Color Lines Across the United States and Mexico -- planned for May 2025 and inspired by the Gallery's Elizabeth Catlett exhibition, examining constructions of race in American and Mexican art -- was quietly altered about two weeks before it was due to take place: it was removed from the National Gallery's website, options for virtual attendance were scrapped, and the venue was moved off-site to Dumbarton Oaks, a Harvard-affiliated research institute in Washington. Nelson alleged the changes followed a meeting between National Gallery leadership and representatives of Elon Musk's Department of Government Efficiency (DOGE). The account situates the episode within a broader pattern of federal cultural institutions adjusting programming under administration pressure (cf. ACI-012, the Smithsonian).",
+   "outcome": "Nelson's essay published and widely reported; the National Gallery's response was not established in the coverage retrieved this run. [FOLLOW-UP PENDING: National Gallery response and any further account of the DOGE meeting or of other altered programming.]",
+   "tags": "Censorship, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times",
+    "ARTnews",
+    "Artforum"
+   ],
+   "source": "https://www.nytimes.com/2026/08/10/arts/design/national-gallery-art-doge-trump-censorship.html",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/steven-nelson-national-gallery-of-art-dc-soft-censorship-1234794697/",
+    "https://www.artforum.com/news/former-natl-gallery-exec-accuses-museum-of-soft-censorship-1234756810/"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "New parent. Externalised-censorship / anticipatory-obedience frame (see CLAUDE.md sec 14): institution alters programming after indirect pressure rather than direct order. Cross-refs ACI-012 (Smithsonian pressure campaign). Retrieved via NYT metadata (API + search) and ARTnews/Artforum search results (both bot-walled on direct fetch); no direct quotations used, so the essay's wording is paraphrased.",
+   "interested_parties": "Steven Nelson (former CASVA dean); National Gallery of Art leadership; Department of Government Efficiency (DOGE)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-317",
+   "entry_id": "317",
+   "seq": 618,
+   "title": "UK Jurassic fossil collection sold to Natural History Museum Abu Dhabi after British museums pass",
+   "artist": "Chris Moore (fossil collector)",
+   "institution": "Natural History Museum Abu Dhabi; Natural History Museum, London; Amgueddfa Cymru - Museum Wales",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Collection went on display in Abu Dhabi November 2025; UK reaction reported August 2026",
+   "date_discovered": "2026-08-13",
+   "sort_date": "2026-08-12",
+   "description": "A collection of scientifically important Jurassic-era fossils assembled by British fossil collector Chris Moore along the Jurassic Coast in Dorset -- a UNESCO World Heritage Site -- has been sold to the Natural History Museum Abu Dhabi for what was reported to be an eight-figure sum, prompting British palaeontologists to describe the sale as a loss to the nation, according to ARTnews and Artforum. The collection reportedly includes ichthyosaurs, fish, and crustaceans, some potentially representing new species. Under the west Dorset fossil-collecting code, scientifically significant fossils must first be offered to UK-registered institutions for six months before they may be sold abroad; ARTnews reported that Moore offered the collection to the Natural History Museum in London and to Amgueddfa Cymru (Museum Wales), both of which declined, citing a lack of acquisition funds, with reporting citing an email indicating the London museum had no money for acquisitions. After the six-month window elapsed, the Natural History Museum Abu Dhabi bought the collection, which went on display there in November 2025.",
+   "outcome": "Sale complete; collection on public display at the Natural History Museum Abu Dhabi since November 2025. British palaeontologists and heritage commentators have questioned the UK's capacity to retain scientifically significant natural-history specimens given museum funding shortfalls. [FOLLOW-UP PENDING: any UK policy or funding response on natural-history heritage export.]",
+   "tags": "Funding dispute, UNESCO World Heritage Site",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews",
+    "Artforum"
+   ],
+   "source": "https://www.artnews.com/art-news/news/important-uk-fossil-collection-sold-overseas-loss-to-nation-1234794806/",
+   "additional_sources": [
+    "https://www.artforum.com/news/top-uk-jurassic-fossil-collection-sold-overseas-1234756756/"
+   ],
+   "themes": [],
+   "notes": "New parent. Natural-heritage export / retention controversy centered on museum funding shortfalls, not a museum deaccession. The originating reporting (an email seen by the Guardian) was surfaced via ARTnews/Artforum; the Guardian itself could not be retrieved this run (no API key in environment) and is therefore not cited. Retrieved via ARTnews/Artforum search results (both bot-walled on direct fetch); no direct quotations used. FOR REVIEW: tag/theme fit is imperfect -- there is no existing 'heritage export' broad tag, and no Dissensus theme cleanly applies (theme 5, Universal Museum, is arguable for the acquiring encyclopedic museum). Borderline inclusion (framed as loss/lament more than two-party dispute).",
+   "interested_parties": "Chris Moore (collector); Natural History Museum Abu Dhabi; Natural History Museum, London; Amgueddfa Cymru - Museum Wales; UK palaeontologists",
+   "coverage_geography": "UK, UAE",
    "follow_up_pending": true
   }
  ]
