@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-12",
   "methodology_version": "1.0",
-  "total_cases": 588
+  "total_cases": 594
  },
  "cases": [
   {
@@ -431,6 +431,36 @@
    "notes": "Cultural/maritime heritage object is the contested thing (preservation-by-agreement vs. sale). Tests the 1990s salvage-in-exchange-for-no-sale covenant. Financialization of recovered heritage; cf. INAH/Sotheby's source-nation auction disputes (ACI-194) on the heritage-vs-market axis. [FOLLOW-UP PENDING]",
    "interested_parties": "RMS Titanic Inc.; NOAA (representing US interests); US District Court, Eastern District of Virginia; preservation groups; relatives of Titanic victims",
    "coverage_geography": "US, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-196-A",
+   "entry_id": "196-A",
+   "seq": 626,
+   "title": "RMS Titanic Inc. challenges US court's role, arguing early artifact retrievals fall under a French court",
+   "artist": "N/A (salvaged artifacts)",
+   "institution": "RMS Titanic Inc.",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "August 2026",
+   "date_discovered": "2026-08-14",
+   "sort_date": "2026-08-13",
+   "description": "RMS Titanic Inc., which holds salvage rights to the wreck of the Titanic, is challenging the authority of the US federal court in Norfolk, Virginia, which has awarded the company the right to collect but not sell artifacts from the site, according to The New York Times (August 13, 2026). The company argues that its earliest retrievals are governed by a French court rather than the US court — a jurisdictional argument bearing on its bid to sell recovered items. As reflected in parent ACI-196, the National Oceanic and Atmospheric Administration opposes the company's proposed auction of more than 100 salvaged artifacts. No sale has occurred.",
+   "outcome": "Jurisdictional challenge before the courts; the US court has permitted collection but not sale, and no sale has occurred. [FOLLOW-UP PENDING: ruling on jurisdiction and whether any sale is permitted.]",
+   "tags": "Legal challenge, Financialization, Deaccessioning",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/08/13/arts/design/salvage-company-hoping-to-sell-titanic-artifacts-challenges-courts-role.html",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "Sub-entry of ACI-196 (RMS Titanic Inc. auction plan vs. NOAA). Metadata-grade source (NYT paywalled to direct fetch); description carries no quotations, per the provenance depth rule. [FOLLOW-UP PENDING]",
+   "interested_parties": "RMS Titanic Inc.; NOAA; US District Court (Norfolk, Virginia); French court",
+   "coverage_geography": "US, International",
    "follow_up_pending": true
   },
   {
@@ -3797,7 +3827,7 @@
    "date_discovered": "June 2, 2026",
    "sort_date": "2026-06-02",
    "description": "Brazilian police announced on June 1, 2026 that they have identified the suspected architect of a Matisse theft at the Biblioteca Mário de Andrade (São Paulo's main public library). According to ARTnews/police, a voicemail on the suspect's phone contained an apparent admission — the suspect reportedly described himself as a specialist in rare books. The theft appears to have occurred in late 2025. The suspect has not been named in initial coverage.",
-   "outcome": "Suspect identified by police; arrest/charges status not confirmed. Investigation ongoing.",
+   "outcome": "Eight stolen Matisse \"Jazz\" prints recovered by Brazilian police in August 2026 and suspects arrested; five Candido Portinari works from the same theft remain missing (see ACI-142-A). Prosecution ongoing.",
    "tags": "Security failure, Legal challenge",
    "court_case": "Pending",
    "coverage_tier": "International",
@@ -3808,8 +3838,39 @@
    "themes": [
     5
    ],
-   "notes": "[FOLLOW-UP PENDING] Thin entry — enrich on Monday Latin America trawl. Art theft from public library — security failure angle. Brazil democratic governance context.",
+   "notes": "Enriched from a thin entry. Art theft from a public library — security-failure angle; Brazil democratic governance context. Recovery and arrests logged as sub-entry ACI-142-A (August 14, 2026); the live thread (Portinari works, prosecution) now carries the pending flag there.",
    "interested_parties": "Brazilian federal/state police; Biblioteca Mário de Andrade (São Paulo); unnamed suspect",
+   "coverage_geography": "International",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-142-A",
+   "entry_id": "142-A",
+   "seq": 625,
+   "title": "São Paulo library theft: police recover eight Matisse 'Jazz' prints; Portinari works still missing",
+   "artist": "Henri Matisse",
+   "institution": "Biblioteca Mário de Andrade, São Paulo, Brazil",
+   "country": "Brazil",
+   "governance_type": "Democracy",
+   "date_controversy": "December 2025 (theft); August 2026 (recovery)",
+   "date_discovered": "2026-08-14",
+   "sort_date": "2026-08-14",
+   "description": "Brazilian police recovered the eight Henri Matisse engravings from the artist's \"Jazz\" (1947) portfolio that were stolen in December 2025 from the Biblioteca Mário de Andrade, São Paulo's main public library, according to Asharq Al-Awsat (carrying an Associated Press report, August 14, 2026) and The New York Times. The prints, valued at about $200,000, were found at a residence in São Bernardo do Campo near São Paulo; a man who was holding them for the heist's alleged mastermind was arrested on charges of receiving stolen goods and illegal weapon possession. Police said the alleged mastermind had been arrested in April and that a woman was also detained. In the December 2025 robbery, thieves overpowered a security guard and an elderly couple, took the works from a display case and fled; police described the gang as \"highly organized and structured.\" Five works by the Brazilian modernist Candido Portinari taken in the same theft remain missing and, police said, may already have been sold.",
+   "outcome": "Eight Matisse prints recovered and suspects arrested; five Portinari works remain missing. [FOLLOW-UP PENDING: recovery of the Portinari works and prosecution of the accused.]",
+   "tags": "Security failure, Legal challenge",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "Asharq Al-Awsat",
+    "The New York Times"
+   ],
+   "source": "https://english.aawsat.com/culture/5306843-brazilian-police-recover-matisse-works-stolen-2025",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/14/world/americas/matisse-stolen-art-found-sao-paulo-brazil-heist.html"
+   ],
+   "themes": [],
+   "notes": "Sub-entry of ACI-142 (São Paulo library Matisse theft). Reports the recovery of the Matisse prints and arrests. Reference source is the AP wire report via Asharq Al-Awsat (English); NYT corroborates via metadata (paywalled to direct fetch). FOR REVIEW: parent ACI-142 carries theme [5] (Universal Museum), which does not fit a public-library print theft; this sub-entry uses [] and the parent theme should be revisited. [FOLLOW-UP PENDING: Portinari works.]",
+   "interested_parties": "Brazilian police; Biblioteca Mário de Andrade; alleged mastermind and accomplices (arrested)",
    "coverage_geography": "International",
    "follow_up_pending": true
   },
@@ -15245,6 +15306,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-AT",
+   "entry_id": "005-AT",
+   "seq": 624,
+   "title": "Kennedy Center board votes two-year closure and to inscribe Trump's name, testing court order",
+   "artist": "N/A (federal cultural institution)",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "August 13, 2026 (board vote)",
+   "date_discovered": "2026-08-14",
+   "sort_date": "2026-08-13",
+   "description": "On August 13, 2026, the Trump-appointed Kennedy Center board voted, by videoconference, to close the main building for a roughly two-year, $250 million renovation — reopening in summer 2028, with the REACH facility remaining open for limited programming — and to add text to the facade reading \"Restored and Renovated by President Donald J. Trump\" beneath President Kennedy's name, according to NPR and The New York Times. The move directly tests US District Judge Christopher R. Cooper's May 2026 ruling that the Center must remove Trump's name from physical and digital branding because Congress, not the board, holds naming authority; Cooper had also blocked an earlier closure vote on the ground that board members lacked \"sufficient information.\" Rep. Joyce Beatty (D-Ohio), a plaintiff in the renaming litigation, called the vote \"a transparent effort to circumvent the court's ruling, and flies in the face of the statutes that Congress passed.\" The board is under Cooper's order to report on the meeting's outcome within five days.",
+   "outcome": "Board voted August 13, 2026 to close the main building for about two years and to add Trump-name facade text; the Center must report to Judge Cooper within five days. [FOLLOW-UP PENDING: Cooper's response and further litigation over the facade text and the closure.]",
+   "tags": "Political interference, Judicial oversight, Federal cultural institution, Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "NPR",
+    "The New York Times"
+   ],
+   "source": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center renaming/closure saga). Follows ACI-005-AS (Aug 10, 2026 Chuck Redd fee award), ACI-005-AR (whistleblower documents) and ACI-005-AQ (D.C. Circuit denied stay, July 8, 2026); cf. ACI-005-AO (tarp/scaffolding status report). [FOLLOW-UP PENDING]",
+   "interested_parties": "John F. Kennedy Center for the Performing Arts board; Trump administration; Judge Christopher R. Cooper; Rep. Joyce Beatty; National Symphony Orchestra",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -19028,6 +19123,95 @@
    "notes": "New parent. Natural-heritage export / retention controversy centered on museum funding shortfalls, not a museum deaccession. Reference source is The Guardian's 8 August 2026 report (origin of the 'no money at all' email detail); the Guardian is bot-walled to direct fetch and no GU_API_KEY is set in this environment, so its full body was read via verbatim syndication and its canonical URL pinned by hand (CLAUDE.md sec 6A convention). ARTnews and Artforum corroborate and carry the same expert quotes (retrieved via search-result snippets; bot-walled on direct fetch). FOR REVIEW: tag/theme fit is imperfect -- no existing 'heritage export' broad tag, and no Dissensus theme cleanly applies (used themes []); theme 5 (Universal Museum) is arguable for the acquiring encyclopedic museum. Coverage presents a genuine split (Maxwell: a loss, but offset by a museum home; Davidson: location secondary), reflected above rather than a one-sided 'loss to the nation' frame.",
    "interested_parties": "Chris Moore (collector); Natural History Museum Abu Dhabi; Natural History Museum, London; Amgueddfa Cymru - Museum Wales; UK palaeontologists",
    "coverage_geography": "UK, UAE",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-318",
+   "entry_id": "318",
+   "seq": 621,
+   "title": "Guggenheim sues to reclaim Picasso's 'Femme dans un fauteuil,' vanished from a 1961 loan",
+   "artist": "Pablo Picasso",
+   "institution": "Solomon R. Guggenheim Foundation",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "August 2026 (lawsuit filed); painting vanished February 6, 1961",
+   "date_discovered": "2026-08-14",
+   "sort_date": "2026-08-13",
+   "description": "The Solomon R. Guggenheim Foundation has sued to recover Pablo Picasso's \"Femme dans un fauteuil\" (1918), which vanished on February 6, 1961 from the University of Pittsburgh's Student Union building while on loan from the Guggenheim, according to Hyperallergic (August 13, 2026). The painting resurfaced in July 2023 when a Christie's researcher flagged it during a private-sale consignment review. Its current possessors, Lawrence Jay Handler and Wendy Cohen Handler of Massachusetts, say they bought it from Beadleston Fine Art in Manhattan in 1999. The Guggenheim demanded the work's return in August 2023 and was refused; in August 2026 it filed suit in New York State Supreme Court accusing the Handlers of \"unlawfully withholding the painting\" and seeking $3.5 million in compensatory damages. The painting remains held at Christie's. Coverage notes that a New York precedent from the Guggenheim's 1993 settlement of a stolen-Chagall case tends to favor original owners' recovery rights.",
+   "outcome": "Suit filed in New York State Supreme Court (August 2026); the painting is held at Christie's pending resolution. [FOLLOW-UP PENDING: court proceedings and the ownership/title determination.]",
+   "tags": "Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/a-picasso-vanished-in-1961-the-guggenheim-now-wants-it-back/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Stolen-art title/recovery dispute (not a repatriation or deaccession case). FOR REVIEW: tag/theme fit imperfect — no 'theft/title-recovery' broad tag exists (used 'Legal challenge' only) and no Dissensus theme cleanly applies (used []). ARTnews also covered this but is bot-walled to direct fetch, so it is not cited.",
+   "interested_parties": "Solomon R. Guggenheim Foundation; Lawrence Jay Handler and Wendy Cohen Handler (current possessors); Christie's; Beadleston Fine Art",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-319",
+   "entry_id": "319",
+   "seq": 622,
+   "title": "National Gallery boards up Pei skylights and shields Calder ahead of Trump's Freedom 250 IndyCar race",
+   "artist": "N/A (multiple federal museum collections)",
+   "institution": "National Gallery of Art; Smithsonian Institution",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "August 2026 (protective measures reported); race scheduled August 22–23, 2026",
+   "date_discovered": "2026-08-14",
+   "sort_date": "2026-08-13",
+   "description": "The Freedom 250 Grand Prix — an IndyCar street race ordered by President Trump for the United States' 250th-anniversary celebrations — is scheduled for August 22–23, 2026 on a roughly 1.7-mile course in Washington, DC that passes the National Gallery of Art, the National Archives, and Smithsonian institutions including the Hirshhorn Museum, the National Air and Space Museum, and the National Museum of the American Indian. Preservationists and commentators cited by The Washington Post and The New Republic warned that vibrations from cars travelling at roughly 185 mph could damage artworks and historic documents along the route. According to Hyperallergic (August 13, 2026), the National Gallery conducted a vibration study \"out of a great abundance of caution\" and has boarded up the I. M. Pei-designed skylights at its East Building, reoriented some artworks away from the track side, and built a protective barrier around an outdoor Alexander Calder sculpture. An NGA spokesperson said, \"Based on the results, we have implemented a set of measures to ensure the safety of our staff, visitors, collection, and facilities during the race.\" The Smithsonian said it had determined the race did not threaten works in its collection and was taking no extra precautions while continuing to monitor. The event's backers include motorsport executive Roger Penske; the White House said it had coordinated with agencies to ensure a safe race.",
+   "outcome": "Protective measures in place at the National Gallery of Art; the race is scheduled for August 22–23, 2026. [FOLLOW-UP PENDING: whether the race proceeds and any damage to collections or historic structures along the route.]",
+   "tags": "Historic preservation, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic",
+    "The Washington Post"
+   ],
+   "source": "https://hyperallergic.com/national-gallery-of-art-protects-works-ahead-of-trumps-indycar-race/",
+   "additional_sources": [
+    "https://www.washingtonpost.com/style/2026/08/05/national-gallery-studied-whether-freedom-250-indycar-vibrations-will-affect-art/"
+   ],
+   "themes": [],
+   "notes": "New parent. Threat-of-damage to recognized collections from a Trump-ordered America 250 event; tagged 'Historic preservation' per the cultural-property threat convention (flip to a destruction tag only if damage occurs). Part of the DC federal-cultural / America 250 cluster (cf. ACI-046 Reflecting Pool, ACI-038 triumphal arch, ACI-174 National Mall turf vandalism). WaPo did the original vibration-study reporting; direct fetch of WaPo is blocked, so it is cited from a search-result snippet and corroborated by Hyperallergic (full read). FOR REVIEW: no Dissensus theme cleanly applies (used []).",
+   "interested_parties": "National Gallery of Art; Smithsonian Institution; Trump administration / White House; Roger Penske; preservation commentators",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-320",
+   "entry_id": "320",
+   "seq": 623,
+   "title": "East Hampton sues over Matt Johnson's 60-foot shipping-container sculpture at The Ranch",
+   "artist": "Matt Johnson",
+   "institution": "The Ranch (Max Levai), East Hampton / Montauk, New York",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "July 2026 (lawsuit and construction stay)",
+   "date_discovered": "2026-08-14",
+   "sort_date": "2026-08-13",
+   "description": "The Town of East Hampton, New York, has sued The Ranch — a 16-acre art venue and working horse farm in Montauk owned by art consultant Max Levai — over Matt Johnson's nearly 60-foot-tall sculpture \"Meditating Figure\" (2026), built from 12 decommissioned shipping containers, according to The Art Newspaper (August 13, 2026). The town board voted 4-1 on July 7 to authorize legal action, and the July 2026 suit alleges four violations: breach of a conservation easement and failures to obtain a building permit, architectural review board approval, and a certificate of occupancy. Town lawyer Jake Turner said, \"By definition, this is a structure—they're welding large pieces of metal together.\" On July 31 a court issued a stay barring further construction. Charges against Johnson were later dropped, leaving The Ranch and Levai as defendants; Councilman Tom Flight dissented from the authorizing vote.",
+   "outcome": "Construction halted under a July 31, 2026 court stay; litigation pending between the town and The Ranch / Max Levai. [FOLLOW-UP PENDING: court ruling on the permitting and conservation-easement claims and the sculpture's fate.]",
+   "tags": "Legal challenge, Design controversy",
+   "court_case": "Yes",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/13/the-ranch-sculpture-east-hampton-lawsuit",
+   "additional_sources": [],
+   "themes": [
+    1
+   ],
+   "notes": "New parent. Theme 1 (Defining Art): the dispute turns partly on whether the work is a sculpture or a permit-requiring \"structure\" (town lawyer: \"By definition, this is a structure\"). Permitting/zoning/conservation-easement fight over large-scale sited art on private land.",
+   "interested_parties": "Town of East Hampton; The Ranch; Max Levai; Matt Johnson; town lawyer Jake Turner; Councilman Tom Flight",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
