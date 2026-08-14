@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-12",
   "methodology_version": "1.0",
-  "total_cases": 589
+  "total_cases": 588
  },
  "cases": [
   {
@@ -18842,17 +18842,19 @@
    "coverage_tier": "National",
    "outlets": [
     "New York Times",
-    "Artforum"
+    "Artforum",
+    "ARTnews"
    ],
    "source": "https://www.nytimes.com/2026/08/10/arts/design/national-gallery-art-doge-trump-censorship.html",
    "additional_sources": [
-    "https://www.artforum.com/news/former-natl-gallery-exec-accuses-museum-of-soft-censorship-1234756810/"
+    "https://www.artforum.com/news/former-natl-gallery-exec-accuses-museum-of-soft-censorship-1234756810/",
+    "https://www.artnews.com/art-news/news/steven-nelson-national-gallery-of-art-dc-soft-censorship-1234794697/"
    ],
    "themes": [
     2,
     4
    ],
-   "notes": "Anticipatory-obedience frame (§14): institution reported to have moved first, absent a direct order, to avoid anticipated political consequences. Do NOT apply the retired 'Soft censorship architecture' tag; the 'soft censorship' phrasing in the coverage is the source's characterization, paraphrased here rather than quoted because retrieval this run was metadata-grade, and never adopted as the Index's voice. Part of the DC federal-cultural-pressure cluster (cf. Smithsonian ACI-012 cluster, NEH/NEA ACI-077/034). THIN/metadata-grade at logging (NYT body blocked); enrich from full text on a personal-subscription pass and seek a second outlet.",
+   "notes": "Anticipatory-obedience frame (§14): institution reported to have moved first, absent a direct order, to avoid anticipated political consequences. Do NOT apply the retired 'Soft censorship architecture' tag; the 'soft censorship' phrasing in the coverage is the source's characterization, paraphrased here rather than quoted because retrieval this run was metadata-grade, and never adopted as the Index's voice. Part of the DC federal-cultural-pressure cluster (cf. Smithsonian ACI-012 cluster, NEH/NEA ACI-077/034). THIN/metadata-grade at logging (NYT body blocked); enrich from full text on a personal-subscription pass and seek a second outlet. [2026-08-13 review] ACI-316 (a duplicate parent drafted this run naming Steven Nelson as the former CASVA dean and citing the essay in the journal October, the Dumbarton Oaks venue move, and the DOGE meeting) was removed as a dupe; its ARTnews citation folded in here as corroboration.",
    "interested_parties": "National Gallery of Art; unnamed former Gallery executive (per NYT); Trump administration",
    "coverage_geography": "US",
    "follow_up_pending": true
@@ -18996,42 +18998,6 @@
    "follow_up_pending": true
   },
   {
-   "id": "ACI-316",
-   "entry_id": "316",
-   "seq": 617,
-   "title": "Ex-National Gallery of Art dean alleges soft censorship of race symposium after DOGE meeting",
-   "artist": "N/A",
-   "institution": "National Gallery of Art, Washington, DC; Center for Advanced Study in the Visual Arts (CASVA)",
-   "country": "United States",
-   "governance_type": "Democracy",
-   "date_controversy": "Symposium relocated May 2025; Nelson essay published week of 4 August 2026",
-   "date_discovered": "2026-08-13",
-   "sort_date": "2026-08-10",
-   "description": "Steven Nelson, the former dean of the National Gallery of Art's Center for Advanced Study in the Visual Arts (CASVA), accused the Gallery of soft censorship in an essay published in the art-history journal October, according to the New York Times, ARTnews, and Artforum. Nelson wrote that a scholarly symposium titled Color Lines Across the United States and Mexico -- planned for May 2025 and inspired by the Gallery's Elizabeth Catlett exhibition, examining constructions of race in American and Mexican art -- was quietly altered about two weeks before it was due to take place: it was removed from the National Gallery's website, options for virtual attendance were scrapped, and the venue was moved off-site to Dumbarton Oaks, a Harvard-affiliated research institute in Washington. Nelson alleged the changes followed a meeting between National Gallery leadership and representatives of Elon Musk's Department of Government Efficiency (DOGE). The account situates the episode within a broader pattern of federal cultural institutions adjusting programming under administration pressure (cf. ACI-012, the Smithsonian).",
-   "outcome": "Nelson's essay published and widely reported; the National Gallery's response was not established in the coverage retrieved this run. [FOLLOW-UP PENDING: National Gallery response and any further account of the DOGE meeting or of other altered programming.]",
-   "tags": "Censorship, Political interference",
-   "court_case": "No",
-   "coverage_tier": "National",
-   "outlets": [
-    "The New York Times",
-    "ARTnews",
-    "Artforum"
-   ],
-   "source": "https://www.nytimes.com/2026/08/10/arts/design/national-gallery-art-doge-trump-censorship.html",
-   "additional_sources": [
-    "https://www.artnews.com/art-news/news/steven-nelson-national-gallery-of-art-dc-soft-censorship-1234794697/",
-    "https://www.artforum.com/news/former-natl-gallery-exec-accuses-museum-of-soft-censorship-1234756810/"
-   ],
-   "themes": [
-    2,
-    4
-   ],
-   "notes": "New parent. Externalised-censorship / anticipatory-obedience frame (see CLAUDE.md sec 14): institution alters programming after indirect pressure rather than direct order. Cross-refs ACI-012 (Smithsonian pressure campaign). Retrieved via NYT metadata (API + search) and ARTnews/Artforum search results (both bot-walled on direct fetch); no direct quotations used, so the essay's wording is paraphrased.",
-   "interested_parties": "Steven Nelson (former CASVA dean); National Gallery of Art leadership; Department of Government Efficiency (DOGE)",
-   "coverage_geography": "US",
-   "follow_up_pending": true
-  },
-  {
    "id": "ACI-317",
    "entry_id": "317",
    "seq": 618,
@@ -19043,21 +19009,23 @@
    "date_controversy": "Collection went on display in Abu Dhabi November 2025; UK reaction reported August 2026",
    "date_discovered": "2026-08-13",
    "sort_date": "2026-08-12",
-   "description": "A collection of scientifically important Jurassic-era fossils assembled by British fossil collector Chris Moore along the Jurassic Coast in Dorset -- a UNESCO World Heritage Site -- has been sold to the Natural History Museum Abu Dhabi for what was reported to be an eight-figure sum, prompting British palaeontologists to describe the sale as a loss to the nation, according to ARTnews and Artforum. The collection reportedly includes ichthyosaurs, fish, and crustaceans, some potentially representing new species. Under the west Dorset fossil-collecting code, scientifically significant fossils must first be offered to UK-registered institutions for six months before they may be sold abroad; ARTnews reported that Moore offered the collection to the Natural History Museum in London and to Amgueddfa Cymru (Museum Wales), both of which declined, citing a lack of acquisition funds, with reporting citing an email indicating the London museum had no money for acquisitions. After the six-month window elapsed, the Natural History Museum Abu Dhabi bought the collection, which went on display there in November 2025.",
-   "outcome": "Sale complete; collection on public display at the Natural History Museum Abu Dhabi since November 2025. British palaeontologists and heritage commentators have questioned the UK's capacity to retain scientifically significant natural-history specimens given museum funding shortfalls. [FOLLOW-UP PENDING: any UK policy or funding response on natural-history heritage export.]",
+   "description": "A collection of 318 scientifically important Jurassic-era fossils assembled by British collector Chris Moore over years of fieldwork along the Jurassic Coast in Dorset -- a UNESCO World Heritage Site -- was sold to the Natural History Museum Abu Dhabi, where it went on display in November 2025, after UK institutions declined to buy it, according to The Guardian (8 August 2026), ARTnews, and Artforum. The collection reportedly includes ichthyosaurs, fish, and crustaceans, some potentially new to science. Under the west Dorset fossil-collecting code, scientifically significant fossils must first be offered to UK-registered institutions for six months before they may be sold abroad; Moore offered the collection to the Natural History Museum in London and to Amgueddfa Cymru (Museum Wales), both of which declined citing a lack of funds, with the Guardian reporting an internal email indicating the London museum had \"no money at all\" for acquisitions. The Guardian notes UK fossils are not automatically protected as heritage and that export licensing does not apply to them, so no legal mechanism prevented the overseas sale once the six-month window elapsed. Experts quoted in the coverage differed on how much the outcome matters. Erin Maxwell, an expert in Early Jurassic marine vertebrates at the State Museum of Natural History in Stuttgart, called it a loss to the UK: \"Fossils represent part of the natural [or] cultural heritage of the region and country from which they originate,\" she told The Guardian, while noting that \"the loss is somewhat offset by the fact that these fossils are going to a museum rather than into the collection of a wealthy individual.\" Phil Davidson, a palaeontologist at the Charmouth Heritage Coast Centre in Dorset, took a more expansive view, saying keeping the collection together was the priority: \"All the researchers I have talked to have said the same thing: The location of where the museum collection is housed is secondary,\" he said. \"This heritage is for everyone and not limited to lines on a map.\"",
+   "outcome": "Sale complete; collection on public display at the Natural History Museum Abu Dhabi since November 2025. British palaeontologists and heritage commentators have questioned the UK's capacity to retain scientifically significant natural-history specimens given museum funding shortfalls, while others argue continued public access and keeping the collection intact matter more than where it is housed. [FOLLOW-UP PENDING: any UK policy or funding response on natural-history heritage retention or export.]",
    "tags": "Funding dispute, UNESCO World Heritage Site",
    "court_case": "No",
    "coverage_tier": "International",
    "outlets": [
+    "The Guardian",
     "ARTnews",
     "Artforum"
    ],
-   "source": "https://www.artnews.com/art-news/news/important-uk-fossil-collection-sold-overseas-loss-to-nation-1234794806/",
+   "source": "https://www.theguardian.com/science/ng-interactive/2026/aug/09/one-of-uks-best-fossil-collections-sold-overseas-in-loss-to-the-nation",
    "additional_sources": [
+    "https://www.artnews.com/art-news/news/important-uk-fossil-collection-sold-overseas-loss-to-nation-1234794806/",
     "https://www.artforum.com/news/top-uk-jurassic-fossil-collection-sold-overseas-1234756756/"
    ],
    "themes": [],
-   "notes": "New parent. Natural-heritage export / retention controversy centered on museum funding shortfalls, not a museum deaccession. The originating reporting (an email seen by the Guardian) was surfaced via ARTnews/Artforum; the Guardian itself could not be retrieved this run (no API key in environment) and is therefore not cited. Retrieved via ARTnews/Artforum search results (both bot-walled on direct fetch); no direct quotations used. FOR REVIEW: tag/theme fit is imperfect -- there is no existing 'heritage export' broad tag, and no Dissensus theme cleanly applies (theme 5, Universal Museum, is arguable for the acquiring encyclopedic museum). Borderline inclusion (framed as loss/lament more than two-party dispute).",
+   "notes": "New parent. Natural-heritage export / retention controversy centered on museum funding shortfalls, not a museum deaccession. Reference source is The Guardian's 8 August 2026 report (origin of the 'no money at all' email detail); the Guardian is bot-walled to direct fetch and no GU_API_KEY is set in this environment, so its full body was read via verbatim syndication and its canonical URL pinned by hand (CLAUDE.md sec 6A convention). ARTnews and Artforum corroborate and carry the same expert quotes (retrieved via search-result snippets; bot-walled on direct fetch). FOR REVIEW: tag/theme fit is imperfect -- no existing 'heritage export' broad tag, and no Dissensus theme cleanly applies (used themes []); theme 5 (Universal Museum) is arguable for the acquiring encyclopedic museum. Coverage presents a genuine split (Maxwell: a loss, but offset by a museum home; Davidson: location secondary), reflected above rather than a one-sided 'loss to the nation' frame.",
    "interested_parties": "Chris Moore (collector); Natural History Museum Abu Dhabi; Natural History Museum, London; Amgueddfa Cymru - Museum Wales; UK palaeontologists",
    "coverage_geography": "UK, UAE",
    "follow_up_pending": true
