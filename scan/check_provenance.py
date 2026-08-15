@@ -111,6 +111,9 @@ DOMAIN_TO_OUTLET = {
     "wvtf.org": "WVTF",
     "gofundme.com": "GoFundMe (Devins fundraiser)",
     "wgntv.com": "WGN-TV",
+    "sana.sy": "SANA",
+    "syriahr.com": "Syrian Observatory for Human Rights",
+    "momaa.org": "MOMAA",
 }
 
 ALIASES = {
