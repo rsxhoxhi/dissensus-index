@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-12",
   "methodology_version": "1.0",
-  "total_cases": 588
+  "total_cases": 592
  },
  "cases": [
   {
@@ -19028,6 +19028,128 @@
    "notes": "New parent. Natural-heritage export / retention controversy centered on museum funding shortfalls, not a museum deaccession. Reference source is The Guardian's 8 August 2026 report (origin of the 'no money at all' email detail); the Guardian is bot-walled to direct fetch and no GU_API_KEY is set in this environment, so its full body was read via verbatim syndication and its canonical URL pinned by hand (CLAUDE.md sec 6A convention). ARTnews and Artforum corroborate and carry the same expert quotes (retrieved via search-result snippets; bot-walled on direct fetch). FOR REVIEW: tag/theme fit is imperfect -- no existing 'heritage export' broad tag, and no Dissensus theme cleanly applies (used themes []); theme 5 (Universal Museum) is arguable for the acquiring encyclopedic museum. Coverage presents a genuine split (Maxwell: a loss, but offset by a museum home; Davidson: location secondary), reflected above rather than a one-sided 'loss to the nation' frame.",
    "interested_parties": "Chris Moore (collector); Natural History Museum Abu Dhabi; Natural History Museum, London; Amgueddfa Cymru - Museum Wales; UK palaeontologists",
    "coverage_geography": "UK, UAE",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-323",
+   "entry_id": "323",
+   "seq": 621,
+   "title": "Guggenheim sues to recover Picasso's 'Femme dans un fauteuil,' stolen in 1961",
+   "artist": "Pablo Picasso",
+   "institution": "Solomon R. Guggenheim Foundation; University of Pittsburgh",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Painting stolen 6 February 1961; lawsuit filed the week of 11 August 2026",
+   "date_discovered": "2026-08-16",
+   "sort_date": "2026-08-14",
+   "description": "The Solomon R. Guggenheim Foundation has gone to court to recover Pablo Picasso's 'Femme dans un fauteuil' (1918), a small oil painting about 13.5 by 10.5 inches that vanished more than six decades ago and has now resurfaced, according to Hyperallergic (14 August 2026). The painting disappeared on 6 February 1961 from the University of Pittsburgh's Student Union building, where it had been on loan from the Guggenheim for a fall-semester exhibition and was due to be returned that month. The university reported the theft to the Pittsburgh Police Department and the FBI was brought in, but despite news coverage, notices to institutions across North America, and a reward, the case went cold. The Guggenheim says the work has now reappeared and it is seeking its return through the courts. The retrieved coverage does not name the current holders of the painting, specify the court, or detail the defendants' position.",
+   "outcome": "Lawsuit filed; the Guggenheim seeks return of the painting after its reappearance. Current holders, the court, and any defense over good-faith purchase or limitations are not specified in the available coverage. [FOLLOW-UP PENDING: court, named defendants, and any counterclaim on ownership, good-faith purchase, or statute of limitations.]",
+   "tags": "Legal challenge, Copyright/ownership",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/the-guggenheim-wants-its-picasso-back/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Recovery suit over a Picasso stolen 65 years ago from a university loan exhibition and now resurfaced. Source is Hyperallergic (14 August 2026), fetched in full; ARTnews also reported (headline via RSS) but its body was bot-walled (tollbit redirect, HTTP 402) on direct fetch this run, so it is not cited. Court and current holders not named in retrieved coverage -- entry is thin on those specifics. No Dissensus theme applied; theme 12 (Restitution & Repatriation) is a poor fit for a 1961 domestic art theft, so left empty. FOR REVIEW: coverage-tier set to International on the assumption of wide art-press pickup, but only US art press was retrieved this run.",
+   "interested_parties": "Solomon R. Guggenheim Foundation; University of Pittsburgh; unnamed current holders of the painting",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-324",
+   "entry_id": "324",
+   "seq": 622,
+   "title": "Buyers sue London's Alison Jacques gallery over cancelled Monica Sjoo sale",
+   "artist": "Monica Sjoo",
+   "institution": "Alison Jacques (gallery), London",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Sale agreed 6 October 2023; later cancelled; claim due to be heard March 2027",
+   "date_discovered": "2026-08-16",
+   "sort_date": "2026-08-14",
+   "description": "Collectors Yoed and Natasha Anise are suing London's Alison Jacques gallery for breach of contract after the gallery cancelled the sale of three paintings by the Swedish-British artist Monica Sjoo, according to The Art Newspaper (14 August 2026). The works are 'Meeting the Ancestors at Avebury' (1993), 'Forest Beings' (1997) and 'Amazon Women of the Bronze Age' (1999); the buyers agreed to purchase them on 6 October 2023 for 264,000 pounds, a 20 percent discount off a 330,000-pound price. The gallery cancelled after objections from representatives of Sjoo's estate. The Anises seek the 264,000-pound sum plus the value of the discount, an adviser's fee, travel expenses, legal costs, and damages for lost 'pleasure, amenity, prestige and heritage value.' Alison Jacques denies breach, arguing the estate legitimately rescinded the sale, and has counterclaimed that the buyers misrepresented their collecting intentions and that their damages claims are 'misconceived.' A central question is whether ownership passed on payment or only once the estate received the funds. The claim is due to be heard at Central London County Court in March 2027.",
+   "outcome": "Claim filed; due to be heard at Central London County Court in March 2027. The gallery denies breach of contract and has counterclaimed. [FOLLOW-UP PENDING: March 2027 hearing and any ruling on when ownership transferred and whether the estate could rescind.]",
+   "tags": "Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/14/buyers-sue-alison-jacques-gallery-sale-sjoo-paintings",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "New parent. Contract dispute over a cancelled gallery sale that the artist's estate objected to. Source: The Art Newspaper (14 August 2026), fetched in full (quotes verified against it). Theme 10 (Art and Capital) applied tentatively -- the estate's stated concern about the buyers' collecting intentions engages resale/flipping questions; FOR REVIEW if judged too loose. Coverage-tier National (UK art press retrieved).",
+   "interested_parties": "Yoed and Natasha Anise (buyers); Alison Jacques (gallery); representatives of the Monica Sjoo estate",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-325",
+   "entry_id": "325",
+   "seq": 623,
+   "title": "Elizabeth Street Garden spared as Mamdani administration drops Haven Green housing plan",
+   "artist": "N/A",
+   "institution": "Elizabeth Street Garden (nonprofit); City of New York",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Long-running dispute; resolution reached ahead of a 13 August 2026 court hearing; confirmed 14 August 2026",
+   "date_discovered": "2026-08-16",
+   "sort_date": "2026-08-13",
+   "description": "Elizabeth Street Garden, a roughly one-acre city-owned, nonprofit-run public sculpture garden in Manhattan's Nolita, has been preserved after Mayor Zohran Mamdani's administration moved to abandon a long-standing city plan to demolish it, according to The Art Newspaper (12 August 2026). The garden -- which holds sculptures and statuary and hosts public programming such as yoga, outdoor films and art events -- had been slated for replacement by Haven Green, a 123-unit affordable-housing development for seniors with ground-floor retail and Habitat for Humanity offices. The garden's nonprofit, led by Joseph Reiver, son of founder Allan Reiver, fought the demolition for years, backed by supporters including Patti Smith, Martin Scorsese and Robert De Niro, and argued that community green space and affordable housing could both be provided without losing the garden. Under a resolution reached between the city and developers before a scheduled 13 August 2026 court hearing, the garden is to be preserved in perpetuity while the city develops 180 affordable homes at nearby 22 Suffolk Street.",
+   "outcome": "Resolved. The garden is to be preserved in perpetuity; the city will build affordable housing at 22 Suffolk Street instead of on the garden site. The resolution was reached before the scheduled 13 August 2026 court hearing.",
+   "tags": "Historic preservation, Community objection",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/12/elizabeth-street-garden-mamdani-administration-drops-affordable-housing-project",
+   "additional_sources": [],
+   "themes": [
+    9
+   ],
+   "notes": "New parent / cluster anchor -- resolution of a long-running public-space dispute; Elizabeth Street Garden was not previously in the Index. Source: The Art Newspaper (12 August 2026), fetched in full. The contested thing is the sculpture garden / public art space itself, not merely the land. Theme 9 (Public Objection) applied loosely -- here the public voice pressed to KEEP a publicly sited art space rather than to remove art. FOR REVIEW: primarily a land-use/housing fight with a strong cultural-space dimension; borderline inclusion kept per the show-more threshold.",
+   "interested_parties": "Joseph Reiver (Elizabeth Street Garden nonprofit); City of New York; Mayor Zohran Mamdani; Patti Smith; Martin Scorsese; Robert De Niro; Habitat for Humanity",
+   "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-326",
+   "entry_id": "326",
+   "seq": 624,
+   "title": "AI-generated work pulled from China Artists Association children's picture-book show",
+   "artist": "Artist surnamed Chen (Hubei)",
+   "institution": "China Artists Association; Shandong Art Museum",
+   "country": "China",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Exhibition opened 16 July 2026; work removed around 7 August 2026; disqualification reported 13 August 2026",
+   "date_discovered": "2026-08-16",
+   "sort_date": "2026-08-13",
+   "description": "A picture-book work titled Putting Summer Into a Backpack (把夏天装进书包), by an artist surnamed Chen from Hubei, was removed from the China Artists Association's first Children's Picture Book Exhibition (Childlike Heart Dreams, 童心绘梦) at the Shandong Art Museum after online viewers challenged it as AI-generated, according to China News Service (chinanews.com.cn, 14 August 2026) and the Yangtze Evening Post (13 August 2026). The exhibition opened on 16 July 2026. Viewers -- reportedly prompted by a child who noticed the anatomical errors around 7 August -- pointed to twisted fingers, an apparent six-fingered hand and three hands appearing in a single image. The exhibition's submission rules had explicitly barred AI-generated works, along with forgery, ghostwriting, plagiarism and reproduction. The Shandong Art Museum said the work had been taken down and was under review; the China Artists Association's professional-ethics and rights-protection department said its investigation found the work to be AI-generated and cancelled the creator's selection.",
+   "outcome": "Work removed from the exhibition; the China Artists Association cancelled the creator's selection after concluding the piece was AI-generated. [FOLLOW-UP PENDING: any statement from the disqualified creator, or a wider tightening of the association's AI-screening rules for juried shows.]",
+   "tags": "AI, Authenticity",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "China News Service",
+    "Yangtze Evening Post"
+   ],
+   "source": "https://www.chinanews.com.cn/cul/2026/08-14/10677688.shtml",
+   "additional_sources": [
+    "https://www.yzwb.net/news/sh/202608/t20260813_382325.html"
+   ],
+   "themes": [
+    1,
+    11
+   ],
+   "notes": "New parent. AI-generated work admitted to a juried show that banned AI, then removed and disqualified after public detection of anatomical tells. Sources retrieved via search-result snippets this run (China News Service headline and Yangtze Evening Post report); chinanews.com.cn direct fetch returned HTTP 503 and the Chinese-domain outlets were logged at snippet_only grade. Description and outcome are written quote-free (no full-text success retrieval on the cited Chinese outlets, so no direct quotations used). Domains chinanews.com.cn and yzwb.net were added to DOMAIN_TO_OUTLET in scan/check_provenance.py this run. Themes 1 (Defining Art) and 11 (Authorship & Appropriation) for the AI-authorship axis.",
+   "interested_parties": "China Artists Association (professional-ethics and rights-protection department); Shandong Art Museum; artist surnamed Chen (disqualified creator)",
+   "coverage_geography": "China",
    "follow_up_pending": true
   }
  ]

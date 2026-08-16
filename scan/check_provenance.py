@@ -111,6 +111,8 @@ DOMAIN_TO_OUTLET = {
     "wvtf.org": "WVTF",
     "gofundme.com": "GoFundMe (Devins fundraiser)",
     "wgntv.com": "WGN-TV",
+    "chinanews.com.cn": "China News Service",
+    "yzwb.net": "Yangtze Evening Post",
 }
 
 ALIASES = {
