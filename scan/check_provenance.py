@@ -111,6 +111,11 @@ DOMAIN_TO_OUTLET = {
     "wvtf.org": "WVTF",
     "gofundme.com": "GoFundMe (Devins fundraiser)",
     "wgntv.com": "WGN-TV",
+    "pbs.org": "PBS NewsHour",
+    "mexiconewsdaily.com": "Mexico News Daily",
+    "heritagedaily.com": "Heritage Daily",
+    "naharnet.com": "Naharnet",
+    "m.naharnet.com": "Naharnet",
 }
 
 ALIASES = {

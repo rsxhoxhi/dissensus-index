@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-12",
   "methodology_version": "1.0",
-  "total_cases": 588
+  "total_cases": 591
  },
  "cases": [
   {
@@ -19029,6 +19029,107 @@
    "interested_parties": "Chris Moore (collector); Natural History Museum Abu Dhabi; Natural History Museum, London; Amgueddfa Cymru - Museum Wales; UK palaeontologists",
    "coverage_geography": "UK, UAE",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-327",
+   "entry_id": "327",
+   "seq": 619,
+   "title": "Four Antonello da Messina works stolen from Messina's regional museum during Ferragosto",
+   "artist": "Antonello da Messina (attributed)",
+   "institution": "Museo Regionale di Messina (MuMe)",
+   "country": "Italy",
+   "governance_type": "Democracy",
+   "date_controversy": "Theft night of 15-16 August 2026 (Ferragosto holiday)",
+   "date_discovered": "2026-08-17",
+   "sort_date": "2026-08-16",
+   "description": "Thieves bypassed the alarm and security systems at the Museo Regionale di Messina (MuMe) in Sicily on the evening of the Ferragosto holiday and removed four works attributed to the Renaissance painter Antonello da Messina, according to PBS NewsHour, The Washington Post and The New York Times (all 16 August 2026). The works taken were three of the five surviving panels of the San Gregorio Polyptych (1473) and a double-sided panel depicting the Virgin Mary and the dead Christ in Pieta, the latter removed from an armored display case. Two of the polyptych panels -- depicting St Gregory the Great and St Benedict -- were found abandoned on a low wall near the museum shortly after the robbery; further works remained missing at the time of reporting. MuMe director Marisa Mercurio said the institution was \"devastated by what happened,\" adding, \"They were two of Antonello da Messina's most important and best-known works.\" Messina culture official Enzo Caruso said, \"Messina without Antonello is deprived of the very essence of the greatest artist of the European Renaissance.\" Art-crime analyst Lynda Albertson observed that \"stealing an Antonello may be far easier than selling one,\" and the art expert Alberto Fiz estimated the works' value at 70-80 million euros. A local councilor suggested the Italian state's roughly 14.9-million-dollar acquisition of Antonello's 'Ecce Homo' through Sotheby's earlier in 2026 may have raised the Messina museum's profile among thieves.",
+   "outcome": "Two polyptych panels (St Gregory the Great, St Benedict) were recovered abandoned near the museum shortly after the theft; the double-sided Pieta panel and further work(s) remained missing, with a Carabinieri art-squad (TPC) investigation underway. [FOLLOW-UP PENDING: recovery of the remaining works and any arrests.]",
+   "tags": "Security failure, Institutional crisis",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "PBS NewsHour",
+    "The Washington Post",
+    "The New York Times"
+   ],
+   "source": "https://www.pbs.org/newshour/arts/thieves-steal-4-renaissance-artworks-in-a-sicilian-museum-heist-during-an-italian-holiday",
+   "additional_sources": [
+    "https://www.washingtonpost.com/world/2026/08/16/italy-museum-theft-sicily-da-messina/e0d1877a-9964-11f1-9cc4-2dc9b46e2d5c_story.html",
+    "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html"
+   ],
+   "themes": [],
+   "notes": "New parent. Major museum theft of recognized Renaissance heritage; tagged Security failure (alarm/security bypassed) consistent with ACI-002 (Louvre heist), not the cultural-property-destruction umbrella (works stolen, not destroyed). Cross-ref ACI-002 as a comparable high-value European museum heist. Value estimate (70-80M euros) attributed to art expert Alberto Fiz. FOR REVIEW: the count of works still missing varies across early reports (some sources say two remain missing, one said four); stated conservatively above. No Dissensus theme cleanly applies (themes []).",
+   "interested_parties": "Museo Regionale di Messina (director Marisa Mercurio); Enzo Caruso (Messina culture official); Carabinieri TPC art squad; Italian Culture Ministry",
+   "coverage_geography": "Italy, US, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-328",
+   "entry_id": "328",
+   "seq": 620,
+   "title": "Turquoise-mosaic Mixtec skull returns to Mexico after six decades at Leiden's Wereldmuseum",
+   "artist": "Unknown (Mixtec)",
+   "institution": "Wereldmuseum, Leiden; Instituto Nacional de Antropologia e Historia (INAH); Yucu Saa Community Museum, Villa de Tututepec",
+   "country": "Mexico",
+   "governance_type": "Democracy",
+   "date_controversy": "Repatriated May 2025; INAH authentication and community-display plan reported August 2026",
+   "date_discovered": "2026-08-17",
+   "sort_date": "2026-08-15",
+   "description": "A Mixtec human skull adorned with turquoise, shell, jadeite and quartz mosaic, dated to the Late Postclassic period (AD 1300-1521), has returned to Mexico after more than six decades at the Wereldmuseum in Leiden, the Netherlands, according to The Art Newspaper (17 August 2026), Mexico News Daily and Heritage Daily. The museum's then-director Pieter Hendrik Pott acquired the skull in 1964 from the American dealer Robert Stolper without provenance records. It was repatriated in May 2025 following a grassroots campaign by the Nchivi Nuu Savi collective (founded 2020) and the Mexican artist Daniel Aguilar Ruvalcaba, supported by a petition from 1,020 residents of Villa de Tututepec and a separate official Mexican request approved in December 2024. The skull is now in the custody of Mexico's Instituto Nacional de Antropologia e Historia (INAH). Culture minister Claudia Curiel said, \"We recognise the collective's initiative, whose work contributed to the skull's return.\" Archaeologist Martin Berger, who published analyses of the object, has cautioned that while its mosaic materials are pre-Hispanic, most of the adhesive is modern: \"The skull as we see it today is clearly a modern combination of ancient elements.\"",
+   "outcome": "The skull is held by INAH; a community display is planned at the Yucu Saa Community Museum in Villa de Tututepec, Oaxaca, for April 2027, once conditions are in place. [FOLLOW-UP PENDING: the planned April 2027 community display in Tututepec.]",
+   "tags": "Repatriation, Indigenous rights",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper",
+    "Mexico News Daily",
+    "Heritage Daily"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/17/human-skull-turquoise-mosaic-repatriated-netherlands-mexico",
+   "additional_sources": [
+    "https://mexiconewsdaily.com/culture/mexico-turquoise-skull-pre-columbian-treasure/",
+    "https://www.heritagedaily.com/2026/08/rare-mixtec-turquoise-mosaic-skull-repatriated-to-mexico/158899"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Restitution/repatriation resolution logged as a cluster anchor (CLAUDE.md sec 7). Notable for a community/grassroots-led mechanism (Nchivi Nuu Savi collective) rather than purely state-to-state. Cross-ref ACI-300 (Australian Museum returns 17 Rapa Nui skulls) and ACI-193 (Netherlands/Germany Ghana returns) as comparable repatriations of human remains / cultural objects. FOR REVIEW: underlying return occurred May 2025; the current news hook is the August 2026 coverage of INAH authentication and the April 2027 display plan.",
+   "interested_parties": "Nchivi Nuu Savi collective; Daniel Aguilar Ruvalcaba (artist); INAH; Wereldmuseum Leiden; Claudia Curiel (Mexican culture minister); Villa de Tututepec community",
+   "coverage_geography": "Mexico, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-329",
+   "entry_id": "329",
+   "seq": 621,
+   "title": "23 Syrian antiquities returned by France go on display at the Damascus Citadel",
+   "artist": "Unknown (ancient Syrian / Palmyrene)",
+   "institution": "Damascus Citadel; National Museum of Damascus; Arab World Institute, Paris",
+   "country": "Syria",
+   "governance_type": "Transitional (post-Assad)",
+   "date_controversy": "Artifacts returned July 2026 (Macron Damascus visit); Damascus Citadel display August 2026",
+   "date_discovered": "2026-08-17",
+   "sort_date": "2026-08-16",
+   "description": "Twenty-three Syrian archaeological artifacts returned by France are on public display at the Damascus Citadel as part of a summer festival exhibition, according to ARTnews (17 August 2026), with the return itself reported by Naharnet. The objects span from the ninth millennium BC to the 14th-15th centuries AD and include Roman bronzes, Byzantine and Islamic-era pieces, Palmyrene funerary sculptures, and a mosaic panel that once adorned the Umayyad Mosque; they originated from museums in Damascus, Aleppo, Latakia and Palmyra. The artifacts had been loaned in 2011 to an exhibition of Syrian antiquities at the Arab World Institute in Paris and remained in France after diplomatic ties were severed under Bashar al-Assad's government. French President Emmanuel Macron transported them aboard his presidential aircraft during his visit to Damascus -- the first by a major Western leader since Assad's ouster in late 2024 -- and they were handed to Syria's National Museum. Maamoun Abdulkarim, Syria's former antiquities director, said he had formally requested their return in 2014 without response, describing pressure under the former government: \"We were interrogated by Bashar Assad's security forces. We were beaten and accused of being too lenient.\" He called France \"the first country to cooperate with Syria\" under the post-Assad repatriation campaign and \"a positive message for the future.\"",
+   "outcome": "The artifacts are back in Syria, with a selection shown at the Damascus Citadel and the National Museum of Damascus. Syrian officials have framed the return as the opening of a broader repatriation campaign under the post-Assad government.",
+   "tags": "Repatriation, Geopolitics",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Naharnet",
+    "ARTnews"
+   ],
+   "source": "https://m.naharnet.com/stories/en/321190-france-returns-23-syrian-treasures-after-15-years-as-macron-visits-damascus",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/roman-artifacts-on-view-syria-damascus-citadel-repatriation-france-1234795006/"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Restitution/repatriation resolution logged as a cluster anchor (CLAUDE.md sec 7). Cross-ref ACI-193 (Ghana returns) and ACI-252 (Bavaria Nazi-loot panel) as comparable restitution developments; geopolitical dimension (first Western cooperation with post-Assad Syria). SANA (Syrian state agency) also reported the Damascus Citadel display but was not cited as a factual source per the source-reliability discipline (state outlet / participant). Governance type recorded as transitional given post-Assad uncertainty. follow_up_pending set false: the return and display are a completed development, not a flagged pending event.",
+   "interested_parties": "Emmanuel Macron (French president); Maamoun Abdulkarim (former Syrian antiquities director); National Museum of Damascus; Arab World Institute (Paris); Syrian Directorate-General of Antiquities and Museums",
+   "coverage_geography": "Syria, France, Middle East",
+   "follow_up_pending": false
   }
  ]
 }
