@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-12",
   "methodology_version": "1.0",
-  "total_cases": 588
+  "total_cases": 589
  },
  "cases": [
   {
@@ -19028,6 +19028,41 @@
    "notes": "New parent. Natural-heritage export / retention controversy centered on museum funding shortfalls, not a museum deaccession. Reference source is The Guardian's 8 August 2026 report (origin of the 'no money at all' email detail); the Guardian is bot-walled to direct fetch and no GU_API_KEY is set in this environment, so its full body was read via verbatim syndication and its canonical URL pinned by hand (CLAUDE.md sec 6A convention). ARTnews and Artforum corroborate and carry the same expert quotes (retrieved via search-result snippets; bot-walled on direct fetch). FOR REVIEW: tag/theme fit is imperfect -- no existing 'heritage export' broad tag, and no Dissensus theme cleanly applies (used themes []); theme 5 (Universal Museum) is arguable for the acquiring encyclopedic museum. Coverage presents a genuine split (Maxwell: a loss, but offset by a museum home; Davidson: location secondary), reflected above rather than a one-sided 'loss to the nation' frame.",
    "interested_parties": "Chris Moore (collector); Natural History Museum Abu Dhabi; Natural History Museum, London; Amgueddfa Cymru - Museum Wales; UK palaeontologists",
    "coverage_geography": "UK, UAE",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-330",
+   "entry_id": "330",
+   "seq": 629,
+   "title": "World War II Memorial defaced with soap and graffiti; suspect charged with felonies, then released",
+   "artist": "N/A (National World War II Memorial; designed by Friedrich St. Florian)",
+   "institution": "National World War II Memorial (National Mall); National Park Service; U.S. Attorney's Office for the District of Columbia",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Vandalism 13 August 2026; suspect released pending trial 17 August 2026",
+   "date_discovered": "2026-08-18",
+   "sort_date": "2026-08-17",
+   "description": "Part of the National World War II Memorial on the Washington Mall was defaced on 13 August 2026 with red and green spray paint and with soap that caused the memorial's fountains to overflow with suds, according to The Washington Post and Reuters. Graffiti reading \"Clean hands Dirty $\" was painted on one surface. U.S. Park Police investigated, and the Justice Department charged Melissa Farris, 41, of Kentucky, with two felony counts -- depredation of federal property and destruction of veterans' memorials. In Facebook posts cited by Reuters, Farris said she had planned the 13 August action to protest U.S. tax dollars not being spent on ordinary Americans and to draw attention to what she alleged were \"corporate racketeering, embezzlement and slave labor practices.\" On 17 August a federal judge ordered Farris released pending trial, with conditions including surrendering her passport and remaining in the continental United States; a preliminary hearing is set for 3 September. U.S. Attorney for the District of Columbia Jeanine Pirro, whose office argued Farris posed a flight risk and asked the court to reconsider, publicly criticized the release order. Pirro's office had days earlier dropped charges against four people it had accused of vandalizing the nearby Lincoln Memorial Reflecting Pool.",
+   "outcome": "Open federal prosecution. Farris faces two felony counts and was released pending trial on conditions; a preliminary hearing is scheduled for 3 September 2026.",
+   "tags": "Vandalism, Protest art, Political art, Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post",
+    "Reuters",
+    "The New York Times"
+   ],
+   "source": "https://www.washingtonpost.com/dc-md-va/2026/08/17/judge-orders-release-woman-accused-vandalizing-wwii-memorial/",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/18/us/politics/wwii-memorial-vandalism-trump-pirro.html"
+   ],
+   "themes": [
+    6,
+    7
+   ],
+   "notes": "[FOLLOW-UP PENDING: preliminary hearing 3 September 2026; charges unresolved]. New parent. Part of the National Mall protest-vandalism cluster prosecuted by the DC U.S. Attorney's office: cross-ref ACI-046-P (Reflecting Pool vandalism charges dropped by Pirro), ACI-046-I (David Hearn indicted over alleged Reflecting Pool vandalism), and ACI-174 ('86 47' turf vandalism near the Washington Monument). Pirro throughline noted. The WWII Memorial is a modern (2004) national memorial, so this is logged as Vandalism/protest expression, not under the cultural-property-destruction umbrella per CLAUDE.md sec 4.",
+   "interested_parties": "Melissa Farris (accused); Jeanine Pirro (U.S. Attorney, District of Columbia); U.S. Department of Justice; U.S. Park Police; National Park Service",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
