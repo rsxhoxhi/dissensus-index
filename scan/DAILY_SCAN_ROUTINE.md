@@ -103,7 +103,7 @@ This step is NOT satisfied by ingest.py / the RSS feed. RSS is a narrow, time-wi
    all listed languages, past 24–48h. The non-Latin-script passes (ZH/JA/KO/AR/FA/HI)
    are mandatory on Thursday and Saturday.
 3. **Trawl:** run today's regional trawl from CLAUDE.md Part 2, including the standing
-   searches for that day (Richmond/VA on Tue/Fri, Hungary de-Orbánization on Wed, etc.).
+   searches for that day (Richmond/VA on Tue/Fri, etc.).
 4. **Follow-up sweep:** for each `follow_up_pending` case that is plausibly ripe,
    web-search for developments.
 5. **Paywalled sources:** where a direct fetch is blocked, use
