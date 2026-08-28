@@ -353,6 +353,7 @@ When the maintainer pastes a link or describes something they saw, fetch it, ass
 ## 13. Operational notes
 
 - **Always use exact dates**, never relative time ("April 13, 2026," not "yesterday"). Temporal fluency is unreliable — a known limitation.
+- **Use BCE/CE, not BC/AD** for era designations ("500 BCE," "8th century CE," "c. 550–950 CE"). House style across all entries.
 - **Keep all cases permanently.** Resolved cases still get appeals, retrospectives, or inspire new incidents.
 - **Two-pass enrichment:** a thin dragnet entry when it breaks, enriched on the relevant trawl day with local sources and original-language reporting. Thin entries with sparse English coverage may be the most interesting in the database — log them.
 - **Governance hypothesis to track:** religious-objection controversies may cluster in diverse democracies rather than theocracies (theocratic censorship is pre-emptive and structural). The governance column exists partly to test this.
