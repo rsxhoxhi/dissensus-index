@@ -111,6 +111,18 @@ DOMAIN_TO_OUTLET = {
     "wvtf.org": "WVTF",
     "gofundme.com": "GoFundMe (Devins fundraiser)",
     "wgntv.com": "WGN-TV",
+    "aawsat.com": "Asharq Al-Awsat",
+    "english.aawsat.com": "Asharq Al-Awsat",
+    "momaa.org": "MOMAA",
+    "sana.sy": "SANA",
+    "syriahr.com": "Syrian Observatory for Human Rights",
+    "chinanews.com.cn": "China News Service",
+    "yzwb.net": "Yangtze Evening Post",
+    "heritagedaily.com": "HeritageDaily",
+    "m.naharnet.com": "Naharnet",
+    "mexiconewsdaily.com": "Mexico News Daily",
+    "naharnet.com": "Naharnet",
+    "pbs.org": "PBS",
 }
 
 ALIASES = {
