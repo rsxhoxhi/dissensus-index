@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 607
+  "total_cases": 610
  },
  "cases": [
   {
@@ -16078,6 +16078,34 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-219-A",
+   "entry_id": "219-A",
+   "seq": 623,
+   "title": "MuCEM: IGAC report accuses suspended president Costa of harassment and contract abuses; criminal probe expanded",
+   "artist": "N/A (museum leadership)",
+   "institution": "Museum of European and Mediterranean Civilisations (MuCEM), Marseille",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-21",
+   "date_discovered": "2026-08-22",
+   "sort_date": "2026-08-21",
+   "description": "A report by France's General Inspectorate of Cultural Affairs (IGAC) accuses Pierre-Olivier Costa, the suspended president of the Museum of European and Mediterranean Civilisations (MuCEM) in Marseille, of sexual and moral harassment, of breaching public-procurement and hiring rules through preferential treatment, and of putting France's only national museum outside Paris at risk, ARTnews reported on 21 August 2026. Marseille's public prosecutor has expanded the existing criminal investigation into Costa's tenure to take in the contracting and hiring allegations. The museum's general manager, Véronique Haché -- suspended alongside Costa in late June 2026 (see ACI-219) -- is also named in the report for related alleged misconduct. Costa has denied wrongdoing. The allegations trace to a March 2026 complaint by a MuCEM employee, since on medical leave, who alleged sexual and moral harassment by the director.",
+   "outcome": "IGAC report accusing Costa of harassment and procurement/hiring violations reported publicly; Marseille prosecutor's criminal investigation expanded to cover the contracting allegations; Costa denies wrongdoing. [FOLLOW-UP PENDING: outcome of the expanded criminal investigation and the status of Costa and Hache.]",
+   "tags": "Institutional crisis",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/report-accuses-marseille-museum-president-of-sexual-harassment-and-putting-institution-at-risk-1234795542/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Sub-entry of ACI-219. Development: the previously undisclosed IGAC report is characterized in coverage, and the criminal probe (preliminary at the time of the parent entry) has been expanded to the procurement/hiring allegations. Reference source ARTnews (21 Aug 2026), retrieved via search-result snippet (ARTnews is bot-walled to direct fetch this run); no direct quotations used given metadata-grade retrieval. Themes inherited from parent (none).",
+   "interested_parties": "Pierre-Olivier Costa; Veronique Hache; IGAC (General Inspectorate of Cultural Affairs); Marseille public prosecutor; complainant employee; MuCEM",
+   "coverage_geography": "France, US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-220",
    "entry_id": "220",
    "seq": 474,
@@ -19642,6 +19670,68 @@
    "notes": "New parent. An impersonation site misappropriating a living artist's works and likeness; the operator is anonymous (concealed registrant), so anonymity is constitutive rather than a thinness defect. Logged as an authorship/appropriation dispute (Theme 11) with the artist's public response. Reference source Artforum; Urgent Matter (art-law newsletter, newer -- under evaluation) is secondary and carries the fuller account including the artist's Instagram statement. Note: Artforum cites and links Urgent Matter.",
    "interested_parties": "Jordan Casteel; Casey Kaplan gallery; David Schulze (photographer); anonymous operator of tremblayrebecca.art",
    "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-339",
+   "entry_id": "339",
+   "seq": 621,
+   "title": "Smithsonian weighs Arts and Industries Building for Latino museum, bypassing congressional approval",
+   "artist": "N/A (federal museum)",
+   "institution": "Smithsonian Institution; National Museum of the American Latino",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Site plan reported 2026-08-21; board of regents to meet 2026-08-31",
+   "date_discovered": "2026-08-22",
+   "sort_date": "2026-08-21",
+   "description": "The Smithsonian Institution's board of regents is scheduled to meet on 31 August 2026 to discuss housing the National Museum of the American Latino inside the historic Arts and Industries Building on the National Mall in Washington, DC -- a step that, because it uses an existing Smithsonian building rather than new construction, would not require the congressional approval a new museum would, according to The Art Newspaper (21 August 2026) and ARTnews. The museum, authorized by Congress in 2020, has been the subject of repeated political dispute: its 2023 inaugural exhibition, ¡Presente! A Latino History of the United States, drew objections from some Republicans over its treatment of colonialism and US interventions in Latin America, and in May 2026 the Trump administration's budget request sought to cancel funding for a permanent museum in favor of a roaming \"Smithsonian Latino Center.\" A conservative critic quoted by The Art Newspaper, Mike Gonzalez of the Washington Examiner, called the plan \"an act of desperation\" and an attempt to \"use a loophole to sneak in a building for a yet-to-be-built controversial museum.\" The Arts and Industries Building is itself undergoing restoration and is due to close on 7 September 2026 for further work.",
+   "outcome": "Board of regents due to meet 31 August 2026 to consider the Arts and Industries Building site; no decision yet. [FOLLOW-UP PENDING: the board of regents' 31 August 2026 decision on siting the National Museum of the American Latino and any congressional or administration response.]",
+   "tags": "Political interference, Funding dispute",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper",
+    "ARTnews"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/21/smithsonian-institution-latino-museum-arts-industries-building-washington",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/smithsonian-latino-museum-arts-and-industries-building-1234795523/"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "New parent. DC federal-cultural cluster (cf. ACI-005 Kennedy Center; ACI-012 National Portrait Gallery; ACI-114 proposed American Women's History Museum on the National Mall). Political-interference and public-funding dispute over a congressionally authorized Smithsonian museum; the Index describes the site maneuver and the objections to it without adopting either side's characterization. Reference source The Art Newspaper (21 Aug 2026, full text read); ARTnews corroborates (retrieved via search-result snippet; bot-walled on direct fetch). WaPo is the primary outlet for National Mall coverage but could not be retrieved this run (site-scoped search returned no WaPo article). Cross-ref ACI-114.",
+   "interested_parties": "Smithsonian Institution board of regents; National Museum of the American Latino; Trump administration; US Congress; conservative critics (e.g. Mike Gonzalez, Washington Examiner)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-340",
+   "entry_id": "340",
+   "seq": 622,
+   "title": "More than 100 works from Canada's federal Indigenous Art Centre collection are 'unaccounted for'",
+   "artist": "N/A (multiple; incl. Norval Morrisseau, Christi Belcourt, Kent Monkman)",
+   "institution": "Indigenous Art Centre; Crown-Indigenous Relations and Northern Affairs Canada (CIRNAC)",
+   "country": "Canada",
+   "governance_type": "Democracy",
+   "date_controversy": "Internal audit November 2024; reported August 2026",
+   "date_discovered": "2026-08-22",
+   "sort_date": "2026-08-21",
+   "description": "More than 100 works from Canada's federal Indigenous Art Centre collection are unaccounted for, nearly two years after a November 2024 internal audit found the centre could not locate 132 items, The Art Newspaper reported on 21 August 2026, following earlier Canadian Press coverage. The Indigenous Art Centre, established by the federal government in 1965 and administered by Crown-Indigenous Relations and Northern Affairs Canada (CIRNAC), holds more than 5,000 works by First Nations, Metis and Inuit artists -- including Norval Morrisseau, Christi Belcourt, Elisapee Ishulutaq and Kent Monkman -- valued at roughly C$14.4m. Of the original 132 items, 17 have since been resolved (six found in storage, eleven identified as duplicate database entries), leaving 111 unaccounted for, of which CIRNAC says 20 are reproductions. A CIRNAC spokesperson, Maryeva Metellus, said \"unaccounted for\" is a records-management designation for an artwork whose location cannot be confirmed through available documentation, and does not mean the work is lost or stolen. Cowichan/Okanagan artist Lawrence Paul Yuxweluptun told The Art Newspaper the situation was \"just another example of government incompetence\" and said the Indigenous Art Centre should be shut down; Cory Dingle, director of the Norval Morrisseau estate, took a more constructive view, calling it \"a positive moment in Canada's continuing cultural evolution\" and saying his estate's experience with CIRNAC \"has always been supportive and constructive,\" while urging that CIRNAC and the wider cultural sector be given \"the resources and tools necessary to do this work properly.\"",
+   "outcome": "CIRNAC continues to reconcile inventory records; 17 of the original 132 items resolved, 111 remain unaccounted for. [FOLLOW-UP PENDING: further reconciliation of the 111 unaccounted works and any government or Indigenous-community response, including calls to restructure or close the Indigenous Art Centre.]",
+   "tags": "Indigenous rights, Institutional crisis",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/21/canada-federal-indigenous-art-collection-111-works-unaccounted-for",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Federal stewardship/accountability dispute over custody of a public collection of Indigenous art (adjacent to the repatriation cluster, though this concerns state custody rather than return). FOR REVIEW: borderline inclusion -- 'unaccounted for' is CIRNAC's inventory designation, not a confirmed loss or theft; included because there is a documented dispute (Yuxweluptun's criticism and call to close the centre vs. CIRNAC's defense) and it concerns Indigenous cultural property. Tag fit uncertain (used Indigenous rights + Institutional crisis); no Dissensus theme applies cleanly (themes []). Reference source The Art Newspaper (21 Aug 2026, full text read); story broke via Canadian Press (CP24/CTV, 14 Aug 2026, seen via search-result).",
+   "interested_parties": "Indigenous Art Centre; Crown-Indigenous Relations and Northern Affairs Canada (CIRNAC); Lawrence Paul Yuxweluptun; Cory Dingle (Norval Morrisseau estate)",
+   "coverage_geography": "Canada",
    "follow_up_pending": true
   }
  ]
