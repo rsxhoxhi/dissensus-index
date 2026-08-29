@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 613
+  "total_cases": 617
  },
  "cases": [
   {
@@ -11805,6 +11805,37 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-050-I",
+   "entry_id": "050",
+   "seq": 649,
+   "title": "White House ballroom: Chief Justice declines to halt construction while Supreme Court appeal proceeds",
+   "artist": "N/A",
+   "institution": "White House (East Wing), Washington, DC; US Supreme Court",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "August 21, 2026 (Chief Justice order)",
+   "date_discovered": "2026-08-25",
+   "sort_date": "2026-08-21",
+   "description": "On August 21, 2026, Chief Justice John Roberts declined, for now, to halt construction of the White House ballroom, allowing work to continue while the administration's appeal proceeds, according to The New York Times (Ann E. Marimow, August 21, 2026). The order follows the DC Circuit's August 7 ruling (ACI-050-H) that above-ground ballroom construction requires congressional authorization and must halt, a ruling the appeals court had stayed for two weeks to permit a Supreme Court appeal. The administration's lawyers have told the courts that the roughly 90,000-square-foot project has grown in size and scope and is intertwined with the renovation of an underground military bunker. The order preserves the status quo of continued construction pending further Supreme Court action rather than resolving the underlying question of whether the project may proceed without Congress.",
+   "outcome": "Chief Justice Roberts declined to halt construction pending the appeal, leaving work underway while the Supreme Court considers the administration's request. The DC Circuit's ruling that construction requires congressional approval remains the merits question on appeal. [FOLLOW-UP PENDING: the Supreme Court's disposition of the administration's application and any ruling on whether the ballroom may proceed without congressional authorization.]",
+   "tags": "Historic preservation, Demolition, Political interference, Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/08/21/us/politics/supreme-court-trump-ballroom.html",
+   "additional_sources": [],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-050 (White House State Ballroom / East Wing demolition). Directly continues ACI-050-H (DC Circuit 2-1 ruling, August 7) -- the administration took that ruling to the Supreme Court, and the Chief Justice allowed construction to continue for now. Metadata-grade (NYT abstract read via API); no quotation used.",
+   "interested_parties": "Chief Justice John Roberts; US Supreme Court; Trump administration/DOJ; National Trust for Historic Preservation (plaintiff in underlying litigation)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-035-C",
    "entry_id": "035-C",
    "seq": 82,
@@ -19834,6 +19865,100 @@
    "interested_parties": "Olalekan Jeyifous (artist); Walker Art Center",
    "coverage_geography": "US",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-345",
+   "entry_id": "345",
+   "seq": 647,
+   "title": "State Department removes Kehinde Wiley painting from US embassy in Santo Domingo, weighs sale",
+   "artist": "Kehinde Wiley",
+   "institution": "US Embassy, Santo Domingo (Dominican Republic); US State Department, Art in Embassies program",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Painting removed the week of August 18, 2026; reported August 24-25, 2026",
+   "date_discovered": "2026-08-25",
+   "sort_date": "2026-08-24",
+   "description": "The US State Department removed a Kehinde Wiley painting, \"Young Artists After Siamesas 1960,\" from the US Embassy in Santo Domingo, Dominican Republic, and said it is examining whether the work can legally be sold, according to The New York Times (Zachary Small, August 24, 2026), which reported the story, and Artlyst (August 25, 2026). The painting was commissioned in 2013 through the department's Art in Embassies program and paid for with federal funds; it depicts four Dominican art students in poses referencing canonical works of Dominican art. Before the work was taken down, embassy staff covered it with a tarp printed with an image of the American flag. State Department officials described the painting as \"very woke\" and \"aesthetically terrifying\"; a department spokesperson said, \"The work of an individual with such violent and racist words and depictions has no place in the America First State Department,\" citing comments Wiley has made about his \"Judith and Holofernes\" painting. Erin Scavino, the Art in Embassies director, criticized the work on a podcast, and Leah Campos, the US ambassador to the Dominican Republic, posted a removal video on social media set to \"We're Not Gonna Take It,\" describing the painting as reflecting \"globalist and woke ideologies.\" Wiley, who painted Barack Obama's official presidential portrait, has not publicly responded in the coverage retrieved.",
+   "outcome": "Painting removed from the embassy and covered with an American-flag tarp before removal; the State Department says it is determining whether the federally owned work can legally be sold and, if so, intends to sell it through the Art in Embassies program. [FOLLOW-UP PENDING: whether the painting is sold, and any response from Kehinde Wiley or arts-policy bodies.]",
+   "tags": "Removal, Censorship, Political interference, Deaccessioning",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Artlyst",
+    "New York Times"
+   ],
+   "source": "https://artlyst.com/kehinde-wiley-painting-removed-from-us-embassy-for-being-very-woke/",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/24/arts/design/kehinde-wiley-painting-embassy-dominican-republic.html"
+   ],
+   "themes": [
+    2
+   ],
+   "notes": "New parent. Part of the pattern of federal removal/alteration of art on ideological grounds under the current administration -- cf. ACI-012 (Smithsonian), ACI-007 (National Park Service interpretive materials), ACI-107 (Stonewall National Monument). Characterizations (\"very woke,\" \"globalist and woke ideologies,\" the spokesperson statement) are the officials' own words, attributed to them, not the Index's voice. Reference source is the NYT report (which broke it); full body read via Artlyst (success). Racial/ethnic-sensitivity axis tag deliberately NOT applied -- the stated objection is framed ideologically (\"woke\"), and attributing it to the work's subjects would be an inference about motive (per scan-routine Step 4).",
+   "interested_parties": "US State Department (Art in Embassies); Erin Scavino (Art in Embassies director); Ambassador Leah Campos; Kehinde Wiley",
+   "coverage_geography": "US, Dominican Republic, UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-346",
+   "entry_id": "346",
+   "seq": 648,
+   "title": "Russian FPV drone strikes Kherson Regional Art Museum, sparking fire",
+   "artist": "N/A",
+   "institution": "Kherson Regional Art Museum, Kherson, Ukraine",
+   "country": "Ukraine",
+   "governance_type": "Democracy",
+   "date_controversy": "August 20, 2026 (drone strike)",
+   "date_discovered": "2026-08-25",
+   "sort_date": "2026-08-20",
+   "description": "On the morning of August 20, 2026, a Russian FPV drone struck the Kherson Regional Art Museum and an adjacent utility structure, starting a fire, according to UNN (August 20, 2026) and ARTnews. The State Emergency Service of Ukraine confirmed the strike; emergency crews extinguished the blaze and no deaths were reported. Reporting indicated damage to the building's right wing and outbuildings, including furniture, electrical wiring and the heating system, though the full extent of damage to the collection was not specified in the coverage retrieved. ARTnews and Ukrainian outlets noted that the museum was looted during Russia's 2022 occupation of the city, when more than 15,000 works were removed and taken to the Central Museum of Taurida in Russian-controlled Simferopol; Ukraine's foreign ministry condemned the strike as further evidence of what it describes as a systematic Russian assault on Ukrainian cultural heritage. The same day, Russian drone attacks were reported elsewhere in Ukraine, including Sloviansk, the Kyiv region and the Zhytomyr region.",
+   "outcome": "Fire extinguished with no reported fatalities; museum left without power and with damage to its right wing and outbuildings. Ukraine's foreign ministry condemned the attack; a full assessment of damage to the collection had not been published in the coverage retrieved. [FOLLOW-UP PENDING: damage assessment to the museum's building and holdings.]",
+   "tags": "Cultural property destruction, Conflict zone, Russia-Ukraine war",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "UNN",
+    "ARTnews"
+   ],
+   "source": "https://unn.ua/en/news/a-russian-fpv-drone-struck-the-kherson-art-museum",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/russian-strike-fire-ukraines-kherson-regional-art-museum-1234795602/"
+   ],
+   "themes": [],
+   "notes": "New parent. Belongs to the Russia-Ukraine war cultural-destruction cluster -- cf. ACI-303 (drone strike on a Cossack church in Beryslav). The 2022 looting of 15,000+ works ties this site to Dissensus theme 12 (Restitution & Repatriation) as well as wartime destruction; noted here rather than tagged since the logged event is the strike, not a restitution dispute. 15,000-works looting figure and the foreign-ministry condemnation rest on ARTnews/Ukrainian reporting (snippet-grade); the strike facts were read in full via UNN.",
+   "interested_parties": "Kherson Regional Art Museum; State Emergency Service of Ukraine; Ukrainian Ministry of Foreign Affairs",
+   "coverage_geography": "Ukraine, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-347",
+   "entry_id": "347",
+   "seq": 650,
+   "title": "FBI returns 48 trafficked antiquities to Egypt at Los Angeles ceremony",
+   "artist": "N/A",
+   "institution": "FBI Art Crime Team (Los Angeles Field Office); Egyptian Ministry of Foreign Affairs",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "August 21, 2026 (repatriation ceremony)",
+   "date_discovered": "2026-08-25",
+   "sort_date": "2026-08-21",
+   "description": "On August 21, 2026, the FBI's Art Crime Team returned 48 cultural artifacts to representatives of the Egyptian government at a ceremony held at the FBI's Los Angeles Field Office, according to Artforum. The objects -- described as carved figures, amulets and tomb equipment from the Pharaonic, Roman and Coptic periods -- were determined to have left Egypt illegally. According to the coverage, the FBI said the suspected trafficker of the items is now deceased and that the most recent possessor contacted the bureau after questioning the artifacts' provenance. The FBI stated that US law enforcement has returned more than 5,000 cultural artifacts to Egypt over the past decade.",
+   "outcome": "The 48 objects were formally transferred to Egyptian officials at the Los Angeles ceremony; the associated trafficking investigation was described as ongoing. Logged as a repatriation resolution and cluster anchor. [FOLLOW-UP PENDING: any charges or further recoveries tied to the underlying trafficking investigation.]",
+   "tags": "Repatriation, Antiquities trafficking, Antiquities seized",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Artforum"
+   ],
+   "source": "https://www.artforum.com/news/fbi-returns-48-ancient-objects-to-egypt-in-ceremony-1234757758/",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "New parent; repatriation resolution / cluster anchor (Dissensus theme 12, Restitution & Repatriation). Thin metadata/snippet-grade entry drafted from Artforum's report of the FBI ceremony (corroborated in search results by the FBI Los Angeles field-office release and CBS Los Angeles, not separately cited here). Enrichment candidate on a repatriation/trafficking trawl day.",
+   "interested_parties": "FBI Art Crime Team (Los Angeles); Egyptian Ministry of Foreign Affairs; Egyptian government",
+   "coverage_geography": "US, Egypt",
+   "follow_up_pending": true
   }
  ]
 }
