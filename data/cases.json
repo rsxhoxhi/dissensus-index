@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 610
+  "total_cases": 612
  },
  "cases": [
   {
@@ -15414,6 +15414,37 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-AW",
+   "entry_id": "005",
+   "seq": 642,
+   "title": "Kennedy Center: Beatty files emergency bid to block Trump name and 'Trump Plaza' renaming",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Emergency motion filed August 21, 2026",
+   "date_discovered": "2026-08-23",
+   "sort_date": "2026-08-23",
+   "description": "On August 21, 2026, lawyers for Representative Joyce Beatty (D-Ohio), an ex-officio member of the Kennedy Center board, filed an emergency motion asking U.S. District Judge Christopher Cooper for immediate relief to stop the Trump-appointed board from reinstalling President Trump's name on the building's facade and from designating the grounds \"President Donald J. Trump Plaza,\" according to NPR. Under the board's August 13, 2026 plan (see ACI-005), Trump's name would appear in three places on the grounds; the proposed entryway signage would read \"The John F. Kennedy Memorial Center for the Performing Arts, Restored and Renovated by President Donald J. Trump, Endowed by the Trump Kennedy Center Fund\" (the last line contingent on $100 million in donations). Beatty's team argued that only Congress can change the name of the center, which by congressional mandate is a living memorial to President John F. Kennedy, and characterized the center's stated commitment not to add the name before September 8 as an \"arbitrary deadline\" and a \"manufactured emergency.\" Beatty said in a statement, \"The board's repeated efforts to break the law are a breathtaking act of defiance, but I will continue to stand up against all unlawful acts.\"",
+   "outcome": "Emergency motion pending before Judge Cooper as of August 21, 2026; the Kennedy Center has said it will not add Trump's name before September 8, 2026. [FOLLOW-UP PENDING: Cooper's ruling on the emergency motion and whether the name inscription and plaza renaming proceed.]",
+   "tags": "Political interference, Legal challenge",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "NPR"
+   ],
+   "source": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center); escalation of the litigation over the board's August 13, 2026 plan to close the building for about two years and inscribe Trump's name. FOR REVIEW: closely related to backlog entry ACI-005-AV (Rep. Beatty's August 19, 2026 motion to block the closure and name), which sits in the unmerged PR claude/daily-2026-08-20; this August 21 emergency motion adds the immediate-relief posture and the 'President Donald J. Trump Plaza' renaming detail. Reviewer may wish to reconcile AV and AW when merging.",
+   "interested_parties": "Rep. Joyce Beatty (D-Ohio); Judge Christopher Cooper; Kennedy Center board; President Donald Trump (board chairman)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -19732,6 +19763,42 @@
    "notes": "New parent. Federal stewardship/accountability dispute over custody of a public collection of Indigenous art (adjacent to the repatriation cluster, though this concerns state custody rather than return). FOR REVIEW: borderline inclusion -- 'unaccounted for' is CIRNAC's inventory designation, not a confirmed loss or theft; included because there is a documented dispute (Yuxweluptun's criticism and call to close the centre vs. CIRNAC's defense) and it concerns Indigenous cultural property. Tag fit uncertain (used Indigenous rights + Institutional crisis); no Dissensus theme applies cleanly (themes []). Reference source The Art Newspaper (21 Aug 2026, full text read); story broke via Canadian Press (CP24/CTV, 14 Aug 2026, seen via search-result).",
    "interested_parties": "Indigenous Art Centre; Crown-Indigenous Relations and Northern Affairs Canada (CIRNAC); Lawrence Paul Yuxweluptun; Cory Dingle (Norval Morrisseau estate)",
    "coverage_geography": "Canada",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-342",
+   "entry_id": "342",
+   "seq": 644,
+   "title": "China's cultural-heritage agency orders nationwide review of museum exhibition content",
+   "artist": "N/A",
+   "institution": "National Cultural Heritage Administration (China)",
+   "country": "China",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Directive issued August 19, 2026",
+   "date_discovered": "2026-08-23",
+   "sort_date": "2026-08-23",
+   "description": "On August 19, 2026, China's National Cultural Heritage Administration issued a directive requiring museums nationwide to strengthen review of exhibition content, according to China News Service. The notice said recent exhibitions at some museums had displayed textual errors and improper expressions that had drawn significant public attention. Under the directive, a museum's leadership must collectively approve exhibition themes, object descriptions and scripts, with the director signing off; museums must file required documentation ten working days before opening; a designated exhibition supervisor must verify that all text, labels and digital content match the approved outline and correct any errors the same day; and each museum is made the responsible party for content review and may not outsource it to third parties. Provincial cultural-heritage departments were ordered to conduct a comprehensive audit of all exhibitions by September 30, 2026, checking text accuracy, historical information, maps, and sensitive content concerning ethnic groups, religion and national borders.",
+   "outcome": "Directive in force; provincial comprehensive audits of all exhibitions ordered completed by September 30, 2026. [FOLLOW-UP PENDING: outcomes of the provincial audits and any exhibitions altered, delayed or withdrawn under the new content-review regime.]",
+   "tags": "Censorship, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "China News Service",
+    "Xinhua",
+    "Guangming Daily"
+   ],
+   "source": "https://www.chinanews.com.cn/gn/2026/08-19/10680666.shtml",
+   "additional_sources": [
+    "https://www.news.cn/politics/20260819/00388bf99f72474c891cc332b6e5601f/c.html",
+    "https://m.gmw.cn/2026-08/20/content_1304550885.htm"
+   ],
+   "themes": [
+    3,
+    4
+   ],
+   "notes": "New parent. Cultural-policy / state content-control entry surfaced on the Sunday all-language dragnet (Chinese-language source). Analytically relevant to the governance-friction and anticipatory-obedience frames: a top-down directive mandating pre-opening content review and ideological screening across all museums, with an explicit sensitivity check on 'ethnic groups, religion and national borders.' FOR REVIEW: borderline as a discrete 'controversy' -- it is a policy directive rather than a single-artwork dispute, but CLAUDE.md admits cultural policy as a primary subject. Corroborated across multiple Chinese state / state-affiliated outlets (Xinhua, Guangming Daily, Tencent, Sina, Guancha); all coverage is state media -- no independent or critical/pushback coverage found, so the directive itself is the official state record. Enrich on a future Thursday Asia trawl with the underlying museum-error incidents that prompted it.",
+   "interested_parties": "National Cultural Heritage Administration (China); provincial cultural-heritage departments; Chinese museums",
+   "coverage_geography": "China",
    "follow_up_pending": true
   }
  ]
