@@ -111,6 +111,7 @@ DOMAIN_TO_OUTLET = {
     "wvtf.org": "WVTF",
     "gofundme.com": "GoFundMe (Devins fundraiser)",
     "wgntv.com": "WGN-TV",
+    "washingtonexaminer.com": "Washington Examiner",
     "focustaiwan.tw": "Focus Taiwan",
     "taipeitimes.com": "Taipei Times",
     "aawsat.com": "Asharq Al-Awsat",

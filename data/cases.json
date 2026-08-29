@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 603
+  "total_cases": 606
  },
  "cases": [
   {
@@ -9334,6 +9334,43 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-075-B",
+   "entry_id": "075-B",
+   "seq": 635,
+   "title": "Eisenhower building: judge lets Trump white-paint tests proceed as preservationists sue",
+   "artist": "N/A",
+   "institution": "Eisenhower Executive Office Building; General Services Administration; Executive Office of the President",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Ruling August 18, 2026",
+   "date_discovered": "2026-08-20",
+   "sort_date": "2026-08-18",
+   "description": "On August 18, 2026, U.S. District Judge Dabney Friedrich ruled that limited paint tests on the exterior of the Eisenhower Executive Office Building, a 19th-century granite landmark beside the White House, may proceed, advancing the Trump administration's plan to repaint the building white, according to The Washington Post, The Hill, and the Washington Examiner. The tests are to cover roughly eight square feet of the exterior along with panels not visible to the public; planners have estimated the full repainting at at least 7.5 million dollars. Preservation groups that sued argue that the granite was not meant to be painted and that paint would trap moisture and degrade the stone. Friedrich said she would not hesitate to intervene if the administration moved beyond the limited testing. A central question in the litigation is whether the General Services Administration can transfer authority over the project to the Executive Office of the President.",
+   "outcome": "Paint tests permitted to proceed as of August 18, 2026; the broader repainting is not yet approved and the underlying suit continues. [FOLLOW-UP PENDING: ruling on the transfer of authority from GSA to the Executive Office of the President and any decision on the full repainting.]",
+   "tags": "Historic preservation, Legal challenge, Political interference, Design controversy, Landmark dispute",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post",
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "source": "https://thehill.com/homenews/administration/6036393-judge-allows-trump-paint-tests/",
+   "additional_sources": [
+    "https://www.washingtonpost.com/politics/2026/08/18/trump-washington-renovations-eisenhower-building-paint/dadb1662-9b1a-11f1-9cc4-2dc9b46e2d5c_story.html",
+    "https://www.washingtonexaminer.com/news/white-house/4691244/judge-rules-trump-can-begin-paint-tests-19th-century-building-preservation-groups-sued/"
+   ],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-075 (EEOB exterior painting proposal); follows ACI-075-A (NCPC hearing, May 7). Court ruling by Judge Dabney Friedrich permitting the paint tests. Part of the DC federal-cultural alteration cluster (cf. ACI-046, ACI-005, ACI-270). Sources are search-result snippets (WaPo direct fetch is bot-walled); no direct quotations carried.",
+   "interested_parties": "Judge Dabney Friedrich; General Services Administration; Executive Office of the President; DC preservation groups",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-074",
    "entry_id": "074",
    "seq": 155,
@@ -15341,6 +15378,42 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-AV",
+   "entry_id": "005",
+   "seq": 634,
+   "title": "Kennedy Center: Rep. Beatty asks Judge Cooper to block two-year closure and addition of Trump's name",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts; U.S. District Court for the District of Columbia",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Motion filed August 19, 2026",
+   "date_discovered": "2026-08-20",
+   "sort_date": "2026-08-19",
+   "description": "On August 19, 2026, lawyers for Representative Joyce Beatty asked U.S. District Judge Christopher Cooper to block the Kennedy Center board's plan to close the main building for a roughly two-year renovation and to add President Donald Trump's name to the building's marble facade, according to NPR, PBS NewsHour, and CNN. The board voted on August 13 to close the building and to inscribe Trump's name (see ACI-005-AT). In court filings the Kennedy Center said it would not attempt to restore Trump's name to the facade before September 8, 2026; Beatty's lawyers argued the defendants would likely try to act at the earliest opportunity after that date and asked Cooper to intervene beforehand. Earlier in the summer Cooper had ruled that the board overstepped its statutory authority by unilaterally renaming the center, after which Trump's name was removed from the front of the building; the D.C. Circuit later declined to stay that removal (see ACI-005-AQ).",
+   "outcome": "Motion to block the closure and the name inscription pending before Judge Cooper as of August 19, 2026; the Kennedy Center has told the court it will not add the name before September 8, 2026. [FOLLOW-UP PENDING: Cooper's ruling on the motion to block the two-year closure and the Trump-name inscription.]",
+   "tags": "Political interference, Legal challenge, Institutional crisis",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "NPR",
+    "PBS NewsHour",
+    "CNN"
+   ],
+   "source": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
+   "additional_sources": [
+    "https://www.pbs.org/newshour/politics/kennedy-center-tells-court-it-wont-try-to-restore-trumps-name-to-the-building-before-sept-8",
+    "https://www.cnn.com/2026/08/19/politics/kennedy-center-trump-name-september"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005. Follows ACI-005-AT (Aug 13 board vote to close and inscribe Trump's name). Litigation development; sources are search-result snippets (metadata grade) so no direct quotations are carried.",
+   "interested_parties": "Rep. Joyce Beatty; Judge Christopher Cooper; Kennedy Center board",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -19507,6 +19580,36 @@
    "interested_parties": "NTMoFA (National Taiwan Museum of Fine Arts); Taiwan Ministry of Culture; Gwangju Biennale Foundation; artists Li Yi-fan, Chang Wen-hsuan, Su Hui-yu and others",
    "coverage_geography": "Taiwan, South Korea, international art press",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-333",
+   "entry_id": "333",
+   "seq": 636,
+   "title": "Speed Art Museum returns 24 sacred Cheyenne and Arapaho objects to Oklahoma tribes under NAGPRA",
+   "artist": "N/A",
+   "institution": "Speed Art Museum, Louisville, Kentucky; Cheyenne and Arapaho Tribes",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Repatriation transfer August 19, 2026",
+   "date_discovered": "2026-08-20",
+   "sort_date": "2026-08-19",
+   "description": "The Speed Art Museum in Louisville, Kentucky, has returned 24 objects to the Southern Cheyenne and Arapaho Tribes of Oklahoma under the Native American Graves Protection and Repatriation Act (NAGPRA), according to Hyperallergic (August 19, 2026). The objects, which include beaded bags, a turtle amulet, a Cheyenne cradle board, and a Sun Dance rattle, had entered the collection in 1930 as a gift from photographer Frederick Weygold. Museum curators contacted tribal representatives in 2023, and a 2024 site visit identified the 24 eligible items; the transfer took place at an August 19, 2026 ceremony. Arapaho representative Fred Mosqueda told Hyperallergic, \"Family members can now come back and say, 'wow, my great grandpa made this.' These items are sacred.\" Southern Cheyenne representative Chester Whiteman said that before recent NAGPRA updates museums \"would only let us see what they wanted us to see,\" Representatives transported the objects to Oklahoma, where they will be held in temporary storage until a dedicated facility is secured.",
+   "outcome": "Repatriation complete; the 24 objects were transferred to the Southern Cheyenne and Arapaho Tribes on August 19, 2026 and moved to Oklahoma for temporary storage pending a permanent facility.",
+   "tags": "Repatriation, Indigenous rights",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/speed-art-museum-returns-24-native-artifacts-to-oklahoma-tribes/",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Domestic NAGPRA repatriation resolution logged as a cluster anchor (analytically relevant non-controversy per inclusion rules). Objects acquired 1930 via a Weygold gift; return follows the 2024 NAGPRA updates that strengthened tribal access and consultation. Dissensus theme 12 (Restitution & Repatriation).",
+   "interested_parties": "Speed Art Museum; Southern Cheyenne and Arapaho Tribes of Oklahoma; Fred Mosqueda (Arapaho); Chester Whiteman (Southern Cheyenne)",
+   "coverage_geography": "US",
+   "follow_up_pending": false
   }
  ]
 }
