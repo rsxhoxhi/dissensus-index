@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 606
+  "total_cases": 607
  },
  "cases": [
   {
@@ -19610,6 +19610,39 @@
    "interested_parties": "Speed Art Museum; Southern Cheyenne and Arapaho Tribes of Oklahoma; Fred Mosqueda (Arapaho); Chester Whiteman (Southern Cheyenne)",
    "coverage_geography": "US",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-337",
+   "entry_id": "337",
+   "seq": 640,
+   "title": "Fake website presents Jordan Casteel's paintings as work of fictitious artist 'Rebecca Tremblay'",
+   "artist": "Jordan Casteel",
+   "institution": "Casey Kaplan (gallery), New York",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Fake site registered July 13, 2026; artist's public warning August 17, 2026",
+   "date_discovered": "2026-08-21",
+   "sort_date": "2026-08-17",
+   "description": "A website impersonating a fictitious painter named 'Rebecca Tremblay' has been using paintings and photographs by the American artist Jordan Casteel without permission, according to Artforum (August 2026) and the art-law newsletter Urgent Matter. The site, tremblayrebecca.art, was registered July 13, 2026 through Hostinger with the registrant's identity concealed behind a privacy service; its homepage reproduces a 2025 photograph of Casteel (taken by David Schulze) and its 'works' pages present Casteel's paintings as Tremblay's. The operator emailed people about exhibitions and opportunities that do not exist. On August 17, 2026, Casteel posted a warning to her verified Instagram account stating she has 'no affiliation with Rebecca Tremblay, tremblayrebecca.art, or any correspondence coming from this identity,' and urged people not to send funds or personal information; her gallery, Casey Kaplan, asked to be contacted by anyone approached by the site. Casteel says she does not know who is behind it.",
+   "outcome": "Casteel and her gallery have publicly disavowed the site and warned the public; no party has been identified as responsible and no legal action is documented in the coverage. [FOLLOW-UP PENDING: identification of the site's operator, any takedown, or legal action.]",
+   "tags": "Authenticity, Copyright/ownership",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Artforum",
+    "Urgent Matter"
+   ],
+   "source": "https://www.artforum.com/news/fake-webpage-uses-jordan-casteels-work-1234757459/",
+   "additional_sources": [
+    "https://www.urgentmatter.press/website-fictional-painter-scam-jordan-casteel/"
+   ],
+   "themes": [
+    11
+   ],
+   "notes": "New parent. An impersonation site misappropriating a living artist's works and likeness; the operator is anonymous (concealed registrant), so anonymity is constitutive rather than a thinness defect. Logged as an authorship/appropriation dispute (Theme 11) with the artist's public response. Reference source Artforum; Urgent Matter (art-law newsletter, newer -- under evaluation) is secondary and carries the fuller account including the artist's Instagram statement. Note: Artforum cites and links Urgent Matter.",
+   "interested_parties": "Jordan Casteel; Casey Kaplan gallery; David Schulze (photographer); anonymous operator of tremblayrebecca.art",
+   "coverage_geography": "US",
+   "follow_up_pending": true
   }
  ]
 }
