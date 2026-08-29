@@ -154,6 +154,12 @@ this project is built around:
 
 Run `python scan/check_provenance.py`. The PR does not open until it prints OK. The gate enforces two rules against this run's ledger: (1) **reach** — every outlet cited in `outlets`, `source`, or `additional_sources` must have a non-blocked retrieval record this run (metadata-grade thin entries are legitimate); (2) **depth** — any entry containing quotation marks must have at least one cited outlet with a full `success` retrieval, because quotes cannot come from metadata or truncated fetches. The gate validates the entries authored this run, anchored to the ledger's `run_date`; if the scan crossed midnight UTC it prints a NOTE that `run_date` differs from today and validates against the anchor — this is normal, not a failure. On FAIL: re-fetch and log the missing outlet, correct the entry to match what was actually retrieved, or remove the unverifiable material — then re-run the gate. Never edit the ledger to satisfy the gate. If the failure is `unrecognized domain`, add the domain to `DOMAIN_TO_OUTLET` in `scan/check_provenance.py` as part of the run and note it in the PR.
 
+## Step 4C — Content-dedup review (before the PR opens)
+
+Run `python scan/check_dedup.py`. It compares every entry added on this branch against the union (`scan/backlog_cases.json`) plus this run's other new entries, and flags likely duplicate **parents** — the same story logged from a different outlet, a different article slug, or a homepage/search discovery that the URL-only RSS dedup in `ingest.py` misses (the Guggenheim v. Picasso *Femme dans un fauteuil* suit was minted four times — ACI-318/323/332/334 — before manual review caught it). Two deliberately conservative signals: a shared normalized URL, or a high title-token overlap **plus** a shared artist or institution. Same-cluster comparisons (shared `ACI-NNN` prefix) are skipped, so legitimate sub-entries do not trip it.
+
+This is a **review gate, not a hard block.** On a `LIKELY DUP` flag: drop the duplicate, refile it as a sub-entry of the existing case, or — if it is genuinely a distinct case — confirm that and note it in the PR's "For your review" section. The point is a conscious decision on every flag, never a silent second parent. It is a net, not a guarantee: low-title-similarity dups from a different outlet (like ACI-332) can still slip through, so the Step 3 manual dedup against the union remains the primary defense.
+
 ## Step 5 — Write the result as a pull request
 
 On the branch cut from `origin/main` in Step 0 (`claude/daily-YYYY-MM-DD`). If any
