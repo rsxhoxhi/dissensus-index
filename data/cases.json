@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 612
+  "total_cases": 613
  },
  "cases": [
   {
@@ -19800,6 +19800,40 @@
    "interested_parties": "National Cultural Heritage Administration (China); provincial cultural-heritage departments; Chinese museums",
    "coverage_geography": "China",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-344",
+   "entry_id": "344",
+   "seq": 646,
+   "title": "Walker Art Center clarifies Olalekan Jeyifous show is not AI-generated after online backlash",
+   "artist": "Olalekan Jeyifous",
+   "institution": "Walker Art Center, Minneapolis",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Online objection mid-August 2026; museum clarification reported August 19, 2026",
+   "date_discovered": "2026-08-24",
+   "sort_date": "2026-08-19",
+   "description": "The Walker Art Center in Minneapolis added contextual information to its Olalekan Jeyifous exhibition Hydrocosmic Litanies after some visitors and online commenters accused the digitally rendered works of being AI-generated. In a mid-August 2026 social-media post, a visitor faulted the show as consisting of AI imagery and criticized the museum for not disclosing any use of artificial intelligence. According to reporting by MPR News (August 19, 2026) and ARTnews (August 21, 2026), the works are the artist's own digital collages and 3D-printed sculptures rather than AI-generated images; one of the pieces at issue, a digital media print titled Tomorrow's Bundle Run, depicts figures fishing beside a partly submerged police car below towering housing. The exhibition draws on the Mississippi River and themes from Ben Okri's novel The Famished Road, imagining the cityscape's highways transformed into waterways. The museum clarified the nature of the work and, per ARTnews, declined to comment further on the confusion.",
+   "outcome": "Walker Art Center publicly clarified that the exhibition's imagery is the artist's own digital collage and 3D-printed sculpture, not AI-generated, and added context for visitors; the museum declined further comment. The exhibition remained on view.",
+   "tags": "AI, Authenticity",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews",
+    "MPR News"
+   ],
+   "source": "https://www.artnews.com/art-news/news/visitors-walker-art-center-olalekan-jeyifous-ai-slop-1234795393/",
+   "additional_sources": [
+    "https://www.mprnews.org/story/2026/08/19/walker-art-center-clarifies-ai-use-in-olalekan-jeyifous-exhibition"
+   ],
+   "themes": [
+    1,
+    11
+   ],
+   "notes": "Monday synthesis/US-adjacent find via ARTnews and MPR News. An AI-attribution 'false positive': human-made digital work wrongly taken for AI generation, prompting an institutional clarification. Relevant to the AI-axis cluster and the broader question of how audiences now read digitally rendered art. Sourcing note: ARTnews read via search snippet and MPR News via a truncated fetch (direct full-body retrieval not obtained this run); no direct quotations are used in this entry pending fuller enrichment. Borderline-thin entry flagged for editorial review.",
+   "interested_parties": "Olalekan Jeyifous (artist); Walker Art Center",
+   "coverage_geography": "US",
+   "follow_up_pending": false
   }
  ]
 }

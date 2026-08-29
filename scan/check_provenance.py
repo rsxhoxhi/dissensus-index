@@ -111,6 +111,7 @@ DOMAIN_TO_OUTLET = {
     "wvtf.org": "WVTF",
     "gofundme.com": "GoFundMe (Devins fundraiser)",
     "wgntv.com": "WGN-TV",
+    "mprnews.org": "MPR News",
     "news.cn": "Xinhua",
     "gmw.cn": "Guangming Daily",
     "urgentmatter.press": "Urgent Matter",
