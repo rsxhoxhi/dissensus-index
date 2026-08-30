@@ -55,8 +55,12 @@ The guard defends against **two** failure modes:
   pending PRs** — two runs can't hand out the same `ACI-2xx`. It lists each pending
   branch and the IDs it holds, and writes the union to **`scan/backlog_cases.json`**.
 
-Assign new IDs starting from the number the guard prints — **not** from a hand
-count of `data/cases.json`, which sees merged cases only.
+Draft new entries from the **provisional** number the guard prints — **not** from a
+hand count of `data/cases.json`, which sees merged cases only. That number is a
+working label, not the permanent ID: it is reassigned at merge (see the finalize
+step below), so a candidate dropped in review never leaves a hole in the public
+sequence. Cross-reference sibling new parents by their provisional numbers as usual;
+`finalize_ids.py` rewrites those references when it assigns the final numbers.
 
 With the guard green, establish from the union (`scan/backlog_cases.json`, which
 `ingest.py` also reads automatically for RSS dedup):
@@ -187,7 +191,28 @@ you don't reintroduce a duplicate/collision:
    - **For your review:** every judgment call the run wasn't sure about — borderline
      relevance, a tag that might near judgment, a possible duplicate, a thin entry
      needing enrichment. List these plainly so they can be settled on review.
-6. **Stop at the open PR.** Do not merge. Do not deploy.
+6. **Stop at the open PR.** Do not merge. Do not deploy. The entries carry their
+   **provisional** numbers at this point — the permanent ones are assigned at merge (Step 6).
+
+## Step 6 — At merge: finalize IDs (approval-time numbering)
+
+This step runs at **approval**, not during the unattended scan — when the reviewed
+branch is being prepared to merge. Numbers are assigned to survivors only, so a
+candidate dropped in review never leaves a hole in the public sequence.
+
+1. With the reviewed branch rebuilt onto **current** `origin/main` (all drops applied,
+   any parent follow-up flags resolved), preview: `python scan/finalize_ids.py --check`.
+2. It lists each `provisional → final` remap (surviving new parents compacted onto
+   contiguous numbers above main's highest published parent). Apply: `python scan/finalize_ids.py`.
+   It rewrites `id`/`entry_id`, renumbers sub-entries of any renumbered parent, and
+   fixes within-batch cross-references. It is idempotent and leaves published entries,
+   `seq`, and sub-entries of existing parents untouched.
+3. Re-run the gates (`check_provenance.py`, `check_dedup.py`) and confirm the diff vs.
+   `origin/main` is still additive-only apart from the id changes, then merge.
+
+**Never renumber a published entry.** Existing historical gaps are permanent and stay
+(see CLAUDE.md §2); `finalize_ids.py` only ever assigns numbers to this run's new,
+not-yet-public entries.
 
 ## If the run can't finish
 

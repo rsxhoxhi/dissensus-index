@@ -20,7 +20,11 @@ This project maintains the **Dissensus Index** (dissensusindex.com), a quarterly
 
 The spreadsheet is the full-detail master. Every column is preserved; the public site renders a subset.
 
-`[DECISION — identifier]` The build session introduced **ACI IDs** as the stable public identifier. Confirm whether the spreadsheet adopts ACI IDs directly, or whether ACI is a display layer mapped over the existing three-digit Entry IDs (001, 011-A…). Until resolved, the working master keeps three-digit Entry IDs + Parent IDs, since the sub-entry system depends on them.
+**Identifier (resolved).** **ACI-NNN is the permanent public identifier** — it is the live URL and the citation anchor for every case (`case.html?id=ACI-NNN`, and the "Cite as … case ACI-NNN" line). The three-digit `entry_id` (and the `NNN-X` form for sub-entries) is the internal mirror of the same number and is kept in lockstep with the ACI id. Because ACI numbers are cited and linked, they are **stable: never renumbered or reused once an entry is published.**
+
+**Numbering is assigned at approval, not at discovery.** A candidate gets a *provisional* parent number when it is first drafted in a scan (whatever `prescan_guard.py` prints), but that is only a working label. The permanent ACI-NNN is assigned when the entry clears review and is about to merge — to the survivors only, contiguously, above the highest number already published on `origin/main`. A candidate dropped in review (duplicate, non-controversy) therefore **never consumes a public number**, so no new gaps form. The mechanical step is `scan/finalize_ids.py`, run on the reviewed branch just before merge (see §5). Sub-entries keep their parent's prefix plus the next suffix letter and are already gap-free.
+
+**Existing gaps are historical and retained.** Twenty parent numbers burned before this policy (e.g. 338, 352–354) stay missing on purpose — closing them would move published identifiers and break live links and citations. A gap is normal for a stable identifier (compare CVE, docket, or patent numbers); it means a candidate did not survive review, not that anything is broken. The public methodology/`cite.html` says so in one line.
 
 Columns (working master, 20):
 
@@ -150,7 +154,7 @@ New tags may be added when a case cluster warrants (e.g., Artist safety, Campus 
 ## 5. Pre-scan protocol (run before every scan)
 
 1. **Full tracker read.** Read the INDEX sheet to build the entry index and identify all `[FOLLOW-UP PENDING]` flags. Reach into the main Sheet only for full detail on a specific entry. Append any rows from the prior session not yet reflected in INDEX. Must cover all rows, not just recent ones.
-2. **Next-ID confirmation.** Highest existing parent number + 1 = next available. Don't assign until the full read is complete.
+2. **Next-ID confirmation (provisional).** Highest existing parent number + 1 = the next *provisional* draft number. This is only a working label while the candidate is in review — the permanent ACI-NNN is assigned at merge by `scan/finalize_ids.py` (see §2). Don't assign even the provisional number until the full read is complete. At merge, on the reviewed branch already rebuilt onto current `origin/main`, run `python scan/finalize_ids.py` to compact the surviving new parents onto contiguous numbers (and `--check` first to preview); a dropped candidate never burns a public number.
 3. **Dedup check.** Before drafting any new entry, confirm the story isn't already present as a parent or sub-entry. If it is, draft a sub-entry (e.g., 011-A), not a new parent. When uncertain, default to a sub-entry and note the relationship. This check takes priority over drafting speed.
 
 ---
