@@ -130,6 +130,9 @@ DOMAIN_TO_OUTLET = {
     "mexiconewsdaily.com": "Mexico News Daily",
     "naharnet.com": "Naharnet",
     "pbs.org": "PBS",
+    "artlyst.com": "Artlyst",
+    "unn.ua": "UNN",
+    "inquirer.com": "The Philadelphia Inquirer",
 }
 
 ALIASES = {
