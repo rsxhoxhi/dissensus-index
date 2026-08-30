@@ -20342,7 +20342,7 @@
    "date_controversy": "Reported August 28, 2026",
    "date_discovered": "2026-08-29",
    "sort_date": "2026-08-28",
-   "description": "According to ARTnews, the Robert Mapplethorpe Foundation declined to license Robert Mapplethorpe's 1981 portrait of the attorney Roy Cohn for the cover of a forthcoming biography by Kai Bird and Susan Goldmark, titled American Scoundrel: Roy Cohn's Dark Journey from Joe McCarthy to Donald Trump. ARTnews reports the foundation's decision was driven by concern over political fallout, given Cohn's role as an early mentor to President Trump, and that the foundation feared retaliation. Cohn, who died in 1986, was a McCarthy-era prosecutor who later became a Trump associate.",
+   "description": "According to ARTnews, the Robert Mapplethorpe Foundation declined to license Robert Mapplethorpe's 1981 portrait of the attorney Roy Cohn for the cover of a forthcoming biography by Kai Bird and Susan Goldmark, titled American Scoundrel: Roy Cohn's Dark Journey from Joe McCarthy to Donald Trump. ARTnews reports the foundation's decision was driven by concern over political fallout, given Cohn's role as an early mentor to President Trump, and that the foundation feared retaliation. Cohn, who died in 1986, was a McCarthy-era prosecutor who later became a Trump associate. The New York Times' media desk also reported the story.",
    "outcome": "The 1981 portrait will not appear on the biography's cover; the foundation had not issued a public statement explaining its reasoning in the coverage retrieved. [FOLLOW-UP PENDING: any statement from the Mapplethorpe Foundation, and the book's publication.]",
    "tags": [
     "Censorship",
@@ -20351,14 +20351,17 @@
    "court_case": "No",
    "coverage_tier": "National",
    "outlets": [
-    "ARTnews"
+    "ARTnews",
+    "New York Times"
    ],
    "source": "https://www.artnews.com/art-news/news/robert-mapplethorpe-foundation-roy-cohn-portrait-denial-1234796227/",
-   "additional_sources": [],
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/27/business/media/roy-cohn-robert-mapplethorpe-american-scoundrel.html"
+   ],
    "themes": [
     4
    ],
-   "notes": "New parent. A cultural nonprofit declining to license a work out of anticipated political consequence -- fits the anticipatory-obedience frame (the institution moves first; no order is issued and no direct external pressure is applied). Cf. ACI-345 (State Department removal of a Kehinde Wiley embassy painting) and the broader pattern of arts-nonprofit caution under the current administration. Reference source is ARTnews (search snippet this run); the NYT also reported the story (headline seen via the NYT RSS feed) but its article was not individually retrieved this run, so NYT is not cited here; add the link on enrichment. The characterization of the foundation's motive (fear of retaliation) is attributed to reporting, not asserted as established fact.",
+   "notes": "New parent. A cultural nonprofit declining to license a work out of anticipated political consequence -- fits the anticipatory-obedience frame (the institution moves first; no order is issued and no direct external pressure is applied). Cf. ACI-345 (State Department removal of a Kehinde Wiley embassy painting) and the broader pattern of arts-nonprofit caution under the current administration. Reference source is ARTnews (search snippet this run); the NYT media desk also reported the story; its article was not machine-retrievable this run (paywall), but the canonical link was supplied and is cited. The characterization of the foundation's motive (fear of retaliation) is attributed to reporting, not asserted as established fact.",
    "interested_parties": "Robert Mapplethorpe Foundation; author Kai Bird; Roy Cohn (subject, d. 1986)",
    "coverage_geography": "US",
    "follow_up_pending": true
