@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 624
+  "total_cases": 627
  },
  "cases": [
   {
@@ -17679,7 +17679,7 @@
    "date_discovered": "2026-07-22",
    "sort_date": "2026-07-13",
    "description": "According to ArchDaily (with coverage in Dezeen and OC Media), Tbilisi City Hall's Architecture Service issued a permit on 13 July 2026 to demolish the Rike Park Music Theatre and Exhibition Hall, the tube-shaped cultural complex designed by Italian firm Studio Fuksas, with demolition due by 25 December 2026. Commissioned during President Mikheil Saakashvili's urban-renewal drive and completed in 2012, the building never officially opened and passed through several owners (current owner Rike Dome took control in June 2025). Officials cite the structure's association with the former United National Movement government, its poor condition, and safety concerns after a teenager's accidental death on the grounds in 2025. ArchDaily reports that officials have publicly voiced dislike for the building, paraphrasing Prime Minister Irakli Kobakhidze as saying in May 2025 that its ugliness does not benefit the capital city (a paraphrase in the source, not a direct quotation). Studio Fuksas opposes demolition, saying it 'believes that the iconic Rike Park building can be reimagined through a new program capable of reconnecting the structure with public life' and noting it was built with public funds.",
-   "outcome": "Demolition permit issued; Studio Fuksas is urging reuse rather than demolition, which is scheduled to be completed by 25 December 2026. [FOLLOW-UP PENDING: whether the demolition proceeds or the building is preserved/reimagined.]",
+   "outcome": "Demolition began at the end of July 2026 and is under way; by August 2026 only a skeleton of one section was reported standing, with completion scheduled by 25 December 2026 (see sub-entry ACI-267-A).",
    "tags": "Demolition, Design controversy, Political interference",
    "court_case": "No",
    "coverage_tier": "International",
@@ -17693,11 +17693,48 @@
    "notes": "New parent. Wednesday Europe trawl catch (Georgia). Political-symbolism demolition: a cultural landmark of the Saakashvili/UNM era slated for removal under the Georgian Dream government. Governance trajectory annotated (democratic backsliding). No Dissensus theme maps cleanly; revisit if a public-funding or heritage angle sharpens. Enrich with Georgian-language outlets and Domus on a later pass.",
    "interested_parties": "Studio Fuksas (architects); Tbilisi Mayor Kakha Kaladze; PM Irakli Kobakhidze; Rike Dome (owner); Tbilisi City Hall Architecture Service",
    "coverage_geography": "Georgia, Italy, international architecture press",
-   "follow_up_pending": true,
+   "follow_up_pending": false,
    "additional_sources": [
     "https://www.dezeen.com/2026/07/15/rike-concert-hall-tbilisi-demolition-studio-fuksas/",
     "https://oc-media.org/tbilisi-greenlights-demolition-of-rike-tubes-a-controversial-modernist-city-landmark/"
    ]
+  },
+  {
+   "id": "ACI-267-A",
+   "entry_id": "267-A",
+   "seq": 663,
+   "title": "Rike Park complex: Studio Fuksas' Tbilisi cultural hall demolished amid protests",
+   "artist": "Studio Fuksas (Massimiliano and Doriana Fuksas)",
+   "institution": "Rike Park Music Theatre and Exhibition Hall, Tbilisi",
+   "country": "Georgia",
+   "governance_type": "Hybrid Regime (trajectory: democratic backsliding under Georgian Dream)",
+   "date_controversy": "Demolition began late July 2026; ongoing as of late August 2026",
+   "date_discovered": "2026-08-28",
+   "sort_date": "2026-08-27",
+   "description": "Civil Georgia and the architecture press report that demolition of the Rike Park Music Theatre and Exhibition Hall — the tube-shaped cultural complex in Tbilisi designed by Studio Fuksas (parent entry ACI-267) — began at the end of July 2026 and is due for completion by December; by August 2026 Civil Georgia reported that only a skeleton of one section remained. The site has been privatized, and its current owner, Rike Dom, is reported to plan a hotel, though no project has been presented to City Hall. Appeals from the architects, who offered to help repurpose the complex, and protests from parts of the local community failed to halt the work. When the demolition permit was approved in mid-July 2026, Tbilisi mayor Kakha Kaladze told journalists -- as reported by InterPressNews (14 July 2026) -- that the building \"had become completely non-functional\" and \"a dumping ground, so to speak, and was in extremely poor condition,\" and that the private owner had decided to demolish it, with any new project required to be \"appropriate for its surroundings.\"",
+   "outcome": "Demolition under way; by late August 2026 only a skeleton of one section remained, with completion due by December 2026. Appeals and protests have not halted the work. [FOLLOW-UP PENDING: completion of the demolition and what replaces the site (a hotel has been mooted).]",
+   "tags": [
+    "Demolition",
+    "Design controversy",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Civil Georgia",
+    "Whitemad",
+    "InterPressNews"
+   ],
+   "source": "https://civil.ge/archives/745022",
+   "additional_sources": [
+    "https://www.whitemad.pl/en/the-rike-concert-hall-in-tbilisi-is-due-to-be-demolished-why/",
+    "https://www.interpressnews.ge/en/article/148564-kakha-kaladze-the-rike-tubes-were-in-extremely-poor-condition-and-had-become-a-dumping-ground-the-private-owner-decided-to-demolish-them-it-is-a-very-important-site-so-the-new-project-must-fit-the-surroundings/"
+   ],
+   "themes": [],
+   "notes": "Development of parent ACI-267 (demolition permit issued 13 July 2026), resolving that entry's follow-up flag. General-sweep catch on the Friday US-local day of a Wednesday-Europe subject. August demolition-progress facts from Civil Georgia (full text); the demolition plan and design facts corroborated by whitemad.pl (which paraphrases Kaladze rather than quoting him directly). Kaladze's direct quote is his 14 July 2026 permit-approval statement to journalists, sourced to InterPressNews (primary Georgian outlet, full text). ARTnews and US News (AP) reported the demolition and protests on 27 August 2026 but were not retrievable this run (bot-wall / HTTP 503).",
+   "interested_parties": "Studio Fuksas (Massimiliano and Doriana Fuksas); Tbilisi Mayor Kakha Kaladze; Rike Dom (site owner); Tbilisi City Hall",
+   "coverage_geography": "Georgia, Italy, international architecture press",
+   "follow_up_pending": true
   },
   {
    "id": "ACI-268",
@@ -20191,6 +20228,68 @@
    "notes": "First-person account of state surveillance and coercion targeting Russia's contemporary-art scene. Governance-friction data point: authoritarian state instrumentalising an artist against her peers. Single-source-origin account (Flores's own interview), carried by multiple outlets; flagged for corroboration. [FOLLOW-UP PENDING.]",
    "interested_parties": "Rita Flores (Margarita Konovalova); FSB; Philippenzo (Filipp Kozlov); Pavel Krisevich; Pyotr Verzilov",
    "coverage_geography": "Russia, Europe, US, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-355",
+   "entry_id": "355",
+   "seq": 661,
+   "title": "Villena Treasure Bronze Age gold stolen from Spanish museum in four-minute heist",
+   "artist": "N/A",
+   "institution": "Villena Museum (MUVI), Villena, Alicante",
+   "country": "Spain",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-27",
+   "date_discovered": "2026-08-28",
+   "sort_date": "2026-08-27",
+   "description": "According to Euronews, thieves stole the Villena Treasure — one of Europe's most important Bronze Age gold hoards — from the Villena Museum (MUVI) in Villena, Alicante, in the early hours of 27 August 2026. Euronews reports the raid lasted under four minutes: an alarm sounded at about 5:20 a.m. and the thieves had fled by 5:24 a.m., after a false alarm triggered at a municipal sports centre on the town's outskirts drew security forces away; the intruders entered through reinforced side windows. The hoard, discovered in 1963 by archaeologist José María Soler, comprises dozens of gold, silver, iron and amber pieces; Euronews puts the value of the gold content at about €1.5 million, with a bracelet and a few decorative items left behind. The Civil Guard (Guardia Civil) is investigating; according to Euronews, the way the thieves operated led investigators to believe the theft was not improvised and pointed to a professional, well-organised gang.",
+   "outcome": "Under investigation by the Civil Guard; no arrests or recovery of the objects reported as of 27 August 2026. [FOLLOW-UP PENDING: recovery of the treasure, arrests, or charges.]",
+   "tags": [
+    "Security failure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Euronews"
+   ],
+   "source": "https://www.euronews.com/culture/2026/08/27/thieves-steal-villena-treasure-in-under-four-minutes-one-of-europes-great-bronze-age-hoard",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Recognized Bronze Age heritage (the Villena Treasure, discovered 1963 by José María Soler), one of the major prehistoric gold hoards of the western Mediterranean; theft of nationally significant cultural property, tagged Security failure. Single retrieved source (Euronews full text) this run; other outlets (Irish Times, The Journal, Olive Press) surfaced in search but were not individually retrieved — enrich on a later pass. Early reports vary on the count and value (≈59–66 pieces; ≈€1.5–1.7m gold value).",
+   "interested_parties": "Villena Museum (MUVI); Civil Guard (Guardia Civil)",
+   "coverage_geography": "Spain, Europe, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-356",
+   "entry_id": "356",
+   "seq": 662,
+   "title": "San Jose community murals painted over during building sale, sparking dispute",
+   "artist": "Carlos Rodriguez; Jimmy Fonseca (with local children)",
+   "institution": "Martha's Kitchen, East San Jose (building formerly owned by ConXión to Community)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-08",
+   "date_discovered": "2026-08-28",
+   "sort_date": "2026-08-08",
+   "description": "San Jose Spotlight reports that two community murals at the entrance of Martha's Kitchen in East San Jose were painted over in early August 2026 — the removal was noticed on 8 August — after the building changed hands in October 2025. One mural was by artist Carlos Rodriguez; the other was made by Jimmy Fonseca with local children aged 6–12. The works honored the area's Chicano and Indigenous communities, and a sage plant used by local Indigenous residents was also removed. The previous owner, the nonprofit ConXión to Community, says a verbal agreement to preserve the murals existed during the sale; the buyer, food-service nonprofit Martha's Kitchen, points to an October 27, 2025 letter stating the building would be repainted and says it removed the murals while addressing faded paint and waterproofing. Martha's Kitchen director Bill Lee said of the entrance, “That's the entrance to our dining hall, and that doesn't represent what we're all about.” La Raza Roundtable called the murals “cultural landmarks” and protested their removal without community consultation.",
+   "outcome": "Murals painted over; La Raza Roundtable and residents protested the removal without community consultation, while Martha's Kitchen says it will commission a replacement mural on food themes by local high-school students, and the two nonprofits say they continue to collaborate on community programs. [FOLLOW-UP PENDING: whether the community protest escalates or the artists pursue a claim.]",
+   "tags": [
+    "Removal",
+    "Community objection",
+    "Indigenous rights"
+   ],
+   "court_case": "No",
+   "coverage_tier": "Local",
+   "outlets": [
+    "San Jose Spotlight"
+   ],
+   "source": "https://sanjosespotlight.com/removal-of-east-san-jose-murals-upsets-residents/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Friday US-local (West Coast) trawl catch. Community/Indigenous mural removal on private property following a building sale; dispute over an alleged verbal preservation agreement vs. an October 2025 repainting letter. Single retrieved source (San Jose Spotlight full text) this run; logged thin, enrich later. Possible VARA angle if the artists pursue it.",
+   "interested_parties": "ConXión to Community (former owner); Martha's Kitchen (Bill Lee, director); artists Carlos Rodriguez and Jimmy Fonseca; La Raza Roundtable",
+   "coverage_geography": "US (San Jose / Bay Area local)",
    "follow_up_pending": true
   }
  ]

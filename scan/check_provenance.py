@@ -134,6 +134,10 @@ DOMAIN_TO_OUTLET = {
     "unn.ua": "UNN",
     "inquirer.com": "The Philadelphia Inquirer",
     "arabnews.com": "Arab News",
+    "civil.ge": "Civil Georgia",
+    "whitemad.pl": "Whitemad",
+    "sanjosespotlight.com": "San Jose Spotlight",
+    "interpressnews.ge": "InterPressNews",
 }
 
 ALIASES = {
