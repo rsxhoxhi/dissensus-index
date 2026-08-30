@@ -137,6 +137,7 @@ DOMAIN_TO_OUTLET = {
     "civil.ge": "Civil Georgia",
     "whitemad.pl": "Whitemad",
     "sanjosespotlight.com": "San Jose Spotlight",
+    "interpressnews.ge": "InterPressNews",
 }
 
 ALIASES = {
