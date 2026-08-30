@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 632
+  "total_cases": 633
  },
  "cases": [
   {
@@ -18257,7 +18257,7 @@
     6,
     9
    ],
-   "notes": "Sub-entry of ACI-280, resolving the 7 August 2026 transition the parent flagged for watch: the inauguration-day demolition threat did not produce a demolition; the contest has moved into a license-nullification appeal before the Administrative Court of Valle del Cauca (the Procuraduría's 5 Aug 2026 concept is non-binding). Describe-don't-judge: de la Espriella's “ode to terrorism” framing and Escobar's illegality claim are attributed to them; the defenders' framing is attributed to Pacto Histórico figures. Governance: Colombia is a democracy, logged plain to match the parent, though the incoming de la Espriella administration is a trajectory-to-watch (far-right, monument-demolition posture) per CLAUDE.md §2/§14. Sources: two Infobae reports (5 and 7 Aug) plus El Tiempo (5 Aug) and El País Cali (7 Aug), all full text; El Tiempo/El País added on enrichment (2026-08-09). Cf. Cali/Colombia memory cases ACI-137-A, ACI-195, ACI-200.",
+   "notes": "[WATCH: Monumento a la Resistencia (Puerto Rellena, Cali) — chase every run until resolved. Two trigger classes, EITHER of which warrants a sub-entry (ACI-280-B): (1) the Tribunal Administrativo del Valle del Cauca second-instance ruling on the construction-license (Resolution 9183/2021) nullification appeal; (2) ANY new threat to or move against the monument — a demolition order or attempt, a relocation move, physical intervention or damage, or a new administration/official action against it. Added 2026-08-30 at maintainer request; broadened same day.] Sub-entry of ACI-280, resolving the 7 August 2026 transition the parent flagged for watch: the inauguration-day demolition threat did not produce a demolition; the contest has moved into a license-nullification appeal before the Administrative Court of Valle del Cauca (the Procuraduría's 5 Aug 2026 concept is non-binding). Describe-don't-judge: de la Espriella's “ode to terrorism” framing and Escobar's illegality claim are attributed to them; the defenders' framing is attributed to Pacto Histórico figures. Governance: Colombia is a democracy, logged plain to match the parent, though the incoming de la Espriella administration is a trajectory-to-watch (far-right, monument-demolition posture) per CLAUDE.md §2/§14. Sources: two Infobae reports (5 and 7 Aug) plus El Tiempo (5 Aug) and El País Cali (7 Aug), all full text; El Tiempo/El País added on enrichment (2026-08-09). Cf. Cali/Colombia memory cases ACI-137-A, ACI-195, ACI-200.",
    "interested_parties": "Abelardo de la Espriella (president, inaugurated 7 Aug 2026); Andrés Escobar (Cali councilman, opponent); Procuraduría General de la Nación; Administrative Court of Valle del Cauca; Metro Cali; Pacto Histórico (Sen. Kevin Gómez Paz; Rep. Alfredo Mondragón; Rep. Mafe Carrascal); Aída Quilcué; Iván Cepeda (convened the 7 Aug plantón); Cali city government; monument defenders",
    "coverage_geography": "Colombia",
    "follow_up_pending": true
@@ -19844,6 +19844,39 @@
    "interested_parties": "Gwangju Biennale Foundation; Taiwan Ministry of Culture; National Taiwan Museum of Fine Arts (NTMoFA); curator Chen Xiang-Wen and nine participating artists; Asia Culture Center",
    "coverage_geography": "Taiwan, South Korea, international",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-331-B",
+   "entry_id": "331-B",
+   "seq": 669,
+   "title": "Gwangju Biennale: China withdraws its artists over restored 'Taiwan Pavilion' name",
+   "artist": "Participating Chinese artists (withdrawn)",
+   "institution": "Gwangju Biennale Foundation, Gwangju, South Korea",
+   "country": "South Korea",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-28",
+   "date_discovered": "2026-08-30",
+   "sort_date": "2026-08-28",
+   "description": "After the Gwangju Biennale Foundation restored the name \"Taiwan Pavilion\" on 25 August 2026 (see ACI-331, ACI-331-A), China moved to withdraw its participants from the 16th Gwangju Biennale in protest. According to the Taipei Times, China's ambassador to South Korea, Dai Bing, met Gwangju's mayor on 27 August 2026 to convey Beijing's \"regret and concern\" over the naming decision and ordered Chinese artists and installation staff to halt preparations and withdraw from a special exhibition at the Gwangju Museum of Art's Ha Jung-woon branch. The withdrawal began on 28 August 2026, days before the biennale's 5 September opening. Gwangju's mayor was quoted as saying that \"political considerations should not affect the arts.\" Taiwan's presentation, organised by the National Taiwan Museum of Fine Arts, proceeds under the \"Taiwan Pavilion\" name.",
+   "outcome": "China's participants withdrawing from the 16th Gwangju Biennale (opens 5 September 2026) over the restored \"Taiwan Pavilion\" name; the Taiwan Pavilion proceeds. [FOLLOW-UP PENDING: whether the Chinese withdrawal is finalised across all participants and any further diplomatic or programming fallout at the biennale's 5 September opening.]",
+   "tags": "Geopolitics, Political interference",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Taipei Times",
+    "ARTnews"
+   ],
+   "source": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863301",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/china-pulls-artists-from-gwangju-biennale-as-taiwan-pavilion-moves-forward-1234796234/"
+   ],
+   "themes": [
+    3
+   ],
+   "notes": "Sub-entry of ACI-331 (Gwangju Biennale 'Taiwan Pavilion' naming dispute); follows ACI-331-A (name restored 25 August 2026). Escalation reverses the axis of the parent dispute: after Taiwan's preferred name was restored, China objected and pulled its own participants. Dissensus theme 3 inherited. Cross-reference ACI-081 (embassy pressure over a China-critical event). Quote ('political considerations should not affect the arts', attributed to Gwangju's mayor) carried by Taipei Times, retrieved full-text this run; ARTnews retrieved at snippet grade (direct fetch bot-walled, read via search result).",
+   "interested_parties": "China's ambassador to South Korea Dai Bing; participating Chinese artists and installation staff; Gwangju Biennale Foundation; Gwangju city government (mayor); Taiwan Ministry of Culture; National Taiwan Museum of Fine Arts (NTMoFA)",
+   "coverage_geography": "Taiwan, South Korea, China, international art press",
+   "follow_up_pending": true
   },
   {
    "id": "ACI-333",
