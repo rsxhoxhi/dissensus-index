@@ -145,6 +145,15 @@ this project is built around:
   dispute to that axis is an inference about motive.
 - **No over-hedging.** Don't pile on attribution disclaimers; plain accurate facts are
   enough.
+- **Draft from one open text; every claim traces to the outlet it's cited to.** Write the
+  base description from the fully-read reference `source`, stating only what that article
+  contains — do not blend in facts from other outlets' snippets and file them under
+  "according to [source]." A search snippet is a discovery lead, not a citation: to use its
+  fact, open that outlet and cite it, or attribute the fact inline and add its URL to
+  `additional_sources`. **Reported speech by default** — quotation marks only for a string
+  read verbatim in a `success` retrieval, attributed to the outlet carrying it; a paraphrase
+  in the source stays a paraphrase here. Every outlet in `outlets` must have a resolving URL
+  in `source`/`additional_sources` (provenance gate Rule 3). See CLAUDE.md §8 "Draft narrowly."
 - **Source provenance — every cited source must be one you actually retrieved.** Every outlet named in a `source` or `outlets` field must have been directly fetched, or returned in a search result, during *this* run. If a source was not retrieved, it may not be listed — restrict the fields to the sources actually obtained, and note the limitation. Never add an outlet because it plausibly or probably covered the story. A real event with only one retrievable source gets one source, not a likely-looking list. Dates come from the retrieved article's own dateline or text, never from inference about relative time. When an entry draws on more than one retrieved article, put the reference article — the one the entry is drafted from and verified against — in `source`, and the other retrieved-and-used URLs in `additional_sources` (see CLAUDE.md required fields). Populate it from this run’s own ledger: only URLs actually retrieved this run, and only those actually used for claims in the entry — never a thoroughness-display of everything fetched. An entry resting on a single article carries `"additional_sources": []`, which is the normal case, not a deficiency.
 - **All required fields**, per CLAUDE.md's field spec: id, entry_id, seq, title, artist,
   institution, country, governance_type, date fields, description, outcome, tags,
@@ -156,7 +165,7 @@ this project is built around:
 
 ## Step 4B — Provenance gate (MANDATORY, before the PR opens)
 
-Run `python scan/check_provenance.py`. The PR does not open until it prints OK. The gate enforces two rules against this run's ledger: (1) **reach** — every outlet cited in `outlets`, `source`, or `additional_sources` must have a non-blocked retrieval record this run (metadata-grade thin entries are legitimate); (2) **depth** — any entry containing quotation marks must have at least one cited outlet with a full `success` retrieval, because quotes cannot come from metadata or truncated fetches. The gate validates the entries authored this run, anchored to the ledger's `run_date`; if the scan crossed midnight UTC it prints a NOTE that `run_date` differs from today and validates against the anchor — this is normal, not a failure. On FAIL: re-fetch and log the missing outlet, correct the entry to match what was actually retrieved, or remove the unverifiable material — then re-run the gate. Never edit the ledger to satisfy the gate. If the failure is `unrecognized domain`, add the domain to `DOMAIN_TO_OUTLET` in `scan/check_provenance.py` as part of the run and note it in the PR.
+Run `python scan/check_provenance.py`. The PR does not open until it prints OK. The gate enforces three rules against this run's ledger: (1) **reach** — every outlet cited in `outlets`, `source`, or `additional_sources` must have a non-blocked retrieval record this run (metadata-grade thin entries are legitimate); (2) **depth** — any entry containing quotation marks must have at least one cited outlet with a full `success` retrieval, because quotes cannot come from metadata or truncated fetches; (3) **linkage** — every outlet named in `outlets` must be reachable by a URL in `source`/`additional_sources`, so no outlet is credited without a link. The gate validates the entries authored this run, anchored to the ledger's `run_date`; if the scan crossed midnight UTC it prints a NOTE that `run_date` differs from today and validates against the anchor — this is normal, not a failure. On FAIL: re-fetch and log the missing outlet, correct the entry to match what was actually retrieved, or remove the unverifiable material — then re-run the gate. Never edit the ledger to satisfy the gate. If the failure is `unrecognized domain`, add the domain to `DOMAIN_TO_OUTLET` in `scan/check_provenance.py` as part of the run and note it in the PR.
 
 ## Step 4C — Content-dedup review (before the PR opens)
 
