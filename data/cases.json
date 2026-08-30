@@ -20342,7 +20342,7 @@
    "date_controversy": "Reported August 28, 2026",
    "date_discovered": "2026-08-29",
    "sort_date": "2026-08-28",
-   "description": "According to ARTnews, the Robert Mapplethorpe Foundation declined to license Robert Mapplethorpe's 1981 portrait of the attorney Roy Cohn for the cover of a forthcoming biography by Kai Bird, titled American Scoundrel: Roy Cohn's Dark Journey from Joe McCarthy to Donald Trump. ARTnews reports the foundation's decision was driven by concern over political fallout, given Cohn's role as an early mentor to President Trump, and that the foundation feared retaliation. Cohn, who died in 1986, was a McCarthy-era prosecutor who later became a Trump associate. The New York Times also covered the episode as a Trump-era dilemma over free expression in the nonprofit art world.",
+   "description": "According to ARTnews, the Robert Mapplethorpe Foundation declined to license Robert Mapplethorpe's 1981 portrait of the attorney Roy Cohn for the cover of a forthcoming biography by Kai Bird and Susan Goldmark, titled American Scoundrel: Roy Cohn's Dark Journey from Joe McCarthy to Donald Trump. ARTnews reports the foundation's decision was driven by concern over political fallout, given Cohn's role as an early mentor to President Trump, and that the foundation feared retaliation. Cohn, who died in 1986, was a McCarthy-era prosecutor who later became a Trump associate.",
    "outcome": "The 1981 portrait will not appear on the biography's cover; the foundation had not issued a public statement explaining its reasoning in the coverage retrieved. [FOLLOW-UP PENDING: any statement from the Mapplethorpe Foundation, and the book's publication.]",
    "tags": [
     "Censorship",
@@ -20355,8 +20355,10 @@
    ],
    "source": "https://www.artnews.com/art-news/news/robert-mapplethorpe-foundation-roy-cohn-portrait-denial-1234796227/",
    "additional_sources": [],
-   "themes": [],
-   "notes": "New parent. A cultural nonprofit declining to license a work out of anticipated political consequence -- fits the anticipatory-obedience frame (the institution moves first; no order is issued and no direct external pressure is applied). Cf. ACI-345 (State Department removal of a Kehinde Wiley embassy painting) and the broader pattern of arts-nonprofit caution under the current administration. Reference source is ARTnews (search snippet this run); the NYT also reported the story (headline seen via the NYT RSS feed) but its article was not individually retrieved this run -- enrich later. The characterization of the foundation's motive (fear of retaliation) is attributed to reporting, not asserted as established fact.",
+   "themes": [
+    4
+   ],
+   "notes": "New parent. A cultural nonprofit declining to license a work out of anticipated political consequence -- fits the anticipatory-obedience frame (the institution moves first; no order is issued and no direct external pressure is applied). Cf. ACI-345 (State Department removal of a Kehinde Wiley embassy painting) and the broader pattern of arts-nonprofit caution under the current administration. Reference source is ARTnews (search snippet this run); the NYT also reported the story (headline seen via the NYT RSS feed) but its article was not individually retrieved this run, so NYT is not cited here; add the link on enrichment. The characterization of the foundation's motive (fear of retaliation) is attributed to reporting, not asserted as established fact.",
    "interested_parties": "Robert Mapplethorpe Foundation; author Kai Bird; Roy Cohn (subject, d. 1986)",
    "coverage_geography": "US",
    "follow_up_pending": true
@@ -20406,7 +20408,7 @@
    "date_controversy": "Closed after a court-ordered raid in December 2025; Ministry regained control August 11, 2026; reopening reported August 28, 2026",
    "date_discovered": "2026-08-29",
    "sort_date": "2026-08-28",
-   "description": "The Art Newspaper reports that the Museo de Arte Colonial in Antigua Guatemala will reopen after a court-ordered raid shut it in December 2025 and forced the hurried relocation of its roughly 287 colonial-era works. According to the report, the raid followed a local legal proceeding brought by an undisclosed plaintiff who alleged poor conservation conditions inside; the collection was moved within about two weeks to the Palacio Nacional de la Cultura in Guatemala City, and the closure raised concern about the institution's future and the fate of its holdings. Guatemala's Ministry of Culture and Sports regained control of the venue on August 11, 2026 after negotiations, though the 18th-century complex and its fragile works still require restoration and no reopening date has been set.",
+   "description": "The Art Newspaper reports that the Museo de Arte Colonial in Antigua Guatemala will reopen after a court-ordered raid shut it in December 2025 and forced the hurried relocation of its roughly 287 colonial-era works. According to the report, the raid followed a local legal proceeding brought by an undisclosed plaintiff who alleged poor conservation conditions inside; most of the collection was moved within about two weeks to the Palacio Nacional de la Cultura in Guatemala City, and the closure raised concern about the institution's future and the fate of its holdings. Guatemala's Ministry of Culture and Sports regained control of the venue on August 11, 2026 after negotiations, though the 18th-century complex and its fragile works still require restoration and no reopening date has been set.",
    "outcome": "The Ministry of Culture and Sports is back in control of the site as of August 11, 2026; the collection is held at the Palacio Nacional de la Cultura pending restoration; no reopening date has been announced. [FOLLOW-UP PENDING: reopening date, the condition of the relocated works, and resolution of the underlying legal proceeding.]",
    "tags": [
     "Institutional crisis",
@@ -20448,13 +20450,15 @@
    "outlets": [
     "New York Times"
    ],
-   "source": "https://www.nytimes.com/2026/08/28/style/galliano-met-gala-critics.html",
-   "additional_sources": [],
+   "source": "https://www.nytimes.com/2026/08/06/opinion/met-gala-galliano-antisemitism.html",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/28/style/galliano-met-gala-critics.html"
+   ],
    "themes": [
     4,
     8
    ],
-   "notes": "New parent. Public objection to an institutional honor decision (the Met's planned spring 2027 Costume Institute exhibition on John Galliano). Neutrality: Galliano's 2011 Paris conviction is a documented court fact, stated as such; the value judgments about whether the Met should proceed are attributed to the critics and to the museum, never voiced by the Index. Verdict tags deliberately avoided. Reference source is the NYT (August 28 report, retrieved via the NYT API at metadata/abstract grade); the plan also drew commentary in Haaretz, JTA, The Hollywood Reporter and CNN seen in search but not individually retrieved -- enrich later. Cf. Dissensus themes 4 (Institutional Risk) and 8 (Artist Responsibility).",
+   "notes": "New parent. Public objection to an institutional honor decision (the Met's planned spring 2027 Costume Institute exhibition on John Galliano). Neutrality: Galliano's 2011 Paris conviction is a documented court fact, stated as such; the value judgments about whether the Met should proceed are attributed to the critics and to the museum, never voiced by the Index. Verdict tags deliberately avoided. Reference source is Dana Thomas's NYT opinion piece (6 August 2026), which the entry paraphrases; the NYT's August 28 news report (retrieved via the NYT API at metadata/abstract grade) is kept as an additional source. the plan also drew commentary in Haaretz, JTA, The Hollywood Reporter and CNN seen in search but not individually retrieved -- enrich later. Cf. Dissensus themes 4 (Institutional Risk) and 8 (Artist Responsibility).",
    "interested_parties": "Metropolitan Museum of Art (Costume Institute); Andrew Bolton (curator in charge); John Galliano; Dana Thomas (critic)",
    "coverage_geography": "US, international",
    "follow_up_pending": true
