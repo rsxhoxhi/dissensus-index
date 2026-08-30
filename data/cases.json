@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 628
+  "total_cases": 633
  },
  "cases": [
   {
@@ -15545,6 +15545,44 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-AY",
+   "entry_id": "005-AY",
+   "seq": 668,
+   "title": "Kennedy Center: board delays adding Trump's name to at least October 8 as judge presses DOJ",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts; US Department of Justice",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-27",
+   "date_discovered": "2026-08-29",
+   "sort_date": "2026-08-27",
+   "description": "At a hearing on August 27, 2026, the Kennedy Center's board told US District Judge Christopher Cooper it would not attempt to add President Trump's name to the building or grounds before October 8, 2026 -- a delay of about a month from its earlier plan, according to CNN and The New York Times. The board had voted on August 13 to place an inscription beneath the center's sign stating that the venue was restored and renovated by President Trump. Reporting says Judge Cooper pressed the Justice Department on its argument that restoring Trump's name was necessary to sustain private donations, asking how that bore on what Congress intended in the statute governing the building's name. Cooper had earlier ruled that renaming the center for anyone other than John F. Kennedy violated federal law; Trump's name came off the building in June 2026, and the facade has since been covered by a tarp.",
+   "outcome": "The Kennedy Center will not add Trump's name before October 8, 2026 while litigation continues; Judge Cooper questioned the Justice Department's rationale at the August 27 hearing and did not rule from the bench in the coverage retrieved. [FOLLOW-UP PENDING: Judge Cooper's ruling on the inscription plan and Rep. Beatty's motions (see ACI-005-AV, ACI-005-AW, ACI-005-AX).]",
+   "tags": [
+    "Political interference",
+    "Institutional crisis",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times",
+    "CNN"
+   ],
+   "source": "https://www.nytimes.com/2026/08/27/arts/music/trump-kennedy-center-name.html",
+   "additional_sources": [
+    "https://www.cnn.com/2026/08/27/politics/kennedy-center-hearing-lutnick"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center renaming/renovation dispute); follows ACI-005-AT (board closure and renaming vote), ACI-005-AV and ACI-005-AW (Rep. Beatty's motions to block), and ACI-005-AX (DOJ demolition-warning filing). New development: the board agreed to hold off on the Trump inscription until at least October 8, and Judge Cooper pressed the DOJ's fundraising rationale at the August 27 hearing. Inserted after ACI-005-AV, the last 005 sub-entry present in main; ACI-005-AW and ACI-005-AX are in still-open daily-scan PRs. [FOLLOW-UP PENDING: Cooper's ruling.]",
+   "interested_parties": "Kennedy Center board; US Department of Justice; Judge Christopher Cooper; Rep. Joyce Beatty; President Trump",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -19810,7 +19848,7 @@
   {
    "id": "ACI-331-B",
    "entry_id": "331-B",
-   "seq": 664,
+   "seq": 669,
    "title": "Gwangju Biennale: China withdraws its artists over restored 'Taiwan Pavilion' name",
    "artist": "Participating Chinese artists (withdrawn)",
    "institution": "Gwangju Biennale Foundation, Gwangju, South Korea",
@@ -20323,6 +20361,142 @@
    "notes": "Friday US-local (West Coast) trawl catch. Community/Indigenous mural removal on private property following a building sale; dispute over an alleged verbal preservation agreement vs. an October 2025 repainting letter. Single retrieved source (San Jose Spotlight full text) this run; logged thin, enrich later. Possible VARA angle if the artists pursue it.",
    "interested_parties": "ConXión to Community (former owner); Martha's Kitchen (Bill Lee, director); artists Carlos Rodriguez and Jimmy Fonseca; La Raza Roundtable",
    "coverage_geography": "US (San Jose / Bay Area local)",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-357",
+   "entry_id": "357",
+   "seq": 664,
+   "title": "Mapplethorpe Foundation withholds Roy Cohn portrait from biography cover over Trump concerns",
+   "artist": "Robert Mapplethorpe",
+   "institution": "Robert Mapplethorpe Foundation",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported August 28, 2026",
+   "date_discovered": "2026-08-29",
+   "sort_date": "2026-08-28",
+   "description": "According to ARTnews, the Robert Mapplethorpe Foundation declined to license Robert Mapplethorpe's 1981 portrait of the attorney Roy Cohn for the cover of a forthcoming biography by Kai Bird and Susan Goldmark, titled American Scoundrel: Roy Cohn's Dark Journey from Joe McCarthy to Donald Trump. ARTnews reports the foundation's decision was driven by concern over political fallout, given Cohn's role as an early mentor to President Trump, and that the foundation feared retaliation. Cohn, who died in 1986, was a McCarthy-era prosecutor who later became a Trump associate. The New York Times' media desk also reported the story.",
+   "outcome": "The 1981 portrait will not appear on the biography's cover; the foundation had not issued a public statement explaining its reasoning in the coverage retrieved. [FOLLOW-UP PENDING: any statement from the Mapplethorpe Foundation, and the book's publication.]",
+   "tags": [
+    "Censorship",
+    "Copyright/ownership"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews",
+    "New York Times"
+   ],
+   "source": "https://www.artnews.com/art-news/news/robert-mapplethorpe-foundation-roy-cohn-portrait-denial-1234796227/",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/27/business/media/roy-cohn-robert-mapplethorpe-american-scoundrel.html"
+   ],
+   "themes": [
+    4
+   ],
+   "notes": "New parent. A cultural nonprofit declining to license a work out of anticipated political consequence -- fits the anticipatory-obedience frame (the institution moves first; no order is issued and no direct external pressure is applied). Cf. ACI-345 (State Department removal of a Kehinde Wiley embassy painting) and the broader pattern of arts-nonprofit caution under the current administration. Reference source is ARTnews (search snippet this run); the NYT media desk also reported the story; its article was not machine-retrievable this run (paywall), but the canonical link was supplied and is cited. The characterization of the foundation's motive (fear of retaliation) is attributed to reporting, not asserted as established fact.",
+   "interested_parties": "Robert Mapplethorpe Foundation; author Kai Bird; Roy Cohn (subject, d. 1986)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-358",
+   "entry_id": "358",
+   "seq": 665,
+   "title": "Queen Nazli diamond necklace stolen from Vienna's MAK museum in daytime heist",
+   "artist": "N/A",
+   "institution": "Museum of Applied Arts (MAK), Vienna",
+   "country": "Austria",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-27",
+   "date_discovered": "2026-08-29",
+   "sort_date": "2026-08-27",
+   "description": "According to CBS News and Hyperallergic, two men stole a platinum-and-diamond necklace from the Museum of Applied Arts (MAK) in Vienna on the afternoon of August 27, 2026. Reporting says the pair bought entry tickets and mingled with visitors before shattering a central display case with a hammer and taking the necklace. The 200-carat piece, set with 673 diamonds by Van Cleef & Arpels, was created for Egypt's royal family and worn by Queen Nazli in 1939, and had most recently been appraised by Sotheby's at about 4.6 million US dollars. It was on view in the exhibition Glanzstuecke, drawn from the museum's own collection and the jeweller's archive. Austrian police are investigating.",
+   "outcome": "Under police investigation; no arrests or recovery of the necklace reported as of August 28, 2026. [FOLLOW-UP PENDING: arrests, recovery of the necklace, or charges.]",
+   "tags": [
+    "Security failure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "CBS News",
+    "Hyperallergic"
+   ],
+   "source": "https://www.cbsnews.com/news/carat-platinum-diamond-necklace-heist-vienna-museum/",
+   "additional_sources": [
+    "https://hyperallergic.com/thieves-snatch-4-6m-diamond-necklace-from-viennese-museum/"
+   ],
+   "themes": [],
+   "notes": "New parent. Parallels the recent museum-jewel-heist cluster -- cf. ACI-002 (2025 Louvre heist) and ACI-355 (Villena Treasure, Spain, August 27, 2026, logged one day earlier); reporting notes a pattern of fast, sometimes violent museum robberies across Europe. Tagged Security failure, consistent with those precedents. Reference source CBS News (search snippet this run); the Hyperallergic homepage read (success) carried the same story. Early counts and values may vary across outlets -- enrich with additional outlets later.",
+   "interested_parties": "Museum of Applied Arts (MAK), Vienna; Van Cleef & Arpels; Austrian police",
+   "coverage_geography": "Austria, Europe, US, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-359",
+   "entry_id": "359",
+   "seq": 666,
+   "title": "Guatemala's Museo de Arte Colonial to reopen after court-ordered raid emptied its galleries",
+   "artist": "N/A",
+   "institution": "Museo de Arte Colonial, Antigua Guatemala; Guatemalan Ministry of Culture and Sports",
+   "country": "Guatemala",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Closed after a court-ordered raid in December 2025; Ministry regained control August 11, 2026; reopening reported August 28, 2026",
+   "date_discovered": "2026-08-29",
+   "sort_date": "2026-08-28",
+   "description": "The Art Newspaper reports that the Museo de Arte Colonial in Antigua Guatemala will reopen after a court-ordered raid shut it in December 2025 and forced the hurried relocation of its roughly 287 colonial-era works. According to the report, the raid followed a local legal proceeding brought by an undisclosed plaintiff who alleged poor conservation conditions inside; most of the collection was moved within about two weeks to the Palacio Nacional de la Cultura in Guatemala City, and the closure raised concern about the institution's future and the fate of its holdings. Guatemala's Ministry of Culture and Sports regained control of the venue on August 11, 2026 after negotiations, though the 18th-century complex and its fragile works still require restoration and no reopening date has been set.",
+   "outcome": "The Ministry of Culture and Sports is back in control of the site as of August 11, 2026; the collection is held at the Palacio Nacional de la Cultura pending restoration; no reopening date has been announced. [FOLLOW-UP PENDING: reopening date, the condition of the relocated works, and resolution of the underlying legal proceeding.]",
+   "tags": [
+    "Institutional crisis",
+    "Legal challenge",
+    "Conservation"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/28/museo-arte-colonial-antigua-guatemala-reopens-after-court-ordered-raid-closure",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Institutional and legal crisis at a colonial-art museum, where the museum and its collection are themselves the contested object -- closure by court-ordered raid over alleged conservation conditions, with the collection displaced. Conservation tag applied because the adequacy of conservation is the basis of the legal action, not merely incidental. Single retrieved source this run (The Art Newspaper, August 28 report; an earlier February 3, 2026 TAN report on the original shutdown was seen in search results but not individually retrieved). Latin America region -- enrich with Guatemalan and Spanish-language outlets on the Monday trawl.",
+   "interested_parties": "Museo de Arte Colonial (Antigua Guatemala); Guatemalan Ministry of Culture and Sports (MCD); undisclosed plaintiff in the local legal proceeding",
+   "coverage_geography": "Guatemala, international art press",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-360",
+   "entry_id": "360",
+   "seq": 667,
+   "title": "Met's planned John Galliano exhibition draws objections over his 2011 hate-crime conviction",
+   "artist": "John Galliano",
+   "institution": "Metropolitan Museum of Art, Costume Institute",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Exhibition announced early August 2026; criticism reported through August 28, 2026",
+   "date_discovered": "2026-08-29",
+   "sort_date": "2026-08-28",
+   "description": "The New York Times reports that critics have objected to the Metropolitan Museum of Art's plan to devote its spring 2027 Costume Institute exhibition to the designer John Galliano, whom a Paris court convicted in 2011 of a hate crime over antisemitic remarks -- a conviction that led to his dismissal from Christian Dior and from his own label. Writing in the Times, the fashion journalist Dana Thomas argued that a living designer as incendiary as Galliano should not be the subject of a retrospective during his lifetime. The museum has said the exhibition will directly address the 2010-2011 conduct that ended his tenure at Dior. Galliano would be the third living designer to receive a solo show at the Met, after Yves Saint Laurent and Rei Kawakubo.",
+   "outcome": "The exhibition remains planned for spring 2027; the museum has defended it as directly addressing Galliano's past conduct, while critics have urged reconsideration. No institutional reversal reported. [FOLLOW-UP PENDING: whether the Met alters or proceeds with the exhibition, and any organized response.]",
+   "tags": [
+    "Community objection"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/08/06/opinion/met-gala-galliano-antisemitism.html",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/28/style/galliano-met-gala-critics.html"
+   ],
+   "themes": [
+    4,
+    8
+   ],
+   "notes": "New parent. Public objection to an institutional honor decision (the Met's planned spring 2027 Costume Institute exhibition on John Galliano). Neutrality: Galliano's 2011 Paris conviction is a documented court fact, stated as such; the value judgments about whether the Met should proceed are attributed to the critics and to the museum, never voiced by the Index. Verdict tags deliberately avoided. Reference source is Dana Thomas's NYT opinion piece (6 August 2026), which the entry paraphrases; the NYT's August 28 news report (retrieved via the NYT API at metadata/abstract grade) is kept as an additional source. the plan also drew commentary in Haaretz, JTA, The Hollywood Reporter and CNN seen in search but not individually retrieved -- enrich later. Cf. Dissensus themes 4 (Institutional Risk) and 8 (Artist Responsibility).",
+   "interested_parties": "Metropolitan Museum of Art (Costume Institute); Andrew Bolton (curator in charge); John Galliano; Dana Thomas (critic)",
+   "coverage_geography": "US, international",
    "follow_up_pending": true
   }
  ]
