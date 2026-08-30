@@ -2,6 +2,12 @@
 """
 prescan_guard.py — Backlog-aware pre-scan base check for the Dissensus Index scan.
 
+The number this guard prints is PROVISIONAL — a working label while a candidate
+is in review. The permanent, contiguous ACI-NNN is assigned at merge, to the
+survivors only, by scan/finalize_ids.py (so a dropped candidate never burns a
+public number). This guard still does the essential job below: dedup and a
+collision-free provisional number across the whole open backlog.
+
 WHY THIS EXISTS
 The daily scan dedups new discoveries against data/cases.json and assigns the
 next case ID from the highest existing entry number. Two ways that goes wrong:
@@ -138,7 +144,7 @@ def main():
         print("open backlog: none — no unmerged scan branches carry new cases.")
 
     print(f"union       : {len(union_cases)} cases · highest entry #{umax} "
-          f"→ next new parent ID = ACI-{umax + 1:03d}")
+          f"→ next PROVISIONAL parent ID = ACI-{umax + 1:03d}")
 
     with open(UNION_OUT, "w", encoding="utf-8") as fh:
         json.dump(
@@ -166,8 +172,9 @@ def main():
         print("    git checkout -B claude/daily-<YYYY-MM-DD> origin/main")
         return 1
 
-    print(f"\nOK: base current with origin/main. Assign new IDs starting at "
-          f"ACI-{umax + 1:03d}; dedup against {UNION_OUT}.")
+    print(f"\nOK: base current with origin/main. Draft new entries from the PROVISIONAL "
+          f"number ACI-{umax + 1:03d} (a working label only); dedup against {UNION_OUT}. "
+          f"Permanent contiguous ACI numbers are assigned at merge by scan/finalize_ids.py.")
     return 0
 
 
