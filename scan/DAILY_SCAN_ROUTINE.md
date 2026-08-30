@@ -200,6 +200,11 @@ you don't reintroduce a duplicate/collision:
    - **For your review:** every judgment call the run wasn't sure about — borderline
      relevance, a tag that might near judgment, a possible duplicate, a thin entry
      needing enrichment. List these plainly so they can be settled on review.
+   - **Dated roadmap reminders:** if today's date is on or after any
+     `[OPEN — revisit on/after YYYY-MM-DD]` date still present in CLAUDE.md §16, add a
+     one-line "revisit due: <item>" note here so the reminder reaches the maintainer
+     through the normal review flow. (This is how deferred decisions like Source-fidelity
+     Layer 2 resurface — the daily scan is the reliable, persistent timer.)
 6. **Stop at the open PR.** Do not merge. Do not deploy. The entries carry their
    **provisional** numbers at this point — the permanent ones are assigned at merge (Step 6).
 
