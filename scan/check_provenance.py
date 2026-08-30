@@ -132,6 +132,7 @@ DOMAIN_TO_OUTLET = {
     "pbs.org": "PBS",
     "artlyst.com": "Artlyst",
     "unn.ua": "UNN",
+    "inquirer.com": "The Philadelphia Inquirer",
 }
 
 ALIASES = {
