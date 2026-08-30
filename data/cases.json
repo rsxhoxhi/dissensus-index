@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 617
+  "total_cases": 623
  },
  "cases": [
   {
@@ -461,6 +461,40 @@
    "notes": "Sub-entry of ACI-196 (RMS Titanic Inc. auction plan vs. NOAA). Metadata-grade source (NYT paywalled to direct fetch); description carries no quotations, per the provenance depth rule. [FOLLOW-UP PENDING]",
    "interested_parties": "RMS Titanic Inc.; NOAA; US District Court (Norfolk, Virginia); French court",
    "coverage_geography": "US, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-196-B",
+   "entry_id": "196-B",
+   "seq": 651,
+   "title": "RMS Titanic: federal judge blocks planned auction of salvaged artifacts",
+   "artist": "N/A",
+   "institution": "US District Court, Eastern District of Virginia (Norfolk)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-24",
+   "date_discovered": "2026-08-26",
+   "sort_date": "2026-08-24",
+   "description": "Senior US District Judge Rebecca Beach Smith issued an injunction blocking RMS Titanic Inc. from auctioning a portion of its salvaged Titanic artifacts, ruling that the proposed sale likely breaches the conditions of the company's salvor-in-possession status. NOAA, representing US interests, and the French government had opposed the sale. The judge raised concerns about the collection's condition and ordered an inventory of the items filed with the court. The company had sought to sell part of its holdings, citing financial difficulty and preservation costs.",
+   "outcome": "Auction halted by injunction; RMS Titanic Inc. ordered to file a court inventory of the collection. A sale remains barred pending further proceedings. [FOLLOW-UP PENDING: any appeal, the pending jurisdictional question (see ACI-196-A), and final ruling on whether any sale may proceed.]",
+   "tags": "Legal challenge, Financialization, Deaccessioning",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Hill",
+    "The Washington Post",
+    "Courthouse News Service"
+   ],
+   "source": "https://thehill.com/regulation/court-battles/6050535-titanic-artifacts-sale-federal-judge-block/",
+   "additional_sources": [
+    "https://www.washingtonpost.com/dc-md-va/2026/08/25/auction-over-100-titanic-artifacts-is-blocked-by-federal-judge/"
+   ],
+   "themes": [
+    10
+   ],
+   "notes": "Sub-entry of ACI-196 (RMS Titanic auction plan vs. NOAA) and follows ACI-196-A (jurisdictional challenge). Resolves the near-term follow-up on whether the auction could proceed: it is enjoined for now. Preservation-by-agreement vs. sale.",
+   "interested_parties": "Judge Rebecca Beach Smith; RMS Titanic Inc.; NOAA; French government; US District Court, EDVA",
+   "coverage_geography": "US, UK, international",
    "follow_up_pending": true
   },
   {
@@ -15476,6 +15510,41 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-AX",
+   "entry_id": "005-AX",
+   "seq": 652,
+   "title": "Kennedy Center: DOJ filing warns the building may need demolition if renovation is blocked",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts; US Department of Justice",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-25",
+   "date_discovered": "2026-08-26",
+   "sort_date": "2026-08-25",
+   "description": "In a court filing, Justice Department lawyers representing the Kennedy Center argued that the building will eventually have to be demolished unless the administration's renovation plans, which include adding President Trump's name to the front of the building, are allowed to proceed. The filing described the structure as structurally unsound and unsafe and floated the idea of an outdoor amphitheatre on the site. The filing was entered in litigation in which Rep. Joyce Beatty, an ex-officio member of the Kennedy Center board, has sued to block the closure and the addition of Trump's name. Opponents of the renovation called the demolition framing unjustified. The board voted on 13 August to close the center for up to two years for an estimated USD 250 million renovation.",
+   "outcome": "Filing entered amid the ongoing litigation over the renovation, closure, and renaming; opponents rejected the demolition argument. [FOLLOW-UP PENDING: the court's ruling on Beatty's motions to block the closure and renaming (see ACI-005-AV, ACI-005-AW).]",
+   "tags": "Political interference, Institutional crisis, Legal challenge, Historic preservation",
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post",
+    "CNN",
+    "NBC News"
+   ],
+   "source": "https://www.washingtonpost.com/style/2026/08/25/doj-says-kennedy-center-could-be-demolished-if-trumps-plans-are-blocked/",
+   "additional_sources": [
+    "https://www.cnn.com/2026/08/25/politics/demolish-kennedy-center-renovations"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center renaming/renovation dispute); follows ACI-005-AT (board closure vote), ACI-005-AV and ACI-005-AW (Beatty's motions to block). The demolition warning is a new escalation in the DOJ's litigation posture. [FOLLOW-UP PENDING: ruling on Beatty's motions.]",
+   "interested_parties": "US Department of Justice; Kennedy Center board; Rep. Joyce Beatty; President Trump",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -19960,6 +20029,138 @@
    "notes": "New parent; repatriation resolution / cluster anchor (Dissensus theme 12, Restitution & Repatriation). Thin metadata/snippet-grade entry drafted from Artforum's report of the FBI ceremony (corroborated in search results by the FBI Los Angeles field-office release and CBS Los Angeles, not separately cited here). Enrichment candidate on a repatriation/trafficking trawl day.",
    "interested_parties": "FBI Art Crime Team (Los Angeles); Egyptian Ministry of Foreign Affairs; Egyptian government",
    "coverage_geography": "US, Egypt",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-348",
+   "entry_id": "348",
+   "seq": 653,
+   "title": "Chinese court sentences artist Gao Zhen to three years over satirical Mao sculptures",
+   "artist": "Gao Zhen (Gao Brothers)",
+   "institution": "Sanhe People's Court, Hebei Province",
+   "country": "China",
+   "governance_type": "Authoritarian",
+   "date_controversy": "2026-08-25",
+   "date_discovered": "2026-08-26",
+   "sort_date": "2026-08-25",
+   "description": "Gao Zhen, a US-based Chinese artist who worked with his brother as the Gao Brothers, was sentenced to three years in prison by the Sanhe People's Court in Hebei province for infringing upon the reputation of heroes and martyrs, according to his wife, Zhao Yaliang. He had been in custody since August 2024, when he was detained while visiting relatives in China. The charges cited satirical works including the 2009 sculpture Mao's Guilt, which depicts Mao Zedong kneeling, and the Miss Mao caricature series; some of the works predate the 2018 heroes-and-martyrs law under which he was charged. Amnesty International's China director characterised the maximum sentence as an attempt to deter independent artistic expression, and international groups have called for his release.",
+   "outcome": "Convicted and sentenced to three years, the maximum under the statute; family and rights groups say the term includes time already served since his 2024 detention. [FOLLOW-UP PENDING: any appeal, release date, or diplomatic response.]",
+   "tags": "Censorship, Political art, Legal challenge, Political interference, Artist safety",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Washington Post",
+    "ABC News (Australia)",
+    "Hyperallergic"
+   ],
+   "source": "https://www.washingtonpost.com/world/2026/08/25/china-artist-sentenced-mao-statues/85a353c6-a07e-11f1-8606-1d40ad00172e_story.html",
+   "additional_sources": [],
+   "themes": [
+    1
+   ],
+   "notes": "Political-censorship conviction of a dissident artist under the 2018 heroes-and-martyrs law, applied to works made as early as 2005. Governance-friction data point: authoritarian state prosecuting satirical art targeting a foundational political figure. [FOLLOW-UP PENDING: appeal / release.]",
+   "interested_parties": "Gao Zhen; Gao Qiang (brother); Zhao Yaliang (wife); Amnesty International; Sanhe People's Court, Hebei",
+   "coverage_geography": "US, UK, Australia, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-349",
+   "entry_id": "349",
+   "seq": 654,
+   "title": "Photographer sues Elizabeth Peyton over painting drawn from his 1995 Oasis photograph",
+   "artist": "Elizabeth Peyton; Justin Thomas (photographer)",
+   "institution": "US District Court (copyright suit); Sotheby's; David Zwirner",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-24",
+   "date_discovered": "2026-08-26",
+   "sort_date": "2026-08-24",
+   "description": "Photographer Justin Thomas filed a federal copyright-infringement suit against painter Elizabeth Peyton, gallery David Zwirner, and auction house Sotheby's, alleging that Peyton's 1996 painting Earl's Court (Liam + Noel) copied his 1995 photograph of Oasis founders Liam and Noel Gallagher. The painting sold at Sotheby's in New York in May 2026 for about USD 1.9 million. According to the complaint, Sotheby's had offered Thomas a small licensing fee to reproduce his photo in sale materials before, he says, Peyton's team asked that the photo be removed from those materials. Reporting notes an earlier 2016 dispute in which Peyton was challenged by a Sex Pistols photographer over a painting later withdrawn from auction.",
+   "outcome": "Complaint filed; no ruling yet. Plaintiff seeks damages tied to the painting's sale. [FOLLOW-UP PENDING: court response, settlement, or dismissal.]",
+   "tags": "Copyright/ownership, Legal challenge, Financialization",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews",
+    "Artnet News"
+   ],
+   "source": "https://www.artnews.com/art-news/news/photographer-sues-elizabeth-peyton-over-painting-using-his-photo-of-oasis-band-members-1234795728/",
+   "additional_sources": [
+    "https://news.artnet.com/art-world/thomas-elizabeth-peyton-oasis-painting-lawsuit-2802351"
+   ],
+   "themes": [
+    11
+   ],
+   "notes": "Authorship/appropriation dispute over a painting derived from a documentary photograph, sharpened by the work's high auction price. Cf. copyright/appropriation cluster. [FOLLOW-UP PENDING: litigation outcome.]",
+   "interested_parties": "Justin Thomas; Elizabeth Peyton; David Zwirner; Sotheby's",
+   "coverage_geography": "US, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-350",
+   "entry_id": "350",
+   "seq": 655,
+   "title": "Hamburg court convicts two siblings of money laundering over trafficked Egyptian antiquities",
+   "artist": "N/A",
+   "institution": "Hamburg Regional Court",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-25",
+   "date_discovered": "2026-08-26",
+   "sort_date": "2026-08-25",
+   "description": "A court in Hamburg convicted two people of money laundering over the illegal sale of ancient Egyptian antiquities, according to ARTnews, Artforum, and Arab News. ARTnews reported that the two were not named; Arab News described them as siblings -- a brother and a sister -- and reported that the court ordered the confiscation of about EUR 32 million (USD 37 million), EUR 26 million from the brother and EUR 6 million from the sister, plus fines, with the brother cleared of a more serious stolen-goods charge for insufficient evidence. None of the coverage named the convicted parties. Arab News described them only as children of one of the case's main alleged perpetrators, an archaeologist from Hamburg. ARTnews and Artforum reported that the charges closely resemble those made against the children of Serop Simonian, described by Artforum as the 83-year-old alleged leader of a trafficking ring specializing in Egyptian antiquities that supplied museums including the Louvre Abu Dhabi and the Metropolitan Museum of Art. The antiquities in the case, sold to a museum in the United Arab Emirates, included a bust of Cleopatra, a stele associated with Tutankhamun, and items from a princess's burial.",
+   "outcome": "Two siblings convicted of money laundering; about EUR 32 million in assets ordered confiscated (EUR 26 million and EUR 6 million) plus fines; the brother was acquitted of the more serious stolen-goods charge. The wider trafficking investigation, which has implicated several museums, continues. [FOLLOW-UP PENDING: appeals, further prosecutions, and any restitution of the objects to Egypt.]",
+   "tags": "Legal challenge, Repatriation, Archaeological site, Market opacity",
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews",
+    "Artforum",
+    "Arab News"
+   ],
+   "source": "https://www.artnews.com/art-news/news/children-serop-simonian-convicted-egyptian-antiquities-1234795719/",
+   "additional_sources": [
+    "https://www.arabnews.com/node/2655750/world",
+    "https://www.artforum.com/news/siblings-convicted-in-court-of-selling-looted-artifacts-1234758019/"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "Antiquities-trafficking conviction connected by ARTnews and Artforum to the broader Serop Simonian ring investigation, which has implicated the Louvre Abu Dhabi and the Met. Convicted parties unnamed in all coverage; the Simonian connection is reported as a resemblance between these charges and those against Simonian's children, not an identification of the convicted siblings. Restitution/repatriation axis: looted source-nation objects laundered through the market into museum collections. [FOLLOW-UP PENDING: appeals / restitution.]",
+   "interested_parties": "Hamburg Regional Court; two convicted siblings (unnamed); Serop Simonian (alleged ring leader); Egyptian antiquities authorities; Louvre Abu Dhabi; Metropolitan Museum of Art",
+   "coverage_geography": "Germany, Middle East, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-351",
+   "entry_id": "351",
+   "seq": 656,
+   "title": "Former Pussy Riot member says Russia's FSB forced her to inform on dissident artists",
+   "artist": "Rita Flores (Margarita Konovalova)",
+   "institution": "N/A",
+   "country": "Russia",
+   "governance_type": "Authoritarian",
+   "date_controversy": "2026-08-24",
+   "date_discovered": "2026-08-26",
+   "sort_date": "2026-08-24",
+   "description": "Rita Flores, a former member of the collective Pussy Riot whose given name is Margarita Konovalova, said in a video interview published on 24 August that Russia's FSB security service had pressured her from 2023 to inform on contemporary artists, anti-war activists, and cultural figures. She said agents threatened her family and directed her to report works portraying Russia unfavourably, naming operations against the street artist Philippenzo and the performance artist Pavel Krisevich, and alleged she was told in 2025 to help plan an attack on the activist Pyotr Verzilov. Flores said a lawyer helped her leave Russia shortly before she spoke publicly.",
+   "outcome": "Allegations made publicly by Flores after leaving Russia; the FSB has not responded publicly. Krisevich, whom she says she was made to inform on, is reported to have told her he forgives her. [FOLLOW-UP PENDING: any corroboration, response from named artists, or official reaction.]",
+   "tags": "Political interference, Censorship, Political art, Artist safety, Resistance",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper",
+    "ARTnews",
+    "The Moscow Times"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/24/pussy-riot-rita-flores-margarita-konovalova-fsb-spying-pressure",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/pussy-riot-member-recruited-russia-fsb-spy-artists-1234795669/"
+   ],
+   "themes": [],
+   "notes": "First-person account of state surveillance and coercion targeting Russia's contemporary-art scene. Governance-friction data point: authoritarian state instrumentalising an artist against her peers. Single-source-origin account (Flores's own interview), carried by multiple outlets; flagged for corroboration. [FOLLOW-UP PENDING.]",
+   "interested_parties": "Rita Flores (Margarita Konovalova); FSB; Philippenzo (Filipp Kozlov); Pavel Krisevich; Pyotr Verzilov",
+   "coverage_geography": "Russia, Europe, US, international",
    "follow_up_pending": true
   }
  ]
