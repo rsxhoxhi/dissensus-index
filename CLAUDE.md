@@ -320,6 +320,15 @@ Additional standing principles:
 - Capture **multiple outlets** where coverage is wide — breadth is itself a data point indicating scale.
 - When secondary sources diverge from primary, **primary text governs**. Distinguish stated rationale from editorially framed rationale (note when an angle is the outlet's, not the actor's).
 
+### Draft narrowly — every claim traces to the outlet it's cited to
+
+A search returns snippets from many outlets at once. Synthesizing a description from that whole pool and then stamping it with one `source` is the failure mode that produces entries whose facts are real but come from an outlet that was never named. Draft the other way:
+
+- **Discover broadly, draft from one open text.** Pick the reference `source`, read it in full, and write the base description from *that article only* — stating just what it contains. Do not blend facts you saw in other snippets into an "according to [source]" narrative.
+- **A search snippet is a lead, not a citation.** To use a fact whose originating outlet you did not open in full, either open that outlet and cite it, or attribute the fact inline to the outlet that carries it and add its URL to `additional_sources`. Never let a fact ride in uncited because it was true somewhere in the results.
+- **Every named outlet gets a link.** If an outlet is in `outlets`, a URL that resolves to it must be in `source` or `additional_sources` (the provenance gate's Rule 3 enforces this). An outlet you only want to credit in prose ("first reported by X") is fine — but then it needs its link too, or it comes out.
+- **Reported speech by default.** Use quotation marks only for a string read verbatim in a full-text (`success`) retrieval, attributed to the outlet that carries it. When a source paraphrases someone, the Index paraphrases too — don't promote a paraphrase to a direct quote. When unsure who said it, attribute to the outlet's reporting, not to a named person. (This is the cheapest guard against the mis-cited-quote errors.)
+
 ---
 
 ## 9. Staging system (assign at logging time)

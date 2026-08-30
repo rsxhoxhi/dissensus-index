@@ -11,6 +11,11 @@ Rule 2 (depth): if an entry's description or outcome contains quotation
 marks, at least one cited outlet must have a full status=success record
 — quotes cannot come from metadata or truncated fetches.
 
+Rule 3 (linkage): every outlet named in `outlets` must be reachable by a
+URL in the entry (`source` or `additional_sources`) whose domain maps to
+it — so a reader can always click through to the outlet a claim is
+attributed to, and an outlet cannot be credited without a link.
+
 Does NOT verify semantic fidelity: with multiple cited outlets it cannot
 tell which outlet a quote came from, and it never checks that claims
 match the retrieved body. That residue belongs to human review.
@@ -208,16 +213,18 @@ def main():
 
     failures = []
     for entry in todays_entries:
-        cited = {norm(o) for o in entry.get("outlets", []) if str(o).strip()}
+        named = {norm(o) for o in entry.get("outlets", []) if str(o).strip()}
         urls = [entry.get("source", "")] + list(entry.get("additional_sources", []))
+        url_outlets = set()
         for u in urls:
             if not u:
                 continue
             o = outlet_from_url(u)
             if o:
-                cited.add(norm(o))
+                url_outlets.add(norm(o))
             else:
                 failures.append((entry["id"], f"unrecognized domain in URL: {u} — add it to DOMAIN_TO_OUTLET"))
+        cited = named | url_outlets
 
         # Rule 1: reach
         unreached = cited - reached
@@ -230,13 +237,22 @@ def main():
             failures.append((entry["id"],
                 "contains quotation marks but no cited outlet has a full-text (success) retrieval — quotes cannot come from metadata/truncated fetches"))
 
+        # Rule 3: linkage — an outlet named in `outlets` must be reachable by a URL in
+        # the entry (source or additional_sources). Catches an outlet credited without a
+        # link, so a reader can always click through to what a claim is attributed to.
+        unlinked = named - url_outlets
+        if unlinked:
+            failures.append((entry["id"],
+                f"named in `outlets` but not linked by any source/additional_sources URL: "
+                f"{', '.join(sorted(unlinked))} — add the article's URL, or drop the outlet if it was not actually used"))
+
     if failures:
         print("FAIL:")
         for entry_id, msg in failures:
             print(f"  {entry_id}: {msg}")
         sys.exit(1)
 
-    print(f"OK: {len(todays_entries)} entries checked — all cited outlets reached; all quoted entries have a full-text retrieval.")
+    print(f"OK: {len(todays_entries)} entries checked — all cited outlets reached; all quoted entries have a full-text retrieval; every named outlet is linked.")
     sys.exit(0)
 
 if __name__ == "__main__":
