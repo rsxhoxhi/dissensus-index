@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 623
+  "total_cases": 624
  },
  "cases": [
   {
@@ -19718,7 +19718,7 @@
    "date_discovered": "2026-08-19",
    "sort_date": "2026-08-09",
    "description": "The Gwangju Biennale Foundation changed the official name of Taiwan's national presentation at the 16th Gwangju Biennale from 'Taiwan Pavilion' to 'NTMoFA' (the acronym of the National Taiwan Museum of Fine Arts) in promotional materials, while other participants continued to appear under a mix of national and institutional names. According to NTMoFA and Taiwan's Ministry of Culture, the project had been proposed, contracted and prepared under the name 'Taiwan Pavilion.' Taiwan's Ministry of Culture objected publicly on August 9, 2026. On August 15, ten participating Taiwanese artists and curators — Li Yi-fan, Juan Po-yuan, Lin Yu-liang, Chang Wen-hsuan, Hsu Che-yu, Chen Hsiang-wen, Chen Wan-yin, Cheng Hsien-yu, Chen Ting-ting and Su Hui-yu — issued a joint statement titled 'The Censored Taiwan Pavilion,' calling the renaming political censorship and demanding restoration of the original designation. They wrote that a biennale founded on the historical values of democracy, human rights and the 'Gwangju spirit' has a responsibility to explain why participants' self-identification should be politically restricted.",
-   "outcome": "Unresolved as of August 19, 2026. The original 'Taiwan Pavilion' designation had not been restored, and artist Chang Wen-hsuan said the change could affect exhibition preparations. On August 19 the Gwangju Biennale Foundation issued a statement denying any political censorship. The 16th Gwangju Biennale runs September 5–November 15, 2026.",
+   "outcome": "Initially unresolved as of August 19, 2026, when the Gwangju Biennale Foundation denied political censorship. Resolved on August 25, 2026: the Foundation approved use of the name 'Taiwan Pavilion,' reversing the 'NTMoFA Pavilion' designation, following an agreement with Taiwan's Ministry of Culture (see ACI-331-A). The 16th Gwangju Biennale runs September 5-November 15, 2026.",
    "tags": "Censorship, Political interference, Geopolitics",
    "court_case": "No",
    "coverage_tier": "International",
@@ -19735,10 +19735,40 @@
    "themes": [
     3
    ],
-   "notes": "Cross-reference ACI-081 (embassy pressure over a China-critical event in Argentina). Dissensus theme 3: what a biennale founded on the 'Gwangju spirit' owes to participants' self-identification. Tag 'Censorship' applied to the dispute axis; the Foundation denies censorship — flagged for review. [FOLLOW-UP PENDING: whether the 'Taiwan Pavilion' name is restored before the biennale opens on September 5, 2026, and the Foundation's fuller response.]",
+   "notes": "Cross-reference ACI-081 (embassy pressure over a China-critical event in Argentina). Dissensus theme 3: what a biennale founded on the 'Gwangju spirit' owes to participants' self-identification. Tag 'Censorship' applied to the dispute axis; the Foundation denies censorship — flagged for review. Resolved via ACI-331-A (name restored 25 August 2026).",
    "interested_parties": "NTMoFA (National Taiwan Museum of Fine Arts); Taiwan Ministry of Culture; Gwangju Biennale Foundation; artists Li Yi-fan, Chang Wen-hsuan, Su Hui-yu and others",
    "coverage_geography": "Taiwan, South Korea, international art press",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-331-A",
+   "entry_id": "331-A",
+   "seq": 660,
+   "title": "Gwangju Biennale: 'Taiwan Pavilion' name restored after agreement with Taiwan's culture ministry",
+   "artist": "N/A",
+   "institution": "Gwangju Biennale Foundation",
+   "country": "South Korea",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-25",
+   "date_discovered": "2026-08-27",
+   "sort_date": "2026-08-25",
+   "description": "The Gwangju Biennale Foundation on 25 August 2026 approved use of the name \"Taiwan Pavilion,\" reversing the earlier designation \"NTMoFA Pavilion\" that had prompted the participating curator and artists to accuse the foundation of political censorship. The foundation said it had \"officially approved the use of the name 'Taiwan Pavilion'\" following an agreement with Taiwan's Ministry of Culture; the pavilion is organised by the National Taiwan Museum of Fine Arts and hosted at the Asia Culture Center. Curator Chen Xiang-Wen and nine participating artists had said the mid-August renaming, made without their consent, \"brutally erased Taiwan from the poster\" and threatened freedom of expression. Promotional materials were still being updated when the reversal was reported.",
+   "outcome": "Name restored to \"Taiwan Pavilion\" by agreement on 25 August 2026; the pavilion is confirmed for the 16th Gwangju Biennale (5 September–15 November 2026), with promotional materials being updated. Resolves the naming dispute logged under ACI-331.",
+   "tags": "Censorship, Political interference, Geopolitics",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/26/gwangju-biennale-permits-taiwan-pavilion-name-after-row",
+   "additional_sources": [],
+   "themes": [
+    3
+   ],
+   "notes": "Sub-entry resolving ACI-331 (Gwangju Biennale dropping 'Taiwan' from the pavilion name); the parent's outcome was updated and its [FOLLOW-UP PENDING] flag cleared in this run. Dissensus theme 3 inherited from parent.",
+   "interested_parties": "Gwangju Biennale Foundation; Taiwan Ministry of Culture; National Taiwan Museum of Fine Arts (NTMoFA); curator Chen Xiang-Wen and nine participating artists; Asia Culture Center",
+   "coverage_geography": "Taiwan, South Korea, international",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-333",
