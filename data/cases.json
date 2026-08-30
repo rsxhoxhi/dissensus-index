@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 627
+  "total_cases": 628
  },
  "cases": [
   {
@@ -19806,6 +19806,39 @@
    "interested_parties": "Gwangju Biennale Foundation; Taiwan Ministry of Culture; National Taiwan Museum of Fine Arts (NTMoFA); curator Chen Xiang-Wen and nine participating artists; Asia Culture Center",
    "coverage_geography": "Taiwan, South Korea, international",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-331-B",
+   "entry_id": "331-B",
+   "seq": 664,
+   "title": "Gwangju Biennale: China withdraws its artists over restored 'Taiwan Pavilion' name",
+   "artist": "Participating Chinese artists (withdrawn)",
+   "institution": "Gwangju Biennale Foundation, Gwangju, South Korea",
+   "country": "South Korea",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-28",
+   "date_discovered": "2026-08-30",
+   "sort_date": "2026-08-28",
+   "description": "After the Gwangju Biennale Foundation restored the name \"Taiwan Pavilion\" on 25 August 2026 (see ACI-331, ACI-331-A), China moved to withdraw its participants from the 16th Gwangju Biennale in protest. According to the Taipei Times, China's ambassador to South Korea, Dai Bing, met Gwangju's mayor on 27 August 2026 to convey Beijing's \"regret and concern\" over the naming decision and ordered Chinese artists and installation staff to halt preparations and withdraw from a special exhibition at the Gwangju Museum of Art's Ha Jung-woon branch. The withdrawal began on 28 August 2026, days before the biennale's 5 September opening. Gwangju's mayor was quoted as saying that \"political considerations should not affect the arts.\" Taiwan's presentation, organised by the National Taiwan Museum of Fine Arts, proceeds under the \"Taiwan Pavilion\" name.",
+   "outcome": "China's participants withdrawing from the 16th Gwangju Biennale (opens 5 September 2026) over the restored \"Taiwan Pavilion\" name; the Taiwan Pavilion proceeds. [FOLLOW-UP PENDING: whether the Chinese withdrawal is finalised across all participants and any further diplomatic or programming fallout at the biennale's 5 September opening.]",
+   "tags": "Geopolitics, Political interference",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Taipei Times",
+    "ARTnews"
+   ],
+   "source": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863301",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/china-pulls-artists-from-gwangju-biennale-as-taiwan-pavilion-moves-forward-1234796234/"
+   ],
+   "themes": [
+    3
+   ],
+   "notes": "Sub-entry of ACI-331 (Gwangju Biennale 'Taiwan Pavilion' naming dispute); follows ACI-331-A (name restored 25 August 2026). Escalation reverses the axis of the parent dispute: after Taiwan's preferred name was restored, China objected and pulled its own participants. Dissensus theme 3 inherited. Cross-reference ACI-081 (embassy pressure over a China-critical event). Quote ('political considerations should not affect the arts', attributed to Gwangju's mayor) carried by Taipei Times, retrieved full-text this run; ARTnews retrieved at snippet grade (direct fetch bot-walled, read via search result).",
+   "interested_parties": "China's ambassador to South Korea Dai Bing; participating Chinese artists and installation staff; Gwangju Biennale Foundation; Gwangju city government (mayor); Taiwan Ministry of Culture; National Taiwan Museum of Fine Arts (NTMoFA)",
+   "coverage_geography": "Taiwan, South Korea, China, international art press",
+   "follow_up_pending": true
   },
   {
    "id": "ACI-333",
