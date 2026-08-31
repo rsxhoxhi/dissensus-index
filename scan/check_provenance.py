@@ -46,6 +46,7 @@ DOMAIN_TO_OUTLET = {
     "bbc.co.uk": "BBC",
     "reuters.com": "Reuters",
     "apnews.com": "Associated Press",
+    "news4jax.com": "Associated Press",
     "npr.org": "NPR",
     "kclu.org": "NPR",
     "wtvr.com": "WTVR",
