@@ -11881,7 +11881,7 @@
    "date_controversy": "August 31, 2026 (Supreme Court order)",
    "date_discovered": "2026-09-01",
    "sort_date": "2026-09-01",
-   "description": "On 31 August 2026 the U.S. Supreme Court granted the Trump administration's emergency application and allowed above-ground construction of the roughly 90,000-square-foot White House ballroom to continue, lifting the lower-court halt that had required congressional authorization (see ACI-050-H, ACI-050-I). According to PBS NewsHour, the Court's order lets work proceed while the litigation continues in the lower courts and did not resolve the underlying question of whether the president needs Congress's approval for the project. NBC News reported that the Court divided 5-4 and that its unsigned order rested on the challengers' likely lack of standing, with the National Trust for Historic Preservation — the plaintiff in the underlying suit — found unlikely to have standing to sue. Per NBC News, Chief Justice John Roberts, joined by the Court's three liberal justices, dissented, saying the decision was not a victory for the separation of powers and would let a likely infringement on Congress's authority continue.",
+   "description": "On 31 August 2026 the U.S. Supreme Court granted the Trump administration's emergency application and allowed above-ground construction of the roughly 90,000-square-foot White House ballroom to continue, lifting the lower-court halt that had required congressional authorization (see ACI-050-H, ACI-050-I). According to PBS NewsHour, the Court's order lets work proceed while the litigation continues in the lower courts and did not resolve the underlying question of whether the president needs Congress's approval for the project; U.S. District Judge Richard Leon had halted above-ground work in April 2026, and an appeals panel had divided over whether the challengers had standing. The Washington Post reported that the Court divided 5-4 and rested its unsigned order on the challengers' likely lack of standing — with the National Trust for Historic Preservation, the plaintiff, found unlikely to have standing to sue — and that Chief Justice John Roberts, joined by the Court's three liberal justices, dissented, saying the decision was not a victory for the separation of powers and would let a likely infringement on Congress's authority continue.",
    "outcome": "The Supreme Court allowed ballroom construction to continue; the merits question — whether the project needs congressional approval — remains unresolved as the litigation continues in the lower courts. Resolves the pending application tracked at ACI-050-I. [FOLLOW-UP PENDING: the lower-court litigation on standing and the merits, and any congressional response.]",
    "tags": [
     "Legal challenge",
@@ -11893,17 +11893,17 @@
    "coverage_tier": "International",
    "outlets": [
     "PBS",
-    "NBC News"
+    "Washington Post"
    ],
    "source": "https://www.pbs.org/newshour/politics/supreme-court-allows-white-house-to-continue-construction-on-trumps-400-million-ballroom",
    "additional_sources": [
-    "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-move-forward-white-house-ballroom-construct-rcna594097"
+    "https://www.washingtonpost.com/politics/2026/08/31/supreme-court-clears-way-work-white-house-ballroom-now/"
    ],
    "themes": [
     2,
     9
    ],
-   "notes": "Sub-entry of ACI-050; latest development after ACI-050-H (DC Circuit, 7 Aug 2026) and ACI-050-I (Roberts declines to halt, 21 Aug 2026). Reference source PBS NewsHour (full-text read); the 5-4 split, the standing basis, and the Roberts dissent are attributed to NBC News (search-result snippet). The maintainer flagged the Washington Post report (Supreme Court clears way…, 31 Aug 2026); WaPo direct fetch returned HTTP 403 this run, so it is not cited — the ruling was read via PBS and corroborated by NBC. No direct quotes (reported speech). Cross-ref ACI-050-H, ACI-050-I.",
+   "notes": "Sub-entry of ACI-050; latest development after ACI-050-H (DC Circuit, 7 Aug 2026) and ACI-050-I (Roberts declines to halt, 21 Aug 2026). Reference source PBS NewsHour (full-text read), which carries the ruling itself, the unresolved congressional-approval merits, Judge Leon's April 2026 halt, and the standing split below. The 5-4 vote, the standing basis, and the Chief Justice's dissent are attributed to The Washington Post's 31 Aug 2026 report: its automated fetch returned HTTP 403 this run, so per CLAUDE.md §6A its content was confirmed by the maintainer on review and its canonical URL pinned by hand. No direct quotes (reported speech). Cross-ref ACI-050-H, ACI-050-I.",
    "interested_parties": "U.S. Supreme Court; Chief Justice John Roberts (dissent); Trump administration/DOJ; National Trust for Historic Preservation (plaintiff)",
    "coverage_geography": "US, international",
    "follow_up_pending": true
