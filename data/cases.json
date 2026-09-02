@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 634
+  "total_cases": 640
  },
  "cases": [
   {
@@ -11851,7 +11851,7 @@
    "date_discovered": "2026-08-25",
    "sort_date": "2026-08-21",
    "description": "On August 21, 2026, Chief Justice John Roberts declined, for now, to halt construction of the White House ballroom, allowing work to continue while the administration's appeal proceeds, according to The New York Times (Ann E. Marimow, August 21, 2026). The order follows the DC Circuit's August 7 ruling (ACI-050-H) that above-ground ballroom construction requires congressional authorization and must halt, a ruling the appeals court had stayed for two weeks to permit a Supreme Court appeal. The administration's lawyers have told the courts that the roughly 90,000-square-foot project has grown in size and scope and is intertwined with the renovation of an underground military bunker. The order preserves the status quo of continued construction pending further Supreme Court action rather than resolving the underlying question of whether the project may proceed without Congress.",
-   "outcome": "Chief Justice Roberts declined to halt construction pending the appeal, leaving work underway while the Supreme Court considers the administration's request. The DC Circuit's ruling that construction requires congressional approval remains the merits question on appeal. [FOLLOW-UP PENDING: the Supreme Court's disposition of the administration's application and any ruling on whether the ballroom may proceed without congressional authorization.]",
+   "outcome": "Chief Justice Roberts declined to halt construction pending the appeal, leaving work underway while the Supreme Court considered the administration's request. Resolved by the full Supreme Court's 31 August 2026 order allowing construction to continue (see ACI-050-J); the merits question — whether the ballroom requires congressional authorization — remains for the lower courts.",
    "tags": "Historic preservation, Demolition, Political interference, Legal challenge",
    "court_case": "Yes",
    "coverage_tier": "National",
@@ -11867,6 +11867,45 @@
    "notes": "Sub-entry of ACI-050 (White House State Ballroom / East Wing demolition). Directly continues ACI-050-H (DC Circuit 2-1 ruling, August 7) -- the administration took that ruling to the Supreme Court, and the Chief Justice allowed construction to continue for now. Metadata-grade (NYT abstract read via API); no quotation used.",
    "interested_parties": "Chief Justice John Roberts; US Supreme Court; Trump administration/DOJ; National Trust for Historic Preservation (plaintiff in underlying litigation)",
    "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-050-J",
+   "entry_id": "050-J",
+   "seq": 673,
+   "title": "White House ballroom: Supreme Court lets construction continue, finding challengers likely lack standing",
+   "artist": "McCrery Architects (Jim McCrery, lead); Clark Construction; AECOM (engineering)",
+   "institution": "White House East Wing site, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "August 31, 2026 (Supreme Court order)",
+   "date_discovered": "2026-09-01",
+   "sort_date": "2026-09-01",
+   "description": "On 31 August 2026 the U.S. Supreme Court granted the Trump administration's emergency application and allowed above-ground construction of the roughly 90,000-square-foot White House ballroom to continue, lifting the lower-court halt that had required congressional authorization (see ACI-050-H, ACI-050-I). According to PBS NewsHour, the Court's order lets work proceed while the litigation continues in the lower courts and did not resolve the underlying question of whether the president needs Congress's approval for the project; U.S. District Judge Richard Leon had halted above-ground work in April 2026, and an appeals panel had divided over whether the challengers had standing. The Washington Post reported that the Court divided 5-4 and rested its unsigned order on the challengers' likely lack of standing — with the National Trust for Historic Preservation, the plaintiff, found unlikely to have standing to sue — and that Chief Justice John Roberts, joined by the Court's three liberal justices, dissented, saying the decision was not a victory for the separation of powers and would let a likely infringement on Congress's authority continue.",
+   "outcome": "The Supreme Court allowed ballroom construction to continue; the merits question — whether the project needs congressional approval — remains unresolved as the litigation continues in the lower courts. Resolves the pending application tracked at ACI-050-I. [FOLLOW-UP PENDING: the lower-court litigation on standing and the merits, and any congressional response.]",
+   "tags": [
+    "Legal challenge",
+    "Historic preservation",
+    "Demolition",
+    "Political interference"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "PBS",
+    "Washington Post"
+   ],
+   "source": "https://www.pbs.org/newshour/politics/supreme-court-allows-white-house-to-continue-construction-on-trumps-400-million-ballroom",
+   "additional_sources": [
+    "https://www.washingtonpost.com/politics/2026/08/31/supreme-court-clears-way-work-white-house-ballroom-now/"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-050; latest development after ACI-050-H (DC Circuit, 7 Aug 2026) and ACI-050-I (Roberts declines to halt, 21 Aug 2026). Reference source PBS NewsHour (full-text read), which carries the ruling itself, the unresolved congressional-approval merits, Judge Leon's April 2026 halt, and the standing split below. The 5-4 vote, the standing basis, and the Chief Justice's dissent are attributed to The Washington Post's 31 Aug 2026 report: its automated fetch returned HTTP 403 this run, so per CLAUDE.md §6A its content was confirmed by the maintainer on review and its canonical URL pinned by hand. No direct quotes (reported speech). Cross-ref ACI-050-H, ACI-050-I.",
+   "interested_parties": "U.S. Supreme Court; Chief Justice John Roberts (dissent); Trump administration/DOJ; National Trust for Historic Preservation (plaintiff)",
+   "coverage_geography": "US, international",
    "follow_up_pending": true
   },
   {
@@ -19887,6 +19926,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-331-C",
+   "entry_id": "331-C",
+   "seq": 671,
+   "title": "Gwangju Biennale: city government apologises to China and reaffirms 'One China' after Taiwan Pavilion row",
+   "artist": "Ten Taiwanese artists and curators (NTMoFA national presentation)",
+   "institution": "Gwangju Biennale Foundation, Gwangju, South Korea",
+   "country": "South Korea",
+   "governance_type": "Democracy",
+   "date_controversy": "August 28, 2026 (city apology)",
+   "date_discovered": "2026-09-01",
+   "sort_date": "2026-09-01",
+   "description": "Following the Gwangju Biennale Foundation's 25 August 2026 decision to restore the name \"Taiwan Pavilion\" to the exhibition, China's ambassador to South Korea, Dai Bing, on 27 August 2026 told Gwangju's mayor that China would suspend its own pavilion in response, according to The Art Newspaper. On 28 August 2026 the Gwangju city government issued a formal apology and reaffirmed its adherence to the \"One China\" policy. The Art Newspaper quotes the city's statement: \"In accordance with the government foreign policy line, there is no change in the position of respecting One China… The title of the Taiwan pavilion at the Gwangju Biennale is merely an expression entrusted to participating artists within the realm of art, and it does not mean that the city or the Biennale recognizes Taiwan as a country.\" The paper reports that China's pavilion installation at the Seo-gu Ha Jung-ung Museum of Art remains suspended.",
+   "outcome": "City government apologised and reaffirmed the 'One China' policy; China's pavilion remains suspended. [FOLLOW-UP PENDING: whether China reinstates its pavilion and how the naming stands when the Biennale opens.]",
+   "tags": [
+    "Censorship",
+    "Political interference",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/01/gwangju-city-government-apologises-to-china-over-taiwan-pavilion-naming",
+   "additional_sources": [],
+   "themes": [
+    3
+   ],
+   "notes": "Sub-entry of ACI-331 (cf. ACI-331-A name restored; ACI-331-B China withdraws its artists). Latest turn: the host city, rather than the Foundation, issues a state-level apology reaffirming 'One China'. Geopolitical pressure routed through a cultural exhibition (externalised-pressure frame). Neutrality: the city's and China's positions are attributed to them via The Art Newspaper, not voiced by the Index. Quote verbatim from the TAN full-text read (1 Sept 2026).",
+   "interested_parties": "Gwangju Biennale Foundation; Gwangju city government and mayor; Dai Bing (China's ambassador to South Korea); Taiwan Ministry of Culture; National Taiwan Museum of Fine Arts",
+   "coverage_geography": "South Korea, China, Taiwan, international",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-333",
    "entry_id": "333",
    "seq": 636,
@@ -19962,7 +20035,7 @@
    "date_discovered": "2026-08-22",
    "sort_date": "2026-08-21",
    "description": "The Smithsonian Institution's board of regents is scheduled to meet on 31 August 2026 to discuss housing the National Museum of the American Latino inside the historic Arts and Industries Building on the National Mall in Washington, DC -- a step that, because it uses an existing Smithsonian building rather than new construction, would not require the congressional approval a new museum would, according to The Art Newspaper (21 August 2026) and ARTnews. The museum, authorized by Congress in 2020, has been the subject of repeated political dispute: its 2023 inaugural exhibition, ¡Presente! A Latino History of the United States, drew objections from some Republicans over its treatment of colonialism and US interventions in Latin America, and in May 2026 the Trump administration's budget request sought to cancel funding for a permanent museum in favor of a roaming \"Smithsonian Latino Center.\" A conservative critic quoted by The Art Newspaper, Mike Gonzalez of the Washington Examiner, called the plan \"an act of desperation\" and an attempt to \"use a loophole to sneak in a building for a yet-to-be-built controversial museum.\" The Arts and Industries Building is itself undergoing restoration and is due to close on 7 September 2026 for further work.",
-   "outcome": "Board of regents due to meet 31 August 2026 to consider the Arts and Industries Building site; no decision yet. [FOLLOW-UP PENDING: the board of regents' 31 August 2026 decision on siting the National Museum of the American Latino and any congressional or administration response.]",
+   "outcome": "Board of Regents met 31 August 2026 and designated the Arts and Industries Building as the site of the National Museum of the American Latino, avoiding a new-construction vote in Congress (see ACI-339-A). Congressional and administration response, and retrofit funding, remain open.",
    "tags": "Political interference, Funding dispute",
    "court_case": "No",
    "coverage_tier": "National",
@@ -19980,6 +20053,43 @@
    ],
    "notes": "New parent. DC federal-cultural cluster (cf. ACI-005 Kennedy Center; ACI-012 National Portrait Gallery; ACI-114 proposed American Women's History Museum on the National Mall). Political-interference and public-funding dispute over a congressionally authorized Smithsonian museum; the Index describes the site maneuver and the objections to it without adopting either side's characterization. Reference source The Art Newspaper (21 Aug 2026, full text read); ARTnews corroborates (retrieved via search-result snippet; bot-walled on direct fetch). WaPo is the primary outlet for National Mall coverage but could not be retrieved this run (site-scoped search returned no WaPo article). Cross-ref ACI-114.",
    "interested_parties": "Smithsonian Institution board of regents; National Museum of the American Latino; Trump administration; US Congress; conservative critics (e.g. Mike Gonzalez, Washington Examiner)",
+   "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-339-A",
+   "entry_id": "339-A",
+   "seq": 672,
+   "title": "Smithsonian regents pick Arts and Industries Building for National Museum of the American Latino",
+   "artist": "N/A (federal museum)",
+   "institution": "Smithsonian Institution; National Museum of the American Latino",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "August 31, 2026 (board of regents decision)",
+   "date_discovered": "2026-09-01",
+   "sort_date": "2026-09-01",
+   "description": "On 31 August 2026 the Smithsonian Institution's Board of Regents decided to house the National Museum of the American Latino in the Arts and Industries Building — a 145-year-old structure on the National Mall that the Smithsonian already controls — rather than construct a new building, according to The New York Times. The Times reports that using an existing Smithsonian building lets the institution avoid a new-construction approval from Congress and further conflict with the Trump administration, which has pressed the Smithsonian for months; that the project is expected to cost about $1 billion, roughly half from federal sources, with about $72 million raised in private funding so far; and that conservative critics characterised the site choice as a way to bypass Congress. The Washington Post also covered the regents' decision.",
+   "outcome": "Regents designated the Arts and Industries Building as the museum's site; retrofit funding and any congressional or administration response remain open. Resolves the siting decision tracked at ACI-339. [FOLLOW-UP PENDING: congressional/administration reaction and fundraising for the retrofit.]",
+   "tags": [
+    "Political interference",
+    "Funding dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times",
+    "Washington Post"
+   ],
+   "source": "https://www.nytimes.com/2026/08/31/arts/design/smithsonian-latino-museum-arts-industries.html",
+   "additional_sources": [
+    "https://www.washingtonpost.com/style/2026/08/31/smithsonian-chooses-arts-industries-latino-museum-amid-site-debate/"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-339 (resolves the pending 31 Aug 2026 regents decision). DC federal-cultural cluster (cf. ACI-005 Kennedy Center; ACI-114 American Women's History Museum). Thin entry: NYT read at metadata grade via the NYT API and The Washington Post via site-scoped search snippet (no full-text read this run), so no direct quotes; the cost, funding, and critics details are attributed to The New York Times per editorial review, with the Post as corroborating coverage. Cross-ref ACI-339, ACI-114.",
+   "interested_parties": "Smithsonian Institution board of regents; National Museum of the American Latino; U.S. Congress; Trump administration; Heritage Foundation critics",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
@@ -20542,6 +20652,107 @@
    "interested_parties": "Metropolitan Museum of Art (Max Hollein, director/CEO; Andrew Bolton, curator in charge); John Galliano; NYC Council Speaker Julie Menin; Jewish community leaders; museum donors",
    "coverage_geography": "US, international",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-361",
+   "entry_id": "361",
+   "seq": 674,
+   "title": "Parthenon Marbles: UK PM Andy Burnham reverses earlier support for return to Greece",
+   "artist": "N/A",
+   "institution": "British Museum",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "August 2026 (position reversal)",
+   "date_discovered": "2026-09-01",
+   "sort_date": "2026-09-01",
+   "description": "Andy Burnham — UK prime minister since July 2026 and previously mayor of Greater Manchester — has reversed his earlier support for returning the Parthenon Marbles to Greece, according to The Art Newspaper. The paper contrasts his February 2023 remarks as mayor, \"Yes, George Osborne should give the Elgin Marbles back\" and \"Send [the Marbles] back, no strings. And let's use culture to change how Britain is seen around the world,\" with his August 2026 comments as prime minister: \"Ultimately [returning the Marbles is] an issue for the British Museum, isn't it?\" and \"Legally that's where that issue rests, but I'm all in favour of using British cultural diplomacy.\" The Art Newspaper notes the sculptures have been in the British Museum since 1817; the museum cites the 1963 British Museum Act as preventing their return, while Greece seeks their transfer to the Acropolis Museum in Athens.",
+   "outcome": "The Marbles remain in the British Museum; the prime minister now frames any return as the museum's decision rather than the government's. [FOLLOW-UP PENDING: any British Museum, government, or Greek response to the reversal.]",
+   "tags": [
+    "Repatriation",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/31/andy-burnham-reverses-position-parthenon-marbles-repatriation-greece",
+   "additional_sources": [],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "New parent. Restitution/repatriation (theme 12) with the British Museum as a universal/encyclopedic museum at the axis of the dispute (theme 5). Neutrality: Burnham's 2023 and 2026 statements are quoted verbatim from the TAN full-text read (31 Aug 2026) and attributed; the legal positions of the museum and Greece are stated as their own claims.",
+   "interested_parties": "Andy Burnham (UK prime minister); British Museum; George Osborne (British Museum chair); Greek government; Acropolis Museum",
+   "coverage_geography": "UK, Greece, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-363",
+   "entry_id": "363",
+   "seq": 675,
+   "title": "Keith Haring drawing ruled authentic but unsellable at major houses over provenance",
+   "artist": "Keith Haring",
+   "institution": "Martin Lawrence Galleries; Christie's; Sotheby's",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "August 2026 (Connecticut ruling)",
+   "date_discovered": "2026-09-01",
+   "sort_date": "2026-09-01",
+   "description": "A Connecticut Superior Court judge ruled that a Keith Haring drawing of flying saucers is authentic but that its documented history does not meet Christie's and Sotheby's requirements to offer it as an authentic Haring, according to ARTnews. ARTnews reports that Nevada businessman Vernon Hartung bought the drawing from Martin Lawrence Galleries for $165,000 in 2018; when he sought to consign it, the two auction houses said its provenance did not meet their standards for selling a Haring drawing as authentic. Unable to prove the drawing was inauthentic or that the gallery had breached its warranty, Hartung lost the case and was held responsible for the defendant's attorney's fees, ARTnews reports.",
+   "outcome": "The court found the drawing authentic; the buyer's claim against the gallery failed and the major auction houses will not sell the work; the buyer was ordered to pay the defendant's legal fees.",
+   "tags": [
+    "Authenticity",
+    "Legal challenge",
+    "Market opacity"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/keith-haring-drawing-lawsuit-1234796342/",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "New parent. Authenticity/provenance and market-access dispute over a work whose maker is undisputed but whose salability turns on documentation (theme 10, Art and Capital). Thin: ARTnews retrieved at search-snippet grade (bot-walled on direct fetch), so reported speech only and no direct quotes; a CT Examiner account was blocked (403) this run. Distinct from the separate collectors-v.-Keith Haring Foundation $40M antitrust suit (Courthouse News/Law360). Borderline inclusion (market/authenticity legal case) — flagged for review; enrich with a full-text court/trade source.",
+   "interested_parties": "Vernon Hartung (buyer); Martin Lawrence Galleries; Christie's; Sotheby's; Keith Haring Foundation",
+   "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-364",
+   "entry_id": "364",
+   "seq": 676,
+   "title": "Vienna Actionism Museum's Otto Muehl retrospective draws protest before opening",
+   "artist": "Otto Muehl",
+   "institution": "Vienna Actionism Museum",
+   "country": "Austria",
+   "governance_type": "Democracy",
+   "date_controversy": "Exhibition opens September 10, 2026 (protest in advance)",
+   "date_discovered": "2026-09-01",
+   "sort_date": "2026-09-01",
+   "description": "The Vienna Actionism Museum's planned Otto Muehl retrospective — a show of about 150 paintings, objects, films, and prints, titled Otto Muehl: Art on the Precipice, opening 10 September 2026 and running to 10 January 2027 — has drawn protest ahead of its opening, according to ARTnews. Muehl, a founder of Viennese Actionism, was convicted of child sexual offences including rape in 1991 and served seven years in prison; ARTnews reports that people who lived as children in the commune Muehl founded in the 1970s have protested against what they view as the museum glorifying a criminal. Per ARTnews, the museum says the show contains no images depicting abuse and none from a 1986 series in which teenage victims posed in scenes of domestic violence, and that any recognizable subject consented — though ARTnews notes that Der Standard has questioned whether and how the heirs of certain identifiable figures gave consent.",
+   "outcome": "The exhibition is scheduled to open 10 September 2026 amid protest from former commune members. [FOLLOW-UP PENDING: whether the museum alters or proceeds with the show and any further protest at opening.]",
+   "tags": [
+    "Community objection"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/otto-muehl-retrospective-vienna-actionism-museum-controversy-september-show-1234796347/",
+   "additional_sources": [],
+   "themes": [
+    4,
+    8
+   ],
+   "notes": "New parent. Institution showing a convicted artist's work over objections from people he harmed — Institutional Risk (theme 4) and Artist Responsibility (theme 8). Thin: ARTnews retrieved at search-snippet grade (bot-walled on direct fetch), so reported speech only and no direct quotes; Der Standard's reporting is referenced as carried by ARTnews, not independently retrieved. Enrich on the Europe trawl with German-language sourcing.",
+   "interested_parties": "Vienna Actionism Museum; Otto Muehl (1925–2013); former members of Muehl's commune; Der Standard",
+   "coverage_geography": "Austria, international",
+   "follow_up_pending": true
   }
  ]
 }
