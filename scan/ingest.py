@@ -23,6 +23,12 @@ FEEDS = [
     ("Artforum",              "https://www.artforum.com/feed/"),
     ("The Guardian (art)",    "https://www.theguardian.com/artanddesign/rss"),
     ("NYT Arts",              "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"),
+    # Le Monde has no developer content API (unlike the Guardian/NYT). Its
+    # first-party section RSS is the robust, unattended-safe path (§6A Tier 2),
+    # scoped to Culture to match the section feeds above (Guardian art, NYT
+    # Arts). Metadata-grade like NYT: teaser only, full body behind the
+    # paywall — detection here, manual enrichment as usual.
+    ("Le Monde (Culture)",    "https://www.lemonde.fr/culture/rss_full.xml"),
 ]
 
 WINDOW_HOURS = 96
