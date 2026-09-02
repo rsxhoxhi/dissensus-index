@@ -1,0 +1,58 @@
+name: Finalize IDs guard
+
+# Enforces the approval-time numbering policy (CLAUDE.md §2, DAILY_SCAN_ROUTINE.md
+# Step 6): new parent entries carry PROVISIONAL numbers during a scan and are
+# compacted onto permanent, contiguous ACI-NNN by scan/finalize_ids.py at the
+# editorial pass. That step was manual and had no teeth — a PR merged from the
+# GitHub UI never ran it, which is how gaps like ACI-362 slipped into main.
+#
+# This job runs `finalize_ids.py --check` on every PR to main. The script exits 3
+# when a finalize is still owed (new parents not contiguous above main's highest
+# published parent) and 0 when nothing is owed. Make this check REQUIRED in the
+# branch-protection rules for `main` so the merge button stays disabled until the
+# finalize has actually been run.
+#
+# Note on the other scan gates: check_provenance.py and check_dedup.py depend on
+# per-run, gitignored artifacts (scan/retrieval_log.json, scan/backlog_cases.json)
+# that do not exist in CI, so they stay local to the scan run and are not enforced
+# here. This guard covers only ID finalization, which needs nothing but
+# data/cases.json and origin/main.
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  finalize-ids-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out PR
+        uses: actions/checkout@v4
+        with:
+          # Full history so `git show origin/main:data/cases.json` resolves.
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Verify new ACI numbers are finalized
+        run: |
+          set +e
+          python scan/finalize_ids.py --check
+          code=$?
+          set -e
+          if [ "$code" -eq 0 ]; then
+            echo "::notice::New ACI numbers are contiguous above main's highest parent — no finalize owed."
+            exit 0
+          elif [ "$code" -eq 3 ]; then
+            echo "::error::A finalize is still owed on this branch. Run 'python scan/finalize_ids.py' on the reviewed branch (rebuilt onto current origin/main), re-run the provenance and dedup gates, then push. See scan/DAILY_SCAN_ROUTINE.md Step 6."
+            exit 1
+          else
+            echo "::error::finalize_ids.py --check exited $code (could not read origin/main, or an unexpected error). Inspect the step log above."
+            exit 1
+          fi
