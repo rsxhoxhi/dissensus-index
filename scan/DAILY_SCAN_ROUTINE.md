@@ -110,6 +110,29 @@ This step is NOT satisfied by ingest.py / the RSS feed. RSS is a narrow, time-wi
    searches for that day (Richmond/VA on Tue/Fri, etc.).
 4. **Follow-up sweep:** for each `follow_up_pending` case that is plausibly ripe,
    web-search for developments.
+   - **Standing DC federal-cultural cluster pass (MANDATORY, every day — not just
+     Sunday).** These threads move almost daily and the movement is court rulings,
+     votes, arrests, and scheduled events landing on their own dates — exactly the
+     kind of development a keyword dragnet misses when the day is otherwise quiet.
+     Regardless of what the dragnet returned, run a targeted, date-anchored search on
+     each active DC/federal cluster and reconcile the result against the latest logged
+     sub-entry before concluding "nothing new":
+     - **ACI-046** — Lincoln Memorial Reflecting Pool (renovation, vandalism arrests,
+       prosecutions).
+     - **ACI-050** — White House State Ballroom / East Wing demolition (litigation:
+       DC Circuit, Supreme Court).
+     - **ACI-038** — Trump triumphal arch (CFA / NCPC / Interior approvals; watch the
+       September NCPC final vote).
+     - **ACI-005** — Kennedy Center (name change, litigation, closure, board actions).
+     - **ACI-069 / ACI-319** — America 250 / Freedom 250 events and their aftermaths
+       (did a scheduled event occur; any damage or incident).
+     - Any **other** case whose `follow_up_pending` note names a dated event, ruling,
+       or vote that has since passed — a scheduled thing that is now in the past is
+       ripe by definition and must be reconciled, resolved, and its flag cleared.
+     Build the current cluster list from the data, not this snippet: it is a floor, not
+     a closed set. A "0 new entries" day is never a reason to skip this pass — resolving
+     a ripe flag (e.g. updating a parent outcome and clearing its flag) is itself a
+     valid day's output, and the DC threads are where that most often applies.
 5. **Paywalled sources:** where a direct fetch is blocked, use
    `python scan/guardian_api.py "<url>"` (full text) or
    `python scan/nyt_api.py "<query>" [from-date]` (metadata). If still blocked,

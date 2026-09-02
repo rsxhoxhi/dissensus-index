@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 639
+  "total_cases": 640
  },
  "cases": [
   {
@@ -11872,7 +11872,7 @@
   {
    "id": "ACI-050-J",
    "entry_id": "050-J",
-   "seq": 676,
+   "seq": 673,
    "title": "White House ballroom: Supreme Court lets construction continue, finding challengers likely lack standing",
    "artist": "McCrery Architects (Jim McCrery, lead); Clark Construction; AECOM (engineering)",
    "institution": "White House East Wing site, Washington DC",
@@ -19539,24 +19539,32 @@
    "institution": "National Gallery of Art; Smithsonian Institution",
    "country": "United States",
    "governance_type": "Democracy",
-   "date_controversy": "August 2026 (protective measures reported); race scheduled August 22–23, 2026",
+   "date_controversy": "August 2026 (protective measures reported); race held August 22–23, 2026",
    "date_discovered": "2026-08-14",
    "sort_date": "2026-08-13",
-   "description": "The Freedom 250 Grand Prix — an IndyCar street race ordered by President Trump for the United States' 250th-anniversary celebrations — is scheduled for August 22–23, 2026 on a roughly 1.7-mile course in Washington, DC that passes the National Gallery of Art, the National Archives, and Smithsonian institutions including the Hirshhorn Museum, the National Air and Space Museum, and the National Museum of the American Indian. Preservationists and commentators cited by The Washington Post and The New Republic warned that vibrations from cars travelling at roughly 185 mph could damage artworks and historic documents along the route. According to Hyperallergic (August 13, 2026), the National Gallery conducted a vibration study \"out of a great abundance of caution\" and has boarded up the I. M. Pei-designed skylights at its East Building, reoriented some artworks away from the track side, and built a protective barrier around an outdoor Alexander Calder sculpture. An NGA spokesperson said, \"Based on the results, we have implemented a set of measures to ensure the safety of our staff, visitors, collection, and facilities during the race.\" The Smithsonian said it had determined the race did not threaten works in its collection and was taking no extra precautions while continuing to monitor. The event's backers include motorsport executive Roger Penske; the White House said it had coordinated with agencies to ensure a safe race.",
-   "outcome": "Protective measures in place at the National Gallery of Art; the race is scheduled for August 22–23, 2026. [FOLLOW-UP PENDING: whether the race proceeds and any damage to collections or historic structures along the route.]",
+   "description": "The Freedom 250 Grand Prix — an IndyCar street race ordered by President Trump for the United States' 250th-anniversary celebrations — is scheduled for August 22–23, 2026 on a roughly 1.7-mile course in Washington, DC that passes the National Gallery of Art, the National Archives, and Smithsonian institutions including the Hirshhorn Museum, the National Air and Space Museum, and the National Museum of the American Indian. Preservationists and commentators cited by The Washington Post and The New Republic warned that vibrations from cars travelling at roughly 185 mph could damage artworks and historic documents along the route. According to Hyperallergic (August 13, 2026), the National Gallery conducted a vibration study \"out of a great abundance of caution\" and has boarded up the I. M. Pei-designed skylights at its East Building, reoriented some artworks away from the track side, and built a protective barrier around an outdoor Alexander Calder sculpture. An NGA spokesperson said, \"Based on the results, we have implemented a set of measures to ensure the safety of our staff, visitors, collection, and facilities during the race.\" The Smithsonian said it had determined the race did not threaten works in its collection and was taking no extra precautions while continuing to monitor. The event's backers include motorsport executive Roger Penske; the White House said it had coordinated with agencies to ensure a safe race. A separate objection concerned the Wilbur J. Cohen Federal Building (the former Social Security Administration building), which the course passes closely. In a July 27, 2026 \"Urgent Section 106 Request\" to the National Park Service, the Living New Deal — represented by assistant director Mary Okin — argued that vibratory impacts from the race met the criteria for adverse effects to historic properties under 36 CFR 800.5(a)(1), and asked that protective measures be put in place for the building's Treasury Section of Fine Arts murals (by artists including Ben Shahn, Seymour Fogel, Philip Guston, and Ethel and Jenne Magafan) and its Egyptian-revival facade sculpture by Henry Kreis and Emma L. Davis: temporary sound and vibratory barriers at the Independence Avenue facade, pre- and post-event damage assessments, monitoring of the frescoes by a conservator during the race, and a commitment to repair or stabilize any resulting damage. Per the Washington Examiner and WTOP (both August 17, 2026), the General Services Administration declined to add protections, saying it had reviewed the route \"for potential impact on our nearby assets and identified no areas of concern\"; WTOP reported the National Park Service directed comment to IndyCar without a substantive response.",
+   "outcome": "Whether the race caused any damage to the National Gallery, Smithsonian museums, monuments, or historic structures along the route remains unestablished: no retrieved source reports a post-event condition assessment either way.",
    "tags": "Historic preservation, Political interference",
    "court_case": "No",
    "coverage_tier": "National",
    "outlets": [
     "Hyperallergic",
-    "The Washington Post"
+    "The Washington Post",
+    "NPR",
+    "Washington Examiner",
+    "WTOP",
+    "Living New Deal"
    ],
    "source": "https://hyperallergic.com/national-gallery-of-art-protects-works-ahead-of-trumps-indycar-race/",
    "additional_sources": [
-    "https://www.washingtonpost.com/style/2026/08/05/national-gallery-studied-whether-freedom-250-indycar-vibrations-will-affect-art/"
+    "https://www.washingtonpost.com/style/2026/08/05/national-gallery-studied-whether-freedom-250-indycar-vibrations-will-affect-art/",
+    "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+    "https://www.washingtonexaminer.com/news/entertainment/4689947/concern-art-damage-dc-indycar-race-wilbur-j-cohen-building/",
+    "https://wtop.com/dc/2026/08/preservationists-raise-concerns-about-freedom-250-grand-prixs-damage-on-historic-murals/",
+    "https://livingnewdeal.org/wp-content/uploads/2026/07/Living-New-Deal-Urgent-Section-106-Request-Freedom-250-Grand-Prix-Permitting.pdf"
    ],
    "themes": [],
-   "notes": "New parent. Threat-of-damage to recognized collections from a Trump-ordered America 250 event; tagged 'Historic preservation' per the cultural-property threat convention (flip to a destruction tag only if damage occurs). Part of the DC federal-cultural / America 250 cluster (cf. ACI-046 Reflecting Pool, ACI-038 triumphal arch, ACI-174 National Mall turf vandalism). WaPo did the original vibration-study reporting; direct fetch of WaPo is blocked, so it is cited from a search-result snippet and corroborated by Hyperallergic (full read). FOR REVIEW: no Dissensus theme cleanly applies (used []).",
+   "notes": "New parent. Threat-of-damage to recognized collections from a Trump-ordered America 250 event; tagged 'Historic preservation' per the cultural-property threat convention (flip to a destruction tag only if damage occurs). Part of the DC federal-cultural / America 250 cluster (cf. ACI-046 Reflecting Pool, ACI-038 triumphal arch, ACI-174 National Mall turf vandalism). WaPo did the original vibration-study reporting; direct fetch of WaPo is blocked, so it is cited from a search-result snippet and corroborated by Hyperallergic (full read). FOR REVIEW: no Dissensus theme cleanly applies (used []). UPDATE 2026-08-31 (daily scan): the race was held August 22–23, 2026 (per NPR, full read, August 24, 2026). Flag NARROWED, not cleared — the damage question is still open: no retrieved source reports a post-event condition assessment of the collections or structures either way, so the entry does not assert the absence of damage. [FOLLOW-UP PENDING: any post-event damage finding, or a Living New Deal / Section 106 follow-up on the Cohen Building.] ENRICHED 2026-08-31: added the Wilbur J. Cohen Building / Section 106 thread. The Living New Deal's primary document — its \"Urgent Section 106 Request\" letter to the NPS National Capital Region (livingnewdeal.org PDF, dated July 27, 2026, by assistant director Mary Okin) — was retrieved and read in full this run; the entry's account of the requested measures (sound/vibratory barriers, pre-/post-event damage assessments, conservator monitoring of the frescoes during the race, a repair/stabilize commitment) is drawn from it, and the GSA refusal / NPS non-response from the Washington Examiner and WTOP (full reads, August 17, 2026). NOTE ON THE 'MONITORING DENIED' LEAD: the July 27 letter is the request itself and does NOT record a denial — it predates the agencies' responses; it asks for conservator monitoring and damage assessments (not electronic vibration-sensor equipment specifically). The 'denied/ignored' element is the agencies' later refusal (GSA 'no areas of concern'; NPS non-response), which is what is sourced. A maintainer lead (SAH Section 106 webinar, late Aug 2026) that vibration-monitoring equipment was requested and denied in several buildings is consistent with that refusal but is not confirmed in this specific form by the retrieved documents. FOR REVIEW: the Cohen Building / Section 106 refusal is a distinct, well-documented dispute (Living New Deal vs. GSA/NPS) and could be split into a sub-entry ACI-319-A rather than riding in the parent.",
    "interested_parties": "National Gallery of Art; Smithsonian Institution; Trump administration / White House; Roger Penske; preservation commentators",
    "coverage_geography": "US",
    "follow_up_pending": true
@@ -19920,7 +19928,7 @@
   {
    "id": "ACI-331-C",
    "entry_id": "331-C",
-   "seq": 670,
+   "seq": 671,
    "title": "Gwangju Biennale: city government apologises to China and reaffirms 'One China' after Taiwan Pavilion row",
    "artist": "Ten Taiwanese artists and curators (NTMoFA national presentation)",
    "institution": "Gwangju Biennale Foundation, Gwangju, South Korea",
@@ -20051,7 +20059,7 @@
   {
    "id": "ACI-339-A",
    "entry_id": "339-A",
-   "seq": 671,
+   "seq": 672,
    "title": "Smithsonian regents pick Arts and Industries Building for National Museum of the American Latino",
    "artist": "N/A (federal museum)",
    "institution": "Smithsonian Institution; National Museum of the American Latino",
@@ -20587,7 +20595,7 @@
    "date_discovered": "2026-08-29",
    "sort_date": "2026-08-28",
    "description": "The New York Times reports that critics have objected to the Metropolitan Museum of Art's plan to devote its spring 2027 Costume Institute exhibition to the designer John Galliano, whom a Paris court convicted in 2011 of a hate crime over antisemitic remarks -- a conviction that led to his dismissal from Christian Dior and from his own label. Writing in the Times, the fashion journalist Dana Thomas argued that a living designer as incendiary as Galliano should not be the subject of a retrospective during his lifetime. The museum has said the exhibition will directly address the 2010-2011 conduct that ended his tenure at Dior. Galliano would be the third living designer to receive a solo show at the Met, after Yves Saint Laurent and Rei Kawakubo.",
-   "outcome": "The exhibition remains planned for spring 2027; the museum has defended it as directly addressing Galliano's past conduct, while critics have urged reconsideration. No institutional reversal reported. [FOLLOW-UP PENDING: whether the Met alters or proceeds with the exhibition, and any organized response.]",
+   "outcome": "The Met canceled the exhibition on August 31, 2026 — see sub-entry ACI-360-A. The museum and Galliano jointly announced it would not proceed; the Met said the spring 2027 Costume Institute slot will be filled by another show to be announced.",
    "tags": [
     "Community objection"
    ],
@@ -20607,12 +20615,48 @@
    "notes": "New parent. Public objection to an institutional honor decision (the Met's planned spring 2027 Costume Institute exhibition on John Galliano). Neutrality: Galliano's 2011 Paris conviction is a documented court fact, stated as such; the value judgments about whether the Met should proceed are attributed to the critics and to the museum, never voiced by the Index. Verdict tags deliberately avoided. Reference source is Dana Thomas's NYT opinion piece (6 August 2026), which the entry paraphrases; the NYT's August 28 news report (retrieved via the NYT API at metadata/abstract grade) is kept as an additional source. the plan also drew commentary in Haaretz, JTA, The Hollywood Reporter and CNN seen in search but not individually retrieved -- enrich later. Cf. Dissensus themes 4 (Institutional Risk) and 8 (Artist Responsibility).",
    "interested_parties": "Metropolitan Museum of Art (Costume Institute); Andrew Bolton (curator in charge); John Galliano; Dana Thomas (critic)",
    "coverage_geography": "US, international",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-360-A",
+   "entry_id": "360-A",
+   "seq": 670,
+   "title": "Met Galliano exhibition: museum cancels the planned 2027 Costume Institute show after objections",
+   "artist": "John Galliano",
+   "institution": "Metropolitan Museum of Art, Costume Institute",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "August 31, 2026 (cancellation announced)",
+   "date_discovered": "2026-08-31",
+   "sort_date": "2026-08-31",
+   "description": "On August 31, 2026 the Metropolitan Museum of Art announced it had canceled its planned Costume Institute exhibition on the designer John Galliano — titled \"John Galliano: Horizons\" and set to be the spring 2027 show that opens the annual Met Gala. In a statement reported by NPR, the museum's director and chief executive, Max Hollein, said, \"Following thoughtful discussions with John Galliano, we have together decided not to proceed with the exhibition,\" and the museum said a new spring exhibition and the 2027 Met Gala would be announced later. Galliano said, \"After much reflection and discussion with The Met and all those involved, I have decided, with great sadness, that it is best for the exhibition not to take place at this time,\" adding that he remains \"fully accountable for the pain caused by my words in the past, particularly the hurt I caused to the Jewish and Asian communities.\" The cancellation followed objections from donors, politicians, and Jewish community leaders over the antisemitic and racist remarks Galliano made in 2010-2011, which led to his dismissal from Christian Dior and a 2011 hate-crime conviction in a French court. New York City Council Speaker Julie Menin, who had opposed the show, said she had \"strongly disagreed with this decision, and at this rising time of antisemitism, it had served as a gut punch to the Jewish community.\" The New York Times, whose reporting (Vanessa Friedman and Jacob Bernstein) preceded the decision, had noted that donors, politicians and Jewish leaders questioned the Met's plan to honor Galliano.",
+   "outcome": "The exhibition is canceled; the Met will fill the spring 2027 Costume Institute slot with another show, to be announced. Resolves the objection tracked at ACI-360.",
+   "tags": [
+    "Community objection"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "New York Times",
+    "NPR"
+   ],
+   "source": "https://www.nytimes.com/2026/08/31/style/john-galliano-met-gala-canceled.html",
+   "additional_sources": [
+    "https://www.npr.org/2026/09/01/g-s1-141347/met-gala-john-galliano-exhibit-canceled"
+   ],
+   "themes": [
+    4,
+    8
+   ],
+   "notes": "Sub-entry of ACI-360 (resolution). The institution reversed a planned honor after sustained public objection — Dissensus themes 4 (Institutional Risk) and 8 (Artist Responsibility), inherited from the parent; Galliano's own statement frames it in accountability/atonement terms. Neutrality: the 2011 Paris hate-crime conviction is stated as a documented court fact; characterizations of the show and its cancellation are attributed to the museum, Galliano, and named objectors, never voiced by the Index. Sourcing: NYT direct fetch is blocked, so the NYT canonical article the maintainer flagged (Friedman/Bernstein) is the source link at metadata grade via the NYT API; the quotes and cancellation details are drawn from the full-read AP wire report carried by NPR (npr.org, Sept 1, 2026). Exhibition title 'John Galliano: Horizons' per NPR. An earlier draft used a local-TV AP carrier (news4jax) as the link; it was replaced with NPR and the news4jax domain mapping reverted.",
+   "interested_parties": "Metropolitan Museum of Art (Max Hollein, director/CEO; Andrew Bolton, curator in charge); John Galliano; NYC Council Speaker Julie Menin; Jewish community leaders; museum donors",
+   "coverage_geography": "US, international",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-361",
    "entry_id": "361",
-   "seq": 672,
+   "seq": 674,
    "title": "Parthenon Marbles: UK PM Andy Burnham reverses earlier support for return to Greece",
    "artist": "N/A",
    "institution": "British Museum",
@@ -20646,7 +20690,7 @@
   {
    "id": "ACI-363",
    "entry_id": "363",
-   "seq": 674,
+   "seq": 675,
    "title": "Keith Haring drawing ruled authentic but unsellable at major houses over provenance",
    "artist": "Keith Haring",
    "institution": "Martin Lawrence Galleries; Christie's; Sotheby's",
@@ -20680,7 +20724,7 @@
   {
    "id": "ACI-364",
    "entry_id": "364",
-   "seq": 675,
+   "seq": 676,
    "title": "Vienna Actionism Museum's Otto Muehl retrospective draws protest before opening",
    "artist": "Otto Muehl",
    "institution": "Vienna Actionism Museum",

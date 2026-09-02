@@ -48,6 +48,7 @@ DOMAIN_TO_OUTLET = {
     "apnews.com": "Associated Press",
     "npr.org": "NPR",
     "kclu.org": "NPR",
+    "livingnewdeal.org": "Living New Deal",
     "wtvr.com": "WTVR",
     "wtop.com": "WTOP",
     "ansa.it": "ANSA",
