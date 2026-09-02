@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 640
+  "total_cases": 647
  },
  "cases": [
   {
@@ -15622,6 +15622,43 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-AZ",
+   "entry_id": "005-AZ",
+   "seq": 677,
+   "title": "Kennedy Center to remove Joel Shapiro's 'Blue' sculpture from the REACH",
+   "artist": "Joel Shapiro",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-09-02",
+   "date_discovered": "2026-09-02",
+   "sort_date": "2026-09-02",
+   "description": "The Kennedy Center is removing 'Blue,' a cobalt-painted aluminium sculpture by the American postminimalist Joel Shapiro, from the grounds of the Reach, its 2019 expansion, according to Artlyst; the work was gifted to the center and installed there in 2019. Artlyst reports the removal on 2 September 2026 required closing the northbound lane of Rock Creek and Potomac Parkway. The Kennedy Center described removing donated or loaned works for conservation as standard practice and gave no specific reason for the timing; Artlyst reports that internal documents obtained by The New York Times indicate the work had been earmarked for removal not long after President Trump took over the institution in 2025. Shapiro died in 2025, and Artlyst reports a foundation representing his estate will decide where the sculpture goes next. Local station WJLA reported the same parkway lane closure for the removal.",
+   "outcome": "The sculpture is being removed as of 2 September 2026, with its destination to be determined by the artist's estate. [FOLLOW-UP PENDING: where 'Blue' is relocated and whether other donated works are removed from the Kennedy Center.]",
+   "tags": [
+    "Removal",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Artlyst",
+    "WJLA"
+   ],
+   "source": "https://artlyst.com/joel-shapiro-sculpture-to-be-removed-from-kennedy-centre-amid-trump-art-purge/",
+   "additional_sources": [
+    "https://wjla.com/news/local/blue-statue-at-the-kennedy-center-to-be-removed-joel-shapiro-rock-creek-and-potomac-parkway-nw-september-2026"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center under the 2025 takeover). New development: removal of a donated Joel Shapiro sculpture from the Reach, the first documented removal of a donated artwork at the center since the leadership change, framed by the institution as routine conservation. Artlyst is the full-text reference (corroborated by WJLA local coverage on the parkway closure); the New York Times internal-documents reporting is cited as carried by Artlyst, not independently retrieved. Enrich with NYT and Washington Post sourcing on the trawl.",
+   "interested_parties": "Kennedy Center; Joel Shapiro (1941-2025) estate/foundation; National Park Service (Rock Creek and Potomac Parkway)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -20752,6 +20789,210 @@
    "notes": "New parent. Institution showing a convicted artist's work over objections from people he harmed — Institutional Risk (theme 4) and Artist Responsibility (theme 8). Thin: ARTnews retrieved at search-snippet grade (bot-walled on direct fetch), so reported speech only and no direct quotes; Der Standard's reporting is referenced as carried by ARTnews, not independently retrieved. Enrich on the Europe trawl with German-language sourcing.",
    "interested_parties": "Vienna Actionism Museum; Otto Muehl (1925–2013); former members of Muehl's commune; Der Standard",
    "coverage_geography": "Austria, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-365",
+   "entry_id": "365",
+   "seq": 678,
+   "title": "Deauville festival: French court suspends mayor's removal of an AP Gaza photograph",
+   "artist": "Jehad Alshrafi",
+   "institution": "Deauville Sports Images Festival; Deauville town hall",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Mayor's removal order August 20, 2026; court ruling August 31, 2026",
+   "date_discovered": "2026-09-02",
+   "sort_date": "2026-08-31",
+   "description": "An administrative court in Caen suspended an order by the mayor of Deauville to remove an Associated Press photograph from the town's Sports Images Festival, according to Arab News. The image, by the Gaza-based AP photographer Jehad Alshrafi, shows a football match played on a pitch surrounded by destroyed buildings. Arab News reports the photograph was part of the festival, which opened in June and was due to run until September 6, and that the mayor ordered it taken down on August 20, 2026. On August 31 the court suspended the order, finding it neither \"necessary\" nor \"proportionate.\" Arab News reports that a lawyer for the town, Marie-Therese Sur-Le Liboux, argued there was \"a risk of public disorder\" and cited a wave of hostile social-media reaction, without giving specific examples, and that Agnes Tricoire of the rights group that sought the court order said further action would follow. Officials told the court that reprinting and reinstalling the photograph would take about six days.",
+   "outcome": "The court suspended the mayor's removal order; the town said reinstalling the photograph would take about six days, before the festival's scheduled September 6 close. [FOLLOW-UP PENDING: whether the photograph is reinstalled and any appeal by the town.]",
+   "tags": [
+    "Censorship",
+    "Removal",
+    "Legal challenge",
+    "Political interference"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "Arab News",
+    "ARTnews"
+   ],
+   "source": "https://www.arabnews.com/node/2656469/middle-east",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/french-court-faults-deauville-ap-photograph-gaza-1234796450/"
+   ],
+   "themes": [
+    9
+   ],
+   "notes": "New parent. A publicly sited municipal exhibition; the mayor removed the image citing public-order and social-media backlash, and a court ordered the removal suspended -- Public Objection (theme 9), whose view prevails when the public objects to publicly sited work. Arab News is the full-text reference (quotes attributed to its reporting); ARTnews (bot-walled) retrieved at search-snippet grade. Enrich with French-language sourcing (the OLC is the Observatoire de la liberte de creation).",
+   "interested_parties": "Jehad Alshrafi; Associated Press; mayor of Deauville; Marie-Therese Sur-Le Liboux (town lawyer); Agnes Tricoire / OLC rights group; administrative court of Caen",
+   "coverage_geography": "France, Middle East, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-366",
+   "entry_id": "366",
+   "seq": 679,
+   "title": "Madison museum's Beeple show 'Diffuse Control' draws objection over AI use of collection works",
+   "artist": "Beeple (Mike Winkelmann)",
+   "institution": "Madison Museum of Contemporary Art",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Exhibition opens September 19, 2026 (objection raised in advance)",
+   "date_discovered": "2026-09-02",
+   "sort_date": "2026-09-02",
+   "description": "A planned presentation of Beeple's work 'Diffuse Control' (2025) at the Madison Museum of Contemporary Art in Wisconsin has drawn objection from local figures who question the ethics of the piece's use of artificial intelligence to analyse works from the museum's own collection, according to ARTnews. ARTnews reports that an open letter challenges allowing the artist to use images of works from the museum's holdings and disputes the work's artistic value. For the Madison presentation, ARTnews reports, the work's dataset is drawn from the museum's permanent collection, selected by the museum's director, Paul Baker Prindle; the museum said the works used are either in the public domain or used with permission from the appropriate copyright holders. The exhibition, described as Beeple's first major show in his home state, is due to run from September 19, 2026 to January 10, 2027.",
+   "outcome": "The exhibition is scheduled to open September 19, 2026 amid objection over its use of AI on works from the museum's collection; the museum says the images are public domain or used with permission. [FOLLOW-UP PENDING: whether the museum alters the presentation and whether the objection escalates at opening.]",
+   "tags": [
+    "AI",
+    "Community objection"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/beeple-artwork-wisconsin-museum-controversy-ai-1234796433/",
+   "additional_sources": [],
+   "themes": [
+    1,
+    11
+   ],
+   "notes": "New parent. AI axis marker (the objection is to AI trained on the museum's collection) with Defining Art (theme 1) and Authorship & Appropriation / AI training data (theme 11). Thin: ARTnews (bot-walled) retrieved at search-snippet grade, so reported speech only and no direct quotes; the open letter is paraphrased, not quoted. Enrich with local Madison sourcing (Isthmus) on the relevant US trawl day.",
+   "interested_parties": "Madison Museum of Contemporary Art; director Paul Baker Prindle; Beeple (Mike Winkelmann); open-letter signatories",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-367",
+   "entry_id": "367",
+   "seq": 680,
+   "title": "London Science Museum ends BP sponsorship after nearly 25 years amid boycott campaign",
+   "artist": "N/A",
+   "institution": "Science Museum (Science Museum Group), London",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Sponsorship ends August 31, 2026 (announced August 28, 2026)",
+   "date_discovered": "2026-09-02",
+   "sort_date": "2026-08-31",
+   "description": "The Science Museum Group confirmed that its nearly 25-year sponsorship relationship with BP will end on August 31, 2026 \"at the end of its agreed term,\" according to The Art Newspaper. The Art Newspaper reports that BP's support had included the museum's former Energy Gallery and the 2015 exhibition 'Cosmonauts: Birth of the Space Age,' and that campaigners had pressed the museum for years to drop the oil company: the National Education Union called for school boycotts of the museum and the group Culture Unstained campaigned against the deal, with teachers pledging to boycott school trips. The Art Newspaper reports that Chris Garrard of Culture Unstained called the outcome only a partial victory because the museum's sponsorship by Adani continues, and that the British Museum -- which announced a ten-year, 50-million-pound BP partnership in 2023 -- remains the only major UK cultural institution still sponsored by BP. The Science Museum had previously ended a sponsorship with the Norwegian company Equinor in 2024.",
+   "outcome": "The BP sponsorship ends August 31, 2026; campaigners framed it as a partial victory, noting the museum's Adani sponsorship continues.",
+   "tags": [
+    "Funding dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/08/31/london-science-museum-ends-bp-sponsorship",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Fossil-fuel sponsorship of a cultural institution ended after sustained activist and educator pressure; part of the multi-year UK wave (Tate, National Portrait Gallery, National Galleries Scotland, RSC) leaving the British Museum as the last major BP-sponsored institution. The Art Newspaper is the full-text reference. No Dissensus theme fits cleanly (this is private sponsorship, not public funding of expression); carried by the Funding dispute tag.",
+   "interested_parties": "Science Museum Group; BP; National Education Union; Culture Unstained (Chris Garrard); Adani",
+   "coverage_geography": "UK",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-368",
+   "entry_id": "368",
+   "seq": 681,
+   "title": "ICA San Diego lays off nearly half its staff as workers seek the director's removal",
+   "artist": "N/A",
+   "institution": "Institute of Contemporary Art, San Diego",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Layoffs July 29-August 16, 2026; no-confidence letter August 19, 2026",
+   "date_discovered": "2026-09-02",
+   "sort_date": "2026-09-01",
+   "description": "The Institute of Contemporary Art, San Diego laid off eight staff members -- nearly half its workforce, including its only curator and its director of learning and engagement -- between July 29 and August 16, 2026, citing a financial crisis, according to The Art Newspaper. The Art Newspaper reports that the museum lost about 20 percent of its budget to a government funding cut, that its director of operations resigned on July 29, and that on August 19 a group of current and former staff sent the board a letter of no confidence calling for the removal of the director, Andrew Utt. The Art Newspaper reports that the museum's main campus in Balboa Park has closed to the public while its Encinitas satellite remains open for classes and its outdoor Sculpture Trail, and that the institute had delayed artist stipend payments and closed some exhibitions early for lack of staff to open them.",
+   "outcome": "The main campus is closed to the public and the board faces a staff letter of no confidence in the director; the financial and staffing crisis is unresolved. [FOLLOW-UP PENDING: the board's response to the no-confidence letter and the director's status.]",
+   "tags": [
+    "Institutional crisis",
+    "Labor dispute",
+    "Funding dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/01/institute-contemporary-art-san-diego-financial-leadership-crisis-layoffs",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "New parent. Institutional-governance and labour dispute at a contemporary-art museum, with a government funding cut as a stated driver (theme 2, public funding). Thin: The Art Newspaper retrieved at search-snippet grade (direct fetch returned 404), so reported speech only and no direct quotes. Enrich with local San Diego sourcing (Fox 5 San Diego, Daylight San Diego) on the US trawl.",
+   "interested_parties": "ICA San Diego board; director Andrew Utt; laid-off and resigning staff; current and former staff signatories of the no-confidence letter",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-369",
+   "entry_id": "369",
+   "seq": 682,
+   "title": "Restituted Nazi-looted Kandinsky 'The Colorful Life' heads to Christie's London at $30m",
+   "artist": "Wassily Kandinsky",
+   "institution": "Christie's London; Staedtische Galerie im Lenbachhaus; Bayerische Landesbank",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "Restituted 2023; auction set for October 14, 2026",
+   "date_discovered": "2026-09-02",
+   "sort_date": "2026-09-01",
+   "description": "Wassily Kandinsky's 'Das bunte Leben' ('The Colorful Life,' 1907), restituted in 2023 to the heirs of the Lewenstein family, will be offered at Christie's London on October 14, 2026 with an estimate above 30 million dollars, according to ARTnews. The reporting recounts that the painting had belonged to the industrialist Emanuel Albert Lewenstein and his wife, Hedwig Lewenstein Weyermann, and was sold under uncertain conditions at a 1940 auction; that Bayerische Landesbank bought it in 1972 and lent it to the Staedtische Galerie im Lenbachhaus in Munich, where it was displayed for decades; and that the family sued the bank in 2017. ARTnews reports that after Germany's advisory commission on Nazi-looted art assessed the 1940 sale it recommended the work be returned, and that it was restituted to the heirs in 2023 before this consignment to auction.",
+   "outcome": "Restituted to the heirs in 2023 and now consigned to Christie's London with an estimate above 30 million dollars; the sale is scheduled for October 14, 2026. [FOLLOW-UP PENDING: the auction result.]",
+   "tags": [
+    "Repatriation"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/market/christies-london-offers-restituted-kandinsky-german-museum-1234796483/",
+   "additional_sources": [],
+   "themes": [
+    10,
+    12
+   ],
+   "notes": "New parent. Restitution/repatriation-resolution anchor (theme 12) carrying an Art and Capital dimension (theme 10): a work returned after a Nazi-era looting claim moving directly to the market. Thin: ARTnews retrieved at search-snippet grade, reported speech only and no direct quotes; the advisory commission's finding is paraphrased. Cross-reference other Nazi-era restitution entries.",
+   "interested_parties": "Lewenstein family heirs; Bayerische Landesbank (BayernLB); Staedtische Galerie im Lenbachhaus, Munich; Christie's; German Advisory Commission on Nazi-looted cultural property",
+   "coverage_geography": "Germany, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-370",
+   "entry_id": "370",
+   "seq": 683,
+   "title": "US Homeland Security says it seized more than 22,000 trafficked antiquities in Florida",
+   "artist": "N/A",
+   "institution": "US Homeland Security Investigations (HSI), Tampa",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Seizure announced late August 2026",
+   "date_discovered": "2026-09-02",
+   "sort_date": "2026-08-29",
+   "description": "Homeland Security Investigations in Tampa said it had seized more than 22,000 artifacts as part of an ongoing antiquities-trafficking investigation, working with HSI's Cultural Property, Art and Antiquities program and US Customs and Border Protection, according to ICE and ARTnews. The agency described the seizure as among the largest in HSI history. ICE and ARTnews report that preliminary assessments date some objects to roughly 1,000 to 5,000 years old and trace them to regions across Europe, Africa, the Levant and the eastern Mediterranean, and that the material includes vases, weapons, jewellery, Egyptian statues, Byzantine glass vessels, and ancient Greek and Roman coins. The reporting notes it follows a June 2026 HSI Tampa seizure of more than 12,000 artifacts in the same investigation.",
+   "outcome": "The objects are held as part of an ongoing federal investigation; the retrieved coverage details no charges or repatriations. [FOLLOW-UP PENDING: any charges and any repatriation of objects to source countries.]",
+   "tags": [
+    "Repatriation"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "ICE",
+    "ARTnews"
+   ],
+   "source": "https://www.ice.gov/news/releases/ice-hsi-seizes-over-22000-ancient-artifacts-florida",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/ice-unit-seizes-ancient-artifacts-1234796570/"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "New parent, borderline: a one-sided law-enforcement seizure rather than a contested dispute with named opposing parties, logged as a cultural-property-trafficking / repatriation cluster anchor per the CLAUDE.md dragnet term 'antiquities seized.' Thin: the ICE press release and ARTnews retrieved at search-snippet grade, reported speech only, no direct quotes. Flagged for review.",
+   "interested_parties": "US Homeland Security Investigations (HSI Tampa); HSI Cultural Property, Art and Antiquities program; US Customs and Border Protection; (unnamed) source countries",
+   "coverage_geography": "US, source countries",
    "follow_up_pending": true
   }
  ]
