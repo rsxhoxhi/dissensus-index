@@ -11851,7 +11851,7 @@
    "date_discovered": "2026-08-25",
    "sort_date": "2026-08-21",
    "description": "On August 21, 2026, Chief Justice John Roberts declined, for now, to halt construction of the White House ballroom, allowing work to continue while the administration's appeal proceeds, according to The New York Times (Ann E. Marimow, August 21, 2026). The order follows the DC Circuit's August 7 ruling (ACI-050-H) that above-ground ballroom construction requires congressional authorization and must halt, a ruling the appeals court had stayed for two weeks to permit a Supreme Court appeal. The administration's lawyers have told the courts that the roughly 90,000-square-foot project has grown in size and scope and is intertwined with the renovation of an underground military bunker. The order preserves the status quo of continued construction pending further Supreme Court action rather than resolving the underlying question of whether the project may proceed without Congress.",
-   "outcome": "Chief Justice Roberts declined to halt construction pending the appeal, leaving work underway while the Supreme Court considers the administration's request. The DC Circuit's ruling that construction requires congressional approval remains the merits question on appeal. [FOLLOW-UP PENDING: the Supreme Court's disposition of the administration's application and any ruling on whether the ballroom may proceed without congressional authorization.]",
+   "outcome": "Chief Justice Roberts declined to halt construction pending the appeal, leaving work underway while the Supreme Court considered the administration's request. Resolved by the full Supreme Court's 31 August 2026 order allowing construction to continue (see ACI-050-J); the merits question — whether the ballroom requires congressional authorization — remains for the lower courts.",
    "tags": "Historic preservation, Demolition, Political interference, Legal challenge",
    "court_case": "Yes",
    "coverage_tier": "National",
@@ -11867,6 +11867,45 @@
    "notes": "Sub-entry of ACI-050 (White House State Ballroom / East Wing demolition). Directly continues ACI-050-H (DC Circuit 2-1 ruling, August 7) -- the administration took that ruling to the Supreme Court, and the Chief Justice allowed construction to continue for now. Metadata-grade (NYT abstract read via API); no quotation used.",
    "interested_parties": "Chief Justice John Roberts; US Supreme Court; Trump administration/DOJ; National Trust for Historic Preservation (plaintiff in underlying litigation)",
    "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-050-J",
+   "entry_id": "050-J",
+   "seq": 676,
+   "title": "White House ballroom: Supreme Court lets construction continue, finding challengers likely lack standing",
+   "artist": "McCrery Architects (Jim McCrery, lead); Clark Construction; AECOM (engineering)",
+   "institution": "White House East Wing site, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "August 31, 2026 (Supreme Court order)",
+   "date_discovered": "2026-09-01",
+   "sort_date": "2026-09-01",
+   "description": "On 31 August 2026 the U.S. Supreme Court granted the Trump administration's emergency application and allowed above-ground construction of the roughly 90,000-square-foot White House ballroom to continue, lifting the lower-court halt that had required congressional authorization (see ACI-050-H, ACI-050-I). According to PBS NewsHour, the Court's order lets work proceed while the litigation continues in the lower courts and did not resolve the underlying question of whether the president needs Congress's approval for the project. NBC News reported that the Court divided 5-4 and that its unsigned order rested on the challengers' likely lack of standing, with the National Trust for Historic Preservation — the plaintiff in the underlying suit — found unlikely to have standing to sue. Per NBC News, Chief Justice John Roberts, joined by the Court's three liberal justices, dissented, saying the decision was not a victory for the separation of powers and would let a likely infringement on Congress's authority continue.",
+   "outcome": "The Supreme Court allowed ballroom construction to continue; the merits question — whether the project needs congressional approval — remains unresolved as the litigation continues in the lower courts. Resolves the pending application tracked at ACI-050-I. [FOLLOW-UP PENDING: the lower-court litigation on standing and the merits, and any congressional response.]",
+   "tags": [
+    "Legal challenge",
+    "Historic preservation",
+    "Demolition",
+    "Political interference"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "PBS",
+    "NBC News"
+   ],
+   "source": "https://www.pbs.org/newshour/politics/supreme-court-allows-white-house-to-continue-construction-on-trumps-400-million-ballroom",
+   "additional_sources": [
+    "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-move-forward-white-house-ballroom-construct-rcna594097"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-050; latest development after ACI-050-H (DC Circuit, 7 Aug 2026) and ACI-050-I (Roberts declines to halt, 21 Aug 2026). Reference source PBS NewsHour (full-text read); the 5-4 split, the standing basis, and the Roberts dissent are attributed to NBC News (search-result snippet). The maintainer flagged the Washington Post report (Supreme Court clears way…, 31 Aug 2026); WaPo direct fetch returned HTTP 403 this run, so it is not cited — the ruling was read via PBS and corroborated by NBC. No direct quotes (reported speech). Cross-ref ACI-050-H, ACI-050-I.",
+   "interested_parties": "U.S. Supreme Court; Chief Justice John Roberts (dissent); Trump administration/DOJ; National Trust for Historic Preservation (plaintiff)",
+   "coverage_geography": "US, international",
    "follow_up_pending": true
   },
   {
@@ -19988,7 +20027,7 @@
    "date_discovered": "2026-08-22",
    "sort_date": "2026-08-21",
    "description": "The Smithsonian Institution's board of regents is scheduled to meet on 31 August 2026 to discuss housing the National Museum of the American Latino inside the historic Arts and Industries Building on the National Mall in Washington, DC -- a step that, because it uses an existing Smithsonian building rather than new construction, would not require the congressional approval a new museum would, according to The Art Newspaper (21 August 2026) and ARTnews. The museum, authorized by Congress in 2020, has been the subject of repeated political dispute: its 2023 inaugural exhibition, ¡Presente! A Latino History of the United States, drew objections from some Republicans over its treatment of colonialism and US interventions in Latin America, and in May 2026 the Trump administration's budget request sought to cancel funding for a permanent museum in favor of a roaming \"Smithsonian Latino Center.\" A conservative critic quoted by The Art Newspaper, Mike Gonzalez of the Washington Examiner, called the plan \"an act of desperation\" and an attempt to \"use a loophole to sneak in a building for a yet-to-be-built controversial museum.\" The Arts and Industries Building is itself undergoing restoration and is due to close on 7 September 2026 for further work.",
-   "outcome": "Board of regents met 31 August 2026 and designated the Arts and Industries Building as the site of the National Museum of the American Latino, avoiding a new-construction vote in Congress (see ACI-339-A). Congressional and administration response, and retrofit funding, remain open.",
+   "outcome": "Board of Regents met 31 August 2026 and designated the Arts and Industries Building as the site of the National Museum of the American Latino, avoiding a new-construction vote in Congress (see ACI-339-A). Congressional and administration response, and retrofit funding, remain open.",
    "tags": "Political interference, Funding dispute",
    "court_case": "No",
    "coverage_tier": "National",
@@ -20021,7 +20060,7 @@
    "date_controversy": "August 31, 2026 (board of regents decision)",
    "date_discovered": "2026-09-01",
    "sort_date": "2026-09-01",
-   "description": "On 31 August 2026 the Smithsonian Institution's board of regents decided to house the National Museum of the American Latino in the Arts and Industries Building — a 145-year-old structure on the National Mall that the Smithsonian already controls — rather than construct a new building, according to The New York Times. The Times reports that using an existing Smithsonian building lets the institution avoid a new-construction approval from Congress and further conflict with the Trump administration, which has pressed the Smithsonian for months. In coverage retrieved via a site-scoped search, The Washington Post reported that the project is expected to cost about $1 billion — roughly half from federal sources — with about $72 million raised in private funding so far, and that conservative critics characterised the site choice as a way to bypass Congress.",
+   "description": "On 31 August 2026 the Smithsonian Institution's Board of Regents decided to house the National Museum of the American Latino in the Arts and Industries Building — a 145-year-old structure on the National Mall that the Smithsonian already controls — rather than construct a new building, according to The New York Times. The Times reports that using an existing Smithsonian building lets the institution avoid a new-construction approval from Congress and further conflict with the Trump administration, which has pressed the Smithsonian for months; that the project is expected to cost about $1 billion, roughly half from federal sources, with about $72 million raised in private funding so far; and that conservative critics characterised the site choice as a way to bypass Congress. The Washington Post also covered the regents' decision.",
    "outcome": "Regents designated the Arts and Industries Building as the museum's site; retrofit funding and any congressional or administration response remain open. Resolves the siting decision tracked at ACI-339. [FOLLOW-UP PENDING: congressional/administration reaction and fundraising for the retrofit.]",
    "tags": [
     "Political interference",
@@ -20041,7 +20080,7 @@
     2,
     4
    ],
-   "notes": "Sub-entry of ACI-339 (resolves the pending 31 Aug 2026 regents decision). DC federal-cultural cluster (cf. ACI-005 Kennedy Center; ACI-114 American Women's History Museum). Thin entry: NYT read at metadata grade via the NYT API; WaPo via site-scoped search snippet — no full-text read this run, so no direct quotes and characterisations are attributed to the outlets. Cross-ref ACI-339, ACI-114.",
+   "notes": "Sub-entry of ACI-339 (resolves the pending 31 Aug 2026 regents decision). DC federal-cultural cluster (cf. ACI-005 Kennedy Center; ACI-114 American Women's History Museum). Thin entry: NYT read at metadata grade via the NYT API and The Washington Post via site-scoped search snippet (no full-text read this run), so no direct quotes; the cost, funding, and critics details are attributed to The New York Times per editorial review, with the Post as corroborating coverage. Cross-ref ACI-339, ACI-114.",
    "interested_parties": "Smithsonian Institution board of regents; National Museum of the American Latino; U.S. Congress; Trump administration; Heritage Foundation critics",
    "coverage_geography": "US",
    "follow_up_pending": true
@@ -20602,38 +20641,6 @@
    "notes": "New parent. Restitution/repatriation (theme 12) with the British Museum as a universal/encyclopedic museum at the axis of the dispute (theme 5). Neutrality: Burnham's 2023 and 2026 statements are quoted verbatim from the TAN full-text read (31 Aug 2026) and attributed; the legal positions of the museum and Greece are stated as their own claims.",
    "interested_parties": "Andy Burnham (UK prime minister); British Museum; George Osborne (British Museum chair); Greek government; Acropolis Museum",
    "coverage_geography": "UK, Greece, international",
-   "follow_up_pending": true
-  },
-  {
-   "id": "ACI-362",
-   "entry_id": "362",
-   "seq": 673,
-   "title": "Tbilisi's Rike Park Music Theatre demolished, drawing preservation outcry",
-   "artist": "Massimiliano and Doriana Fuksas (architects)",
-   "institution": "Tbilisi City Hall (permit); Rike Dom (owner)",
-   "country": "Georgia",
-   "governance_type": "Hybrid Regime",
-   "date_controversy": "Demolition permit June 2026; dismantling began July 2026",
-   "date_discovered": "2026-09-01",
-   "sort_date": "2026-09-01",
-   "description": "The Rike Park Music Theatre and Exhibition Hall in Tbilisi — a futuristic glass-and-steel complex locally nicknamed the \"Rike Tubes,\" designed in 2010 by the architects Massimiliano and Doriana Fuksas — is being demolished, according to Hyperallergic. The publication reports that the owner, Rike Dom, is dismantling the structure under a June 2026 permit from Tbilisi City Hall's Architectural Service; work began in July 2026 and is scheduled to finish by December 2026. Construction of the complex began in 2011 but froze in 2012 when the Georgian Dream party took power, leaving it unfinished. Hyperallergic reports that local community members, preservationists, and the Fuksas architects objected to the demolition, with many describing the site as a defining feature of the capital's skyline.",
-   "outcome": "Demolition is underway and scheduled for completion by December 2026. [FOLLOW-UP PENDING: whether the demolition is halted or completed, and any formal preservation or legal challenge.]",
-   "tags": [
-    "Demolition",
-    "Historic preservation",
-    "Design controversy"
-   ],
-   "court_case": "No",
-   "coverage_tier": "International",
-   "outlets": [
-    "Hyperallergic"
-   ],
-   "source": "https://hyperallergic.com/demolition-of-georgian-architectural-landmark-sparks-outcry/",
-   "additional_sources": [],
-   "themes": [],
-   "notes": "New parent. Contested demolition of a contemporary (2010-designed) landmark — kept out of the cultural-property-destruction umbrella per CLAUDE.md (recent structure, not recognized heritage). Georgian Dream governance context noted as reported by Hyperallergic. Drafted from the Hyperallergic full-text read (1 Sept 2026); reported speech used for objectors' views. Thin on local Georgian-language sourcing — enrich on the Europe trawl.",
-   "interested_parties": "Rike Dom (owner); Tbilisi City Hall Architectural Service; Massimiliano and Doriana Fuksas (architects); local preservationists and residents",
-   "coverage_geography": "Georgia, international",
    "follow_up_pending": true
   },
   {
