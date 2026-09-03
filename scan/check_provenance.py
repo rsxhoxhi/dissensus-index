@@ -86,6 +86,7 @@ DOMAIN_TO_OUTLET = {
     "infobae.com": "Infobae",
     "elpais.com.co": "El País (Cali)",
     "thelocal.fr": "The Local",
+    "lemonde.fr": "Le Monde",
     "aljazeera.com": "Al Jazeera",
     "newschannel5.com": "NewsChannel5",
     "usnews.com": "U.S. News & World Report",
