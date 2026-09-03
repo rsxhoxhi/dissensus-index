@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 640
+  "total_cases": 644
  },
  "cases": [
   {
@@ -16045,6 +16045,47 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-038-P",
+   "entry_id": "038-P",
+   "seq": 680,
+   "title": "Trump Triumphal Arch — NPS report affirms adverse effects on dozens of sites but keeps arch at proposed location",
+   "artist": "N/A (renderings by Harrison Design)",
+   "institution": "Memorial Circle, George Washington Memorial Parkway (NPS); National Capital Planning Commission (NCPC)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "NPS report released on or about 28 August 2026",
+   "date_discovered": "2026-09-03",
+   "sort_date": "2026-08-28",
+   "description": "According to reporting by CNN and The Architect's Newspaper, the National Park Service released a report in late August 2026 finding that President Trump's proposed roughly 250-foot triumphal arch would cause adverse effects on dozens of historic properties — The Architect's Newspaper put the figure at 37 locations across Washington, DC, and Arlington, Virginia — including obstruction of the sightline between the Lincoln Memorial and Arlington National Cemetery. The same reporting states the NPS nonetheless concluded the arch should remain at the proposed Memorial Circle site on the banks of the Potomac, describing the placement as inherently location-dependent and not interchangeable with alternative sites. The Section 106 review and a final vote by the National Capital Planning Commission remained pending as of this reporting.",
+   "outcome": "The late-August NPS report affirms adverse effects across dozens of sites while concluding the arch should stay at the proposed location; the Section 106 process and a final NCPC vote remain pending. [FOLLOW-UP PENDING: the final NCPC vote and the Section 106 determination or any programmatic agreement.]",
+   "tags": [
+    "Architectural preservation",
+    "Political interference",
+    "Design controversy",
+    "Landmark dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "CNN",
+    "The Architect's Newspaper",
+    "KRDO"
+   ],
+   "source": "https://www.cnn.com/2026/08/28/politics/trump-arch-adverse-effects",
+   "additional_sources": [
+    "https://www.archpaper.com/2026/08/national-park-service-arch-trump/",
+    "https://krdo.com/politics/cnn-us-politics/2026/08/28/trumps-triumphal-arch-will-cause-a-slew-of-adverse-effects-administration-admits-but-its-plans-are-staying/"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch); follows ACI-038-O (NPS preliminary adverse-effect finding, June / NYT 3 August). Adds the late-August NPS report affirming adverse effects on ~37 sites while keeping the arch at the proposed site. Thin / snippet-grade: CNN, The Architect's Newspaper and KRDO were reached via search-result snippets only (direct fetch blocked/bot-walled), so reported speech only and no direct quotes. NOTE for review: this overlaps ACI-038-O — confirm it is a distinct, later NPS report and not a re-report of the June assessment before finalising, and enrich with a full-text source. The final NCPC vote anticipated for the September meeting had not been confirmed on the agenda as of this run.",
+   "interested_parties": "National Park Service; National Capital Planning Commission; Arlington National Cemetery; Trump administration",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-007-F",
    "entry_id": "007-F",
    "seq": 466,
@@ -20752,6 +20793,124 @@
    "notes": "New parent. Institution showing a convicted artist's work over objections from people he harmed — Institutional Risk (theme 4) and Artist Responsibility (theme 8). Thin: ARTnews retrieved at search-snippet grade (bot-walled on direct fetch), so reported speech only and no direct quotes; Der Standard's reporting is referenced as carried by ARTnews, not independently retrieved. Enrich on the Europe trawl with German-language sourcing.",
    "interested_parties": "Vienna Actionism Museum; Otto Muehl (1925–2013); former members of Muehl's commune; Der Standard",
    "coverage_geography": "Austria, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-371",
+   "entry_id": "371",
+   "seq": 677,
+   "title": "Minnesota State Fair pulls anti-Trump '8647' crop art after artist is doxxed and threatened",
+   "artist": "Unnamed crop artist (identity withheld)",
+   "institution": "Minnesota State Fair — Crop Art competition, Falcon Heights, Minnesota",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Removed at the artist's request in late August 2026 (reported 1 September 2026)",
+   "date_discovered": "2026-09-03",
+   "sort_date": "2026-09-01",
+   "description": "According to Hyperallergic, the 2026 Minnesota State Fair removed a crop-art piece reading \"8647\" in yellow corn kernels against a backdrop of black and red beans after the artist was doxxed, harassed and threatened. Hyperallergic reports the numeric sequence is often used in protest of President Donald Trump — \"86\" being hospitality slang for getting rid of something and \"47\" referring to Trump as the 47th president. Per Hyperallergic, after the conservative outlet Alpha News highlighted the work on social media, others targeted the artist and shared her private address and personal details, and she asked the fair to remove the piece citing her safety; the fair complied. Hyperallergic said it was not reproducing an image of the work out of concern for the artist's privacy, and that the artist declined to comment. Fellow crop artist Ike Whiting is quoted by Hyperallergic as saying, \"The need people feel to take matters into their own hands is shocking and unacceptable.\" Local outlets including MPR News and the Star Tribune reported the removal followed the artist being doxxed.",
+   "outcome": "The artwork was withdrawn from the exhibition at the artist's request after she was doxxed and threatened, and the Minnesota State Fair removed it on safety grounds. [FOLLOW-UP PENDING: any statement from fair leadership on its display or removal policy, and any law-enforcement response to the threats.]",
+   "tags": [
+    "Removal",
+    "Protest art",
+    "Political art",
+    "Artist safety"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic",
+    "MPR News",
+    "Star Tribune"
+   ],
+   "source": "https://hyperallergic.com/minnesota-state-fair-removes-anti-trump-crop-art-after-artist-was-harassed/",
+   "additional_sources": [
+    "https://www.mprnews.org/story/2026/09/01/crop-artists-react-after-state-fair-removes-antitrump-8647-piece-due-to-harassment",
+    "https://www.startribune.com/state-fair-removes-crop-art-from-exhibition-after-artist-allegedly-doxxed/601884618"
+   ],
+   "themes": [
+    4
+   ],
+   "notes": "New parent. A publicly sited exhibition removing a political work not by an institutional censorship decision but after the artist was doxxed and threatened — fits the externalised-censorship / harassment-by-proxy frame (CLAUDE.md §14). Artist's identity withheld in the coverage. Reference source Hyperallergic, retrieved full-text this run; the Ike Whiting quote is carried by Hyperallergic. Corroborated at snippet grade by MPR News and the Star Tribune. Cross-reference other Trump-protest-art removals in the Index.",
+   "interested_parties": "Unnamed crop artist; Minnesota State Fair; Alpha News; crop artist Ike Whiting",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-372",
+   "entry_id": "372",
+   "seq": 678,
+   "title": "Paris prosecutors seek trial for Giuliano Ruffini over alleged Old Master forgeries",
+   "artist": "Giuliano Ruffini (alleged)",
+   "institution": "Paris prosecutors' office; works embroiled the Louvre, National Gallery (London), Metropolitan Museum of Art, Sotheby's, Christie's and Dorotheum",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Prosecutors' trial request reported 2 September 2026 (scandal ongoing since 2016)",
+   "date_discovered": "2026-09-03",
+   "sort_date": "2026-09-02",
+   "description": "According to The Art Newspaper, Paris prosecutors have requested that Giuliano Ruffini — long suspected of masterminding a ring that trafficked forged Old Master paintings — be sent to trial for commercial deception and money laundering, along with two intermediaries, Jean-Charles Méthiaz and Michaël Tordjmann, on the same charges; they also seek the indictment of Ruffini's son Mathieu for money laundering and the renewal of an arrest warrant for alleged forger Lino Frongia, described as on the run in Italy. The Art Newspaper reports the prosecution dropped the more serious gang-fraud charge for technical reasons, that a judge must confirm the indictment within weeks, and that any trial could be scheduled for 2027. The scandal emerged in 2016 when a \"Venus\" exhibited as a Cranach was seized from the collection of the Prince of Liechtenstein; TAN reports 13 works were designated fakes after forensic examination, while charges over 18 further paintings were dropped on statute-of-limitations or evidentiary grounds. Works cited include the Cranach Venus, a Frans Hals portrait at the centre of a Sotheby's–Mark Weiss dispute, Orazio Gentileschi's David contemplating the head of Goliath and a Velázquez attribution, among others linked to the Louvre, the National Gallery in London, the Met, and auction houses Sotheby's, Christie's and Dorotheum. Ruffini, who has maintained his innocence, told The Art Newspaper's account, \"The dealers, curators and experts were responsible for these attributions, not me,\" and his lawyer Paul Le Fèvre said, \"Excluding 18 works, dropping gang fraud charges, all this underlines the fragility of this inflated proceeding.\"",
+   "outcome": "Paris prosecutors have asked that Ruffini and two intermediaries be sent to trial for commercial deception and money laundering; an investigating judge must confirm the indictment, with any trial potentially in 2027. Ruffini denies wrongdoing. [FOLLOW-UP PENDING: whether the judge confirms the indictment and a trial is set.]",
+   "tags": [
+    "Authenticity",
+    "Art market fraud",
+    "Legal challenge"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/02/paris-prosecutors-seek-trial-for-giuliano-ruffini-over-allegedly-forged-old-master-paintings",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "New parent. Long-running Old Master forgery scandal (the \"Cranach Venus\" seized 2016) that embroiled major museums and auction houses. Reference source The Art Newspaper, retrieved full-text this run; quotes from Ruffini and his lawyer Paul Le Fèvre are carried by TAN. Single-source at present (only TAN reached this run); enrich with French-language and other reporting on the Europe trawl day. Cross-reference other authenticity/forgery cases in the Index.",
+   "interested_parties": "Giuliano Ruffini; son Mathieu Ruffini; alleged forger Lino Frongia; intermediaries Jean-Charles Méthiaz and Michaël Tordjmann; Paris prosecutors; dealer Mark Weiss; lawyer Paul Le Fèvre; Louvre; National Gallery, London; Metropolitan Museum of Art; Sotheby's; Christie's; Dorotheum",
+   "coverage_geography": "France, UK, international art press",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-373",
+   "entry_id": "373",
+   "seq": 679,
+   "title": "Israeli minister Smotrich demands demolition of 40 Palestinian memorials after West Bank monument smashed",
+   "artist": "N/A (Palestinian martyrs' memorials)",
+   "institution": "Palestinian memorials, occupied West Bank (Madama village and 39 other listed sites)",
+   "country": "Occupied West Bank (Palestinian Territories) / Israel",
+   "governance_type": "Democracy",
+   "date_controversy": "Madama monument destroyed 25 August 2026; Smotrich's 40-memorial demand late August 2026 (reported 2 September 2026)",
+   "date_discovered": "2026-09-03",
+   "sort_date": "2026-09-02",
+   "description": "According to Hyperallergic, Israel's finance minister, Bezalel Smotrich, sent Prime Minister Benjamin Netanyahu a letter in late August 2026 demanding that the Israel Defense Forces dismantle 40 Palestinian memorials in the occupied West Bank within 24 hours, attaching a table listing all 40. Hyperallergic reports the demand followed the 25 August 2026 destruction of a Palestinian memorial in the village of Madama, south of Nablus, by Knesset member Zvi Sukkot of Smotrich's Religious Zionist Party, who was filmed smashing the stone monument — which bore the names of Palestinians killed by Israel — with a sledgehammer. Per Hyperallergic, Netanyahu publicly condemned Sukkot's unauthorised act, but Smotrich defended his party member, saying, \"These terrorist incitement (and memorial) infrastructures have existed for many years, just minutes away from Israeli cities,\" and characterising the memorials as \"terrorist monuments.\" Hyperallergic reports Netanyahu had not publicly responded to Smotrich's demand to dismantle the 40 memorials. The memorials commemorate Palestinians killed by Israel; Middle East Monitor, Middle East Eye and The Jerusalem Post carried the same demand and the Madama destruction.",
+   "outcome": "One memorial in Madama was destroyed on 25 August 2026; Smotrich has demanded the IDF dismantle 40 more within 24 hours. Netanyahu condemned the individual act but, as of reporting, had not responded to the broader demand, and no demolition of the 40 listed memorials had been reported. [FOLLOW-UP PENDING: whether the government orders or carries out demolition of the listed memorials.]",
+   "tags": [
+    "Removal",
+    "Iconoclasm",
+    "Demolition",
+    "Political interference",
+    "Geopolitics",
+    "Historical erasure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic",
+    "Middle East Monitor",
+    "Middle East Eye",
+    "The Jerusalem Post"
+   ],
+   "source": "https://hyperallergic.com/israels-smotrich-calls-to-destroy-40-palestinian-memorials-in-west-bank/",
+   "additional_sources": [
+    "https://www.middleeastmonitor.com/20260831-smotrich-calls-for-removal-of-40-palestinian-memorials-in-west-bank-within-24-hours/",
+    "https://www.middleeasteye.net/news/israeli-lawmaker-smashes-palestinian-memorial-occupied-west-bank",
+    "https://www.jpost.com/israel-news/politics-and-diplomacy/article-906518"
+   ],
+   "themes": [
+    6
+   ],
+   "notes": "New parent. Governance annotation: the acting authority is Israel (a democracy); the memorials stand in the occupied West Bank under Israeli military administration. Neutrality: the status of these memorials is itself contested — Israeli officials frame them as \"terrorist\" incitement while Palestinians treat them as commemoration of the dead — so, per the cultural-property tagging discipline (CLAUDE.md §4), the Index does not apply the \"Cultural property destruction\" umbrella or heritage framing to a contested political monument, and attributes all characterisations to their sources. Reference source Hyperallergic, retrieved full-text this run; Smotrich quotes are carried by Hyperallergic. Corroborated at snippet grade by Middle East Monitor, Middle East Eye and The Jerusalem Post. Cross-reference other top-down iconoclasm / monument-destruction cases in the Index.",
+   "interested_parties": "Finance Minister Bezalel Smotrich (Religious Zionist Party); MK Zvi Sukkot; PM Benjamin Netanyahu; Israel Defense Forces; residents of Madama village",
+   "coverage_geography": "Israel, Palestinian Territories, Middle East, international",
    "follow_up_pending": true
   }
  ]

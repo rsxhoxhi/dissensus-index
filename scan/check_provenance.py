@@ -145,6 +145,10 @@ DOMAIN_TO_OUTLET = {
     "whitemad.pl": "Whitemad",
     "sanjosespotlight.com": "San Jose Spotlight",
     "interpressnews.ge": "InterPressNews",
+    "startribune.com": "Star Tribune",
+    "middleeastmonitor.com": "Middle East Monitor",
+    "jpost.com": "The Jerusalem Post",
+    "krdo.com": "KRDO",
 }
 
 ALIASES = {
