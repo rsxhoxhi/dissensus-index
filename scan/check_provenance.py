@@ -145,6 +145,8 @@ DOMAIN_TO_OUTLET = {
     "whitemad.pl": "Whitemad",
     "sanjosespotlight.com": "San Jose Spotlight",
     "interpressnews.ge": "InterPressNews",
+    "wjla.com": "WJLA",
+    "ice.gov": "ICE",
 }
 
 ALIASES = {
