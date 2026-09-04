@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 646
+  "total_cases": 649
  },
  "cases": [
   {
@@ -14471,6 +14471,41 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-012-O",
+   "entry_id": "012-O",
+   "seq": 683,
+   "title": "Smithsonian: Trump officials threaten to withhold federal agency support over discrimination claims",
+   "artist": "N/A",
+   "institution": "Smithsonian Institution, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Letter reported September 2, 2026 (dated the previous Friday)",
+   "date_discovered": "2026-09-04",
+   "sort_date": "2026-09-02",
+   "description": "Interior Secretary Doug Burgum and White House Domestic Policy Council director Vince Haley sent a letter to the Smithsonian's governing board saying federal agencies \"cannot in good conscience continue to support the Smithsonian under current leadership by, for example, loaning artifacts for exhibits, enabling procurement processes and making discretionary grants,\" according to Reuters. Reuters reports the letter alleged the Smithsonian may have violated anti-discrimination laws through its diversity practices, without providing specific examples, and asked the institution's leadership to meet with the administration to address the criticism. Reuters reports the Smithsonian had no immediate comment on the letter.",
+   "outcome": "The letter escalates the administration's pressure on the Smithsonian (cf. ACI-012-L, -M, -N); the retrieved coverage reports no meeting, no actual withholding of support, and no Smithsonian response. [FOLLOW-UP PENDING: any meeting, any actual withholding of loans, procurement or discretionary grants, and the Smithsonian's response.]",
+   "tags": [
+    "Political interference",
+    "Funding dispute",
+    "Institutional risk"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Reuters"
+   ],
+   "source": "https://www.timeslive.co.za/news/world/2026-09-03-trump-administration-threatens-to-cut-federal-agencies-support-for-smithsonian/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-012 (Smithsonian / Trump administration thread); continues ACI-012-L/-M/-N. Themes narrowed to Public Funding (2) and Institutional Risk (4) — the parent's Universal Museum theme (5) is not at issue in this funding/discrimination development. The Reuters wire was retrieved in full via TimesLIVE syndication; ARTnews also ran its own report but was not retrievable this run (bot wall). timeslive.co.za added to check_provenance.py DOMAIN_TO_OUTLET (mapped to Reuters) for this run.",
+   "interested_parties": "Doug Burgum (Interior Secretary); Vince Haley (White House Domestic Policy Council director); Smithsonian governing board; Lonnie Bunch (Smithsonian Secretary)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-011",
    "entry_id": "011",
    "seq": 10,
@@ -16078,6 +16113,47 @@
    ],
    "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Cross-reference ACI-038-J (archaeological-deposits finding), ACI-038-L (DC preservation officer's alternative-site letter), and ACI-038-M/ACI-038-N (NCPC July 9 preliminary approval). Adds the NPS Section 106 assessment's viewshed/setting adverse-effect finding, not previously captured in the cluster. Sourcing: NYT reached at metadata grade via the NYT API (Upshot abstract; body paywalled), corroborated by a search-result snippet of Washingtonian's June 2026 report; no quotations drawn. Note for review: the underlying NPS assessment dates to June 2026 and the August 3 NYT piece is an analysis-desk treatment, so some overlap with the June arch subs is possible.",
    "interested_parties": "National Park Service; National Capital Planning Commission; Arlington National Cemetery; National Trust for Historic Preservation and allied preservation groups; Trump administration",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-038-Q",
+   "entry_id": "038-Q",
+   "seq": 684,
+   "title": "Trump Triumphal Arch: Burgum says excavation to begin within two weeks, before final federal approval",
+   "artist": "N/A",
+   "institution": "Memorial Circle, George Washington Memorial Parkway (NPS); National Capital Planning Commission (NCPC)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Announced September 3, 2026",
+   "date_discovered": "2026-09-04",
+   "sort_date": "2026-09-03",
+   "description": "Interior Secretary Doug Burgum said excavation work for President Trump's proposed triumphal arch at Memorial Circle, by the Arlington Memorial Bridge approach, would begin within about two weeks, according to the Washington Post, UPI and ABC News. The reported plans describe an arch roughly 250 feet tall and 166 feet wide — more than twice the height of the Lincoln Memorial — with survey and testing work having begun in May and an aggressive two-to-three-year construction schedule. The coverage notes the excavation is set to start before the project has received final approval from the National Capital Planning Commission, whose final vote is expected at its September meeting, and while litigation over the project remains pending.",
+   "outcome": "Excavation is reported as imminent while NCPC final approval and, by law, congressional authorization remain outstanding and a lawsuit challenging the project continues. [FOLLOW-UP PENDING: the NCPC September final vote, the actual start of excavation, and the pending litigation.]",
+   "tags": [
+    "Architectural preservation",
+    "Political interference",
+    "Design controversy",
+    "Landmark dispute"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Washington Post",
+    "UPI",
+    "ABC News"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/09/03/construction-trump-giant-arch-dc-begin-within-two-weeks/",
+   "additional_sources": [
+    "https://www.upi.com/Top_News/US/2026/09/04/Trump-arch-construction/4871788502198/",
+    "https://abcnews.com/Politics/excavation-work-build-trumps-triumphal-arch-begin-2/story?id=136188063"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038 (Trump triumphal arch); follows ACI-038-P (late-August NPS report). Thin / snippet-grade: the Washington Post, UPI and ABC News carry the same announcement, but direct fetches of WaPo, UPI and HNGN were blocked (403 / bot wall) this run, so the entry is drafted in reported speech from date-anchored search results, no direct quotes. Cross-ref ACI-050 (White House ballroom) for the parallel build-before-approval pattern.",
+   "interested_parties": "Doug Burgum (Interior Secretary); Trump administration; National Capital Planning Commission; Will Scharf (NCPC chair); Arlington National Cemetery",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
@@ -20957,6 +21033,43 @@
    "notes": "New parent, borderline: a one-sided law-enforcement seizure rather than a contested dispute with named opposing parties, logged as a cultural-property-trafficking / repatriation cluster anchor per the CLAUDE.md dragnet term 'antiquities seized.' The ICE press release is the primary source and a participant in the action -- promotional in tone (an HSI agent is quoted marvelling at handling the objects) -- so the Index reports the seizure factually and does not adopt ICE's framing. Thin: ICE and ARTnews carry the same figures; reported speech only, no direct quotes. Flagged for review.",
    "interested_parties": "US Homeland Security Investigations (HSI Tampa); HSI Cultural Property, Art and Antiquities program; US Customs and Border Protection; (unnamed) source countries",
    "coverage_geography": "US, source countries",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-374",
+   "entry_id": "374",
+   "seq": 685,
+   "title": "Restituted Kandinsky 'Das bunte Leben' heads to Christie's London with a $30m-plus estimate",
+   "artist": "Wassily Kandinsky",
+   "institution": "Christie's London; formerly Städtische Galerie im Lenbachhaus, Munich",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Restituted 2023; Christie's sale announced for October 2026",
+   "date_discovered": "2026-09-04",
+   "sort_date": "2026-09-01",
+   "description": "The New York Times reports that Wassily Kandinsky's 1907 painting 'Das bunte Leben' (The Colorful Life), returned to Jewish heirs by a German museum, will be sold at Christie's, which expects the work to draw bids exceeding $30 million when it comes to auction in October. According to ArtDependence, the painting had been held since 1972 by the Bayerische Landesbank and shown for decades on loan at the Städtische Galerie im Lenbachhaus in Munich; in May 2023 Germany's Advisory Commission on the return of Nazi-era cultural property recommended its restitution to the heirs of Hedwig Lewenstein-Weyermann and Irma Lewenstein-Klein, finding the painting had been seized as a result of Nazi persecution. ArtDependence reports the Amsterdam Lewenstein family's picture was auctioned in October 1940, months into the Nazi occupation of the Netherlands.",
+   "outcome": "The restitution is settled and the work now moves to market, with Christie's estimating in excess of $30 million for the October sale. [FOLLOW-UP PENDING: the auction result.]",
+   "tags": [
+    "Repatriation",
+    "Financialization"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "New York Times",
+    "ArtDependence"
+   ],
+   "source": "https://www.nytimes.com/2026/09/01/arts/design/kandinsky-art-jewish-heirs-auction.html",
+   "additional_sources": [
+    "https://artdependence.com/articles/german-advisory-commission-classifies-a-kandinsky-painting-as-nazi-looted-art/"
+   ],
+   "themes": [
+    10,
+    12
+   ],
+   "notes": "New parent, borderline: the restitution dispute (heirs v. the Bayerische Landesbank / Bavaria) was resolved by Germany's Advisory Commission in 2023, so this is logged as a Restitution / Art-and-Capital cluster anchor keyed to the work's move to market rather than an active dispute. NYT is metadata-only (the reference for the sale); the provenance detail is from ArtDependence's June 2023 report on the Advisory Commission decision, retrieved in full this run. artdependence.com added to check_provenance.py DOMAIN_TO_OUTLET this run. Flagged for review.",
+   "interested_parties": "Heirs of Hedwig Lewenstein-Weyermann and Irma Lewenstein-Klein; Bayerische Landesbank; Städtische Galerie im Lenbachhaus, Munich; Christie's; German Advisory Commission on Nazi-era cultural property",
+   "coverage_geography": "Germany, UK, US",
    "follow_up_pending": true
   }
  ]
