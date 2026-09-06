@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 646
+  "total_cases": 650
  },
  "cases": [
   {
@@ -15659,6 +15659,41 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BA",
+   "entry_id": "005-BA",
+   "seq": 689,
+   "title": "Kennedy Center: part of grand foyer ceiling collapses; center renews call for Trump-backed shutdown",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "September 5, 2026",
+   "date_discovered": "2026-09-06",
+   "sort_date": "2026-09-05",
+   "description": "Part of the ceiling in the Kennedy Center's grand foyer collapsed on September 5, 2026, according to The Washington Post. The Post reports that a Kennedy Center spokesperson attributed the collapse to long-deferred maintenance and that the institution renewed its call for the Trump-backed plan to close the main building for a roughly two-year renovation. The collapse comes amid ongoing litigation before Judge Cooper over the closure, renaming, and renovation plans (see ACI-005-AZ and earlier sub-entries).",
+   "outcome": "No injuries were reported in the retrieved coverage; the Kennedy Center cited the collapse in renewing its case for the contested two-year closure, which remains subject to litigation before Judge Cooper. [FOLLOW-UP PENDING: any effect of the collapse on the closure litigation and the court's pending rulings.]",
+   "tags": [
+    "Institutional crisis",
+    "Political interference",
+    "Historic preservation"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/09/05/kennedy-center-ceiling-collapse-trump-renovations/d8f1c7d4-a94c-11f1-9e38-f705d048bd5a_story.html",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005. Latest development in the Kennedy Center closure/renovation/renaming dispute; follows ACI-005-AZ (removal of Joel Shapiro's 'Blue' sculpture).",
+   "interested_parties": "Kennedy Center management; Trump administration; Rep. Beatty; Judge Cooper",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -16079,6 +16114,48 @@
    "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Cross-reference ACI-038-J (archaeological-deposits finding), ACI-038-L (DC preservation officer's alternative-site letter), and ACI-038-M/ACI-038-N (NCPC July 9 preliminary approval). Adds the NPS Section 106 assessment's viewshed/setting adverse-effect finding, not previously captured in the cluster. Sourcing: NYT reached at metadata grade via the NYT API (Upshot abstract; body paywalled), corroborated by a search-result snippet of Washingtonian's June 2026 report; no quotations drawn. Note for review: the underlying NPS assessment dates to June 2026 and the August 3 NYT piece is an analysis-desk treatment, so some overlap with the June arch subs is possible.",
    "interested_parties": "National Park Service; National Capital Planning Commission; Arlington National Cemetery; National Trust for Historic Preservation and allied preservation groups; Trump administration",
    "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-038-R",
+   "entry_id": "038-R",
+   "seq": 688,
+   "title": "Trump Triumphal Arch: veterans seek emergency order to halt excavation; DOJ says work is survey pits",
+   "artist": "N/A",
+   "institution": "Memorial Circle, Arlington Memorial Bridge approach, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "September 4–5, 2026",
+   "date_discovered": "2026-09-06",
+   "sort_date": "2026-09-05",
+   "description": "Vietnam War veterans and an architectural historian asked a federal judge for an emergency order to block excavation for the proposed roughly 250-foot triumphal arch at Memorial Circle after an administration official announced work would begin, according to The Washington Post and NPR. The New York Times reports that in response the Justice Department told the court the imminent work is archaeological survey — the digging of four test pits scheduled no earlier than September 21 — which a National Park Service official characterized as standard predecisional information-gathering for compliance with the National Historic Preservation Act rather than construction, and that the judge directed the administration to give 48 hours' notice before any activity at Memorial Circle beyond on-site information gathering.",
+   "outcome": "The emergency motion is pending; the administration says survey excavation would begin no earlier than September 21, and the court has required 48 hours' notice before other activity at Memorial Circle. Final NCPC approval and, opponents argue, congressional authorization remain outstanding. [FOLLOW-UP PENDING: the court's ruling on the emergency motion and whether excavation begins on or after September 21.]",
+   "tags": [
+    "Design controversy",
+    "Legal challenge",
+    "Landmark dispute",
+    "Architectural preservation"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post",
+    "NPR",
+    "The New York Times"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/09/04/veterans-make-emergency-request-block-construction-trumps-arch/",
+   "additional_sources": [
+    "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans",
+    "https://www.nytimes.com/2026/09/05/us/politics/trump-arch-justice-department.html"
+   ],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038. Follows ACI-038-Q (Interior Secretary Burgum's September 3 announcement that excavation would begin within two weeks).",
+   "interested_parties": "Vietnam War veteran plaintiffs; an architectural historian; US Department of Justice; National Park Service; Interior Secretary Doug Burgum",
+   "coverage_geography": "US, UK, Europe, global",
    "follow_up_pending": true
   },
   {
@@ -20264,6 +20341,39 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-345-B",
+   "entry_id": "345-B",
+   "seq": 690,
+   "title": "Kehinde Wiley embassy removal: ambassador describes removed painting as a lesbian picnic",
+   "artist": "Kehinde Wiley",
+   "institution": "US Embassy, Santo Domingo (Dominican Republic); US State Department, Art in Embassies program",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Interview reported September 4, 2026",
+   "date_discovered": "2026-09-06",
+   "sort_date": "2026-09-04",
+   "description": "In an interview, Ambassador Leah Campos characterized the Kehinde Wiley painting removed from the US Embassy in Santo Domingo as depicting a lesbian picnic, according to The New York Times, offering the first public indication of the administration's rationale after the State Department removed the federally owned work in August 2026 without explanation (see ACI-345).",
+   "outcome": "The painting's status is unchanged; the State Department has said it is determining whether the federally owned work can be sold. [FOLLOW-UP PENDING: whether the work is sold and any further official explanation of the removal.]",
+   "tags": [
+    "Removal",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/09/04/arts/design/trump-administration-kehinde-wiley-embassy-lesbian-picnic.html",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "Sub-entry of ACI-345. Adds the ambassador's stated characterization of the work; the removal itself is covered in ACI-345 and the artist's response is filed as ACI-345-A in a pending PR.",
+   "interested_parties": "Ambassador Leah Campos; US State Department; Kehinde Wiley",
+   "coverage_geography": "US, Dominican Republic, UK",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-346",
    "entry_id": "346",
    "seq": 648,
@@ -20957,6 +21067,38 @@
    "notes": "New parent, borderline: a one-sided law-enforcement seizure rather than a contested dispute with named opposing parties, logged as a cultural-property-trafficking / repatriation cluster anchor per the CLAUDE.md dragnet term 'antiquities seized.' The ICE press release is the primary source and a participant in the action -- promotional in tone (an HSI agent is quoted marvelling at handling the objects) -- so the Index reports the seizure factually and does not adopt ICE's framing. Thin: ICE and ARTnews carry the same figures; reported speech only, no direct quotes. Flagged for review.",
    "interested_parties": "US Homeland Security Investigations (HSI Tampa); HSI Cultural Property, Art and Antiquities program; US Customs and Border Protection; (unnamed) source countries",
    "coverage_geography": "US, source countries",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-378",
+   "entry_id": "378",
+   "seq": 687,
+   "title": "Toledo Museum of Art and Ethiopian Heritage Authority form repatriation partnership, returning five objects",
+   "artist": "N/A",
+   "institution": "Toledo Museum of Art; Ethiopian Heritage Authority",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Partnership announced September 2, 2026",
+   "date_discovered": "2026-09-06",
+   "sort_date": "2026-09-02",
+   "description": "The Toledo Museum of Art (TMA) announced a partnership with the Ethiopian Heritage Authority (EHA), the Ethiopian government body that oversees the country's cultural heritage, and said it is returning five objects to Ethiopian authorities, according to The Art Newspaper. The Art Newspaper reports that the objects — which include a 15th-century illuminated Book of Revelation and three crosses — came from collector Bob McCarthy, who approached the museum about donating them so they could be returned, and that because the objects lacked provenance documentation the partnership establishes a long-term, research-led framework for jointly determining ownership and future care, with further repatriations anticipated over the life of the agreement.",
+   "outcome": "The five objects are in the process of being returned to Ethiopian authorities; The Art Newspaper reports the partnership anticipates further restitutions under a multi-decade framework. [FOLLOW-UP PENDING: completion of the five-object return and any further repatriations under the agreement.]",
+   "tags": [
+    "Repatriation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/04/toledo-museum-art-partners-ethiopian-heritage-authority-repatriation-five-artefacts",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "Restitution cluster anchor: a cooperative repatriation framework rather than a contested dispute (see CLAUDE.md §7 on analytically relevant non-controversy entries). Part of the broader museum-repatriation thread.",
+   "interested_parties": "Toledo Museum of Art; Ethiopian Heritage Authority; collector Bob McCarthy",
+   "coverage_geography": "US, Ethiopia, Europe",
    "follow_up_pending": true
   }
  ]
