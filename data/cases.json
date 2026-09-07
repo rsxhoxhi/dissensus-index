@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 646
+  "total_cases": 648
  },
  "cases": [
   {
@@ -20957,6 +20957,72 @@
    "notes": "New parent, borderline: a one-sided law-enforcement seizure rather than a contested dispute with named opposing parties, logged as a cultural-property-trafficking / repatriation cluster anchor per the CLAUDE.md dragnet term 'antiquities seized.' The ICE press release is the primary source and a participant in the action -- promotional in tone (an HSI agent is quoted marvelling at handling the objects) -- so the Index reports the seizure factually and does not adopt ICE's framing. Thin: ICE and ARTnews carry the same figures; reported speech only, no direct quotes. Flagged for review.",
    "interested_parties": "US Homeland Security Investigations (HSI Tampa); HSI Cultural Property, Art and Antiquities program; US Customs and Border Protection; (unnamed) source countries",
    "coverage_geography": "US, source countries",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-379",
+   "entry_id": "379",
+   "seq": 683,
+   "title": "Rembrandt self-portrait returns to Gotha on loan as city contests 1946 removal",
+   "artist": "Rembrandt van Rijn",
+   "institution": "Friedenstein Gotha Foundation (Ducal Museum, Gotha); Bavarian State Painting Collections, Munich",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "Exhibition opened 5 September 2026; removal disputed since 1946",
+   "date_discovered": "2026-09-07",
+   "sort_date": "2026-09-03",
+   "description": "Rembrandt's Youthful Self-portrait (1629), showing the artist at 24, has been lent back to Gotha for the exhibition Rembrandt 1632: The Creation of a Brand at the Ducal Museum (5 September – 6 December 2026), which brings together 11 Rembrandt paintings, according to The Art Newspaper. The paper reports that in early 1946 the ducal family secretly moved the picture out of Gotha to Coburg, in the American occupation zone, without the approval of the museum director or the art foundation, and that Munich's Bavarian State Painting Collections bought it from the family in 1954 for DM75,000; Munich remains the owner and the lender. The Art Newspaper reports that the Friedenstein Gotha Foundation, while thanking Munich for the loan, continues to question the circumstances under which the self-portrait was removed, and that the Bavarian State Painting Collections said facilitating the painting's inclusion in the current exhibition was a matter of great importance to it.",
+   "outcome": "The self-portrait is on temporary loan to Gotha for the exhibition; ownership remains with Munich's Bavarian State Painting Collections, and Gotha continues to contest the legality of the 1946 removal. No formal restitution claim or litigation is reported. [FOLLOW-UP PENDING: whether Gotha pursues a formal restitution claim and how Munich responds.]",
+   "tags": [
+    "Repatriation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/03/rembrandt-self-portrait-returns-to-gotha-80-years-after-illegally-removed",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Intra-German restitution/ownership dispute (Gotha vs. Munich/Bavaria) over a postwar 1946 removal, tagged Repatriation to sit in the restitution cluster (theme 12) despite both parties being German; the return here is a loan, not a transfer of title. Single retrieved source (The Art Newspaper); reported speech only, no direct quotes. Flagged for review: tag fit and the intra-national framing.",
+   "interested_parties": "Friedenstein Gotha Foundation (Ducal Museum, Gotha); Bavarian State Painting Collections / Alte Pinakothek, Munich; House of Saxe-Coburg and Gotha (ducal family)",
+   "coverage_geography": "Germany; international art press",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-380",
+   "entry_id": "380",
+   "seq": 684,
+   "title": "Colombia's public broadcaster RTVC paints over murals of García Márquez, Bolívar and Petro",
+   "artist": "N/A",
+   "institution": "RTVC (Radio Televisión Nacional de Colombia) / Inravisión building, Bogotá",
+   "country": "Colombia",
+   "governance_type": "Democracy",
+   "date_controversy": "1 September 2026",
+   "date_discovered": "2026-09-07",
+   "sort_date": "2026-09-01",
+   "description": "Murals depicting Gabriel García Márquez, Simón Bolívar, Jaime Garzón, Alfredo Molano, Germán Castro Caycedo and former president Gustavo Petro were painted over at the Inravisión building of Colombia's public media system in Bogotá, according to Semana. The outlet reports that the removal was ordered by the broadcaster's new administration, led by Ángela María Mora Soto, as part of a restructuring of the public media system intended to orient its operations toward principles of plurality, independence, informational rigour and balance. Semana reports that former president Gustavo Petro criticised the removal, urging young people in Bogotá to paint more murals and framing the erasure in terms of a fight against fascism, and that Representative Daniel Monroy warned the erasure of murals could be a step toward broader elimination.",
+   "outcome": "The murals have been painted over; the new RTVC administration frames the change as part of an institutional restructuring, while critics including former president Petro and Rep. Daniel Monroy have objected publicly. No formal review, reversal or legal action is reported. [FOLLOW-UP PENDING: any congressional inquiry, institutional response, or restoration of the murals.]",
+   "tags": [
+    "Removal",
+    "Censorship",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Semana"
+   ],
+   "source": "https://www.semana.com/nacion/articulo/borran-murales-de-garcia-marquez-simon-bolivar-jaime-garzon-y-mas-figuras-del-instituto-nacional-de-radio-y-television-en-bogota/202606/",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "New parent. Removal of politically resonant public murals by a public broadcaster under new leadership; the Index states the facts and attributes characterisations (censorship/erasure) to the named critics rather than adopting them. Cross-reference other Colombian public-art/erasure cases (ACI-195 Bucaramanga memory murals; ACI-200 Museo de Memoria). Single retrieved source (Semana); reported speech only, no direct quotes. Theme fit [2] tentative — flagged for review.",
+   "interested_parties": "RTVC director Ángela María Mora Soto; former president Gustavo Petro; Rep. Daniel Monroy",
+   "coverage_geography": "Colombia",
    "follow_up_pending": true
   }
  ]
