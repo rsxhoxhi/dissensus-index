@@ -147,6 +147,7 @@ DOMAIN_TO_OUTLET = {
     "interpressnews.ge": "InterPressNews",
     "wjla.com": "WJLA",
     "ice.gov": "ICE",
+    "semana.com": "Semana",
 }
 
 ALIASES = {
