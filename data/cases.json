@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 644
+  "total_cases": 645
  },
  "cases": [
   {
@@ -20873,20 +20873,62 @@
    "id": "ACI-373",
    "entry_id": "373",
    "seq": 679,
-   "title": "Israeli minister Smotrich demands demolition of 40 Palestinian memorials after West Bank monument smashed",
-   "artist": "N/A (Palestinian martyrs' memorials)",
-   "institution": "Palestinian memorials, occupied West Bank (Madama village and 39 other listed sites)",
+   "title": "Israeli MK Zvi Sukkot filmed smashing Palestinian memorial in Madama; military says act was unauthorized",
+   "artist": "N/A (Palestinian memorial, Madama village)",
+   "institution": "Palestinian memorial, Madama (Kafr Madama) village, near Nablus, occupied West Bank",
    "country": "Occupied West Bank (Palestinian Territories) / Israel",
    "governance_type": "Democracy",
-   "date_controversy": "Madama monument destroyed 25 August 2026; Smotrich's 40-memorial demand late August 2026 (reported 2 September 2026)",
+   "date_controversy": "2026-08-25",
    "date_discovered": "2026-09-03",
-   "sort_date": "2026-09-02",
-   "description": "According to Hyperallergic, Israel's finance minister, Bezalel Smotrich, sent Prime Minister Benjamin Netanyahu a letter in late August 2026 demanding that the Israel Defense Forces dismantle 40 Palestinian memorials in the occupied West Bank within 24 hours, attaching a table listing all 40. Hyperallergic reports the demand followed the 25 August 2026 destruction of a Palestinian memorial in the village of Madama, south of Nablus, by Knesset member Zvi Sukkot of Smotrich's Religious Zionist Party, who was filmed smashing the stone monument — which bore the names of Palestinians killed by Israel — with a sledgehammer. Per Hyperallergic, Netanyahu publicly condemned Sukkot's unauthorised act, but Smotrich defended his party member, saying, \"These terrorist incitement (and memorial) infrastructures have existed for many years, just minutes away from Israeli cities,\" and characterising the memorials as \"terrorist monuments.\" Hyperallergic reports Netanyahu had not publicly responded to Smotrich's demand to dismantle the 40 memorials. The memorials commemorate Palestinians killed by Israel; Middle East Monitor, Middle East Eye and The Jerusalem Post carried the same demand and the Madama destruction.",
-   "outcome": "One memorial in Madama was destroyed on 25 August 2026; Smotrich has demanded the IDF dismantle 40 more within 24 hours. Netanyahu condemned the individual act but, as of reporting, had not responded to the broader demand, and no demolition of the 40 listed memorials had been reported. [FOLLOW-UP PENDING: whether the government orders or carries out demolition of the listed memorials.]",
+   "sort_date": "2026-08-25",
+   "description": "On 25 August 2026, Zvi Sukkot, a member of the Knesset for the Religious Zionist Party, was filmed striking a Palestinian memorial in the village of Madama (Kafr Madama), near Nablus in the occupied West Bank, with a sledgehammer. According to The New York Times, videos showed Israeli troops standing by as Sukkot attacked the monument, and the military said soldiers had stopped the demolition. The memorial's subject is described differently by the parties: Hyperallergic reported that the stone monument bore the names of Palestinians killed by Israel, while Middle East Eye and The Jerusalem Post reported — citing Israeli officials and a video Sukkot posted — that it commemorated Palestinians who had carried out attacks on Israelis. Middle East Eye reported that the Israeli military said the destruction \"was not approved through the proper channels,\" that its forces \"halted the demolition,\" and that \"Sukkot and his staff acted in a deceptive and manipulative manner,\" endangering soldiers, while also stating that its forces \"regularly destroy memorials and symbols of incitement,\" which it described as \"an important part of the war against terrorism.\" Per The Jerusalem Post, Sukkot defended the act on social media, saying \"every child who sees every day a giant monument that glorifies murderers of Jews will dream of being a terrorist,\" while Prime Minister Benjamin Netanyahu and other officials condemned it and Finance Minister Bezalel Smotrich initially rebuked Sukkot for acting without authorization.",
+   "outcome": "The Madama memorial was destroyed on 25 August 2026; the Israeli military said the act was unauthorized and that it halted the demolition, while stating that it routinely removes such memorials. Netanyahu and other officials condemned the act and Smotrich initially rebuked Sukkot. Days later Smotrich reversed course and demanded the military dismantle 40 further memorials — logged as ACI-373-A.",
    "tags": [
-    "Removal",
     "Iconoclasm",
+    "Removal",
+    "Political interference",
+    "Geopolitics",
+    "Historical erasure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The New York Times",
+    "Middle East Eye",
+    "Hyperallergic",
+    "The Jerusalem Post"
+   ],
+   "source": "https://www.middleeasteye.net/news/israeli-lawmaker-smashes-palestinian-memorial-occupied-west-bank",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
+    "https://hyperallergic.com/israels-smotrich-calls-to-destroy-40-palestinian-memorials-in-west-bank/",
+    "https://www.jpost.com/israel-news/politics-and-diplomacy/article-906518"
+   ],
+   "themes": [
+    6
+   ],
+   "notes": "New parent. Split during review (8 September 2026) from the original combined entry: this parent is the discrete 25 August act, and Finance Minister Smotrich's subsequent demand to demolish 40 further memorials is now the sub-entry ACI-373-A — a subsequent, broader development rather than a continuation of the single Madama monument's story. Governance: the acting figure is an Israeli lawmaker (Israel is a democracy); the memorial stood in the occupied West Bank under Israeli military administration. Neutrality: the memorial's subject is itself contested — Hyperallergic reports it named Palestinians killed by Israel, while Middle East Eye and The Jerusalem Post report Israeli officials' and Sukkot's characterization that it honored Palestinians who attacked Israelis — so both framings are attributed and the Index applies contest/act tags, not the 'Cultural property destruction' umbrella or heritage framing (CLAUDE.md §4). Note the contested account of the act itself: NYT reports troops stood by/escorted Sukkot, while the military says soldiers halted an unauthorized demolition. Sources: Middle East Eye and The Jerusalem Post retrieved full-text (IDF statement, Sukkot's justification, the Smotrich rebuke); NYT (Adam Rasgon, 25 Aug) pinned at metadata grade via the NYT API; Hyperallergic full-text. Cross-reference ACI-373-A and other top-down iconoclasm / monument-destruction cases.",
+   "interested_parties": "MK Zvi Sukkot (Religious Zionist Party); Israel Defense Forces; PM Benjamin Netanyahu; Foreign Minister Gideon Sa'ar; Finance Minister Bezalel Smotrich; RZP MK Ohad Tal; residents of Madama village",
+   "coverage_geography": "Israel, Palestinian Territories, Middle East, international",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-373-A",
+   "entry_id": "373-A",
+   "seq": 681,
+   "title": "Palestinian memorials: Smotrich demands military demolish 40 more after Madama monument destroyed",
+   "artist": "N/A (Palestinian memorials, occupied West Bank)",
+   "institution": "40 Palestinian memorials listed by the finance minister, occupied West Bank",
+   "country": "Occupied West Bank (Palestinian Territories) / Israel",
+   "governance_type": "Democracy",
+   "date_controversy": "Smotrich demand reported around 31 August 2026 (following the 25 August Madama destruction)",
+   "date_discovered": "2026-09-03",
+   "sort_date": "2026-08-31",
+   "description": "Following the 25 August 2026 destruction of a Palestinian memorial in Madama (see ACI-373), Israel's finance minister, Bezalel Smotrich, sent Prime Minister Benjamin Netanyahu a letter — reported by Middle East Monitor as issued around 31 August 2026 — demanding that the Israel Defense Forces dismantle 40 Palestinian memorials across the occupied West Bank within 24 hours, attaching a table listing all 40, according to Hyperallergic. Per Hyperallergic, Smotrich defended his party colleague Sukkot and characterized the memorials as \"terrorist incitement (and memorial) infrastructures\" situated \"just minutes away from Israeli cities,\" arguing that insufficient work was being done to eliminate them. Middle East Monitor reported that Smotrich framed the removals as asserting \"state sovereignty\" against what he called an \"infrastructure of terrorism and incitement,\" and that his attached list identified memorials he said commemorate Palestinians involved in attacks on Israelis. Both outlets reported that Netanyahu had not publicly responded to the demand.",
+   "outcome": "Smotrich has demanded the IDF dismantle 40 listed Palestinian memorials within 24 hours; as of reporting, Netanyahu had not publicly responded and no demolition of the 40 had been reported. [FOLLOW-UP PENDING: whether the government orders or carries out demolition of the listed memorials.]",
+   "tags": [
     "Demolition",
+    "Iconoclasm",
     "Political interference",
     "Geopolitics",
     "Historical erasure"
@@ -20895,21 +20937,17 @@
    "coverage_tier": "International",
    "outlets": [
     "Hyperallergic",
-    "Middle East Monitor",
-    "Middle East Eye",
-    "The Jerusalem Post"
+    "Middle East Monitor"
    ],
    "source": "https://hyperallergic.com/israels-smotrich-calls-to-destroy-40-palestinian-memorials-in-west-bank/",
    "additional_sources": [
-    "https://www.middleeastmonitor.com/20260831-smotrich-calls-for-removal-of-40-palestinian-memorials-in-west-bank-within-24-hours/",
-    "https://www.middleeasteye.net/news/israeli-lawmaker-smashes-palestinian-memorial-occupied-west-bank",
-    "https://www.jpost.com/israel-news/politics-and-diplomacy/article-906518"
+    "https://www.middleeastmonitor.com/20260831-smotrich-calls-for-removal-of-40-palestinian-memorials-in-west-bank-within-24-hours/"
    ],
    "themes": [
     6
    ],
-   "notes": "New parent. Governance annotation: the acting authority is Israel (a democracy); the memorials stand in the occupied West Bank under Israeli military administration. Neutrality: the status of these memorials is itself contested — Israeli officials frame them as \"terrorist\" incitement while Palestinians treat them as commemoration of the dead — so, per the cultural-property tagging discipline (CLAUDE.md §4), the Index does not apply the \"Cultural property destruction\" umbrella or heritage framing to a contested political monument, and attributes all characterisations to their sources. Reference source Hyperallergic, retrieved full-text this run; Smotrich quotes are carried by Hyperallergic. Corroborated at snippet grade by Middle East Monitor, Middle East Eye and The Jerusalem Post. Cross-reference other top-down iconoclasm / monument-destruction cases in the Index.",
-   "interested_parties": "Finance Minister Bezalel Smotrich (Religious Zionist Party); MK Zvi Sukkot; PM Benjamin Netanyahu; Israel Defense Forces; residents of Madama village",
+   "notes": "Sub-entry of ACI-373 (Sukkot's 25 August Madama memorial destruction), created during review 8 September 2026. The escalation: after the Madama act — which Smotrich initially rebuked — the finance minister days later demanded the military dismantle 40 further memorials, a subsequent and broader development rather than a continuation of the single Madama monument's story. Note the shift from rebuke (see parent) to this formal demand. Governance/neutrality annotation as in the parent: contested political monuments, all characterizations attributed to their sources, contest/act tags only. Reference source Hyperallergic (full-text; carries Smotrich's quoted words); corroborated full-text by Middle East Monitor.",
+   "interested_parties": "Finance Minister Bezalel Smotrich (Religious Zionist Party); MK Zvi Sukkot; PM Benjamin Netanyahu; Israel Defense Forces",
    "coverage_geography": "Israel, Palestinian Territories, Middle East, international",
    "follow_up_pending": true
   }
