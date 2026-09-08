@@ -40,6 +40,7 @@ DOMAIN_TO_OUTLET = {
     "sanfernandosun.com": "San Fernando Valley Sun",
     "middleeasteye.net": "Middle East Eye",
     "nytimes.com": "New York Times",
+    "nbcnews.com": "NBC News",
     "washingtonpost.com": "Washington Post",
     "theguardian.com": "The Guardian",
     "bbc.com": "BBC",

@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 646
+  "total_cases": 649
  },
  "cases": [
   {
@@ -20957,6 +20957,107 @@
    "notes": "New parent, borderline: a one-sided law-enforcement seizure rather than a contested dispute with named opposing parties, logged as a cultural-property-trafficking / repatriation cluster anchor per the CLAUDE.md dragnet term 'antiquities seized.' The ICE press release is the primary source and a participant in the action -- promotional in tone (an HSI agent is quoted marvelling at handling the objects) -- so the Index reports the seizure factually and does not adopt ICE's framing. Thin: ICE and ARTnews carry the same figures; reported speech only, no direct quotes. Flagged for review.",
    "interested_parties": "US Homeland Security Investigations (HSI Tampa); HSI Cultural Property, Art and Antiquities program; US Customs and Border Protection; (unnamed) source countries",
    "coverage_geography": "US, source countries",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-381",
+   "entry_id": "381",
+   "seq": 683,
+   "title": "Four paintings stolen from Musée Renoir in Cagnes-sur-Mer; two recovered, two still missing",
+   "artist": "Pierre-Auguste Renoir",
+   "institution": "Musée Renoir, Cagnes-sur-Mer",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Theft on September 8, 2026",
+   "date_discovered": "2026-09-08",
+   "sort_date": "2026-09-08",
+   "description": "Thieves broke into the Musée Renoir in Cagnes-sur-Mer, on the French Riviera, shortly before 6 a.m. on September 8, 2026, entering through a hole cut in a garden fence, according to NBC News. NBC News reports that the museum's alarm triggered at 5:48 a.m. and police arrived within about five minutes, prompting the intruders to abandon two of the four canvases they had taken in the gardens as they fled; two paintings remained missing and the suspects at large. The museum, opened in 1960 in Renoir's former mansion (Les Collettes), holds 13 paintings by the artist alongside some 40 sculptures, furniture and photographs. Mayor Bryan Masson said, 'Attacking the Renoir museum is attacking a part of the history and heritage of Cagnes-sur-Mer,' per NBC News, which also notes Europol's finding that European art thieves increasingly use violent methods and ad-hoc recruitment via social media.",
+   "outcome": "Two of the four stolen paintings were recovered in the museum's gardens during the escape; two remain missing and the investigation is ongoing, with no arrests reported in the retrieved coverage. [FOLLOW-UP PENDING: recovery of the two missing paintings and any arrests.]",
+   "tags": [
+    "Security failure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "NBC News"
+   ],
+   "source": "https://www.nbcnews.com/world/europe/thieves-steal-three-paintings-french-rivieras-renoir-museum-rcna596540",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Major museum theft in the pattern tracked at ACI-002 (Louvre heist); part of a 2026 wave of thefts from European museums and collections. NBC News cites Europol on the changing profile of European art theft.",
+   "interested_parties": "Musée Renoir; Mayor Bryan Masson (Cagnes-sur-Mer); French police",
+   "coverage_geography": "France, US, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-382",
+   "entry_id": "382",
+   "seq": 684,
+   "title": "Pitt Rivers Museum to return 39 Naga human remains in its largest repatriation of remains",
+   "artist": "N/A",
+   "institution": "Pitt Rivers Museum, University of Oxford",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Return approved July 2026; announced September 2026; handover scheduled by end of 2026",
+   "date_discovered": "2026-09-08",
+   "sort_date": "2026-09-08",
+   "description": "The Pitt Rivers Museum at the University of Oxford will return 39 pieces of Naga human remains, primarily skulls, to the Indigenous Naga people of Nagaland, in northeastern India, in what it describes as its largest repatriation of human remains, according to The Art Newspaper. The Art Newspaper reports that the claim was submitted in February 2026 by the Forum for Naga Reconciliation, an association of 39 Naga organisations, and approved by the Oxford University Council in July 2026, with the handover scheduled by the end of 2026; one further remain was not included because of unclear provenance. The remains were collected by the colonial administrators John Henry Hutton and James Philip Mills between about 1910 and 1940, and the Pitt Rivers holds the world's largest collection of Naga material. The museum's director, Laura Van Broekhoven, called it 'the largest repatriation of human remains from the museum' and described it as part of a 'Naga-wide movement of healing and unification,' per The Art Newspaper.",
+   "outcome": "The return was approved by the Oxford University Council in July 2026 and is scheduled to be completed by the end of 2026; one further remain was excluded because of unclear provenance. [FOLLOW-UP PENDING: completion of the physical handover to the Naga.]",
+   "tags": [
+    "Repatriation",
+    "Indigenous rights"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper",
+    "The New York Times"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/08/englands-pitt-rivers-museum-announces-its-largest-repatriation-of-human-remains",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/09/05/world/asia/museum-britain-naga-human-remains.html"
+   ],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "Colonial-era ethnographic collection (Hutton and Mills, c.1910-1940) returned through the Naga reconciliation movement; part of the Index's repatriation/human-remains cluster.",
+   "interested_parties": "Pitt Rivers Museum; University of Oxford (director Laura Van Broekhoven); Forum for Naga Reconciliation",
+   "coverage_geography": "UK, US, India, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-383",
+   "entry_id": "383",
+   "seq": 685,
+   "title": "Greece rejects loan of Parthenon fragments to Frankfurt show over British Museum's involvement",
+   "artist": "N/A",
+   "institution": "Acropolis Museum, Athens; Liebieghaus Sculpture Collection, Frankfurt",
+   "country": "Greece",
+   "governance_type": "Democracy",
+   "date_controversy": "Loan request rejected September 8, 2026; exhibition opens November 18, 2026",
+   "date_discovered": "2026-09-08",
+   "sort_date": "2026-09-08",
+   "description": "Greece's Central Archaeological Council rejected, on September 8, 2026, a request from Frankfurt's Liebieghaus Sculpture Collection to borrow nine fragments of the Parthenon sculptures from Athens for the exhibition 'Athena, the Stage is Yours: the Parthenon Puzzle,' which opens on November 18, 2026, according to The Art Newspaper. The Art Newspaper reports that the council refused the loan because the Greek-held fragments would have been displayed alongside two Parthenon fragments the Liebieghaus had secured on loan from the British Museum — pieces removed from the Acropolis by Lord Elgin in the 19th century — and that showing them together risked being read as tacit recognition of British ownership, which Greece contests as it seeks the sculptures' reunification in Athens. A Liebieghaus spokesperson, Elisabeth Pallentin, said 'The cancellation of the loans from Greece does not detract from the exhibition's concept, or its scholarly significance,' and the curator Vinzenz Brinkmann likened the project to 'putting together a jigsaw puzzle without having all the pieces,' per The Art Newspaper, which reports the British Museum said it would still lend its fragments.",
+   "outcome": "Greece declined the loan; the Liebieghaus exhibition is set to proceed with British Museum loans but without the Athens fragments. The underlying reunification dispute over the Parthenon sculptures remains unresolved. [FOLLOW-UP PENDING: the exhibition's November 18 opening and any further Greek, German, or British response.]",
+   "tags": [
+    "Repatriation",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/08/greece-rejects-parthenon-marbles-loan-request-from-frankfurt-due-to-british-museum-involvement-reports-say",
+   "additional_sources": [],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "Connects to the Index's Parthenon Marbles thread (see ACI-361; ACI-117-A) — universal-museum standing and the Greek reunification claim.",
+   "interested_parties": "Greek Central Archaeological Council; Acropolis Museum; Liebieghaus Sculpture Collection (Elisabeth Pallentin; Vinzenz Brinkmann); British Museum",
+   "coverage_geography": "Greece, Germany, UK, international",
    "follow_up_pending": true
   }
  ]
