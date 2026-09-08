@@ -1,3 +1,7 @@
+[build]
+  command = "python3 scan/build_public.py"
+  publish = "dist"
+
 [[redirects]]
   from = "https://dissensusindex.org/*"
   to = "https://dissensusindex.com/:splat"

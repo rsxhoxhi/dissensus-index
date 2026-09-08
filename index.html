@@ -101,13 +101,11 @@ async function loadData() {
 
   // Stats
   const litigation = allCases.filter(c => c.court_case === 'Yes' || c.court_case === 'Pending').length;
-  const followUp = allCases.filter(c => c.follow_up_pending === true).length;
   const intl = allCases.filter(c => c.coverage_tier === 'International').length;
   const countries = new Set(allCases.flatMap(c => (c.country || '').split('/').map(s => s.trim()).filter(Boolean))).size;
   document.getElementById('stats-row').innerHTML = `
     <div class="stat"><div class="stat-label">Cases tracked</div><div class="stat-value">${allCases.length}</div></div>
     <div class="stat"><div class="stat-label">In litigation</div><div class="stat-value">${litigation}</div></div>
-    <div class="stat"><div class="stat-label">Awaiting developments</div><div class="stat-value">${followUp}</div></div>
     <div class="stat"><div class="stat-label">International coverage</div><div class="stat-value">${intl}</div></div>
     <div class="stat"><div class="stat-label">Countries represented</div><div class="stat-value">${countries}</div></div>
   `;
