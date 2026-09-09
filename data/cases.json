@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 646
+  "total_cases": 651
  },
  "cases": [
   {
@@ -12956,6 +12956,41 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-036-AB",
+   "entry_id": "036-AB",
+   "seq": 685,
+   "title": "Hungary: Magyar government scraps Orbán-era New National Gallery in Budapest's City Park",
+   "artist": "N/A",
+   "institution": "New National Gallery / Liget Budapest project, Városliget (City Park), Budapest",
+   "country": "Hungary",
+   "governance_type": "Democracy",
+   "date_controversy": "Decree ending Liget construction June 18, 2026; reported by The Art Newspaper September 8, 2026",
+   "date_discovered": "2026-09-09",
+   "sort_date": "2026-06-18",
+   "description": "Hungary's new government has cancelled the planned New National Gallery, a centerpiece of the decade-long Liget Budapest development in Budapest's City Park (Városliget), according to The Art Newspaper. The gallery was designed by the Japanese architecture firm SANAA. The project had been driven under Viktor Orbán's previous government and championed by László Baán, director-general of the Hungarian National Gallery and the Museum of Fine Arts (Szépművészeti Múzeum). The Art Newspaper reports that the administration of Prime Minister Péter Magyar, in power since May 2026, issued a decree on 18 June ending all Liget construction work, and that Transport and Public Works Minister Dávid Vitézy indicated the gallery would not be built in City Park and that a professional review would determine an alternative location. The Art Newspaper puts the project's cost at roughly 100 billion forints (about €300 million) and reports that arts figures including Tamás Don, president of AICA Hungary, and the gallerist Erika Deák, as well as Budapest's mayor and environmental groups, have been among the interested parties in the long-contested City Park scheme.",
+   "outcome": "The New National Gallery will not be built in City Park; a professional review is to determine an alternative location, according to The Art Newspaper. [FOLLOW-UP PENDING: where, if anywhere, the National Gallery is relocated, and the fate of the SANAA design.]",
+   "tags": [
+    "Design controversy",
+    "Community objection",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/08/hungary-new-government-scraps-national-gallery-plans",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-036 (post-Orbán de-politicization of Hungarian cultural institutions); the first entry in the cluster on the Liget Budapest megaproject specifically (dedup: no prior Liget/City Park/Baán entry in the union). The Art Newspaper is the full-text reference; the underlying decree is dated 18 June 2026 (used as sort_date) and surfaced in TAN's 8 September English coverage. Vitézy's rationale is paraphrased in reported speech; the retrieved summary was internally ambiguous on his exact wording, so no direct quote is carried — enrich with Hungarian-language sourcing (Magyar/telex/hvg) on a future Europe trawl. Governance-friction / de-Orbánization frame: a new government cancelling a predecessor's flagship cultural-building project.",
+   "interested_parties": "PM Péter Magyar (government since May 2026); Transport and Public Works Minister Dávid Vitézy; László Baán (director-general, Hungarian National Gallery and Museum of Fine Arts); SANAA (architects); Tamás Don (AICA Hungary); Erika Deák (gallerist); Budapest municipal government; environmental groups; former PM Viktor Orbán (project's originator)",
+   "coverage_geography": "Hungary, Europe",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-035",
    "entry_id": "035",
    "seq": 50,
@@ -14471,6 +14506,44 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-012-P",
+   "entry_id": "012-P",
+   "seq": 683,
+   "title": "Smithsonian: Secretary Lonnie Bunch to depart by the end of 2026 amid Trump pressure",
+   "artist": "N/A",
+   "institution": "Smithsonian Institution",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Departure announced September 8, 2026",
+   "date_discovered": "2026-09-09",
+   "sort_date": "2026-09-08",
+   "description": "Lonnie G. Bunch III, the 14th Secretary of the Smithsonian Institution, announced that he will leave his post by the end of 2026, according to Hyperallergic. Bunch, appointed Secretary in June 2019, was the first Black American and the first historian to lead the institution; his more than three decades at the Smithsonian included serving as founding director of the National Museum of African American History and Culture. In a statement to Hyperallergic, Bunch said he was departing with “very mixed emotions and heartfelt gratitude,” adding, “I leave with pride and sadness, gratitude and joy, and with enormous confidence in the people who will carry this remarkable institution forward.” Hyperallergic reports the departure follows sustained pressure from the Trump administration, which has accused the Smithsonian of an excessive focus on the history of slavery and of a liberal, anti-American bias, and has sought to shape how the institution presents American history. The New York Times, in reporting his departure, said Bunch had faced a “mounting pressure campaign.”",
+   "outcome": "Bunch will step down by the end of 2026; the process for naming a successor was not detailed in the retrieved coverage. [FOLLOW-UP PENDING: who succeeds Bunch and whether the administration shapes the selection of the next Secretary.]",
+   "tags": [
+    "Political interference",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic",
+    "NYT"
+   ],
+   "source": "https://hyperallergic.com/smithsonian-secretary-lonnie-bunch-steps-down-amid-trumps-attacks/",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-lonnie-bunch-departure-reaction.html"
+   ],
+   "themes": [
+    2,
+    4,
+    5
+   ],
+   "notes": "Sub-entry of ACI-012 (Smithsonian under 2025 Trump pressure). New development: the Secretary's announced departure by year's end amid the administration's campaign over how the Smithsonian presents American history; follows ACI-012-O (federal officials threaten to withhold agency support), ACI-012-J (warning signs ordered outside the American History Museum) and relates to ACI-339 (Latino museum siting). Hyperallergic is the full-text reference; the direct quotes are from the Hyperallergic statement. The New York Times “mounting pressure campaign” framing is cited at metadata grade (NYT API abstract), not from a full-text read. Governance-friction / anticipatory-obedience frame: leadership departing a federal cultural institution under political pressure.",
+   "interested_parties": "Lonnie G. Bunch III (14th Secretary, Smithsonian Institution); President Donald Trump; the Trump administration; the Smithsonian Board of Regents",
+   "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-011",
    "entry_id": "011",
    "seq": 10,
@@ -15659,6 +15732,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BB",
+   "entry_id": "005-BB",
+   "seq": 684,
+   "title": "Kennedy Center: ousted chairman David Rubenstein buys removed Shapiro 'Blue' sculpture for $2m",
+   "artist": "Joel Shapiro",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Purchase reported September 8, 2026",
+   "date_discovered": "2026-09-09",
+   "sort_date": "2026-09-08",
+   "description": "David Rubenstein, who was ousted as chairman of the Kennedy Center's board by President Trump in February 2025 along with other Biden appointees, has bought Joel Shapiro's “Blue” (2019) for $2 million and plans to install it in the sculpture garden at the National Gallery of Art, according to Hyperallergic. “Blue,” a 24-foot sculpture, had been gifted by Shapiro to the Kennedy Center's REACH campus when it opened in 2019, and was removed by the National Park Service on 2 September 2026 (see ACI-005-AZ). Hyperallergic reports the removal occurred amid renewed attempts to place Trump's name on the Kennedy Center facade and grounds and drew criticism from artists and organizations, including the advocacy group Hands Off the Arts. Shapiro died in 2025; the Joel Shapiro and Ellen Phelan Foundation represents his estate.",
+   "outcome": "Rubenstein has purchased the removed sculpture for $2 million and plans to install it at the National Gallery of Art. [FOLLOW-UP PENDING: whether 'Blue' is installed at the National Gallery, and whether other donated works are removed from the Kennedy Center.]",
+   "tags": [
+    "Removal",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/trump-ousted-kennedy-center-chairman-buys-removed-shapiro-sculpture/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center under the 2025 takeover) and a direct follow-on to ACI-005-AZ (the 2 September 2026 removal of Shapiro's 'Blue'). David Rubenstein, ousted as board chair in February 2025, acquires the removed work for $2m and intends it for the National Gallery of Art sculpture garden. Hyperallergic is the full-text reference; the article carries no direct quotes about the purchase, so this entry is reported speech only.",
+   "interested_parties": "David Rubenstein (ousted Kennedy Center board chairman); Joel Shapiro (1941-2025) and the Joel Shapiro and Ellen Phelan Foundation; National Park Service; National Gallery of Art; Hands Off the Arts; President Donald Trump",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -15949,6 +16056,45 @@
    ],
    "notes": "Escalation within the ACI-046 Reflecting Pool cluster; follows ACI-046-P (prosecutors drop the vandalism cases, 31 July–early Aug 2026), ACI-046-N (Trump/DOJ concede contractor error, no proof of vandalism) and ACI-046-O (Interior IG review). Interested party David Hearn is a former Olympic canoeist. Full text and quotes retrieved from WTOP (cited as source). The maintainer-supplied Washington Post report is the originating coverage; automated fetch returned 403, but it surfaced in this run's search results and the maintainer confirmed a full read, so it is cited as an additional source. The Hill and Courthouse News also covered it but returned 403 to automated fetch this run. Ties the pool-failure conservation dispute to a political-interference/oversight axis (the $15M no-bid contract and alleged White House involvement in the charging decision).",
    "interested_parties": "Rep. Jamie Raskin (ranking Democrat, House Judiciary Committee); U.S. Attorney Jeanine Pirro (DC); Interior Secretary Doug Burgum; David Hearn (former Olympic canoeist); the White House",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-046-R",
+   "entry_id": "046-R",
+   "seq": 686,
+   "title": "Reflecting Pool: judge weighs whether to bar re-prosecution in the dropped Hearn vandalism case",
+   "artist": "N/A",
+   "institution": "Lincoln Memorial Reflecting Pool, National Mall, Washington, D.C.",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Hearing September 4, 2026",
+   "date_discovered": "2026-09-09",
+   "sort_date": "2026-09-04",
+   "description": "At a hearing on 4 September 2026, a federal judge weighed how to dismiss the vandalism indictment against David Hearn, the former Olympic canoeist charged over damage to the renovated Lincoln Memorial Reflecting Pool, according to CNBC and ABC News. Prosecutors led by U.S. Attorney for the District of Columbia Jeanine Pirro had moved in late July 2026 to drop the case, attributing the damage to a botched installation by the contractor rather than to vandalism, and sought dismissal without prejudice, which would leave open the possibility of re-charging Hearn. CNBC and ABC News report the judge weighed dismissal with prejudice — which would bar re-prosecution — and questioned the prospect of re-prosecution; ABC News reports the judge indicated the administration's pressure campaign could permanently sink the case. The judge said a ruling would come soon.",
+   "outcome": "The court has not yet ruled on whether to dismiss the indictment with or without prejudice; a decision is expected soon. [FOLLOW-UP PENDING: whether the court dismisses with prejudice, barring any re-prosecution of Hearn, or without.]",
+   "tags": [
+    "Legal challenge",
+    "Political interference",
+    "Conservation"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "CNBC",
+    "ABC News"
+   ],
+   "source": "https://www.cnbc.com/2026/09/04/reflecting-pool-hearn-doj-trump-pirro.html",
+   "additional_sources": [
+    "https://abcnews.go.com/Politics/judge-trumps-pressure-campaign-permanently-sink-reflecting-pool/story?id=136210636"
+   ],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-046 (Reflecting Pool renovation and its aftermath); follows ACI-046-P (prosecutors drop the vandalism cases) and ACI-046-Q (House Judiciary records demand). Thin, metadata grade: CNBC and ABC News surfaced in this run's search results but automated full-text fetch was blocked (CNBC and The Hill returned 403); reported speech only, no direct quotes — enrich with full text on a future pass. The open question is judicial: whether the dismissal bars re-prosecution. Flagged for review as a thin hearing-stage update.",
+   "interested_parties": "David Hearn (former Olympic canoeist); U.S. Attorney Jeanine Pirro (DC); the presiding federal judge; the Trump administration",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
@@ -20957,6 +21103,44 @@
    "notes": "New parent, borderline: a one-sided law-enforcement seizure rather than a contested dispute with named opposing parties, logged as a cultural-property-trafficking / repatriation cluster anchor per the CLAUDE.md dragnet term 'antiquities seized.' The ICE press release is the primary source and a participant in the action -- promotional in tone (an HSI agent is quoted marvelling at handling the objects) -- so the Index reports the seizure factually and does not adopt ICE's framing. Thin: ICE and ARTnews carry the same figures; reported speech only, no direct quotes. Flagged for review.",
    "interested_parties": "US Homeland Security Investigations (HSI Tampa); HSI Cultural Property, Art and Antiquities program; US Customs and Border Protection; (unnamed) source countries",
    "coverage_geography": "US, source countries",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-384",
+   "entry_id": "384",
+   "seq": 687,
+   "title": "Paris court acquits Kamel Daoud of defaming 'Houris' inspiration Saâda Arbane",
+   "artist": "Kamel Daoud",
+   "institution": "Éditions Gallimard (publisher); Paris Correctional Court",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Acquittal September 8, 2026",
+   "date_discovered": "2026-09-09",
+   "sort_date": "2026-09-08",
+   "description": "On 8 September 2026 the Paris Correctional Court acquitted (relaxé) the Franco-Algerian writer Kamel Daoud in a defamation suit brought by Saâda Arbane, according to TSA Algérie. The court found that Arbane was not identifiable in the statements at issue and that defamation was not established; deeming the prosecution manifestly unfounded, it ordered Arbane to pay Daoud one euro in symbolic damages and 1,500 euros to the publication director of Le Figaro. TSA Algérie reports the suit concerned remarks Daoud made in an April 2025 interview with Le Figaro, and that this defamation case is separate from Arbane's ongoing privacy claim. Arbane, a survivor of a 1990s Algerian civil-war massacre, contends that Daoud — through his psychiatrist wife — used details of her life without consent to construct the character Aube in his Prix Goncourt 2024 novel Houris, published by Gallimard; that privacy suit against Daoud and Gallimard remains pending. TSA Algérie reports that in Algeria, where Houris is banned, Arbane's lawyers filed complaints in Oran in November 2024 and that Daoud was sentenced in absentia in April 2026 to three years in prison and a five-million-dinar fine.",
+   "outcome": "Daoud was acquitted of defamation and awarded symbolic damages; Arbane's separate privacy suit over the character Aube in Houris, against Daoud and Gallimard, remains pending, as do proceedings in Algeria. [FOLLOW-UP PENDING: the outcome of the Paris privacy suit over Houris and the Algerian proceedings against Daoud.]",
+   "tags": [
+    "Defamation",
+    "Legal challenge",
+    "Censorship"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "TSA Algerie",
+    "ActuaLitte"
+   ],
+   "source": "https://www.tsa-algerie.com/france-poursuivi-pour-diffamation-par-saada-arbane-kamel-daoud-relaxe/",
+   "additional_sources": [
+    "https://actualitte.com/article/133760/droit-justice/kamel-daoud-relaxe-en-diffamation-face-a-saada-arbane-l-affaire-houris-continue"
+   ],
+   "themes": [
+    8,
+    11
+   ],
+   "notes": "New parent. A Franco-Algerian cultural and legal controversy over Kamel Daoud's Prix Goncourt 2024 novel Houris and whether it used Saâda Arbane's life story without consent (themes 8 Artist Responsibility, 11 Authorship & Appropriation). Governance-friction frame: Daoud is acquitted of defamation in France (democracy) while Houris is banned and he is prosecuted in Algeria (authoritarian). TSA Algérie is the full-text reference; ActuaLitté corroborates at snippet grade. Reported speech, no direct quotes. The Algerian in-absentia sentence and the ongoing Paris privacy suit are carried by TSA Algérie. Scope note: a literary/authorship dispute — flagged for review. Le Monde and Le Figaro carried it but automated fetch of Le Monde was blocked this run; enrich on a future Europe trawl.",
+   "interested_parties": "Kamel Daoud (writer); Saâda Arbane (plaintiff, massacre survivor); Éditions Gallimard (publisher of Houris); Le Figaro (its publication director awarded damages); Paris Correctional Court; Algerian courts (Oran)",
+   "coverage_geography": "France, Algeria, Maghreb",
    "follow_up_pending": true
   }
  ]
