@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 646
+  "total_cases": 648
  },
  "cases": [
   {
@@ -16082,6 +16082,42 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-038-S",
+   "entry_id": "038-S",
+   "seq": 692,
+   "title": "Trump Triumphal Arch: administration targets November for final federal approval",
+   "artist": "N/A",
+   "institution": "Memorial Circle, Arlington Memorial Bridge approach, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported September 9, 2026",
+   "date_discovered": "2026-09-10",
+   "sort_date": "2026-09-09",
+   "description": "The Washington Post reported on 9 September 2026 that Trump administration officials are targeting November for final federal approval of the proposed roughly 250-foot triumphal arch at Memorial Circle, near the Arlington Memorial Bridge approach. This entry is drawn from the Post's headline and search-result summary only: the Post's site blocked automated full-text retrieval this run and no other outlet was reachable to corroborate or expand on the November timeline, as web search was unavailable during the run.",
+   "outcome": "Administration officials are reported to be aiming for final approval in November 2026; the federal design-review approvals (Commission of Fine Arts / National Capital Planning Commission) and, opponents argue, congressional authorization remain outstanding, and the separate excavation litigation (see ACI-038-R) is ongoing. [FOLLOW-UP PENDING: whether final approval is granted in November 2026 and the outcome of the excavation lawsuit.]",
+   "tags": [
+    "Design controversy",
+    "Landmark dispute",
+    "Architectural preservation"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Washington Post"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2026/09/09/trump-officials-expect-final-approval-massive-arch-november/",
+   "additional_sources": [],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038; updates ACI-038-R (the September excavation dispute). THIN / SINGLE-SOURCE: rests solely on the Washington Post's 9 September 2026 headline and its search-result snippet — WaPo blocks automated full-text fetch and web search was unavailable this run, so the November timeline could not be read in full or corroborated. No quotes. Flagged for enrichment/verification on review.",
+   "interested_parties": "Trump administration; National Capital Planning Commission; Commission of Fine Arts",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-007-F",
    "entry_id": "007-F",
    "seq": 466,
@@ -18537,7 +18573,7 @@
    "date_discovered": "2026-08-12",
    "sort_date": "2026-08-11",
    "description": "On 7 August 2026 the Victoria and Albert Museum notified staff it would change its policy and grant collections access officers at its East Storehouse site two paid customary breaks a day, the central demand behind an earlier strike ballot in which Prospect union members voted overwhelmingly for industrial action over what the union called Amazon-style working conditions. The officers, who facilitate the storehouse's order-an-object public access service, had said they were allowed only one break during long shifts of manual work and were denied adequate time for toilet or hydration breaks during a heatwave, with one worker reported to have fainted. Prospect general secretary Mike Clancy said, \"This is a great result for our members but it really shouldn't have taken the threat of strike action for V&A to grant this reasonable request.\" The union said strike action would nonetheless still go ahead over unresolved wider claims on pay, terms and conditions; the museum's offer was reported as a 3.6 percent increase to its overall pay bill, with the lowest-paid staff receiving 6.9 percent and the V&A stating it maintains a commitment to at least the London Living Wage. A separate Public and Commercial Services (PCS) union ballot of museum workers was also under way. Sub-entry of ACI-284; follows ACI-284-A (the Prospect strike vote).",
-   "outcome": "V&A conceded the two-paid-breaks demand on 7 August 2026; Prospect said industrial action would still proceed over pay and other terms, with no strike dates yet announced. [FOLLOW-UP PENDING: strike dates and the outcome of the pay dispute; the separate PCS ballot.]",
+   "outcome": "V&A conceded the two-paid-breaks demand on 7 August 2026; Prospect said industrial action would still proceed over pay and other terms. The strike subsequently went ahead on 4–5 September 2026 across the V&A East sites and the Young V&A (see ACI-284-C). [FOLLOW-UP PENDING: resolution of the pay dispute.]",
    "tags": "Labor dispute, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "National",
@@ -18552,6 +18588,37 @@
    "themes": [],
    "notes": "Update to ACI-284 / ACI-284-A (V&A pay-and-conditions dispute). Full text and the Mike Clancy quote retrieved this run from the Museums Association trade report (cited as source); Artforum's 12 August report ('V&A Museum Announces New Break Policy in Response to Union Pressure') corroborates and is listed as an additional source (retrieved via search-result snippet). The Evening Standard also covered the story (standard.co.uk) — flagged by the maintainer but not citable here, as that domain is blocked to this run's automated retrieval. ARTnews carried it too ('V&A Changes Paid Break Policy…', seen via RSS headline; site bot-walled). Pay figures are the museum's reported offer; the union is pressing for more.",
    "interested_parties": "Prospect union; Mike Clancy (Prospect general secretary); V&A management; PCS union",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-284-C",
+   "entry_id": "284-C",
+   "seq": 691,
+   "title": "V&A: staff strike shuts East Museum, East Storehouse and Young V&A over pay and conditions",
+   "artist": "N/A",
+   "institution": "Victoria and Albert Museum (East Museum, East Storehouse, Young V&A), London",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Two-day strike, September 4–5, 2026",
+   "date_discovered": "2026-09-10",
+   "sort_date": "2026-09-05",
+   "description": "Unionised staff at the Victoria and Albert Museum staged a two-day strike on 4–5 September 2026 that shut three of the museum's sites — the East Museum, the East Storehouse and the Young V&A in Bethnal Green — according to Hyperallergic. The report says members of Prospect's heritage division and the Public and Commercial Services (PCS) union walked out over pay and working conditions, with roughly 700 staff — described as more than half the workforce — taking part, and that the V&A closed the three locations for the duration of the action. Workers' demands, per the report, included fair pay and access to water, citing what the unions called \"Amazon-style\" working conditions. Hyperallergic quotes Paula Lamont, Prospect's national secretary for heritage: \"The decision to close three V&A sites underlines the point we have been making; our members are critical to the operation of the museum.\" The report adds that union leaders signalled willingness to hold further strikes, potentially including the flagship South Kensington site.",
+   "outcome": "The three sites closed for the two-day strike; the pay-and-conditions dispute is unresolved and the unions have signalled possible further action, potentially at the South Kensington flagship. [FOLLOW-UP PENDING: resolution of the pay-and-conditions dispute and whether further strikes, including at South Kensington, go ahead.]",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/striking-workers-shutter-three-v-a-london-locations/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Sub-entry of ACI-284; follows ACI-284-B (the 7 August break-policy concession, with strike still threatened over pay). Resolves the 284 family's [FOLLOW-UP PENDING: strike dates] — the strike went ahead 4–5 September 2026 across the V&A East sites and the Young V&A, with Prospect and PCS members participating. Drafted from the Hyperallergic full-text report (cited as source); the Lamont quote is verbatim from that article. Single-source this run — WebSearch was unavailable for corroboration; enrich on a UK/Europe trawl.",
+   "interested_parties": "Prospect union (heritage division); Paula Lamont (Prospect national secretary for heritage); Public and Commercial Services (PCS) union; V&A management",
    "coverage_geography": "UK",
    "follow_up_pending": true
   },
