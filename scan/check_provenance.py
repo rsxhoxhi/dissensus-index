@@ -147,6 +147,8 @@ DOMAIN_TO_OUTLET = {
     "interpressnews.ge": "InterPressNews",
     "wjla.com": "WJLA",
     "ice.gov": "ICE",
+    "akp.gov.kh": "Agence Kampuchea Presse",
+    "elespanol.com": "El Español",
 }
 
 ALIASES = {

@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 646
+  "total_cases": 649
  },
  "cases": [
   {
@@ -3022,6 +3022,44 @@
    "notes": "Sub-entry of ACI-154. Status update: the physical transfer following the resolved French legal challenge (ACI-154-A). Conservation-risk concerns noted in general terms; a specific named criticism seen in one retrieved summary could not be reliably verified and is omitted. TAN fetched directly; NYT captured via API metadata (headline/abstract) this run.",
    "interested_parties": "British Museum; Bayeux Museum; French state; Metropolitan Police; Kent Police",
    "coverage_geography": "UK, France, US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-154-C",
+   "entry_id": "154-C",
+   "seq": 684,
+   "title": "Bayeux Tapestry: British Museum sponsor Igor Tulchinsky faces scrutiny over Israel/IDF ties",
+   "artist": "Igor Tulchinsky (WorldQuant)",
+   "institution": "British Museum",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Sponsorship announced 2 March 2026; exhibition opened 9 September 2026; scrutiny reported September 2026",
+   "date_discovered": "2026-09-11",
+   "sort_date": "2026-09-11",
+   "description": "The British Museum's Bayeux Tapestry exhibition, which opened on 9 September 2026, has a single named sponsor: Belarus-born US hedge-fund billionaire Igor Tulchinsky, founder of WorldQuant. The Art Newspaper reported the deal at £5m when it was announced on 2 March 2026 — among the largest exhibition sponsorships in the museum's history — with trustees' chair George Osborne thanking Tulchinsky for having 'stepped up to the plate in a way we never imagined possible.' Middle East Eye subsequently reported on Tulchinsky's ties to Israel and its military: that he told the Jerusalem Post in March 2026 he had given financial support to the Israeli army; that in April 2026 he launched WorldQuant Genesis, a Tel Aviv-based defence-tech venture fund headed by a recently retired Israeli general; and that he had funded a community centre in an Israeli settlement in the occupied West Bank. Middle East Eye reported that the campaign group Artists for Palestine UK called the museum's partnership with Tulchinsky 'outrageous' and 'shameful,' and that neither the British Museum nor WorldQuant responded to its requests for comment.",
+   "outcome": "The exhibition is open (scheduled through July 2027) and the sponsorship stands; the British Museum has not publicly responded to the objections in the retrieved coverage. [FOLLOW-UP PENDING: any British Museum response or change to the sponsorship arrangement.]",
+   "tags": [
+    "Funding dispute",
+    "Community objection",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Middle East Eye",
+    "The Art Newspaper"
+   ],
+   "source": "https://www.middleeasteye.net/news/igor-tulchinsky-british-museum-bayeux-tapestry-sponsor-israeli-military",
+   "additional_sources": [
+    "https://www.theartnewspaper.com/2026/03/02/british-museum-secures-%C2%A35m-sponsorship-for-bayeux-tapestry-display"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-154 (Bayeux Tapestry loan to the British Museum). Distinct sponsorship-ethics dispute rather than the loan/repatriation thread, hence case-level themes (2, 4) rather than the parent's. Middle East Eye broke the reporting on Tulchinsky's Israel/IDF and defence-tech ties and is a participant-adjacent outlet on this subject; the Index reports the sponsorship facts (corroborated by The Art Newspaper) and attributes the ties-reporting to MEE and the objections to Artists for Palestine UK. Cf. sponsorship-ethics cluster (ACI-109 Wexner Center/Epstein).",
+   "interested_parties": "Igor Tulchinsky (WorldQuant); British Museum (trustees' chair George Osborne); Artists for Palestine UK",
+   "coverage_geography": "UK, Middle East",
    "follow_up_pending": true
   },
   {
@@ -20957,6 +20995,79 @@
    "notes": "New parent, borderline: a one-sided law-enforcement seizure rather than a contested dispute with named opposing parties, logged as a cultural-property-trafficking / repatriation cluster anchor per the CLAUDE.md dragnet term 'antiquities seized.' The ICE press release is the primary source and a participant in the action -- promotional in tone (an HSI agent is quoted marvelling at handling the objects) -- so the Index reports the seizure factually and does not adopt ICE's framing. Thin: ICE and ARTnews carry the same figures; reported speech only, no direct quotes. Flagged for review.",
    "interested_parties": "US Homeland Security Investigations (HSI Tampa); HSI Cultural Property, Art and Antiquities program; US Customs and Border Protection; (unnamed) source countries",
    "coverage_geography": "US, source countries",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-385",
+   "entry_id": "385",
+   "seq": 683,
+   "title": "Preah Vihear World Heritage temple damaged in Cambodia-Thailand border fighting",
+   "artist": "N/A",
+   "institution": "Preah Vihear Temple (UNESCO World Heritage Site); UNESCO; ICOMOS",
+   "country": "Cambodia",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Armed attacks July and December 2025; UNESCO-ICOMOS mission 1–6 March 2026; report reported September 2026",
+   "date_discovered": "2026-09-11",
+   "sort_date": "2026-09-11",
+   "description": "A joint UNESCO-ICOMOS mission that inspected the 11th-century Preah Vihear Temple from 1 to 6 March 2026 documented extensive damage to the World Heritage property, according to the Cambodian state news agency Agence Kampuchea Presse (AKP). AKP reports the mission recorded 142 damaged areas from armed attacks in July 2025 and 420 from attacks in December 2025, affecting the temple's structures, infrastructure and tourism facilities, and that the scale of destruction was 'incomparable' with earlier conflicts, with 'no area spared.' The report assessed the site — a Hindu temple inscribed for its Outstanding Universal Value — as being under 'serious and specific danger' requiring urgent conservation. The damage occurred during the 2025 armed clashes along the disputed Cambodia-Thailand border, in which Cambodia and Thailand have each blamed the other. AKP quotes Cambodian Culture Minister Neth Pheaktra as saying 'Preah Vihear Temple is not only Cambodia's heritage, but also the heritage of humanity' and that its protection is 'a shared responsibility.' ARTnews reported that 'urgent action' was needed to protect the temple.",
+   "outcome": "The UNESCO-ICOMOS report calls for urgent conservation and continued monitoring; no restoration has been completed, and access and safety at the site remain constrained by the wider border conflict. [FOLLOW-UP PENDING: emergency conservation work, any World Heritage in Danger listing, and further UNESCO monitoring.]",
+   "tags": [
+    "Cultural property destruction",
+    "Conflict zone",
+    "UNESCO World Heritage Site",
+    "Religious site",
+    "Archaeological site",
+    "Cambodia-Thailand border war",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Agence Kampuchea Presse",
+    "ARTnews"
+   ],
+   "source": "https://www.akp.gov.kh/post/detail/380619",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/urgent-action-needed-to-protect-the-temple-of-preah-vihear-cambodia-1234797747/"
+   ],
+   "themes": [],
+   "notes": "New parent, war-damage/heritage-destruction cluster — cf. ACI-127/127-A (Ukraine war cultural damage), ACI-167 (Beaufort Castle), ACI-187 (Kyiv Pechersk Lavra). The reference source is Agence Kampuchea Presse, Cambodia's state news agency and a participant on a Cambodia-Thailand dispute; the Index reports the UNESCO-ICOMOS findings factually and attributes the minister's framing to AKP's reporting. Responsibility for the attacks is contested between Cambodia and Thailand, so the title and description use neutral/passive framing. Thin corroboration (ARTnews cited the same 'urgent action' report via search snippet; Khmer Times and the UNESCO World Heritage Centre page could not be retrieved this run).",
+   "interested_parties": "UNESCO; ICOMOS; Cambodia (Ministry of Culture and Fine Arts, Minister Neth Pheaktra; Preah Vihear/APSARA authorities); Thailand",
+   "coverage_geography": "Cambodia, Southeast Asia",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-386",
+   "entry_id": "386",
+   "seq": 685,
+   "title": "Valladolid provincial government cancels Íñigo Varona exhibition hours before opening",
+   "artist": "Íñigo Varona",
+   "institution": "Palacio de Pimentel (Diputación de Valladolid)",
+   "country": "Spain",
+   "governance_type": "Democracy",
+   "date_controversy": "3 September 2026 (cancellation)",
+   "date_discovered": "2026-09-11",
+   "sort_date": "2026-09-03",
+   "description": "The Diputación de Valladolid (the province's government) cancelled the opening of Íñigo Varona's exhibition 'La otra transición vallisoletana' at the Palacio de Pimentel on 3 September 2026, hours before its scheduled inauguration and after the show had been mounted, according to El Español. El Español reports that during installation officials asked the artist to remove some elements they considered to carry a political ideology and, when he declined, the institution called off the show; the head of the province's culture service, Paz Malfaz, said a public institution 'cannot exhibit without knowing what we are going to exhibit' and cited quality concerns, while the PSOE, through spokesperson Francisco Ferreira, denounced 'prior censorship' ('censura previa'), arguing the exhibition had met all the requirements to open and that the cancellation could only be a political decision.",
+   "outcome": "The exhibition was cancelled and did not open as scheduled; the Diputación defends the decision as procedural and quality-based, while the PSOE calls it political censorship. [FOLLOW-UP PENDING: whether the show is reinstated or relocated, and any political or legal follow-up.]",
+   "tags": [
+    "Censorship",
+    "Political interference",
+    "Political art"
+   ],
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "El Español"
+   ],
+   "source": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20260903/polemica-cancelacion-exposicion-psoe-habla-censura-diputacion-alega-falta-informacion-calidad/1003744371797_0.html",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "New parent. Spanish regional censorship case, single-source (El Español) and thin at logging — enrich with local Castilla y León coverage (e.g. El Norte de Castilla, El Salto) on the Europe trawl day. The Diputación frames the cancellation as procedural/quality-based; the PSOE calls it political censorship — the Index reports both framings, attributed. Governance-hypothesis relevance: institutional/political censorship in a consolidated democracy.",
+   "interested_parties": "Íñigo Varona (artist); Diputación de Valladolid (Paz Malfaz, Culture Service); PSOE (Francisco Ferreira)",
+   "coverage_geography": "Spain",
    "follow_up_pending": true
   }
  ]
