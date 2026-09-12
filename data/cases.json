@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 646
+  "total_cases": 650
  },
  "cases": [
   {
@@ -16059,24 +16059,26 @@
    "date_controversy": "NPS Section 106 assessment (preliminary adverse-effect finding), June 2026; New York Times (Upshot) analysis published August 3, 2026",
    "date_discovered": "2026-08-03",
    "sort_date": "2026-08-03",
-   "description": "According to a New York Times (Upshot) analysis published August 3, 2026, the National Park Service's Section 106 assessment for the proposed roughly 250-foot triumphal arch backed by President Trump near Memorial Circle reaches a preliminary finding of adverse effect, concluding the structure would alter protected views and settings across the monumental core and could detract from dozens of historic properties. The finding identifies impacts on the vista between the Lincoln Memorial and Arlington National Cemetery, the view from the Washington Monument toward Arlington, and the view of the cemetery from the Pentagon, and states the arch would diminish characteristics that qualify affected properties for the National Register. Earlier coverage by Washingtonian in June 2026 reported the same assessment's conclusion that the arch would change the interrelationships of the monumental landscape around the Lincoln Memorial.",
-   "outcome": "NPS preliminary Section 106 finding is adverse effect; the review process continues and no final determination, Programmatic Agreement or mitigation is documented in the coverage retrieved. [FOLLOW-UP PENDING: the final Section 106 determination, any Programmatic Agreement or mitigation measures, and whether the adverse-effect finding changes the project.]",
+   "description": "According to a New York Times (Upshot) analysis published August 3, 2026, the National Park Service's Section 106 assessment for the proposed roughly 250-foot triumphal arch backed by President Trump near Memorial Circle reaches a preliminary finding of adverse effect, concluding the structure would alter protected views and settings across the monumental core and could detract from dozens of historic properties. The finding identifies impacts on the vista between the Lincoln Memorial and Arlington National Cemetery, the view from the Washington Monument toward Arlington, and the view of the cemetery from the Pentagon, and states the arch would diminish characteristics that qualify affected properties for the National Register. Earlier coverage by Washingtonian in June 2026 reported the same assessment's conclusion that the arch would change the interrelationships of the monumental landscape around the Lincoln Memorial. The New Republic reported on 3 August 2026 that the assessment identified 37 historic sites at risk of adverse effects and that, because Section 106 mandates the assessment but \"does not require any particular outcome or changes to the project,\" the arch was expected to move forward as originally planned; it quoted the Virginia State Historic Preservation Officer, Roger W. Kitchen, as writing that \"these adverse effects are intentional and inherent in the design of the arch; it is intended to dominate the surrounding landscape,\" and noted the Trump administration was simultaneously moving to overhaul the historic-review process to ease approvals.",
+   "outcome": "NPS Section 106 assessment finds adverse effect on 37 historic properties; the review process continues, and because Section 106 does not mandate changes, the administration is expected to proceed with the arch as planned. [FOLLOW-UP PENDING: the final Section 106 determination, any Programmatic Agreement or mitigation measures, and whether the adverse-effect finding changes the project.]",
    "tags": "Architectural preservation, Political interference, Design controversy, Landmark dispute",
    "court_case": "No",
    "coverage_tier": "National",
    "outlets": [
     "The New York Times (Upshot; Emily Badger)",
-    "Washingtonian"
+    "Washingtonian",
+    "The New Republic"
    ],
    "source": "https://www.nytimes.com/2026/08/03/upshot/arch-trump-historic-review.html",
    "additional_sources": [
-    "https://washingtonian.com/2026/06/10/trumps-triumphal-arch-would-alter-monument-views-and-traffic-patterns-report-says/"
+    "https://washingtonian.com/2026/06/10/trumps-triumphal-arch-would-alter-monument-views-and-traffic-patterns-report-says/",
+    "https://newrepublic.com/post/213883/park-service-trump-arch-verdict"
    ],
    "themes": [
     2,
     9
    ],
-   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Cross-reference ACI-038-J (archaeological-deposits finding), ACI-038-L (DC preservation officer's alternative-site letter), and ACI-038-M/ACI-038-N (NCPC July 9 preliminary approval). Adds the NPS Section 106 assessment's viewshed/setting adverse-effect finding, not previously captured in the cluster. Sourcing: NYT reached at metadata grade via the NYT API (Upshot abstract; body paywalled), corroborated by a search-result snippet of Washingtonian's June 2026 report; no quotations drawn. Note for review: the underlying NPS assessment dates to June 2026 and the August 3 NYT piece is an analysis-desk treatment, so some overlap with the June arch subs is possible.",
+   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Cross-reference ACI-038-J (archaeological-deposits finding), ACI-038-L (DC preservation officer's alternative-site letter), and ACI-038-M/ACI-038-N (NCPC July 9 preliminary approval). Captures the NPS Section 106 assessment's viewshed/setting adverse-effect finding on 37 historic properties. Sourcing: NYT (Emily Badger, Upshot, 3 Aug) reached at metadata grade via the NYT API; Washingtonian (June) via search snippet; The New Republic (3 Aug) retrieved full-text this pass, carrying the 37-site figure, the expectation that the arch proceeds as planned, and the Virginia SHPO Roger W. Kitchen quote. Neutrality: the \"stays at the proposed site / intended to dominate\" framing is the administration's posture and the Virginia SHPO's critique, not an NPS conclusion that the arch should stay. Review note (12 September 2026): a draft sub-entry ACI-038-P, covering late-August (28 Aug) coverage, was created and then dropped as duplicative of this finding — the 37-site adverse-effect finding is early-August (this same assessment). A separate 'Assessment of Effect (Revised)' dated 28 August 2026 exists on NPS ParkPlanning and reopened public comment, but was not logged as its own sub-entry pending full-text retrieval of the revised document.",
    "interested_parties": "National Park Service; National Capital Planning Commission; Arlington National Cemetery; National Trust for Historic Preservation and allied preservation groups; Trump administration",
    "coverage_geography": "US",
    "follow_up_pending": true
@@ -20957,6 +20959,165 @@
    "notes": "New parent, borderline: a one-sided law-enforcement seizure rather than a contested dispute with named opposing parties, logged as a cultural-property-trafficking / repatriation cluster anchor per the CLAUDE.md dragnet term 'antiquities seized.' The ICE press release is the primary source and a participant in the action -- promotional in tone (an HSI agent is quoted marvelling at handling the objects) -- so the Index reports the seizure factually and does not adopt ICE's framing. Thin: ICE and ARTnews carry the same figures; reported speech only, no direct quotes. Flagged for review.",
    "interested_parties": "US Homeland Security Investigations (HSI Tampa); HSI Cultural Property, Art and Antiquities program; US Customs and Border Protection; (unnamed) source countries",
    "coverage_geography": "US, source countries",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-370",
+   "entry_id": "370",
+   "seq": 684,
+   "title": "Minnesota State Fair pulls anti-Trump '8647' crop art after artist is doxxed and threatened",
+   "artist": "Unnamed crop artist (identity withheld)",
+   "institution": "Minnesota State Fair — Crop Art competition, Falcon Heights, Minnesota",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Removed at the artist's request in late August 2026 (reported 1 September 2026)",
+   "date_discovered": "2026-09-03",
+   "sort_date": "2026-09-01",
+   "description": "According to Hyperallergic, the 2026 Minnesota State Fair removed a crop-art piece reading \"8647\" in yellow corn kernels against a backdrop of black and red beans after the artist was doxxed, harassed and threatened. Hyperallergic reports the numeric sequence is often used in protest of President Donald Trump — \"86\" being hospitality slang for getting rid of something and \"47\" referring to Trump as the 47th president. Per Hyperallergic, after the conservative outlet Alpha News highlighted the work on social media, others targeted the artist and shared her private address and personal details, and she asked the fair to remove the piece citing her safety; the fair complied. Hyperallergic said it was not reproducing an image of the work out of concern for the artist's privacy, and that the artist declined to comment. Fellow crop artist Ike Whiting is quoted by Hyperallergic as saying, \"The need people feel to take matters into their own hands is shocking and unacceptable.\" Local outlets including MPR News and the Star Tribune reported the removal followed the artist being doxxed.",
+   "outcome": "The artwork was withdrawn from the exhibition at the artist's request after she was doxxed and threatened, and the Minnesota State Fair removed it on safety grounds. [FOLLOW-UP PENDING: any statement from fair leadership on its display or removal policy, and any law-enforcement response to the threats.]",
+   "tags": [
+    "Removal",
+    "Protest art",
+    "Political art",
+    "Artist safety"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic",
+    "MPR News",
+    "Star Tribune"
+   ],
+   "source": "https://hyperallergic.com/minnesota-state-fair-removes-anti-trump-crop-art-after-artist-was-harassed/",
+   "additional_sources": [
+    "https://www.mprnews.org/story/2026/09/01/crop-artists-react-after-state-fair-removes-antitrump-8647-piece-due-to-harassment",
+    "https://www.startribune.com/state-fair-removes-crop-art-from-exhibition-after-artist-allegedly-doxxed/601884618"
+   ],
+   "themes": [
+    4
+   ],
+   "notes": "New parent. A publicly sited exhibition removing a political work not by an institutional censorship decision but after the artist was doxxed and threatened — fits the externalised-censorship / harassment-by-proxy frame (CLAUDE.md §14). Artist's identity withheld in the coverage. Reference source Hyperallergic, retrieved full-text this run; the Ike Whiting quote is carried by Hyperallergic. Corroborated at snippet grade by MPR News and the Star Tribune. Cross-reference other Trump-protest-art removals in the Index.",
+   "interested_parties": "Unnamed crop artist; Minnesota State Fair; Alpha News; crop artist Ike Whiting",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-371",
+   "entry_id": "371",
+   "seq": 685,
+   "title": "Paris prosecutors seek trial for Giuliano Ruffini over alleged Old Master forgeries",
+   "artist": "Giuliano Ruffini (alleged)",
+   "institution": "Paris prosecutors' office; works embroiled the Louvre, National Gallery (London), Metropolitan Museum of Art, Sotheby's, Christie's and Dorotheum",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Prosecutors' trial request reported 2 September 2026 (scandal ongoing since 2016)",
+   "date_discovered": "2026-09-03",
+   "sort_date": "2026-09-02",
+   "description": "According to The Art Newspaper, Paris prosecutors have requested that Giuliano Ruffini — long suspected of masterminding a ring that trafficked forged Old Master paintings — be sent to trial for commercial deception and money laundering, along with two intermediaries, Jean-Charles Méthiaz and Michaël Tordjmann, on the same charges; they also seek the indictment of Ruffini's son Mathieu for money laundering and the renewal of an arrest warrant for alleged forger Lino Frongia, described as on the run in Italy. The Art Newspaper reports the prosecution dropped the more serious gang-fraud charge for technical reasons, that a judge must confirm the indictment within weeks, and that any trial could be scheduled for 2027. The scandal emerged in 2016 when a \"Venus\" exhibited as a Cranach was seized from the collection of the Prince of Liechtenstein; TAN reports 13 works were designated fakes after forensic examination, while charges over 18 further paintings were dropped on statute-of-limitations or evidentiary grounds. Works cited include the Cranach Venus, a Frans Hals portrait at the centre of a Sotheby's–Mark Weiss dispute, Orazio Gentileschi's David contemplating the head of Goliath and a Velázquez attribution, among others linked to the Louvre, the National Gallery in London, the Met, and auction houses Sotheby's, Christie's and Dorotheum. Ruffini, who has maintained his innocence, told The Art Newspaper's account, \"The dealers, curators and experts were responsible for these attributions, not me,\" and his lawyer Paul Le Fèvre said, \"Excluding 18 works, dropping gang fraud charges, all this underlines the fragility of this inflated proceeding.\"",
+   "outcome": "Paris prosecutors have asked that Ruffini and two intermediaries be sent to trial for commercial deception and money laundering; an investigating judge must confirm the indictment, with any trial potentially in 2027. Ruffini denies wrongdoing. [FOLLOW-UP PENDING: whether the judge confirms the indictment and a trial is set.]",
+   "tags": [
+    "Authenticity",
+    "Art market fraud",
+    "Legal challenge"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/02/paris-prosecutors-seek-trial-for-giuliano-ruffini-over-allegedly-forged-old-master-paintings",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "New parent. Long-running Old Master forgery scandal (the \"Cranach Venus\" seized 2016) that embroiled major museums and auction houses. Reference source The Art Newspaper, retrieved full-text this run; quotes from Ruffini and his lawyer Paul Le Fèvre are carried by TAN. Single-source at present (only TAN reached this run); enrich with French-language and other reporting on the Europe trawl day. Cross-reference other authenticity/forgery cases in the Index.",
+   "interested_parties": "Giuliano Ruffini; son Mathieu Ruffini; alleged forger Lino Frongia; intermediaries Jean-Charles Méthiaz and Michaël Tordjmann; Paris prosecutors; dealer Mark Weiss; lawyer Paul Le Fèvre; Louvre; National Gallery, London; Metropolitan Museum of Art; Sotheby's; Christie's; Dorotheum",
+   "coverage_geography": "France, UK, international art press",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-372",
+   "entry_id": "372",
+   "seq": 686,
+   "title": "Israeli MK Zvi Sukkot filmed smashing Palestinian memorial in Madama; military says act was unauthorized",
+   "artist": "N/A (Palestinian memorial, Madama village)",
+   "institution": "Palestinian memorial, Madama (Kafr Madama) village, near Nablus, occupied West Bank",
+   "country": "Occupied West Bank (Palestinian Territories) / Israel",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-08-25",
+   "date_discovered": "2026-09-03",
+   "sort_date": "2026-08-25",
+   "description": "On 25 August 2026, Zvi Sukkot, a member of the Knesset for the Religious Zionist Party, was filmed striking a Palestinian memorial in the village of Madama (Kafr Madama), near Nablus in the occupied West Bank, with a sledgehammer while under Israeli military escort. According to The New York Times, videos showed Israeli troops standing by as Sukkot attacked the monument, and the military said soldiers had stopped the demolition. The memorial's subject is described differently by the parties: the head of the Madama village council, Rami Nassar, told Arab News and The Jerusalem Post that it bore the names of Palestinians killed over decades — those killed in a 1968 battle and in the first and second intifadas — and that it had stood for around 20 years without being damaged, while Israeli officials and Sukkot characterized it, per Middle East Eye and The Jerusalem Post, as honoring members of the al-Aqsa Brigade and Palestinians who had attacked Israelis. Middle East Eye reported that the Israeli military said the destruction \"was not approved through the proper channels,\" that its forces \"halted the demolition,\" and that \"Sukkot and his staff acted in a deceptive and manipulative manner,\" endangering soldiers, while also stating that its forces \"regularly destroy memorials and symbols of incitement,\" which it described as \"an important part of the war against terrorism.\" Per The Jerusalem Post, Sukkot defended the act on social media, saying \"every child who sees every day a giant monument that glorifies murderers of Jews will dream of being a terrorist,\" while Prime Minister Benjamin Netanyahu and other officials condemned it and Finance Minister Bezalel Smotrich initially rebuked Sukkot for acting without authorization. Nassar rejected Sukkot's rationale, telling The Jerusalem Post, \"If that were true, why didn't we see 20 or 30 children coming out today to confront what he did,\" and warned that the act \"could fuel even more violent acts against Palestinians\" and that Netanyahu's condemnation was inadequate because, in his words, \"words are not enough.\"",
+   "outcome": "The Madama memorial was destroyed on 25 August 2026; the Israeli military said the act was unauthorized and that it halted the demolition, while stating that it routinely removes such memorials. Netanyahu and other officials condemned the act, Smotrich initially rebuked Sukkot, and the Madama village council condemned the destruction and called for concrete protection rather than statements. Days later Smotrich reversed course and demanded the military dismantle 40 further memorials — logged as ACI-372-A.",
+   "tags": [
+    "Iconoclasm",
+    "Removal",
+    "Political interference",
+    "Geopolitics",
+    "Historical erasure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The New York Times",
+    "Middle East Eye",
+    "Hyperallergic",
+    "The Jerusalem Post",
+    "Arab News"
+   ],
+   "source": "https://www.middleeasteye.net/news/israeli-lawmaker-smashes-palestinian-memorial-occupied-west-bank",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
+    "https://hyperallergic.com/israels-smotrich-calls-to-destroy-40-palestinian-memorials-in-west-bank/",
+    "https://www.jpost.com/israel-news/politics-and-diplomacy/article-906518",
+    "https://www.jpost.com/israel-news/article-906496",
+    "https://www.arabnews.com/node/2655794/middle-east"
+   ],
+   "themes": [
+    6
+   ],
+   "notes": "New parent. Split during review (8 September 2026) from the original combined entry: this parent is the discrete 25 August act, and Finance Minister Smotrich's subsequent demand to demolish 40 further memorials is now the sub-entry ACI-372-A — a subsequent, broader development rather than a continuation of the single Madama monument's story. Governance: the acting figure is an Israeli lawmaker (Israel is a democracy); the memorial stood in the occupied West Bank under Israeli military administration. Neutrality: the memorial's subject is itself contested — Hyperallergic reports it named Palestinians killed by Israel, while Middle East Eye and The Jerusalem Post report Israeli officials' and Sukkot's characterization that it honored Palestinians who attacked Israelis — so both framings are attributed and the Index applies contest/act tags, not the 'Cultural property destruction' umbrella or heritage framing (CLAUDE.md §4). Note the contested account of the act itself: NYT reports troops stood by/escorted Sukkot, while the military says soldiers halted an unauthorized demolition. Sources: Middle East Eye and The Jerusalem Post retrieved full-text (IDF statement, Sukkot's justification, the Smotrich rebuke); NYT (Adam Rasgon, 25 Aug) pinned at metadata grade via the NYT API; Hyperallergic full-text. Cross-reference ACI-372-A and other top-down iconoclasm / monument-destruction cases. Enriched 12 September 2026 to add the Palestinian voice, which the earlier draft lacked (its named parties were all within the Israeli government and military): the Madama village council head Rami Nassar — quoted full-text via Arab News and The Jerusalem Post — on what the monument commemorated, its ~20-year standing, and his warning that the act would fuel further violence and that Netanyahu's condemnation was insufficient. Arab News added as an Arab-ecosystem source. The Palestinian daily Al-Quds also covered the act (framing it as settlers destroying the Martyrs' Monument), but its body could not be retrieved (403), so it is noted here, not cited. A specific Palestinian institutional response (Palestinian Authority / WAFA) was not retrieved this pass.",
+   "interested_parties": "MK Zvi Sukkot (Religious Zionist Party); Israel Defense Forces; PM Benjamin Netanyahu; Foreign Minister Gideon Sa'ar; opposition figure Gadi Eisenkot; Finance Minister Bezalel Smotrich; RZP MK Ohad Tal; Rami Nassar (head of the Kafr Madama village council) and Madama residents",
+   "coverage_geography": "Israel, Palestinian Territories, Middle East, Gulf, international",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-372-A",
+   "entry_id": "372-A",
+   "seq": 687,
+   "title": "Palestinian memorials: Smotrich demands military demolish 40 more after Madama monument destroyed",
+   "artist": "N/A (Palestinian memorials, occupied West Bank)",
+   "institution": "40 Palestinian memorials listed by the finance minister, occupied West Bank",
+   "country": "Occupied West Bank (Palestinian Territories) / Israel",
+   "governance_type": "Democracy",
+   "date_controversy": "Smotrich demand reported around 31 August 2026 (following the 25 August Madama destruction)",
+   "date_discovered": "2026-09-03",
+   "sort_date": "2026-08-31",
+   "description": "Following the 25 August 2026 destruction of a Palestinian memorial in Madama (see ACI-372), Israel's finance minister, Bezalel Smotrich, sent Prime Minister Benjamin Netanyahu a letter — reported by Middle East Monitor as issued around 31 August 2026 — demanding that the Israel Defense Forces dismantle 40 Palestinian memorials across the occupied West Bank within 24 hours, attaching a table listing all 40, according to Hyperallergic. Per Hyperallergic, Smotrich defended his party colleague Sukkot and characterized the memorials as \"terrorist incitement (and memorial) infrastructures\" situated \"just minutes away from Israeli cities,\" arguing that insufficient work was being done to eliminate them. Middle East Monitor reported that Smotrich framed the removals as asserting \"state sovereignty\" against what he called an \"infrastructure of terrorism and incitement,\" and that his attached list identified memorials he said commemorate Palestinians involved in attacks on Israelis. Both outlets reported that Netanyahu had not publicly responded to the demand.",
+   "outcome": "Smotrich has demanded the IDF dismantle 40 listed Palestinian memorials within 24 hours; as of reporting, Netanyahu had not publicly responded and no demolition of the 40 had been reported. [FOLLOW-UP PENDING: whether the government orders or carries out demolition of the listed memorials.]",
+   "tags": [
+    "Demolition",
+    "Iconoclasm",
+    "Political interference",
+    "Geopolitics",
+    "Historical erasure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic",
+    "Middle East Monitor"
+   ],
+   "source": "https://hyperallergic.com/israels-smotrich-calls-to-destroy-40-palestinian-memorials-in-west-bank/",
+   "additional_sources": [
+    "https://www.middleeastmonitor.com/20260831-smotrich-calls-for-removal-of-40-palestinian-memorials-in-west-bank-within-24-hours/"
+   ],
+   "themes": [
+    6
+   ],
+   "notes": "Sub-entry of ACI-372 (Sukkot's 25 August Madama memorial destruction), created during review 8 September 2026. The escalation: after the Madama act — which Smotrich initially rebuked — the finance minister days later demanded the military dismantle 40 further memorials, a subsequent and broader development rather than a continuation of the single Madama monument's story. Note the shift from rebuke (see parent) to this formal demand. Governance/neutrality annotation as in the parent: contested political monuments, all characterizations attributed to their sources, contest/act tags only. Reference source Hyperallergic (full-text; carries Smotrich's quoted words); corroborated full-text by Middle East Monitor. Enrichment note (12 September 2026): a specific Palestinian response to Smotrich's 40-memorial demand was not retrieved; the affected-community voice on the underlying destruction is captured in the parent (ACI-372) via Kafr Madama village council head Rami Nassar.",
+   "interested_parties": "Finance Minister Bezalel Smotrich (Religious Zionist Party); MK Zvi Sukkot; PM Benjamin Netanyahu; Israel Defense Forces",
+   "coverage_geography": "Israel, Palestinian Territories, Middle East, international",
    "follow_up_pending": true
   }
  ]
