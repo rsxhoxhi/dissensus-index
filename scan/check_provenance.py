@@ -45,6 +45,8 @@ DOMAIN_TO_OUTLET = {
     "bbc.com": "BBC",
     "bbc.co.uk": "BBC",
     "reuters.com": "Reuters",
+    "timeslive.co.za": "Reuters",  # Reuters wire retrieved via TimesLIVE syndication (2026-09-04 run; ACI-012-O)
+    "artdependence.com": "ArtDependence",  # added 2026-09-04 run (ACI-374 Kandinsky provenance)
     "apnews.com": "Associated Press",
     "npr.org": "NPR",
     "kclu.org": "NPR",
