@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 651
+  "total_cases": 650
  },
  "cases": [
   {
@@ -16059,66 +16059,27 @@
    "date_controversy": "NPS Section 106 assessment (preliminary adverse-effect finding), June 2026; New York Times (Upshot) analysis published August 3, 2026",
    "date_discovered": "2026-08-03",
    "sort_date": "2026-08-03",
-   "description": "According to a New York Times (Upshot) analysis published August 3, 2026, the National Park Service's Section 106 assessment for the proposed roughly 250-foot triumphal arch backed by President Trump near Memorial Circle reaches a preliminary finding of adverse effect, concluding the structure would alter protected views and settings across the monumental core and could detract from dozens of historic properties. The finding identifies impacts on the vista between the Lincoln Memorial and Arlington National Cemetery, the view from the Washington Monument toward Arlington, and the view of the cemetery from the Pentagon, and states the arch would diminish characteristics that qualify affected properties for the National Register. Earlier coverage by Washingtonian in June 2026 reported the same assessment's conclusion that the arch would change the interrelationships of the monumental landscape around the Lincoln Memorial.",
-   "outcome": "NPS preliminary Section 106 finding is adverse effect; the review process continues and no final determination, Programmatic Agreement or mitigation is documented in the coverage retrieved. [FOLLOW-UP PENDING: the final Section 106 determination, any Programmatic Agreement or mitigation measures, and whether the adverse-effect finding changes the project.]",
+   "description": "According to a New York Times (Upshot) analysis published August 3, 2026, the National Park Service's Section 106 assessment for the proposed roughly 250-foot triumphal arch backed by President Trump near Memorial Circle reaches a preliminary finding of adverse effect, concluding the structure would alter protected views and settings across the monumental core and could detract from dozens of historic properties. The finding identifies impacts on the vista between the Lincoln Memorial and Arlington National Cemetery, the view from the Washington Monument toward Arlington, and the view of the cemetery from the Pentagon, and states the arch would diminish characteristics that qualify affected properties for the National Register. Earlier coverage by Washingtonian in June 2026 reported the same assessment's conclusion that the arch would change the interrelationships of the monumental landscape around the Lincoln Memorial. The New Republic reported on 3 August 2026 that the assessment identified 37 historic sites at risk of adverse effects and that, because Section 106 mandates the assessment but \"does not require any particular outcome or changes to the project,\" the arch was expected to move forward as originally planned; it quoted the Virginia State Historic Preservation Officer, Roger W. Kitchen, as writing that \"these adverse effects are intentional and inherent in the design of the arch; it is intended to dominate the surrounding landscape,\" and noted the Trump administration was simultaneously moving to overhaul the historic-review process to ease approvals.",
+   "outcome": "NPS Section 106 assessment finds adverse effect on 37 historic properties; the review process continues, and because Section 106 does not mandate changes, the administration is expected to proceed with the arch as planned. [FOLLOW-UP PENDING: the final Section 106 determination, any Programmatic Agreement or mitigation measures, and whether the adverse-effect finding changes the project.]",
    "tags": "Architectural preservation, Political interference, Design controversy, Landmark dispute",
    "court_case": "No",
    "coverage_tier": "National",
    "outlets": [
     "The New York Times (Upshot; Emily Badger)",
-    "Washingtonian"
+    "Washingtonian",
+    "The New Republic"
    ],
    "source": "https://www.nytimes.com/2026/08/03/upshot/arch-trump-historic-review.html",
    "additional_sources": [
-    "https://washingtonian.com/2026/06/10/trumps-triumphal-arch-would-alter-monument-views-and-traffic-patterns-report-says/"
+    "https://washingtonian.com/2026/06/10/trumps-triumphal-arch-would-alter-monument-views-and-traffic-patterns-report-says/",
+    "https://newrepublic.com/post/213883/park-service-trump-arch-verdict"
    ],
    "themes": [
     2,
     9
    ],
-   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Cross-reference ACI-038-J (archaeological-deposits finding), ACI-038-L (DC preservation officer's alternative-site letter), and ACI-038-M/ACI-038-N (NCPC July 9 preliminary approval). Adds the NPS Section 106 assessment's viewshed/setting adverse-effect finding, not previously captured in the cluster. Sourcing: NYT reached at metadata grade via the NYT API (Upshot abstract; body paywalled), corroborated by a search-result snippet of Washingtonian's June 2026 report; no quotations drawn. Note for review: the underlying NPS assessment dates to June 2026 and the August 3 NYT piece is an analysis-desk treatment, so some overlap with the June arch subs is possible.",
+   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Cross-reference ACI-038-J (archaeological-deposits finding), ACI-038-L (DC preservation officer's alternative-site letter), and ACI-038-M/ACI-038-N (NCPC July 9 preliminary approval). Captures the NPS Section 106 assessment's viewshed/setting adverse-effect finding on 37 historic properties. Sourcing: NYT (Emily Badger, Upshot, 3 Aug) reached at metadata grade via the NYT API; Washingtonian (June) via search snippet; The New Republic (3 Aug) retrieved full-text this pass, carrying the 37-site figure, the expectation that the arch proceeds as planned, and the Virginia SHPO Roger W. Kitchen quote. Neutrality: the \"stays at the proposed site / intended to dominate\" framing is the administration's posture and the Virginia SHPO's critique, not an NPS conclusion that the arch should stay. Review note (12 September 2026): a draft sub-entry ACI-038-P, covering late-August (28 Aug) coverage, was created and then dropped as duplicative of this finding — the 37-site adverse-effect finding is early-August (this same assessment). A separate 'Assessment of Effect (Revised)' dated 28 August 2026 exists on NPS ParkPlanning and reopened public comment, but was not logged as its own sub-entry pending full-text retrieval of the revised document.",
    "interested_parties": "National Park Service; National Capital Planning Commission; Arlington National Cemetery; National Trust for Historic Preservation and allied preservation groups; Trump administration",
-   "coverage_geography": "US",
-   "follow_up_pending": true
-  },
-  {
-   "id": "ACI-038-P",
-   "entry_id": "038-P",
-   "seq": 683,
-   "title": "Trump Triumphal Arch — NPS report affirms adverse effects on dozens of sites but keeps arch at proposed location",
-   "artist": "N/A (renderings by Harrison Design)",
-   "institution": "Memorial Circle, George Washington Memorial Parkway (NPS); National Capital Planning Commission (NCPC)",
-   "country": "United States",
-   "governance_type": "Democracy",
-   "date_controversy": "NPS report released on or about 28 August 2026",
-   "date_discovered": "2026-09-03",
-   "sort_date": "2026-08-28",
-   "description": "According to reporting by CNN and The Architect's Newspaper, the National Park Service released a report in late August 2026 finding that President Trump's proposed roughly 250-foot triumphal arch would cause adverse effects on dozens of historic properties — The Architect's Newspaper put the figure at 37 locations across Washington, DC, and Arlington, Virginia — including obstruction of the sightline between the Lincoln Memorial and Arlington National Cemetery. The same reporting states the NPS nonetheless concluded the arch should remain at the proposed Memorial Circle site on the banks of the Potomac, describing the placement as inherently location-dependent and not interchangeable with alternative sites. The Section 106 review and a final vote by the National Capital Planning Commission remained pending as of this reporting.",
-   "outcome": "The late-August NPS report affirms adverse effects across dozens of sites while concluding the arch should stay at the proposed location; the Section 106 process and a final NCPC vote remain pending. [FOLLOW-UP PENDING: the final NCPC vote and the Section 106 determination or any programmatic agreement.]",
-   "tags": [
-    "Architectural preservation",
-    "Political interference",
-    "Design controversy",
-    "Landmark dispute"
-   ],
-   "court_case": "No",
-   "coverage_tier": "National",
-   "outlets": [
-    "CNN",
-    "The Architect's Newspaper",
-    "KRDO"
-   ],
-   "source": "https://www.cnn.com/2026/08/28/politics/trump-arch-adverse-effects",
-   "additional_sources": [
-    "https://www.archpaper.com/2026/08/national-park-service-arch-trump/",
-    "https://krdo.com/politics/cnn-us-politics/2026/08/28/trumps-triumphal-arch-will-cause-a-slew-of-adverse-effects-administration-admits-but-its-plans-are-staying/"
-   ],
-   "themes": [
-    2,
-    9
-   ],
-   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch); follows ACI-038-O (NPS preliminary adverse-effect finding, June / NYT 3 August). Adds the late-August NPS report affirming adverse effects on ~37 sites while keeping the arch at the proposed site. Thin / snippet-grade: CNN, The Architect's Newspaper and KRDO were reached via search-result snippets only (direct fetch blocked/bot-walled), so reported speech only and no direct quotes. NOTE for review: this overlaps ACI-038-O — confirm it is a distinct, later NPS report and not a re-report of the June assessment before finalising, and enrich with a full-text source. The final NCPC vote anticipated for the September meeting had not been confirmed on the agenda as of this run.",
-   "interested_parties": "National Park Service; National Capital Planning Commission; Arlington National Cemetery; Trump administration",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
