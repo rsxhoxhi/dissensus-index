@@ -149,6 +149,8 @@ DOMAIN_TO_OUTLET = {
     "middleeastmonitor.com": "Middle East Monitor",
     "jpost.com": "The Jerusalem Post",
     "krdo.com": "KRDO",
+    "wjla.com": "WJLA",
+    "ice.gov": "ICE",
 }
 
 ALIASES = {
