@@ -147,6 +147,7 @@ DOMAIN_TO_OUTLET = {
     "interpressnews.ge": "InterPressNews",
     "wjla.com": "WJLA",
     "ice.gov": "ICE",
+    "huffman.house.gov": "Office of Rep. Jared Huffman",
 }
 
 ALIASES = {

@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 646
+  "total_cases": 648
  },
  "cases": [
   {
@@ -9642,7 +9642,7 @@
    "date_discovered": "2026-07-07",
    "sort_date": "2026-07-02",
    "description": "The Washington Post reported (2 July 2026) that House Democrats allege donors to the Trump-aligned Freedom250 effort were misled and that funds were diverted away from the bipartisan, congressionally established America250 semiquincentennial commission (see ACI-069). As reported by The Washington Post.",
-   "outcome": "Allegation raised by House Democrats; no formal finding or response confirmed at reporting. [FOLLOW-UP PENDING: any inquiry or response]",
+   "outcome": "Allegation raised by House Democrats. A formal congressional inquiry followed: on 8 September 2026 House Natural Resources Committee Democrats asked the GAO to investigate Freedom250 (see ACI-069-E).",
    "tags": "Political interference, Funding dispute",
    "court_case": "No",
    "coverage_tier": "National",
@@ -9654,8 +9654,39 @@
     2,
     5
    ],
-   "notes": "Update to the ACI-069 America250 vs. Freedom250 cluster. WaPo body could not be retrieved (blocked); logged thin from headline/URL via search — enrich when reachable. Allegation attributed to House Democrats. [FOLLOW-UP PENDING]",
+   "notes": "Update to the ACI-069 America250 vs. Freedom250 cluster. WaPo body could not be retrieved (blocked); logged thin from headline/URL via search. Allegation attributed to House Democrats. Follow-up resolved 12 September 2026: the anticipated inquiry materialized as the 8 September 2026 GAO referral logged at ACI-069-E.",
    "interested_parties": "House Democrats; America250 commission; Freedom250",
+   "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-069-E",
+   "entry_id": "069-E",
+   "seq": 684,
+   "title": "America250 / Freedom250: House Democrats ask the GAO to investigate Freedom250's spending and data collection",
+   "artist": "N/A (national anniversary programming)",
+   "institution": "Freedom250; America250 commission; Government Accountability Office",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "September 8, 2026",
+   "date_discovered": "2026-09-12",
+   "sort_date": "2026-09-08",
+   "description": "On 8 September 2026, Representatives Jared Huffman and Joe Morelle, ranking Democrats on the House Natural Resources Committee, asked the Government Accountability Office to investigate Freedom250, the Trump-aligned organization that ran much of the programming for the nation's 250th anniversary (see ACI-069). According to the lawmakers' announcement, Freedom250 captured a large share of the roughly $150 million Congress appropriated for the semiquincentennial while the congressionally chartered, nonpartisan America250 commission was sidelined, and it hired vendors owned by allies of the president — among them Campaign Nucleus and Dyspatchit, both tied to former Trump campaign official Brad Parscale — to run event ticketing, registration and data collection. Huffman and Morelle asked the GAO to review Freedom250's full vendor list, the federal money spent on data-collection services, and the safeguards against transferring personal data gathered at taxpayer-funded events to political committees ahead of the 2026 midterm elections. Freedom250 has previously rejected allegations that it diverted federal funds (see ACI-069-D). As reported by the office of Rep. Jared Huffman.",
+   "outcome": "House Natural Resources Committee Democrats have formally asked the GAO to examine Freedom250's spending, vendors, and data practices; the GAO has confirmed it received the request and is determining whether to take up the review. [FOLLOW-UP PENDING: whether the GAO opens the investigation and any findings.]",
+   "tags": "Political interference, Funding dispute",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Office of Rep. Jared Huffman"
+   ],
+   "source": "https://huffman.house.gov/media-center/press-releases/huffman-morelle-demand-gov-watchdog-investigate-whether-trumps-freedom-250-harvested-americans-data-to-influence-the-midterm-elections",
+   "additional_sources": [],
+   "themes": [
+    2,
+    5
+   ],
+   "notes": "Update to the ACI-069 America250 vs. Freedom250 cluster; the formal GAO referral is the inquiry anticipated by ACI-069-D's follow-up flag (now cleared there). Drafted from the primary source — the sponsoring lawmakers' own press release (full text retrieved). USA Today also reported the referral (retrieved via syndication this run) and corroborates the vendor and funding details. Scope note: the referral centers on campaign-finance and voter-data concerns, with the semiquincentennial commemoration as the contested vehicle — flagged for editorial review. [FOLLOW-UP PENDING: whether the GAO opens the investigation.]",
+   "interested_parties": "Rep. Jared Huffman; Rep. Joe Morelle; Government Accountability Office; Freedom250; America250 commission; Campaign Nucleus / Brad Parscale",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
@@ -15949,6 +15980,38 @@
    ],
    "notes": "Escalation within the ACI-046 Reflecting Pool cluster; follows ACI-046-P (prosecutors drop the vandalism cases, 31 July–early Aug 2026), ACI-046-N (Trump/DOJ concede contractor error, no proof of vandalism) and ACI-046-O (Interior IG review). Interested party David Hearn is a former Olympic canoeist. Full text and quotes retrieved from WTOP (cited as source). The maintainer-supplied Washington Post report is the originating coverage; automated fetch returned 403, but it surfaced in this run's search results and the maintainer confirmed a full read, so it is cited as an additional source. The Hill and Courthouse News also covered it but returned 403 to automated fetch this run. Ties the pool-failure conservation dispute to a political-interference/oversight axis (the $15M no-bid contract and alleged White House involvement in the charging decision).",
    "interested_parties": "Rep. Jamie Raskin (ranking Democrat, House Judiciary Committee); U.S. Attorney Jeanine Pirro (DC); Interior Secretary Doug Burgum; David Hearn (former Olympic canoeist); the White House",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-046-S",
+   "entry_id": "046-S",
+   "seq": 683,
+   "title": "Reflecting Pool: contractor blames its own flawed repairs, not vandalism, for the liner failure",
+   "artist": "N/A",
+   "institution": "Lincoln Memorial Reflecting Pool, National Mall, Washington, D.C.",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported September 11, 2026",
+   "date_discovered": "2026-09-12",
+   "sort_date": "2026-09-11",
+   "description": "The New York Times reported (11 September 2026), citing documents it reviewed, that the contractor which renovated the Lincoln Memorial Reflecting Pool told the Trump administration that errors in its own work and a flawed repair plan, not vandalism, caused the pool's new blue liner to peel and tear. According to the Times, the contractor attributed the failure to human oversight and a plan that layered two chemically incompatible coatings. The account further cuts against the administration's repeated assertion that vandals damaged the pool; the Justice Department had already dropped the felony vandalism case against former Olympic canoeist David Hearn, attributing the damage to the contractor's work (see ACI-046-N, ACI-046-P). As reported by The New York Times.",
+   "outcome": "The contractor's account, as reported by the Times, attributes the Reflecting Pool's liner failure to its own flawed work rather than to vandalism, further undercutting the administration's vandalism claim; the government has continued to attribute some of the damage to vandalism. [FOLLOW-UP PENDING: any administration or Interior Department response, the Interior Inspector General review at ACI-046-O, and the outstanding prosecution/records disputes in the ACI-046 cluster.]",
+   "tags": "Conservation, Design controversy, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/09/11/climate/reflecting-pool-contractor-trump.html",
+   "additional_sources": [],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-046 (Reflecting Pool renovation and aftermath); follows ACI-046-N (Trump concedes contractor error, no proof of vandalism) and ACI-046-P (prosecutors drop the vandalism cases). Drafted thin from the NYT article's metadata/abstract via the NYT API (metadata-grade; full body paywalled and not retrieved this run) — reported speech only, no quotations. The contractor is named in wire coverage (Reuters) but is left unnamed here because that detail was not in the cited NYT metadata. [FOLLOW-UP PENDING: administration/Interior response and the Interior IG review at ACI-046-O.]",
+   "interested_parties": "The renovation contractor; Donald Trump; the Trump administration; Interior Secretary Doug Burgum; National Park Service; David Hearn (former Olympic canoeist)",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
