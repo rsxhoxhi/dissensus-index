@@ -137,6 +137,8 @@ DOMAIN_TO_OUTLET = {
     "mexiconewsdaily.com": "Mexico News Daily",
     "naharnet.com": "Naharnet",
     "pbs.org": "PBS",
+    "fox5ny.com": "Fox 5 New York",
+    "1news.co.nz": "1News",
     "artlyst.com": "Artlyst",
     "unn.ua": "UNN",
     "inquirer.com": "The Philadelphia Inquirer",
