@@ -58,6 +58,7 @@ DOMAIN_TO_OUTLET = {
     "euronews.com": "Euronews",
     "france24.com": "France 24",
     "cnn.com": "CNN",
+    "ktvz.com": "CNN",  # KTVZ /cnn-us-politics/ path carries CNN national wire content
     "courtlistener.com": "CourtListener",
     "storage.courtlistener.com": "CourtListener",
     "archdaily.com": "ArchDaily",
