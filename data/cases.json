@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 650
+  "total_cases": 652
  },
  "cases": [
   {
@@ -15659,6 +15659,44 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BD",
+   "entry_id": "005-BD",
+   "seq": 688,
+   "title": "Kennedy Center: judge again bars Trump's name as board votes to close the building",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-09-15",
+   "date_discovered": "2026-09-16",
+   "sort_date": "2026-09-15",
+   "description": "On 15 September 2026, US District Judge Christopher Cooper ruled for a second time that the Kennedy Center's board cannot add President Trump's name to the building without congressional approval, according to the Associated Press. The AP report quotes the ruling: “Defendants cannot install memorials for President Trump or anyone or anything else at the Kennedy Center without Congress's blessing.” The AP reports that about an hour after the ruling, the Trump-aligned board voted to close most of the performing arts venue for renovations. Congress had allocated $257 million for repairs; the AP reports Trump has said the repairs would proceed only if the board were allowed to add his name to the building, a condition Cooper had by then rejected twice, and that the Justice Department appealed Cooper's ruling. The AP notes the board had voted in August 2026 to inscribe on the facade the words “The John F. Kennedy Center for the Performing Arts Restored and Renovated By President Donald J. Trump.” Trump said he had contributed $17 million to an endowment supporting the institution. The Washington Post also reported the ruling and the board's move to close the building.",
+   "outcome": "A federal judge blocked adding Trump's name a second time; within about an hour the board voted to close most of the building for renovations, and the Justice Department appealed the ruling as Trump conditioned the congressionally funded repairs on adding his name. Litigation continues. [FOLLOW-UP PENDING: the Justice Department's appeal of Judge Cooper's ruling, and whether and when the main building actually closes and reopens.]",
+   "tags": [
+    "Political interference",
+    "Legal challenge",
+    "Institutional crisis"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Associated Press",
+    "Washington Post"
+   ],
+   "source": "https://www.ksat.com/news/politics/2026/09/15/kennedy-center-board-votes-to-close-over-financial-woes-trump-branding-dispute-ap-sources-say/",
+   "additional_sources": [
+    "https://www.washingtonpost.com/style/2026/09/15/judge-bars-kennedy-center-adding-trumps-name-building/"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center under the 2025 takeover). New development: Judge Cooper's second ruling barring Trump's name, followed within about an hour by the board's vote to close the main building for renovations and by a Justice Department appeal. Follows the August 2026 board vote to inscribe Trump's name on the facade and the scheduled special board meeting logged at ACI-005-BC. The Associated Press report (retrieved via KSAT's syndication of the AP wire) is the full-text reference; Judge Cooper's quoted line is from that AP text. The Washington Post corroborates at metadata grade (direct WaPo fetch is routinely blocked). Enrich with the DC federal-cultural cluster on the trawl.",
+   "interested_parties": "US District Judge Christopher Cooper; Kennedy Center board; President Donald Trump; US Department of Justice; US Congress",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -21118,6 +21156,39 @@
    "notes": "Sub-entry of ACI-372 (Sukkot's 25 August Madama memorial destruction), created during review 8 September 2026. The escalation: after the Madama act — which Smotrich initially rebuked — the finance minister days later demanded the military dismantle 40 further memorials, a subsequent and broader development rather than a continuation of the single Madama monument's story. Note the shift from rebuke (see parent) to this formal demand. Governance/neutrality annotation as in the parent: contested political monuments, all characterizations attributed to their sources, contest/act tags only. Reference source Hyperallergic (full-text; carries Smotrich's quoted words); corroborated full-text by Middle East Monitor. Enrichment note (12 September 2026): a specific Palestinian response to Smotrich's 40-memorial demand was not retrieved; the affected-community voice on the underlying destruction is captured in the parent (ACI-372) via Kafr Madama village council head Rami Nassar.",
    "interested_parties": "Finance Minister Bezalel Smotrich (Religious Zionist Party); MK Zvi Sukkot; PM Benjamin Netanyahu; Israel Defense Forces",
    "coverage_geography": "Israel, Palestinian Territories, Middle East, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-391",
+   "entry_id": "391",
+   "seq": 689,
+   "title": "Whitney, Brooklyn Museum and American Folk Art Museum staff authorize strike over pay",
+   "artist": "N/A",
+   "institution": "Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-09-15",
+   "date_discovered": "2026-09-16",
+   "sort_date": "2026-09-15",
+   "description": "Unionized staff at three New York museums — the Whitney Museum of American Art, the Brooklyn Museum, and the American Folk Art Museum — have voted to authorize strike action, Hyperallergic reported on 15 September 2026. All three unions are represented by United Auto Workers (UAW) Local 2110. Hyperallergic reports that American Folk Art Museum staff voted unanimously to authorize a strike, that the Whitney and Brooklyn Museum contracts expired in the summer of 2026, and that the American Folk Art Museum union, formed in 2024, has been negotiating for about two years. No strike dates have been set, but Hyperallergic reports the unions established a deadline referencing major exhibitions opening in early October. Hyperallergic quotes the American Folk Art Museum's director of information technology, Richard Ho: “Staff should be able to afford to live in the city they work in.” Hyperallergic notes that the Guggenheim Museum union voted to authorize strike action in June 2026 after stalled negotiations.",
+   "outcome": "Staff at all three museums have authorized strikes but set no strike date, with a deadline tied to early-October exhibition openings; contract negotiations continue. [FOLLOW-UP PENDING: whether any of the three unions calls an actual strike, and the outcome of the contract negotiations.]",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/staff-at-whitney-museum-brooklyn-museum-and-american-folk-art-museum-authorize-strike/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "New parent. Coordinated strike-authorization votes across three New York museums whose unions are all UAW Local 2110. Related labor cases: ACI-211 (Guggenheim / UAW Local 2110 strike authorization, June 2026), ACI-128 (Whitney union gala rally during second-contract talks, May 2026), ACI-096 (Seattle Art Museum organizing), ACI-284 (V&A strikes). Hyperallergic is the full-text reference; the Richard Ho quote is from the Hyperallergic text. ARTnews also covered the votes but was not independently retrieved this run (site bot-wall). FOR REVIEW: whether this should stand as a new parent or fold into ACI-128 (Whitney-specific) as a sub-entry — kept as a parent here because it spans three institutions.",
+   "interested_parties": "UAW Local 2110; Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum; Richard Ho (American Folk Art Museum)",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
