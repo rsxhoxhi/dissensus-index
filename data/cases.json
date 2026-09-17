@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 652
+  "total_cases": 655
  },
  "cases": [
   {
@@ -20342,6 +20342,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-345-A",
+   "entry_id": "345-A",
+   "seq": 690,
+   "title": "Kehinde Wiley embassy removal: artist responds with an 'Aesthetically Terrifying' merch drop",
+   "artist": "Kehinde Wiley",
+   "institution": "US Embassy, Santo Domingo (Dominican Republic); US State Department, Art in Embassies program",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Response reported early September 2026, following the August 2026 removal",
+   "date_discovered": "2026-09-05",
+   "sort_date": "2026-09-04",
+   "description": "ARTnews reported that Kehinde Wiley responded to the State Department's removal of his 2013 embassy commission by releasing a $120 T-shirt through his online store bearing the phrase \"aesthetically terrifying,\" incorporating floral motifs that echo the removed painting; ARTnews attributed the \"aesthetically terrifying\" description to Erin Scavino, director of the department's Art in Embassies program, and reported that the shirt's product text frames the gesture as turning a critique into something meant to be worn and reconsidered. [Single-source (ARTnews); the 2013 date and the quoted phrase were verified against the full article on maintainer review.]",
+   "outcome": "The removed painting's status is unchanged; the State Department has said it is determining whether the federally owned work can be sold. [FOLLOW-UP PENDING: whether the painting is sold or deaccessioned, and any further response from the artist.]",
+   "tags": [
+    "Removal",
+    "Censorship",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/kehnide-wiley-responds-donald-trump-terrifying-tshirt-1234797278/",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "Sub-entry of ACI-345 (State Department removal of Wiley's Santo Domingo embassy painting). Artist's public response to the removal. Thin; single-source (ARTnews) — the 2013 commission date and the quoted phrase \"aesthetically terrifying\" were verified against the full article on maintainer review; enrich on the relevant trawl day.",
+   "interested_parties": "Kehinde Wiley; US State Department (Art in Embassies); Erin Scavino",
+   "coverage_geography": "US, International",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-346",
    "entry_id": "346",
    "seq": 648,
@@ -21194,6 +21228,74 @@
    "notes": "Sub-entry of ACI-372 (Sukkot's 25 August Madama memorial destruction), created during review 8 September 2026. The escalation: after the Madama act — which Smotrich initially rebuked — the finance minister days later demanded the military dismantle 40 further memorials, a subsequent and broader development rather than a continuation of the single Madama monument's story. Note the shift from rebuke (see parent) to this formal demand. Governance/neutrality annotation as in the parent: contested political monuments, all characterizations attributed to their sources, contest/act tags only. Reference source Hyperallergic (full-text; carries Smotrich's quoted words); corroborated full-text by Middle East Monitor. Enrichment note (12 September 2026): a specific Palestinian response to Smotrich's 40-memorial demand was not retrieved; the affected-community voice on the underlying destruction is captured in the parent (ACI-372) via Kafr Madama village council head Rami Nassar.",
    "interested_parties": "Finance Minister Bezalel Smotrich (Religious Zionist Party); MK Zvi Sukkot; PM Benjamin Netanyahu; Israel Defense Forces",
    "coverage_geography": "Israel, Palestinian Territories, Middle East, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-373",
+   "entry_id": "373",
+   "seq": 691,
+   "title": "Argentine court clears return of Nazi-looted portrait to Goudstikker heir",
+   "artist": "Giacomo Antonio Melchiorre Ceruti (court-attributed; long attributed to Giuseppe Vittore Ghislandi / Fra Galgario) — 'Portrait of a Lady'",
+   "institution": "Argentine federal court (Mar del Plata / Buenos Aires); Goudstikker estate (Marei von Saher)",
+   "country": "Argentina",
+   "governance_type": "Democracy",
+   "date_controversy": "Painting looted from the Goudstikker collection in 1940; rediscovered in a 2025 online real-estate listing; Argentine court approved its return September 4, 2026",
+   "date_discovered": "2026-09-05",
+   "sort_date": "2026-09-04",
+   "description": "An Argentine court approved an agreement clearing the return of 'Portrait of a Lady,' an 18th-century painting long attributed to the Italian Baroque painter Giuseppe Vittore Ghislandi (Fra Galgario), to Marei von Saher, sole heir of the Dutch-Jewish art dealer Jacques Goudstikker, whose celebrated collection was sold under duress after Nazi Germany invaded the Netherlands in 1940, ABC News reported, carrying Associated Press reporting. The Washington Post reported that a court-ordered examination by Argentina's National Academy of Fine Arts reattributed the work — long recorded as a Ghislandi in the Goudstikker collection and exhibited under that name in Amsterdam before the war — to the Italian painter Giacomo Antonio Melchiorre Ceruti. The painting had been missing for roughly eight decades and was rediscovered in 2025 when Dutch reporters investigating the late SS financier Friedrich Kadgien spotted it in an online real-estate listing for the Mar del Plata home of his daughter, Patricia Kadgien. Patricia Kadgien and her husband, who had been charged in connection with concealing the work, agreed to relinquish any claim to it and consent to its return in exchange for avoiding a criminal trial, a period of court supervision, and payments to a local hospital. Von Saher intends to exhibit the work in Buenos Aires.",
+   "outcome": "Court approved the return on September 4, 2026; the painting is to be handed to von Saher, who plans to display it in Buenos Aires. [FOLLOW-UP PENDING: physical transfer of the painting and its planned Buenos Aires exhibition.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "ABC News (Australia)",
+    "Washington Post"
+   ],
+   "source": "https://www.abc.net.au/news/2026-09-05/nazi-looted-portrait-returned-to-jewish-dealers-heir-argentina/107119834",
+   "additional_sources": [
+    "https://www.washingtonpost.com/world/2026/09/04/nazi-painting-argentine-goudstikker-kadgien-hitler/7c1a7c74-a8a0-11f1-9e38-f705d048bd5a_story.html"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "Nazi-looted-art restitution; Goudstikker cluster — cf. ACI-084 / ACI-084-A (Goudstikker paintings), ACI-111 (Musee d'Orsay MNR room), ACI-252 (Bavaria restitution panel). Reference source is ABC News carrying the AP wire; the Washington Post carried the AP reporting plus the court-ordered reattribution of the work from Giuseppe Vittore Ghislandi (Fra Galgario) to Giacomo Ceruti, reflected here. Artist attribution corrected from Ghislandi to Ceruti on maintainer review (per the WaPo report).",
+   "interested_parties": "Marei von Saher (Goudstikker heir); Patricia Kadgien; Judge Santiago Inchausti; prosecutor Carlos Martinez; Argentina's National Academy of Fine Arts (court-appointed examination)",
+   "coverage_geography": "Argentina, US, Netherlands, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-374",
+   "entry_id": "374",
+   "seq": 692,
+   "title": "Nature Conservancy sues Adam Lindemann over Schnabel sculpture installed on Warhol preserve",
+   "artist": "Julian Schnabel (sculpture 'Ahab'); Adam Lindemann (installer)",
+   "institution": "The Nature Conservancy; Andy Warhol Visual Arts Preserve, Montauk, New York",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Suit filed August 20, 2026 (US District Court, Eastern District of New York); removal first demanded in a December 2024 letter",
+   "date_discovered": "2026-09-05",
+   "sort_date": "2026-08-20",
+   "description": "The Nature Conservancy sued the art dealer Adam Lindemann in the US District Court for the Eastern District of New York, alleging he installed a roughly 25-foot Julian Schnabel sculpture, 'Ahab,' on the organization's Andy Warhol Visual Arts Preserve near Montauk without permission, ARTnews reported. According to the report, Lindemann — who owns property adjacent to the preserve and founded the now-defunct Venus Over Manhattan gallery — was asked to remove the work in a December 2024 letter and in subsequent correspondence but has declined and has continued to enter the property; the suit alleges trespass. [Thin entry drawn from an ARTnews search result; full text not retrieved.]",
+   "outcome": "Litigation newly filed; the sculpture remains installed as of reporting. [FOLLOW-UP PENDING: court proceedings and whether the sculpture is removed.]",
+   "tags": [
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/adam-lindemann-sued-julian-schnabel-sculpture-montauk-1234797149/",
+   "additional_sources": [],
+   "themes": [
+    7
+   ],
+   "notes": "Unauthorized installation of a contemporary sculpture on protected land, framed as trespass. Thin; single-source (ARTnews search result) — enrich on the relevant trawl day.",
+   "interested_parties": "The Nature Conservancy; Adam Lindemann; Julian Schnabel",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
