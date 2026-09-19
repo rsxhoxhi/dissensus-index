@@ -151,6 +151,8 @@ DOMAIN_TO_OUTLET = {
     "krdo.com": "KRDO",
     "wjla.com": "WJLA",
     "ice.gov": "ICE",
+    "law360.com": "Law360",
+    "artlawyersassociation.com": "Art Lawyers Association",
 }
 
 ALIASES = {

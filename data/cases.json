@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 655
+  "total_cases": 656
  },
  "cases": [
   {
@@ -21295,6 +21295,44 @@
    ],
    "notes": "Unauthorized installation of a contemporary sculpture on protected land, framed as trespass. Thin; single-source (ARTnews search result) — enrich on the relevant trawl day.",
    "interested_parties": "The Nature Conservancy; Adam Lindemann; Julian Schnabel",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-396",
+   "entry_id": "396",
+   "seq": 693,
+   "title": "New York court voids seizure order for Schiele drawing held by Art Institute of Chicago",
+   "artist": "Egon Schiele ('Russian War Prisoner', 1916)",
+   "institution": "Art Institute of Chicago",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Appellate ruling issued September 17, 2026; reported by The New York Times September 18, 2026",
+   "date_discovered": "2026-09-19",
+   "sort_date": "2026-09-18",
+   "description": "A New York State appellate court vacated 2025 orders that had directed the Art Institute of Chicago to surrender Egon Schiele's 1916 drawing 'Russian War Prisoner' to the heirs of Fritz Gruenbaum, a Viennese cabaret performer who died at the Dachau concentration camp in 1941. The New York Times reported that the court held the Manhattan district attorney's office should not have used a criminal penal-law seizure procedure -- one the office has invoked in more than 100 seizure cases -- to resolve a sharply contested ownership dispute that requires full civil proceedings. The ruling reverses an April 2025 decision by Justice Althea Drysdale, who had found the drawing to be stolen property and ordered its return; Law360 reported that the museum prevailed on appeal. The drawing was donated to the Art Institute in 1966, and its ownership history in the mid-20th century is disputed. The New York County District Attorney's Antiquities Trafficking Unit and the Gruenbaum heirs had sought the work's turnover, which the museum contested. [Thin entry: ruling drawn from a New York Times metadata abstract and a Law360 headline; case background from an Art Lawyers Association summary. Enrich on the relevant trawl day.]",
+   "outcome": "The appellate ruling vacates the turnover order, leaving the drawing with the Art Institute of Chicago; the underlying ownership claim is not finally resolved and the heirs may pursue it through civil proceedings. [FOLLOW-UP PENDING: whether the heirs or the district attorney seek further review or refile as a civil action, and the ruling's effect on other pending seizure cases.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times",
+    "Law360",
+    "Art Lawyers Association"
+   ],
+   "source": "https://www.nytimes.com/2026/09/18/arts/egon-schiele-chicago-museum-appellate-court-ruling.html",
+   "additional_sources": [
+    "https://www.law360.com/articles/2526756",
+    "https://www.artlawyersassociation.com/post/new-york-court-validates-district-attorney-s-seizure-of-schiele-work-from-art-institute-of-chicago"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Cross-ref other Nazi-era restitution cases: ACI-393 (Norton Simon / Cranach), ACI-394 (Babbitt / Auschwitz), ACI-091 (Neue Galerie / Klimt), ACI-111 (Musee d'Orsay MNR room). Per the Times, the court's reasoning that the DA's penal-law seizure procedure is improper for contested ownership disputes could affect more than 100 other seizure cases the office has brought. Ruling is metadata/headline-grade (NYT abstract + Law360); background on the work and the 2025 trial ruling from an Art Lawyers Association case summary. [FOLLOW-UP PENDING: further review or a civil refiling, and the precedent's effect on other seizures.]",
+   "interested_parties": "Fritz Gruenbaum heirs (incl. Timothy Reif); New York County District Attorney's Office (Antiquities Trafficking Unit); Art Institute of Chicago; Justice Althea Drysdale (2025 trial ruling)",
    "coverage_geography": "US",
    "follow_up_pending": true
   }
