@@ -21518,9 +21518,10 @@
    "date_controversy": "Theft on September 8, 2026",
    "date_discovered": "2026-09-08",
    "sort_date": "2026-09-08",
-   "description": "Thieves broke into the Musée Renoir in Cagnes-sur-Mer, on the French Riviera, shortly before 6 a.m. on September 8, 2026, entering through a hole cut in a garden fence, according to NBC News. NBC News reports that the museum's alarm triggered at 5:48 a.m. and police arrived within about five minutes, prompting the intruders to abandon two of the four canvases they had taken in the gardens as they fled; two paintings remained missing and the suspects at large. The museum, opened in 1960 in Renoir's former mansion (Les Collettes), holds 13 paintings by the artist alongside some 40 sculptures, furniture and photographs. Mayor Bryan Masson said, 'Attacking the Renoir museum is attacking a part of the history and heritage of Cagnes-sur-Mer,' per NBC News, which also notes Europol's finding that European art thieves increasingly use violent methods and ad-hoc recruitment via social media.",
-   "outcome": "Two of the four stolen paintings were recovered in the museum's gardens during the escape; two remain missing and the investigation is ongoing, with no arrests reported in the retrieved coverage. [FOLLOW-UP PENDING: recovery of the two missing paintings and any arrests.]",
+   "description": "Thieves broke into the Musée Renoir in Cagnes-sur-Mer, on the French Riviera, a little before 6 a.m. on September 8, 2026, entering through a hole made in a garden fence, and stole four paintings, according to NBC News. NBC News reports that police arrived within five minutes and that the thieves dropped two of the canvases as they were chased, making off with the other two; two paintings remained missing and the suspects at large. Mayor Bryan Masson said, \"Attacking the Renoir museum is attacking a part of the history and heritage of Cagnes-sur-Mer,\" per NBC News, which also reports Europol's finding that art thieves in Europe are committing more violent robberies and that specialist gangs have been replaced by ad hoc opportunists recruited through social media.",
+   "outcome": "Two of the four stolen paintings were dropped by the thieves during their escape and recovered; two remain missing and the investigation is ongoing, with no arrests reported in the retrieved coverage. [FOLLOW-UP PENDING: recovery of the two missing paintings and any arrests.]",
    "tags": [
+    "Theft",
     "Security failure"
    ],
    "court_case": "No",
@@ -21531,7 +21532,7 @@
    "source": "https://www.nbcnews.com/world/europe/thieves-steal-three-paintings-french-rivieras-renoir-museum-rcna596540",
    "additional_sources": [],
    "themes": [],
-   "notes": "Major museum theft in the pattern tracked at ACI-002 (Louvre heist); part of a 2026 wave of thefts from European museums and collections. NBC News cites Europol on the changing profile of European art theft.",
+   "notes": "Major museum theft in the pattern tracked at ACI-002 (Louvre heist); part of a 2026 wave of thefts from European museums and collections. NBC News cites Europol on the changing profile of European art theft. Corrected on maintainer review: removed an unsupported alarm time (5:48 a.m.) and unsupported claims that the paintings were taken from / recovered in the museum gardens — NBC does not state where in the museum the works were displayed or where the dropped canvases were found (only the entry via a garden fence is stated); description trimmed to NBC-supported facts. No Dissensus theme assigned (museum heists have no dedicated theme; theme 5 is used only for encyclopedic-museum cases like the Louvre cluster).",
    "interested_parties": "Musée Renoir; Mayor Bryan Masson (Cagnes-sur-Mer); French police",
    "coverage_geography": "France, US, international",
    "follow_up_pending": true
