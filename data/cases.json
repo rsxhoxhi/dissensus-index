@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 669
+  "total_cases": 668
  },
  "cases": [
   {
@@ -21752,44 +21752,6 @@
    "notes": "Connects to the Index's Parthenon Marbles thread (see ACI-361; ACI-117-A) — universal-museum standing and the Greek reunification claim.",
    "interested_parties": "Greek Central Archaeological Council; Acropolis Museum; Liebieghaus Sculpture Collection (Elisabeth Pallentin; Vinzenz Brinkmann); British Museum",
    "coverage_geography": "Greece, Germany, UK, international",
-   "follow_up_pending": true
-  },
-  {
-   "id": "ACI-384",
-   "entry_id": "384",
-   "seq": 706,
-   "title": "Paris court acquits Kamel Daoud of defaming 'Houris' inspiration Saâda Arbane",
-   "artist": "Kamel Daoud",
-   "institution": "Éditions Gallimard (publisher); Paris Correctional Court",
-   "country": "France",
-   "governance_type": "Democracy",
-   "date_controversy": "Acquittal September 8, 2026",
-   "date_discovered": "2026-09-09",
-   "sort_date": "2026-09-08",
-   "description": "On 8 September 2026 the Paris Correctional Court acquitted (relaxé) the Franco-Algerian writer Kamel Daoud in a defamation suit brought by Saâda Arbane, according to TSA Algérie. The court found that Arbane was not identifiable in the statements at issue and that defamation was not established; deeming the prosecution manifestly unfounded, it ordered Arbane to pay Daoud one euro in symbolic damages and 1,500 euros to the publication director of Le Figaro. TSA Algérie reports the suit concerned remarks Daoud made in an April 2025 interview with Le Figaro, and that this defamation case is separate from Arbane's ongoing privacy claim. Arbane, a survivor of a 1990s Algerian civil-war massacre, contends that Daoud — through his psychiatrist wife — used details of her life without consent to construct the character Aube in his Prix Goncourt 2024 novel Houris, published by Gallimard; that privacy suit against Daoud and Gallimard remains pending. TSA Algérie reports that in Algeria, where Houris is banned, Arbane's lawyers filed complaints in Oran in November 2024 and that Daoud was sentenced in absentia in April 2026 to three years in prison and a five-million-dinar fine.",
-   "outcome": "Daoud was acquitted of defamation and awarded symbolic damages; Arbane's separate privacy suit over the character Aube in Houris, against Daoud and Gallimard, remains pending, as do proceedings in Algeria. [FOLLOW-UP PENDING: the outcome of the Paris privacy suit over Houris and the Algerian proceedings against Daoud.]",
-   "tags": [
-    "Defamation",
-    "Legal challenge",
-    "Censorship"
-   ],
-   "court_case": "Yes",
-   "coverage_tier": "International",
-   "outlets": [
-    "TSA Algerie",
-    "ActuaLitte"
-   ],
-   "source": "https://www.tsa-algerie.com/france-poursuivi-pour-diffamation-par-saada-arbane-kamel-daoud-relaxe/",
-   "additional_sources": [
-    "https://actualitte.com/article/133760/droit-justice/kamel-daoud-relaxe-en-diffamation-face-a-saada-arbane-l-affaire-houris-continue"
-   ],
-   "themes": [
-    8,
-    11
-   ],
-   "notes": "New parent. A Franco-Algerian cultural and legal controversy over Kamel Daoud's Prix Goncourt 2024 novel Houris and whether it used Saâda Arbane's life story without consent (themes 8 Artist Responsibility, 11 Authorship & Appropriation). Governance-friction frame: Daoud is acquitted of defamation in France (democracy) while Houris is banned and he is prosecuted in Algeria (authoritarian). TSA Algérie is the full-text reference; ActuaLitté corroborates at snippet grade. Reported speech, no direct quotes. The Algerian in-absentia sentence and the ongoing Paris privacy suit are carried by TSA Algérie. Scope note: a literary/authorship dispute — flagged for review. Le Monde and Le Figaro carried it but automated fetch of Le Monde was blocked this run; enrich on a future Europe trawl.",
-   "interested_parties": "Kamel Daoud (writer); Saâda Arbane (plaintiff, massacre survivor); Éditions Gallimard (publisher of Houris); Le Figaro (its publication director awarded damages); Paris Correctional Court; Algerian courts (Oran)",
-   "coverage_geography": "France, Algeria, Maghreb",
    "follow_up_pending": true
   }
  ]
