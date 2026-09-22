@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 673
+  "total_cases": 674
  },
  "cases": [
   {
@@ -16203,6 +16203,42 @@
    ],
    "notes": "Sub-entry of ACI-046 (Reflecting Pool renovation and its aftermath); follows ACI-046-P (prosecutors drop the vandalism cases) and ACI-046-Q (House Judiciary records demand). Thin, metadata grade: CNBC and ABC News surfaced in this run's search results but automated full-text fetch was blocked (CNBC and The Hill returned 403); reported speech only, no direct quotes — enrich with full text on a future pass. The open question is judicial: whether the dismissal bars re-prosecution. Flagged for review as a thin hearing-stage update.",
    "interested_parties": "David Hearn (former Olympic canoeist); U.S. Attorney Jeanine Pirro (DC); the presiding federal judge; the Trump administration",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-046-S",
+   "entry_id": "046-S",
+   "seq": 711,
+   "title": "Reflecting Pool: contractor blames its own flawed repairs, not vandalism, for the liner failure",
+   "artist": "N/A",
+   "institution": "Lincoln Memorial Reflecting Pool, National Mall, Washington, D.C.",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported September 11, 2026",
+   "date_discovered": "2026-09-12",
+   "sort_date": "2026-09-11",
+   "description": "The New York Times reported (11 September 2026), citing documents it reviewed, that the contractor which renovated the Lincoln Memorial Reflecting Pool told the Trump administration that errors in its own work and a flawed repair plan, not vandalism, caused the pool's new blue liner to peel and tear. According to the Times, the contractor attributed the failure to human oversight and a plan that layered two chemically incompatible coatings. The account further cuts against the administration's repeated assertion that vandals damaged the pool; the Justice Department had already dropped the felony vandalism case against former Olympic canoeist David Hearn, attributing the damage to the contractor's work (see ACI-046-N, ACI-046-P). As reported by The New York Times.",
+   "outcome": "The contractor's account, as reported by the Times, attributes the Reflecting Pool's liner failure to its own flawed work rather than to vandalism, further undercutting the administration's vandalism claim; the government has continued to attribute some of the damage to vandalism. [FOLLOW-UP PENDING: any administration or Interior Department response, the Interior Inspector General review at ACI-046-O, and the outstanding prosecution/records disputes in the ACI-046 cluster.]",
+   "tags": [
+    "Conservation",
+    "Design controversy",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/09/11/climate/reflecting-pool-contractor-trump.html",
+   "additional_sources": [],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-046 (Reflecting Pool renovation and aftermath); follows ACI-046-N (Trump concedes contractor error, no proof of vandalism) and ACI-046-P (prosecutors drop the vandalism cases). Drafted thin from the NYT article's metadata/abstract via the NYT API (metadata-grade; full body paywalled and not retrieved this run) — reported speech only, no quotations. The contractor is named in wire coverage (Reuters) but is left unnamed here because that detail was not in the cited NYT metadata. [FOLLOW-UP PENDING: administration/Interior response and the Interior IG review at ACI-046-O.]",
+   "interested_parties": "The renovation contractor; Donald Trump; the Trump administration; Interior Secretary Doug Burgum; National Park Service; David Hearn (former Olympic canoeist)",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
