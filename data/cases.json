@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 672
+  "total_cases": 676
  },
  "cases": [
   {
@@ -14550,6 +14550,43 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-012-Q",
+   "entry_id": "012-Q",
+   "seq": 712,
+   "title": "Smithsonian: Trump demands a George Washington 'Colossus' replace the 'Infinity' sculpture",
+   "artist": "José de Rivera (existing 'Infinity' sculpture)",
+   "institution": "Smithsonian Institution, National Museum of American History, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported September 12, 2026 (Truth Social posts)",
+   "date_discovered": "2026-09-13",
+   "sort_date": "2026-09-12",
+   "description": "In a series of Truth Social posts reported by PBS NewsHour on 12 September 2026, President Trump called on the Smithsonian to install statues of George Washington and mount a multi-year exhibition at the National Museum of American History. Per PBS, Trump asked for an 11-foot Washington statue — previously displayed at the Freedom 250 IndyCar race — to be placed in the museum's Flag Hall by Constitution Day (17 September), and for a 30-foot Washington statue to replace the 'Infinity' sculpture, a stainless-steel work by New York artist José de Rivera that was commissioned by the federal government and installed in 1967. He also called for an exhibit honoring Washington running through 22 February 2032, the 300th anniversary of Washington's birth, and proposed replacing the museum's 'Center for Restorative History' with a 'Center for American Heroes.' PBS reported that Trump wrote Washington 'is easily America's Greatest Hero,' adding, 'Without him, our Country and our Freedoms wouldn't exist.' PBS noted that the Smithsonian operates outside the executive branch and is overseen by a Board of Regents — including Vice President JD Vance and the chief justice of the United States — so it is not clear Trump can order the changes; the report cited no response from the Smithsonian.",
+   "outcome": "The demands stand as public statements; PBS reported no Smithsonian response and noted the institution's independent governance. [FOLLOW-UP PENDING: whether the Smithsonian installs the 11-foot statue by Constitution Day (17 September 2026), removes the de Rivera 'Infinity' sculpture, mounts the Washington exhibition, or otherwise responds.]",
+   "tags": [
+    "Political interference",
+    "Removal",
+    "Historical erasure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "PBS"
+   ],
+   "source": "https://www.pbs.org/newshour/politics/trump-asks-smithsonian-to-install-george-washington-statues-and-exhibit",
+   "themes": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "notes": "Part of the ACI-012 Smithsonian cluster; latest sibling ACI-012-P (Bunch departure) is pending in an unmerged branch. Theme 1 (Defining Art) added: the dispute is explicitly over what public art belongs in the museum, targeting a 1967 modernist sculpture for a heroic monument. Cf. ACI-069/ACI-319 (America 250 / Freedom 250, from which the 11-foot statue is drawn) and ACI-038 (Trump triumphal arch). The word 'Colossus' in the title follows the NYT headline (retrieved via API, metadata-grade) for the same story; described facts are drawn from PBS.",
+   "interested_parties": "President Trump; Smithsonian Institution; Board of Regents (incl. VP JD Vance, Chief Justice John Roberts); National Museum of American History",
+   "coverage_geography": "US",
+   "follow_up_pending": true,
+   "additional_sources": []
+  },
+  {
    "id": "ACI-011",
    "entry_id": "011",
    "seq": 10,
@@ -17848,7 +17885,7 @@
    "date_discovered": "2026-07-17",
    "sort_date": "2026-07-15",
    "description": "According to Hyperallergic (16 July 2026), New York sculptor Sergio Furnari announced plans to unveil an \"unsanctioned\" bronze memorial sculpture of conservative activist Charlie Kirk in Times Square around 10 September 2026, reported as the anniversary of Kirk's death. The seated figure holds a microphone and wears a \"FREEDOM\" crewneck; Furnari, who said he lacked official permits (\"God gave me permission\"), launched a $150,000 crowdfunding campaign. Furnari said he received harassing and threatening messages online, and commentators predicted the statue would be vandalised; he said he was not politically motivated but was inspired by Kirk's free-speech stance and by the treatment of Kirk's widow after his death.",
-   "outcome": "Sculpture in production; unveiling planned for September 2026 without official permits, amid online backlash and predictions of vandalism. [FOLLOW-UP PENDING: whether the statue is installed, permitted, or removed/vandalised.]",
+   "outcome": "The statue was unveiled in Times Square on 10 September 2026 (see ACI-257-A): displayed briefly on a truck without a permit, drawing supporters and — per ARTnews — a shouting/shoving confrontation between opposing crowds, before being removed the same day. No vandalism was reported in the retrieved coverage.",
    "tags": "Political art, Community objection",
    "court_case": "No",
    "coverage_tier": "National",
@@ -17860,10 +17897,47 @@
     7,
     9
    ],
-   "notes": "New parent; unauthorized public art (theme 7) and public objection (theme 9). BORDERLINE inclusion — an as-yet-uninstalled, unsanctioned monument whose controversy so far is online backlash and threats; surfaced as a flagged candidate per the surface-more standard. Cf. ACI-174 / ACI-255 for other unauthorized political public art. Sole retrievable trade source this run was Hyperallergic; other coverage (TMZ, LGBTQ Nation, UNILAD) appeared in search but is not cited.",
+   "notes": "New parent; unauthorized public art (theme 7) and public objection (theme 9). BORDERLINE inclusion — an as-yet-uninstalled, unsanctioned monument whose controversy so far is online backlash and threats; surfaced as a flagged candidate per the surface-more standard. Cf. ACI-174 / ACI-255 for other unauthorized political public art. Sole retrievable trade source this run was Hyperallergic; other coverage (TMZ, LGBTQ Nation, UNILAD) appeared in search but is not cited. Update: unveiling occurred 10 Sept 2026, documented at ACI-257-A.",
    "interested_parties": "Sergio Furnari (sculptor); online critics; Times Square (planned site)",
    "coverage_geography": "US",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-257-A",
+   "entry_id": "257-A",
+   "seq": 713,
+   "title": "Charlie Kirk memorial: unsanctioned Furnari statue briefly unveiled in Times Square on death anniversary",
+   "artist": "Sergio Furnari",
+   "institution": "N/A (Times Square, New York City; unsanctioned)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "September 10, 2026",
+   "date_discovered": "2026-09-13",
+   "sort_date": "2026-09-10",
+   "description": "Sculptor Sergio Furnari unveiled his life-size bronze memorial to conservative activist Charlie Kirk in Times Square on 10 September 2026, the first anniversary of Kirk's killing at a Utah university event, Fox 5 New York reported. Fox 5 reported that the seated figure holds a microphone, that Furnari completed it in his Queens studio and said he spent about $100,000 on materials, and that supporters and conservative figures gathered to view the work and pay tribute through the day. ARTnews reported that the roughly 6-foot-5-inch statue — showing Kirk in a 'FREEDOM' T-shirt — was displayed on the back of a truck that left immediately after the unveiling, which Furnari timed to 2:23 p.m., the moment of Kirk's death a year earlier, and that shouting and a shoving match broke out between opposing crowds. The display was unpermitted, as Furnari had said in advance.",
+   "outcome": "The statue was unveiled and displayed briefly on a truck without a permit before being removed the same day; no vandalism was reported in the retrieved coverage. The anticipated unveiling (flagged on the parent) has occurred.",
+   "tags": [
+    "Political art",
+    "Community objection"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Fox 5 New York",
+    "ARTnews"
+   ],
+   "source": "https://www.fox5ny.com/news/charlie-kirk-statue-times-square-new-york",
+   "themes": [
+    7,
+    9
+   ],
+   "notes": "Resolves the ACI-257 follow-up flag (planned unveiling). Confrontation/shoving-match detail attributed to ARTnews; Fox 5 New York's account described a calm crowd and did not mention a confrontation — a source divergence noted for review. Cf. ACI-257 parent.",
+   "interested_parties": "Sergio Furnari (sculptor); Turning Point USA (Kirk's organization); supporters and opposing demonstrators",
+   "coverage_geography": "US",
+   "follow_up_pending": false,
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/tensions-high-charlie-kirk-memorial-unveiled-times-square-1234798034/"
+   ]
   },
   {
    "id": "ACI-258",
@@ -21758,6 +21832,42 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-378-A",
+   "entry_id": "378-A",
+   "seq": 714,
+   "title": "Musée Renoir theft: stolen 'Young Woman at the Well' is itself a Nazi-looted work under a restitution claim",
+   "artist": "Pierre-Auguste Renoir",
+   "institution": "Musée Renoir, Cagnes-sur-Mer",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Theft 8 September 2026; Nazi-looting provenance reported 9 September 2026",
+   "date_discovered": "2026-09-13",
+   "sort_date": "2026-09-09",
+   "description": "One of the two Renoir paintings still missing after the 8 September 2026 theft from the Musée Renoir in Cagnes-sur-Mer is itself a work looted during the Nazi era, 1News reported. Citing the French Culture Ministry's database, 1News reported that 'Young Woman at the Well' (Jeune femme au puits, 1886) is believed to have been looted by the Nazis during the Second World War and was recovered in Bavaria in 1949 before being returned to France; the other still-missing work is 'Portrait of Madame Colonna Romano.' 1News reported that a further painting, 'Coco Reading' — one of the two recovered in the museum gardens during the thieves' escape — also passed through German hands at the end of the war and was returned to France in 1994. The report said the Marseille prosecutor's office had opened an investigation and that the Art Loss Register and France's office for trafficking in cultural goods were involved. ARTnews reported separately that descendants of Jadwiga ('Hedwig') Zak, a Paris-based Jewish art dealer who died at Auschwitz, had already made a formal restitution request for 'Young Woman at the Well,' assisted by the Canada-based Mondex Corporation — so the stolen painting was already the subject of an unresolved ownership claim.",
+   "outcome": "The two Nazi-era-provenance works are split between recovered ('Coco Reading') and still missing ('Young Woman at the Well'); the theft investigation is open with no arrests reported, and the pre-existing Zak-heirs restitution claim for the missing painting is unresolved. [FOLLOW-UP PENDING: recovery of the two still-missing paintings and any resolution of the Zak-heirs restitution claim for 'Young Woman at the Well'.]",
+   "tags": [
+    "Repatriation",
+    "Security failure"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "1News",
+    "ARTnews"
+   ],
+   "source": "https://www.1news.co.nz/2026/09/09/nazi-looted-painting-among-valuable-artworks-stolen-from-french-museum/",
+   "themes": [
+    12
+   ],
+   "notes": "Sub-entry of ACI-378 (Musée Renoir theft; parent finalized to ACI-378 at merge, from provisional 381). Theme 12 (Restitution & Repatriation): the newsworthy development is that a stolen work carries a Nazi-looting history and an existing heirs' claim. Restitution-claim detail attributed to ARTnews; provenance detail to 1News (French Culture Ministry database). Theft date follows the parent (NBC: 8 September); 1News dated the break-in 9 September.",
+   "interested_parties": "Musée Renoir (Cagnes-sur-Mer); Marseille prosecutor's office; heirs of Jadwiga 'Hedwig' Zak; Mondex Corporation; Art Loss Register; France's office for trafficking in cultural goods",
+   "coverage_geography": "France, international art press",
+   "follow_up_pending": true,
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/before-thieves-stole-renoir-painting-a-family-says-nazis-had-already-done-so-1234797938/"
+   ]
+  },
+  {
    "id": "ACI-379",
    "entry_id": "379",
    "seq": 700,
@@ -21900,6 +22010,38 @@
    "interested_parties": "Íñigo Varona (artist); Diputación de Valladolid (Paz Malfaz, Culture Service); PSOE (Francisco Ferreira)",
    "coverage_geography": "Spain",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-387",
+   "entry_id": "387",
+   "seq": 715,
+   "title": "French artist Claude Lévêque ordered to stand trial on charges of raping and assaulting minors",
+   "artist": "Claude Lévêque",
+   "institution": "N/A",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Trial order reported September 11, 2026 (alleged offences 1989–2007)",
+   "date_discovered": "2026-09-13",
+   "sort_date": "2026-09-11",
+   "description": "ARTnews reported on 11 September 2026 that Claude Lévêque, 73 — the French installation artist who represented France at the 2009 Venice Biennale — has been ordered to stand trial in a French criminal court on charges of rape and sexual assault of three minors. Citing court documents obtained by Libération, ARTnews reported that prosecutors allege Lévêque used his standing as a prominent contemporary artist to gain access to three victims, who were between roughly 8 and 18 years old at the time of the alleged offences, between 1989 and 2007. ARTnews reported that Lévêque's lawyers have filed an appeal that could further delay a case that has taken years to reach this stage.",
+   "outcome": "Lévêque has been ordered to stand trial; his lawyers have appealed, which could delay proceedings. [FOLLOW-UP PENDING: the outcome of the defense appeal and whether/when a trial proceeds.]",
+   "tags": [
+    "Legal challenge"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/claude-leveque-ordered-trial-sexual-assault-minors-1234798042/",
+   "themes": [
+    8
+   ],
+   "notes": "New parent. BORDERLINE inclusion and tagging — this is the criminal prosecution of an artist rather than a dispute over an artwork or its display; surfaced as a flagged candidate per the surface-more standard (§7) for editorial judgment on both inclusion and tags. Theme 8 (Artist Responsibility). Drafted thin from a single metadata/summary-grade source (ARTnews search result), which cited Libération's review of leaked court documents; no direct quotes carried. Enrich with a full-text French source (Libération, Le Monde) on the relevant trawl day.",
+   "interested_parties": "Claude Lévêque; three plaintiffs (accusers); French prosecutors",
+   "coverage_geography": "France, international art press",
+   "follow_up_pending": true,
+   "additional_sources": []
   }
  ]
 }
