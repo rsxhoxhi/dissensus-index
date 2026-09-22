@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 673
+  "total_cases": 675
  },
  "cases": [
   {
@@ -21931,6 +21931,80 @@
    "interested_parties": "Íñigo Varona (artist); Diputación de Valladolid (Paz Malfaz, Culture Service); PSOE (Francisco Ferreira)",
    "coverage_geography": "Spain",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-399",
+   "entry_id": "399",
+   "seq": 711,
+   "title": "Documenta 16: artists decline to participate over Germany's stance on the Gaza war",
+   "artist": "Naomi Beckwith (artistic director)",
+   "institution": "Documenta 16 (Kassel)",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "Die Zeit interview published September 2026 (reported 16 September 2026)",
+   "date_discovered": "2026-09-22",
+   "sort_date": "2026-09-16",
+   "description": "In an interview with the German newspaper Die Zeit published in September 2026, Documenta 16 artistic director Naomi Beckwith said that some artists had declined to participate in the exhibition over Germany's position on the Gaza war and over concerns about artistic freedom in the country, according to Hyperallergic. Hyperallergic reports that Beckwith declined to state her own position on Gaza, said people have a right to protest and express their opinions, and rejected the idea of working from entrenched sides. The report situates the remarks within Documenta's recent history: it notes that Documenta adopted the International Holocaust Remembrance Alliance's working definition of antisemitism in early 2025 — a definition Hyperallergic describes as widely criticized for conflating anti-Zionism with antisemitism — and recalls the antisemitism accusations that engulfed the ruangrupa-curated Documenta 15 in 2022. ARTnews separately reported Beckwith's account of artists declining to take part. Documenta 16 is scheduled to open in Kassel in 2027.",
+   "outcome": "No formal institutional decision has been reported; the artistic director has publicly acknowledged that artists are declining to participate while defending the right to protest, and the exhibition remains more than a year from opening. [FOLLOW-UP PENDING: which artists withdraw or join, whether the participant list and any further withdrawals are confirmed, and whether pro-Palestine protests materialize as Documenta 16 approaches its 2027 opening.]",
+   "tags": [
+    "Political interference",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic",
+    "ARTnews"
+   ],
+   "source": "https://hyperallergic.com/naomi-beckwith-says-shes-not-afraid-of-pro-palestine-protest-at-documenta-16/",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/documenta-16-artists-declined-participate-naomi-beckwith-1234798915/"
+   ],
+   "themes": [
+    3,
+    4,
+    8
+   ],
+   "notes": "New parent. Continues the Documenta antisemitism/artistic-freedom lineage (Documenta 15, 2022; IHRA code-of-conduct adoption, early 2025) but from the opposite direction: artists now declining over Germany's pro-Israel cultural-policy climate rather than the institution disciplining pro-Palestine expression. Analytical frames: externalised censorship / anticipatory obedience (Germany's anti-BDS cultural environment shaping who will participate). Reference source is the fully read Hyperallergic report of the Die Zeit interview; ARTnews corroborates the artists-declining claim (retrieved this run as a search result, not full text). Thin at logging — enrich on the Europe (Wednesday) trawl with the Die Zeit original and German-language coverage. Tag note: no open-vocabulary tag cleanly captures an artist boycott/withdrawal; flagged for review.",
+   "interested_parties": "Naomi Beckwith (Documenta 16 artistic director); Documenta gGmbH; participating and declining artists",
+   "coverage_geography": "Germany, US, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-400",
+   "entry_id": "400",
+   "seq": 712,
+   "title": "Virginia removes last three Confederate monuments from Capitol Square in Richmond",
+   "artist": "N/A",
+   "institution": "Capitol Square, Richmond / Commonwealth of Virginia",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Removed 23 August 2026",
+   "date_discovered": "2026-09-22",
+   "sort_date": "2026-08-23",
+   "description": "On 23 August 2026, workers contracted by the Commonwealth of Virginia removed the last three Confederate monuments standing on Capitol Square in Richmond, according to VPM News: statues of Thomas J. 'Stonewall' Jackson (unveiled 1875), Governor William 'Extra Billy' Smith (1906), and Dr. Hunter Holmes McGuire, Jackson's surgeon (1904). VPM reports that the Virginia General Assembly's fiscal 2027-28 budget, which took effect on 1 July 2026, directed the removal of all Confederate monuments from Capitol Square and allocated $1.8 million for the work. According to VPM, the commonwealth gifted the monuments to the Shenandoah Valley Battlefields Foundation, which said it would assume stewardship as part of its mission, and public access to the square was restricted during the removal, unlike the 2020-2021 removals along Monument Avenue. VPM quotes State Senator Mike Jones (D-Chesterfield), who described the monuments as having affected residents' lives over time and called the removal an important message to Virginians. ABC News also reported the removal of the three memorials.",
+   "outcome": "The three monuments were removed on 23 August 2026 and gifted to the Shenandoah Valley Battlefields Foundation for relocation to battlefield sites, completing the state-directed clearing of Confederate monuments from Capitol Square.",
+   "tags": [
+    "Removal",
+    "Historical erasure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "VPM News",
+    "ABC News"
+   ],
+   "source": "https://www.vpm.org/news/2026-08-28/rva-csa-capitol-square-stonewall-holmes-extra-billy",
+   "additional_sources": [
+    "https://abcnews.com/US/wireStory/virginia-removes-confederate-memorials-136042753"
+   ],
+   "themes": [
+    9
+   ],
+   "notes": "New parent. Backfill: the 23 August 2026 removal was surfaced by the Tuesday Richmond/VA standing search and was not previously logged. Distinct from the 2020-2021 Monument Avenue removals (Robert E. Lee and others). Cross-reference the Confederate/monument-removal cluster (e.g. ACI-243 Nathan Bedford Forrest, Humboldt TN; ACI-207 Confederate flag, NC). Per house tagging discipline, contested political monuments take Removal / Historical erasure, not the cultural-property-destruction umbrella. Reference source is the fully read VPM News report; ABC News corroborates via search result. Enrich with additional Richmond/VA local coverage (Richmond Times-Dispatch, Style Weekly) if desired.",
+   "interested_parties": "Commonwealth of Virginia; Virginia General Assembly; Shenandoah Valley Battlefields Foundation; State Sen. Mike Jones (D-Chesterfield)",
+   "coverage_geography": "US",
+   "follow_up_pending": false
   }
  ]
 }
