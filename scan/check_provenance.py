@@ -80,6 +80,7 @@ DOMAIN_TO_OUTLET = {
     "khan.co.kr": "Kyunghyang Shinmun",
     "thehill.com": "The Hill",
     "abcnews.com": "ABC News",
+    "vpm.org": "VPM News",
     "pcs.org.uk": "PCS Union",
     "manilatimes.net": "The Manila Times",
     "cbsnews.com": "CBS News",
