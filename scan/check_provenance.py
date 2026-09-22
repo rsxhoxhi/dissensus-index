@@ -45,6 +45,8 @@ DOMAIN_TO_OUTLET = {
     "bbc.com": "BBC",
     "bbc.co.uk": "BBC",
     "reuters.com": "Reuters",
+    "akp.gov.kh": "Agence Kampuchea Presse",  # added 2026-09-11 scan (ACI-385 Preah Vihear)
+    "elespanol.com": "El Español",  # added 2026-09-11 scan (ACI-386 Valladolid)
     "apnews.com": "Associated Press",
     "npr.org": "NPR",
     "kclu.org": "NPR",
