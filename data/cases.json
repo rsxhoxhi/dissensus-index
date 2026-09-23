@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 681
+  "total_cases": 683
  },
  "cases": [
   {
@@ -17982,6 +17982,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-256-A",
+   "entry_id": "256-A",
+   "seq": 721,
+   "title": "Soulages ownership suit: Weis family counterclaims over the $4M Christie's proceeds",
+   "artist": "Pierre Soulages",
+   "institution": "Christie's (New York); Weis Collection",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Counterclaim reported September 22, 2026 (Christie's sale November 2025)",
+   "date_discovered": "2026-09-23",
+   "sort_date": "2026-09-22",
+   "description": "According to ARTnews, the three children of Patricia G. Ross Weis and Robert F. Weis filed an answer and counterclaim in a New York court in the suit brought by the Zeckendorf family over Pierre Soulages's 1958 abstraction 'Peinture 161 x 200 cm, 14 novembre 1958,' which sold at Christie's in November 2025 for a $4 million hammer price. The Zeckendorfs' July 2026 suit alleges the painting was stolen from a family trust between 1977 and 1980; the Weis counterclaim disputes that account and asserts the Weis family's entitlement to the sale proceeds. Per ARTnews, the Weis filing points to a shift between a November 11, 2025 letter from the Zeckendorfs' attorneys and a later February 12, 2026 letter that, it says, conceded the Soulages could have passed to William Weis Sr. under a relative's will, and it notes the Zeckendorfs took no action to report the work stolen.",
+   "outcome": "Ownership of the sale proceeds contested by both families; case ongoing in New York court. [FOLLOW-UP PENDING: court resolution of the competing Zeckendorf and Weis title claims.]",
+   "tags": [
+    "Legal challenge",
+    "Provenance dispute",
+    "Copyright/ownership"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/weis-family-counterclaim-filing-pierre-soulages-painting-1234799088/",
+   "themes": [
+    10
+   ],
+   "notes": "Sub-entry of ACI-256 (Zeckendorf family suit over the allegedly stolen Soulages sold at Christie's). Development: the Weis family answers and counterclaims, turning a one-sided theft allegation into a two-family ownership dispute over the escrowed proceeds. Theme 10 (Art and Capital).",
+   "interested_parties": "Weis family (children of Patricia G. Ross Weis and Robert F. Weis); Zeckendorf family; Christie's",
+   "coverage_geography": "US",
+   "additional_sources": [],
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-257",
    "entry_id": "257",
    "seq": 531,
@@ -22217,6 +22251,40 @@
    "interested_parties": "Richard and Judy Perlman (plaintiffs); Nathan 'Nicky' Isen / Dane Fine Art; Leslie Roberts / Miami Fine Art Gallery; Patrick Egan (Isen's attorney)",
    "coverage_geography": "US, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-401",
+   "entry_id": "401",
+   "seq": 722,
+   "title": "Met returns three West African works to Nigeria, displays them on long-term loan",
+   "artist": "N/A (12th–18th-century West African works)",
+   "institution": "The Metropolitan Museum of Art (New York)",
+   "country": "United States / Nigeria",
+   "governance_type": "Democracy",
+   "date_controversy": "Announced September 22, 2026",
+   "date_discovered": "2026-09-23",
+   "sort_date": "2026-09-22",
+   "description": "According to Hyperallergic, the Metropolitan Museum of Art has brokered the transfer to Nigeria of three West African objects — a Yoruba horse-head sculpture (12th–15th century), an Edo copper figure of an iyọ́bà (queen mother) from the Kingdom of Benin (c. 18th century), and a terracotta bust — and will display them on long-term loan in the Rockefeller Wing's Arts of Africa galleries. Hyperallergic reported that the collector Ceil Pulitzer had acquired the three pieces between 2015 and 2018 and sought to gift them to the Met in 2025, providing detailed provenance; per Met director Max Hollein, that documentation still fell short of the museum's prerequisites for accepting a gift, so the museum arranged the works' return to Nigeria and a loan back rather than taking them into its collection.",
+   "outcome": "Ownership transferred to Nigeria; the three works displayed at the Met on long-term loan in the Arts of Africa galleries.",
+   "tags": [
+    "Repatriation",
+    "Provenance dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/met-museum-brokers-return-of-three-artworks-to-nigeria/",
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "Repatriation cluster anchor (cf. ACI-208, Swiss museums returning 18 Benin Bronzes to Nigeria). Analytically relevant as a resolution rather than an open dispute: provenance gaps that blocked a gift to a universal museum instead produced a return-plus-loan arrangement. Themes 5 (Universal Museum) and 12 (Restitution & Repatriation).",
+   "interested_parties": "The Metropolitan Museum of Art (Max Hollein, director); collector Ceil Pulitzer; Nigeria",
+   "coverage_geography": "US, Nigeria",
+   "additional_sources": [],
+   "follow_up_pending": false
   }
  ]
 }
