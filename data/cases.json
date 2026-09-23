@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 677
+  "total_cases": 681
  },
  "cases": [
   {
@@ -3094,6 +3094,43 @@
    "notes": "Sub-entry of ACI-154 (Bayeux Tapestry loan to the British Museum) and a direct follow-on to ACI-154-C (scrutiny of lead sponsor Igor Tulchinsky over reported Israel/IDF ties). The 12 September 2026 museum statement is the response the ACI-154-C follow-up flag anticipated. Themes/tags follow the ACI-154-C sponsorship sub-thread rather than the parent's repatriation framing.",
    "interested_parties": "Igor Tulchinsky (WorldQuant); Jonathan Yeo (portraitist); British Museum",
    "coverage_geography": "UK, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-154-E",
+   "entry_id": "154-E",
+   "seq": 717,
+   "title": "Bayeux Tapestry: activists protest British Museum exhibition sponsor over West Bank settlement ties",
+   "artist": "N/A (Bayeux Tapestry)",
+   "institution": "British Museum",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "September 12, 2026 (protest)",
+   "date_discovered": "2026-09-15",
+   "sort_date": "2026-09-12",
+   "description": "On September 12, 2026, activists from the group Energy Embargo for Palestine protested in the British Museum's Great Court against the sponsorship of the museum's Bayeux Tapestry exhibition by billionaire hedge-fund manager Igor Tulchinsky, according to Hyperallergic. Per Hyperallergic, the demonstrators objected to Tulchinsky's financing of a therapy center in Efrat, an Israeli settlement in the Occupied West Bank, and displayed their own \"People's Tapestry\" during the action. Hyperallergic reported that the group called for an end to sponsorships by billionaires it said were invested in Israel's occupation and in climate breakdown. The outlet also reported that Green Party leader Zack Polanski had urged the UK government to examine whether the sponsorship conflicts with recent UK sanctions targeting individuals supporting settlement expansion, citing earlier remarks by Foreign Secretary Ed Miliband that the government would act against such individuals.",
+   "outcome": "The protest took place during the exhibition's opening weekend; the sponsorship remains in place, and activists and some politicians have called for a UK government review. [FOLLOW-UP PENDING: whether the UK government reviews the sponsorship under its settlement sanctions]",
+   "tags": [
+    "Funding dispute",
+    "Protest art",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/activists-protest-bayeux-tapestry-sponsors-ties-to-israeli-settlements/",
+   "additional_sources": [],
+   "themes": [
+    3,
+    4,
+    5,
+    12
+   ],
+   "notes": "Update to the Bayeux Tapestry loan cluster (parent ACI-154); follows the sponsor-scrutiny thread in ACI-154-C and the on-view sponsor portrait in ACI-154-D. [FOLLOW-UP PENDING: UK government review of the sponsorship]",
+   "interested_parties": "Energy Embargo for Palestine; Igor Tulchinsky (exhibition sponsor); British Museum; Zack Polanski (Green Party); Ed Miliband (Foreign Secretary)",
+   "coverage_geography": "UK",
    "follow_up_pending": true
   },
   {
@@ -22081,6 +22118,104 @@
    "notes": "New parent. Spanish regional censorship case, single-source (El Español) and thin at logging — enrich with local Castilla y León coverage (e.g. El Norte de Castilla, El Salto) on the Europe trawl day. The Diputación frames the cancellation as procedural/quality-based; the PSOE calls it political censorship — the Index reports both framings, attributed. Governance-hypothesis relevance: institutional/political censorship in a consolidated democracy.",
    "interested_parties": "Íñigo Varona (artist); Diputación de Valladolid (Paz Malfaz, Culture Service); PSOE (Francisco Ferreira)",
    "coverage_geography": "Spain",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-383",
+   "entry_id": "383",
+   "seq": 718,
+   "title": "Keith Haring 'We The Youth' mural tests Philadelphia's first landmark protection for a mural",
+   "artist": "Keith Haring (with Clarence Wood, Gilberto Wilson, Jose Seabourne, and high-school students)",
+   "institution": "Philadelphia Historical Commission; Neighborhood Gardens Trust / OCF Realty (wall co-owners)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Philadelphia Historical Commission proceedings, September-October 2026",
+   "date_discovered": "2026-09-15",
+   "sort_date": "2026-09-14",
+   "description": "The Philadelphia Historical Commission is weighing whether to grant historic-landmark protection to \"We The Youth\" (1987), a Keith Haring mural in the historically Black Point Breeze neighborhood of South Philadelphia, according to Hyperallergic. Per Hyperallergic, the work — painted by Haring with the artists Clarence Wood, Gilberto Wilson, and Jose Seabourne and 14 high-school students — is the only one of Haring's collaborative murals that remains in its original location. Hyperallergic reported that the wall is co-owned by the Neighborhood Gardens Trust, which preserves community gardens, and OCF Realty, a real-estate company the outlet said is often blamed for the neighborhood's rapid gentrification, and that a designation would make it the first outdoor mural to receive the commission's protection in a city that bills itself as the \"Mural Capital of the World.\" The Keith Haring Foundation and area residents are among the parties named by Hyperallergic. A public meeting was scheduled for September 16, 2026, with a full commission vote set for October 9, 2026.",
+   "outcome": "Pending — the Historical Commission's committee was set to meet September 16, 2026, with a full commission vote scheduled for October 9, 2026. [FOLLOW-UP PENDING: the October 9, 2026 commission vote on landmark protection for the mural]",
+   "tags": [
+    "Historic preservation",
+    "Landmark dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/keith-haring-mural-may-decide-the-fate-of-public-art-in-philly/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Reported as the only surviving Haring collaborative mural in its original location; a test case for landmarking outdoor murals in Philadelphia. Cf. ACI-363 (Keith Haring drawing authenticity). [FOLLOW-UP PENDING: October 9, 2026 Historical Commission vote]",
+   "interested_parties": "Philadelphia Historical Commission; Keith Haring Foundation; Neighborhood Gardens Trust; OCF Realty; Point Breeze residents",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-384",
+   "entry_id": "384",
+   "seq": 719,
+   "title": "Charlie Kirk statue at Turning Point USA's Phoenix headquarters vandalized days after unveiling",
+   "artist": "N/A (sculptor not identified in retrieved coverage)",
+   "institution": "Turning Point USA (Phoenix headquarters)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Statue unveiled c. September 11, 2026; vandalized the night of September 12-13, 2026",
+   "date_discovered": "2026-09-15",
+   "sort_date": "2026-09-13",
+   "description": "An approximately eight-foot statue of the conservative activist Charlie Kirk, unveiled at Turning Point USA's Phoenix headquarters to mark the one-year anniversary of Kirk's 2025 killing, was vandalized with red paint over the weekend, according to ARTnews. Reporting cited by ARTnews said paint was splattered on the statue, including at the neck, and that a poster near the statue was also defaced; no suspects were identified in the retrieved coverage. ARTnews reported that Kirk's widow, Erika Kirk, publicly denounced the vandalism.",
+   "outcome": "The vandalism is under investigation by Phoenix police; no suspects had been publicly identified in the retrieved coverage. [FOLLOW-UP PENDING: any identification of those responsible, or restoration of the statue]",
+   "tags": [
+    "Vandalism"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/charlie-kirk-statue-arizona-turning-point-erika-kirk-1234798164/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Distinct object from ACI-257 (planned unsanctioned Charlie Kirk memorial sculpture, Times Square): same subject, different work and location — cross-referenced. Actor and motive unidentified in retrieved coverage; a theme 6 (Iconoclasm) connection is possible if the motive is confirmed ideological. Thin entry from art-press coverage; flagged for editorial review as borderline (culture-war vandalism of a memorial).",
+   "interested_parties": "Turning Point USA; Erika Kirk; Phoenix Police Department",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-385",
+   "entry_id": "385",
+   "seq": 720,
+   "title": "Lawsuit alleges $6.7M fake-Warhol ring spanning Miami, a Philadelphia-area gallery, and Peru",
+   "artist": "Andy Warhol (works alleged to be forgeries)",
+   "institution": "Dane Fine Art (Haverford Township, PA); Miami Fine Art Gallery / Leslie Roberts",
+   "country": "United States / Peru",
+   "governance_type": "Democracy",
+   "date_controversy": "Lawsuit filed September 9, 2026 (Miami); reported September 13, 2026",
+   "date_discovered": "2026-09-15",
+   "sort_date": "2026-09-13",
+   "description": "Richard and Judy Perlman filed a 42-page lawsuit in Miami alleging they were sold counterfeit Andy Warhol paintings and prints through an international \"pipeline\" stretching from Pennsylvania to Florida and Peru, according to The Philadelphia Inquirer. The suit names Nathan \"Nicky\" Isen, who runs Dane Fine Art Gallery in Haverford Township, Pennsylvania, and the Miami dealer Leslie Roberts, among others; per the Inquirer, it alleges Isen was selling pages torn from art books as authentic prints. The Inquirer reported that the Perlmans had previously sued Roberts in 2024, a case that settled in January 2026 for an undisclosed sum; that Roberts has pleaded guilty to art-related wire fraud and was due to be sentenced in September 2026; and that the FBI searched Dane Fine Art in July 2026. Isen's attorney, Patrick Egan, told the Inquirer, \"My client categorically denies any wrongdoing and any connection with any alleged conspiracy.\" ARTnews reported that the suit, filed September 9, 2026, in Miami, concerns about $6.7 million in purchases made in 2023 and 2024 — including images of Queen Elizabeth II, Debbie Harry, and Superman — and alleges canvases were painted in Peru before being smuggled into the United States.",
+   "outcome": "Litigation is pending; Roberts has pleaded guilty and awaited sentencing while Isen denies wrongdoing through counsel. [FOLLOW-UP PENDING: Roberts's sentencing and the outcome of the Perlman lawsuit]",
+   "tags": [
+    "Art market fraud",
+    "Authenticity",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Philadelphia Inquirer",
+    "ARTnews"
+   ],
+   "source": "https://www.inquirer.com/news/philadelphia/nathan-nicky-isen-alleged-fake-warhols-art-fraud-lawsuit-20260913.html",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/andy-warhol-foregery-lawsuit-richard-perlman-1234798170/"
+   ],
+   "themes": [
+    10
+   ],
+   "notes": "Alleged multinational Warhol forgery network (Peru production, US authentication/distribution). [FOLLOW-UP PENDING: Roberts sentencing; Perlman lawsuit outcome]",
+   "interested_parties": "Richard and Judy Perlman (plaintiffs); Nathan 'Nicky' Isen / Dane Fine Art; Leslie Roberts / Miami Fine Art Gallery; Patrick Egan (Isen's attorney)",
+   "coverage_geography": "US, international",
    "follow_up_pending": true
   }
  ]
