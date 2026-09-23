@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 676
+  "total_cases": 675
  },
  "cases": [
   {
@@ -14561,8 +14561,8 @@
    "date_controversy": "Reported September 12, 2026 (Truth Social posts)",
    "date_discovered": "2026-09-13",
    "sort_date": "2026-09-12",
-   "description": "In a series of Truth Social posts reported by PBS NewsHour on 12 September 2026, President Trump called on the Smithsonian to install statues of George Washington and mount a multi-year exhibition at the National Museum of American History. Per PBS, Trump asked for an 11-foot Washington statue — previously displayed at the Freedom 250 IndyCar race — to be placed in the museum's Flag Hall by Constitution Day (17 September), and for a 30-foot Washington statue to replace the 'Infinity' sculpture, a stainless-steel work by New York artist José de Rivera that was commissioned by the federal government and installed in 1967. He also called for an exhibit honoring Washington running through 22 February 2032, the 300th anniversary of Washington's birth, and proposed replacing the museum's 'Center for Restorative History' with a 'Center for American Heroes.' PBS reported that Trump wrote Washington 'is easily America's Greatest Hero,' adding, 'Without him, our Country and our Freedoms wouldn't exist.' PBS noted that the Smithsonian operates outside the executive branch and is overseen by a Board of Regents — including Vice President JD Vance and the chief justice of the United States — so it is not clear Trump can order the changes; the report cited no response from the Smithsonian.",
-   "outcome": "The demands stand as public statements; PBS reported no Smithsonian response and noted the institution's independent governance. [FOLLOW-UP PENDING: whether the Smithsonian installs the 11-foot statue by Constitution Day (17 September 2026), removes the de Rivera 'Infinity' sculpture, mounts the Washington exhibition, or otherwise responds.]",
+   "description": "In a series of Truth Social posts reported by PBS NewsHour on 12 September 2026, President Trump called on the Smithsonian to install statues of George Washington and mount a multi-year exhibition at the National Museum of American History. Per PBS, Trump asked for an 11-foot Washington statue — previously displayed at the Freedom 250 IndyCar race — to be placed in the museum's Flag Hall by Constitution Day (17 September), and for a 30-foot Washington statue to replace the 'Infinity' sculpture, a stainless-steel work by New York artist José de Rivera that was commissioned by the federal government and installed in 1967. He also called for an exhibit honoring Washington running through 22 February 2032, the 300th anniversary of Washington's birth, and said the museum should have a 'Center for American Heroes' in place of its recently-ended 'Center for Restorative History' initiative. PBS reported that Trump wrote Washington 'is easily America's Greatest Hero,' adding, 'Without him, our Country and our Freedoms wouldn't exist.' PBS noted that the Smithsonian operates outside the executive branch and is overseen by a Board of Regents — including Vice President JD Vance and Supreme Court Chief Justice John Roberts — so it is not clear Trump can order the changes.",
+   "outcome": "The demands stand as public statements; PBS noted the institution's independent governance. [FOLLOW-UP PENDING: whether the Smithsonian installs the 11-foot statue by Constitution Day (17 September 2026), removes the de Rivera 'Infinity' sculpture, mounts the Washington exhibition, or otherwise responds.]",
    "tags": [
     "Political interference",
     "Removal",
@@ -22010,38 +22010,6 @@
    "interested_parties": "Íñigo Varona (artist); Diputación de Valladolid (Paz Malfaz, Culture Service); PSOE (Francisco Ferreira)",
    "coverage_geography": "Spain",
    "follow_up_pending": true
-  },
-  {
-   "id": "ACI-387",
-   "entry_id": "387",
-   "seq": 715,
-   "title": "French artist Claude Lévêque ordered to stand trial on charges of raping and assaulting minors",
-   "artist": "Claude Lévêque",
-   "institution": "N/A",
-   "country": "France",
-   "governance_type": "Democracy",
-   "date_controversy": "Trial order reported September 11, 2026 (alleged offences 1989–2007)",
-   "date_discovered": "2026-09-13",
-   "sort_date": "2026-09-11",
-   "description": "ARTnews reported on 11 September 2026 that Claude Lévêque, 73 — the French installation artist who represented France at the 2009 Venice Biennale — has been ordered to stand trial in a French criminal court on charges of rape and sexual assault of three minors. Citing court documents obtained by Libération, ARTnews reported that prosecutors allege Lévêque used his standing as a prominent contemporary artist to gain access to three victims, who were between roughly 8 and 18 years old at the time of the alleged offences, between 1989 and 2007. ARTnews reported that Lévêque's lawyers have filed an appeal that could further delay a case that has taken years to reach this stage.",
-   "outcome": "Lévêque has been ordered to stand trial; his lawyers have appealed, which could delay proceedings. [FOLLOW-UP PENDING: the outcome of the defense appeal and whether/when a trial proceeds.]",
-   "tags": [
-    "Legal challenge"
-   ],
-   "court_case": "Pending",
-   "coverage_tier": "International",
-   "outlets": [
-    "ARTnews"
-   ],
-   "source": "https://www.artnews.com/art-news/news/claude-leveque-ordered-trial-sexual-assault-minors-1234798042/",
-   "themes": [
-    8
-   ],
-   "notes": "New parent. BORDERLINE inclusion and tagging — this is the criminal prosecution of an artist rather than a dispute over an artwork or its display; surfaced as a flagged candidate per the surface-more standard (§7) for editorial judgment on both inclusion and tags. Theme 8 (Artist Responsibility). Drafted thin from a single metadata/summary-grade source (ARTnews search result), which cited Libération's review of leaked court documents; no direct quotes carried. Enrich with a full-text French source (Libération, Le Monde) on the relevant trawl day.",
-   "interested_parties": "Claude Lévêque; three plaintiffs (accusers); French prosecutors",
-   "coverage_geography": "France, international art press",
-   "follow_up_pending": true,
-   "additional_sources": []
   }
  ]
 }
