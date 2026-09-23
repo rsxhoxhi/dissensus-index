@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 675
+  "total_cases": 677
  },
  "cases": [
   {
@@ -3060,6 +3060,40 @@
    "notes": "Sub-entry of ACI-154 (Bayeux Tapestry loan to the British Museum). Distinct sponsorship-ethics dispute rather than the loan/repatriation thread, hence case-level themes (2, 4) rather than the parent's. Middle East Eye broke the reporting on Tulchinsky's Israel/IDF and defence-tech ties and is a participant-adjacent outlet on this subject; the Index reports the sponsorship facts (corroborated by The Art Newspaper) and attributes the ties-reporting to MEE and the objections to Artists for Palestine UK. Cf. sponsorship-ethics cluster (ACI-109 Wexner Center/Epstein).",
    "interested_parties": "Igor Tulchinsky (WorldQuant); British Museum (trustees' chair George Osborne); Artists for Palestine UK",
    "coverage_geography": "UK, Middle East",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-154-D",
+   "entry_id": "154-D",
+   "seq": 715,
+   "title": "Bayeux Tapestry: portrait of sponsor Igor Tulchinsky goes on view at the British Museum",
+   "artist": "Jonathan Yeo (portrait of Igor Tulchinsky)",
+   "institution": "British Museum",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Portrait reported on view September 11, 2026; museum statement September 12, 2026",
+   "date_discovered": "2026-09-14",
+   "sort_date": "2026-09-11",
+   "description": "The Art Newspaper reports that a portrait of billionaire entrepreneur Igor Tulchinsky, painted by British artist Jonathan Yeo, is on view at the British Museum's Bayeux Tapestry exhibition (see ACI-154-C). Tulchinsky is the exhibition's lead sponsor, having contributed about £5m toward production costs. In a statement dated 12 September 2026 the museum said the portrait is on loan and will be displayed for the duration of the run, recognising Tulchinsky's support, and that it had declined to comment on the commissioning details or costs. The Art Newspaper documents connections it reports have drawn scrutiny: in 2025 Tulchinsky launched WorldQuant Genesis, a venture-capital fund based in Israel, which invested in NavAiro — described as an Israeli defence-technology startup developing drone-defence solutions — and hired a former IDF commander, Saar Tzur, to manage the fund. Yeo said on Instagram that he was “honoured that this portrait was commissioned to mark Igor Tulchinsky's sponsorship of the Bayeux Tapestry's opening in London and that it will hang in the British Museum for the duration.”",
+   "outcome": "The portrait is on display for the exhibition's run and the sponsorship stands; the British Museum has characterised the portrait as a loan recognising the sponsor's support. [FOLLOW-UP PENDING: any change to the sponsorship arrangement or further British Museum response to the objections over the sponsor's reported ties.]",
+   "tags": [
+    "Funding dispute",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/11/portrait-of-bayeux-tapestry-exhibition-sponsor-goes-on-view-at-british-museum-amid-scrutiny-over-ties-to-idf",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-154 (Bayeux Tapestry loan to the British Museum) and a direct follow-on to ACI-154-C (scrutiny of lead sponsor Igor Tulchinsky over reported Israel/IDF ties). The 12 September 2026 museum statement is the response the ACI-154-C follow-up flag anticipated. Themes/tags follow the ACI-154-C sponsorship sub-thread rather than the parent's repatriation framing.",
+   "interested_parties": "Igor Tulchinsky (WorldQuant); Jonathan Yeo (portraitist); British Museum",
+   "coverage_geography": "UK, International",
    "follow_up_pending": true
   },
   {
@@ -15840,6 +15874,44 @@
    ],
    "notes": "Sub-entry of ACI-005 (Kennedy Center under the 2025 takeover) and a direct follow-on to ACI-005-AZ (the 2 September 2026 removal of Shapiro's 'Blue'). David Rubenstein, ousted as board chair in February 2025, acquires the removed work for $2m and intends it for the National Gallery of Art sculpture garden. Hyperallergic is the full-text reference; the article carries no direct quotes about the purchase, so this entry is reported speech only.",
    "interested_parties": "David Rubenstein (ousted Kennedy Center board chairman); Joel Shapiro (1941-2025) and the Joel Shapiro and Ellen Phelan Foundation; National Park Service; National Gallery of Art; Hands Off the Arts; President Donald Trump",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-005-BC",
+   "entry_id": "005-BC",
+   "seq": 716,
+   "title": "Kennedy Center warns of bankruptcy; board asked to close the building and credit Trump",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Draft board resolution reported September 13, 2026; special board meeting scheduled the following week",
+   "date_discovered": "2026-09-14",
+   "sort_date": "2026-09-13",
+   "description": "According to CNN, two draft resolutions circulated to the Kennedy Center's board of trustees ahead of a special meeting warn that the center faces “certain fiscal collapse” within weeks and could be unable to make payroll or pay maintenance contracts, raising the prospect of bankruptcy. One asks trustees to choose among 10 proposed inscriptions to be placed on the building beneath its name publicly crediting President Trump with the renovation — one example being “Renovation and endowment overseen by President Donald J. Trump and the Trump Kennedy Center Fund.” The other asks trustees to close the center's main building immediately, citing the 4 September 2026 incident in which a section of ceiling plaster fell about 60 feet in the Grand Foyer (see ACI-005-BA). CNN reports that Trump installed loyalists to the board, who then elected him chairman in 2025 and that his board voted in December 2025 to rename the institution, a move a court later blocked; the board had committed not to add Trump's name before October 8, 2026 while litigation continues (see ACI-005-AY). The New York Times quotes board member Paolo Zampolli saying, “Trump attracts money. So when Trump says donate to this place, everyone will donate.” The Times, which reported the draft resolutions, notes the caution comes as a federal judge decides whether Trump's name should remain off the building.",
+   "outcome": "The board is scheduled to vote at a special meeting on whether to close the main building immediately and to publicly credit Trump on the building; the litigation over the renaming and closure continues, with the board committed not to add Trump's name before October 8, 2026. [FOLLOW-UP PENDING: the board's vote on closure and on crediting Trump, and the court's decision on the name.]",
+   "tags": [
+    "Political interference",
+    "Institutional crisis",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "CNN",
+    "The New York Times"
+   ],
+   "source": "https://www.cnn.com/2026/09/14/politics/kennedy-center-bankruptcy-trump-name-returns-hnk",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/09/13/arts/design/trump-kennedy-center-bankruptcy-closure.html"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center under the 2025 Trump takeover); follows ACI-005-BA (4 September 2026 Grand Foyer ceiling collapse) and ACI-005-AY (board's commitment not to add Trump's name before 8 October 2026). Breaking credit to the NYT (Julia Jacobs); reported via CNN's full-text writeup, used here as the reference source because the NYT original was retrievable at metadata grade only this run. CNN carries the verbatim quotes.",
+   "interested_parties": "President Donald Trump; Kennedy Center board of trustees; Paolo Zampolli (board member); David Rubenstein (ousted chairman)",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
