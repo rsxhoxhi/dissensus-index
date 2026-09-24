@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 683
+  "total_cases": 684
  },
  "cases": [
   {
@@ -22286,6 +22286,43 @@
    ],
    "notes": "New parent. Coordinated strike-authorization votes across three New York museums whose unions are all UAW Local 2110. Related labor cases: ACI-211 (Guggenheim / UAW Local 2110 strike authorization, June 2026), ACI-128 (Whitney union gala rally during second-contract talks, May 2026), ACI-096 (Seattle Art Museum organizing), ACI-284 (V&A strikes). Hyperallergic is the full-text reference; the Richard Ho quote is from the Hyperallergic text. ARTnews also covered the votes but was not independently retrieved this run (site bot-wall). FOR REVIEW: whether this should stand as a new parent or fold into ACI-128 (Whitney-specific) as a sub-entry — kept as a parent here because it spans three institutions.",
    "interested_parties": "UAW Local 2110; Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum; Richard Ho (American Folk Art Museum)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-402",
+   "entry_id": "402",
+   "seq": 723,
+   "title": "El Museo del Barrio apologizes for renting space to 9/11 conspiracy-theory event",
+   "artist": "N/A",
+   "institution": "El Museo del Barrio",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-09-23",
+   "date_discovered": "2026-09-24",
+   "sort_date": "2026-09-23",
+   "description": "El Museo del Barrio, the East Harlem museum of Latin American and Caribbean art, said this week that it regretted renting space to a group that staged an event at which 9/11 conspiracy theories were aired, ARTnews reported. The four-day event, titled 'Turning the Tide: 9/11 25 Years Later' and held September 10-13, 2026 to mark the 25th anniversary of the World Trade Center attacks, was organized by the International Center for 9/11 Justice, which ARTnews reports describes its aim as building a society no longer shaped by what it calls the false official account of 9/11. According to ARTnews, the New York City Department of Cultural Affairs, which is slated to provide more than $1 million in funding to El Museo del Barrio this year, condemned the event as reprehensible, while Ted Walter, executive director of the International Center for 9/11 Justice, rejected characterizations of the event as antisemitic or reprehensible and accused the department of trying to demean New Yorkers who believe the full account of 9/11 has yet to be told. The New York Times, reporting the museum's regret on September 23, 2026, described the organizing group as skeptical of the official explanation of the attacks.",
+   "outcome": "El Museo del Barrio has expressed regret over the rental; the New York City Department of Cultural Affairs, a major public funder, condemned the event, while the organizer rejected that characterization. No funding decision or formal action has been reported. [FOLLOW-UP PENDING: any action by the NYC Department of Cultural Affairs on El Museo del Barrio's funding, or further institutional response.]",
+   "tags": [
+    "Institutional crisis",
+    "Funding dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews",
+    "The New York Times"
+   ],
+   "source": "https://www.artnews.com/art-news/news/el-museo-del-barrio-apologizes-9-11-event-1234799186/",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/09/23/arts/design/el-museo-del-barrio-9-11-conspiracy-theories.html"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Public-funding / institutional-risk case: a city cultural-affairs department condemning a grantee museum's venue-rental decision, with a >$1M funding relationship in the background (Dissensus themes 2, 4). Thin, metadata-grade entry drafted from an ARTnews search result and an NYT abstract; enrich with full text on a relevant trawl day.",
+   "interested_parties": "El Museo del Barrio; International Center for 9/11 Justice (Ted Walter, executive director); New York City Department of Cultural Affairs",
    "coverage_geography": "US",
    "follow_up_pending": true
   }
