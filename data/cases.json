@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 688
+  "total_cases": 689
  },
  "cases": [
   {
@@ -22397,8 +22397,39 @@
   {
    "id": "ACI-387",
    "entry_id": "387",
-   "seq": 726,
-   "title": "Andrei Rublev's 'Trinity' icon removed for assessment after climate-control failure at Trinity Lavra",
+   "seq": 728,
+   "title": "Rublev's 'Trinity' icon transferred to the Russian Orthodox Church over restorers' objections",
+   "artist": "Andrei Rublev (attributed; 15th century)",
+   "institution": "State Tretyakov Gallery, Moscow; Russian Orthodox Church",
+   "country": "Russia",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Transfer announced May 15, 2023 (over objections raised at the Tretyakov restoration council); icon briefly moved to the Trinity Lavra of St. Sergius in July 2022",
+   "date_discovered": "2026-09-17",
+   "sort_date": "2023-05-15",
+   "description": "In 2023, President Vladimir Putin ordered Andrei Rublev's 15th-century 'Trinity,' one of Russia's most revered icons, transferred from the State Tretyakov Gallery to the Russian Orthodox Church — a move the Church announced on May 15, 2023, The Art Newspaper reported. According to the report, Putin's spokesman Dmitry Peskov said the icon would be moved to the Cathedral of Christ the Savior for Pentecost services on June 4, though Putin himself had not commented and no decree had been published. At a restoration council meeting at the Tretyakov the same day, restorers objected on grounds of the icon's fragility, citing 'the complex and unstable state' of the work and 'the unpredictability of the ongoing process of negative changes'; the gallery's director, Elena Pronicheva, said the icon 'should in the short term be in a state of rest,' and Mikhail Mindlin, director of the Central Andrei Rublev Museum of Ancient Russian Culture and Art in Moscow, offered to lend a copy instead until a high-tech capsule could be created. The Art Newspaper reported that five areas of the icon showed damaged paint requiring urgent strengthening and that a crack on an angel's face had increased after the icon was moved for several days to the Trinity Lavra of St. Sergius, near Moscow, in July 2022.",
+   "outcome": "The icon was transferred to the Russian Orthodox Church despite the objections of the Tretyakov's restorers and art historians. The conservation harm they warned of is documented at ACI-387-A: a climate-control failure and panel warping reported in September 2026.",
+   "tags": [
+    "Conservation",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2023/05/26/russian-restorers-and-art-historians-raise-alarm-over-transfer-of-fragile-icon-to-russian-orthodox-church",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Backfill parent anchored to the 2023 transfer controversy — the contested claim at the core of the case: state/church custody versus conservation of a national treasure. Logged in 2026 (date_discovered 2026-09-17), when the predicted harm materialised; that development is the sub-entry ACI-387-A. Governance frame: state-directed relocation of a national cultural treasure (Russia). No Dissensus theme fits cleanly; the axis is state/church control and conservation of heritage. Drafted in full from The Art Newspaper's 26 May 2023 report.",
+   "interested_parties": "State Tretyakov Gallery; Russian Orthodox Church; President Vladimir Putin; Dmitry Peskov (Putin's spokesman); Elena Pronicheva (Tretyakov director); Mikhail Mindlin (Central Andrei Rublev Museum of Ancient Russian Culture and Art, Moscow)",
+   "coverage_geography": "Russia, International",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-387-A",
+   "entry_id": "387-A",
+   "seq": 729,
+   "title": "Rublev's 'Trinity': icon removed for assessment after climate-control failure at Trinity Lavra",
    "artist": "Andrei Rublev (attributed; 15th century)",
    "institution": "Trinity Lavra of St. Sergius, Sergiev Posad (transferred from the State Tretyakov Gallery, Moscow)",
    "country": "Russia",
@@ -22418,11 +22449,9 @@
     "The Art Newspaper"
    ],
    "source": "https://www.theartnewspaper.com/2026/09/16/russias-revered-trinity-icon-being-assessed-after-climate-control-system-breaks-down",
-   "additional_sources": [
-    "https://www.theartnewspaper.com/2023/05/26/russian-restorers-and-art-historians-raise-alarm-over-transfer-of-fragile-icon-to-russian-orthodox-church"
-   ],
+   "additional_sources": [],
    "themes": [],
-   "notes": "Museum-vs-church custody dispute: the 2023 transfer from the State Tretyakov Gallery to the Russian Orthodox Church was made over conservation experts' warnings, which the reported damage now appears to bear out. Governance frame: state-directed relocation of a national cultural treasure (Russia). No Dissensus theme fits cleanly; the axis is state/church control and conservation of heritage. The 2023 transfer-over-objections at the heart of this case is not recounted in the 2026 primary source; it is corroborated here by The Art Newspaper's 26 May 2023 report that restorers and art historians raised the alarm over the transfer of the fragile icon to the Russian Orthodox Church (added to additional_sources). [FOLLOW-UP PENDING] mirrored in outcome.",
+   "notes": "Sub-entry of ACI-387 (the 2023 transfer of Rublev's 'Trinity' to the Russian Orthodox Church over the Tretyakov restorers' objections). This is the conservation harm those objections warned of, now materialising: a climate-control failure and panel warping reported September 2026. [FOLLOW-UP PENDING] mirrored in outcome.",
    "interested_parties": "State Tretyakov Gallery; Russian Orthodox Church; Trinity Lavra of St. Sergius; President Vladimir Putin; Elena Pronicheva (former Tretyakov director)",
    "coverage_geography": "Russia, International",
    "follow_up_pending": true
