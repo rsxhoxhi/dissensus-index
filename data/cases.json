@@ -22633,11 +22633,11 @@
    "institution": "New York courts; Richard Nagy Ltd. (London dealer)",
    "country": "United States",
    "governance_type": "Democracy",
-   "date_controversy": "NY Supreme Court ruling May 4, 2018; Appellate Division affirmed July 9, 2019",
+   "date_controversy": "New York Supreme Court ruling (Justice Charles Ramos) April 2018; Appellate Division, First Department affirmed July 9, 2019",
    "date_discovered": "2026-09-19",
-   "sort_date": "2018-05-04",
-   "description": "In Reif v. Nagy, New York courts recognized the heirs of Fritz Grünbaum — the Austrian-Jewish cabaret star and collector who amassed some 80 Egon Schiele works before the war — as holding superior title to two Schieles, 'Woman in a Black Pinafore' (1911) and 'Woman Hiding Her Face' (1912), held by the London dealer Richard Nagy, according to the Art-Law Centre of the University of Geneva. On May 4, 2018, the New York Supreme Court granted the plaintiffs — Timothy Reif and David Fraenkel, co-executors of the estates of Grünbaum's declared heirs Leon Fischer and Milos Vávra — summary judgment on replevin and conversion and ordered the works turned over; the Appellate Division affirmed on July 9, 2019. The summary reports the court found the works were Nazi-looted and that, under New York law, 'a thief cannot convey good title,' rejecting a good-faith-purchaser defense and applying the 2016 federal HEAR Act — which measures the limitations period from a claimant's actual discovery — to defeat a laches defense.",
-   "outcome": "The rulings established as New York precedent the Grünbaum heirs' superior title to Schieles from his collection — the framework the Manhattan district attorney later invoked in the 2023 seizure of a Schiele at the Art Institute of Chicago (ACI-397).",
+   "sort_date": "2018-04-06",
+   "description": "In April 2018, New York Supreme Court Justice Charles Ramos ruled that the London dealer Richard Nagy must return two Egon Schiele watercolours — 'Woman in a Black Pinafore' (1911) and 'Woman Hiding Her Face' (1912), together worth about $5 million — to the heirs of Fritz Grünbaum, The Art Newspaper reported. According to the report, Grünbaum (1880-1941), a Jewish Viennese cabaret artist, was arrested by the Nazis in 1938 and died at Dachau in 1941; his wife Elisabeth was forced to sign over his collection of more than 500 works, including at least 81 Schieles, before she too was murdered. The heirs — Timothy Reif, David Fraenkel and Milos Vávra — brought the claim. Nagy, a specialist in German Expressionist art, argued he had acquired the works legitimately, tracing them to a 1956 Swiss auction; The Art Newspaper reported that Justice Ramos rejected that defence and Nagy's reliance on the federal HEAR Act, holding that 'a signature at gunpoint cannot lead to a valid conveyance.' The New York Times, reporting the same ruling, noted that Nagy intended to appeal.",
+   "outcome": "Nagy said he would appeal. The Appellate Division, First Department affirmed the ruling on July 9, 2019 (Reif v. Nagy, 175 A.D.3d 107), holding the heirs had established superior title — a result recorded in court reports and art-law commentary but, unlike the widely covered 2018 decision, not picked up in the mainstream press. The precedent underpinned the Manhattan district attorney's 2023 seizure of a Schiele at the Art Institute of Chicago (ACI-397).",
    "tags": [
     "Repatriation",
     "Legal challenge"
@@ -22645,16 +22645,20 @@
    "court_case": "Yes",
    "coverage_tier": "International",
    "outlets": [
-    "Art-Law Centre, University of Geneva"
+    "The Art Newspaper",
+    "The New York Times"
    ],
-   "source": "https://plone.unige.ch/art-adr/cases-affaires/two-schiele-paintings-2013-grunbaum-heirs-v-richard-nagy",
-   "additional_sources": [],
+   "source": "https://www.theartnewspaper.com/2018/04/06/london-dealer-ordered-to-return-egon-schiele-works-worth-dollar5m-to-heirs-of-holocaust-victims",
+   "additional_sources": [
+    "https://www.nytimes.com/2018/04/06/arts/two-schiele-drawings-ordered-returned-to-heirs-of-nazi-victim.html",
+    "https://law.justia.com/cases/new-york/appellate-division-first-department/2019/161799-15-8172.html"
+   ],
    "themes": [
     12
    ],
-   "notes": "Backfill parent — the 2018-19 New York precedent (Reif v. Nagy) establishing Grünbaum heirs' title to his Nazi-looted Schieles. Logged in 2026 (date_discovered 2026-09-19) as the precedent underlying the ACI-397 Chicago-seizure thread. Cross-ref ACI-397 (2023 DA seizure of the Art Institute's 'Russian War Prisoner') and the restitution cluster ACI-388 (Norton Simon), ACI-389 (Babbitt), ACI-091 (Neue Galerie / Klimt), ACI-111 (Musée d'Orsay MNR room). Drafted from the Art-Law Centre (University of Geneva) case summary.",
-   "interested_parties": "Timothy Reif and David Fraenkel (co-executors, Grünbaum heirs' estates); Leon Fischer; Milos Vávra; Richard Nagy (London dealer); estate of Fritz Grünbaum",
-   "coverage_geography": "US, UK, Switzerland",
+   "notes": "Backfill parent — the 2018-19 New York precedent (Reif v. Nagy) establishing Grünbaum heirs' title to his Nazi-looted Schieles, the framework underlying the ACI-397 Chicago-seizure thread. Per the backfill-dating approach, anchored to the moment of contemporary coverage: The Art Newspaper and The New York Times both broke the April 2018 ruling (TAN is the reference; NYT corroborates and reported Nagy's intent to appeal). The July 9, 2019 appellate affirmance is cited to the court record (175 A.D.3d 107, via Justia) because it drew essentially no press coverage — itself a coverage-pattern data point. Later tail (2021 prejudgment-interest award; 2022 final resolution) is out of scope here. Cross-ref ACI-397 (2023 DA seizure) and restitution cluster ACI-388, ACI-389, ACI-091, ACI-111. Logged 2026-09-19.",
+   "interested_parties": "Timothy Reif and David Fraenkel (co-executors, Grünbaum heirs' estates); Leon Fischer; Milos Vávra; Justice Charles Ramos (NY Supreme Court); Richard Nagy (London dealer); estate of Fritz and Elisabeth Grünbaum",
+   "coverage_geography": "US, UK",
    "follow_up_pending": false
   },
   {

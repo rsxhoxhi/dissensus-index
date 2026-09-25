@@ -160,8 +160,7 @@ DOMAIN_TO_OUTLET = {
     "indailyqld.com.au": "InReview",  # added 2026-09-18 scan (ACI-395 Brisbane Portrait Prize, InDaily QLD)
     "fortune.com": "Fortune",  # added 2026-09-19 scan (ACI-397 2023 Schiele seizure)
     "wbez.org": "WBEZ",  # added 2026-09-19 scan (ACI-397-A 2025 Schiele ruling)
-    "law.justia.com": "Justia",  # added 2026-09-19 scan (ACI-397-A primary decision)
-    "plone.unige.ch": "Art-Law Centre, University of Geneva",  # added 2026-09-19 scan (ACI-396 Reif v. Nagy)
+    "law.justia.com": "Justia",  # added 2026-09-19 scan (ACI-397-A / ACI-396 primary decisions)
 }
 
 ALIASES = {
