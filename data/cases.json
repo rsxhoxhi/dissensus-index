@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 693
+  "total_cases": 697
  },
  "cases": [
   {
@@ -22622,6 +22622,143 @@
    "notes": "Sub-entry of ACI-390 (the 2024 AI-entry policy and First Nations boycott). Documents the boycotting artists' return as 2026 finalists to contest the policy. Thin entry: The Guardian is the reference but was reachable only at search-snippet grade this run (direct fetch blocked, no Guardian API key set), so drafted in reported speech with no quotations — enrich from Guardian full text when available.",
    "interested_parties": "Brisbane Portrait Prize / Lord Mayor's prize; Birrunga and Birrunga Gallery (Queensland); Jackie Ryan",
    "coverage_geography": "Australia, UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-396",
+   "entry_id": "396",
+   "seq": 734,
+   "title": "Reif v. Nagy: New York courts affirm Grünbaum heirs' title to two Nazi-looted Schieles",
+   "artist": "Egon Schiele ('Woman in a Black Pinafore', 1911; 'Woman Hiding Her Face', 1912)",
+   "institution": "New York courts; Richard Nagy Ltd. (London dealer)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "NY Supreme Court ruling May 4, 2018; Appellate Division affirmed July 9, 2019",
+   "date_discovered": "2026-09-19",
+   "sort_date": "2018-05-04",
+   "description": "In Reif v. Nagy, New York courts recognized the heirs of Fritz Grünbaum — the Austrian-Jewish cabaret star and collector who amassed some 80 Egon Schiele works before the war — as holding superior title to two Schieles, 'Woman in a Black Pinafore' (1911) and 'Woman Hiding Her Face' (1912), held by the London dealer Richard Nagy, according to the Art-Law Centre of the University of Geneva. On May 4, 2018, the New York Supreme Court granted the plaintiffs — Timothy Reif and David Fraenkel, co-executors of the estates of Grünbaum's declared heirs Leon Fischer and Milos Vávra — summary judgment on replevin and conversion and ordered the works turned over; the Appellate Division affirmed on July 9, 2019. The summary reports the court found the works were Nazi-looted and that, under New York law, 'a thief cannot convey good title,' rejecting a good-faith-purchaser defense and applying the 2016 federal HEAR Act — which measures the limitations period from a claimant's actual discovery — to defeat a laches defense.",
+   "outcome": "The rulings established as New York precedent the Grünbaum heirs' superior title to Schieles from his collection — the framework the Manhattan district attorney later invoked in the 2023 seizure of a Schiele at the Art Institute of Chicago (ACI-397).",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "Art-Law Centre, University of Geneva"
+   ],
+   "source": "https://plone.unige.ch/art-adr/cases-affaires/two-schiele-paintings-2013-grunbaum-heirs-v-richard-nagy",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "Backfill parent — the 2018-19 New York precedent (Reif v. Nagy) establishing Grünbaum heirs' title to his Nazi-looted Schieles. Logged in 2026 (date_discovered 2026-09-19) as the precedent underlying the ACI-397 Chicago-seizure thread. Cross-ref ACI-397 (2023 DA seizure of the Art Institute's 'Russian War Prisoner') and the restitution cluster ACI-388 (Norton Simon), ACI-389 (Babbitt), ACI-091 (Neue Galerie / Klimt), ACI-111 (Musée d'Orsay MNR room). Drafted from the Art-Law Centre (University of Geneva) case summary.",
+   "interested_parties": "Timothy Reif and David Fraenkel (co-executors, Grünbaum heirs' estates); Leon Fischer; Milos Vávra; Richard Nagy (London dealer); estate of Fritz Grünbaum",
+   "coverage_geography": "US, UK, Switzerland",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-397",
+   "entry_id": "397",
+   "seq": 735,
+   "title": "Manhattan DA seizes the Art Institute of Chicago's Schiele 'Russian War Prisoner' as Nazi-looted",
+   "artist": "Egon Schiele ('Russian War Prisoner', 1916)",
+   "institution": "Art Institute of Chicago",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Seized September 13, 2023",
+   "date_discovered": "2026-09-19",
+   "sort_date": "2023-09-13",
+   "description": "On September 13, 2023, the office of Manhattan District Attorney Alvin Bragg seized Egon Schiele's 1916 watercolor-and-pencil drawing 'Russian War Prisoner,' valued at about $1.25 million, from the Art Institute of Chicago — one of three Schiele works the office seized that day, the others from the Carnegie Museums of Pittsburgh and the Allen Memorial Art Museum at Oberlin College — as allegedly Nazi-looted, Fortune reported. According to the report, prosecutors asserted jurisdiction because the works had passed through Manhattan art dealers, and the warrants stated reasonable cause to believe the works were stolen property. The drawing had belonged to Fritz Grünbaum, the Jewish cabaret performer arrested by the Nazis in 1938 who died at Dachau in 1941 and whose heirs contend he was forced to cede his art under duress. Fortune reported that the Art Institute said it was “confident in our legal acquisition and lawful possession of this work.”",
+   "outcome": "The seizure opened the contested-ownership fight over the Chicago drawing. A trial court ordered the work returned in April 2025 (ACI-397-A); a New York appellate court vacated that order in September 2026 (ACI-397-B), leaving ownership unresolved and to be pursued, if at all, through civil proceedings.",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Fortune"
+   ],
+   "source": "https://fortune.com/2023/09/16/stolen-nazi-holocaust-artwork-egon-schiele-seized-chicago-art-institute",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "Backfill parent anchored to the September 13, 2023 Manhattan DA seizure — when the controversy over the Art Institute of Chicago's Schiele 'Russian War Prisoner' began. Developments are sub-entries: ACI-397-A (April 2025 trial ruling ordering return) and ACI-397-B (September 2026 appellate reversal). Precedent: ACI-396 (Reif v. Nagy, 2018-19). Cross-ref restitution cluster ACI-388, ACI-389, ACI-091, ACI-111. Drafted from Fortune, 16 September 2023.",
+   "interested_parties": "Manhattan DA Alvin Bragg (Antiquities Trafficking Unit); Art Institute of Chicago; Grünbaum heirs (Timothy Reif, David Fraenkel); estate of Fritz Grünbaum",
+   "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-397-A",
+   "entry_id": "397-A",
+   "seq": 736,
+   "title": "Art Institute of Chicago Schiele: New York judge finds the drawing Nazi-looted and orders its return",
+   "artist": "Egon Schiele ('Russian War Prisoner', 1916)",
+   "institution": "Art Institute of Chicago",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Ruling April 23, 2025",
+   "date_discovered": "2026-09-19",
+   "sort_date": "2025-04-23",
+   "description": "On April 23, 2025, New York Supreme Court Justice Althea Drysdale ruled that the Art Institute of Chicago must return Egon Schiele's 'Russian War Prisoner,' finding it had been stolen by the Nazis from Fritz Grünbaum before World War II, WBEZ reported. According to the report, the museum contended that Grünbaum's sister-in-law had inherited the work and sold it to a Swiss dealer in 1956; a museum spokesperson said it was “disappointed with the ruling” and would review the decision and “look at all available options for appeal.”",
+   "outcome": "The trial court ordered the drawing returned to the Grünbaum heirs, and the Art Institute signaled it would appeal. The order was later vacated on appeal (ACI-397-B, September 2026).",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "WBEZ"
+   ],
+   "source": "https://www.wbez.org/museums/2025/04/24/art-institute-of-chicago-egon-schiele-russian-war-prisoner-nazi-stolen-art",
+   "additional_sources": [
+    "https://law.justia.com/cases/new-york/other-courts/2025/2025-ny-slip-op-50617-u.html"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "Sub-entry of ACI-397 (2023 DA seizure of the Art Institute's 'Russian War Prisoner'). The April 2025 trial ruling that the work was Nazi-looted and must be returned. Primary decision: Matter of Art Inst. of Chicago, 2025 NY Slip Op 50617(U) (added to additional_sources). Reversed on appeal at ACI-397-B.",
+   "interested_parties": "Justice Althea Drysdale (NY Supreme Court, NY County); Art Institute of Chicago; Grünbaum heirs (Timothy Reif, David Fraenkel); Manhattan DA's office",
+   "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-397-B",
+   "entry_id": "397-B",
+   "seq": 737,
+   "title": "New York court voids seizure order for Schiele drawing held by Art Institute of Chicago",
+   "artist": "Egon Schiele ('Russian War Prisoner', 1916)",
+   "institution": "Art Institute of Chicago",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Appellate ruling issued September 17, 2026",
+   "date_discovered": "2026-09-19",
+   "sort_date": "2026-09-17",
+   "description": "A New York State appellate court vacated 2025 orders that had directed the Art Institute of Chicago to surrender Egon Schiele's 1916 drawing 'Russian War Prisoner' to the heirs of Fritz Gruenbaum. The New York Times reported that the court held the Manhattan district attorney's office should not have used a criminal penal-law seizure procedure -- one the office has invoked in more than 100 seizure cases -- to resolve a sharply contested ownership dispute that requires full civil proceedings. The ruling reverses the April 2025 decision by Justice Althea Drysdale (ACI-397-A), who had found the drawing to be stolen property and ordered its return; CBS Chicago reported that the museum was allowed to keep the drawing following the appeal. The court did not decide who owns the drawing. [Thin entry: ruling drawn from a New York Times metadata abstract, corroborated by CBS Chicago.]",
+   "outcome": "The appellate ruling vacates the turnover order, leaving the drawing with the Art Institute of Chicago; the underlying ownership claim is not finally resolved and the heirs may pursue it through civil proceedings. [FOLLOW-UP PENDING: whether the heirs or the district attorney seek further review or refile as a civil action, and the ruling's effect on other pending seizure cases.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times",
+    "CBS News"
+   ],
+   "source": "https://www.nytimes.com/2026/09/18/arts/egon-schiele-chicago-museum-appellate-court-ruling.html",
+   "additional_sources": [
+    "https://www.cbsnews.com/chicago/news/art-institute-of-chicago-egon-schiele-drawing/"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "Sub-entry of ACI-397 (2023 DA seizure of the Art Institute's 'Russian War Prisoner'); the September 2026 appellate reversal of the April 2025 return order (ACI-397-A). Per the Times, the holding that the DA's penal-law seizure procedure (Penal Law § 450.10) is improper for a contested ownership dispute could affect more than 100 other seizure cases the office has brought. Precedent: ACI-396 (Reif v. Nagy). Metadata-grade (NYT abstract), corroborated by CBS Chicago. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Fritz Gruenbaum heirs (incl. Timothy Reif); New York County District Attorney's Office (Antiquities Trafficking Unit); Art Institute of Chicago; Justice Althea Drysdale (2025 trial ruling)",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]

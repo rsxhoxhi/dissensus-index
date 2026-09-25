@@ -158,6 +158,10 @@ DOMAIN_TO_OUTLET = {
     "laist.com": "LAist",  # added 2026-09-17 scan (ACI-393 Norton Simon / Cranach)
     "algemeiner.com": "The Algemeiner",  # added 2026-09-18 scan (ACI-394 Babbitt / Auschwitz-Birkenau)
     "indailyqld.com.au": "InReview",  # added 2026-09-18 scan (ACI-395 Brisbane Portrait Prize, InDaily QLD)
+    "fortune.com": "Fortune",  # added 2026-09-19 scan (ACI-397 2023 Schiele seizure)
+    "wbez.org": "WBEZ",  # added 2026-09-19 scan (ACI-397-A 2025 Schiele ruling)
+    "law.justia.com": "Justia",  # added 2026-09-19 scan (ACI-397-A primary decision)
+    "plone.unige.ch": "Art-Law Centre, University of Geneva",  # added 2026-09-19 scan (ACI-396 Reif v. Nagy)
 }
 
 ALIASES = {
