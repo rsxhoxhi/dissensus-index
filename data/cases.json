@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 683
+  "total_cases": 690
  },
  "cases": [
   {
@@ -15991,6 +15991,43 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BI",
+   "entry_id": "005-BI",
+   "seq": 730,
+   "title": "Kennedy Center: closure extended through September 30 over building-safety hazards",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Extension announced 23 September 2026 (closure extended through September 30, 2026)",
+   "date_discovered": "2026-09-25",
+   "sort_date": "2026-09-23",
+   "description": "The John F. Kennedy Center for the Performing Arts extended its temporary closure through 30 September 2026, with weekly reassessment thereafter, according to WTOP and The Washington Post. WTOP reported that executive director Matt Floca announced the extension in a court filing, citing documented safety hazards — including aging and falling plaster, outdated electrical systems, and deterioration in the underside of the building's overhanging roof that could impede emergency egress — and said he was extending the closure because of those hazards and the inability to ensure safe egress. WTOP noted that the Trump-appointed board had previously voted to close the building for a two-year renovation, and that the closure runs alongside litigation before U.S. District Judge Christopher Cooper, who has ordered detailed closure reports and 30 days' notice before any major physical change, in a suit brought by Rep. Joyce Beatty challenging the administration's handling of the center.",
+   "outcome": "The main building remains closed, now through at least 30 September 2026, subject to weekly review; the closure, renaming and demolition litigation before Judge Cooper continues. [FOLLOW-UP PENDING: reopening date or further closure extensions, and the ongoing litigation.]",
+   "tags": [
+    "Institutional crisis",
+    "Political interference"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "WTOP",
+    "The Washington Post"
+   ],
+   "source": "https://wtop.com/dc/2026/09/kennedy-center-extends-closure-for-another-week-at-least/",
+   "additional_sources": [
+    "https://www.washingtonpost.com/style/2026/09/23/kennedy-center-extends-closure-week-reopening-date-remains-uncertain/"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center under the 2025 takeover). Follows ACI-005-BH (human-chain protest, Sept 18): the board's temporary closure is now extended through Sept 30 with weekly reassessment on stated building-safety grounds, keeping the venue dark as the closure/renaming/demolition litigation continues. Drafted in reported speech from WTOP full text (a Floca court-filing statement) plus a Washington Post search result (direct fetch blocked); no direct quotes. Provisional suffix BI: on origin/main the last logged sub-entry is ACI-005-BD, with BE–BH held by open daily-scan PRs (2026-09-17 through 2026-09-21) — BI is the next free suffix in the backlog union.",
+   "interested_parties": "Matt Floca (executive director); Kennedy Center board (Trump-appointed); Rep. Joyce Beatty; Judge Christopher Cooper; Trump administration",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -22288,6 +22325,207 @@
    "interested_parties": "UAW Local 2110; Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum; Richard Ho (American Folk Art Museum)",
    "coverage_geography": "US",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-403",
+   "entry_id": "403",
+   "seq": 724,
+   "title": "AI-generated mural in Bristol removed after local street artists object",
+   "artist": "N/A (AI-generated)",
+   "institution": "Jolly Colliers pub, Bedminster (Bristol); Punch Pubs (owner)",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "September 2026 (vinyl mural installed and removed within days; ARTnews reported 24 September 2026)",
+   "date_discovered": "2026-09-25",
+   "sort_date": "2026-09-24",
+   "description": "An AI-designed vinyl mural mounted on the exterior of the Jolly Colliers pub in Bedminster, Bristol, drew criticism from local street artists and was taken down, ARTnews reported. According to ARTnews, the mural depicted Bristol landmarks but contained errors, including a flawed rendering of Banksy's Mild Mild West (1999), an inaccurate Cabot Tower and an undersized SS Great Britain, and it drew objection for using AI-generated imagery in a city known internationally for its street art. ARTnews reported that the Bristol Mural Collective criticised the pub's choice, arguing that AI designs devalue and undermine the work of artists, and that the vinyl was subsequently removed from the wall. A spokesperson for Punch, which owns the pub, said the mural had been a temporary measure prompted by the condition of the external wall and that the company intended to work with local artists and the community on a permanent mural.",
+   "outcome": "The vinyl mural was removed; the pub's owner said a permanent, locally made mural is planned. No formal proceeding resulted.",
+   "tags": [
+    "AI",
+    "Community objection",
+    "Removal"
+   ],
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/ai-generated-mural-bristol-sparks-backlash-1234799248/",
+   "additional_sources": [],
+   "themes": [
+    1,
+    11
+   ],
+   "notes": "New parent. AI-in-art dispute: objection to an AI-generated image displacing hand-made street art in Bristol (Dissensus themes 1, 11; AI tag per CLAUDE.md sec 4). Drafted in reported speech from an ARTnews search-result snippet (snippet_only grade) after the ARTnews and local-outlet pages (bristol247, nationalworld) were unreachable by direct fetch (403); no direct quotes used. Thin — enrich with the ARTnews full text and local Bristol coverage on a relevant trawl day.",
+   "interested_parties": "Jolly Colliers pub (Bedminster, Bristol); Punch Pubs (owner); Bristol Mural Collective",
+   "coverage_geography": "UK",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-404",
+   "entry_id": "404",
+   "seq": 725,
+   "title": "Pissarro Dieppe harbour painting: Paris court weighs Nazi-loot claim over Sotheby's sale",
+   "artist": "Camille Pissarro",
+   "institution": "Sotheby's (London); Mondex Corporation; Paris court",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Sold at Sotheby's London 25 June 2024; Paris court verdict expected 5 November 2026",
+   "date_discovered": "2026-09-25",
+   "sort_date": "2026-09-24",
+   "description": "Camille Pissarro's Darse de pêche et bassin Duquesne (1902), a view of the port of Dieppe, is the subject of a Nazi-loot dispute before a Paris court, The Art Newspaper reported. Seven heirs of the Jewish banker Salomon Flavian contend the painting was looted from his collection in Nazi-occupied Paris in 1941, and the work was recorded in France's 1947 official repertory of looted art. It was sold at Sotheby's in London on 25 June 2024 for £1.2m; per The Art Newspaper, the catalogue acknowledged the work's looted history but stated it was being offered under a settlement. The Art Newspaper reported that only two relatives had signed that settlement with Mondex Corporation, and that the plaintiffs argue they were not consulted before the sale and are seeking to annul it, while Sotheby's and Mondex maintain the painting was not in fact seized by the Nazis. According to the report, a verdict is expected on 5 November 2026.",
+   "outcome": "The case is pending before the Paris court; a verdict is expected on 5 November 2026. [FOLLOW-UP PENDING: the Paris court's ruling on the annulment claim, expected 5 November 2026.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/24/was-this-pissarro-paintingsold-at-sothebys-in-2024looted-by-nazis-a-paris-court-deliberates",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Nazi-era restitution dispute now in litigation over a work already sold under a partial settlement (Dissensus theme 12). Drafted in reported speech from The Art Newspaper full text; no direct quotes. Dated verdict (5 Nov 2026) flagged for follow-up.",
+   "interested_parties": "Heirs of Salomon Flavian (incl. Gilles and Nicolas Flavian, per TAN); Sotheby's; Mondex Corporation; Corinne Hershkovitch (plaintiffs' lawyer); Rémi Sermier (Sotheby's lawyer)",
+   "coverage_geography": "France, UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-405",
+   "entry_id": "405",
+   "seq": 726,
+   "title": "Colombia artists protest proposed 30% cut to national culture budget",
+   "artist": "N/A",
+   "institution": "Ministry of Culture (Colombia), Bogotá",
+   "country": "Colombia",
+   "governance_type": "Democracy",
+   "date_controversy": "Protest at the Ministry of Culture 21 September 2026; proposed 2027 budget cut",
+   "date_discovered": "2026-09-25",
+   "sort_date": "2026-09-24",
+   "description": "Hundreds of artists, students and cultural workers gathered at Colombia's Ministry of Culture in Bogotá on 21 September 2026 to protest a proposed cut to cultural funding, The Art Newspaper reported. According to the report, the government's draft 2027 budget would reduce the culture ministry's allocation by about 30% (roughly $90m) even as the overall national budget rises 14.2%, and the national arts-grants programme (Programa Nacional de Estímulos) has been suspended for 2026, leaving some 1,308 applications unevaluated and roughly $2.75m in award funding and $270,000 in jury payments unavailable, with delayed payments affecting thousands of beneficiaries. The Art Newspaper reported that the demonstration was organised by groups including the Subversivo Teatro company and the Alianza Nacional de Trabajadores Audiovisuales, that protesters demanded reversal of the decisions and formal dialogue, and that the national government, which took office in August 2026, has attributed the cuts to an inherited fiscal crisis. The report quoted sector figures, including theatre director Dubán Prado, arguing that culture should not bear the brunt of the cuts.",
+   "outcome": "The protests are ongoing; the 2026 suspension of the grants programme stands and the government attributes the reductions to fiscal constraints. No reversal has been reported. [FOLLOW-UP PENDING: the final 2027 culture budget and any restoration of the suspended Programa Nacional de Estímulos.]",
+   "tags": [
+    "Funding dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/24/colombia-culture-budget-cuts-bogota-artists-protest",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "New parent. Public-funding case (Dissensus theme 2). Governance-trajectory watch: The Art Newspaper attributes the cuts and grants suspension to a national administration that took office in August 2026 and frames them against an inherited fiscal crisis — verify the administration's identity and character (TAN names Culture Minister Paola Holguín) on enrichment before drawing governance conclusions. Cross-ref other Colombia entries (ACI-137, ACI-200, ACI-240, ACI-280, ACI-377). Drafted in reported speech from TAN full text; no direct quotes.",
+   "interested_parties": "Colombia Ministry of Culture (Minister Paola Holguín, per TAN); Subversivo Teatro; Alianza Nacional de Trabajadores Audiovisuales; Dubán Prado (theatre director)",
+   "coverage_geography": "Colombia",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-406",
+   "entry_id": "406",
+   "seq": 727,
+   "title": "Manhattan DA returns 36 looted antiquities to Syria, including a Palmyra funerary relief",
+   "artist": "Unknown (ancient Syrian / Palmyrene)",
+   "institution": "Manhattan District Attorney's Office (Antiquities Trafficking Unit)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Return ceremony 23 September 2026",
+   "date_discovered": "2026-09-25",
+   "sort_date": "2026-09-23",
+   "description": "Manhattan District Attorney Alvin Bragg announced on 23 September 2026 the return of 36 antiquities collectively valued at more than $5m to Syria, according to the District Attorney's Office and ARTnews. Per the DA's statement, the objects include a monumental limestone Palmyrene funerary relief from the late second century CE, weighing more than 1,000 pounds, which was removed from Palmyra and smuggled through Dubai before the Islamic State group destroyed large sections of the site between 2015 and 2017; a third-century BCE mosaic depicting Telete and Eros, seized in 2021; and three Syro-Hittite female idols from the second millennium BCE that had passed through the dealer Edward Merrin and the collector Michael Steinhardt. The DA's Office said 31 of the pieces had allegedly been trafficked by Georges Lotfi, that 13 were recovered from the Metropolitan Museum of Art, and that four came from Steinhardt's collection. The DA's Office said its Antiquities Trafficking Unit has recovered more than 6,400 objects valued at about $495m and returned more than 6,200 to 40 countries, and it described the repatriation as part of Syrian-American cooperation to recover the country's heritage.",
+   "outcome": "The 36 antiquities have been returned to Syria. Logged as a repatriation resolution / cluster anchor rather than an active dispute.",
+   "tags": [
+    "Repatriation",
+    "Archaeological site"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Manhattan District Attorney's Office",
+    "ARTnews"
+   ],
+   "source": "https://manhattanda.org/d-a-bragg-announces-return-of-36-antiquities-to-the-people-of-syria/",
+   "additional_sources": [
+    "https://www.artnews.com/art-news/news/new-york-investigators-return-artifacts-syria-relief-looted-palmyra-1234799359/"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Repatriation resolution / analytically relevant cluster anchor (CLAUDE.md sec 7). Cross-ref ACI-329 (France's return of 23 Syrian antiquities, July–Aug 2026). Palmyra was largely destroyed by ISIS 2015–2017; the objects here were looted/smuggled before or during the conflict and recovered through New York forfeitures. Drafted from the Manhattan DA press release (primary institutional source, full text) plus an ARTnews search result; reported speech, no direct quotes. Theme 12.",
+   "interested_parties": "Alvin Bragg (Manhattan DA); Antiquities Trafficking Unit; Metropolitan Museum of Art; Michael Steinhardt; Georges Lotfi; Mohamad Naser Kanatri (Syrian Chargé d'Affaires)",
+   "coverage_geography": "US, Syria, Middle East",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-407",
+   "entry_id": "407",
+   "seq": 728,
+   "title": "Art Institute of Chicago to return Metzinger's 'Woman With a Fan' to Lewenstein heirs",
+   "artist": "Jean Metzinger",
+   "institution": "Art Institute of Chicago",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Restitution agreement reported 22 September 2026",
+   "date_discovered": "2026-09-25",
+   "sort_date": "2026-09-22",
+   "description": "The Art Institute of Chicago has agreed to return Jean Metzinger's Woman With a Fan (1913) to the heirs of Emanuel Lewenstein, a Jewish collector persecuted in the Nazi-occupied Netherlands, The Art Newspaper reported. According to the report, the painting was auctioned in Amsterdam in October 1940, months after the German invasion, and the museum's provenance research concluded that it had either been confiscated or sold under pressure. The Art Newspaper reported that infrared imaging revealed pencil marks on the reverse identifying the dealer Paul Citroen, establishing the link to the Lewenstein collection, and that the Art Institute had acquired the painting in 1959. The report noted that the family is still seeking roughly 100 other missing works, and cited restitution expert Stuart Eizenstat praising the museum's provenance and restitution practice.",
+   "outcome": "The museum has agreed to return the painting to the Lewenstein heirs, who continue to seek other works from the collection. Logged as a restitution resolution / cluster anchor.",
+   "tags": [
+    "Repatriation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/22/art-institute-chicago-restitute-jean-metzinger-painting-emanuel-lewenstein-heirs",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Nazi-era restitution resolution / cluster anchor (Dissensus theme 12). Cross-ref ACI-408 (Mauritshuis/Goudstikker restitution, same week) and ACI-329 (Syria). Drafted in reported speech from The Art Newspaper full text; no direct quotes.",
+   "interested_parties": "Art Institute of Chicago; heirs of Emanuel Lewenstein; Paul Citroen (dealer, historical); Stuart Eizenstat",
+   "coverage_geography": "US, Europe",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-408",
+   "entry_id": "408",
+   "seq": 729,
+   "title": "Mauritshuis to return van Goyen landscape looted from dealer Jacques Goudstikker",
+   "artist": "Jan van Goyen",
+   "institution": "Mauritshuis (The Hague)",
+   "country": "Netherlands",
+   "governance_type": "Democracy",
+   "date_controversy": "Restitution announced 22 September 2026",
+   "date_discovered": "2026-09-25",
+   "sort_date": "2026-09-22",
+   "description": "The Mauritshuis in The Hague will return Jan van Goyen's Fishermen by the Lakeshore (1651) to the heirs of the Jewish dealer Jacques Goudstikker, following advice from the Dutch Restitutions Committee, The Art Newspaper reported. According to the report, Goudstikker died in 1940 while fleeing the Nazi-occupied Netherlands, after which his dealership and some 1,113 artworks were seized from his widow; the van Goyen was taken to Germany and sold to Hermann Göring before later entering the museum's collection, which acquired it in 1967. The Art Newspaper reported that the museum's head of collection, Judith Niessen, said the work had left the Goudstikker collection unjustly, and that Marei von Saher, the designated heir, and Dutch culture minister Rianne Letschert had approved the restitution.",
+   "outcome": "The Mauritshuis will return the painting to the Goudstikker heirs on the Restitutions Committee's advice. Logged as a restitution resolution / cluster anchor.",
+   "tags": [
+    "Repatriation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/22/mauritshuis-to-restitute-17th-century-dutch-painting-after-research-reveals-it-belonged-to-renowned-jewish-dealer",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Nazi-era restitution resolution / cluster anchor (Dissensus theme 12); the Goudstikker collection (seized after his 1940 death, works passing to Göring) is a landmark Nazi-loot case. Cross-ref ACI-407 (Art Institute of Chicago/Metzinger, same week) and ACI-329. Drafted in reported speech from The Art Newspaper full text; no direct quotes.",
+   "interested_parties": "Mauritshuis (Judith Niessen, head of collection); Dutch Restitutions Committee; Marei von Saher (Goudstikker heir); Rianne Letschert (Dutch culture minister)",
+   "coverage_geography": "Netherlands, Europe",
+   "follow_up_pending": false
   }
  ]
 }
