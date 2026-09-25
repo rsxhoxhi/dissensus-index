@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 689
+  "total_cases": 693
  },
  "cases": [
   {
@@ -16096,6 +16096,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BF",
+   "entry_id": "005-BF",
+   "seq": 730,
+   "title": "Kennedy Center: judge bars Trump memorials without Congress, orders 30 days' notice before demolition",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-09-17",
+   "date_discovered": "2026-09-18",
+   "sort_date": "2026-09-17",
+   "description": "On 17 September 2026, US District Judge Christopher Cooper issued a written order blocking any attempt to add President Trump's name to the Kennedy Center, according to ABC News, which reports he wrote, “Simply put, Defendants cannot install memorials for President Trump or anyone or anything else at the Kennedy Center without Congress's blessing.” ABC News reports Cooper the same day ordered the Trump administration to give 30 days' notice before making any changes to the renovation plans, including but not limited to any demolition of the center's main building. ABC News reports that Rep. Joyce Beatty, an Ohio Democrat, had filed a request for an emergency hearing after Trump was photographed with a placard referencing the center's demolition, and that Cooper denied the request, citing the morning's announcement of a temporary closure. Speaking on a North Carolina tarmac, Trump said, per ABC News, “I think that the Trump administration should certainly have recognition. Because frankly, if we don't do that, it's going to close. It'll end up being ripped down.” ABC News reports the main building was closed following the board's vote, designated a temporary seven-day closure subject to weekly reevaluation.",
+   "outcome": "The court has barred any Trump name or memorial at the center without congressional authorization and required 30 days' notice before demolition; the main building remains closed under the board's temporary-closure vote as the litigation and the administration's appeal continue. [FOLLOW-UP PENDING: the D.C. Circuit appeal, the board's weekly closure reevaluations, and whether the administration moves to demolish the building.]",
+   "tags": [
+    "Legal challenge",
+    "Political interference"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "ABC News"
+   ],
+   "source": "https://abcnews.com/Politics/trump-photographed-kennedy-center-demolishedplacard-amid-fight-venues/story?id=136519219",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center under the 2025 takeover); continues the closure thread from the mid-September board vote and Judge Cooper's repeated rulings barring Trump's name. ABC News is the full-text reference; the Cooper written-order quote and the Trump tarmac quote are from the ABC News full text.",
+   "interested_parties": "Judge Christopher Cooper (US District Court, DC); Rep. Joyce Beatty (D-Ohio); President Trump; Kennedy Center board of trustees",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -22484,9 +22518,110 @@
    "themes": [
     12
    ],
-   "notes": "Cross-ref ACI-084 / ACI-084-A (Goudstikker restitution, Netherlands); ACI-373 (Argentine court clears return of another Goudstikker work to the same heir, Marei von Saher); ACI-252 (Bavaria Nazi-loot panel); ACI-203 (Ireland restitution proposals); ACI-111 (Musee d'Orsay MNR room). Part of a wave of claims newly enabled by the 2024 California statute and the federal HEAR Act; ARTnews reported a parallel suit filed the same week by heirs of Auschwitz survivor Dina Gottliebova Babbitt against the Auschwitz-Birkenau Memorial and Museum - not logged here for want of a retrieved full-text source (see PR).",
+   "notes": "Cross-ref ACI-084 / ACI-084-A (Goudstikker restitution, Netherlands); ACI-373 (Argentine court clears return of another Goudstikker work to the same heir, Marei von Saher); ACI-252 (Bavaria Nazi-loot panel); ACI-203 (Ireland restitution proposals); ACI-111 (Musee d'Orsay MNR room). Part of a wave of claims newly enabled by the 2024 California statute and the federal HEAR Act; ARTnews reported a parallel suit filed the same week by heirs of Auschwitz survivor Dina Gottliebova Babbitt against the Auschwitz-Birkenau Memorial and Museum, now logged at ACI-394 (cross-referenced).",
    "interested_parties": "Jewish Federation Los Angeles; Marei von Saher (Goudstikker heir); Norton Simon Museum / Norton Simon Art Foundation; Daniel Gryczman",
    "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-394",
+   "entry_id": "394",
+   "seq": 731,
+   "title": "Babbitt heirs sue Auschwitz-Birkenau museum for watercolors she painted for Mengele",
+   "artist": "Dina Gottliebova Babbitt",
+   "institution": "Auschwitz-Birkenau Memorial and Museum",
+   "country": "Poland",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-09-16",
+   "date_discovered": "2026-09-18",
+   "sort_date": "2026-09-16",
+   "description": "The daughters of Dina Gottliebova Babbitt, an Auschwitz survivor, filed suit in federal court in Los Angeles on Monday, 16 September 2026, seeking the return of seven watercolor portraits their mother was forced to paint of fellow prisoners for the Nazi physician Josef Mengele, according to The Algemeiner, which reports that at least six are signed and dated “Dinah 1944.” The Algemeiner reports Babbitt survived the camp, later worked as an animation assistant for MGM and Warner Bros., and died in California in 2009. The Auschwitz-Birkenau Memorial and Museum has for decades declined to return the watercolors; The Algemeiner reports the museum says they were “purchased legally and in good faith” in the 1960s and “should remain in the museum as part of the camp heritage and as documentation of the criminal activities of Dr. Mengele.” The Algemeiner reports the suit is brought under California Code of Civil Procedure Section 338.2, enacted by Assembly Bill 2867 in 2024, and that it is one of two new Holocaust-restitution suits enabled by recently strengthened laws, the other against the Norton Simon Museum over a Lucas Cranach the Elder “Adam and Eve” (tracked at ACI-388).",
+   "outcome": "The suit seeks return of the seven watercolors and monetary damages under California law; the museum maintains it holds the works legally and that they document Mengele's crimes. [FOLLOW-UP PENDING: the museum's response and any ruling in the Los Angeles federal case.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Algemeiner"
+   ],
+   "source": "https://www.algemeiner.com/2026/09/17/new-holocaust-restitution-laws-prompt-two-lawsuits-demanding-return-nazi-looted-art/",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Holocaust-era restitution suit over works made under duress at Auschwitz; one of two suits (with ACI-388, Norton Simon/Cranach) that The Algemeiner ties to strengthened California and federal restitution laws. The Algemeiner is the full-text reference; NYT (which also headlined the case) and the Courthouse News complaint corroborate but were not independently retrieved this run. Cross-ref ACI-388.",
+   "interested_parties": "Daughters/heirs of Dina Gottliebova Babbitt; Auschwitz-Birkenau Memorial and Museum; Josef Mengele (deceased, origin of the works)",
+   "coverage_geography": "US, Poland",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-395",
+   "entry_id": "395",
+   "seq": 732,
+   "title": "Brisbane Portrait Prize accepts AI entries, prompting a First Nations boycott over Indigenous-data concerns",
+   "artist": "Birrunga and Brisbane Portrait Prize finalists",
+   "institution": "Brisbane Portrait Prize",
+   "country": "Australia",
+   "governance_type": "Democracy",
+   "date_controversy": "AI-entry policy announced and boycotted early 2024 (board narrowed the policy after backlash)",
+   "date_discovered": "2026-09-18",
+   "sort_date": "2024-02-14",
+   "description": "In early 2024 the Brisbane Portrait Prize announced it would accept AI-generated entries, a decision that drew community backlash and a boycott, InReview (InDaily) reported. According to the report, the Wiradjuri artist and gallery director Birrunga announced that he and six artists from Birrunga Gallery's Cultural Creative Development Program would abstain from the 2024 prize across all categories, objecting to the “harvesting of Indigenous artists' cultural content and IP” and warning of data harvesting “without regard for copyright or cultural considerations” and the potential for cultural appropriation through AI, with no community consultation. InReview reported that after the backlash the board revised its position, saying works “generated wholly by AI will no longer be accepted” while allowing AI used as a tool subject to expanded transparency about the platforms and processes involved, and prohibiting platforms such as Midjourney and DALL-E that do not grant artists full copyright; the board said AI “is a tool many artists use on a daily basis” and that the changes aligned with industry standards.",
+   "outcome": "The prize narrowed its AI policy under pressure — barring wholly-AI works and some platforms while permitting declared AI-assisted entries — but the dispute over AI's place in the competition, and over Indigenous cultural knowledge, remained live. Later developments are tracked at ACI-395-A.",
+   "tags": [
+    "AI",
+    "Indigenous rights"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Guardian"
+   ],
+   "source": "https://www.indailyqld.com.au/inreview/archive/2024/02/14/first-nations-artists-against-brisbane-portrait-prize-accepting-ai",
+   "additional_sources": [],
+   "themes": [
+    1,
+    11
+   ],
+   "notes": "Backfill parent anchored to the early-2024 controversy: the Brisbane Portrait Prize's acceptance of AI entries and the resulting First Nations boycott over Indigenous cultural-content/IP concerns. Logged in 2026 (date_discovered 2026-09-18), when the boycotting artists returned as finalists; that development is the sub-entry ACI-395-A. Drafted in full from InReview (InDaily QLD), 14 February 2024.",
+   "interested_parties": "Brisbane Portrait Prize (board); Birrunga (Wiradjuri artist, Birrunga Gallery); Birrunga Gallery Cultural Creative Development Program; Lethbridge Gallery",
+   "coverage_geography": "Australia",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-395-A",
+   "entry_id": "395-A",
+   "seq": 733,
+   "title": "Brisbane Portrait Prize: boycotting First Nations artists return as 2026 finalists to contest the AI policy",
+   "artist": "Birrunga and Brisbane Portrait Prize finalists",
+   "institution": "Brisbane Portrait Prize",
+   "country": "Australia",
+   "governance_type": "Democracy",
+   "date_controversy": "September 2026 (2026 finalists)",
+   "date_discovered": "2026-09-18",
+   "sort_date": "2026-09-18",
+   "description": "In 2026, the Wiradjuri artist Birrunga and five First Nations artists from his Queensland gallery returned as finalists in the Brisbane Portrait Prize — two years after boycotting it over its acceptance of AI entries (see parent ACI-395) — describing their return as an effort to reinsert themselves and drawing on what they call an ancestral integrity that software cannot replace, The Guardian reported. The Guardian reports that the artist Jackie Ryan is a finalist with a work titled The Catch, which uses the generative-AI tool Krea alongside her own photograph, and that of the 49 works in the main competition Ryan's is the only entry to declare the use of generative AI.",
+   "outcome": "The 2026 field includes both artists who returned specifically to challenge the prize's acceptance of AI and one openly AI-assisted entry, keeping live the dispute over AI's place in the competition. [FOLLOW-UP PENDING: the 2026 winners and whether the prize revises its AI-entry policy.]",
+   "tags": [
+    "AI",
+    "Indigenous rights"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Guardian"
+   ],
+   "source": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/18/bpp-brisbane-portrait-prize-2026-ai",
+   "additional_sources": [],
+   "themes": [
+    1,
+    11
+   ],
+   "notes": "Sub-entry of ACI-395 (the 2024 AI-entry policy and First Nations boycott). Documents the boycotting artists' return as 2026 finalists to contest the policy. Thin entry: The Guardian is the reference but was reachable only at search-snippet grade this run (direct fetch blocked, no Guardian API key set), so drafted in reported speech with no quotations — enrich from Guardian full text when available.",
+   "interested_parties": "Brisbane Portrait Prize / Lord Mayor's prize; Birrunga and Birrunga Gallery (Queensland); Jackie Ryan",
+   "coverage_geography": "Australia, UK",
    "follow_up_pending": true
   }
  ]

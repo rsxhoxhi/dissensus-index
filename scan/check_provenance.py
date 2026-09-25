@@ -156,6 +156,8 @@ DOMAIN_TO_OUTLET = {
     "wjla.com": "WJLA",
     "ice.gov": "ICE",
     "laist.com": "LAist",  # added 2026-09-17 scan (ACI-393 Norton Simon / Cranach)
+    "algemeiner.com": "The Algemeiner",  # added 2026-09-18 scan (ACI-394 Babbitt / Auschwitz-Birkenau)
+    "indailyqld.com.au": "InReview",  # added 2026-09-18 scan (ACI-395 Brisbane Portrait Prize, InDaily QLD)
 }
 
 ALIASES = {
