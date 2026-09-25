@@ -155,6 +155,7 @@ DOMAIN_TO_OUTLET = {
     "krdo.com": "KRDO",
     "wjla.com": "WJLA",
     "ice.gov": "ICE",
+    "manhattanda.org": "Manhattan District Attorney's Office",  # added 2026-09-25 scan (ACI-406 Syria repatriation)
 }
 
 ALIASES = {
