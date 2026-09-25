@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 683
+  "total_cases": 688
  },
  "cases": [
   {
@@ -3131,6 +3131,40 @@
    "notes": "Update to the Bayeux Tapestry loan cluster (parent ACI-154); follows the sponsor-scrutiny thread in ACI-154-C and the on-view sponsor portrait in ACI-154-D. [FOLLOW-UP PENDING: UK government review of the sponsorship]",
    "interested_parties": "Energy Embargo for Palestine; Igor Tulchinsky (exhibition sponsor); British Museum; Zack Polanski (Green Party); Ed Miliband (Foreign Secretary)",
    "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-154-F",
+   "entry_id": "154-F",
+   "seq": 725,
+   "title": "Bayeux Tapestry: broken threads found after London move; museum calls condition 'virtually unchanged'",
+   "artist": "N/A (11th-century embroidery)",
+   "institution": "British Museum, London (on loan from the Bayeux Museum, France)",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Condition check reported September 4, 2026 (tapestry arrived in London July 2026)",
+   "date_discovered": "2026-09-17",
+   "sort_date": "2026-09-04",
+   "description": "French conservators identified broken threads in the Bayeux Tapestry after its arrival in London in July 2026, France 24 reported. According to the report, French Culture Minister Catherine Pegard said a break of two threads was found over the roughly 70-metre embroidery, and slight tears in two areas of the linen were also noted; the examination - the first full condition check since September 2025 - was described as going over the work centimetre by centimetre. Pegard stressed that any damage was minor, saying that “if we say it is in the same state after having arrived in London as it was when it left Bayeux, I think we're not very wrong.” The British Museum said a draft report strongly suggested the tapestry's condition was 'virtually unchanged,' characterising thread breaks of a few millimetres as insignificant and possibly predating photographs taken in 2025. The tapestry went on display at the British Museum on 10 September 2026 in an unprecedented loan running to July 2027.",
+   "outcome": "The British Museum maintains the tapestry is essentially unchanged and the display is proceeding; French officials said its condition matched its state on leaving Bayeux. [FOLLOW-UP PENDING: any further conservation findings during the London display through July 2027.]",
+   "tags": [
+    "Conservation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "France 24"
+   ],
+   "source": "https://www.france24.com/en/live-news/20260904-two-broken-threads-on-bayeux-tapestry-no-major-damage-french-minister",
+   "additional_sources": [],
+   "themes": [
+    3,
+    4,
+    5
+   ],
+   "notes": "Continues ACI-154 (Bayeux Tapestry loan) thread; goes to the fragility/condition concern central to the French debate over the loan. A subsequent British Museum reversal barring visitor photography (reported around September 15-16 by ARTnews and Artforum) was not logged for want of a retrieved full-text source (see PR). Roughly two-week-old item surfaced on this run's homepage/RSS sweep.",
+   "interested_parties": "British Museum; Bayeux Museum; French Culture Minister Catherine Pegard; French and British conservation teams",
+   "coverage_geography": "UK, France",
    "follow_up_pending": true
   },
   {
@@ -14658,6 +14692,39 @@
    "additional_sources": []
   },
   {
+   "id": "ACI-012-R",
+   "entry_id": "012-R",
+   "seq": 724,
+   "title": "Interior Department prepares warning signs for Smithsonian's American History museum alleging bias",
+   "artist": "N/A",
+   "institution": "Smithsonian National Museum of American History (signs on National Park Service land), Washington, DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported September 16, 2026 (per Interior Secretary Doug Burgum's September 3, 2026 letter to Sen. Jeff Merkley)",
+   "date_discovered": "2026-09-17",
+   "sort_date": "2026-09-16",
+   "description": "The Interior Department is preparing about a dozen signs - estimated at roughly $7,000 each, or about $84,000 total - to be placed on National Park Service land at the Smithsonian's National Museum of American History, warning visitors of what the administration calls ideological bias in the museum's presentation of US history, NPR reported. According to NPR, the signs stem from President Trump's July executive order 'Restoring Trust in the Smithsonian Institution,' and Interior Secretary Doug Burgum's September 3 letter to Senators Jeff Merkley and Lisa Murkowski, both senior members of the Senate Appropriations Committee, alleged the museum had shifted from accurately telling America's story to advancing radical ideologies, citing director Anthea Hartig's description of history as a tool of social justice and exhibits the letter said legitimize illegal immigration and present views inconsistent with biology on sex. Merkley called the plan part of a well-planned pressure campaign to undermine the Smithsonian's independence and said he would fight to protect it.",
+   "outcome": "The signs had not been finalized as of reporting; the plan drew objection from congressional Democrats. [FOLLOW-UP PENDING: whether the signs are installed and any congressional or legal response.]",
+   "tags": [
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "NPR"
+   ],
+   "source": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Continues ACI-012 (Smithsonian pressure) thread; implements the July EO 'Restoring Trust in the Smithsonian.' Cross-ref ACI-012-O (threat to withhold federal support), ACI-012-Q (Washington 'Colossus' demand), ACI-007 (NPS interpretive signs). Analytical frame: externalised pressure on institutional framing. The Washington Post (primary DC outlet) reported the same; not retrievable via automated fetch this run. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Interior Secretary Doug Burgum; Sen. Jeff Merkley; Sen. Lisa Murkowski; director Anthea Hartig; Smithsonian Secretary Lonnie Bunch; President Donald Trump",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-011",
    "entry_id": "011",
    "seq": 10,
@@ -15987,6 +16054,44 @@
    ],
    "notes": "Sub-entry of ACI-005 (Kennedy Center under the 2025 takeover). New development: Judge Cooper's second ruling barring Trump's name, followed within about an hour by the board's vote to close the main building for renovations and by a Justice Department appeal. Follows the August 2026 board vote to inscribe Trump's name on the facade and the scheduled special board meeting logged at ACI-005-BC. The Associated Press report is the full-text reference — its AP wire was retrieved in full via syndication this run, and the canonical apnews.com URL is pinned here per CLAUDE.md §6A; Judge Cooper's quoted line is from that AP text. The Washington Post corroborates at metadata grade (direct WaPo fetch is routinely blocked). Enrich with the DC federal-cultural cluster on the trawl.",
    "interested_parties": "US District Judge Christopher Cooper; Kennedy Center board; President Donald Trump; US Department of Justice; US Congress",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-005-BE",
+   "entry_id": "005-BE",
+   "seq": 723,
+   "title": "Kennedy Center closes to the public; judge orders Trump administration to justify the shutdown",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts, Washington, DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Board voted September 15, 2026; building closed and court ordered to explain the closure September 16, 2026 (response due September 17)",
+   "date_discovered": "2026-09-17",
+   "sort_date": "2026-09-16",
+   "description": "On September 15, 2026, the Kennedy Center board voted to immediately close the performing arts center's main building for renovations, and the building closed to the public, ABC News reported. The vote came one month after the board — whose members were largely replaced with Trump allies — voted to add President Trump's name to the building. ABC News reported that last month the board had voted 23-3, according to a court filing, to close the facility for a two-year renovation as part of a $285 million renovation plan, and had voted to add Trump's name back onto the building as many as two more times. Hours before the September 15 vote, US District Judge Christopher Cooper had blocked adding any Trump tribute to the building or grounds, writing that the board “cannot install memorials for President Trump or anyone or anything else at the Kennedy Center without Congress's blessing”; he found no evidence that donations hinged on Trump's name. Trump said the renovation could not begin until the D.C. Circuit ruled on the board-approved name. CNN reported that Judge Cooper ordered the administration to provide more detail on the temporary closure by September 23, addressing whether the shutdown complied with his prior order limiting the board's ability to close the venue, following a challenge from Rep. Joyce Beatty.",
+   "outcome": "The main building is closed; the administration was ordered to justify the closure to the court, and Trump has conditioned the funded renovation on the D.C. Circuit upholding the board's name change. [FOLLOW-UP PENDING: the administration's court response, the D.C. Circuit ruling on the name, and whether and when renovation proceeds.]",
+   "tags": [
+    "Political interference",
+    "Institutional crisis",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "ABC News",
+    "CNN"
+   ],
+   "source": "https://abcnews.com/Politics/kennedy-center-boards-meeting-exclusively-focus-closure-court/story?id=136454609",
+   "additional_sources": [
+    "https://www.cnn.com/2026/09/16/politics/is-the-kennedy-center-closed"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Continues ACI-005 (Kennedy Center) thread; follows the September 15 name ruling and close vote (ACI-005-BD). Judge Christopher Cooper; Rep. Joyce Beatty. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Kennedy Center board; President Donald Trump; Judge Christopher Cooper; Rep. Joyce Beatty; US Congress (funding)",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
@@ -22286,6 +22391,70 @@
    ],
    "notes": "New parent. Coordinated strike-authorization votes across three New York museums whose unions are all UAW Local 2110. Related labor cases: ACI-211 (Guggenheim / UAW Local 2110 strike authorization, June 2026), ACI-128 (Whitney union gala rally during second-contract talks, May 2026), ACI-096 (Seattle Art Museum organizing), ACI-284 (V&A strikes). Hyperallergic is the full-text reference; the Richard Ho quote is from the Hyperallergic text. ARTnews also covered the votes but was not independently retrieved this run (site bot-wall). FOR REVIEW: whether this should stand as a new parent or fold into ACI-128 (Whitney-specific) as a sub-entry — kept as a parent here because it spans three institutions.",
    "interested_parties": "UAW Local 2110; Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum; Richard Ho (American Folk Art Museum)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-392",
+   "entry_id": "392",
+   "seq": 726,
+   "title": "Andrei Rublev's 'Trinity' icon removed for assessment after climate-control failure at Trinity Lavra",
+   "artist": "Andrei Rublev (attributed; 15th century)",
+   "institution": "Trinity Lavra of St. Sergius, Sergiev Posad (transferred from the State Tretyakov Gallery, Moscow)",
+   "country": "Russia",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Reported September 15-16, 2026 (climate-control failure occurred approximately two months earlier; a copy was installed in the capsule in August 2026)",
+   "date_discovered": "2026-09-17",
+   "sort_date": "2026-09-16",
+   "description": "Andrei Rublev's 15th-century 'Trinity,' one of Russia's most revered icons, has been removed from its display capsule after the climate-control system meant to protect it failed, The Art Newspaper reported. According to the report, humidity inside the custom case spiked to about 80 percent - far above the 50-55 percent range and roughly 19C that the Tretyakov Gallery's then-director Elena Pronicheva had specified - and the icon's wooden panels began to warp; a German specialist repaired the system, but it broke again several hours after his departure. President Vladimir Putin ordered the icon transferred from the State Tretyakov Gallery, where it had been held since 1929, to the Russian Orthodox Church in 2023 over conservation warnings, and it was moved to the Trinity Lavra of St. Sergius; a copy replaced it in the capsule in August 2026. The Tretyakov said the icon is now in the Lavra's restoration workshops and that staff are assessing its condition.",
+   "outcome": "The icon has been removed from display for conservation assessment; the extent of the damage and whether it is reversible are not yet established. [FOLLOW-UP PENDING: conservators' assessment of the panel warping and any decision on the icon's location.]",
+   "tags": [
+    "Conservation",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/16/russias-revered-trinity-icon-being-assessed-after-climate-control-system-breaks-down",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Museum-vs-church custody dispute: the 2023 transfer from the State Tretyakov Gallery to the Russian Orthodox Church was made over conservation experts' warnings, which the reported damage now appears to bear out. Governance frame: state-directed relocation of a national cultural treasure (Russia). No Dissensus theme fits cleanly; the axis is state/church control and conservation of heritage. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "State Tretyakov Gallery; Russian Orthodox Church; Trinity Lavra of St. Sergius; President Vladimir Putin; Elena Pronicheva (former Tretyakov director)",
+   "coverage_geography": "Russia, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-393",
+   "entry_id": "393",
+   "seq": 727,
+   "title": "Jewish Federation sues Norton Simon Museum for Cranach 'Adam and Eve' under new California Nazi-loot law",
+   "artist": "Lucas Cranach the Elder ('Adam' and 'Eve', c. 1530)",
+   "institution": "Norton Simon Museum, Pasadena, California",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Lawsuit filed in Los Angeles Superior Court in mid-September 2026 (reported September 16, 2026)",
+   "date_discovered": "2026-09-17",
+   "sort_date": "2026-09-15",
+   "description": "The Jewish Federation Los Angeles sued the Norton Simon Museum and two related foundations in Los Angeles Superior Court to recover two life-size Lucas Cranach the Elder paintings, 'Adam' and 'Eve' (c. 1530), on behalf of Marei von Saher, the sole living heir of the Jewish art dealer Jacques Goudstikker, LAist reported. According to the report, the Nazis took the paintings from Goudstikker in the Netherlands in 1940; after the war the Dutch government sold them to a Russian collector, who sold them to Norton Simon in 1971. The suit was brought under a 2024 California law that allows petitions to recover cultural property lost through political persecution, and the Federation said it would direct most of any net proceeds to impoverished Holocaust survivors in the Los Angeles area. The Norton Simon said decades of litigation, including at the US Supreme Court, has confirmed the Norton Simon Art Foundation's title to the works, and it cited a 2018 Ninth Circuit ruling in its favor.",
+   "outcome": "Litigation newly filed; the museum maintains its title has been repeatedly upheld in court. [FOLLOW-UP PENDING: proceedings under the 2024 California statute and any ruling.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "LAist"
+   ],
+   "source": "https://laist.com/news/norton-simon-museum-pasadena-faces-lawsuit-over-nazi-looted-art",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "Cross-ref ACI-084 / ACI-084-A (Goudstikker restitution, Netherlands); ACI-252 (Bavaria Nazi-loot panel); ACI-203 (Ireland restitution proposals); ACI-111 (Musee d'Orsay MNR room). Part of a wave of claims newly enabled by the 2024 California statute and the federal HEAR Act; ARTnews reported a parallel suit filed the same week by heirs of Auschwitz survivor Dina Gottliebova Babbitt against the Auschwitz-Birkenau Memorial and Museum - not logged here for want of a retrieved full-text source (see PR).",
+   "interested_parties": "Jewish Federation Los Angeles; Marei von Saher (Goudstikker heir); Norton Simon Museum / Norton Simon Art Foundation; Daniel Gryczman",
    "coverage_geography": "US",
    "follow_up_pending": true
   }
