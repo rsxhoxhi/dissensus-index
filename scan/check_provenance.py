@@ -155,6 +155,7 @@ DOMAIN_TO_OUTLET = {
     "krdo.com": "KRDO",
     "wjla.com": "WJLA",
     "ice.gov": "ICE",
+    "laist.com": "LAist",  # added 2026-09-17 scan (ACI-393 Norton Simon / Cranach)
 }
 
 ALIASES = {
