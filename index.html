@@ -149,18 +149,34 @@ document.getElementById('recent-list').addEventListener('click', e => {
   if (chip) { e.preventDefault(); location.href = 'browse.html?tag=' + encodeURIComponent(chip.dataset.tag); }
 });
 
+// Search normalisation — keep in sync with searchForms() in browse.html.
+// Returns [expanded, folded]: umlauts expanded to their -e form (ü→ue) AND
+// diacritics folded (ü→u), so "Grünbaum", "Gruenbaum" and "Grunbaum" all match
+// whichever spelling the entry stores.
+function searchForms(s) {
+  s = String(s || '').toLowerCase().normalize('NFC');
+  const expanded = s.replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss');
+  const folded = s.normalize('NFD').replace(/[̀-ͯ]/g, '');
+  return [expanded, folded];
+}
+function fieldMatches(field, qe, qf) {
+  const [fe, ff] = searchForms(field);
+  return fe.includes(qe) || ff.includes(qf);
+}
+
 function liveSearch(val) {
-  const q = val.toLowerCase().trim();
+  const raw = val.trim();
   const box = document.getElementById('hero-results');
-  if (q.length < 2) { box.classList.remove('active'); box.innerHTML = ''; return; }
+  if (raw.length < 2) { box.classList.remove('active'); box.innerHTML = ''; return; }
+  const [qe, qf] = searchForms(raw);
 
   const matches = allCases.filter(c =>
-    c.title.toLowerCase().includes(q) ||
-    c.country.toLowerCase().includes(q) ||
-    c.artist.toLowerCase().includes(q) ||
-    c.institution.toLowerCase().includes(q) ||
-    c.tags.toLowerCase().includes(q) ||
-    c.id.toLowerCase().includes(q)
+    fieldMatches(c.title, qe, qf) ||
+    fieldMatches(c.country, qe, qf) ||
+    fieldMatches(c.artist, qe, qf) ||
+    fieldMatches(c.institution, qe, qf) ||
+    fieldMatches(c.tags, qe, qf) ||
+    fieldMatches(c.id, qe, qf)
   );
 
   if (matches.length === 0) {
