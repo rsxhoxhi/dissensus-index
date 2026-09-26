@@ -162,6 +162,9 @@ DOMAIN_TO_OUTLET = {
     "wbez.org": "WBEZ",  # added 2026-09-19 scan (ACI-397-A 2025 Schiele ruling)
     "law.justia.com": "Justia",  # added 2026-09-19 scan (ACI-397-A / ACI-396 primary decisions)
     "artic.edu": "Art Institute of Chicago",  # added 2026-09-19 scan (ACI-397-A provenance record)
+    "manhattanda.org": "Manhattan District Attorney's Office",  # added 2026-09-26 scan (ACI-409 Syria antiquities return)
+    "actualitte.com": "ActuaLitté",  # added 2026-09-26 scan (ACI-412 Goncourt / Orélien)
+    "franceinfo.fr": "franceinfo",  # added 2026-09-26 scan (ACI-412 corroboration)
 }
 
 ALIASES = {

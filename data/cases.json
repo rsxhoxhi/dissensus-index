@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 698
+  "total_cases": 701
  },
  "cases": [
   {
@@ -16169,6 +16169,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BJ",
+   "entry_id": "005-BJ",
+   "seq": 739,
+   "title": "Kennedy Center: whistle-blowers tell Congress leaders shelved the repairs now cited for closure",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Whistle-blower letter to Congress reported September 25, 2026",
+   "date_discovered": "2026-09-26",
+   "sort_date": "2026-09-25",
+   "description": "The New York Times reported on September 25, 2026 that former Kennedy Center employees, in a letter to Congress, said the institution had delayed a plan to address the roof leaks that its officials now cite as the serious safety risk behind the building's closure. As reported by the Times, the whistle-blowers' account ties the current closure to maintenance the center had earlier shelved. [Thin entry: drawn from a New York Times metadata abstract.]",
+   "outcome": "The Kennedy Center remained closed as of late September 2026; the whistle-blower letter adds scrutiny to the closure's stated safety rationale. [FOLLOW-UP PENDING: a reopening date and any congressional response to the whistle-blower letter.]",
+   "tags": [
+    "Institutional crisis",
+    "Political interference"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/09/25/arts/music/kennedy-center-trump-renovations.html",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center). Follows ACI-005-BI (Sept 23 closure extension) and ACI-005-BG (Sept 20 report that officials weighed selling much of the art). Thin entry from an NYT metadata abstract. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Former Kennedy Center employees (whistle-blowers); U.S. Congress; Kennedy Center leadership",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -22804,6 +22838,73 @@
    "notes": "Sub-entry of ACI-392 (2023 DA seizure of the Art Institute's 'Russian War Prisoner'); the September 2026 appellate reversal of the April 2025 return order (ACI-392-A). Per the Times, the holding that the DA's penal-law seizure procedure (Penal Law § 450.10) is improper for a contested ownership dispute could affect more than 100 other seizure cases the office has brought. Precedent: ACI-391 (Reif v. Nagy). Metadata-grade (NYT abstract), corroborated by CBS Chicago. [FOLLOW-UP PENDING] mirrored in outcome.",
    "interested_parties": "Fritz Grünbaum heirs (incl. Timothy Reif); New York County District Attorney's Office (Antiquities Trafficking Unit); Art Institute of Chicago; Justice Althea Drysdale (2025 trial ruling)",
    "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-409",
+   "entry_id": "409",
+   "seq": 740,
+   "title": "Milwaukee Art Museum returns two David Drake jars to potter's descendants",
+   "artist": "David Drake (\"Dave the Potter\"), enslaved 19th-century South Carolina potter",
+   "institution": "Milwaukee Art Museum",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported September 26, 2026",
+   "date_discovered": "2026-09-26",
+   "sort_date": "2026-09-26",
+   "description": "The New York Times reported on September 26, 2026 that the Milwaukee Art Museum returned two stoneware jars by David Drake -- the enslaved 19th-century South Carolina potter also known as Dave the Potter -- to his descendants, while arranging to keep both works on display. The Times described the museum as joining a growing number of institutions returning Drake's work to his heirs. [Thin entry: drawn from a New York Times metadata abstract; needs enrichment with the full article and additional reporting.]",
+   "outcome": "The two jars were restituted to David Drake's descendants and, per the reporting, remain on display at the Milwaukee Art Museum under an arrangement reached with the heirs. [FOLLOW-UP PENDING: enrichment with the full article; identify the specific descendants and the display arrangement.]",
+   "tags": [
+    "Repatriation",
+    "Deaccessioning"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/09/26/arts/design/milwaukee-museum-returns-pots-by-enslaved-artist-david-drake-to-family.html",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "Restitution cluster (theme 12): restitution of an enslaved artist's work to descendants, part of a reported wave of such returns. Thin entry from an NYT metadata abstract -- enrich on a US trawl day. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Milwaukee Art Museum; descendants of David Drake (Dave the Potter)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-410",
+   "entry_id": "410",
+   "seq": 741,
+   "title": "Academie Goncourt drops Thelyson Orelien novel over plagiarism and AI-authorship suspicion",
+   "artist": "Thelyson Orelien (novel \"C'etait ca ou mourir\")",
+   "institution": "Academie Goncourt",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "September 25, 2026",
+   "date_discovered": "2026-09-26",
+   "sort_date": "2026-09-25",
+   "description": "On September 25, 2026, the Academie Goncourt removed Thelyson Orelien's novel \"C'etait ca ou mourir\" (published by Grasset in France and Editions du Boreal in Quebec) from the first selection for France's most prestigious literary prize, according to ActuaLitte. The outlet reported that the Academie cited two grounds: plagiarism in the author's older texts -- a 2012 work and a 2015 poetry collection -- that had recently come to light, and a suspicion, based on what it described as convergent analyses by researchers and journalists (including the Pangram AI-detection tool), that the novel was in all likelihood very largely the product of artificial intelligence. ActuaLitte reported that Orelien denied using AI, said he had begun writing the novel in 2017, and protested efforts to attack the book and his voice, adding that he wished to wait for calm before commenting further.",
+   "outcome": "The novel was removed from the Goncourt first selection; Orelien denied using AI and indicated he would comment substantively later. [FOLLOW-UP PENDING: his fuller response, any legal action, and the prize's final selection.]",
+   "tags": [
+    "AI",
+    "Copyright/ownership",
+    "Authenticity"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "ActuaLitté"
+   ],
+   "source": "https://actualitte.com/article/134194/prix-litteraires/plagiat-ia-le-prix-goncourt-exclut-le-roman-de-thelyson-orelien",
+   "additional_sources": [],
+   "themes": [
+    11
+   ],
+   "notes": "Authorship/AI cluster (theme 11, which covers AI-attribution disputes). The Academie cited both plagiarism and a suspicion of AI generation; accusations reportedly originated in part with an anonymous collective. Corroborating coverage (franceinfo, CNN) surfaced in the scan but the entry is drafted narrowly from the ActuaLitte article. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Academie Goncourt; Thelyson Orelien; Grasset; Editions du Boreal",
+   "coverage_geography": "France, Canada, US",
    "follow_up_pending": true
   }
  ]
