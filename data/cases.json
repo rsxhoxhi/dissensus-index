@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 697
+  "total_cases": 698
  },
  "cases": [
   {
@@ -16126,6 +16126,45 @@
    ],
    "notes": "Sub-entry of ACI-005 (Kennedy Center under the 2025 takeover); continues the closure thread from the mid-September board vote and Judge Cooper's repeated rulings barring Trump's name. ABC News is the full-text reference; the Cooper written-order quote and the Trump tarmac quote are from the ABC News full text.",
    "interested_parties": "Judge Christopher Cooper (US District Court, DC); Rep. Joyce Beatty (D-Ohio); President Trump; Kennedy Center board of trustees",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-005-BG",
+   "entry_id": "005-BG",
+   "seq": 738,
+   "title": "Kennedy Center: documents show officials weighed selling much of the art collection",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts, Washington, DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "New York Times report published September 20, 2026; fresh layoffs reported September 18, 2026",
+   "date_discovered": "2026-09-20",
+   "sort_date": "2026-09-20",
+   "description": "The New York Times reported, based on internal emails and documents it said it had reviewed, that officials at the Kennedy Center had at one point pursued a plan to unload much of the institution's art collection, which the paper presented as part of a broader political capture of the center under its 2025 Trump-aligned board. [Thin entry drawn from the NYT article's abstract via the NYT API; the article's body is paywalled and was not retrieved this run.] Separately, the Washington Post reported that a fresh round of layoffs began at the center on September 18, 2026 as the main building remained closed.",
+   "outcome": "The main building remains closed under the board's temporary-closure vote; the reported plan to sell much of the art collection is described as one previously pursued, and its current status could not be established from the retrieved metadata. [FOLLOW-UP PENDING: whether any art-collection sale proceeds, alongside the ongoing closure and renaming litigation.]",
+   "tags": [
+    "Political interference",
+    "Institutional crisis",
+    "Deaccessioning"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times",
+    "The Washington Post"
+   ],
+   "source": "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html",
+   "additional_sources": [
+    "https://www.washingtonpost.com/style/2026/09/18/fresh-layoffs-begin-kennedy-center-closure-continues/"
+   ],
+   "themes": [
+    2,
+    4,
+    10
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center under the 2025 takeover); follows ACI-005-BF (court bars Trump memorials without Congress; 30-day demolition notice). THIN / METADATA-GRADE: the art-collection-sale claim rests on the NYT article's abstract via the NYT API (paywalled body not read) — flag for enrichment with the full NYT text. Deaccession angle prompts adding theme 10 to the parent's [2,4]. [FOLLOW-UP PENDING: art-collection sale and closure/renaming litigation.]",
+   "interested_parties": "Kennedy Center board; Trump administration; laid-off staff",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
