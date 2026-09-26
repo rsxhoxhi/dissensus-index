@@ -91,17 +91,33 @@ function countryParts(raw) {
     .map(countryCanon);
 }
 
+// Search normalisation — keep in sync with liveSearch() in index.html.
+// Returns [expanded, folded]: umlauts expanded to their -e form (ü→ue) AND
+// diacritics folded (ü→u), so "Grünbaum", "Gruenbaum" and "Grunbaum" all match
+// whichever spelling the entry stores.
+function searchForms(s) {
+  s = String(s || '').toLowerCase().normalize('NFC');
+  const expanded = s.replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss');
+  const folded = s.normalize('NFD').replace(/[̀-ͯ]/g, '');
+  return [expanded, folded];
+}
+function fieldMatches(field, qe, qf) {
+  const [fe, ff] = searchForms(field);
+  return fe.includes(qe) || ff.includes(qf);
+}
+
 function applyFilters() {
-  const q = document.getElementById('browse-search').value.toLowerCase().trim();
+  const raw = document.getElementById('browse-search').value.trim();
+  const [qe, qf] = searchForms(raw);
   filtered = allCases.filter(c => {
-    const qOk = !q ||
-      c.title.toLowerCase().includes(q) ||
-      c.country.toLowerCase().includes(q) ||
-      c.artist.toLowerCase().includes(q) ||
-      c.institution.toLowerCase().includes(q) ||
-      c.tags.toLowerCase().includes(q) ||
-      c.description.toLowerCase().includes(q) ||
-      c.id.toLowerCase().includes(q);
+    const qOk = !raw ||
+      fieldMatches(c.title, qe, qf) ||
+      fieldMatches(c.country, qe, qf) ||
+      fieldMatches(c.artist, qe, qf) ||
+      fieldMatches(c.institution, qe, qf) ||
+      fieldMatches(c.tags, qe, qf) ||
+      fieldMatches(c.description, qe, qf) ||
+      fieldMatches(c.id, qe, qf);
     const tagOk = !activeTag ||
       (c.tags || '').split(',').map(t => t.trim()).includes(activeTag);
     const countryOk = !activeCountry ||
