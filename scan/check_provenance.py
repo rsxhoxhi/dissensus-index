@@ -161,6 +161,7 @@ DOMAIN_TO_OUTLET = {
     "fortune.com": "Fortune",  # added 2026-09-19 scan (ACI-397 2023 Schiele seizure)
     "wbez.org": "WBEZ",  # added 2026-09-19 scan (ACI-397-A 2025 Schiele ruling)
     "law.justia.com": "Justia",  # added 2026-09-19 scan (ACI-397-A / ACI-396 primary decisions)
+    "artic.edu": "Art Institute of Chicago",  # added 2026-09-19 scan (ACI-397-A provenance record)
 }
 
 ALIASES = {
