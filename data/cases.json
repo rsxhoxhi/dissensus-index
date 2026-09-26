@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 698
+  "total_cases": 701
  },
  "cases": [
   {
@@ -16169,6 +16169,41 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BH",
+   "entry_id": "005-BH",
+   "seq": 739,
+   "title": "Kennedy Center: thousands form human chain to protest Trump's demolition threats",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "September 18, 2026 (Friday evening; reported September 19, 2026)",
+   "date_discovered": "2026-09-21",
+   "sort_date": "2026-09-18",
+   "description": "Thousands of demonstrators formed a human chain around the John F. Kennedy Center for the Performing Arts in Washington on Friday evening in a demonstration called \"Hands Around the Kennedy Center,\" organized by the group Hands Off the Arts, according to NBC News. NBC reports the protesters demanded that President Trump be prevented from closing and potentially demolishing the center, which he has threatened since 2025, when he installed himself as chairman and replaced board members with his own appointees. The demonstration followed a federal judge's order requiring 30 days' notice before any major structural changes to the building (see ACI-005-BF) and the board's vote to close the main building for renovations.",
+   "outcome": "The main building remains closed under the board's temporary-closure vote and the litigation before Judge Cooper continues; the demonstration added organized public pressure but produced no formal decision. [FOLLOW-UP PENDING: further public protest and the ongoing closure, renaming, and demolition litigation.]",
+   "tags": [
+    "Institutional crisis",
+    "Political interference",
+    "Resistance"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "NBC News"
+   ],
+   "source": "https://www.nbcnews.com/politics/trump-administration/kennedy-center-protest-trump-rcna598694",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center under the 2025 takeover). Chronologically the protest (Sept 18) sits between ACI-005-BF (30-day-notice order, Sept 17) and ACI-005-BG (art-collection-sale documents, Sept 20); logged as BH after those already-drafted entries. The Art Newspaper also reported the human chain (homepage, not separately cited). The organized demonstration is the escalating public response the closure/demolition dispute had been building toward.",
+   "interested_parties": "Hands Off the Arts (Chris Raleigh); Kennedy Center protesters; Trump administration; Rep. Joyce Beatty; Judge Christopher Cooper",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -16785,6 +16820,48 @@
    "notes": "Sub-entry of ACI-038; updates ACI-038-Q (the September excavation dispute). THIN / SINGLE-SOURCE: rests solely on the Washington Post's 9 September 2026 headline and its search-result snippet — WaPo blocks automated full-text fetch and web search was unavailable this run, so the November timeline could not be read in full or corroborated. No quotes. Flagged for enrichment/verification on review.",
    "interested_parties": "Trump administration; National Capital Planning Commission; Commission of Fine Arts",
    "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-038-S",
+   "entry_id": "038-S",
+   "seq": 740,
+   "title": "Trump Triumphal Arch: Trump says it will double as a military complex housing drones and snipers",
+   "artist": "N/A",
+   "institution": "Columbia Island / Arlington Memorial Bridge approach, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "September 20, 2026",
+   "date_discovered": "2026-09-21",
+   "sort_date": "2026-09-20",
+   "description": "In a September 20, 2026 post on Truth Social, President Trump said his proposed 250-foot triumphal arch near Arlington National Cemetery would double as a military complex able to store and rapidly deploy large numbers of drones and snipers, with sniper ammunition held on site, according to NBC News. NBC reports that Interior Secretary Doug Burgum said the administration planned to break ground within two weeks and referred to the project as a great triumphal arch and military observation deck, and that Rep. Don Beyer (D-Va.), whose district is adjacent to the proposed site, criticized the plan as dangerous and unworkable given the arch's location near the flight path for Reagan National Airport.",
+   "outcome": "The arch has preliminary National Capital Planning Commission approval (July 2026) but no final federal approval; the administration says it aims to break ground while Vietnam veterans and an architectural historian challenge the project in court (see ACI-038-Q), and the military-use framing has drawn criticism from a local member of Congress. [FOLLOW-UP PENDING: whether groundbreaking and final NCPC approval proceed, and the response to the security/military-use plan.]",
+   "tags": [
+    "Design controversy",
+    "Political art",
+    "Landmark dispute",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "NBC News",
+    "NPR",
+    "The Washington Post"
+   ],
+   "source": "https://www.nbcnews.com/politics/white-house/trump-proposed-arch-military-complex-housing-drones-snipers-rcna598770",
+   "additional_sources": [
+    "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
+    "https://www.washingtonpost.com/politics/2026/09/20/trump-says-planned-arch-will-be-military-complex-drones-snipers/"
+   ],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038; follows ACI-038-R (Sept 9, administration targets November for final approval) and the excavation litigation at ACI-038-Q. THIN / SNIPPET-GRADE: drafted from search-result snippets of NBC News, NPR, and The Washington Post; direct fetches of NPR and Axios were blocked this run, so there is no full-text retrieval and no quotations. Enrich on a US-local trawl day.",
+   "interested_parties": "President Trump; Interior Secretary Doug Burgum; Rep. Don Beyer; Vietnam veterans plaintiffs (see ACI-038-R)",
+   "coverage_geography": "US, Europe",
    "follow_up_pending": true
   },
   {
@@ -22804,6 +22881,40 @@
    "notes": "Sub-entry of ACI-392 (2023 DA seizure of the Art Institute's 'Russian War Prisoner'); the September 2026 appellate reversal of the April 2025 return order (ACI-392-A). Per the Times, the holding that the DA's penal-law seizure procedure (Penal Law § 450.10) is improper for a contested ownership dispute could affect more than 100 other seizure cases the office has brought. Precedent: ACI-391 (Reif v. Nagy). Metadata-grade (NYT abstract), corroborated by CBS Chicago. [FOLLOW-UP PENDING] mirrored in outcome.",
    "interested_parties": "Fritz Grünbaum heirs (incl. Timothy Reif); New York County District Attorney's Office (Antiquities Trafficking Unit); Art Institute of Chicago; Justice Althea Drysdale (2025 trial ruling)",
    "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-398",
+   "entry_id": "398",
+   "seq": 741,
+   "title": "Brussels Minister-President seeks to oust Kanal-Centre Pompidou's founding director before opening",
+   "artist": "N/A",
+   "institution": "Kanal-Centre Pompidou, Brussels",
+   "country": "Belgium",
+   "governance_type": "Democracy",
+   "date_controversy": "September 2026",
+   "date_discovered": "2026-09-21",
+   "sort_date": "2026-09-20",
+   "description": "Brussels Minister-President Boris Dilliès, of the center-right francophone Mouvement Reformateur, moved to dismiss Yves Goldstein, the founding general director of Kanal-Centre Pompidou — the Belgian capital's forthcoming major modern and contemporary art museum — amid criticism that the institution is too large and costly for taxpayers, according to ARTnews. ARTnews reports that after left-leaning political leaders opposed the dismissal, Dillies backed down but gave Goldstein an ultimatum to either leave immediately or remain until the museum's opening with sharply reduced powers. Goldstein, who has led the project for over a decade, had already announced in May 2026 that he would step down once the institution was operational. ARTnews reports the museum, built in a former Citroen factory, cost the regional government over $290 million and is due to open in November 2026.",
+   "outcome": "As reported, Goldstein remained in place under the ultimatum pending the museum's November 2026 opening, with no formal dismissal enacted at the time of reporting. [FOLLOW-UP PENDING: whether Goldstein is removed or his powers curtailed, and the museum's November 2026 opening.]",
+   "tags": [
+    "Institutional crisis",
+    "Political interference",
+    "Funding dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/head-of-brussels-government-seeks-to-oust-kanal-centre-pompidou-director-1234798821/",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "New parent (provisional ACI-398). THIN / SINGLE-SOURCE: drafted from ARTnews's search-result snippet; a direct fetch of ARTnews was bot-walled (402/tollbit) this run. The Brussels Times article retrieved this run covers Goldstein's earlier May 2026 planned departure, not the September ouster move, so it is not cited. The exact date of the ouster move was not established from the snippet — needs enrichment on the Europe (Wednesday) trawl. Fits the pattern of political pressure on publicly funded cultural institutions.",
+   "interested_parties": "Minister-President Boris Dillies (Mouvement Reformateur); director Yves Goldstein; Brussels regional government",
+   "coverage_geography": "Belgium, US",
    "follow_up_pending": true
   }
  ]
