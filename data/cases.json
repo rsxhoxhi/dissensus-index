@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 714
+  "total_cases": 715
  },
  "cases": [
   {
@@ -23361,6 +23361,40 @@
    "notes": "Restitution cluster (theme 12): restitution of an enslaved artist's work to descendants, part of a reported wave of such returns. Thin entry from an NYT metadata abstract -- enrich on a US trawl day. [FOLLOW-UP PENDING] mirrored in outcome.",
    "interested_parties": "Milwaukee Art Museum; descendants of David Drake (Dave the Potter)",
    "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-411",
+   "entry_id": "411",
+   "seq": 755,
+   "title": "Greek PM rejects British Museum's Bayeux-Tapestry template for a Parthenon Marbles deal",
+   "artist": "N/A",
+   "institution": "British Museum, London; Acropolis Museum, Athens",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "British Museum proposal and Greek rejection reported September 25, 2026",
+   "date_discovered": "2026-09-27",
+   "sort_date": "2026-09-25",
+   "description": "The Art Newspaper reported on September 25, 2026 that Nicholas Cullinan, director of the British Museum, had floated the Anglo-French loan arrangement for the Bayeux Tapestry as a possible template for resolving the long-running dispute over the Parthenon sculptures, and that Greece's prime minister, Kyriakos Mitsotakis, rejected the comparison. According to the paper, Mitsotakis argued that no one would contemplate cutting the surviving Bayeux Tapestry in two to display half in London and half in Bayeux, yet that is in effect what happened to the Parthenon sculptures; he said they \"should be viewed together, at the same time, within sight of the monument for which they were created,\" at the Acropolis Museum in Athens. The Art Newspaper reports that Mitsotakis said Greece cannot accept any arrangement requiring it to recognise the British Museum's ownership of the sculptures, or a scheme under which it would \"borrow\" parts of its own monument. The paper notes the sculptures have remained in the British Museum since the early 19th century and that the museum maintains the British Museum Act 1963 prevents it from returning them.",
+   "outcome": "The sculptures remain in the British Museum and the reunification dispute is unresolved; Greece has publicly ruled out any loan model that would imply acceptance of British ownership. [FOLLOW-UP PENDING: any further British Museum, UK government, or Greek response, and whether formal talks resume.]",
+   "tags": [
+    "Repatriation",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/25/greek-prime-minister-rejects-british-museum-suggestion-that-bayeux-tapestry-exhibition-could-serve-as-template-for-parthenon-marbles-deal",
+   "additional_sources": [],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "Connects to the Index's Parthenon Marbles thread (see ACI-361, ACI-380) and to the Bayeux Tapestry loan cluster (ACI-154 series) - universal-museum standing and the Greek reunification claim.",
+   "interested_parties": "British Museum (director Nicholas Cullinan); Greek prime minister Kyriakos Mitsotakis; Acropolis Museum, Athens",
+   "coverage_geography": "UK, Greece, France, international",
    "follow_up_pending": true
   }
  ]
