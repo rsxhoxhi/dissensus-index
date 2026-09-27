@@ -163,6 +163,7 @@ DOMAIN_TO_OUTLET = {
     "law.justia.com": "Justia",  # added 2026-09-19 scan (ACI-397-A / ACI-396 primary decisions)
     "artic.edu": "Art Institute of Chicago",  # added 2026-09-19 scan (ACI-397-A provenance record)
     "nbcnews.com": "NBC News",  # added 2026-09-21 scan (ACI-005-BH, ACI-038-S)
+    "vpm.org": "VPM News",  # added 2026-09-22 scan (ACI-400 Confederate monuments removal)
 }
 
 ALIASES = {
