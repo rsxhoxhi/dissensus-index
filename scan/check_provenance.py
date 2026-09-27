@@ -164,6 +164,7 @@ DOMAIN_TO_OUTLET = {
     "artic.edu": "Art Institute of Chicago",  # added 2026-09-19 scan (ACI-397-A provenance record)
     "nbcnews.com": "NBC News",  # added 2026-09-21 scan (ACI-005-BH, ACI-038-S)
     "vpm.org": "VPM News",  # added 2026-09-22 scan (ACI-400 Confederate monuments removal)
+    "manhattanda.org": "Manhattan District Attorney's Office",  # added 2026-09-25 scan (ACI-406 Syria antiquities return)
 }
 
 ALIASES = {
