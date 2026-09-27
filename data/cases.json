@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 712
+  "total_cases": 714
  },
  "cases": [
   {
@@ -16241,6 +16241,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BJ",
+   "entry_id": "005-BJ",
+   "seq": 753,
+   "title": "Kennedy Center: whistle-blowers tell Congress leaders shelved the repairs now cited for closure",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Whistle-blower letter to Congress reported September 25, 2026",
+   "date_discovered": "2026-09-26",
+   "sort_date": "2026-09-25",
+   "description": "The New York Times reported on September 25, 2026 that former Kennedy Center employees, in a letter to Congress, said the institution had delayed a plan to address the roof leaks that its officials now cite as the serious safety risk behind the building's closure. As reported by the Times, the whistle-blowers' account ties the current closure to maintenance the center had earlier shelved. [Thin entry: drawn from a New York Times metadata abstract.]",
+   "outcome": "The Kennedy Center remained closed as of late September 2026; the whistle-blower letter adds scrutiny to the closure's stated safety rationale. [FOLLOW-UP PENDING: a reopening date and any congressional response to the whistle-blower letter.]",
+   "tags": [
+    "Institutional crisis",
+    "Political interference"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/09/25/arts/music/kennedy-center-trump-renovations.html",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center). Follows ACI-005-BI (Sept 23 closure extension) and ACI-005-BG (Sept 20 report that officials weighed selling much of the art). Thin entry from an NYT metadata abstract. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Former Kennedy Center employees (whistle-blowers); U.S. Congress; Kennedy Center leadership",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -23295,6 +23329,39 @@
    "interested_parties": "Mauritshuis (Judith Niessen, head of collection); Dutch Restitutions Committee; Marei von Saher (Goudstikker heir); Rianne Letschert (Dutch culture minister)",
    "coverage_geography": "Netherlands, Europe",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-409",
+   "entry_id": "409",
+   "seq": 754,
+   "title": "Milwaukee Art Museum returns two David Drake jars to potter's descendants",
+   "artist": "David Drake (\"Dave the Potter\"), enslaved 19th-century South Carolina potter",
+   "institution": "Milwaukee Art Museum",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported September 26, 2026",
+   "date_discovered": "2026-09-26",
+   "sort_date": "2026-09-26",
+   "description": "The New York Times reported on September 26, 2026 that the Milwaukee Art Museum returned two stoneware jars by David Drake -- the enslaved 19th-century South Carolina potter also known as Dave the Potter -- to his descendants, while arranging to keep both works on display. The Times described the museum as joining a growing number of institutions returning Drake's work to his heirs. [Thin entry: drawn from a New York Times metadata abstract; needs enrichment with the full article and additional reporting.]",
+   "outcome": "The two jars were restituted to David Drake's descendants and, per the reporting, remain on display at the Milwaukee Art Museum under an arrangement reached with the heirs. [FOLLOW-UP PENDING: enrichment with the full article; identify the specific descendants and the display arrangement.]",
+   "tags": [
+    "Repatriation",
+    "Deaccessioning"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/09/26/arts/design/milwaukee-museum-returns-pots-by-enslaved-artist-david-drake-to-family.html",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "Restitution cluster (theme 12): restitution of an enslaved artist's work to descendants, part of a reported wave of such returns. Thin entry from an NYT metadata abstract -- enrich on a US trawl day. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Milwaukee Art Museum; descendants of David Drake (Dave the Potter)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
   }
  ]
 }
