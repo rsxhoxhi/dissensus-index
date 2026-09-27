@@ -121,7 +121,7 @@ An entry can carry zero, one, or multiple theme tags:
 
 ## 4. Broad tags (open vocabulary, grows organically)
 
-Censorship · Removal · Vandalism · Funding dispute · Deaccessioning · Legal challenge · Community objection · Repatriation · Political interference · Religious objection · Obscenity · Racial/ethnic sensitivity · Protest art · Copyright/ownership · Conservation · Historic preservation · Demolition · Design controversy · Adaptive reuse · Landmark dispute · Historical erasure · Geopolitics · Security failure · Labor dispute · Institutional crisis · Political art · Resistance · Migration · Authenticity · Indigenous rights · Defamation · Art flipping · Financialization · Art market fraud · Market opacity · Cultural property destruction · Conflict zone · Iconoclasm · UNESCO World Heritage Site · Religious site · Archaeological site · AI
+Censorship · Removal · Vandalism · Funding dispute · Deaccessioning · Legal challenge · Community objection · Repatriation · Political interference · Religious objection · Obscenity · Racial/ethnic sensitivity · Protest art · Copyright/ownership · Conservation · Historic preservation · Demolition · Design controversy · Adaptive reuse · Landmark dispute · Historical erasure · Geopolitics · Security failure · Labor dispute · Institutional crisis · Political art · Resistance · Boycott · Migration · Authenticity · Indigenous rights · Defamation · Art flipping · Financialization · Art market fraud · Market opacity · Cultural property destruction · Conflict zone · Iconoclasm · UNESCO World Heritage Site · Religious site · Archaeological site · AI
 
 New tags may be added when a case cluster warrants (e.g., Artist safety, Campus censorship).
 
