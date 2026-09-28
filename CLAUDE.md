@@ -325,6 +325,14 @@ The five-stage system (Watching / Escalating / In process / Active / Resolved) a
 - **Never auto-publish unreviewed scan output** — the approval gate is what makes the Index citable rather than a feed.
 - Name: The Dissensus Index (Rancière's term, the opposite of consensus). Tagline: "A quarterly record of art controversy." Imprint: Fire Horse. License: CC BY 4.0.
 
+### Corrections (effective 2026-09-27)
+- A **correction** fixes a factual error in a merged entry: a wrong fact, date, name, figure, attribution, quote, or source. Changes to tags, themes, wording, or typos are edits, not corrections.
+- A correction to an entry logged on or after 2026-07-11 gets a dated note in the entry's `corrections` field: `[{"date": "YYYY-MM-DD", "note": "…"}]`, oldest first. The note states plainly what changed — e.g., "An earlier version of this entry attributed the takedown figure to Human Rights Watch; it was reported by MediaNama." No apology, no restating the error beyond what the reader needs.
+- `corrections` is a public field (in `KEEP_FIELDS` in `scan/build_public.py`) and renders on the case page after the entry's current status.
+- Entries logged before 2026-07-11 are revised in the source audit without per-entry notes; the methodology page discloses the audit.
+- Edits to a daily PR before it merges are editing, not correcting — no note.
+- Entries with no corrections omit the field entirely; never write an empty `[]`.
+
 ---
 
 ## 11. Session opening & active monitoring
