@@ -144,8 +144,9 @@ This step is NOT satisfied by ingest.py / the RSS feed. RSS is a narrow, time-wi
        5. **If WaPo is blocked:** list the ballroom headlines and URLs the search
           surfaced in the PR's coverage report, so the maintainer can supply text.
           Never drop them silently.
-     - **ACI-038** — Trump triumphal arch (CFA / NCPC / Interior approvals; watch the
-       September NCPC final vote).
+     - **ACI-038** — Trump triumphal arch (CFA / NCPC / Interior approvals; the
+       administration targets final federal approval in November 2026 per ACI-038-R;
+       excavation litigation at ACI-038-Q).
      - **ACI-005** — Kennedy Center (name change, litigation, closure, board actions).
      - **ACI-069 / ACI-319** — America 250 / Freedom 250 events and their aftermaths
        (did a scheduled event occur; any damage or incident).
