@@ -121,10 +121,32 @@ This step is NOT satisfied by ingest.py / the RSS feed. RSS is a narrow, time-wi
      sub-entry before concluding "nothing new":
      - **ACI-046** — Lincoln Memorial Reflecting Pool (renovation, vandalism arrests,
        prosecutions).
-     - **ACI-050** — White House State Ballroom / East Wing demolition (litigation:
-       DC Circuit, Supreme Court).
-     - **ACI-038** — Trump triumphal arch (CFA / NCPC / Interior approvals; watch the
-       September NCPC final vote).
+     - **ACI-050** — White House State Ballroom / East Wing. **Not only a court case.**
+       The thread moves through investigations, personnel changes, safety and code
+       questions, cost and donors, approvals, and Congress as often as through rulings
+       (2026-09-28: the Post's architect/fire-code investigation and the Dec 2025
+       architect change were both missed by a ruling-keyed search). Run this as its own
+       sweep, never folded into a bundled multi-topic query:
+       1. **WaPo, ballroom alone:** `site:washingtonpost.com after:[DATE-48H] ballroom`,
+          then separately `… "East Wing"`. Use single terms with no court qualifiers;
+          the Post breaks most of this thread, across politics *and* investigations desks.
+       2. **All outlets:** a date-anchored `"White House ballroom"` news search (past 48h)
+          without topic qualifiers.
+       3. **Angle check:** look for these angles in the results; each has produced a
+          sub-entry. Litigation (courts, the National Trust suit); design and architects
+          (current architect Shalom Baranes Associates); life-safety and building codes;
+          cost, funding and donors; approvals (NCPC, CFA); Congress (appropriations,
+          S. 3361 No Palaces Act); construction and schedule; demolition and preservation;
+          White House statements.
+       4. **Reconcile by date:** any ballroom article dated after the latest logged
+          ACI-050 sub-entry is a candidate until deduped against the cluster, whatever
+          its angle.
+       5. **If WaPo is blocked:** list the ballroom headlines and URLs the search
+          surfaced in the PR's coverage report, so the maintainer can supply text.
+          Never drop them silently.
+     - **ACI-038** — Trump triumphal arch (CFA / NCPC / Interior approvals; the
+       administration targets final federal approval in November 2026 per ACI-038-R;
+       excavation litigation at ACI-038-Q).
      - **ACI-005** — Kennedy Center (name change, litigation, closure, board actions).
      - **ACI-069 / ACI-319** — America 250 / Freedom 250 events and their aftermaths
        (did a scheduled event occur; any damage or incident).
