@@ -11988,16 +11988,16 @@
    "id": "ACI-050-K",
    "entry_id": "050-K",
    "seq": 757,
-   "title": "White House ballroom: first architect resigned over fire-safety code concerns (Washington Post)",
+   "title": "White House ballroom: first architect warned of fire-code violations before withdrawing",
    "artist": "James McCrery II (McCrery Architects)",
    "institution": "White House East Wing site, Washington DC",
    "country": "United States",
    "governance_type": "Democracy",
-   "date_controversy": "Architect resigned October 2025; reported by the Washington Post 23 September 2026",
+   "date_controversy": "Architect withdrew October 2025; reported by the Washington Post 23 September 2026",
    "date_discovered": "2026-09-28",
    "sort_date": "2026-09-23",
-   "description": "The Washington Post reported on 23 September 2026 that James McCrery II, the first architect on the roughly $400m White House State Ballroom project, withdrew from it in October 2025 after repeatedly warning that President Trump's preferred design violated fire- and life-safety codes. According to the Post's account as carried by Reason, McCrery raised three concerns: inadequate emergency exit routes, insufficient alternative escape routes, and a lack of fire-containment measures between the kitchen and the event space above it. The Post reported, citing two people with knowledge of the discussions, that when the architect pressed the point Trump responded, \"I am the code,\" and asserted that building codes do not apply to construction at the White House. Reason noted that federal agencies are generally required to follow federal standards. Neither account recorded a White House response to the specific allegations.",
-   "outcome": "The reporting adds a safety-and-code dimension to the ballroom dispute already tracked at ACI-050: the project's first architect left over code-compliance concerns while construction continued (the Supreme Court having allowed it to proceed, ACI-050-J). [FOLLOW-UP PENDING: any White House or agency response, code/permit review findings, or further reporting on the ballroom's fire-safety compliance.]",
+   "description": "The Washington Post reported on 23 September 2026 that James McCrery II, the first architect on the White House State Ballroom project, withdrew from it in October 2025 after repeatedly warning that Trump was insisting on a preliminary design without adequate emergency exit routes or fire-containment measures. According to the Post's reporting as summarized by Reason, McCrery told the White House the design did not meet fire-safety codes requiring most guests to be able to exit quickly through the main entrance in an emergency, that alternative exit routes were insufficient, and that little in the design would stop a kitchen fire from spreading rapidly into the event space on the floor above. Citing two people with knowledge of the discussions, the Post reported that Trump countered that no building codes apply to White House construction and that he himself was the code.",
+   "outcome": "The reporting adds a safety-and-code dimension to the ballroom dispute tracked at ACI-050: the project's first architect withdrew after raising code-compliance concerns, while construction has continued (the Supreme Court having allowed it to proceed, ACI-050-J). [FOLLOW-UP PENDING: any White House or agency response, code/permit review findings, or further reporting on the ballroom's fire-safety compliance.]",
    "tags": [
     "Design controversy",
     "Historic preservation"
@@ -12008,16 +12008,16 @@
     "Washington Post",
     "Reason"
    ],
-   "source": "https://reason.com/2026/09/24/trump-reportedly-rejected-building-codes-for-his-white-house-ballroom/",
+   "source": "https://www.washingtonpost.com/investigations/2026/09/23/i-am-code-trump-clashed-with-ballroom-architect-over-safety-issues/",
    "additional_sources": [
-    "https://www.washingtonpost.com/investigations/2026/09/23/i-am-code-trump-clashed-with-ballroom-architect-over-safety-issues/"
+    "https://reason.com/2026/09/24/trump-reportedly-rejected-building-codes-for-his-white-house-ballroom/"
    ],
    "themes": [
     2,
     9
    ],
-   "notes": "Sub-entry of ACI-050 (White House State Ballroom / East Wing). Development reported by the Washington Post on 23 September 2026 (WaPo broke it; direct fetch 403-blocked this run, so drafted narrowly from Reason's full-text account, 24 September 2026, which carries the Post's reporting and the verbatim 'I am the code' quote). WaPo cited as the originating outlet with its canonical URL in additional_sources; reason.com added to check_provenance DOMAIN_TO_OUTLET this run. The architect (McCrery) was already named in the cluster at ACI-050-J. [FOLLOW-UP PENDING: White House/agency response and any fire-safety/code review.]",
-   "interested_parties": "James McCrery II (McCrery Architects, resigned); President Trump; White House",
+   "notes": "Sub-entry of ACI-050 (White House State Ballroom / East Wing). Development broken by the Washington Post on 23 September 2026 (the originating outlet; date from its canonical URL). WaPo direct fetch is 403-blocked for this scan's tools, so per CLAUDE.md sec 6A the canonical WaPo URL is pinned as source and the story verified via secondary pickup. Every sentence of the description traces to Reason's full text (Joe Lancaster, 24 Sep 2026; re-fetched this run for verbatim wording) - a secondary outlet summarizing the Post that did no original reporting here, cited only as corroboration in additional_sources and attributed inline. Dropped in verification as ungrounded: a '$400m' cost figure (search-snippet only; not in Reason) and a claim that the Post recorded no White House response (Reason is silent; the Post was not read). Causation not asserted: Reason says McCrery withdrew AFTER warning, not because of it. Trump's remark is rendered in REPORTED SPEECH: Reason prints it verbatim as 'I am the code', but it is confirmed only secondhand, not against the Post's own text. FOR REVIEW: pin the verbatim quote and Post text via subscription. The architect (McCrery) was already named in the cluster at ACI-050-J. reason.com added to check_provenance DOMAIN_TO_OUTLET this run. [FOLLOW-UP PENDING: White House/agency response and any fire-safety/code review.]",
+   "interested_parties": "James McCrery II (McCrery Architects, withdrew October 2025); President Trump; White House",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
@@ -23438,7 +23438,7 @@
    "id": "ACI-405",
    "entry_id": "405",
    "seq": 756,
-   "title": "Welles estate objects to AI reconstruction of 'The Magnificent Ambersons' lost footage",
+   "title": "Welles estate objects to AI reconstruction of 'The Magnificent Ambersons' excised footage",
    "artist": "Orson Welles",
    "institution": "Showrunner (Amazon-backed AI platform)",
    "country": "United States",
@@ -23446,8 +23446,8 @@
    "date_controversy": "AI reconstruction plan reported and Welles estate's objection published 5 September 2025 (NBC News)",
    "date_discovered": "2026-09-28",
    "sort_date": "2025-09-05",
-   "description": "The AI platform Showrunner announced plans to use artificial intelligence to reconstruct the roughly 43 minutes of footage that RKO cut from Orson Welles's 1942 film The Magnificent Ambersons and is understood to have destroyed. According to NBC News, Showrunner's chief executive, Edward Saatchi, described the film as a \"ruined masterpiece\" and said the goal was bringing it \"back to life\"; the filmmaker Brian Rose, who spent about five years digitally rebuilding the film's sets from roughly 30,000 missing frames, is collaborating. Saatchi told NBC News the edition is a \"strictly academic noncommercial project\" because Showrunner does not hold the rights, which rest with Warner Bros. Discovery through its control of the RKO library. Welles's estate opposed the effort: its commercial agent, David Reeder, told NBC News that the estate had not been \"consulted about this project\" and that \"this kind of assembly based on scripts, storyboards and notes cannot possibly capture the unique innovation that embodied Welles' work,\" calling it \"another step in a troubling trend of AI companies\" using artists' work without authorization.",
-   "outcome": "As reported by NBC News on 5 September 2025, the project was proceeding as a stated academic, non-commercial reconstruction without the estate's consultation and without rights from Warner Bros. Discovery; no litigation was reported. [FOLLOW-UP PENDING: whether the reconstruction is released or screened, and any further estate or rights-holder (Warner Bros. Discovery) response.]",
+   "description": "Showrunner, an Amazon-backed technology platform that calls itself the \"Netflix of AI,\" plans to use artificial intelligence to reconstruct 43 minutes of excised footage from Orson Welles's The Magnificent Ambersons, its chief executive, Edward Saatchi, confirmed, according to NBC News. The studio cut footage from the film, added a more cheerful ending and released an 88-minute version, NBC News reported. Saatchi described the film as a \"ruined masterpiece\" and said that using AI to reconstruct it is a way to bring it \"back to life.\" Showrunner is working with the filmmaker Brian Rose, who has spent half a decade digitally rebuilding sets based on some 30,000 missing frames. Saatchi said the edition is a \"strictly academic noncommercial project\" because the company does not hold the rights, which belong to Warner Bros. Discovery through its control of the RKO library. Welles's estate criticized the plans, saying in a statement that it was \"not consulted about this project.\" David Reeder, the estate's commercial agent, said that \"this kind of assembly based on scripts, storyboards and notes cannot possibly capture the unique innovation that embodied Welles' work,\" and called the project \"another step in a troubling trend of AI companies building their business on the back of work created by true artisans like Welles.\"",
+   "outcome": "As reported by NBC News on 5 September 2025, Showrunner described the reconstruction as an academic, non-commercial project and did not hold the film's rights; the Welles estate said it had not been consulted. [FOLLOW-UP PENDING: whether the reconstruction is released or screened, and any further response from the estate or from rights holder Warner Bros. Discovery.]",
    "tags": [
     "AI",
     "Copyright/ownership",
@@ -23463,8 +23463,8 @@
    "themes": [
     11
    ],
-   "notes": "New parent (backfill per CLAUDE.md sec 13; origin September 2025). Surfaced on the 2026-09-28 scan via Le Monde's French coverage of the project (not retrieved this run - lemonde.fr fetch-blocked), then verified against contemporaneous US reporting. Drafted narrowly from NBC News (full-text read, dated 5 September 2025); Variety, The Hollywood Reporter and IndieWire also covered the story but were tollbit-paywalled this run and so are not cited. AI-authorship / unauthorized-use dispute (the estate's objection); no court case. Theme 11 (Authorship & Appropriation - AI training-data and attribution disputes). [FOLLOW-UP PENDING: release/screening of the reconstruction and any further estate or Warner Bros. Discovery action.]",
-   "interested_parties": "Edward Saatchi (Showrunner CEO); Brian Rose (collaborating filmmaker); David Reeder (Welles estate commercial agent); Beatrice Welles (estate); Warner Bros. Discovery (rights holder, RKO library)",
+   "notes": "New parent (backfill per CLAUDE.md sec 13; origin September 2025). Surfaced on the 2026-09-28 scan via a Le Monde French item in the RSS feed (lemonde.fr fetch-blocked, not cited). Drafted narrowly from NBC News (Daniel Arkin, 5 Sep 2025; re-fetched this run for verbatim wording) - every sentence and every quotation traces to that text. Removed in verification as not in NBC: a claim that the cut footage was destroyed, the year 1942, and 'Beatrice Welles' (all search-snippet material); an absence claim ('no litigation was reported') inferred from NBC's silence. Attribution corrected: the 'not consulted' line is the estate's statement, not Reeder speaking to NBC; Saatchi confirmed the plans to CNBC per NBC, but CNBC is not credited in prose because no CNBC link was retrieved. Search results also showed coverage by Variety, The Hollywood Reporter and IndieWire (all tollbit-paywalled this run; not cited). AI-authorship / unauthorized-use dispute; no court case identified. Theme 11 (Authorship & Appropriation - AI training-data and attribution disputes). [FOLLOW-UP PENDING: release/screening of the reconstruction and any further estate or Warner Bros. Discovery action.]",
+   "interested_parties": "Edward Saatchi (Showrunner CEO); Brian Rose (collaborating filmmaker); David Reeder (commercial agent, Orson Welles estate); Orson Welles estate; Warner Bros. Discovery (rights holder, RKO library)",
    "coverage_geography": "US, Europe",
    "follow_up_pending": true
   }
