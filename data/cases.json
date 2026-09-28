@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 718
+  "total_cases": 719
  },
  "cases": [
   {
@@ -12051,6 +12051,45 @@
    "interested_parties": "James McCrery II (McCrery Architects); President Trump; Shalom Baranes (Shalom Baranes Associates); Davis Ingle (White House spokesman)",
    "coverage_geography": "US",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-050-M",
+   "entry_id": "050-M",
+   "seq": 759,
+   "title": "White House ballroom: Sen. Blumenthal introduces 'No Palaces Act' (S. 3361)",
+   "artist": "N/A (legislative)",
+   "institution": "US Senate; White House East Wing site, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Bill introduced and referred to committee 4 December 2025",
+   "date_discovered": "2026-09-28",
+   "sort_date": "2025-12-04",
+   "description": "Sen. Richard Blumenthal (D-Connecticut) introduced the No Palaces Act (S. 3361) on 4 December 2025, following the demolition of the White House East Wing for the ballroom, the Washington Post reported. According to the bill text, it would require agencies to consult the National Capital Planning Commission (NCPC) before initiating demolition of an existing structure; require NCPC approval of certain improvements to the White House or its grounds, followed by a 60-day period in which Congress could pass a joint resolution of disapproval; bar the use of private funds for such improvements unless authorized by Congress; and allow the NCPC, its members, either House of Congress or any member of Congress to sue for injunctive relief before a three-judge panel of the federal district court in the District of Columbia. \"There ought to be a right on the part of a member of Congress to seek a court order stopping this kind of absolutely atrocious destruction,\" Blumenthal told the Post. \"It's not Donald Trump's house, it's the people's house.\" White House officials had said they did not seek NCPC approval to demolish the East Wing because only new construction, not demolition, falls under the commission's purview, the Post reported, and historic preservationists had said the White House should have waited for federal advisory panels to review and sign off on the project.",
+   "outcome": "Referred to the Senate Committee on Environment and Public Works on 4 December 2025, with no cosponsors. In the congressional bill-status record (last updated 8 September 2026), that referral remains the latest recorded action. [FOLLOW-UP PENDING: any committee action, hearing, cosponsors or floor vote on S. 3361.]",
+   "tags": [
+    "Historic preservation",
+    "Demolition",
+    "Funding dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Washington Post",
+    "GovInfo"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2025/12/04/trump-ballroom-architect-east-wing/",
+   "additional_sources": [
+    "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s3361is.xml",
+    "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3361.xml"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Backfill sub-entry of ACI-050 (CLAUDE.md sec 13), dated to the bill's introduction and the Post's same-day report (Jonathan Edwards & Dan Diamond, 4 Dec 2025; maintainer-supplied full text, logged 'maintainer'/'success'). The Post is the reference source for the news event, Blumenthal's quotes (verbatim) and the White House and preservationist positions. The bill's provisions follow the primary text (GovInfo bill XML, fetched in full) per CLAUDE.md sec 8: the Post summarized them as an NCPC demolition trigger, congressional authorization for private funds, 'other restrictions' and injunctions by members of Congress; the text adds the NCPC-approval / 60-day joint-resolution-of-disapproval regime and gives standing to the NCPC, its members and either House as well, before a three-judge panel with direct Supreme Court appeal. Status from the GovInfo BILLSTATUS record (sponsor Blumenthal; 0 cosponsors; referred to Environment and Public Works 4 Dec 2025; latest action that referral; record updated 2026-09-08). Blumenthal's press release was seen only as a search result and is not cited. govinfo.gov added to check_provenance DOMAIN_TO_OUTLET. Cross-refs: ACI-050-L (same Post article: the architect change); ACI-050-B and ACI-050-E (Senate $1B provision and the congressional-authorization strategy); ACI-050-H and ACI-050-J (litigation over whether the project needs Congress's approval). [FOLLOW-UP PENDING: committee action, cosponsors or vote on S. 3361.]",
+   "interested_parties": "Sen. Richard Blumenthal (D-Conn.; sponsor); Senate Committee on Environment and Public Works; National Capital Planning Commission; White House; historic preservationists",
+   "coverage_geography": "US",
+   "follow_up_pending": true
   },
   {
    "id": "ACI-035-C",
