@@ -165,6 +165,7 @@ DOMAIN_TO_OUTLET = {
     "nbcnews.com": "NBC News",  # added 2026-09-21 scan (ACI-005-BH, ACI-038-S)
     "vpm.org": "VPM News",  # added 2026-09-22 scan (ACI-400 Confederate monuments removal)
     "manhattanda.org": "Manhattan District Attorney's Office",  # added 2026-09-25 scan (ACI-406 Syria antiquities return)
+    "reason.com": "Reason",  # added 2026-09-28 scan (ACI-050-K ballroom architect/fire-code reporting)
 }
 
 ALIASES = {
