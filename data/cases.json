@@ -11988,36 +11988,32 @@
    "id": "ACI-050-K",
    "entry_id": "050-K",
    "seq": 757,
-   "title": "White House ballroom: first architect warned of fire-code violations before withdrawing",
+   "title": "White House ballroom: first architect warned of fire-code violations before resigning",
    "artist": "James McCrery II (McCrery Architects)",
    "institution": "White House East Wing site, Washington DC",
    "country": "United States",
    "governance_type": "Democracy",
-   "date_controversy": "Architect withdrew October 2025; reported by the Washington Post 23 September 2026",
+   "date_controversy": "McCrery resigned the week of 20 October 2025; Washington Post investigation published 23 September 2026",
    "date_discovered": "2026-09-28",
    "sort_date": "2026-09-23",
-   "description": "The Washington Post reported on 23 September 2026 that James McCrery II, the first architect on the White House State Ballroom project, withdrew from it in October 2025 after repeatedly warning that Trump was insisting on a preliminary design without adequate emergency exit routes or fire-containment measures. According to the Post's reporting as summarized by Reason, McCrery told the White House the design did not meet fire-safety codes requiring most guests to be able to exit quickly through the main entrance in an emergency, that alternative exit routes were insufficient, and that little in the design would stop a kitchen fire from spreading rapidly into the event space on the floor above. Citing two people with knowledge of the discussions, the Post reported that Trump countered that no building codes apply to White House construction and that he himself was the code.",
-   "outcome": "The reporting adds a safety-and-code dimension to the ballroom dispute tracked at ACI-050: the project's first architect withdrew after raising code-compliance concerns, while construction has continued (the Supreme Court having allowed it to proceed, ACI-050-J). [FOLLOW-UP PENDING: any White House or agency response, code/permit review findings, or further reporting on the ballroom's fire-safety compliance.]",
+   "description": "The Washington Post reported on 23 September 2026 that James McCrery II, the first architect on the White House ballroom, clashed with President Trump over design features he believed violated building-safety codes in the weeks before he resigned from the project in October 2025, according to two people with knowledge of the discussions and documents reviewed by the Post. The people said McCrery warned repeatedly that Trump was insisting on a preliminary design without adequate emergency exit routes or fire-containment measures, and that Trump brushed off the concerns, countering that no building codes apply to White House construction. \"I am the code,\" Trump said, according to the people. Per the Post, McCrery told the White House the design did not meet fire-safety codes requiring most guests to be able to exit quickly through the main entrance, that alternative exit routes were insufficient, and that little in the design would stop a kitchen fire from spreading into the event space above; documents also showed too few toilets for the building's maximum occupancy. Notes from a 30 September 2025 White House meeting read \"Life safety — big concern,\" and notes from a 6 November 2025 meeting read \"Life safety — needs POTUS buy in.\" The Post reported that McCrery resigned the week of 20 October 2025, the week demolition of the East Wing began, and that it is unclear whether a code review was ever completed or whether the issues were resolved in later designs by Shalom Baranes Associates, the firm that replaced his. Federal agencies are required by law to follow nationally recognized building-safety standards to the \"maximum extent feasible\" unless doing so would present a national-security risk, but the project is routed through the Executive Residence, which is not a federal agency, and the District of Columbia has no jurisdiction to enforce its codes on federal property. A White House spokesman said it would be \"factually false and totally inaccurate\" to associate McCrery's departure with code issues and that \"Life safety issues have been addressed and resolved continuously as the design has evolved.\" McCrery gave no specific reason for resigning; his statement said that having completed the earliest designs, \"I stepped aside and a new firm was engaged.\" Shalom Baranes said the complex \"has been designed to conform to applicable national building code standards,\" and Clark Construction, the general contractor, said it consistently follows applicable building codes and life-safety requirements.",
+   "outcome": "Contested: the White House denies any link between McCrery's departure and code issues and says life-safety issues have been resolved as the design evolved, and the successor architect says the complex conforms to national code standards; the Post reports it is unclear whether a code review was ever completed. Construction continues (the Supreme Court having allowed it to proceed, ACI-050-J). [FOLLOW-UP PENDING: evidence of a completed code review or third-party inspection findings, and any agency or congressional response on the ballroom's fire-safety compliance.]",
    "tags": [
-    "Design controversy",
-    "Historic preservation"
+    "Design controversy"
    ],
    "court_case": "No",
    "coverage_tier": "National",
    "outlets": [
-    "Washington Post",
-    "Reason"
+    "Washington Post"
    ],
    "source": "https://www.washingtonpost.com/investigations/2026/09/23/i-am-code-trump-clashed-with-ballroom-architect-over-safety-issues/",
-   "additional_sources": [
-    "https://reason.com/2026/09/24/trump-reportedly-rejected-building-codes-for-his-white-house-ballroom/"
-   ],
+   "additional_sources": [],
    "themes": [
     2,
     9
    ],
-   "notes": "Sub-entry of ACI-050 (White House State Ballroom / East Wing). Development broken by the Washington Post on 23 September 2026 (the originating outlet; date from its canonical URL). WaPo direct fetch is 403-blocked for this scan's tools, so per CLAUDE.md sec 6A the canonical WaPo URL is pinned as source and the story verified via secondary pickup. Every sentence of the description traces to Reason's full text (Joe Lancaster, 24 Sep 2026; re-fetched this run for verbatim wording) - a secondary outlet summarizing the Post that did no original reporting here, cited only as corroboration in additional_sources and attributed inline. Dropped in verification as ungrounded: a '$400m' cost figure (search-snippet only; not in Reason) and a claim that the Post recorded no White House response (Reason is silent; the Post was not read). Causation not asserted: Reason says McCrery withdrew AFTER warning, not because of it. Trump's remark is rendered in REPORTED SPEECH: Reason prints it verbatim as 'I am the code', but it is confirmed only secondhand, not against the Post's own text. FOR REVIEW: pin the verbatim quote and Post text via subscription. The architect (McCrery) was already named in the cluster at ACI-050-J. reason.com added to check_provenance DOMAIN_TO_OUTLET this run. [FOLLOW-UP PENDING: White House/agency response and any fire-safety/code review.]",
-   "interested_parties": "James McCrery II (McCrery Architects, withdrew October 2025); President Trump; White House",
+   "notes": "Sub-entry of ACI-050 (White House State Ballroom / East Wing). Washington Post investigation by Sarah Blaskey and Jonathan O'Connell (Dan Diamond contributed), 23 September 2026. WaPo is fetch-blocked (403) for the scan's tools; the full article text was supplied by the maintainer in-session on 2026-09-28 and logged in the retrieval ledger with method 'maintainer', status 'success'. Drafted from that text only; every quotation is verbatim from it. Anonymous-source account (two people) corroborated, per the Post, by documents it reviewed; the White House disputes the link between the resignation and code issues, so the title states the sequence (warned, then resigned) without asserting causation. Cross-refs: ACI-050-F (the no-bid contract routed through the Executive Residence, the same routing the Post cites here as why agency code rules do not bind the project); ACI-050-J (Supreme Court lets construction continue). The Post also cites its earlier reporting on McCrery's clash with Trump over the ballroom's size (Nov 2025) and on cost estimates (June 2026). The Baranes quote is from a statement the Post added after publication. [FOLLOW-UP PENDING: completed code review / inspection findings; agency or congressional response.]",
+   "interested_parties": "James McCrery II (McCrery Architects; resigned October 2025); President Trump; White House (spokesman; Joshua Fisher, director of management and administration and contracting officer); Executive Residence; Shalom Baranes Associates (successor architect); Clark Construction (general contractor)",
    "coverage_geography": "US",
    "follow_up_pending": true
   },

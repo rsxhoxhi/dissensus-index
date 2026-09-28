@@ -240,7 +240,7 @@ Avoid rss.app, Feedspot, RapidAPI wrappers, and similar middlemen. For a self-ru
 
 ### Retrieval ledger and provenance gate
 
-Every scan run writes a per-run ledger (`scan/retrieval_log.json`, ephemeral, gitignored): one record per retrieval attempt — outlet, URL, method (`fetch` / `search_result` / `api`), and grade (`success` = full body read; `truncated` = partial; `snippet_only` = metadata, abstract, or search snippet; `blocked` = not retrieved). Records are written at retrieval time by `scan/log_retrieval.py`, never reconstructed afterward.
+Every scan run writes a per-run ledger (`scan/retrieval_log.json`, ephemeral, gitignored): one record per retrieval attempt — outlet, URL, method (`fetch` / `search_result` / `api` / `maintainer` — full text the maintainer supplies in-session for a source the tools can't reach), and grade (`success` = full body read; `truncated` = partial; `snippet_only` = metadata, abstract, or search snippet; `blocked` = not retrieved). Records are written at retrieval time by `scan/log_retrieval.py`, never reconstructed afterward.
 
 Before the daily PR opens, `scan/check_provenance.py` gates the run on two rules. **Reach:** every outlet a new entry cites — in `outlets`, `source`, or `additional_sources` — must have a non-blocked record this run; metadata-grade citations are legitimate (thin entries from API abstracts are sanctioned above). **Depth:** an entry containing quotation marks must have at least one cited outlet with a full `success` record — quotes cannot come from metadata or truncated fetches.
 

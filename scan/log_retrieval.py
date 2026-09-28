@@ -59,7 +59,11 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--outlet", required=True)
     p.add_argument("--url", required=True)
-    p.add_argument("--method", required=True, choices=["fetch", "search_result", "api"])
+    # "maintainer" = full text supplied by the maintainer in-session for a source the
+    # scan's tools cannot retrieve (e.g. a paywalled WaPo article); log it at the
+    # grade actually supplied, never as a fetch.
+    p.add_argument("--method", required=True,
+                   choices=["fetch", "search_result", "api", "maintainer"])
     p.add_argument("--status", required=True,
                    choices=["success", "truncated", "snippet_only", "blocked"])
     p.add_argument("--new-run", action="store_true",
