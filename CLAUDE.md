@@ -194,8 +194,8 @@ Stick to the scheduled region. If something erupts elsewhere, the dragnet catche
 
 The `[FOLLOW-UP PENDING]` flag is prepended to the Notes field of any entry whose Outcome/Status speculates about what happens next (pending litigation, planned events, anticipated developments, enrichment needed) where no sub-entry has confirmed resolution.
 
-1. Identify all flagged entries.
-2. Assess which are ripe (elapsed time, case type).
+1. Identify all flagged entries. `python scan/ripe_flags.py` lists the ripe ones mechanically: (A) flags whose every named date has passed; (B) flags on sub-entries superseded by a later sub-entry; (C) flags with no named pending text; (D) pending text left on unflagged entries. A and D are worked daily, and B and C on Sunday (`--all`).
+2. Assess which others are ripe (elapsed time, case type).
 3. Search updates for the ripe ones.
 4. On resolution/significant development: log a sub-entry, update the parent's Outcome/Status, and **remove the flag from the parent's Notes**.
 5. No resolution → leave the flag. Don't search every flag exhaustively every day (except Sunday).
