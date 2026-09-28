@@ -60,6 +60,20 @@ async function loadCase() {
     ? `<p style="margin-top:1rem;font-size:0.8rem;"><strong>Source:</strong> <a href="${escHtml(c.source)}" target="_blank" rel="noopener" style="color:var(--teal);word-break:break-all;">${escHtml(c.source)}</a></p>`
     : '';
 
+  // Corrections — dated notes on factual fixes to a published entry (see CLAUDE.md §10)
+  const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  const fmtIsoDate = s => { const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(s || '')); return (m && MONTHS[+m[2] - 1]) ? `${MONTHS[+m[2] - 1]} ${+m[3]}, ${m[1]}` : escHtml(String(s || '')); };
+  const correctionItems = Array.isArray(c.corrections)
+    ? c.corrections.filter(x => x && typeof x.note === 'string' && x.note.trim())
+        .slice().sort((a, b) => String(a.date || '').localeCompare(String(b.date || '')))
+    : [];
+  const correctionsHtml = correctionItems.length
+    ? `<div class="case-corrections" style="margin-top:1.25rem;margin-bottom:1.25rem;padding-top:1rem;border-top:0.5px solid var(--ink-rule-light);">
+         <strong style="font-size:0.7rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-mid);">Correction${correctionItems.length === 1 ? '' : 's'}</strong>
+         ${correctionItems.map(x => `<p style="margin-top:0.4rem;font-size:0.85rem;"><strong>${fmtIsoDate(x.date)}:</strong> ${escHtml(x.note)}</p>`).join('')}
+       </div>`
+    : '';
+
   // Coverage scope — the outlets that covered this controversy
   const outletsHtml = (c.outlets && c.outlets.length > 0)
     ? `<div style="margin-top:1.25rem;padding-top:1rem;border-top:0.5px solid var(--ink-rule-light);">
@@ -94,6 +108,8 @@ async function loadCase() {
       <strong style="font-size:0.7rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-mid);">Current status</strong>
       <p style="margin-top:0.4rem;font-size:0.9rem;">${escHtml(c.outcome)}</p>
     </div>` : ''}
+
+    ${correctionsHtml}
 
     ${tags ? `<div class="case-tags">${tags}</div>` : ''}
 

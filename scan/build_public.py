@@ -70,6 +70,7 @@ KEEP_FIELDS = {
     "outlets",
     "source",
     "additional_sources",
+    "corrections",
 }
 
 
