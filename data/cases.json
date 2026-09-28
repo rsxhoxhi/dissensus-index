@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 717
+  "total_cases": 718
  },
  "cases": [
   {
@@ -12014,10 +12014,43 @@
     2,
     9
    ],
-   "notes": "Sub-entry of ACI-050 (White House State Ballroom / East Wing). Washington Post investigation by Sarah Blaskey and Jonathan O'Connell (Dan Diamond contributed), 23 September 2026. WaPo is fetch-blocked (403) for the scan's tools; the full article text was supplied by the maintainer in-session on 2026-09-28 and logged in the retrieval ledger with method 'maintainer', status 'success'. Drafted from that text only; every quotation is verbatim from it. Anonymous-source account (two people) corroborated, per the Post, by documents it reviewed; the White House disputes the link between the resignation and code issues, so the title states the sequence (warned, then resigned) without asserting causation. Cross-refs: ACI-050-F (the no-bid contract routed through the Executive Residence, the same routing the Post cites here as why agency code rules do not bind the project); ACI-050-J (Supreme Court lets construction continue). The Post also cites its earlier reporting on McCrery's clash with Trump over the ballroom's size (Nov 2025) and on cost estimates (June 2026). The Baranes statement is from the Post's follow-up the same day (O'Connell & Blaskey, 23 Sep 2026; maintainer-supplied full text, logged 'maintainer'/'success'), in additional_sources. Framing of the departure has shifted: December 2025 coverage (Architectural Record, Grace Kuth, 8 Dec 2025, citing the Post's anonymous sources: https://www.architecturalrecord.com/articles/17900-trump-brings-on-new-lead-architect-to-design-white-house-ballroom) said McCrery 'stepped back' in late October 2025, that the firm's limited staff and missed deadlines were the deciding factor after an earlier clash over the ballroom's size, and that he would stay on as a consultant; the Sept 2026 investigation reports a resignation the week of 20 Oct 2025 following the code warnings, which the White House denies was code-related. The Dec 2025 architect change is not yet logged as its own sub-entry (see PR review notes). [FOLLOW-UP PENDING: completed code review / inspection findings; agency or congressional response.]",
+   "notes": "Sub-entry of ACI-050 (White House State Ballroom / East Wing). Washington Post investigation by Sarah Blaskey and Jonathan O'Connell (Dan Diamond contributed), 23 September 2026. WaPo is fetch-blocked (403) for the scan's tools; the full article text was supplied by the maintainer in-session on 2026-09-28 and logged in the retrieval ledger with method 'maintainer', status 'success'. Drafted from that text only; every quotation is verbatim from it. Anonymous-source account (two people) corroborated, per the Post, by documents it reviewed; the White House disputes the link between the resignation and code issues, so the title states the sequence (warned, then resigned) without asserting causation. Cross-refs: ACI-050-F (the no-bid contract routed through the Executive Residence, the same routing the Post cites here as why agency code rules do not bind the project); ACI-050-J (Supreme Court lets construction continue). The Post also cites its earlier reporting on McCrery's clash with Trump over the ballroom's size (Nov 2025) and on cost estimates (June 2026). The Baranes statement is from the Post's follow-up the same day (O'Connell & Blaskey, 23 Sep 2026; maintainer-supplied full text, logged 'maintainer'/'success'), in additional_sources. Framing of the departure has shifted: the Post's own December 2025 report (ACI-050-L) said Trump replaced McCrery, that capacity and deadlines were the decisive factor after a clash over size, that it was unclear whether he left voluntarily, and that he remained in a consulting role; this Sept 2026 investigation reports a resignation the week of 20 Oct 2025 following the code warnings, which the White House denies was code-related. [FOLLOW-UP PENDING: completed code review / inspection findings; agency or congressional response.]",
    "interested_parties": "James McCrery II (McCrery Architects; resigned October 2025); President Trump; White House (spokesman; Joshua Fisher, director of management and administration and contracting officer); Executive Residence; Shalom Baranes Associates (successor architect); Clark Construction (general contractor)",
    "coverage_geography": "US",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-050-L",
+   "entry_id": "050-L",
+   "seq": 758,
+   "title": "White House ballroom: Shalom Baranes succeeds James McCrery as lead architect",
+   "artist": "James McCrery II (McCrery Architects); Shalom Baranes (Shalom Baranes Associates)",
+   "institution": "White House East Wing site, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "McCrery stopped working on the project in late October 2025; change reported by the Washington Post 4 December 2025",
+   "date_discovered": "2026-09-28",
+   "sort_date": "2025-12-04",
+   "description": "The Washington Post reported on 4 December 2025 that President Trump had replaced James McCrery II, the architect he handpicked to design the $300 million White House ballroom, according to three people familiar with the project. McCrery and his firm had led the design for more than three months until late October 2025, when he stopped working on the project, one of the people said; it was unclear whether he stepped back voluntarily, and one person said the two men parted on good terms. Trump and McCrery had clashed over the president's desire to keep increasing the building's size, but one person said the firm's small workforce and inability to hit deadlines became the decisive factor in his leaving. The Post reported that architects and planning experts had questioned from the start whether a firm as small as McCrery's could complete so large a project on Trump's timeline. Trump chose Shalom Baranes, whose firm has worked on the main Treasury building, the Federal Reserve and the General Services Administration headquarters and whose approach, which includes modernist buildings, differs from McCrery's classical style. White House spokesman Davis Ingle said in a statement that Baranes's \"experience will be a great asset to the completion of this project.\" The White House and McCrery's representative said McCrery remained involved in a \"consulting\" role; McCrery's spokesman did not respond to the Post's requests for an interview.",
+   "outcome": "Shalom Baranes Associates took over the ballroom's design, with McCrery described at the time as remaining in a consulting role. The Post's later reporting (23 September 2026, ACI-050-K) gives a different account of the same departure: a resignation the week of 20 October 2025 that followed McCrery's warnings about fire-safety codes, which the White House denies was code-related.",
+   "tags": [
+    "Design controversy"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Washington Post"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2025/12/04/trump-ballroom-architect-east-wing/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Backfill sub-entry of ACI-050 (CLAUDE.md sec 13), dated to the Post's 4 Dec 2025 report by Jonathan Edwards and Dan Diamond, which broke the architect change (Architectural Record, 8 Dec 2025, credits the Post with first reporting it). WaPo is fetch-blocked (403) for the scan's tools; the full text was supplied by the maintainer in-session on 2026-09-28 and logged 'maintainer'/'success'. Drafted from that text only; quotes verbatim. Anonymous-source account: three people familiar with the project, with the decisive-factor and good-terms claims each from one of them. Two Post accounts of one departure: this one (capacity and deadlines, consulting role, voluntariness unclear) and ACI-050-K (Sept 2026: resignation the week of 20 Oct 2025 after code warnings; McCrery says he 'stepped aside'; the White House denies a code link and says it chose 'to move in another direction'). Recorded as reported, not reconciled; no later reporting found on whether the consulting role continued. Same article, deliberately not folded in here: Sen. Richard Blumenthal's 'No Palaces Act' (introduced 4 Dec 2025) and NCPC chair Will Scharf's statement that ballroom plans would be submitted that month.",
+   "interested_parties": "James McCrery II (McCrery Architects); President Trump; Shalom Baranes (Shalom Baranes Associates); Davis Ingle (White House spokesman)",
+   "coverage_geography": "US",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-035-C",
