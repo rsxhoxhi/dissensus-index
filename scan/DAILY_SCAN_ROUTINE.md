@@ -110,8 +110,15 @@ This step is NOT satisfied by ingest.py / the RSS feed. RSS is a narrow, time-wi
    are mandatory on Thursday and Saturday.
 3. **Trawl:** run today's regional trawl from CLAUDE.md Part 2, including the standing
    searches for that day (Richmond/VA on Tue/Fri, etc.).
-4. **Follow-up sweep:** for each `follow_up_pending` case that is plausibly ripe,
-   web-search for developments.
+4. **Follow-up sweep:** start from the mechanical ripe list:
+   `python scan/ripe_flags.py` (Sunday: `--all`). Every entry in **group A** (all
+   named dates passed) and **group D** (pending text on an unflagged entry) is
+   reconciled today: search for the development, then log a sub-entry or update
+   the outcome, and clear flag and text together. If nothing can be found, keep
+   the flag and say so in the PR. Report the A/B/C/D counts in the PR's
+   "Follow-up sweep" section. Then, for any other `follow_up_pending` case that
+   is plausibly ripe, web-search for developments. Group B (superseded by a later
+   sub-entry) and group C (unnamed legacy flags) are worked on Sundays.
    - **Standing DC federal-cultural cluster pass (MANDATORY, every day — not just
      Sunday).** These threads move almost daily and the movement is court rulings,
      votes, arrests, and scheduled events landing on their own dates — exactly the
