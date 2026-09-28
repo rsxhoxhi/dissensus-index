@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 715
+  "total_cases": 716
  },
  "cases": [
   {
@@ -23395,6 +23395,40 @@
    "notes": "Connects to the Index's Parthenon Marbles thread (see ACI-361, ACI-380) and to the Bayeux Tapestry loan cluster (ACI-154 series) - universal-museum standing and the Greek reunification claim.",
    "interested_parties": "British Museum (director Nicholas Cullinan); Greek prime minister Kyriakos Mitsotakis; Acropolis Museum, Athens",
    "coverage_geography": "UK, Greece, France, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-405",
+   "entry_id": "405",
+   "seq": 756,
+   "title": "Welles estate objects to AI reconstruction of 'The Magnificent Ambersons' lost footage",
+   "artist": "Orson Welles",
+   "institution": "Showrunner (Amazon-backed AI platform)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "AI reconstruction plan reported and Welles estate's objection published 5 September 2025 (NBC News)",
+   "date_discovered": "2026-09-28",
+   "sort_date": "2025-09-05",
+   "description": "The AI platform Showrunner announced plans to use artificial intelligence to reconstruct the roughly 43 minutes of footage that RKO cut from Orson Welles's 1942 film The Magnificent Ambersons and is understood to have destroyed. According to NBC News, Showrunner's chief executive, Edward Saatchi, described the film as a \"ruined masterpiece\" and said the goal was bringing it \"back to life\"; the filmmaker Brian Rose, who spent about five years digitally rebuilding the film's sets from roughly 30,000 missing frames, is collaborating. Saatchi told NBC News the edition is a \"strictly academic noncommercial project\" because Showrunner does not hold the rights, which rest with Warner Bros. Discovery through its control of the RKO library. Welles's estate opposed the effort: its commercial agent, David Reeder, told NBC News that the estate had not been \"consulted about this project\" and that \"this kind of assembly based on scripts, storyboards and notes cannot possibly capture the unique innovation that embodied Welles' work,\" calling it \"another step in a troubling trend of AI companies\" using artists' work without authorization.",
+   "outcome": "As reported by NBC News on 5 September 2025, the project was proceeding as a stated academic, non-commercial reconstruction without the estate's consultation and without rights from Warner Bros. Discovery; no litigation was reported. [FOLLOW-UP PENDING: whether the reconstruction is released or screened, and any further estate or rights-holder (Warner Bros. Discovery) response.]",
+   "tags": [
+    "AI",
+    "Copyright/ownership",
+    "Authenticity"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "NBC News"
+   ],
+   "source": "https://www.nbcnews.com/pop-culture/movies/orson-welles-the-magnificent-ambersons-artificial-intelligence-rcna229337",
+   "additional_sources": [],
+   "themes": [
+    11
+   ],
+   "notes": "New parent (backfill per CLAUDE.md sec 13; origin September 2025). Surfaced on the 2026-09-28 scan via Le Monde's French coverage of the project (not retrieved this run - lemonde.fr fetch-blocked), then verified against contemporaneous US reporting. Drafted narrowly from NBC News (full-text read, dated 5 September 2025); Variety, The Hollywood Reporter and IndieWire also covered the story but were tollbit-paywalled this run and so are not cited. AI-authorship / unauthorized-use dispute (the estate's objection); no court case. Theme 11 (Authorship & Appropriation - AI training-data and attribution disputes). [FOLLOW-UP PENDING: release/screening of the reconstruction and any further estate or Warner Bros. Discovery action.]",
+   "interested_parties": "Edward Saatchi (Showrunner CEO); Brian Rose (collaborating filmmaker); David Reeder (Welles estate commercial agent); Beatrice Welles (estate); Warner Bros. Discovery (rights holder, RKO library)",
+   "coverage_geography": "US, Europe",
    "follow_up_pending": true
   }
  ]
