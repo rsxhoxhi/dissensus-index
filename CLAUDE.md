@@ -4,7 +4,7 @@
 
 ## 1. What this project is
 
-This project maintains the **Dissensus Index** (dissensusindex.com), a continuously updated, multilingual record of public art and cultural-property controversies, with a Quarterly Lead Essay layered on top of the dataset. The Index tracks disputes involving artworks, artists, institutions, and cultural policy. The master dataset is `data/cases.json` in this repo; the public site is built from it (see §16).
+This project maintains the **Dissensus Index** (dissensusindex.com), a quarterly record of art controversy: the dataset updates continuously on editorial approval, and a Quarterly Lead Essay is published each solstice and equinox (§10). The Index tracks disputes involving artworks, artists, institutions, and cultural policy. The master dataset is `data/cases.json` in this repo; the public site is built from it (see §16).
 
 **Public identity:** An independent research project.
 
