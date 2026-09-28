@@ -1,12 +1,10 @@
-# The Dissensus Index — Project Instructions (Merged)
-
-> Merged draft reconciling the build-session distilled instructions with the prior scan-protocol instructions. Open judgment calls are marked `[DECISION — …]`. Resolve or strike those, then this becomes the master.
+# The Dissensus Index — Project Instructions
 
 ---
 
 ## 1. What this project is
 
-This project maintains the **Dissensus Index** (dissensusindex.com), a quarterly record of art controversy. The Index tracks disputes involving artworks, artists, institutions, and cultural policy through a structured five-stage methodology. The public site is built from a dataset; the working master is the tracker spreadsheet (`art_controversy_tracker_LIVE.xlsx`), migrating to a repo-based store.
+This project maintains the **Dissensus Index** (dissensusindex.com), a continuously updated, multilingual record of public art and cultural-property controversies, with a Quarterly Lead Essay layered on top of the dataset. The Index tracks disputes involving artworks, artists, institutions, and cultural policy. The master dataset is `data/cases.json` in this repo; the public site is built from it (see §16).
 
 **Public identity:** An independent research project.
 
@@ -16,9 +14,9 @@ This project maintains the **Dissensus Index** (dissensusindex.com), a quarterly
 
 ---
 
-## 2. Data schema (working master)
+## 2. Data schema
 
-The spreadsheet is the full-detail master. Every column is preserved; the public site renders a subset.
+`data/cases.json` is the master dataset: every field, public and private, lives there. The public site is built from a stripped copy (see *Public and private fields* below).
 
 **Identifier (resolved).** **ACI-NNN is the permanent public identifier** — it is the live URL and the citation anchor for every case (`case.html?id=ACI-NNN`, and the "Cite as … case ACI-NNN" line). The three-digit `entry_id` (and the `NNN-X` form for sub-entries) is the internal mirror of the same number and is kept in lockstep with the ACI id. Because ACI numbers are cited and linked, they are **stable: never renumbered or reused once an entry is published.**
 
@@ -26,30 +24,12 @@ The spreadsheet is the full-detail master. Every column is preserved; the public
 
 **Existing gaps are historical and retained.** Twenty parent numbers burned before this policy (e.g. 338, 352–354) stay missing on purpose — closing them would move published identifiers and break live links and citations. A gap is normal for a stable identifier (compare CVE, docket, or patent numbers); it means a candidate did not survive review, not that anything is broken. The public methodology/`cite.html` says so in one line.
 
-Columns (working master, 20):
+**Controlled values.**
+- `governance_type`: Democracy / Hybrid Regime / Authoritarian / Theocracy. For democracies under authoritarian pressure, annotate the trajectory.
+- `court_case`: Yes / No / Pending.
+- `coverage_tier`: Local / Regional / National / International.
 
-1. Entry ID (three-digit, e.g., 001) — maps to public ACI ID
-2. Parent ID (blank for new entries; references original Entry ID for updates/sub-entries, e.g., 011-A)
-3. Date Discovered
-4. Date of Controversy
-5. Artwork / Object
-6. Artist / Subject
-7. Location / Institution
-8. Country
-9. Governance Type (Democracy / Hybrid Regime / Authoritarian / Theocracy; annotate trajectory for democracies under authoritarian pressure)
-10. Brief Description
-11. Interested Parties
-12. Court Case (Yes / No / Pending)
-13. Broad Tags
-14. Dissensus Themes [see §3]
-15. Coverage Tier (Local / Regional / National / International)
-16. Coverage Geography (where the story is being *covered*, not just where it happened)
-17. Key Outlets
-18. Primary Source Link
-19. Outcome / Status
-20. Notes (observations, pattern connections, class relevance — **and the `[FOLLOW-UP PENDING]` flag prefix**)
-
-> The public-site field list (ACI ID, title, artist/subject, institution, country, governance, dates, description, outcome/status, broad tags, court case, coverage tier, key outlets, primary source link) is a **display subset**. Parent ID, Interested Parties, Coverage Geography, and Notes stay in the master even if not surfaced publicly — they carry the update mechanism, the coverage-movement signal, and the active-monitoring flags.
+**Public and private fields.** On every deploy, Netlify runs `scan/build_public.py` (per `netlify.toml`), which builds `dist/` and strips eight private fields from the published copy of `cases.json`: `notes`, `governance_type`, `themes`, `seq`, `sort_date`, `follow_up_pending`, `coverage_geography`, `interested_parties`. The master file keeps them — they carry the analytical layer, the coverage-movement signal, and the active-monitoring flags. Never surface a private field on the site, and never drop one from the master. `build_public.py` holds the canonical list; if this paragraph and the script disagree, the script wins and this paragraph gets corrected.
 
 ### Required fields for every cases.json entry
 
@@ -166,7 +146,7 @@ New tags may be added when a case cluster warrants (e.g., Artist safety, Campus 
 - **Fetch known sources directly first** (homepages/section pages), then search for everything else.
 - **Date-anchor every discovery query** with today's actual date.
 - **Run a recency sweep** — explicitly hunt for what published in the last 24 hours and isn't yet logged.
-- **Cross-reference against existing cases** — a new ruling on a tracked case is a stage update, not a new entry.
+- **Cross-reference against existing cases** — a new ruling on a tracked case is an update to that case (sub-entry), not a new entry.
 - **Report what couldn't be reached** — name blind spots plainly ("couldn't reach Courthouse News today"; "scanned at 6am, later items appear tomorrow"). Silence must never read as "nothing happened."
 
 ### Part 1A — Outlet scan (every day)
@@ -299,9 +279,9 @@ A source joins the excluded list only with a specific, documentable basis; the l
 
 ## 7. Inclusion
 
-**Threshold — err toward showing MORE.** When unsure, surface as a flagged, unstaged candidate rather than dropping it. False positives cost ten seconds to prune; false negatives mean the Index missed something. Borderline social-media-visible controversies that haven't reached major press get flagged for editorial judgment, not discarded — that early edge is a strength.
+**Threshold — err toward showing MORE.** When unsure, surface as a flagged candidate rather than dropping it. False positives cost ten seconds to prune; false negatives mean the Index missed something. Borderline social-media-visible controversies that haven't reached major press get flagged for editorial judgment, not discarded — that early edge is a strength.
 
-**Criteria.** A controversy qualifies when it: has art/artist/institution/cultural policy as primary subject; has a documented dispute between identifiable opposing parties; has a traceable public record; and extends beyond ordinary criticism (a negative review is not a controversy; a work removed under organized pressure is).
+**Criteria.** The primary marker for inclusion is a **contested claim** over a cultural object or space, or over the conditions of its making and display. Claims take many forms: to ownership or possession (including repatriation); to a space; that a work should be censored, removed, altered, or destroyed; that an exhibition or program should be changed; that funding should be granted or withdrawn; or about an object's status — whether it counts as art, belongs where it is, or merits protection. Some acts carry the claim inherently: **theft is a contested claim of ownership; intentional damage is a contested claim about an object's status.** A qualifying case also has art, artists, institutions, or cultural policy as its primary subject; has a traceable public record; and extends beyond ordinary criticism (a negative review is not a controversy; a work removed under organized pressure is). The claimant need not be identified — see the vandalism principle below.
 
 Additional standing principles:
 - A story belongs when the cultural object/space is the **actual contested thing**, not mere backdrop for a financial/legal dispute.
@@ -309,12 +289,13 @@ Additional standing principles:
 - Accidental damage warrants a watch entry when aftermath financialization can turn an object contested (e.g., shattered shards becoming collectible).
 - Analytically relevant non-controversy entries are allowed as cluster anchors (e.g., repatriation resolutions).
 - Vandalism: anonymity of the actor is constitutive, not thinness. Test = target significance and aftermath, not party identification. Do not require a named contesting party to log.
+- **Natural disasters.** Damage to or destruction of heritage by a natural disaster is not in scope in itself. Disputes arising from it — over reconstruction, funding, or negligence — are in scope: log the dispute, not the disaster.
 
 ---
 
 ## 8. Sourcing rules
 
-- Every proposed case or stage change MUST carry a real, fetched, verifiable source link. If it can't be sourced, flag for investigation — don't propose it.
+- Every proposed case or update MUST carry a real, fetched, verifiable source link. If it can't be sourced, flag for investigation — don't propose it.
 - **Sources are the evidence/phenomenon itself** — press coverage, legal filings, institutional statements, social reaction. The public-discourse record IS the primary source, not a citation supporting a claim.
 - **Wikipedia does not qualify** (tertiary, outside the discourse). A Wikipedia hit is a flag to go find the real coverage it summarizes.
 - Capture **multiple outlets** where coverage is wide — breadth is itself a data point indicating scale.
@@ -331,15 +312,9 @@ A search returns snippets from many outlets at once. Synthesizing a description 
 
 ---
 
-## 9. Staging system (assign at logging time)
+## 9. Staging system — retired
 
-- **1 · Watching** — emerged, monitored, no organized response yet
-- **2 · Escalating** — organized public response (petition, protest, boycott, campaign), no formal decision/legal action yet
-- **3 · In process** — formal institutional/government response or legal proceedings underway; outcome undetermined
-- **4 · Active** — active litigation, significant institutional action, or government intervention producing ongoing developments
-- **5 · Resolved** — documented conclusion (settlement, ruling, decision, reinstatement); doesn't require all parties satisfied
-
-The 3-vs-4 boundary operationalized as: "has a consequential, hard-to-reverse act occurred (4), or is everything still pending (3)?"
+The five-stage system (Watching / Escalating / In process / Active / Resolved) and the `stage` / `stage_label` fields are fully retired. Do not assign stages, add these fields to entries, or reference them in code or PR text. Case development is tracked through sub-entries and the `[FOLLOW-UP PENDING]` flag (§6, Part 3A).
 
 ---
 
@@ -398,11 +373,8 @@ Direct, compression-oriented, humor-forward. No directive sign-offs ("go pick up
 
 ## 16. Current status & roadmap
 
-- Site live (dissensusindex.com / .org → .com), built from `cases.json` (snapshot of the spreadsheet). Netlify auto-deploys from `github.com/rsxhoxhi/dissensus-index`.
-- ~392 cases staged as of June 2026 (working master continues to grow beyond this).
-- Manual workflow: scan in chat → convert → browser-upload to GitHub → Netlify deploys.
-- **Now → June 21:** two launch essays (Hungary as leading indicator; legal cases resolve while governance fights fester); About-page own-voice rewrite; lock methodology v1.0; ISSN application (LoC, free); Internet Archive snapshot; pre-launch data re-sync; announce.
-- **July (after personal laptop):** Claude Code on owned hardware → repo migration (data into a store the scan agent reads/writes) → implement the §6A feeds/APIs ingestion layer (Guardian Open Platform + NYT Developer API + CourtListener, keys as env vars) → formalize this file into the repo's executable scan protocol → self-running daily scan → approve-dredged-cases briefing workflow. (Build the automation/data layer on personally-owned hardware to keep "significant use of university resources" off the table.)
-- Once §6A ingestion is live, reconcile the public methodology source list to match (name the Guardian/NYT APIs and CourtListener); add the Zenodo DOI-per-release line noted on the methodology page to this status block.
-- File-handling specifics for the spreadsheet master (openpyxl full-workbook reconstruction, column widths, INDEX yellow-fill for flagged rows, dedup pattern) are documented in working memory and should be captured into the formalized scan-protocol file during the July buildout.
-- **[OPEN — revisit on/after 2026-09-07] Source-fidelity Layer 2 (claim-grounding gate).** Layer 1 shipped 2026-08-30: the draft-narrowly discipline (§8) plus provenance-gate Rule 3 (linkage). The decision was to let Layer 1 run ~a week, then judge whether Layer 2 is still needed. **On/after 2026-09-07:** review the intervening daily-scan PRs — did mis-citation (a real fact from an uncited outlet) or paraphrase-promoted-to-quote still recur? If yes, build Layer 2: a `scan/check_grounding.py` gate that saves each cited source's retrieved text to a gitignored per-run cache, then (a) **hard-blocks** any quoted span absent from a cited source's text, (b) **soft-flags** distinctive facts (money figures, dates, proper nouns) absent from every cited text. If Layer 1 already cut the pain enough, strike this line instead. The daily scan surfaces this reminder in its PR's "For your review" once the date has passed (DAILY_SCAN_ROUTINE.md Step 5).
+- Site live at dissensusindex.com (`.org` and `www` redirect to it). Repo: `github.com/rsxhoxhi/dissensus-index` (private). There is no spreadsheet; `data/cases.json` is the master (§2).
+- **Build:** merging to `main` triggers a Netlify deploy, which runs `python3 scan/build_public.py` and publishes `dist/` — public-safe files only, with the private fields stripped from the served `cases.json`. The build never modifies the master.
+- **Workflow:** the cloud Routine runs the daily scan (`scan/DAILY_SCAN_ROUTINE.md`) and opens a PR on a dated `claude/daily-YYYY-MM-DD` branch. After review, `scan/finalize_ids.py` assigns permanent IDs (§2) and the editor merges; nothing reaches the live site without that merge.
+- **Open:** reconcile the public methodology page with current practice — the source list (§6A), the retired staging system (§9), and the contested-claim inclusion criterion (§7). Record the Zenodo DOI-per-release decision here once made.
+- **[OPEN — revisit on/after 2026-10-11] Source-fidelity Layer 2 (claim-grounding gate).** Layer 1 shipped 2026-08-30: the draft-narrowly discipline (§8) plus provenance-gate Rule 3 (linkage). By late September it had greatly reduced mis-citation (a real fact from an uncited outlet) and paraphrase-promoted-to-quote, but fidelity errors were still being caught in review of the September backlog. **On/after 2026-10-11:** review the intervening daily-scan PRs — did either error still recur? If yes, build Layer 2: a `scan/check_grounding.py` gate that saves each cited source's retrieved text to a gitignored per-run cache, then (a) **hard-blocks** any quoted span absent from a cited source's text, (b) **soft-flags** distinctive facts (money figures, dates, proper nouns) absent from every cited text. If Layer 1 has cut the pain enough, strike this line instead. The daily scan surfaces this reminder in its PR's "For your review" once the date has passed (DAILY_SCAN_ROUTINE.md Step 5).
