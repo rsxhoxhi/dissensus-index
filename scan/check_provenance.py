@@ -166,6 +166,10 @@ DOMAIN_TO_OUTLET = {
     "vpm.org": "VPM News",  # added 2026-09-22 scan (ACI-400 Confederate monuments removal)
     "manhattanda.org": "Manhattan District Attorney's Office",  # added 2026-09-25 scan (ACI-406 Syria antiquities return)
     "govinfo.gov": "GovInfo",  # added 2026-09-28 scan (ACI-050-M No Palaces Act bill text and status, U.S. GPO)
+    "spokesman.com": "Reuters",  # added 2026-09-28: Spokesman-Review as Reuters carrier (cf. news4jax -> AP) (queued ACI-038-T)
+    "hongkongfp.com": "Hong Kong Free Press",  # added 2026-09-28 (queued ACI-331-D, AFP report)
+    "senat.fr": "French Senate",  # added 2026-09-28 (queued ACI-035-K, primary legislative record)
+    "justice.gov": "US Department of Justice",  # added 2026-09-28 (queued ACI-330-A, USAO-DC release)
 }
 
 ALIASES = {
