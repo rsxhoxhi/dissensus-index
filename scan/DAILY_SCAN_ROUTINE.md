@@ -93,7 +93,9 @@ Fetch each at 8,000–10,000 tokens. List every headline with a one-word notatio
 
 **Log every retrieval, at retrieval time.** Immediately after each retrieval of any kind — homepage fetch, article fetch, a web-search result actually read, an NYT API call, or an RSS item an entry is drafted from — run:
 
-`python scan/log_retrieval.py --outlet "<name>" --url "<url>" --method fetch|search_result|api --status success|truncated|snippet_only|blocked`
+`python scan/log_retrieval.py --outlet "<name>" --url "<url>" --method fetch|search_result|api|maintainer --status success|truncated|snippet_only|blocked`
+
+(`maintainer` is for full text the maintainer pastes in-session for a source the tools cannot retrieve — e.g. a paywalled Washington Post article. Log it when supplied, at the grade actually supplied; never relabel it as a fetch.)
 
 Grades: `success` = full body read; `truncated` = partial body; `snippet_only` = metadata/abstract/search-snippet only; `blocked` = not retrieved. Ledger records are written at retrieval time only — if the gate later fails on an unlogged outlet, the fix is to re-fetch and log properly, **never to backfill the ledger from memory**: backfilling reinstates the exact self-attestation problem the ledger exists to remove. Records only ever accumulate within a run; the ledger's `run_date` is the run's anchor and stays fixed even if the scan crosses midnight UTC.
 

@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 715
+  "total_cases": 719
  },
  "cases": [
   {
@@ -11985,6 +11985,112 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-050-K",
+   "entry_id": "050-K",
+   "seq": 757,
+   "title": "White House ballroom: first architect warned of fire-code violations before resigning",
+   "artist": "James McCrery II (McCrery Architects)",
+   "institution": "White House East Wing site, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "McCrery resigned the week of 20 October 2025; Washington Post investigation published 23 September 2026",
+   "date_discovered": "2026-09-28",
+   "sort_date": "2026-09-23",
+   "description": "The Washington Post reported on 23 September 2026 that James McCrery II, the first architect on the White House ballroom, clashed with President Trump over design features he believed violated building-safety codes in the weeks before he resigned from the project in October 2025, according to two people with knowledge of the discussions and documents reviewed by the Post. The people said McCrery warned repeatedly that Trump was insisting on a preliminary design without adequate emergency exit routes or fire-containment measures, and that Trump brushed off the concerns, countering that no building codes apply to White House construction. \"I am the code,\" Trump said, according to the people. Per the Post, McCrery told the White House the design did not meet fire-safety codes requiring most guests to be able to exit quickly through the main entrance, that alternative exit routes were insufficient, and that little in the design would stop a kitchen fire from spreading into the event space above; documents also showed too few toilets for the building's maximum occupancy. Notes from a 30 September 2025 White House meeting read \"Life safety — big concern,\" and notes from a 6 November 2025 meeting read \"Life safety — needs POTUS buy in.\" The Post reported that McCrery resigned the week of 20 October 2025, the week demolition of the East Wing began, and that it is unclear whether a code review was ever completed or whether the issues were resolved in later designs by Shalom Baranes Associates, the firm that replaced his. Federal agencies are required by law to follow nationally recognized building-safety standards to the \"maximum extent feasible\" unless doing so would present a national-security risk, but the project is routed through the Executive Residence, which is not a federal agency, and the District of Columbia has no jurisdiction to enforce its codes on federal property. A White House spokesman said it would be \"factually false and totally inaccurate\" to associate McCrery's departure with code issues, that \"The decision was made to move in another direction for the second phase of the project,\" and that \"Life safety issues have been addressed and resolved continuously as the design has evolved.\" The Post had previously reported that McCrery clashed with Trump over the ballroom's size. McCrery gave no specific reason for resigning; his statement said that having completed the earliest designs, \"I stepped aside and a new firm was engaged.\" In a statement to the Post after publication, Shalom Baranes, whose firm now designs the ballroom, said the complex \"has been designed to conform to applicable national building code standards\" and that the project team includes two nationally recognized code consultants. Clark Construction, the general contractor, said it consistently follows applicable building codes and life-safety requirements.",
+   "outcome": "Contested: the White House denies any link between McCrery's departure and code issues and says life-safety issues have been resolved as the design evolved, and the successor architect says the complex conforms to national code standards; the Post reports it is unclear whether a code review was ever completed. Construction continues (the Supreme Court having allowed it to proceed, ACI-050-J). [FOLLOW-UP PENDING: evidence of a completed code review or third-party inspection findings, and any agency or congressional response on the ballroom's fire-safety compliance.]",
+   "tags": [
+    "Design controversy"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Washington Post"
+   ],
+   "source": "https://www.washingtonpost.com/investigations/2026/09/23/i-am-code-trump-clashed-with-ballroom-architect-over-safety-issues/",
+   "additional_sources": [
+    "https://www.washingtonpost.com/politics/2026/09/23/current-white-house-ballroom-architect-weighs-buildings-safety/"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-050 (White House State Ballroom / East Wing). Washington Post investigation by Sarah Blaskey and Jonathan O'Connell (Dan Diamond contributed), 23 September 2026. WaPo is fetch-blocked (403) for the scan's tools; the full article text was supplied by the maintainer in-session on 2026-09-28 and logged in the retrieval ledger with method 'maintainer', status 'success'. Drafted from that text only; every quotation is verbatim from it. Anonymous-source account (two people) corroborated, per the Post, by documents it reviewed; the White House disputes the link between the resignation and code issues, so the title states the sequence (warned, then resigned) without asserting causation. Cross-refs: ACI-050-F (the no-bid contract routed through the Executive Residence, the same routing the Post cites here as why agency code rules do not bind the project); ACI-050-J (Supreme Court lets construction continue). The Post also cites its earlier reporting on McCrery's clash with Trump over the ballroom's size (Nov 2025) and on cost estimates (June 2026). The Baranes statement is from the Post's follow-up the same day (O'Connell & Blaskey, 23 Sep 2026; maintainer-supplied full text, logged 'maintainer'/'success'), in additional_sources. Framing of the departure has shifted: the Post's own December 2025 report (ACI-050-L) said Trump replaced McCrery, that capacity and deadlines were the decisive factor after a clash over size, that it was unclear whether he left voluntarily, and that he remained in a consulting role; this Sept 2026 investigation reports a resignation the week of 20 Oct 2025 following the code warnings, which the White House denies was code-related. [FOLLOW-UP PENDING: completed code review / inspection findings; agency or congressional response.]",
+   "interested_parties": "James McCrery II (McCrery Architects; resigned October 2025); President Trump; White House (spokesman; Joshua Fisher, director of management and administration and contracting officer); Executive Residence; Shalom Baranes Associates (successor architect); Clark Construction (general contractor)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-050-L",
+   "entry_id": "050-L",
+   "seq": 758,
+   "title": "White House ballroom: Shalom Baranes succeeds James McCrery as lead architect",
+   "artist": "James McCrery II (McCrery Architects); Shalom Baranes (Shalom Baranes Associates)",
+   "institution": "White House East Wing site, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "McCrery stopped working on the project in late October 2025; change reported by the Washington Post 4 December 2025",
+   "date_discovered": "2026-09-28",
+   "sort_date": "2025-12-04",
+   "description": "The Washington Post reported on 4 December 2025 that President Trump had replaced James McCrery II, the architect he handpicked to design the $300 million White House ballroom, according to three people familiar with the project. McCrery and his firm had led the design for more than three months until late October 2025, when he stopped working on the project, one of the people said; it was unclear whether he stepped back voluntarily, and one person said the two men parted on good terms. Trump and McCrery had clashed over the president's desire to keep increasing the building's size, but one person said the firm's small workforce and inability to hit deadlines became the decisive factor in his leaving. The Post reported that architects and planning experts had questioned from the start whether a firm as small as McCrery's could complete so large a project on Trump's timeline. Trump chose Shalom Baranes, whose firm has worked on the main Treasury building, the Federal Reserve and the General Services Administration headquarters and whose approach, which includes modernist buildings, differs from McCrery's classical style. White House spokesman Davis Ingle said in a statement that Baranes's \"experience will be a great asset to the completion of this project.\" The White House and McCrery's representative said McCrery remained involved in a \"consulting\" role; McCrery's spokesman did not respond to the Post's requests for an interview.",
+   "outcome": "Shalom Baranes Associates took over the ballroom's design, with McCrery described at the time as remaining in a consulting role. The Post's later reporting (23 September 2026, ACI-050-K) gives a different account of the same departure: a resignation the week of 20 October 2025 that followed McCrery's warnings about fire-safety codes, which the White House denies was code-related.",
+   "tags": [
+    "Design controversy"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Washington Post"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2025/12/04/trump-ballroom-architect-east-wing/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Backfill sub-entry of ACI-050 (CLAUDE.md sec 13), dated to the Post's 4 Dec 2025 report by Jonathan Edwards and Dan Diamond, which broke the architect change (Architectural Record, 8 Dec 2025, credits the Post with first reporting it). WaPo is fetch-blocked (403) for the scan's tools; the full text was supplied by the maintainer in-session on 2026-09-28 and logged 'maintainer'/'success'. Drafted from that text only; quotes verbatim. Anonymous-source account: three people familiar with the project, with the decisive-factor and good-terms claims each from one of them. Two Post accounts of one departure: this one (capacity and deadlines, consulting role, voluntariness unclear) and ACI-050-K (Sept 2026: resignation the week of 20 Oct 2025 after code warnings; McCrery says he 'stepped aside'; the White House denies a code link and says it chose 'to move in another direction'). Recorded as reported, not reconciled; no later reporting found on whether the consulting role continued. Same article, deliberately not folded in here: Sen. Richard Blumenthal's 'No Palaces Act' (introduced 4 Dec 2025) and NCPC chair Will Scharf's statement that ballroom plans would be submitted that month.",
+   "interested_parties": "James McCrery II (McCrery Architects); President Trump; Shalom Baranes (Shalom Baranes Associates); Davis Ingle (White House spokesman)",
+   "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-050-M",
+   "entry_id": "050-M",
+   "seq": 759,
+   "title": "White House ballroom: Sen. Blumenthal introduces 'No Palaces Act' (S. 3361)",
+   "artist": "N/A (legislative)",
+   "institution": "US Senate; White House East Wing site, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Bill introduced and referred to committee 4 December 2025",
+   "date_discovered": "2026-09-28",
+   "sort_date": "2025-12-04",
+   "description": "Sen. Richard Blumenthal (D-Connecticut) introduced the No Palaces Act (S. 3361) on 4 December 2025, following the demolition of the White House East Wing for the ballroom, the Washington Post reported. According to the bill text, it would require agencies to consult the National Capital Planning Commission (NCPC) before initiating demolition of an existing structure; require NCPC approval of certain improvements to the White House or its grounds, followed by a 60-day period in which Congress could pass a joint resolution of disapproval; bar the use of private funds for such improvements unless authorized by Congress; and allow the NCPC, its members, either House of Congress or any member of Congress to sue for injunctive relief before a three-judge panel of the federal district court in the District of Columbia. \"There ought to be a right on the part of a member of Congress to seek a court order stopping this kind of absolutely atrocious destruction,\" Blumenthal told the Post. \"It's not Donald Trump's house, it's the people's house.\" White House officials had said they did not seek NCPC approval to demolish the East Wing because only new construction, not demolition, falls under the commission's purview, the Post reported, and historic preservationists had said the White House should have waited for federal advisory panels to review and sign off on the project.",
+   "outcome": "Introduced by Blumenthal and referred to the Senate Committee on Environment and Public Works on 4 December 2025. [FOLLOW-UP PENDING: any committee action, hearing, cosponsors or floor vote on S. 3361.]",
+   "tags": [
+    "Historic preservation",
+    "Demolition",
+    "Funding dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Washington Post",
+    "GovInfo"
+   ],
+   "source": "https://www.washingtonpost.com/politics/2025/12/04/trump-ballroom-architect-east-wing/",
+   "additional_sources": [
+    "https://www.govinfo.gov/content/pkg/BILLS-119s3361is/html/BILLS-119s3361is.htm"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Backfill sub-entry of ACI-050 (CLAUDE.md sec 13), dated to the bill's introduction and the Post's same-day report (Jonathan Edwards & Dan Diamond, 4 Dec 2025; maintainer-supplied full text, logged 'maintainer'/'success'). The Post is the reference source for the news event, Blumenthal's quotes (verbatim) and the White House and preservationist positions. The bill's provisions, sponsor, introduction date and referral follow the primary bill text (GovInfo HTML, fetched in full) per CLAUDE.md sec 8: the Post summarized them as an NCPC demolition trigger, congressional authorization for private funds, 'other restrictions' and injunctions by members of Congress; the text adds the NCPC-approval / 60-day joint-resolution-of-disapproval regime and gives standing to the NCPC, its members and either House as well, before a three-judge panel with direct Supreme Court appeal. Status check 2026-09-28 (private, not cited publicly): the congressional bill-status record (GovInfo BILLSTATUS, machine-readable XML: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3361.xml) shows 0 cosponsors and the 4 Dec 2025 referral as the latest action as of its 2026-09-08 update. It is not linked in the entry because it is raw XML, and congress.gov's human-readable page is 403 to the scan's tools; re-check status on the follow-up sweep. Blumenthal's press release was seen only as a search result and is not cited. govinfo.gov added to check_provenance DOMAIN_TO_OUTLET. Cross-refs: ACI-050-L (same Post article: the architect change); ACI-050-B and ACI-050-E (Senate $1B provision and the congressional-authorization strategy); ACI-050-H and ACI-050-J (litigation over whether the project needs Congress's approval). [FOLLOW-UP PENDING: committee action, cosponsors or vote on S. 3361.]",
+   "interested_parties": "Sen. Richard Blumenthal (D-Conn.; sponsor); Senate Committee on Environment and Public Works; National Capital Planning Commission; White House; historic preservationists",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-035-C",
    "entry_id": "035-C",
    "seq": 82,
@@ -23395,6 +23501,40 @@
    "notes": "Connects to the Index's Parthenon Marbles thread (see ACI-361, ACI-380) and to the Bayeux Tapestry loan cluster (ACI-154 series) - universal-museum standing and the Greek reunification claim.",
    "interested_parties": "British Museum (director Nicholas Cullinan); Greek prime minister Kyriakos Mitsotakis; Acropolis Museum, Athens",
    "coverage_geography": "UK, Greece, France, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-405",
+   "entry_id": "405",
+   "seq": 756,
+   "title": "Welles estate objects to AI reconstruction of 'The Magnificent Ambersons' excised footage",
+   "artist": "Orson Welles",
+   "institution": "Showrunner (Amazon-backed AI platform)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "AI reconstruction plan reported and Welles estate's objection published 5 September 2025 (NBC News)",
+   "date_discovered": "2026-09-28",
+   "sort_date": "2025-09-05",
+   "description": "Showrunner, an Amazon-backed technology platform that calls itself the \"Netflix of AI,\" plans to use artificial intelligence to reconstruct 43 minutes of excised footage from Orson Welles's The Magnificent Ambersons, its chief executive, Edward Saatchi, confirmed, according to NBC News. The studio cut footage from the film, added a more cheerful ending and released an 88-minute version, NBC News reported. Saatchi described the film as a \"ruined masterpiece\" and said that using AI to reconstruct it is a way to bring it \"back to life.\" Showrunner is working with the filmmaker Brian Rose, who has spent half a decade digitally rebuilding sets based on some 30,000 missing frames. Saatchi said the edition is a \"strictly academic noncommercial project\" because the company does not hold the rights, which belong to Warner Bros. Discovery through its control of the RKO library. Welles's estate criticized the plans, saying in a statement that it was \"not consulted about this project.\" David Reeder, the estate's commercial agent, said that \"this kind of assembly based on scripts, storyboards and notes cannot possibly capture the unique innovation that embodied Welles' work,\" and called the project \"another step in a troubling trend of AI companies building their business on the back of work created by true artisans like Welles.\"",
+   "outcome": "As reported by NBC News on 5 September 2025, Showrunner described the reconstruction as an academic, non-commercial project and did not hold the film's rights; the Welles estate said it had not been consulted. [FOLLOW-UP PENDING: whether the reconstruction is released or screened, and any further response from the estate or from rights holder Warner Bros. Discovery.]",
+   "tags": [
+    "AI",
+    "Copyright/ownership",
+    "Authenticity"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "NBC News"
+   ],
+   "source": "https://www.nbcnews.com/pop-culture/movies/orson-welles-the-magnificent-ambersons-artificial-intelligence-rcna229337",
+   "additional_sources": [],
+   "themes": [
+    11
+   ],
+   "notes": "New parent (backfill per CLAUDE.md sec 13; origin September 2025). Surfaced on the 2026-09-28 scan via a Le Monde French item in the RSS feed (lemonde.fr fetch-blocked, not cited). Drafted narrowly from NBC News (Daniel Arkin, 5 Sep 2025; re-fetched this run for verbatim wording) - every sentence and every quotation traces to that text. Removed in verification as not in NBC: a claim that the cut footage was destroyed, the year 1942, and 'Beatrice Welles' (all search-snippet material); an absence claim ('no litigation was reported') inferred from NBC's silence. Attribution corrected: the 'not consulted' line is the estate's statement, not Reeder speaking to NBC; Saatchi confirmed the plans to CNBC per NBC, but CNBC is not credited in prose because no CNBC link was retrieved. Search results also showed coverage by Variety, The Hollywood Reporter and IndieWire (all tollbit-paywalled this run; not cited). AI-authorship / unauthorized-use dispute; no court case identified. Theme 11 (Authorship & Appropriation - AI training-data and attribution disputes). [FOLLOW-UP PENDING: release/screening of the reconstruction and any further estate or Warner Bros. Discovery action.]",
+   "interested_parties": "Edward Saatchi (Showrunner CEO); Brian Rose (collaborating filmmaker); David Reeder (commercial agent, Orson Welles estate); Orson Welles estate; Warner Bros. Discovery (rights holder, RKO library)",
+   "coverage_geography": "US, Europe",
    "follow_up_pending": true
   }
  ]
