@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 719
+  "total_cases": 723
  },
  "cases": [
   {
@@ -21399,6 +21399,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-345-C",
+   "entry_id": "345-C",
+   "seq": 761,
+   "title": "Kehinde Wiley embassy removal: artist offers to buy the removed painting back",
+   "artist": "Kehinde Wiley",
+   "institution": "U.S. Department of State",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported September 28, 2026",
+   "date_discovered": "2026-09-29",
+   "sort_date": "2026-09-28",
+   "description": "The New York Times reported on September 28, 2026 that Kehinde Wiley offered to buy back his painting after State Department officials removed it from the U.S. Embassy in Santo Domingo, Dominican Republic, and suggested the federally owned work might be auctioned. According to the Times, administration officials had mocked the work before its removal. [Thin entry: drawn from a New York Times metadata abstract; needs enrichment with the full article.]",
+   "outcome": "Wiley has offered to purchase the removed painting; the State Department has previously said it is determining whether the federally owned work can be sold. [FOLLOW-UP PENDING: whether the government accepts Wiley's offer, sells the work, or retains it.]",
+   "tags": [
+    "Removal",
+    "Political interference",
+    "Deaccessioning"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/09/28/arts/design/kehinde-wiley-painting-trump-embassy.html",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "Sub-entry of ACI-345 (State Department removal of the Wiley painting from the Santo Domingo embassy). Development: the artist's offer to buy back the work. Thin entry from an NYT metadata abstract -- enrich with the full text. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Kehinde Wiley; U.S. Department of State; Art in Embassies program",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-346",
    "entry_id": "346",
    "seq": 648,
@@ -22762,6 +22796,39 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-386-A",
+   "entry_id": "386-A",
+   "seq": 760,
+   "title": "NYC museum unions set October 5 strike date ahead of Whitney's Lichtenstein opening",
+   "artist": "N/A",
+   "institution": "Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Strike date announced; reported September 28, 2026",
+   "date_discovered": "2026-09-29",
+   "sort_date": "2026-09-28",
+   "description": "Hyperallergic reported on September 28, 2026 that unionized staff at the Whitney Museum of American Art, represented by UAW Local 2110, set a strike date of Monday, October 5, 2026 if they do not reach a contract agreement, a deadline timed to the preview week of the museum's Roy Lichtenstein retrospective, which opens to the public on October 11. Workers at the Whitney, the Brooklyn Museum and the American Folk Art Museum -- all UAW Local 2110 -- voted earlier in September to authorize strikes. Staff are seeking a base salary of about $71,000, which Hyperallergic described as the minimum a single, childless adult needs to live sustainably in New York City. The union's chairperson told Hyperallergic, “We'd rather be working and doing our jobs, but our wages are untenable for making ends meet in New York City.” The previous three-year contract expired in June 2026.",
+   "outcome": "As of September 28, 2026 the Whitney strike was scheduled for October 5; no agreement had been reached, and the Brooklyn Museum and American Folk Art Museum unions had not announced their own strike dates. [FOLLOW-UP PENDING: whether the October 5 strike proceeds, its effect on the October 11 Lichtenstein opening, and whether the Brooklyn and AFAM unions set dates.]",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/whitney-museum-union-sets-strike-date-ahead-of-major-roy-lichtenstein-show/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "Sub-entry of ACI-386 (strike authorization across the three UAW Local 2110 museums). Development: the Whitney union set an October 5 strike date. Related labor cases: ACI-128 (Whitney union gala rally), ACI-073 (American Folk Art Museum), ACI-211 (Guggenheim / UAW Local 2110). [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "UAW Local 2110; Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-387",
    "entry_id": "387",
    "seq": 728,
@@ -23541,6 +23608,69 @@
    "notes": "New parent (backfill per CLAUDE.md sec 13; origin September 2025). Surfaced on the 2026-09-28 scan via a Le Monde French item in the RSS feed (lemonde.fr fetch-blocked, not cited). Drafted narrowly from NBC News (Daniel Arkin, 5 Sep 2025; re-fetched this run for verbatim wording) - every sentence and every quotation traces to that text. Removed in verification as not in NBC: a claim that the cut footage was destroyed, the year 1942, and 'Beatrice Welles' (all search-snippet material); an absence claim ('no litigation was reported') inferred from NBC's silence. Attribution corrected: the 'not consulted' line is the estate's statement, not Reeder speaking to NBC; Saatchi confirmed the plans to CNBC per NBC, but CNBC is not credited in prose because no CNBC link was retrieved. Search results also showed coverage by Variety, The Hollywood Reporter and IndieWire (all tollbit-paywalled this run; not cited). AI-authorship / unauthorized-use dispute; no court case identified. Theme 11 (Authorship & Appropriation - AI training-data and attribution disputes). [FOLLOW-UP PENDING: release/screening of the reconstruction and any further estate or Warner Bros. Discovery action.]",
    "interested_parties": "Edward Saatchi (Showrunner CEO); Brian Rose (collaborating filmmaker); David Reeder (commercial agent, Orson Welles estate); Orson Welles estate; Warner Bros. Discovery (rights holder, RKO library)",
    "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-406",
+   "entry_id": "406",
+   "seq": 762,
+   "title": "Alicja Kwade 'Waiting Pavilions' damaged at Hong Kong's Tai Kwun; police probe criminal damage",
+   "artist": "Alicja Kwade",
+   "institution": "Tai Kwun (Centre for Heritage and Arts), Hong Kong",
+   "country": "Hong Kong",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Damage discovered September 20, 2026",
+   "date_discovered": "2026-09-29",
+   "sort_date": "2026-09-20",
+   "description": "The Standard (Hong Kong) reported on September 20, 2026 that a large stone forming part of Alicja Kwade's site-specific installation Waiting Pavilions at Tai Kwun in Central, Hong Kong, had separated from a white chair and was lying on the ground, discovered at 11:28 a.m. that Sunday in the complex's Prison Yard. Officers initially classified the case as criminal damage. [Thin entry: single-source; the cause -- a deliberate act or a structural failure -- was unresolved at the time of reporting.]",
+   "outcome": "The area was cordoned off and police were investigating; no arrests had been reported, and Tai Kwun had not issued a public statement in the cited reporting. [FOLLOW-UP PENDING: the police finding on whether the damage was deliberate, any arrest, and the work's repair or restoration.]",
+   "tags": [
+    "Vandalism"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Standard"
+   ],
+   "source": "https://www.thestandard.com.hk/news/article/343297/Tai-Kwun-art-installation-vandalized-in-suspected-criminal-damage",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Damage to a contemporary site-specific commission, logged thin and single-source pending the police finding on whether it was deliberate; contemporary work, so not the cultural-property-destruction umbrella (CLAUDE.md sec 4). Governance: Hong Kong SAR, trajectory toward authoritarian since the 2020 National Security Law. [FOLLOW-UP PENDING] mirrored in outcome; enrich on an Asia (Thursday) trawl.",
+   "interested_parties": "Alicja Kwade; Tai Kwun; Hong Kong Police",
+   "coverage_geography": "Hong Kong",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-407",
+   "entry_id": "407",
+   "seq": 763,
+   "title": "Bouches-du-Rhône suspends €90,000 subsidy to Marseille's Actoral festival over programmed author",
+   "artist": "N/A",
+   "institution": "Festival Actoral (Marseille); Bouches-du-Rhône Departmental Council",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Subsidy withdrawal announced September 26, 2026",
+   "date_discovered": "2026-09-29",
+   "sort_date": "2026-09-26",
+   "description": "Sceneweb reported that on Friday, September 26, 2026, Martine Vassal, president of the Bouches-du-Rhône departmental council, requested the immediate withdrawal of the council's deliberation on a €90,000 subsidy to the Marseille festival Actoral, following complaints (signalements) over statements by Louisa Yousfi, a journalist, literary critic and decolonial activist invited to present a reading-performance of her book La grande méthode on October 6. According to Sceneweb, the online campaign against Yousfi was amplified by far-right accounts. Vassal said, “À la suite des signalements déposés concernant les propos inacceptables tenus par Louisa Yousfi, j'ai demandé le retrait immédiat de la délibération,” adding that freedom of expression could not require the department to set aside Republican values. Actoral's leadership maintained the invitation, saying Yousfi's remarks had been “volontairement raccourcis et diffusés sous la forme d'extraits” and should be understood in the context of her literary work. Actoral, founded 25 years ago, programs theatre, dance, literature and visual arts.",
+   "outcome": "The departmental subsidy was pulled from the council's agenda; the festival kept Yousfi on its program for the October 6 event. [FOLLOW-UP PENDING: whether the subsidy is restored or permanently cancelled, whether other funders (the city of Marseille, the PACA region) respond, and the outcome of the October 6 event.]",
+   "tags": [
+    "Funding dispute",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Sceneweb"
+   ],
+   "source": "https://sceneweb.fr/le-departement-des-bouches-du-rhone-bloque-sa-subvention-au-festival-actoral/",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "New parent. Public-funding/expression dispute (theme 2): a departmental subsidy suspended after a pressure campaign over a programmed author. Externalised-censorship / funding-conditionality frame; governance-friction in a democracy. [FOLLOW-UP PENDING] mirrored in outcome. Drafted from Sceneweb; enrich on a Europe (Wednesday) trawl with Le Monde and regional outlets.",
+   "interested_parties": "Martine Vassal (president, Bouches-du-Rhône departmental council); Louisa Yousfi; Festival Actoral; city of Marseille; PACA region",
+   "coverage_geography": "France",
    "follow_up_pending": true
   }
  ]

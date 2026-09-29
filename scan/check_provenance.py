@@ -166,6 +166,8 @@ DOMAIN_TO_OUTLET = {
     "vpm.org": "VPM News",  # added 2026-09-22 scan (ACI-400 Confederate monuments removal)
     "manhattanda.org": "Manhattan District Attorney's Office",  # added 2026-09-25 scan (ACI-406 Syria antiquities return)
     "govinfo.gov": "GovInfo",  # added 2026-09-28 scan (ACI-050-M No Palaces Act bill text and status, U.S. GPO)
+    "thestandard.com.hk": "The Standard",  # added 2026-09-29 scan (ACI-406 Kwade / Tai Kwun damage)
+    "sceneweb.fr": "Sceneweb",  # added 2026-09-29 scan (ACI-407 Actoral festival subsidy)
 }
 
 ALIASES = {
