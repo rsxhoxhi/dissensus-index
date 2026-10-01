@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 719
+  "total_cases": 720
  },
  "cases": [
   {
@@ -23542,6 +23542,36 @@
    "interested_parties": "Edward Saatchi (Showrunner CEO); Brian Rose (collaborating filmmaker); David Reeder (commercial agent, Orson Welles estate); Orson Welles estate; Warner Bros. Discovery (rights holder, RKO library)",
    "coverage_geography": "US, Europe",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-411",
+   "entry_id": "411",
+   "seq": 765,
+   "title": "Historic Church of San Francisco de Borja, Santiago, to be restored after 2020 protest fires",
+   "artist": "N/A (church designed by British architect Hovender Henry; built 1872–1876, Neo-Gothic)",
+   "institution": "Church of San Francisco de Borja / Archdiocese of Santiago; Chile's Ministry of National Assets",
+   "country": "Chile",
+   "governance_type": "Democracy",
+   "date_controversy": "October 2020 (protest-related fire; an earlier fire in January 2020)",
+   "date_discovered": "2026-10-01",
+   "sort_date": "2026-09-29",
+   "description": "According to The Art Newspaper (29 September 2026), the Church of San Francisco de Borja in Santiago, Chile — a Neo-Gothic church designed by the British architect Hovender Henry and built between 1872 and 1876, originally as a chapel for the San Borja Hospital — is to be restored after being damaged by two fires during Chile's 2019–2020 civil unrest. The paper reported that a fire in January 2020 damaged 38 of the church's stained-glass windows, and a second fire in October 2020 destroyed its roof, altar, apse and nave; the windows, commissioned from the Atelier Dagrant in Bordeaux and inspired by the Sainte-Chapelle in Paris, were described as among the oldest signed stained-glass works in Chile. The Art Newspaper reported that the demonstrations, which began in October 2019 over the cost of living, affected a number of churches, which it described as particularly vulnerable to fire. Chile's Ministry of National Assets granted the Archdiocese of Santiago a 30-year concession over the building in May 2026, and the archdiocese plans a roughly $5.4m, donation-funded restoration that would turn the church into a National Shrine to Our Lady of Fátima, with an architectural competition scheduled for later in 2026. The paper reported that two other nearby churches damaged in 2019–2020 have already reopened.",
+   "outcome": "Restoration approved: Chile's Ministry of National Assets granted the Archdiocese of Santiago a 30-year concession in May 2026 for a roughly $5.4m, donation-funded restoration that would reconsecrate the church as a National Shrine to Our Lady of Fátima; an architectural competition is set for later in 2026. [FOLLOW-UP PENDING: the late-2026 architectural competition and the restoration/reconsecration outcome.]",
+   "tags": "Cultural property destruction, Iconoclasm, Religious site",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/29/historic-chilean-church-to-be-restored-after-arson-attacks",
+   "themes": [
+    6
+   ],
+   "notes": "New parent; cultural-property-destruction cluster anchor. Church of San Francisco de Borja (historically the Carabineros' parish church), Santiago, badly damaged by protest-related fires during Chile's 2019–2020 social unrest. Drafted narrowly from The Art Newspaper's 29 September 2026 restoration report; the parent is backfill-dated to the 2020 fires per CLAUDE.md §13, but no contemporaneous 2020 coverage was retrieved this run — enrichment with 2020 reporting and the parallel 2020 Santiago church burnings (e.g. Iglesia de la Asunción) would strengthen it. 'Iconoclasm' tag reflects the destruction occurring in the course of political protest; the cited source attributes the church fires to vulnerability rather than stated ideological motive, so the tag is flagged for editorial review. [FOLLOW-UP PENDING: the late-2026 architectural competition and the restoration/reconsecration as a National Shrine to Our Lady of Fátima.]",
+   "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
+   "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true,
+   "additional_sources": []
   }
  ]
 }
