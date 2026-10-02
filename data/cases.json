@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 719
+  "total_cases": 725
  },
  "cases": [
   {
@@ -3168,6 +3168,39 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-154-G",
+   "entry_id": "154-G",
+   "seq": 763,
+   "title": "Bayeux Tapestry: blind visitor sues British Museum over lack of audio description",
+   "artist": "N/A",
+   "institution": "British Museum",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Legal challenge reported October 1, 2026; pre-action letter September 24, 2026",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-10-01",
+   "description": "The Art Newspaper reported on October 1, 2026 that Yusuf Ali Osman, a registered blind man from Croydon in south London, is bringing a legal claim against the British Museum, alleging that its failure to provide audio-described tours of the Bayeux Tapestry exhibition breaches the UK Equality Act. According to the paper, the exhibition opened on September 10, 2026 and runs to July 11, 2027; Osman contacted the museum in July asking for audio-described tours, and the museum initially declined, citing limits on visitor capacity tied to restrictions on how many hours of light the tapestry can be exposed to each week. His firm, Leigh Day, sent a pre-action protocol letter on September 24 and issued a statement on September 30; Osman seeks damages, a declaration that he was discriminated against, and an order requiring the museum to change its policies and provide disability-awareness training. The Art Newspaper reported that, following the challenge, the British Museum said it would offer in-person audio-described tours and might add an audio-described app tour, along with a sensory map and dedicated tours.",
+   "outcome": "As reported by The Art Newspaper, the British Museum announced additional accessibility provision after the legal challenge; Osman's firm said it had not received formal confirmation of policy changes and was keeping the action under review. [FOLLOW-UP PENDING: whether the claim proceeds to court and the museum's final accessibility measures.]",
+   "tags": [
+    "Legal challenge",
+    "Accessibility"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/01/blind-man-sues-british-museum-over-lack-of-bayeux-tapestry-audio-description",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "Sub-entry of ACI-154 (Bayeux Tapestry loan to the British Museum). New access / disability-discrimination angle, distinct from the loan and sponsor threads — hence a focused theme (4) rather than the full parent set. Drafted narrowly from The Art Newspaper (October 1, 2026). Artforum also reported the claim (tollbit-paywalled this run, not cited). 'Accessibility' added as a new descriptive tag. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Yusuf Ali Osman (claimant); Leigh Day (law firm); British Museum",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-153",
    "entry_id": "153",
    "seq": 361,
@@ -3736,10 +3769,10 @@
    "themes": [
     2
    ],
-   "notes": "[FOLLOW-UP PENDING] Union drive now moves to NLRB election timeline — typically 6–8 weeks for scheduling from petition filing (May 13). Election could occur as early as late June or July 2026. SAM management has not publicly stated opposition but the failure to grant voluntary recognition signals at minimum a neutral-to-resistant stance. Cross-reference broader museum labor wave: Whitney (128), American Folk Art Museum (073), DuSable (105), Wexner Center (109).",
+   "notes": "Union drive now moves to NLRB election timeline — typically 6–8 weeks for scheduling from petition filing (May 13). Election could occur as early as late June or July 2026. SAM management has not publicly stated opposition but the failure to grant voluntary recognition signals at minimum a neutral-to-resistant stance. Cross-reference broader museum labor wave: Whitney (128), American Folk Art Museum (073), DuSable (105), Wexner Center (109).",
    "interested_parties": "SAM Workers United / AFSCME Council 28; SAM management; NLRB; broader museum labor movement",
    "coverage_geography": "Pacific Northwest, USA",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-133-A",
@@ -4230,10 +4263,10 @@
    "themes": [
     2
    ],
-   "notes": "[FOLLOW-UP PENDING] Watch for NLRB election date, management response, and any unfair labor practice filings. Connects to Whitney Museum (128), American Folk Art Museum (073), Wexner Workers United (109) — museum labor cluster.",
+   "notes": "Watch for NLRB election date, management response, and any unfair labor practice filings. Connects to Whitney Museum (128), American Folk Art Museum (073), Wexner Workers United (109) — museum labor cluster.",
    "interested_parties": "SAM Workers United (SAMWU); Washington Federation of State Employees/AFSCME Council 28; SAM Director Scott Stulen; NLRB",
    "coverage_geography": "USA (Pacific Northwest)",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-056-E",
@@ -5306,7 +5339,7 @@
    "date_discovered": "May 28, 2026",
    "sort_date": "2026-05-28",
    "description": "The May 27 voluntary recognition deadline expired with no public announcement from SAM management. Director Scott Stulen's only statement remained \"engage in good faith\" — not voluntary recognition. NLRB formal election process now begins, typically running 6–8 weeks to a formal election. 138 eligible employees across all three SAM sites (downtown, Asian Art Museum, Olympic Sculpture Park). SAM VSO (security union) won recognition after a 12-day strike in 2024 — the institutional precedent workers are watching.",
-   "outcome": "Voluntary recognition deadline expired May 27 without SAM response. NLRB election process begins. [FOLLOW-UP PENDING: NLRB election expected in 6–8 weeks]",
+   "outcome": "Voluntary recognition deadline expired May 27 without SAM response. NLRB election process begins.",
    "tags": "Labor dispute, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "Regional",
@@ -5321,10 +5354,10 @@
    "themes": [
     4
    ],
-   "notes": "[FOLLOW-UP PENDING: NLRB election process now underway. The union offered to withdraw the NLRB petition in exchange for voluntary recognition by May 27 — SAM declined (by silence). The SAM VSO 12-day strike in 2024 that produced a contract is the institutional precedent. NLRB election timeline: typically 6–8 weeks from petition to election. Watch for election date announcement and any management response or anti-union campaign. Connects to museum labor cluster: entries 002 (Louvre strike), 073 (American Folk Art Museum), 096 (parent).",
+   "notes": "",
    "interested_parties": "Seattle Art Museum Workers United (SAMWU); Scott Stulen (SAM director/CEO, no recognition); Washington Federation of State Employees/AFSCME Council 28; SAM VSO (prior security union); NLRB",
    "coverage_geography": "Seattle, Pacific Northwest, national arts labor press",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-005-Y",
@@ -5533,7 +5566,7 @@
    "date_discovered": "May 27, 2026",
    "sort_date": "2026-05-27",
    "description": "DEADLINE DAY: May 27 voluntary recognition deadline expires today. SAM management has not publicly announced any response as of this scan. If management does not act, NLRB formal election process begins (typically 6-8 weeks to election). 138 eligible employees across all three SAM sites. Union affiliated with WFSE/AFSCME Council 28.",
-   "outcome": "Voluntary recognition deadline expires today. SAM has not responded publicly. [FOLLOW-UP PENDING: NLRB process begins if no recognition]",
+   "outcome": "Voluntary recognition deadline expires today. SAM has not responded publicly.",
    "tags": "Labor dispute, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "Regional",
@@ -5548,10 +5581,10 @@
    "themes": [
     4
    ],
-   "notes": "[FOLLOW-UP PENDING] Deadline day. Absence of SAM statement by today = effectively no voluntary recognition. NLRB election process likely begins. SAM VSO 12-day strike in 2024 is in-house precedent. Thursday scan: confirm SAM response or non-response and NLRB next steps.",
+   "notes": "Deadline day. Absence of SAM statement by today = effectively no voluntary recognition. NLRB election process likely begins. SAM VSO 12-day strike in 2024 is in-house precedent. Thursday scan: confirm SAM response or non-response and NLRB next steps.",
    "interested_parties": "Seattle Art Museum Workers United (SAMWU); Scott Stulen (SAM director/CEO); WFSE/AFSCME Council 28; SAM VSO (prior security union); NLRB",
    "coverage_geography": "Seattle, Pacific Northwest, national arts labor press",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-093-K",
@@ -5833,7 +5866,7 @@
    "date_discovered": "May 26, 2026",
    "sort_date": "2026-05-26",
    "description": "STATUS CHECK (Tuesday): May 27 voluntary recognition deadline is 1 day away. SAM management has not publicly announced any response. 138 eligible employees across all three SAM sites. Union affiliated with WFSE/AFSCME Council 28. NLRB petition filed as backstop; union offered to withdraw if museum recognizes by May 27. Director Stulen said engagement in good faith -- not voluntary recognition.",
-   "outcome": "May 27 deadline: 1 day. SAM has not publicly responded. [FOLLOW-UP PENDING]",
+   "outcome": "May 27 deadline: 1 day. SAM has not publicly responded.",
    "tags": "Labor dispute, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "Regional",
@@ -5848,10 +5881,10 @@
    "themes": [
     4
    ],
-   "notes": "[FOLLOW-UP PENDING: May 27 is tomorrow. If SAM does not recognize voluntarily, NLRB election process begins (typically 6-8 weeks to election). SAM VSO 12-day strike in 2024 is the institutional precedent.",
+   "notes": "",
    "interested_parties": "Seattle Art Museum Workers United (SAMWU); Scott Stulen (SAM director/CEO); WFSE/AFSCME Council 28; SAM VSO (prior security union); NLRB",
    "coverage_geography": "Seattle, Pacific Northwest, national arts labor press",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-093-J",
@@ -5937,7 +5970,7 @@
    "date_discovered": "May 25, 2026",
    "sort_date": "2026-05-25",
    "description": "STATUS CHECK (Monday): As of May 25, the May 27 voluntary recognition deadline is 2 days away. SAM management has not publicly announced any response to the union's letter. SAMWU organizers have stated they have a \"strong supermajority of support\" among eligible employees. 138 eligible employees across all three SAM sites. Union affiliated with Washington Federation of State Employees/AFSCME Council 28. NLRB petition filed simultaneously as backstop; union offered to withdraw petition if museum voluntarily recognizes by May 27. Director Stulen's only public statement: confirmed receipt and said leadership would \"engage in good faith.\"",
-   "outcome": "May 27 voluntary recognition deadline: 2 days. SAM has not publicly responded. NLRB petition filed. [FOLLOW-UP PENDING: SAM response by May 27]",
+   "outcome": "May 27 voluntary recognition deadline: 2 days. SAM has not publicly responded. NLRB petition filed.",
    "tags": "Labor dispute, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "Regional",
@@ -5952,10 +5985,10 @@
    "themes": [
     4
    ],
-   "notes": "[FOLLOW-UP PENDING: May 27 is 2 days away. Stulen's \"engage in good faith\" language does not constitute voluntary recognition — that requires a specific legal act. If SAM does not recognize by May 27, NLRB election process begins (typically 6–8 weeks to election). The SAM VSO security union's 12-day strike in 2024 is the in-house precedent workers are watching.",
+   "notes": "",
    "interested_parties": "Seattle Art Museum Workers United (SAMWU); Scott Stulen (SAM director/CEO); Washington Federation of State Employees/AFSCME Council 28; SAM VSO (prior security union, contract won after 12-day strike 2024); NLRB",
    "coverage_geography": "Seattle, Pacific Northwest, national arts labor press",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-016-A",
@@ -6273,7 +6306,7 @@
    "date_discovered": "May 24, 2026",
    "sort_date": "2026-05-24",
    "description": "STATUS CHECK (Sunday): As of May 24, the May 27 voluntary recognition deadline is 3 days away. SAM management has not publicly announced any response to the union's letter. SAMWU organizers told media they have a 'strong supermajority of support' among eligible employees and are continuing to build support during the window. 138 eligible employees across 20+ departments at all three SAM sites (downtown, Asian Art Museum, Olympic Sculpture Park). Union affiliated with Washington Federation of State Employees/AFSCME Council 28. NLRB petition filed simultaneously as backstop; union offered to withdraw petition if museum voluntarily recognizes by May 27.",
-   "outcome": "May 27 voluntary recognition deadline: 3 days. SAM has not publicly responded. NLRB petition filed as backstop. [FOLLOW-UP PENDING: SAM response by May 27]",
+   "outcome": "May 27 voluntary recognition deadline: 3 days. SAM has not publicly responded. NLRB petition filed as backstop.",
    "tags": "Labor dispute, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "Regional",
@@ -6289,10 +6322,10 @@
    "themes": [
     4
    ],
-   "notes": "[FOLLOW-UP PENDING: May 27 is 3 days away. Stulen's 'engage in good faith' language doesn't constitute voluntary recognition. Watch for formal recognition announcement or denial. If denied or no response: NLRB election process begins (typically 6–8 weeks to election). The SAM VSO security unit's 2024 contract win after a 12-day strike is the in-house precedent workers are watching.",
+   "notes": "",
    "interested_parties": "Seattle Art Museum Workers United (SAMWU); Scott Stulen (SAM director/CEO); Washington Federation of State Employees/AFSCME Council 28; SAM VSO (prior security union, contract won after 12-day strike 2024); NLRB",
    "coverage_geography": "Seattle, Pacific Northwest, national arts labor press",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-093-H",
@@ -6644,7 +6677,7 @@
    "date_discovered": "May 22, 2026",
    "sort_date": "2026-05-22",
    "description": "STATUS CHECK: As of May 22, the May 27 voluntary recognition deadline is 5 days away. No SAM management response to the union's letter has been publicly announced. 138 eligible employees across 20+ departments. The union filed simultaneously for NLRB election; if museum does not voluntarily recognize by May 27, NLRB formal election process begins. Organizers told Seattle Times they plan to continue building support during the window. The SAM VSO security unit's 12-day strike in 2024, which led to contract ratification, is the in-house precedent. Director Scott Stulen's response to date: confirmed receipt, said leadership would 'engage in good faith.'",
-   "outcome": "May 27 voluntary recognition deadline: 5 days. SAM has not responded publicly. NLRB petition active. [FOLLOW-UP PENDING: SAM response by May 27]",
+   "outcome": "May 27 voluntary recognition deadline: 5 days. SAM has not responded publicly. NLRB petition active.",
    "tags": "Labor dispute, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "Regional",
@@ -6660,10 +6693,10 @@
    "themes": [
     4
    ],
-   "notes": "[FOLLOW-UP PENDING: May 27 is 5 days away. Stulen's 'engage in good faith' language does not confirm voluntary recognition — that is a specific legal act of recognizing the union as the bargaining representative. Watch for formal recognition or denial announcement by May 27. If denied or no response: NLRB election process begins (typically 6-8 weeks to election). The 140-member figure includes full-time, regular part-time, and part-time flexible employees across all three SAM sites (downtown, Asian Art Museum, Olympic Sculpture Park).",
+   "notes": "",
    "interested_parties": "Seattle Art Museum Workers United (SAMWU); Scott Stulen (SAM director/CEO); Washington Federation of State Employees/AFSCME Council 28; SAM VSO (prior security union); NLRB",
    "coverage_geography": "Seattle, Pacific Northwest, national arts labor press",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-095-A",
@@ -7778,7 +7811,7 @@
    "date_discovered": "May 19, 2026",
    "sort_date": "2026-05-19",
    "description": "More than 100 employees across 20+ departments at the Seattle Art Museum announced their intention to unionize on May 13, 2026, forming Seattle Art Museum Workers United (SAMWU) and affiliating with Washington Federation of State Employees/AFSCME Council 28. Workers cited unsustainable wages, subpar health benefits, and siloed top-down decision-making. An NLRB election petition was filed simultaneously. Workers asked for voluntary recognition by May 27; if not granted, the NLRB process proceeds. Museum director Scott Stulen confirmed receipt of the letter and said leadership would 'engage in good faith.' SAM's security staff (SAM VSO) previously unionized in 2022 and ratified a contract after a 12-day strike in 2024, providing an in-house precedent.",
-   "outcome": "Organizing announced May 13. NLRB petition filed. Museum has until May 27 to voluntarily recognize. [FOLLOW-UP PENDING: May 27 voluntary recognition deadline — watch for SAM response]",
+   "outcome": "Organizing announced May 13. NLRB petition filed. Museum has until May 27 to voluntarily recognize.",
    "tags": "Labor dispute, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "Regional",
@@ -7793,9 +7826,42 @@
    "themes": [
     4
    ],
-   "notes": "[FOLLOW-UP PENDING] Adds to the tracker's museum labor cluster alongside entries 002 (Louvre strike) and 073 (American Folk Art Museum gala picket). The 12-day SAM security strike in 2024 that led to contract ratification is the institutional precedent for this campaign — workers saw it work. SAMWU's proposal to withdraw the NLRB petition if the museum voluntarily recognizes by May 27 is a standard labor tactic to accelerate recognition and avoid a potentially months-long election process. The unit covers 138 eligible employees across curatorial, education, visitor experience, development, and other departments. The pattern is national: LACMA, Met, MoMA, and dozens of other institutions have seen similar organizing waves since 2020. Davis quote: 'No one works at an art museum because they love money, but we deserve to live in the city that houses that museum.' Tuesday US Local trawl, West Coast; also Part 1A Hyperallergic outlet scan.",
+   "notes": "Adds to the tracker's museum labor cluster alongside entries 002 (Louvre strike) and 073 (American Folk Art Museum gala picket). The 12-day SAM security strike in 2024 that led to contract ratification is the institutional precedent for this campaign — workers saw it work. SAMWU's proposal to withdraw the NLRB petition if the museum voluntarily recognizes by May 27 is a standard labor tactic to accelerate recognition and avoid a potentially months-long election process. The unit covers 138 eligible employees across curatorial, education, visitor experience, development, and other departments. The pattern is national: LACMA, Met, MoMA, and dozens of other institutions have seen similar organizing waves since 2020. Davis quote: 'No one works at an art museum because they love money, but we deserve to live in the city that houses that museum.' Tuesday US Local trawl, West Coast; also Part 1A Hyperallergic outlet scan.",
    "interested_parties": "Seattle Art Museum Workers United (SAMWU); Scott Stulen (SAM director/CEO); Washington Federation of State Employees/AFSCME Council 28; SAM VSO (prior security union); King County Councilmember Teresa Mosqueda (supportive)",
    "coverage_geography": "Seattle, Pacific Northwest, national arts labor press",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-096-I",
+   "entry_id": "096-I",
+   "seq": 766,
+   "title": "Seattle Art Museum workers vote to unionize in landslide NLRB election",
+   "artist": "N/A",
+   "institution": "Seattle Art Museum",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "NLRB election result reported June 18, 2026",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-06-18",
+   "description": "Hyperallergic reported on June 18, 2026 that workers at the Seattle Art Museum voted to unionize in an NLRB election, with 97 of 103 eligible voters — about 94 percent — supporting the union. According to Hyperallergic, the new union, Seattle Art Museum Workers United (SAMWU), is represented by the Washington Federation of State Employees / AFSCME Council 28, which also represents Tacoma Art Museum staff, and covers more than 130 full- and part-time employees across the museum's three locations and 21 departments. The museum had declined the workers' May 2026 request for voluntary recognition, prompting the formal election; a museum spokesperson said the institution accepted the outcome and would begin negotiating a collective bargaining agreement in good faith.",
+   "outcome": "The workers unionized; attention turns to first-contract bargaining between SAMWU and the museum. Resolves the voluntary-recognition and election flags carried on ACI-096 and its earlier sub-entries. [FOLLOW-UP PENDING: the first collective bargaining agreement between SAMWU and the Seattle Art Museum.]",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/seattle-art-museum-workers-vote-to-unionize-in-landslide-election/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "Sub-entry of ACI-096 (Seattle Art Museum labor organizing). Backfill per CLAUDE.md §13: the June 18, 2026 NLRB election win was not previously logged (prior sub-entries stopped at ACI-096-H, June 3, 'election underway'). Surfaced on the 2026-10-02 follow-up sweep. Resolves and supersedes the May/June voluntary-recognition and election flags on ACI-096 through ACI-096-H, whose follow_up_pending flags and pending text are cleared this run. Drafted narrowly from Hyperallergic (June 18, 2026). Theme inherited from parent. [FOLLOW-UP PENDING] mirrored in outcome (first contract).",
+   "interested_parties": "Seattle Art Museum Workers United (SAMWU); Washington Federation of State Employees / AFSCME Council 28; Scott Stulen (SAM director and CEO); Seattle Art Museum",
+   "coverage_geography": "US",
    "follow_up_pending": true
   },
   {
@@ -16387,6 +16453,43 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BK",
+   "entry_id": "005-BK",
+   "seq": 765,
+   "title": "Kennedy Center stays closed past September 30 as engineers warn of falling-panel hazard",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Closure continued past the September 30 target; reported October 1, 2026",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-10-01",
+   "description": "NBC Washington reported on October 1, 2026 that the Kennedy Center's main building, closed to the public since September 15, 2026, would remain shut past the September 30 date to which the closure had previously been extended, with no definitive reopening date. According to NBC Washington, a three-month evaluation by the engineering firm Walter P Moore found extensive corrosion and water damage to the exterior soffit panels of the building's overhang — panels that each weigh more than 2,000 pounds and sit about 60 feet above public areas — and warned that their continued deterioration presented a falling-object and life-safety hazard; the firm recommended replacing the soffit panels and the roof drainage system. The outlet reported that the executive director, Matt Floca, told employees the facilities and safety teams were conducting an emergency egress assessment, expected within two weeks, and that the closure would be reconsidered week by week, with Judge Christopher Cooper having asked the Trump administration for weekly updates on repairs. Separately, The New York Times reported on September 30, 2026 that legal analysts considered any plan to demolish the center difficult to carry out.",
+   "outcome": "As reported by NBC Washington, the Kennedy Center remained closed indefinitely pending the emergency egress assessment and the recommended structural repairs, with reopening reconsidered weekly under Judge Cooper's supervision. [FOLLOW-UP PENDING: the egress assessment result, a reopening date, and the court's weekly repair updates.]",
+   "tags": [
+    "Institutional crisis",
+    "Political interference"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "NBC Washington",
+    "The New York Times"
+   ],
+   "source": "https://www.nbcwashington.com/news/local/kennedy-center-to-remain-closed-to-public-as-safety-assessments-continue/4161921/",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/09/30/arts/trump-demolish-kennedy-center.html"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center). Follows ACI-005-BJ (Sept 25) and ACI-005-BI (Sept 23 closure extension through Sept 30); reconciles the now-passed Sept 30 target — the closure continued. Drafted narrowly from NBC Washington (Oct 1, 2026); the demolition-feasibility line is from a New York Times metadata abstract (Julia Jacobs, Sept 30), URL in additional_sources. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Matt Floca (executive director); Walter P Moore (engineering firm); Judge Christopher Cooper; Trump administration",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -17045,6 +17148,45 @@
    "notes": "Sub-entry of ACI-038; follows ACI-038-R (Sept 9, administration targets November for final approval) and the excavation litigation at ACI-038-Q. THIN / SNIPPET-GRADE: drafted from search-result snippets of NBC News, NPR, and The Washington Post; direct fetches of NPR and Axios were blocked this run, so there is no full-text retrieval and no quotations. Enrich on a US-local trawl day.",
    "interested_parties": "President Trump; Interior Secretary Doug Burgum; Rep. Don Beyer; Vietnam veterans plaintiffs (see ACI-038-R)",
    "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-038-T",
+   "entry_id": "038-T",
+   "seq": 764,
+   "title": "Trump Triumphal Arch: preservation council ends Section 106 review as architects object",
+   "artist": "N/A",
+   "institution": "Advisory Council on Historic Preservation; American Institute of Architects",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "ACHP terminated the Section 106 consultation September 24, 2026; AIA letter September 29, 2026",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-09-29",
+   "description": "ARTnews and The Washington Post reported that the Advisory Council on Historic Preservation (ACHP), the federal agency responsible for the Section 106 review of effects on historic properties, moved on September 24, 2026 to terminate its consultation on President Trump's proposed roughly 250-foot triumphal arch near Memorial Circle, by Arlington National Cemetery. According to the reporting, the ACHP's vice chairman, Travis Voyles, wrote to the National Park Service that the project had raised significant public interest but that further consultation was unlikely to produce an agreement resolving the adverse effects, and that the council would send its final comments to Interior Secretary Doug Burgum by October 7. ARTnews reported that on September 29 the American Institute of Architects wrote to the ACHP's director, Jaime Loichinger, denouncing the decision and arguing that a permanent arch of that scale could not coexist with the historic landscape, views, and solemn function of the area. Critics characterized ending the Section 106 process as a way to bypass a key preservation-law review.",
+   "outcome": "As reported by ARTnews and The Washington Post, the ACHP ended its Section 106 consultation and was due to send final comments to the Interior Secretary by October 7, 2026; the AIA and preservation advocates objected that the move sidesteps historic-preservation review. [FOLLOW-UP PENDING: the ACHP's final comments by October 7 and the administration's targeted November 2026 final federal approval (see ACI-038-R).]",
+   "tags": [
+    "Historic preservation",
+    "Political interference",
+    "Design controversy"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews",
+    "The Washington Post"
+   ],
+   "source": "https://www.artnews.com/art-news/news/american-institute-architects-letter-advisory-council-historic-preservation-denounce-president-trump-arch-1234800259/",
+   "additional_sources": [
+    "https://www.washingtonpost.com/politics/2026/09/24/trump-officials-end-review-how-arch-could-harm-historic-sites/"
+   ],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Follows ACI-038-S (Sept 20). Covers the Sept 24 termination of the Section 106 consultation and the Sept 29 AIA letter. ARTnews (tollbit) and the Washington Post (direct fetch) were both blocked this run; drafted from search-result text, reported speech only, no quotation (no full-text retrieval). The Architect's Newspaper and Artforum also reported the termination (fetch-blocked / 403 this run, not cited). Illustrates the structural circumvention-of-review frame (CLAUDE.md §14). [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Advisory Council on Historic Preservation (Travis Voyles, vice chairman; Jaime Loichinger, director); American Institute of Architects; National Park Service; Interior Secretary Doug Burgum",
+   "coverage_geography": "US",
    "follow_up_pending": true
   },
   {
@@ -23541,6 +23683,76 @@
    "notes": "New parent (backfill per CLAUDE.md sec 13; origin September 2025). Surfaced on the 2026-09-28 scan via a Le Monde French item in the RSS feed (lemonde.fr fetch-blocked, not cited). Drafted narrowly from NBC News (Daniel Arkin, 5 Sep 2025; re-fetched this run for verbatim wording) - every sentence and every quotation traces to that text. Removed in verification as not in NBC: a claim that the cut footage was destroyed, the year 1942, and 'Beatrice Welles' (all search-snippet material); an absence claim ('no litigation was reported') inferred from NBC's silence. Attribution corrected: the 'not consulted' line is the estate's statement, not Reeder speaking to NBC; Saatchi confirmed the plans to CNBC per NBC, but CNBC is not credited in prose because no CNBC link was retrieved. Search results also showed coverage by Variety, The Hollywood Reporter and IndieWire (all tollbit-paywalled this run; not cited). AI-authorship / unauthorized-use dispute; no court case identified. Theme 11 (Authorship & Appropriation - AI training-data and attribution disputes). [FOLLOW-UP PENDING: release/screening of the reconstruction and any further estate or Warner Bros. Discovery action.]",
    "interested_parties": "Edward Saatchi (Showrunner CEO); Brian Rose (collaborating filmmaker); David Reeder (commercial agent, Orson Welles estate); Orson Welles estate; Warner Bros. Discovery (rights holder, RKO library)",
    "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-412",
+   "entry_id": "412",
+   "seq": 760,
+   "title": "Cairo murals of Tutankhamun and Nefertiti removed after objection to dark-skinned depiction",
+   "artist": "Unidentified",
+   "institution": "Cairo Governorate",
+   "country": "Egypt",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Removal reported early October 2026 (i24NEWS article undated)",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-10-01",
+   "description": "i24NEWS reported that authorities in Cairo removed murals of the pharaoh Tutankhamun and Queen Nefertiti that had been painted in Tahrir Square, near the Egyptian Museum, after the works drew objections for depicting the two rulers with dark skin. According to i24NEWS, critics described the depiction as promoting an Afrocentric narrative and argued that preserving an accurate portrayal of Egyptian identity was a responsibility that should not be neglected, particularly given the spread of Afrocentric narratives in recent years. The outlet reported that the Cairo Governorate moved to erase the murals and said they would be restored in what officials described as an artistically and historically accurate manner.",
+   "outcome": "As reported by i24NEWS, the Cairo Governorate erased the murals and said they would be restored in a manner it described as historically and artistically accurate. [FOLLOW-UP PENDING: whether the murals are repainted and in what form, and any response from the muralists.]",
+   "tags": [
+    "Removal",
+    "Community objection",
+    "Public art",
+    "Racial/ethnic sensitivity"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "i24NEWS"
+   ],
+   "source": "https://www.i24news.tv/en/news/international/africa/artc-egyptian-authorities-remove-murals-of-famed-pharaohs-over-dark-features-promoting-afrocentric-narrative",
+   "additional_sources": [],
+   "themes": [
+    9
+   ],
+   "notes": "New parent. Drafted narrowly from i24NEWS (the article carries no publication date in its text). The Guardian also covered the story (direct fetch blocked this run, not cited), and it appeared across international outlets. Thin entry — flag for enrichment with original-language Egyptian sources and the muralists' identity. Theme 9 (Public Objection). [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Cairo Governorate; Egyptian Museum (adjacent site); social-media critics objecting to the depiction",
+   "coverage_geography": "Egypt, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-413",
+   "entry_id": "413",
+   "seq": 761,
+   "title": "Court bars Kavi Gupta gallery from selling works in $2M Longcraft consignment dispute",
+   "artist": "N/A",
+   "institution": "Kavi Gupta Gallery",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Temporary restraining order reported late September 2026; petition filed in New York Supreme Court",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-09-30",
+   "description": "ARTnews reported that a New York judge temporarily barred the Chicago dealer Kavi Gupta and his gallery from selling or marketing a group of artworks at the center of a roughly $2.05 million dispute with Longcraft LLC. According to ARTnews, Longcraft paid the gallery about $2.05 million in May 2025 for roughly 150 artworks and then immediately consigned the works back to the gallery so it could keep selling them on Longcraft's behalf, an arrangement the company described in court papers as a way to give the business financial runway. In a petition filed in New York Supreme Court, Longcraft accused Gupta and the gallery of withholding proceeds from sales, giving misleading accounts of where works were and whether they had sold, attempting to substitute less valuable works for pieces Longcraft owned, and refusing to return the remaining collection after the consignment agreement ended. ARTnews reported that Gupta and the gallery had not yet filed a response.",
+   "outcome": "As reported by ARTnews, the court's temporary order barred Gupta and the gallery from selling or marketing the disputed works while the case proceeds; the gallery had not yet responded to the allegations. [FOLLOW-UP PENDING: the gallery's response and the court's further rulings.]",
+   "tags": [
+    "Legal challenge",
+    "Financialization",
+    "Market opacity",
+    "Institutional crisis"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/kavi-gupta-gallery-longcraft-lawsuit-restraining-order-1234800255/",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "New parent. Borderline: the contested matter is primarily a financial/consignment dispute, with the artworks as collateral — flagged for editorial judgment on whether the cultural object is the actual contested thing (CLAUDE.md §7). ARTnews was tollbit-paywalled this run; facts taken from the search-result text, reported speech only, no quotation. Artnet also reported on the gallery's broader troubles (not retrieved this run). Theme 10 (Art and Capital). [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Kavi Gupta (dealer); Kavi Gupta Gallery; Longcraft LLC",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
