@@ -322,7 +322,7 @@
     "update": "Update: on 4 September 2026 the judge required 48 hours' notice before site work other than the artifact survey ({ID}).",
     "why": "answered at {ID}, which carries the remaining questions."
    },
-   "hold": "Cite Reuters at its canonical reuters.com URL, not the Spokesman-Review reprint (maintainer review, 2026-10-02). reuters.com blocks the scan's tools and search found only syndications. Skip this item until the maintainer supplies the reuters.com link, then set source to it, keep outlets ['Reuters'], and drop this hold."
+   "hold": "Source from the court record, not a wire reprint (maintainer review, 2026-10-02). The ruling is Judge Chutkan's 4 Sep 2026 order in Lemmon v. Trump, 1:26-cv-00544 (D.D.C.); CourtListener docket https://www.courtlistener.com/docket/72301112/lemmon-v-trump/ . The web pages 403 the scan's tools and the API was rate-limited on 2026-10-02 (125/day, shared). When the API is available: fetch the 4 Sep order (and any later order on DOJ's motion to dissolve it), log it, and redraft the description from the order text; set source to the docket entry or order PDF, outlets ['CourtListener']. Reuters: the maintainer-supplied reuters.com link (https://www.reuters.com/world/us/opponents-seek-block-us-breaking-ground-trump-arch-washington-2026-09-04/) is Reuters' earlier filing story; whether it was updated in place with the ruling is unconfirmed (paywalled for maintainer, 401 for tools), so cite it only if its current text is verified to report the ruling. Do not cite reprints (Spokesman-Review etc.). Drop this hold once sourced."
   }
  ]
 }
