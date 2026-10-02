@@ -120,7 +120,8 @@ This step is NOT satisfied by ingest.py / the RSS feed. RSS is a narrow, time-wi
    is plausibly ripe, web-search for developments. Group B (superseded by a later
    sub-entry) and group C (unnamed legacy flags) are worked on Sundays.
 4a. **Backfill drip:** if `scan/backfill_queue.json` has items, insert **at most two**
-   per run, taking them in order. The queue holds researched sub-entries that answer
+   per run, taking them in order and skipping any item that carries a `hold` (its
+   reason says what has to happen first). The queue holds researched sub-entries that answer
    date-passed flags; they are metered into daily PRs so review keeps its normal pace.
    For each item: re-fetch and log every URL in `refetch` (the provenance gate needs
    this run's records), and re-verify each claim and quote against the retrieved text,

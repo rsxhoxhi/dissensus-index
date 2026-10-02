@@ -2,53 +2,6 @@
  "_about": "Backfill drip queue (DAILY_SCAN_ROUTINE.md Step 2.4a). Drafted 2026-09-28 during the follow-up flag cleanup: each item is a researched development that answers a date-passed flag. The daily scan inserts at most 2 items per run: re-fetch every URL in 'refetch' and log it (the provenance gate needs this run's records), re-verify each claim and quote against the retrieved text, assign the next free sub-entry letter under 'parent' (the draft_id letter is provisional), seq = max+1, date_discovered = run date, then apply 'resolves' to the answered entry ({ID} = the assigned id), delete the item here, and list it in the PR's 'For your review' as a queued backfill. Thin items (snippet-sourced) say so in their notes.",
  "items": [
   {
-   "draft_id": "ACI-038-T",
-   "parent": "ACI-038",
-   "queued": "2026-09-28",
-   "refetch": [
-    "https://www.spokesman.com/stories/2026/sep/04/judge-reinforces-order-barring-immediate-work-on-t/"
-   ],
-   "entry": {
-    "title": "Trump Triumphal Arch: judge requires 48 hours' notice before site work, exempting artifact survey",
-    "artist": "N/A",
-    "institution": "Memorial Circle, Arlington Memorial Bridge approach, Washington DC",
-    "country": "United States",
-    "governance_type": "Democracy",
-    "date_controversy": "Order issued 4 September 2026",
-    "sort_date": "2026-09-04",
-    "description": "U.S. District Judge Tanya Chutkan on 4 September 2026 ordered the Trump administration to give 48 hours' notice before engaging in any activity on the site of the proposed 250-foot arch near Arlington National Cemetery, except for work to identify underground cultural artifacts, Reuters reported. The ruling came a day after Interior Secretary Doug Burgum announced work would start soon, and in response to a request for a temporary restraining order from lawyers for three military veterans and an architectural historian (see ACI-038-Q), who argued the administration has \"no legal basis for the construction work.\" The government told the court the planned excavation was \"not construction, or demolition in preparation for construction, of an arch,\" but four test pits to assess whether artifacts or cultural materials are present, starting on or after 21 September and with the site restored by 31 October.",
-    "outcome": "Site activity other than the artifact survey requires 48 hours' notice to the court. [FOLLOW-UP PENDING: whether the test-pit survey proceeds and any notice of further work; the court's ruling on the veterans' underlying claims.]",
-    "tags": [
-     "Design controversy",
-     "Legal challenge",
-     "Landmark dispute",
-     "Architectural preservation"
-    ],
-    "court_case": "Yes",
-    "coverage_tier": "National",
-    "outlets": [
-     "Reuters"
-    ],
-    "source": "https://www.spokesman.com/stories/2026/sep/04/judge-reinforces-order-barring-immediate-work-on-t/",
-    "additional_sources": [],
-    "themes": [
-     1,
-     2,
-     9
-    ],
-    "notes": "Sub-entry of ACI-038; resolves the pending ruling at ACI-038-Q. Drafted from Reuters (David Shepardson, 4 Sep 2026) as carried by the Spokesman-Review (full text; quotes verified verbatim); spokesman.com mapped to Reuters in check_provenance as a wire carrier. Lead, not logged: search results (Law&Crime, others; not retrieved) report a later DOJ motion to dissolve the 48-hour order and the judge's refusal; date and terms unverified.",
-    "interested_parties": "Judge Tanya Chutkan; Michael Lemmon, Shaun Byrnes, Jon Gundersen (veterans); Calder Loth (architectural historian); Interior Secretary Doug Burgum; Justice Department",
-    "coverage_geography": "US",
-    "follow_up_pending": true
-   },
-   "resolves": {
-    "id": "ACI-038-Q",
-    "action": "clear",
-    "update": "Update: on 4 September 2026 the judge required 48 hours' notice before site work other than the artifact survey ({ID}).",
-    "why": "answered at {ID}, which carries the remaining questions."
-   }
-  },
-  {
    "draft_id": "ACI-331-D",
    "parent": "ACI-331",
    "queued": "2026-09-28",
@@ -249,7 +202,7 @@
     "governance_type": "Democracy",
     "date_controversy": "Strike 11–12 August 2026",
     "sort_date": "2026-08-11",
-    "description": "Staff at Royal Museums Greenwich went ahead with a strike on 11–12 August 2026 despite reported progress in talks, Arts Professional reported. In its preview of the action (4 August 2026), the Museums Association reported that 77% of Prospect members who voted backed strike action on a 90% turnout, and that members sought London Living Wage accreditation, protection of Christmas closure leave, paid breaks for security workers, and stronger policies on fixed-term contracts and training. RMG said a two-year pay settlement for 2026/27 and 2027/28 had been agreed with Prospect and implemented, and that it planned to keep its museums open.",
+    "description": "Staff at Royal Museums Greenwich went ahead with a strike on 11–12 August 2026, Arts Professional reported. In its preview of the action (4 August 2026), the Museums Association reported that Prospect said 77% of members who voted backed strike action on a 90% turnout, and that members were seeking London Living Wage accreditation, protection of Christmas closure annual leave, paid breaks for security workers, stronger policies on fixed-term contracts, and improved training and development. Both sides pointed to a two-year pay settlement: Prospect general secretary Mike Clancy said the union had \"already achieved progress, having recently agreed a two-year pay settlement with RMG,\" and an RMG statement said the settlement, covering 2026/27 and 2027/28, \"has been agreed by Prospect and implemented,\" with the remaining dispute relating to \"a small number of non-pay matters.\" RMG said it planned to keep its sites open during the strike.",
     "outcome": "Strike held on 11–12 August 2026.",
     "tags": [
      "Labor dispute"
@@ -265,7 +218,7 @@
      "https://www.museumsassociation.org/museums-journal/news/2026/08/union-members-at-royal-museums-greenwich-to-strike/"
     ],
     "themes": [],
-    "notes": "THIN on the event itself: that the strike went ahead rests on Arts Professional's report, seen only as a search result (site blocked; logged snippet_only); RMG's own closure notice and later coverage were also blocked. Background is from the Museums Association preview (full text). Resolves the pending item at ACI-295; no settlement of the remaining non-pay issues was found.",
+    "notes": "THIN on the event itself: that the strike went ahead rests on Arts Professional, whose site blocks the scan's tools (a search result, plus a passage the maintainer supplied in review, quoting Clancy). Background and all quotes are from the Museums Association preview, re-fetched 2026-10-02 as raw HTML and checked verbatim. Review correction: the pay settlement was first attributed to RMG alone; the verbatim text shows both Clancy and an RMG statement citing it, so both are now given. Resolves the pending item at ACI-295; no settlement of the remaining non-pay issues was found.",
     "interested_parties": "Prospect (Mike Clancy, general secretary); Royal Museums Greenwich",
     "coverage_geography": "UK",
     "follow_up_pending": false
@@ -322,6 +275,54 @@
     "update": "Update: the online sale closed on 30 June 2026 with 24 of 44 lots unsold ({ID}).",
     "why": "answered at {ID}; no further artist response found."
    }
+  },
+  {
+   "draft_id": "ACI-038-T",
+   "parent": "ACI-038",
+   "queued": "2026-09-28",
+   "refetch": [
+    "https://www.spokesman.com/stories/2026/sep/04/judge-reinforces-order-barring-immediate-work-on-t/"
+   ],
+   "entry": {
+    "title": "Trump Triumphal Arch: judge requires 48 hours' notice before site work, exempting artifact survey",
+    "artist": "N/A",
+    "institution": "Memorial Circle, Arlington Memorial Bridge approach, Washington DC",
+    "country": "United States",
+    "governance_type": "Democracy",
+    "date_controversy": "Order issued 4 September 2026",
+    "sort_date": "2026-09-04",
+    "description": "U.S. District Judge Tanya Chutkan on 4 September 2026 ordered the Trump administration to give 48 hours' notice before engaging in any activity on the site of the proposed 250-foot arch near Arlington National Cemetery, except for work to identify underground cultural artifacts, Reuters reported. The ruling came a day after Interior Secretary Doug Burgum announced work would start soon, and in response to a request for a temporary restraining order from lawyers for three military veterans and an architectural historian (see ACI-038-Q), who argued the administration has \"no legal basis for the construction work.\" The government told the court the planned excavation was \"not construction, or demolition in preparation for construction, of an arch,\" but four test pits to assess whether artifacts or cultural materials are present, starting on or after 21 September and with the site restored by 31 October.",
+    "outcome": "Site activity other than the artifact survey requires 48 hours' notice to the court. [FOLLOW-UP PENDING: whether the test-pit survey proceeds and any notice of further work; the court's ruling on the veterans' underlying claims.]",
+    "tags": [
+     "Design controversy",
+     "Legal challenge",
+     "Landmark dispute",
+     "Architectural preservation"
+    ],
+    "court_case": "Yes",
+    "coverage_tier": "National",
+    "outlets": [
+     "Reuters"
+    ],
+    "source": "https://www.spokesman.com/stories/2026/sep/04/judge-reinforces-order-barring-immediate-work-on-t/",
+    "additional_sources": [],
+    "themes": [
+     1,
+     2,
+     9
+    ],
+    "notes": "Sub-entry of ACI-038; resolves the pending ruling at ACI-038-Q. Drafted from Reuters (David Shepardson, 4 Sep 2026) as carried by the Spokesman-Review (full text; quotes verified verbatim); spokesman.com mapped to Reuters in check_provenance as a wire carrier. Lead, not logged: search results (Law&Crime, others; not retrieved) report a later DOJ motion to dissolve the 48-hour order and the judge's refusal; date and terms unverified.",
+    "interested_parties": "Judge Tanya Chutkan; Michael Lemmon, Shaun Byrnes, Jon Gundersen (veterans); Calder Loth (architectural historian); Interior Secretary Doug Burgum; Justice Department",
+    "coverage_geography": "US",
+    "follow_up_pending": true
+   },
+   "resolves": {
+    "id": "ACI-038-Q",
+    "action": "clear",
+    "update": "Update: on 4 September 2026 the judge required 48 hours' notice before site work other than the artifact survey ({ID}).",
+    "why": "answered at {ID}, which carries the remaining questions."
+   },
+   "hold": "Cite Reuters at its canonical reuters.com URL, not the Spokesman-Review reprint (maintainer review, 2026-10-02). reuters.com blocks the scan's tools and search found only syndications. Skip this item until the maintainer supplies the reuters.com link, then set source to it, keep outlets ['Reuters'], and drop this hold."
   }
  ]
 }
