@@ -15,8 +15,10 @@ This lists flagged entries in four groups:
   A. DATED & PAST   every date named in the [FOLLOW-UP PENDING: ...] text is
                     before today. Ripe by definition: the scheduled thing
                     has happened (or didn't), so reconcile it.
-  B. SUPERSEDED     a flagged sub-entry whose parent cluster has a LATER
-                    sub-entry. The thread moved on; the flag is probably stale.
+  B. SUPERSEDED     a flagged sub-entry whose thread (parent + sub-entries) has
+                    an entry with a LATER sort_date. The thread moved on; the
+                    flag is probably stale. "Later" is by date, not letter:
+                    backfilled sub-entries get later letters but earlier dates.
                     Verify against the later sibling, then clear or keep.
   C. UNNAMED        follow_up_pending is true but no named
                     "[FOLLOW-UP PENDING: ...]" text says what is pending
@@ -136,12 +138,17 @@ def suffix_key(s):
     return (len(s), s)  # A < B < ... < Z < AA < AB
 
 
+def thread_order(c):
+    """Sort key for 'latest in thread': sort_date first, letter as tiebreak."""
+    return (str(c.get("sort_date") or ""), suffix_key(split_id(c["id"])[1]))
+
+
 def classify(cases, today):
-    latest_suffix = {}
+    latest = {}  # parent -> latest entry in its thread, by date
     for c in cases:
-        parent, suf = split_id(c["id"])
-        if suf and suffix_key(suf) > suffix_key(latest_suffix.get(parent, "")):
-            latest_suffix[parent] = suf
+        parent, _ = split_id(c["id"])
+        if parent not in latest or thread_order(c) > thread_order(latest[parent]):
+            latest[parent] = c
 
     groups = {"A": [], "B": [], "C": [], "D": []}
     for c in cases:
@@ -159,8 +166,8 @@ def classify(cases, today):
             groups["A"].append({"id": c["id"], "title": c.get("title", ""), "latest_named_date": max(dates).isoformat(),
                                 "text": named[-1][:200]})
         parent, suf = split_id(c["id"])
-        if suf and suffix_key(latest_suffix[parent]) > suffix_key(suf):
-            groups["B"].append({"id": c["id"], "title": c.get("title", ""), "later": f"{parent}-{latest_suffix[parent]}"})
+        if suf and latest[parent]["id"] != c["id"] and thread_order(latest[parent]) > thread_order(c):
+            groups["B"].append({"id": c["id"], "title": c.get("title", ""), "later": latest[parent]["id"]})
     groups["A"].sort(key=lambda r: r["latest_named_date"])
     return groups
 
