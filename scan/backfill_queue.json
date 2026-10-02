@@ -2,6 +2,53 @@
  "_about": "Backfill drip queue (DAILY_SCAN_ROUTINE.md Step 2.4a). Drafted 2026-09-28 during the follow-up flag cleanup: each item is a researched development that answers a date-passed flag. The daily scan inserts at most 2 items per run: re-fetch every URL in 'refetch' and log it (the provenance gate needs this run's records), re-verify each claim and quote against the retrieved text, assign the next free sub-entry letter under 'parent' (the draft_id letter is provisional), seq = max+1, date_discovered = run date, then apply 'resolves' to the answered entry ({ID} = the assigned id), delete the item here, and list it in the PR's 'For your review' as a queued backfill. Thin items (snippet-sourced) say so in their notes.",
  "items": [
   {
+   "draft_id": "ACI-038-T",
+   "parent": "ACI-038",
+   "queued": "2026-09-28",
+   "refetch": [
+    "https://www.spokesman.com/stories/2026/sep/04/judge-reinforces-order-barring-immediate-work-on-t/"
+   ],
+   "entry": {
+    "title": "Trump Triumphal Arch: judge requires 48 hours' notice before site work, exempting artifact survey",
+    "artist": "N/A",
+    "institution": "Memorial Circle, Arlington Memorial Bridge approach, Washington DC",
+    "country": "United States",
+    "governance_type": "Democracy",
+    "date_controversy": "Order issued 4 September 2026",
+    "sort_date": "2026-09-04",
+    "description": "U.S. District Judge Tanya Chutkan on 4 September 2026 ordered the Trump administration to give 48 hours' notice before engaging in any activity on the site of the proposed 250-foot arch near Arlington National Cemetery, except for work to identify underground cultural artifacts, Reuters reported. The ruling came a day after Interior Secretary Doug Burgum announced work would start soon, and in response to a request for a temporary restraining order from lawyers for three military veterans and an architectural historian (see ACI-038-Q), who argued the administration has \"no legal basis for the construction work.\" The government told the court the planned excavation was \"not construction, or demolition in preparation for construction, of an arch,\" but four test pits to assess whether artifacts or cultural materials are present, starting on or after 21 September and with the site restored by 31 October.",
+    "outcome": "Site activity other than the artifact survey requires 48 hours' notice to the court. [FOLLOW-UP PENDING: whether the test-pit survey proceeds and any notice of further work; the court's ruling on the veterans' underlying claims.]",
+    "tags": [
+     "Design controversy",
+     "Legal challenge",
+     "Landmark dispute",
+     "Architectural preservation"
+    ],
+    "court_case": "Yes",
+    "coverage_tier": "National",
+    "outlets": [
+     "Reuters"
+    ],
+    "source": "https://www.spokesman.com/stories/2026/sep/04/judge-reinforces-order-barring-immediate-work-on-t/",
+    "additional_sources": [],
+    "themes": [
+     1,
+     2,
+     9
+    ],
+    "notes": "Sub-entry of ACI-038; resolves the pending ruling at ACI-038-Q. Drafted from Reuters (David Shepardson, 4 Sep 2026) as carried verbatim by the Spokesman-Review (full text; quotes verified verbatim); spokesman.com is mapped to Reuters in check_provenance as a wire carrier. Sourcing settled in maintainer review (2026-10-02): reuters.com itself blocks the scan's tools and is paywalled for the maintainer, and the only reuters.com URL found is Reuters' earlier filing story, so the syndicated copy stands. Primary record for later enrichment: the order in Lemmon v. Trump, 1:26-cv-00544 (D.D.C.), CourtListener docket 72301112. Lead, not logged: later reports (Law&Crime and others; not retrieved) of a DOJ motion to dissolve the 48-hour order and the judge's refusal.",
+    "interested_parties": "Judge Tanya Chutkan; Michael Lemmon, Shaun Byrnes, Jon Gundersen (veterans); Calder Loth (architectural historian); Interior Secretary Doug Burgum; Justice Department",
+    "coverage_geography": "US",
+    "follow_up_pending": true
+   },
+   "resolves": {
+    "id": "ACI-038-Q",
+    "action": "clear",
+    "update": "Update: on 4 September 2026 the judge required 48 hours' notice before site work other than the artifact survey ({ID}).",
+    "why": "answered at {ID}, which carries the remaining questions."
+   }
+  },
+  {
    "draft_id": "ACI-331-D",
    "parent": "ACI-331",
    "queued": "2026-09-28",
@@ -275,54 +322,6 @@
     "update": "Update: the online sale closed on 30 June 2026 with 24 of 44 lots unsold ({ID}).",
     "why": "answered at {ID}; no further artist response found."
    }
-  },
-  {
-   "draft_id": "ACI-038-T",
-   "parent": "ACI-038",
-   "queued": "2026-09-28",
-   "refetch": [
-    "https://www.spokesman.com/stories/2026/sep/04/judge-reinforces-order-barring-immediate-work-on-t/"
-   ],
-   "entry": {
-    "title": "Trump Triumphal Arch: judge requires 48 hours' notice before site work, exempting artifact survey",
-    "artist": "N/A",
-    "institution": "Memorial Circle, Arlington Memorial Bridge approach, Washington DC",
-    "country": "United States",
-    "governance_type": "Democracy",
-    "date_controversy": "Order issued 4 September 2026",
-    "sort_date": "2026-09-04",
-    "description": "U.S. District Judge Tanya Chutkan on 4 September 2026 ordered the Trump administration to give 48 hours' notice before engaging in any activity on the site of the proposed 250-foot arch near Arlington National Cemetery, except for work to identify underground cultural artifacts, Reuters reported. The ruling came a day after Interior Secretary Doug Burgum announced work would start soon, and in response to a request for a temporary restraining order from lawyers for three military veterans and an architectural historian (see ACI-038-Q), who argued the administration has \"no legal basis for the construction work.\" The government told the court the planned excavation was \"not construction, or demolition in preparation for construction, of an arch,\" but four test pits to assess whether artifacts or cultural materials are present, starting on or after 21 September and with the site restored by 31 October.",
-    "outcome": "Site activity other than the artifact survey requires 48 hours' notice to the court. [FOLLOW-UP PENDING: whether the test-pit survey proceeds and any notice of further work; the court's ruling on the veterans' underlying claims.]",
-    "tags": [
-     "Design controversy",
-     "Legal challenge",
-     "Landmark dispute",
-     "Architectural preservation"
-    ],
-    "court_case": "Yes",
-    "coverage_tier": "National",
-    "outlets": [
-     "Reuters"
-    ],
-    "source": "https://www.spokesman.com/stories/2026/sep/04/judge-reinforces-order-barring-immediate-work-on-t/",
-    "additional_sources": [],
-    "themes": [
-     1,
-     2,
-     9
-    ],
-    "notes": "Sub-entry of ACI-038; resolves the pending ruling at ACI-038-Q. Drafted from Reuters (David Shepardson, 4 Sep 2026) as carried by the Spokesman-Review (full text; quotes verified verbatim); spokesman.com mapped to Reuters in check_provenance as a wire carrier. Lead, not logged: search results (Law&Crime, others; not retrieved) report a later DOJ motion to dissolve the 48-hour order and the judge's refusal; date and terms unverified.",
-    "interested_parties": "Judge Tanya Chutkan; Michael Lemmon, Shaun Byrnes, Jon Gundersen (veterans); Calder Loth (architectural historian); Interior Secretary Doug Burgum; Justice Department",
-    "coverage_geography": "US",
-    "follow_up_pending": true
-   },
-   "resolves": {
-    "id": "ACI-038-Q",
-    "action": "clear",
-    "update": "Update: on 4 September 2026 the judge required 48 hours' notice before site work other than the artifact survey ({ID}).",
-    "why": "answered at {ID}, which carries the remaining questions."
-   },
-   "hold": "Source from the court record, not a wire reprint (maintainer review, 2026-10-02). The ruling is Judge Chutkan's 4 Sep 2026 order in Lemmon v. Trump, 1:26-cv-00544 (D.D.C.); CourtListener docket https://www.courtlistener.com/docket/72301112/lemmon-v-trump/ . The web pages 403 the scan's tools and the API was rate-limited on 2026-10-02 (125/day, shared). When the API is available: fetch the 4 Sep order (and any later order on DOJ's motion to dissolve it), log it, and redraft the description from the order text; set source to the docket entry or order PDF, outlets ['CourtListener']. Reuters: the maintainer-supplied reuters.com link (https://www.reuters.com/world/us/opponents-seek-block-us-breaking-ground-trump-arch-washington-2026-09-04/) is Reuters' earlier filing story; whether it was updated in place with the ruling is unconfirmed (paywalled for maintainer, 401 for tools), so cite it only if its current text is verified to report the ruling. Do not cite reprints (Spokesman-Review etc.). Drop this hold once sourced."
   }
  ]
 }
