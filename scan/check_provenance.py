@@ -166,6 +166,8 @@ DOMAIN_TO_OUTLET = {
     "vpm.org": "VPM News",  # added 2026-09-22 scan (ACI-400 Confederate monuments removal)
     "manhattanda.org": "Manhattan District Attorney's Office",  # added 2026-09-25 scan (ACI-406 Syria antiquities return)
     "govinfo.gov": "GovInfo",  # added 2026-09-28 scan (ACI-050-M No Palaces Act bill text and status, U.S. GPO)
+    "i24news.tv": "i24NEWS",  # added 2026-10-02 scan (ACI-412 Cairo pharaoh murals removed)
+    "nbcwashington.com": "NBC Washington",  # added 2026-10-02 scan (ACI-005-BK Kennedy Center closure continues)
 }
 
 ALIASES = {
