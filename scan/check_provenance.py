@@ -172,6 +172,7 @@ DOMAIN_TO_OUTLET = {
     "justice.gov": "US Department of Justice",  # added 2026-09-28 (queued ACI-330-A, USAO-DC release)
     "thestandard.com.hk": "The Standard",  # added 2026-09-29 scan (ACI-406 Kwade / Tai Kwun damage)
     "sceneweb.fr": "Sceneweb",  # added 2026-09-29 scan (ACI-407 Actoral festival subsidy)
+    "thestar.com.my": "The Star",  # added 2026-10-03 scan (ACI-331-D, AFP report carrier; HKFP unreachable this run)
 }
 
 ALIASES = {
