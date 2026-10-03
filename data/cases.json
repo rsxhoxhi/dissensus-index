@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 723
+  "total_cases": 726
  },
  "cases": [
   {
@@ -20910,7 +20910,7 @@
    "date_discovered": "2026-08-18",
    "sort_date": "2026-08-17",
    "description": "Part of the National World War II Memorial on the Washington Mall was defaced on 13 August 2026 with red and green spray paint and with soap that caused the memorial's fountains to overflow with suds, according to The Washington Post and Reuters. Graffiti reading \"Clean hands Dirty $\" was painted on one surface. The Justice Department charged Melissa Farris, 41, of Kentucky, with two felony counts -- depredation of federal property and destruction of veterans' memorials. In Facebook posts cited by Reuters, Farris said she had planned the 13 August action to protest U.S. tax dollars not being spent on ordinary Americans and to draw attention to what she alleged were \"corporate racketeering, embezzlement and slave labor practices.\" On 17 August a federal judge ordered Farris released pending trial, with conditions including surrendering her passport and remaining in the continental United States; a preliminary hearing is set for 3 September. U.S. Attorney for the District of Columbia Jeanine Pirro, whose office argued Farris posed a flight risk and asked the court to reconsider, publicly criticized the release order.",
-   "outcome": "Open federal prosecution. Farris faces two felony counts and was released pending trial on conditions; a preliminary hearing is scheduled for 3 September 2026.",
+   "outcome": "Open federal prosecution. Update: a grand jury indicted Farris on 27 August 2026 and she pleaded not guilty on 21 September 2026, and was released on her own recognizance (ACI-330-A).",
    "tags": "Vandalism, Protest art, Political art, Legal challenge",
    "court_case": "Yes",
    "coverage_tier": "National",
@@ -20927,8 +20927,47 @@
     6,
     7
    ],
-   "notes": "[FOLLOW-UP PENDING: preliminary hearing 3 September 2026; charges unresolved]. New parent. Part of the National Mall protest-vandalism cluster prosecuted by the DC U.S. Attorney's office: cross-ref ACI-046-P (Reflecting Pool vandalism charges dropped by Pirro), ACI-046-I (David Hearn indicted over alleged Reflecting Pool vandalism), and ACI-174 ('86 47' turf vandalism near the Washington Monument). Pirro throughline noted. The WWII Memorial is a modern (2004) national memorial, so this is logged as Vandalism/protest expression, not under the cultural-property-destruction umbrella per CLAUDE.md sec 4.",
+   "notes": "New parent. Part of the National Mall protest-vandalism cluster prosecuted by the DC U.S. Attorney's office: cross-ref ACI-046-P (Reflecting Pool vandalism charges dropped by Pirro), ACI-046-I (David Hearn indicted over alleged Reflecting Pool vandalism), and ACI-174 ('86 47' turf vandalism near the Washington Monument). Pirro throughline noted. The WWII Memorial is a modern (2004) national memorial, so this is logged as Vandalism/protest expression, not under the cultural-property-destruction umbrella per CLAUDE.md sec 4.",
    "interested_parties": "Melissa Farris (accused); Jeanine Pirro (U.S. Attorney, District of Columbia); U.S. Department of Justice; U.S. Park Police; National Park Service",
+   "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-330-A",
+   "entry_id": "330-A",
+   "seq": 764,
+   "title": "World War II Memorial vandalism: suspect indicted, pleads not guilty to two felonies",
+   "artist": "N/A (National World War II Memorial; designed by Friedrich St. Florian)",
+   "institution": "National World War II Memorial (National Mall); National Park Service; U.S. Attorney's Office for the District of Columbia",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Indicted 27 August 2026; pleaded not guilty 21 September 2026",
+   "date_discovered": "2026-10-03",
+   "sort_date": "2026-09-21",
+   "description": "Melissa Farris, 41, of Elizabethtown, Kentucky, pleaded not guilty on 21 September 2026 before U.S. District Judge Trevor N. McFadden to two felony counts — destruction of a veterans' memorial and destruction of government property — and was released on her own personal recognizance despite prosecutors previously deeming her a flight risk, the Washington Examiner reported. The U.S. Attorney's Office for the District of Columbia said a grand jury had returned the two-count indictment on 27 August 2026, over graffiti sprayed on the Atlantic Theatre Pavilion of the National World War II Memorial on 13 August 2026.",
+   "outcome": "Case pending in federal court after not-guilty pleas. [FOLLOW-UP PENDING: trial, plea agreement or other resolution of the charges.]",
+   "tags": [
+    "Vandalism",
+    "Protest art",
+    "Political art",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Washington Examiner",
+    "US Department of Justice"
+   ],
+   "source": "https://www.washingtonexaminer.com/news/justice/4736179/woman-accused-of-vandalizing-wwii-memorial-pleads-not-guilty-released/",
+   "additional_sources": [
+    "https://www.justice.gov/usao-dc/pr/kentucky-woman-indicted-two-counts-vandalizing-national-malls-world-war-ii-memorial-dc"
+   ],
+   "themes": [
+    6,
+    7
+   ],
+   "notes": "Sub-entry of ACI-330; the indictment superseded the 3 September preliminary hearing named in ACI-330's flag. Plea and release details from the Washington Examiner (Kaelan Deese, 21 September 2026; full text). The 13 August incident and 27 August indictment dates are from the U.S. Attorney's Office (USAO-DC) release, read as a search result this run (justice.gov direct fetch blocked; snippet grade), attributed inline. Queued backfill drafted 2026-09-28; inserted 2026-10-03.",
+   "interested_parties": "Melissa Farris (defendant); Judge Trevor N. McFadden; U.S. Attorney's Office for the District of Columbia",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
@@ -21010,7 +21049,7 @@
    "date_discovered": "2026-08-30",
    "sort_date": "2026-08-28",
    "description": "After the Gwangju Biennale Foundation restored the name \"Taiwan Pavilion\" on 25 August 2026 (see ACI-331, ACI-331-A), China moved to withdraw its participants from the 16th Gwangju Biennale in protest. According to the Taipei Times, China's ambassador to South Korea, Dai Bing, met Gwangju's mayor on 27 August 2026 to convey Beijing's \"regret and concern\" over the naming decision and ordered Chinese artists and installation staff to halt preparations and withdraw from a special exhibition at the Gwangju Museum of Art's Ha Jung-woon branch. The withdrawal began on 28 August 2026, days before the biennale's 5 September opening. Gwangju's mayor was quoted as saying that \"political considerations should not affect the arts.\" Taiwan's presentation, organised by the National Taiwan Museum of Fine Arts, proceeds under the \"Taiwan Pavilion\" name.",
-   "outcome": "China's participants withdrawing from the 16th Gwangju Biennale (opens 5 September 2026) over the restored \"Taiwan Pavilion\" name; the Taiwan Pavilion proceeds. [FOLLOW-UP PENDING: whether the Chinese withdrawal is finalised across all participants and any further diplomatic or programming fallout at the biennale's 5 September opening.]",
+   "outcome": "China's participants withdrawing from the 16th Gwangju Biennale (opens 5 September 2026) over the restored \"Taiwan Pavilion\" name; the Taiwan Pavilion proceeds. Update: the Chinese artists announced their formal withdrawal on 3 September 2026 (ACI-331-D).",
    "tags": "Geopolitics, Political interference",
    "court_case": "No",
    "coverage_tier": "International",
@@ -21028,7 +21067,7 @@
    "notes": "Sub-entry of ACI-331 (Gwangju Biennale 'Taiwan Pavilion' naming dispute); follows ACI-331-A (name restored 25 August 2026). Escalation reverses the axis of the parent dispute: after Taiwan's preferred name was restored, China objected and pulled its own participants. Dissensus theme 3 inherited. Cross-reference ACI-081 (embassy pressure over a China-critical event). Quote ('political considerations should not affect the arts', attributed to Gwangju's mayor) carried by Taipei Times, retrieved full-text this run; ARTnews retrieved at snippet grade (direct fetch bot-walled, read via search result).",
    "interested_parties": "China's ambassador to South Korea Dai Bing; participating Chinese artists and installation staff; Gwangju Biennale Foundation; Gwangju city government (mayor); Taiwan Ministry of Culture; National Taiwan Museum of Fine Arts (NTMoFA)",
    "coverage_geography": "Taiwan, South Korea, China, international art press",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-331-C",
@@ -21063,6 +21102,39 @@
    "interested_parties": "Gwangju Biennale Foundation; Gwangju city government and mayor; Dai Bing (China's ambassador to South Korea); Taiwan Ministry of Culture; National Taiwan Museum of Fine Arts",
    "coverage_geography": "South Korea, China, Taiwan, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-331-D",
+   "entry_id": "331-D",
+   "seq": 765,
+   "title": "Gwangju Biennale: Chinese artists formally withdraw before opening; consulate protests",
+   "artist": "Participating Chinese artists (withdrawn)",
+   "institution": "Gwangju Biennale Foundation, Gwangju, South Korea",
+   "country": "South Korea",
+   "governance_type": "Democracy",
+   "date_controversy": "Withdrawal announced 3 September 2026",
+   "date_discovered": "2026-10-03",
+   "sort_date": "2026-09-03",
+   "description": "Chinese artists announced on 3 September 2026 that they would formally withdraw from the Gwangju Biennale, according to an AFP report carried by The Star. A Gwangju Biennale Foundation spokesperson told AFP, \"We have confirmation the Chinese artists are withdrawing from the biennale.\" China's consulate general in Gwangju said the organisers' decision to let Taiwan take part under the restored name was \"a serious violation of the One China principle\" and urged them to \"immediately rectify their wrongdoing.\" South Korea's foreign ministry said the government's \"basic position regarding Taiwan remains unchanged\" and that the decision, made in the cultural sphere, was \"unrelated to the South Korean government's position regarding Taiwan.\"",
+   "outcome": "Chinese participants withdrew ahead of the biennale's 5 September 2026 opening.",
+   "tags": [
+    "Geopolitics",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Star"
+   ],
+   "source": "https://www.thestar.com.my/lifestyle/culture/2026/09/03/china-artists-quit-south-korea-exhibition-over-taiwan-row",
+   "additional_sources": [],
+   "themes": [
+    3
+   ],
+   "notes": "Sub-entry of ACI-331; resolves the pending item at ACI-331-B (whether the withdrawal was finalised before the opening). Drafted from an AFP report carried by The Star (Malaysia) (3 September 2026; full text; quotes verified verbatim). Queued backfill drafted 2026-09-28; the queued draft cited Hong Kong Free Press (same AFP wire), which could not be retrieved this run (HTTP 429), so The Star stands as the full-text carrier. Cross-ref ACI-331-C (city apology).",
+   "interested_parties": "Chinese artists; China's consulate general in Gwangju; Gwangju Biennale Foundation; South Korean foreign ministry",
+   "coverage_geography": "Asia, International",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-333",
@@ -23671,6 +23743,39 @@
    "notes": "New parent. Public-funding/expression dispute (theme 2): a departmental subsidy suspended after a pressure campaign over a programmed author. Externalised-censorship / funding-conditionality frame; governance-friction in a democracy. [FOLLOW-UP PENDING] mirrored in outcome. Drafted from Sceneweb; enrich on a Europe (Wednesday) trawl with Le Monde and regional outlets.",
    "interested_parties": "Martine Vassal (president, Bouches-du-Rhône departmental council); Louisa Yousfi; Festival Actoral; city of Marseille; PACA region",
    "coverage_geography": "France",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-414",
+   "entry_id": "414",
+   "seq": 766,
+   "title": "Nine Swiss museums to study provenance of 6,300 Cameroonian objects",
+   "artist": "N/A",
+   "institution": "Museum der Kulturen Basel; Musée d'ethnographie de Genève; Bernisches Historisches Museum; and six other Swiss museums",
+   "country": "Switzerland",
+   "governance_type": "Democracy",
+   "date_controversy": "Announced October 2026 (SFr100,000 federal grant for 2027–28)",
+   "date_discovered": "2026-10-03",
+   "sort_date": "2026-10-02",
+   "description": "Nine Swiss museums — in Basel, Bern, Burgdorf, Geneva, Lausanne, Neuchâtel, Winterthur and Zurich, including the Museum der Kulturen Basel, the Musée d'ethnographie de Genève and the Bernisches Historisches Museum — are to investigate the provenance of more than 6,300 objects from Cameroon held in Swiss collections, representing over 320 ethnic and cultural communities, The Art Newspaper reported. The Swiss Federal Office of Culture awarded SFr100,000 (£91,000) for the 2027–28 project, which models itself on the Benin Initiative Switzerland. Although Switzerland had no colonies, Swiss missionaries, companies and individuals took part in colonial systems: Basel Mission missionaries working under German colonial rule built much of the collection, and further objects arrived during the French and British mandate periods and through the art market. Legrand Tchatchouang, prince of the Bangoua chiefdom and a civil-society representative on Cameroon's repatriation committee, told The Art Newspaper that \"a Eurocentric project risks creating new problems in Cameroon,\" arguing that dialogue, not study alone, addresses colonial legacies and noting that the Bangoua community is represented by more than 300 objects in Swiss museums. Isabella Bozsa, a provenance researcher at the Museum der Kulturen Basel, said the project involves collaboration both in Swiss museums and in Cameroon.",
+   "outcome": "The provenance initiative is funded for 2027–28; no restitution claims have yet been filed, but a Cameroonian repatriation representative has questioned the project's approach. [FOLLOW-UP PENDING: the 2027–28 provenance findings and any restitution requests arising from the study.]",
+   "tags": [
+    "Repatriation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/02/nine-swiss-museums-to-investigate-provenance-of-thousands-of-objects-from-cameroon",
+   "additional_sources": [],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "New parent. Swiss provenance initiative for Cameroonian objects, modelled on the Benin Initiative Switzerland (restitution / theme-12 cluster; universal/ethnographic-museum axis, theme 5). Describe-don't-judge: the Index records the initiative and the Cameroonian repatriation representative's critique attributed to him, without adopting either framing. Drafted narrowly from The Art Newspaper (Anzhela Khachaturova, 2 October 2026; full text; quote verified verbatim). Artforum also reported the SFr100,000 federal grant (headline seen via RSS; not retrieved full text this run, so not cited).",
+   "interested_parties": "Swiss Federal Office of Culture; Museum der Kulturen Basel (Isabella Bozsa, provenance researcher); Legrand Tchatchouang (prince of Bangoua chiefdom, Cameroon repatriation committee)",
+   "coverage_geography": "Switzerland, Cameroon, Europe",
    "follow_up_pending": true
   }
  ]
