@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 723
+  "total_cases": 726
  },
  "cases": [
   {
@@ -9248,7 +9248,7 @@
    "date_discovered": "May 10, 2026",
    "sort_date": "2026-05-10",
    "description": "RESOLUTION: The French repatriation framework law was definitively adopted by both chambers of parliament. Sequence: (1) The CMP (commission mixte paritaire) produced a unified compromise text on April 30, reconciling the Assemblée nationale's April 13 amended text with the Senate's January 2026 version. (2) The National Assembly voted unanimously 141-0 on Wednesday May 6. (3) The Senate voted unanimously on Thursday May 7. Culture Minister Catherine Pégard declared: \"L'instant est historique.\" The law now awaits formal promulgation by President Macron (15-day constitutional clock from May 7 = approximately by May 22). The law enables restitutions by government decree without requiring individual parliamentary votes, covering cultural property acquired between 1815 and 1972. Two scientific and parliamentary commissions must consult on each case. Pending requests from Algeria, Mali, Benin, Chad, Ethiopia, Ivory Coast, Madagascar, Ghana, Senegal now have a legal pathway once promulgated. Approximately 150,000 African objects held in ~230 French public museums. Separately: a bill for repatriation of Kali'na human remains from Guyana is expected before the Senate on May 18.",
-   "outcome": "Both chambers adopted unanimously. Awaiting Macron promulgation by approximately May 22. [FOLLOW-UP PENDING: Macron signature; Kali'na bill Senate May 18; first restitution requests under new framework]",
+   "outcome": "Both chambers adopted unanimously. Awaiting Macron promulgation by approximately May 22. [FOLLOW-UP PENDING: first restitution requests under the new framework] Update: the Kali'na remains law was promulgated on 26 June 2026 (ACI-035-K).",
    "tags": "Repatriation, Colonial legacy, Legislative action, Ethical museum",
    "court_case": "No",
    "coverage_tier": "International",
@@ -13212,6 +13212,40 @@
    "follow_up_pending": false
   },
   {
+   "id": "ACI-035-K",
+   "entry_id": "035-K",
+   "seq": 768,
+   "title": "French restitution: law returns eight Kali'na remains from the Musée de l'Homme to French Guiana",
+   "artist": "N/A (legislative)",
+   "institution": "Élysée Palace / French government; Le Journal Officiel",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Senate adoption 18 May 2026; law promulgated 26 June 2026",
+   "date_discovered": "2026-10-04",
+   "sort_date": "2026-06-26",
+   "description": "France enacted a law (Loi n° 2026-542 of 26 June 2026) removing from public collections the remains of eight Kali'na people held at the Musée de l'Homme and handing them, within a year of the law's entry into force, to the Collectivité de Guyane for funeral purposes, according to the French Senate. The bill, sponsored by senators Catherine Morin-Desailly, Pierre Ouzoulias and Max Brisson, was adopted unanimously by the Senate on 18 May 2026, which also extended the removal from public collections to eight casts of body parts.",
+   "outcome": "Law in force. [FOLLOW-UP PENDING: return of the remains to French Guiana, due within a year of the law's entry into force.]",
+   "tags": [
+    "Repatriation",
+    "Indigenous rights"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "French Senate"
+   ],
+   "source": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-relative-au-declassement-de-restes-humains-kalinas-et-a-leur-remise-a-la-collectivite-de-guyane-a-des-fins-funeraires.html",
+   "additional_sources": [],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "Sub-entry of ACI-035; resolves the 'Kali'na bill Senate May 18' item in ACI-035-I's flag. Drafted from the French Senate's 'loi en clair' page (full text; facts verified verbatim in French). Search results (not cited) indicate the text's title also covers Arawak remains; the verbatim Senate text retrieved names eight Kali'na remains, so the entry says that. Re-verified 2026-10-04 against the Senate 'loi en clair' page (full text): law number, 18 May 2026 unanimous Senate adoption, and 26 June 2026 promulgation all confirmed.",
+   "interested_parties": "Senators Catherine Morin-Desailly, Pierre Ouzoulias, Max Brisson; Musée de l'Homme / Muséum national d'histoire naturelle; Collectivité de Guyane; Kali'na community",
+   "coverage_geography": "France",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-008-B",
    "entry_id": "008-B",
    "seq": 49,
@@ -14984,7 +15018,7 @@
    "date_discovered": "2026-07-08",
    "sort_date": "2026-07-07",
    "description": "ARTnews reported (7 July 2026) that the activist coalition Art Not Genocide Alliance (ANGA) called for a mass mobilization on 17 July 2026, the day US Ambassador to Italy Tilman Fertitta is scheduled to arrive in Venice, inviting supporters to gather at 4 p.m. at Campo San Zaccaria, near where Fertitta's yacht is expected to dock. ANGA — an international coalition of artists, curators, writers and cultural workers formed in early 2024 in opposition to Israel's participation in the Venice Biennale — previously staged a 24-hour strike on 8 May 2026, when thousands marched through Venice on the eve of the Biennale's public opening (see ACI-008 cluster). Artist Carolina Caycedo, who organized the May action, told ARTnews it was 'a way for us to show our discontent and our disgust with the politics that happen underneath the Biennale.' As reported by ARTnews.",
-   "outcome": "ANGA called a mobilization for 17 July 2026 timed to Ambassador Fertitta's visit; the action had not yet taken place as of reporting. [FOLLOW-UP PENDING: outcome of the July 17 mobilization]",
+   "outcome": "ANGA called a mobilization for 17 July 2026 timed to Ambassador Fertitta's visit; the action had not yet taken place as of reporting. Update: the protest took place on 17 July 2026 (ACI-008-AG).",
    "tags": "Protest, Geopolitics, Political art",
    "court_case": "No",
    "coverage_tier": "International",
@@ -14997,10 +15031,10 @@
     4,
     8
    ],
-   "notes": "Sub-entry of ACI-008 (Venice Biennale / Gaza protest cluster). Distinct from the Visitors' Lions legal-threat sub-entries (ACI-008-AA/AB); this is a new protest action timed to the US ambassador's visit. Fertitta is also the largest shareholder of Wynn Resorts. [FOLLOW-UP PENDING: July 17 action]",
+   "notes": "Sub-entry of ACI-008 (Venice Biennale / Gaza protest cluster). Distinct from the Visitors' Lions legal-threat sub-entries (ACI-008-AA/AB); this is a new protest action timed to the US ambassador's visit. Fertitta is also the largest shareholder of Wynn Resorts.",
    "interested_parties": "Art Not Genocide Alliance (ANGA); Carolina Caycedo; US Ambassador to Italy Tilman Fertitta; Venice Biennale Foundation",
    "coverage_geography": "International",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-008",
@@ -15135,6 +15169,41 @@
    "additional_sources": [
     "https://www.artnews.com/art-news/news/pietrangelo-buttafuoco-eu-grant-withdrawal-venice-biennale-1234793350/"
    ]
+  },
+  {
+   "id": "ACI-008-AG",
+   "entry_id": "008-AG",
+   "seq": 767,
+   "title": "Venice Biennale: several hundred protest US ambassador's arrival; brief clash with police",
+   "artist": "N/A (cultural-worker mobilization)",
+   "institution": "Venice Biennale (Biennale Foundation)",
+   "country": "Italy / International",
+   "governance_type": "Democracy",
+   "date_controversy": "17 July 2026",
+   "date_discovered": "2026-10-04",
+   "sort_date": "2026-07-17",
+   "description": "Several hundred protesters marched against the arrival in Venice of US Ambassador to Italy Tilman Fertitta on 17 July 2026, briefly clashing with riot police as they neared his vessel, Euronews reported. According to Euronews, officers pushed demonstrators back with shields after they refused to stop, and protesters carried signs reading \"Venezia non si USA,\" \"Make America Read Again,\" and \"Oligarch in saor.\" Fertitta issued a short statement: \"I like Italians, we Americans respect freedom of speech and the right to peaceful protest; Coastal Diplomacy celebrates our nation's founding and these fundamental rights.\" Euronews cited an organiser, Stella Morion, who said the protest opposed Trump's international politics; it did not name an organising group or mention the Venice Biennale. The protest fell on the day the Art Not Genocide Alliance had called for a mobilization (see ACI-008-AC).",
+   "outcome": "Protest held on 17 July 2026.",
+   "tags": [
+    "Protest",
+    "Geopolitics",
+    "Political art"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Euronews"
+   ],
+   "source": "https://www.euronews.com/my-europe/2026/07/17/make-america-read-again-venice-protesters-greet-us-ambassador-with-protest-signs",
+   "additional_sources": [],
+   "themes": [
+    3,
+    4
+   ],
+   "notes": "Sub-entry of ACI-008; resolves the pending item at ACI-008-AC (outcome of the 17 July mobilization). Drafted from Euronews (Greta Ruffino with AP, 17 Jul 2026; full text, quotes verified verbatim on re-fetch 2026-10-04). Euronews does not name ANGA as the organiser (it cites organiser Stella Morion without a group) and does not mention the Biennale; the link to ANGA's call rests on ACI-008-AC's ARTnews sourcing. Re-fetch correction: the sign 'Venezia non si USA', dropped from the 2026-09-28 draft as unverified, is present in the retrieved text and restored.",
+   "interested_parties": "Tilman Fertitta (US Ambassador to Italy); Art Not Genocide Alliance (called the mobilization); Venice police",
+   "coverage_geography": "Europe",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-007",
@@ -23672,6 +23741,38 @@
    "interested_parties": "Martine Vassal (president, Bouches-du-Rhône departmental council); Louisa Yousfi; Festival Actoral; city of Marseille; PACA region",
    "coverage_geography": "France",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-415",
+   "entry_id": "415",
+   "seq": 769,
+   "title": "US returns 64 cultural relics and fossils to China, including a Tianlongshan Buddhist torso",
+   "artist": "N/A",
+   "institution": "US Homeland Security Investigations; Manhattan District Attorney's Office; China's National Cultural Heritage Administration",
+   "country": "China",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Objects handed over 16-17 September 2026",
+   "date_discovered": "2026-10-04",
+   "sort_date": "2026-09-18",
+   "description": "According to People's Daily (People's Daily Online, 18 September 2026), the United States returned 64 Chinese cultural relics and paleontological fossils to China in two handovers, on 16 and 17 September 2026 in Washington and New York. The paper said the items were transferred by Homeland Security Investigations and the Manhattan District Attorney's Office, and that the returned material included the torso of a bodhisattva statue from the Tianlongshan Grottoes in Shanxi Province, other statues and terracotta figures, and dinosaur-skeleton, fish, and dinosaur-egg fossils. The report said it was the fifth time the Manhattan District Attorney's Office had returned cultural relics to China, and that the returns proceeded under a 2009 China-US memorandum of understanding on preventing the illicit import of Chinese cultural property, renewed three times since.",
+   "outcome": "The 64 items were received by China's National Cultural Heritage Administration; no dispute over the returns was reported.",
+   "tags": [
+    "Repatriation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "People's Daily"
+   ],
+   "source": "https://en.people.cn/n3/2026/0918/c90000-20501330.html",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "New parent; repatriation resolution (cluster anchor, CLAUDE.md s7) rather than an active dispute. US->China return of relics and fossils seized by US law enforcement. SINGLE-SOURCE / THIN: the only outlet retrieved this run is People's Daily (Chinese state media), reporting an uncontested handover that US agencies (HSI, Manhattan DA) carried out; corroborating coverage exists (The Art Newspaper's RSS headline this run; Smithsonian Magazine) but was not retrievable (TAN URL not located; Smithsonian 403). Reported speech only, no direct quotes. Flagged for enrichment/corroboration with The Art Newspaper or a US-government primary source (HSI/Manhattan DA release).",
+   "interested_parties": "US Homeland Security Investigations; Manhattan District Attorney's Office; China's National Cultural Heritage Administration",
+   "coverage_geography": "China, US",
+   "follow_up_pending": false
   }
  ]
 }

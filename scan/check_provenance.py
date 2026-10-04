@@ -60,6 +60,7 @@ DOMAIN_TO_OUTLET = {
     "lanazione.it": "La Nazione",
     "jurist.org": "JURIST",
     "euronews.com": "Euronews",
+    "en.people.cn": "People's Daily",  # added 2026-10-04 scan (ACI-415 US-China relic return; Chinese state media, single-source thin entry)
     "france24.com": "France 24",
     "cnn.com": "CNN",
     "courtlistener.com": "CourtListener",
