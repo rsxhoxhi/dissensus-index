@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 723
+  "total_cases": 728
  },
  "cases": [
   {
@@ -82,7 +82,7 @@
    "date_discovered": "2026-06-27",
    "sort_date": "2026-06-26",
    "description": "On June 25-26, 2026, Christie's London held a sale of works from the Zabludowicz Collection. As reported by The Art Newspaper, ARTnews and Artnet News, the sale of 56 lots realised about £15.4m (with fees), with Philip Guston's 'Mirror Head' (1977) as the top lot at about £3.9m. Coverage framed the collection as 'controversial', recalling that in 2021 a group of artists and cultural workers known as Boycott/Divest Zabludowicz (BDZ) publicly 'deauthored' or disaffiliated their works in the collection, citing the Zabludowicz family's links to the Israeli state; some observers attributed the couple's strained relationship with parts of the art world to that dispute. An accompanying online sale of additional works ran until June 30.",
-   "outcome": "Sale completed (about £15.4m with fees) with mixed reception; coverage revived discussion of the 2021 deauthoring protest. [FOLLOW-UP PENDING: results of the online sale closing June 30; any further artist response.]",
+   "outcome": "Sale completed (about 15.4m pounds with fees) with mixed reception; coverage revived discussion of the 2021 deauthoring protest. Update: the online sale closed on 30 June 2026 with 24 of 44 lots unsold (ACI-206-A).",
    "tags": "Resistance, Geopolitics",
    "court_case": "No",
    "coverage_tier": "International",
@@ -95,10 +95,45 @@
    "themes": [
     10
    ],
-   "notes": "New parent. Borderline: the live news is a market sale, with the underlying controversy being the 2021 BDZ 'deauthoring' protest over the collectors' Israel ties — logged as a documented art-world protest revived by the sale, flagged for editorial review. Theme 10 (Art and Capital). The 'controversial' framing is attributed to coverage, not asserted in the Index's voice. [FOLLOW-UP PENDING]",
+   "notes": "New parent. Borderline: the live news is a market sale, with the underlying controversy being the 2021 BDZ 'deauthoring' protest over the collectors' Israel ties — logged as a documented art-world protest revived by the sale, flagged for editorial review. Theme 10 (Art and Capital). The 'controversial' framing is attributed to coverage, not asserted in the Index's voice.",
    "interested_parties": "Anita and Poju Zabludowicz (collectors); Christie's; Boycott/Divest Zabludowicz (BDZ) artists and cultural workers",
    "coverage_geography": "UK, Europe, US",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-206-A",
+   "entry_id": "206-A",
+   "seq": 774,
+   "title": "Zabludowicz sale: more than half of Christie's online lots fail to sell",
+   "artist": "Various (incl. Julian Schnabel; Brendan Fowler)",
+   "institution": "Christie's (London); Zabludowicz Collection (Anita and Poju Zabludowicz)",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Online sale 18-30 June 2026",
+   "date_discovered": "2026-10-05",
+   "sort_date": "2026-06-30",
+   "description": "The online portion of Christie's sale of works from the Zabludowicz Collection - 44 lower-value lots offered from 18 to 30 June 2026 - saw 24 lots fail to sell and realised 95,377 pounds against a presale estimate of 292,000 to 435,400 pounds, Artnet News reported. Artnet said the online lots were dominated by artists the collectors had bought during the late-2000s emerging-art boom and that the result reflected sharply cooled demand for that generation; it noted that a Brendan Fowler assemblage estimated at 500 to 700 pounds sold for 127 pounds, while the top-estimated lot, an untitled 2011 Julian Schnabel painting estimated at 60,000 to 80,000 pounds, went unsold. Artforum also reported on the weak online result. The online sale followed the live Christie's London auction (ACI-206).",
+   "outcome": "The online sale closed on 30 June 2026 with 24 of 44 lots unsold; no further artist response was reported.",
+   "tags": [
+    "Financialization"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Artnet News",
+    "Artforum"
+   ],
+   "source": "https://news.artnet.com/market/zabludowicz-collection-online-sale-christies-results-2785223",
+   "additional_sources": [
+    "https://www.artforum.com/news/renowned-zabludowicz-collection-flops-in-online-auction-1234753853/"
+   ],
+   "themes": [
+    10
+   ],
+   "notes": "Resolves the pending sale-results item at ACI-206 (the online sale closing 30 June). Queued backfill (DAILY_SCAN_ROUTINE.md Step 2.4a). THIN: figures come from Artnet News's results report (retrieved this run as a search-result snippet; a direct fetch was blocked) and are attributed inline; Artforum's report corroborates the weak result. The queue draft's ARTnews additional source was not retrieved this run and was replaced with Artforum, which was. No further artist response found.",
+   "interested_parties": "Christie's London; Anita and Poju Zabludowicz",
+   "coverage_geography": "UK, US",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-207",
@@ -15489,7 +15524,7 @@
    "date_discovered": "2026-07-01",
    "sort_date": "2026-06-30",
    "description": "Unionized workers at the Solomon R. Guggenheim Museum in New York, represented by UAW Local 2110, voted to authorize a strike, the union announced on June 30, 2026. As reported by Hyperallergic, ARTnews, The Art Newspaper and Artforum, the union said 93 percent of members voted in favor of striking “if necessary to win a fair contract”; no strike date was set. The vote came amid negotiations — ongoing since December 2025 — for the workers' second collective bargaining agreement. The union has cited job security, healthcare costs and inflation, seeking strengthened advance-notice-of-layoffs and severance provisions, and pointing to layoffs that affected roughly 20 staff in 2025. Per the coverage, the union sought a three-year contract with a 5 percent first-year raise and 4.25 percent in each of the following two years, while the museum offered a four-year agreement with a 3 percent first-year raise and 2.75 percent thereafter. The Art Newspaper noted the vote landed as the summer tourist season peaked.",
-   "outcome": "Strike authorized; no strike date set as of June 30, 2026, and negotiations continue. [FOLLOW-UP PENDING: whether a strike date is called and the outcome of second-contract negotiations.]",
+   "outcome": "Strike authorized; no strike date was set as of June 30, 2026. Update: the Guggenheim unit (UAW Local 2110) ratified a second contract by early October 2026, averting a strike (ACI-211-A).",
    "tags": "Labor dispute, Institutional crisis",
    "court_case": "No",
    "coverage_tier": "National",
@@ -15503,9 +15538,42 @@
    "themes": [
     4
    ],
-   "notes": "[FOLLOW-UP PENDING] Museum-labor cluster; Theme 4 (Institutional Risk). Same union (UAW Local 2110) as the Whitney unit tracked at ACI-128, but a distinct bargaining unit at a different institution — not a duplicate. Cross-references ACI-096 / 096-F (Seattle Art Museum / SAMWU), ACI-073 (American Folk Art Museum gala picket) and ACI-128 (Whitney / Local 2110 second contract): the second-contract campaigns and strike-authorization tactic recur across the New York and Seattle museum-labor landscape.",
+   "notes": "Museum-labor cluster; Theme 4 (Institutional Risk). Same union (UAW Local 2110) as the Whitney unit tracked at ACI-128, but a distinct bargaining unit at a different institution — not a duplicate. Cross-references ACI-096 / 096-F (Seattle Art Museum / SAMWU), ACI-073 (American Folk Art Museum gala picket) and ACI-128 (Whitney / Local 2110 second contract): the second-contract campaigns and strike-authorization tactic recur across the New York and Seattle museum-labor landscape.",
    "interested_parties": "UAW Local 2110 (union representing Guggenheim staff); Solomon R. Guggenheim Museum administration",
    "coverage_geography": "US, international arts press",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-211-A",
+   "entry_id": "211-A",
+   "seq": 771,
+   "title": "Guggenheim: UAW Local 2110 ratifies second contract as NYC museum unions avert strikes",
+   "artist": "N/A (museum labor dispute)",
+   "institution": "Solomon R. Guggenheim Museum, New York (UAW Local 2110)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Contracts ratified by early October 2026",
+   "date_discovered": "2026-10-05",
+   "sort_date": "2026-10-02",
+   "description": "Unionized workers at the Solomon R. Guggenheim Museum ratified a second contract, and workers at the Brooklyn Museum and the American Folk Art Museum ratified contracts as well, averting threatened strikes, Hyperallergic reported in early October 2026. The Guggenheim union (UAW Local 2110) had voted to authorize a strike at the end of June 2026 (see ACI-211), and unions at the Whitney, Brooklyn Museum, and American Folk Art Museum jointly voted to authorize strike action in September 2026. Hyperallergic reported that the Brooklyn Museum and the Guggenheim had drawn scrutiny in 2025 after initiating sweeping staff cuts that the institutions attributed to mounting financial constraints, and that workers bargained for higher pay and better working conditions. The report did not give specific contract terms. Hyperallergic added that Whitney Museum staff set a strike deadline of Monday, 5 October 2026, ahead of a Roy Lichtenstein retrospective opening that week.",
+   "outcome": "The Guggenheim, Brooklyn Museum, and American Folk Art Museum contracts were ratified, averting strikes at those institutions; the Whitney unit's 5 October strike deadline remained outstanding. [FOLLOW-UP PENDING: whether the Whitney unit (ACI-128) strikes at its 5 October 2026 deadline ahead of its Lichtenstein retrospective.]",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/three-nyc-museum-unions-ratify-contracts-averting-strikes/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "Resolves the pending second-contract question at ACI-211 (Guggenheim UAW Local 2110). Cross-references ACI-128 (Whitney / Local 2110, whose 5 October 2026 strike deadline remained open at the time of reporting), ACI-073 (American Folk Art Museum) and the wider NYC museum-labor cluster. ARTnews and Artforum also reported the ratifications but were bot-walled this run; cited to Hyperallergic (full text). [FOLLOW-UP PENDING]",
+   "interested_parties": "UAW Local 2110; Solomon R. Guggenheim Museum; Brooklyn Museum; American Folk Art Museum; Whitney Museum of American Art",
+   "coverage_geography": "US",
    "follow_up_pending": true
   },
   {
@@ -19955,7 +20023,7 @@
    "date_discovered": "2026-08-03",
    "sort_date": "2026-08-03",
    "description": "According to The Art Newspaper, staff at Royal Museums Greenwich (RMG) in London - which comprises the National Maritime Museum, the Queen's House, the Royal Observatory and the Cutty Sark - represented by the Prospect union have voted to strike on 11 and 12 August 2026 over pay and working conditions, following an already-agreed two-year pay settlement. Prospect says its members are seeking London Living Wage accreditation, paid breaks for security staff, clearer policy on fixed-term contracts and improved training. RMG said it had engaged in constructive negotiations and an ACAS conciliation meeting, expressed disappointment at the planned action while noting progress made, and said it intends to remain open during the strike. Prospect General Secretary Mike Clancy framed the action as part of a wider push across the UK heritage sector, saying members had been taken advantage of for too long and were signalling they would no longer accept it.",
-   "outcome": "Strike scheduled for 11-12 August 2026; the museum plans to stay open; the pay-and-conditions dispute is unresolved. [FOLLOW-UP PENDING: whether the strike proceeds on 11-12 August, its impact, and any settlement.]",
+   "outcome": "Strike scheduled for 11-12 August 2026; the museum planned to stay open. Update: the strike went ahead on 11-12 August 2026 (ACI-295-A).",
    "tags": "Labor dispute",
    "court_case": "No",
    "coverage_tier": "National",
@@ -19968,7 +20036,40 @@
    "notes": "New parent. UK heritage-sector labour-dispute wave, summer 2026: cross-reference ACI-284 and ACI-284-A (V&A and V&A East Storehouse strike ballots, same summer, PCS and Prospect). Broader museum-labour cluster: ACI-264 (Venice state-museum heat strike threat), ACI-211 (Guggenheim NY UAW strike authorisation), ACI-128 (Whitney union), ACI-268 (Art Institute of Chicago custodial outsourcing). Prospect frames a coordinated summer of heritage-sector action. Staging: escalating (strike voted and scheduled, not yet held). Full-text source (The Art Newspaper) reached; no quotations drawn.",
    "interested_parties": "Prospect union (General Secretary Mike Clancy); Royal Museums Greenwich management; RMG security and front-of-house staff",
    "coverage_geography": "UK",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-295-A",
+   "entry_id": "295-A",
+   "seq": 773,
+   "title": "Royal Museums Greenwich: Prospect members strike on 11-12 August over pay and conditions",
+   "artist": "N/A",
+   "institution": "Royal Museums Greenwich (National Maritime Museum, Queen's House, Royal Observatory, Cutty Sark); Prospect union",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Strike held 11-12 August 2026",
+   "date_discovered": "2026-10-05",
+   "sort_date": "2026-08-11",
+   "description": "Staff at Royal Museums Greenwich went ahead with a two-day strike on 11-12 August 2026, the Prospect union reported, with members mounting pickets across the site, including at the Royal Observatory, and holding a rally at the Cutty Sark; the action coincided with a solar eclipse visible from the UK. In its preview of the ballot (4 August 2026), the Museums Association reported that Prospect said 77% of members who voted backed strike action on a 90% turnout, with members seeking London Living Wage accreditation this year, protection of existing Christmas-closure annual leave, paid breaks for security workers, stronger policies on fixed-term contracts, and improved training and development. Prospect general secretary Mike Clancy said members \"don't want to take strike action, but they have been left with no choice by the attitude taken by senior management.\" Royal Museums Greenwich said negotiations had \"already produced a two-year pay settlement covering 2026/27 and 2027/28, which has been agreed by Prospect and implemented.\"",
+   "outcome": "The strike was held on 11-12 August 2026; no settlement of the remaining non-pay issues was reported.",
+   "tags": [
+    "Labor dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Museums Association",
+    "Prospect"
+   ],
+   "source": "https://www.museumsassociation.org/museums-journal/news/2026/08/union-members-at-royal-museums-greenwich-to-strike/",
+   "additional_sources": [
+    "https://prospect.org.uk/news/royal-museums-greenwich-workers-take-to-picket-lines-in-two-days-of-strike-action-on-day-of-solar-eclipse"
+   ],
+   "themes": [],
+   "notes": "Resolves the pending item at ACI-295 (whether the 11-12 August strike proceeded): it did. Queued backfill (DAILY_SCAN_ROUTINE.md Step 2.4a). That the strike went ahead rests on the Prospect union's own account (participant, attributed); the vote figures and both quotations are verbatim from the Museums Association's 4 August ballot preview, re-fetched this run as full text. The maintainer-supplied Clancy quote carried in the queue draft could not be re-verified against a retrieved source this run and was dropped. No settlement of the non-pay issues was found.",
+   "interested_parties": "Prospect union (general secretary Mike Clancy); Royal Museums Greenwich management",
+   "coverage_geography": "UK",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-296",
@@ -23180,7 +23281,7 @@
    "date_discovered": "2026-09-21",
    "sort_date": "2026-09-20",
    "description": "Brussels Minister-President Boris Dilliès, of the center-right francophone Mouvement Reformateur, moved to dismiss Yves Goldstein, the founding general director of Kanal-Centre Pompidou — the Belgian capital's forthcoming major modern and contemporary art museum — amid criticism that the institution is too large and costly for taxpayers, according to ARTnews. ARTnews reports that after left-leaning political leaders opposed the dismissal, Dillies backed down but gave Goldstein an ultimatum to either leave immediately or remain until the museum's opening with sharply reduced powers. Goldstein, who has led the project for over a decade, had already announced in May 2026 that he would step down once the institution was operational. ARTnews reports the museum, built in a former Citroen factory, cost the regional government over $290 million and is due to open in November 2026.",
-   "outcome": "As reported, Goldstein remained in place under the ultimatum pending the museum's November 2026 opening, with no formal dismissal enacted at the time of reporting. [FOLLOW-UP PENDING: whether Goldstein is removed or his powers curtailed, and the museum's November 2026 opening.]",
+   "outcome": "As reported, Goldstein remained in place under the ultimatum pending the museum's November 2026 opening, with no formal dismissal enacted at the time of reporting. Update: by October 2026, Goldstein was reported to be leaving immediately after the museum's 28 November 2026 opening, amid funding-sustainability doubts and criticism of the project's cost (ACI-393-A). [FOLLOW-UP PENDING: the museum's 28 November 2026 opening.]",
    "tags": [
     "Institutional crisis",
     "Political interference",
@@ -23199,6 +23300,40 @@
    "notes": "New parent (provisional ACI-393). THIN / SINGLE-SOURCE: drafted from ARTnews's search-result snippet; a direct fetch of ARTnews was bot-walled (402/tollbit) this run. The Brussels Times article retrieved this run covers Goldstein's earlier May 2026 planned departure, not the September ouster move, so it is not cited. The exact date of the ouster move was not established from the snippet — needs enrichment on the Europe (Wednesday) trawl. Fits the pattern of political pressure on publicly funded cultural institutions.",
    "interested_parties": "Minister-President Boris Dillies (Mouvement Reformateur); director Yves Goldstein; Brussels regional government",
    "coverage_geography": "Belgium, US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-393-A",
+   "entry_id": "393-A",
+   "seq": 772,
+   "title": "Kanal-Centre Pompidou: funding doubts grow and director Goldstein to leave after November opening",
+   "artist": "N/A",
+   "institution": "Kanal-Centre Pompidou, Brussels",
+   "country": "Belgium",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported October 2026; museum opens 28 November 2026",
+   "date_discovered": "2026-10-05",
+   "sort_date": "2026-10-01",
+   "description": "Ahead of the 28 November 2026 opening of Kanal-Centre Pompidou, the roughly 230-million-euro modern and contemporary art museum built in a former Citroen factory in Brussels, The Art Newspaper reported doubts over the institution's financial sustainability. Public funding is projected to fall from 28 million euros in 2026 to 10 million euros a year by 2029, after which the Brussels government expects the museum to work increasingly with private investors and become self-sustaining; the museum also pays about 2 million euros a year for five years to borrow works from the Centre Pompidou in Paris. Managing director Yves Goldstein is to depart immediately after the opening, with officials citing a difference of opinion over Kanal's future (see ACI-393). The Art Newspaper reported that Brussels regional assembly member and former media minister Benjamin Dalle criticized the project as a flawed top-down political undertaking the city cannot afford, and that the Federation des arts plastiques called for ending the Centre Pompidou relationship and raised concerns about the place of Belgian artists in the programming and access for Brussels residents. Artistic director Kasia Redzisz defended the museum's community role and projected 550,000 annual visitors by 2030.",
+   "outcome": "As reported, Goldstein is to leave immediately after the November 2026 opening and the museum faces projected funding reductions and calls to revise its Centre Pompidou arrangement. [FOLLOW-UP PENDING: the museum's 28 November 2026 opening and whether the funding and governance concerns are addressed.]",
+   "tags": [
+    "Institutional crisis",
+    "Funding dispute",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/01/doubts-over-financial-sustainability-of-brusselss-new-kanal-museum-cloud-upcoming-opening",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "Develops ACI-393 (the Brussels Minister-President's move against the founding director): Goldstein's post-opening departure is now reported, together with funding-sustainability doubts and criticism of the project's cost and its treatment of Belgian artists. Full-text source (The Art Newspaper). [FOLLOW-UP PENDING]",
+   "interested_parties": "Yves Goldstein (managing director); Kasia Redzisz (artistic director); Benjamin Dalle (Brussels regional assembly); Federation des arts plastiques; Brussels regional government",
+   "coverage_geography": "Belgium, Europe",
    "follow_up_pending": true
   },
   {
@@ -23671,6 +23806,38 @@
    "notes": "New parent. Public-funding/expression dispute (theme 2): a departmental subsidy suspended after a pressure campaign over a programmed author. Externalised-censorship / funding-conditionality frame; governance-friction in a democracy. [FOLLOW-UP PENDING] mirrored in outcome. Drafted from Sceneweb; enrich on a Europe (Wednesday) trawl with Le Monde and regional outlets.",
    "interested_parties": "Martine Vassal (president, Bouches-du-Rhône departmental council); Louisa Yousfi; Festival Actoral; city of Marseille; PACA region",
    "coverage_geography": "France",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-416",
+   "entry_id": "416",
+   "seq": 770,
+   "title": "Tom of Finland Foundation: 41 former residents demand board secure the foundation's mission",
+   "artist": "N/A",
+   "institution": "Tom of Finland Foundation (TOM House), Los Angeles",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Open letter released 28 September 2026",
+   "date_discovered": "2026-10-05",
+   "sort_date": "2026-09-28",
+   "description": "Forty-one former artists-in-residence at the Tom of Finland Foundation released an open letter on 28 September 2026 calling on the foundation's board to guarantee the continuation of its mission of supporting queer and erotic artists, Hyperallergic reported. Coordinated by 2022 resident Carta Monir, the signatories said the foundation's Artist-in-Residence program had been discontinued without prior communication or warning and that nearly the entire staff at TOM House, the foundation's Los Angeles headquarters, had been laid off in June 2026; they also cited a lack of board transparency and responsiveness. The letter asks the board to commit to continuing residencies, mentorship, exhibitions, and access to the archive. Hyperallergic reported that the foundation and board had not provided a statement. Monir told Hyperallergic that it \"felt vital to write the letter\" and that \"unless there's public scrutiny, they won't be transparent.\"",
+   "outcome": "As reported, the open letter awaited a board response and the foundation had not commented. [FOLLOW-UP PENDING: whether the board responds and whether the residency program and TOM House staffing are restored.]",
+   "tags": [
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/queer-artists-say-tom-of-finland-foundation-has-lost-its-way/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "New parent (provisional ACI-416). Theme 4 (Institutional Risk): former beneficiaries contesting an arts institution's direction and governance. Single-source (Hyperallergic, full text); enrich if other outlets pick it up. [FOLLOW-UP PENDING]",
+   "interested_parties": "Carta Monir (2022 resident, letter coordinator); 41 former Tom of Finland Foundation artists-in-residence; Tom of Finland Foundation board",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
