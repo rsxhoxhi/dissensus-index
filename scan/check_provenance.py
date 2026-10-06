@@ -42,6 +42,7 @@ DOMAIN_TO_OUTLET = {
     "nytimes.com": "New York Times",
     "washingtonpost.com": "Washington Post",
     "theguardian.com": "The Guardian",
+    "thewrap.com": "TheWrap",
     "bbc.com": "BBC",
     "bbc.co.uk": "BBC",
     "reuters.com": "Reuters",

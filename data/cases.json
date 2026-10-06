@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 723
+  "total_cases": 727
  },
  "cases": [
   {
@@ -16387,6 +16387,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BL",
+   "entry_id": "005-BL",
+   "seq": 764,
+   "title": "Kennedy Center: 49th Honors moved to Capital One Arena as the shuttered building stays closed",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts; Capital One Arena",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Relocation reported October 2, 2026; ceremony set for December 7, 2026",
+   "date_discovered": "2026-10-06",
+   "sort_date": "2026-10-02",
+   "description": "TheWrap reported on October 2, 2026 that the 49th Kennedy Center Honors will be held at Washington's Capital One Arena on December 7, 2026 -- the first time the ceremony will take place outside the Kennedy Center since the awards began in 1978. According to TheWrap, the venue change follows the closure of the Kennedy Center's main building, which officials shut while assessing structural-safety risks, including a partial ceiling collapse (see ACI-005 and its closure sub-entries). Capital One Arena seats roughly 20,000, far more than the Kennedy Center Opera House's 2,347. TheWrap reported that a broadcast partner for the 2026 ceremony had not been named; CBS, which televised the Honors from 1978 through 2025, saw its contract expire after the 2025 telecast, which drew 3.01 million viewers, the smallest audience in the Honors' history. The relocation comes amid the continuing dispute over the building's name, after a federal judge ruled that only Congress can rename the center and ordered President Trump's name removed.",
+   "outcome": "The 2026 ceremony moves to Capital One Arena on December 7 while the Kennedy Center building remains closed for safety repairs; honorees and a broadcast partner had not been announced. [FOLLOW-UP PENDING: the December 7 ceremony, the honorees, and the 2026 broadcast partner.]",
+   "tags": [
+    "Institutional crisis",
+    "Political interference"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "TheWrap"
+   ],
+   "source": "https://www.thewrap.com/culture-lifestyle/culture/kennedy-center-honors-capital-one-arena-cbs/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center). Development: the Honors ceremony relocated to Capital One Arena for the first time since 1978, a consequence of the ongoing building closure tracked in the ACI-005 closure thread. Drafted from TheWrap (full text). [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "John F. Kennedy Center for the Performing Arts; Capital One Arena; CBS; Kennedy Center board of trustees",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -22775,7 +22809,7 @@
    "date_discovered": "2026-09-16",
    "sort_date": "2026-09-15",
    "description": "Unionized staff at three New York museums — the Whitney Museum of American Art, the Brooklyn Museum, and the American Folk Art Museum — have voted to authorize strike action, Hyperallergic reported on 15 September 2026. All three unions are represented by United Auto Workers (UAW) Local 2110. Hyperallergic reports that American Folk Art Museum staff voted unanimously to authorize a strike, that the Whitney and Brooklyn Museum contracts expired in the summer of 2026, and that the American Folk Art Museum union, formed in 2024, has been negotiating for about two years. No strike dates have been set; Hyperallergic reports the unions voted to set a strike deadline if necessary, noting that each museum has a major exhibition opening in early October. Hyperallergic quotes the American Folk Art Museum's Director of Information Technology, Richard Ho: “Staff should be able to afford to live in the city they work in.” Hyperallergic notes that the Guggenheim Museum union voted to authorize strike action in June 2026 after stalled negotiations.",
-   "outcome": "Staff at all three museums have authorized strikes but set no strike date; the unions voted to set a strike deadline if necessary, noting each museum has a major exhibition opening in early October; contract negotiations continue. [FOLLOW-UP PENDING: whether any of the three unions calls an actual strike, and the outcome of the contract negotiations.]",
+   "outcome": "Staff at all three museums authorized strikes in September 2026; contract negotiations continued through late September. Update: in early October 2026 all four UAW Local 2110 museum unions (Whitney, Brooklyn, American Folk Art Museum and the Guggenheim) ratified new contracts and no strike occurred (see ACI-386-C).",
    "tags": [
     "Labor dispute",
     "Institutional crisis"
@@ -22793,7 +22827,7 @@
    "notes": "New parent. Coordinated strike-authorization votes across three New York museums whose unions are all UAW Local 2110. Related labor cases: ACI-211 (Guggenheim / UAW Local 2110 strike authorization, June 2026), ACI-128 (Whitney union gala rally during second-contract talks, May 2026), ACI-096 (Seattle Art Museum organizing), ACI-284 (V&A strikes). Hyperallergic is the full-text reference; the Richard Ho quote is from the Hyperallergic text. ARTnews also covered the votes but was not independently retrieved this run (site bot-wall). FOR REVIEW: whether this should stand as a new parent or fold into ACI-128 (Whitney-specific) as a sub-entry — kept as a parent here because it spans three institutions.",
    "interested_parties": "UAW Local 2110; Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum; Richard Ho (American Folk Art Museum)",
    "coverage_geography": "US",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-386-A",
@@ -22808,7 +22842,7 @@
    "date_discovered": "2026-09-29",
    "sort_date": "2026-09-28",
    "description": "Hyperallergic reported on September 28, 2026 that unionized staff at the Whitney Museum of American Art, represented by UAW Local 2110, set a strike date of Monday, October 5, 2026 if they do not reach a contract agreement, a deadline timed to the preview week of the museum's Roy Lichtenstein retrospective, which opens to the public on October 11. Workers at the Whitney, the Brooklyn Museum and the American Folk Art Museum -- all UAW Local 2110 -- voted earlier in September to authorize strikes. Staff are seeking a base salary of about $71,000, which Hyperallergic described as the minimum a single, childless adult needs to live sustainably in New York City. The union's chairperson told Hyperallergic, “We'd rather be working and doing our jobs, but our wages are untenable for making ends meet in New York City.” The previous three-year contract expired in June 2026.",
-   "outcome": "As of September 28, 2026 the Whitney strike was scheduled for October 5; no agreement had been reached, and the Brooklyn Museum and American Folk Art Museum unions had not announced their own strike dates. [FOLLOW-UP PENDING: whether the October 5 strike proceeds, its effect on the October 11 Lichtenstein opening, and whether the Brooklyn and AFAM unions set dates.]",
+   "outcome": "The Whitney strike was scheduled for October 5, 2026. Update: the Whitney union ratified its contract on October 4, 2026, one day before the scheduled strike, and no strike occurred; the Brooklyn and American Folk Art Museum unions also settled (see ACI-386-C).",
    "tags": [
     "Labor dispute",
     "Institutional crisis"
@@ -22823,10 +22857,43 @@
    "themes": [
     4
    ],
-   "notes": "Sub-entry of ACI-386 (strike authorization across the three UAW Local 2110 museums). Development: the Whitney union set an October 5 strike date. Related labor cases: ACI-128 (Whitney union gala rally), ACI-073 (American Folk Art Museum), ACI-211 (Guggenheim / UAW Local 2110). [FOLLOW-UP PENDING] mirrored in outcome.",
+   "notes": "Sub-entry of ACI-386 (strike authorization across the three UAW Local 2110 museums). Development: the Whitney union set an October 5 strike date. Related labor cases: ACI-128 (Whitney union gala rally), ACI-073 (American Folk Art Museum), ACI-211 (Guggenheim / UAW Local 2110).",
    "interested_parties": "UAW Local 2110; Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum",
    "coverage_geography": "US",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-386-C",
+   "entry_id": "386-C",
+   "seq": 765,
+   "title": "NYC museum unions ratify contracts, averting strikes as Whitney settles before its Lichtenstein opening",
+   "artist": "N/A",
+   "institution": "Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum; Solomon R. Guggenheim Museum",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Whitney ratification October 4, 2026",
+   "date_discovered": "2026-10-06",
+   "sort_date": "2026-10-04",
+   "description": "Hyperallergic reported that the Whitney Museum of American Art's union, UAW Local 2110, ratified a new contract on Sunday, October 4, 2026, averting a strike that had been set to begin on October 5 during the preview week of the museum's Roy Lichtenstein retrospective, 'Like New' (see ACI-386, ACI-386-A). According to Hyperallergic, the four-year agreement includes pay increases of at least 14.75 percent, a wage floor of 26 dollars an hour for visitor-experience, membership and retail associates, longevity bonuses for staff with ten or more years of service, up to 12 weeks of paid parental leave, increased bereavement leave, and strengthened health-and-safety provisions. Hyperallergic reported that the unions at the Brooklyn Museum, the American Folk Art Museum and the Guggenheim Museum -- all UAW Local 2110 -- had secured contracts in recent days without setting strike deadlines. Hyperallergic quoted Erika Wentworth of the Whitney's graphic-design department, in a UAW Local 2110 statement, saying, “Solidarity across all ranks of our union made a huge difference.”",
+   "outcome": "All four museum unions reached ratified contracts and no strike occurred; the Lichtenstein retrospective's preview week was not disrupted. This resolves the strike-authorization and October 5 deadline tracked at ACI-386 and ACI-386-A.",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/whitney-museum-union-ratifies-contract-on-eve-of-strike/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "Sub-entry of ACI-386 (strike authorization across the three UAW Local 2110 museums); resolves the pending questions at ACI-386 and ACI-386-A. The Guggenheim's own UAW Local 2110 dispute is tracked at ACI-211; the American Folk Art Museum at ACI-073; earlier Whitney union action at ACI-128. Drafted from Hyperallergic (full text).",
+   "interested_parties": "UAW Local 2110; Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum; Solomon R. Guggenheim Museum; Erika Wentworth",
+   "coverage_geography": "US",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-387",
@@ -23672,6 +23739,68 @@
    "interested_parties": "Martine Vassal (president, Bouches-du-Rhône departmental council); Louisa Yousfi; Festival Actoral; city of Marseille; PACA region",
    "coverage_geography": "France",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-417",
+   "entry_id": "417",
+   "seq": 766,
+   "title": "Stanley Chow weighs legal action after Conservatives put his Andy Burnham portrait on conference bottles",
+   "artist": "Stanley Chow",
+   "institution": "N/A",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported October 5, 2026; Conservative Party conference",
+   "date_discovered": "2026-10-06",
+   "sort_date": "2026-10-05",
+   "description": "The Guardian reported on October 5, 2026 that Manchester-based illustrator Stanley Chow, who works for the New Yorker, is considering legal action after the Conservative Party used his cartoon portrait of Greater Manchester mayor Andy Burnham without his consent. According to the Guardian, the party printed the image on water bottles handed out at its party conference alongside the slogan Bottler Burnham, mocking the mayor. Chow is the creator of the widely recognised portrait of Burnham.",
+   "outcome": "Chow said he was weighing legal action over the unauthorised use of his portrait. [FOLLOW-UP PENDING: whether Chow pursues a claim and how the Conservative Party responds.]",
+   "tags": [
+    "Copyright/ownership"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Guardian"
+   ],
+   "source": "https://www.theguardian.com/politics/2026/oct/05/artist-cartoon-conservatives-use-his-burnham-portrait",
+   "additional_sources": [],
+   "themes": [
+    11
+   ],
+   "notes": "New parent. Copyright/consent dispute over the political use of an artwork (theme 11, Authorship & Appropriation). Thin dragnet entry drafted from the Guardian's own RSS summary (snippet-grade; the full article is paywalled to the scan's tools) -- enrich on a Europe/UK (Wednesday) trawl with the full text. Chow's Burnham portrait dates to 2020. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Stanley Chow; Conservative Party; Andy Burnham (mayor of Greater Manchester)",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-418",
+   "entry_id": "418",
+   "seq": 767,
+   "title": "Salvador Dali-designed binding of the 'Apocalypse' book stolen from an Issoire art centre",
+   "artist": "Salvador Dali",
+   "institution": "Centre d'art contemporain, Issoire",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Theft reported October 5, 2026",
+   "date_discovered": "2026-10-06",
+   "sort_date": "2026-10-05",
+   "description": "Le Monde reported on October 5, 2026 that the ornate binding (ecrin) of the Livre de l'Apocalypse -- the illustrated Apocalypse selon Saint Jean, whose cover was designed by Salvador Dali -- was stolen from the contemporary art centre in Issoire, in France's Auvergne region. According to Le Monde, the book was valued at 2 million francs when it was made, which its owner, recounting the work in 2003, said had made it the most expensive book in the world at the time.",
+   "outcome": "The Dali-designed binding was reported stolen from the Issoire art centre. [FOLLOW-UP PENDING: the investigation into the theft and any recovery of the work.]",
+   "tags": [
+    "Theft"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Le Monde"
+   ],
+   "source": "https://www.lemonde.fr/culture/article/2026/10/05/la-couverture-d-un-livre-exceptionnel-realisee-par-salvador-dali-volee-dans-un-musee-d-auvergne_6788577_3246.html",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Theft of a significant cultural object (theft = a contested claim of ownership, CLAUDE.md section 7). Thin dragnet entry drafted from Le Monde's own RSS summary (snippet-grade; the full article is paywalled to the scan's tools) -- enrich on a Europe (Wednesday) trawl with the full text and French regional coverage (La Montagne, France Bleu Pays d'Auvergne). The famed gold-and-gemstone cover was designed by Dali for the 1950s-60s livre-objet associated with publisher Joseph Foret. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Centre d'art contemporain, Issoire; Salvador Dali (designer of the binding)",
+   "coverage_geography": "France",
+   "follow_up_pending": false
   }
  ]
 }
