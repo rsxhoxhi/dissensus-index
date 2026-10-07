@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 723
+  "total_cases": 728
  },
  "cases": [
   {
@@ -16387,6 +16387,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BM",
+   "entry_id": "005-BM",
+   "seq": 764,
+   "title": "Kennedy Center: Trump lawyers cite executive privilege to withhold records sought in closure suit",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 6 October 2026",
+   "date_discovered": "2026-10-07",
+   "sort_date": "2026-10-06",
+   "description": "The New York Times reported on 6 October 2026 that lawyers for the Trump administration cited executive privilege in declining to turn over Kennedy Center records sought by the Democratic lawmaker who is suing to block the closure of the performing arts venue. [Thin entry: drawn from a New York Times metadata abstract.]",
+   "outcome": "The records dispute continued within the suit to block the Kennedy Center's closure. [FOLLOW-UP PENDING: the court's handling of the executive-privilege claim and disclosure of the withheld records.]",
+   "tags": [
+    "Political interference",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/10/06/arts/music/kennedy-center-records-trump-lawyers.html",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center). Thin entry from an NYT metadata abstract (Julia Jacobs, 6 Oct 2026). Follows the September closure-extension and whistle-blower sub-entries (ACI-005-BI/-BJ). [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Trump administration lawyers; the Democratic lawmaker suing to block the closure (Rep. Joyce Beatty in the underlying suit); Kennedy Center",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -19702,7 +19736,7 @@
    "date_discovered": "2026-07-29",
    "sort_date": "2026-07-28",
    "description": "According to ARTnews, Hyperallergic and ArtReview, two activists from Youth Demand — an offshoot of the climate group Just Stop Oil — affixed a photograph of a Gazan mother holding her injured child (an image taken by Palestinian journalist Ali Jadallah during Israeli strikes on the Al-Shifa Hospital area) to the protective glass over Picasso's 1901 painting 'Motherhood (La Maternite)' at the National Gallery on 9 October 2024, then poured red water-based paint on the gallery floor. The National Gallery said the painting and its frame were undamaged; the poured paint, however, reached the gallery floor, and ARTnews reports trial testimony describing paint on the marble skirting, a stanchion and rope barriers and seeping into floor sockets, with a section of the marble jointing having to be replaced. On 28 July 2026 a jury convicted Jai Halai and Monday-Malachi Rosenfeld of criminal damage; sentencing was set for September 2026. At the time of the 2024 action the pair framed it as a demand on UK policy: per Hyperallergic and ArtReview, Halai said the demand was for 'a two-way arms embargo on Israel now,' and Rosenfeld said 'as a Jew, I feel like it's my duty to call out the genocide being committed in Gaza.'",
-   "outcome": "A jury convicted both activists of criminal damage on 28 July 2026; sentencing was set for September 2026. [FOLLOW-UP PENDING: the September 2026 sentencing and any appeal.]",
+   "outcome": "A jury convicted both activists of criminal damage on 28 July 2026; at sentencing, reported 8 September 2026, neither received a custodial sentence (ACI-287-A).",
    "tags": "Protest art, Legal challenge",
    "court_case": "Yes",
    "coverage_tier": "International",
@@ -19722,7 +19756,40 @@
    "notes": "New parent. Youth Demand (an offshoot of Just Stop Oil) protest action of 9 October 2024 at the National Gallery; jury conviction 28 July 2026. Wednesday Europe/UK trawl. Describe-don't-judge: the Index records the criminal-damage conviction and the activists' stated pro-Palestinian rationale; several Jewish-community outlets (Algemeiner, Jewish News, Jerusalem Post) characterized the action as antisemitic — that framing is theirs, not the Index's, and is not adopted as a tag. GB News covered it but is on the excluded-sources list — seen, not cited. The painting and frame were undamaged; the criminal damage concerned the gallery floor, per trial testimony reported by ARTnews. Theme 6 (iconoclasm / when is protest-targeting of art justified) applied in its analytical sense even though the work itself was undamaged. Reference source ARTnews (conviction and trial detail; article body truncates/paywalls on automated fetch, so ARTnews is at snippet grade — the floor-damage detail is paraphrased, not quoted); Hyperallergic and ArtReview (original-action detail and the activist quotes, full text). Correction (2026-07-29, on maintainer review): an earlier draft stated the floor 'sustained no damage' (self-contradictory with 'required repair') and asserted a nine-hour jury deliberation and a bail release by 'Judge David Tomlinson'; the deliberation length and the named judge/bail detail could not be traced to a retrieved reliable source and were removed, and the floor-damage description corrected to match the ARTnews trial testimony.",
    "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (Youth Demand); National Gallery, London; Ali Jadallah (photographer of the image used)",
    "coverage_geography": "UK, international",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-287-A",
+   "entry_id": "287-A",
+   "seq": 765,
+   "title": "Picasso's 'Motherhood' protest: Youth Demand activists sentenced, neither jailed",
+   "artist": "N/A",
+   "institution": "National Gallery, London; Southwark Crown Court",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Sentencing reported 8 September 2026",
+   "date_discovered": "2026-10-07",
+   "sort_date": "2026-09-08",
+   "description": "The National News Desk reported on 8 September 2026 that the two Youth Demand activists convicted of criminal damage over the 'Motherhood' protest (see ACI-287) did not receive custodial sentences. The outlet reported that the sentencing judge said, “You both joined a protest group called Youth Demand. You staged an incident in front of a work of art called 'Motherhood,'” and that “it is agreed that you did not attempt to cause damage to the work of art or to the transparent covering and frame,” with the pair's young ages — early twenties at the time of the offence — cited as a sentencing consideration.",
+   "outcome": "Both activists were convicted but neither was jailed; the sentencing resolves the September 2026 flag at ACI-287.",
+   "tags": [
+    "Protest art",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The National News Desk"
+   ],
+   "source": "https://katv.com/news/nation-world/pro-palestine-activists-found-guilty-for-damages-after-targeting-well-known-art-piece-jury-national-gallery",
+   "additional_sources": [],
+   "themes": [
+    6
+   ],
+   "notes": "Sub-entry of ACI-287; resolves the September 2026 sentencing flag. Drafted from The National News Desk (Charlotte Hazard, 8 Sep 2026; full text, quotes verified verbatim), a Sinclair national-wire item carried across its affiliates — single-source for this development this run; UK outlets likely covered the sentencing but were not retrieved. That syndicated report placed the gallery in Washington, DC; the venue is the National Gallery, London, per the parent (ACI-287), so this entry does not restate it. No appeal reported as of the run date.",
+   "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (defendants); the sentencing judge; Youth Demand",
+   "coverage_geography": "UK, US",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-288",
@@ -23670,6 +23737,101 @@
    ],
    "notes": "New parent. Public-funding/expression dispute (theme 2): a departmental subsidy suspended after a pressure campaign over a programmed author. Externalised-censorship / funding-conditionality frame; governance-friction in a democracy. [FOLLOW-UP PENDING] mirrored in outcome. Drafted from Sceneweb; enrich on a Europe (Wednesday) trawl with Le Monde and regional outlets.",
    "interested_parties": "Martine Vassal (president, Bouches-du-Rhône departmental council); Louisa Yousfi; Festival Actoral; city of Marseille; PACA region",
+   "coverage_geography": "France",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-419",
+   "entry_id": "419",
+   "seq": 766,
+   "title": "Lviv rebuilds Roman Shukhevych Museum; competition-winning architect withdrew citing political pressure",
+   "artist": "N/A",
+   "institution": "Roman Shukhevych Museum, Lviv; City of Lviv; New Museum (NGO)",
+   "country": "Ukraine",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 7 October 2026 (building destroyed 1 January 2024; architect withdrew March 2026)",
+   "date_discovered": "2026-10-07",
+   "sort_date": "2026-10-07",
+   "description": "The Art Newspaper reported on 7 October 2026 that the city of Lviv and the NGO New Museum are rebuilding the museum dedicated to Roman Shukhevych, a World War II Ukrainian nationalist partisan commander, in the Lviv building where he was killed by Soviet troops in 1950; the museum had been destroyed by a Russian drone strike on 1 January 2024. According to the Art Newspaper, Shukhevych is honoured by many Ukrainians as a figure in the country's fight for independence but is accused by Russia and by Polish historians of Nazi collaboration and wartime atrocities; the paper reported that many Polish historians have concluded his battalion took part in anti-Jewish pogroms and in the killing and ethnic cleansing of Poles in disputed territories, and that Poland warned against including him in Ukraine's National Pantheon. The firm of Lviv architect Andriy Lesyuk, which won the design competition, withdrew in March 2026, the paper reported, citing “decisions that contradict our professional principles” and “political pressure.” Reconstruction is privately and corporately funded, with a possible opening on 5 March 2027.",
+   "outcome": "Reconstruction is under way with private and corporate funding and a possible opening on 5 March 2027. [FOLLOW-UP PENDING: the museum's reconstruction and opening, and any further dispute over Shukhevych's commemoration.]",
+   "tags": [
+    "Design controversy",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/07/ukraine-rebuilds-museum-devoted-to-controversial-national-figure",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Wednesday Europe trawl (Ukraine). Drafted from The Art Newspaper (Sophia Kishkovsky, 7 Oct 2026; full text; quotes verified verbatim). Describe-don't-judge: the Nazi-collaboration and atrocity accusations are attributed to Russia and to Polish historians as the paper reports them, not stated in the Index's voice. Building destroyed by a Russian drone strike on 1 Jan 2024 (Russia-Ukraine war context). No clean theme fit; left empty.",
+   "interested_parties": "City of Lviv; New Museum (NGO); the firm of architect Andriy Lesyuk (withdrew); Poland (warned against National Pantheon inclusion); Russia",
+   "coverage_geography": "Ukraine, Poland, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-420",
+   "entry_id": "420",
+   "seq": 767,
+   "title": "Activists rally outside MoMA demanding Leon Black's removal from the board over Epstein ties",
+   "artist": "N/A",
+   "institution": "Museum of Modern Art (MoMA), New York",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "6 October 2026",
+   "date_discovered": "2026-10-07",
+   "sort_date": "2026-10-06",
+   "description": "Hyperallergic reported that on 6 October 2026 more than 25 activists demonstrated outside the Museum of Modern Art (MoMA) to demand that Leon Black, who remains a member of the museum's board, be removed over his connections to Jeffrey Epstein. According to Hyperallergic, the action was organised by We Are UltraViolet and its Epstein Accountability Project, the Time & Memory Project, and the Institute for Primary Facts, which operates an 'Epstein-Trump Reading Room.' The outlet reported that Black was named more than 8,500 times in the released 'Epstein Files' and has faced multiple rape allegations, which he denies and none of which has resulted in a conviction. Nicole Regalado, vice-president of We Are UltraViolet, said, “By serving on MoMA's board, whether it's intentional or not, MoMA is helping to sanitize Leon Black's reputation.” The article carries no response from MoMA.",
+   "outcome": "Black remained on MoMA's board at the time of the protest. [FOLLOW-UP PENDING: any response from MoMA or Black and further actions by the campaign.]",
+   "tags": [
+    "Protest",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/moma-helping-sanitize-leon-blacks-reputation-protesters-say/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "New parent. Drafted from Hyperallergic (Anna Lee, 6 Oct 2026; full text; quote verified verbatim). Describe-don't-judge: the Epstein-related allegations and the '8,500 mentions' figure are attributed to Hyperallergic's reporting, and Black's denial and the absence of any conviction are stated. Trustee-standing controversy; compare the Whitney/Warren Kanders and Sackler divestment disputes.",
+   "interested_parties": "Leon Black; MoMA board; We Are UltraViolet (Nicole Regalado, VP) / Epstein Accountability Project; Time & Memory Project; Institute for Primary Facts",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-421",
+   "entry_id": "421",
+   "seq": 768,
+   "title": "Salvador Dalí's bronze 'Apocalypse' book cover stolen from a museum in Issoire, France",
+   "artist": "Salvador Dalí (cover); work commissioned by Joseph Forêt",
+   "institution": "Museum in Issoire (Puy-de-Dôme), France",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Theft during the night of 4 October 2026",
+   "date_discovered": "2026-10-07",
+   "sort_date": "2026-10-05",
+   "description": "Franceinfo (France 2) reported on 5 October 2026 that the bronze cover created by Salvador Dalí for the monumental book 'L'Apocalypse de Saint Jean' was stolen during the night of 4 October 2026 from a museum in Issoire (Puy-de-Dôme). According to franceinfo, the cover — set with precious stones and gold and bearing a figure of Christ painted on a gold plate — is part of a work weighing some 210 kilograms, accompanied by 150 parchment pages signed by fourteen leading 20th-century artists and writers including Jean Cocteau and Bernard Buffet, commissioned by the Auvergne publisher Joseph Forêt and first issued in 1961; the report put the piece's value at around one million euros. Franceinfo said gendarmes were analysing surveillance footage to identify the perpetrators and any prospective buyer. Jean-Christophe Castelain of Le Journal des Arts questioned the theft's logic, asking, “Quel voleur peut s'intéresser à un objet qui pèse 210 kilos ?” (“What thief could be interested in an object weighing 210 kilos?”).",
+   "outcome": "An investigation was under way and the cover had not been recovered. [FOLLOW-UP PENDING: recovery of the work and any arrests.]",
+   "tags": [
+    "Theft",
+    "Security failure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "franceinfo"
+   ],
+   "source": "https://www.franceinfo.fr/culture/arts-expos/qui-se-cache-derriere-le-vol-de-l-apocalypse-le-livre-de-plus-de-200-kilos-notamment-signe-par-salvador-dali_8224006.html",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Wednesday Europe trawl (France). Drafted from franceinfo / France 2 (5 Oct 2026; full text; quotes verified verbatim). Theft = contested claim of ownership (CLAUDE.md §7). Other outlets (ARTnews, France 3 Régions, 24heures, Actualitté) also carried the theft but were blocked or seen only as snippets this run and are not cited; some gave differing figures (cover ~150 kg; value estimates from €300,000 upward) — this entry uses franceinfo's. A more specific venue name (e.g. a contemporary-art centre in Issoire) appeared only in snippets and is left to enrichment.",
+   "interested_parties": "French gendarmerie (investigation); the Issoire museum holding the work; (cover by Salvador Dalí, book commissioned by Joseph Forêt)",
    "coverage_geography": "France",
    "follow_up_pending": true
   }
