@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 728
+  "total_cases": 731
  },
  "cases": [
   {
@@ -14837,6 +14837,39 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-012-S",
+   "entry_id": "012-S",
+   "seq": 770,
+   "title": "Smithsonian: Raskin bill would have American History museum preserve Trump-era 'propaganda' artifacts",
+   "artist": "N/A",
+   "institution": "Smithsonian National Museum of American History, Washington, DC; U.S. House of Representatives",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Bill introduced 7 October 2026 (Hyperallergic)",
+   "date_discovered": "2026-10-09",
+   "sort_date": "2026-10-07",
+   "description": "Rep. Jamie Raskin (D-Maryland) introduced the 'Preserving and Remembering the History of Trump and other Tyrants Act' on 7 October 2026, Hyperallergic reported. According to the article, the bill would direct Smithsonian officials to collect and preserve artifacts documenting what the bill characterizes as the rise of governmental propaganda, corruption and authoritarianism across President Trump's two terms, for a permanent display at the National Museum of American History. Hyperallergic reported that the examples named in the bill include items related to Executive Order 14416, which called for content-warning signs outside the museum, and banners bearing Trump's portrait installed on federal buildings. Hyperallergic quoted Raskin's statement that, \"To avoid repeating this descent into authoritarianism, we must study this corrupt President's actions.\"",
+   "outcome": "As reported by Hyperallergic (8 October 2026), the measure had just been introduced; the article named no co-sponsors or committee action. [FOLLOW-UP PENDING: whether the bill advances in committee or to a vote.]",
+   "tags": [
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/congressman-calls-on-smithsonian-to-document-trumps-narcissistic-self-worship/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Continues the ACI-012 Smithsonian-pressure thread as a congressional counter-move; responds to EO 14416 / the warning-signs plan (ACI-012-J, ACI-012-R) and the broader administration pressure campaign. Drafted narrowly from Hyperallergic (full text retrieved this run); the Raskin quotation traces to that article's account of his statement. Axios also reported the bill (7 Oct 2026) but was not retrievable via automated fetch this run. Thin single-source entry — bill just introduced. [FOLLOW-UP PENDING: committee action or floor vote.]",
+   "interested_parties": "Rep. Jamie Raskin (D-MD); Smithsonian Institution; National Museum of American History; President Donald Trump",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-011",
    "entry_id": "011",
    "seq": 10,
@@ -19624,6 +19657,37 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-284-D",
+   "entry_id": "284-D",
+   "seq": 771,
+   "title": "V&A: museum plans voluntary exit scheme to cut costs as pay dispute continues",
+   "artist": "N/A",
+   "institution": "Victoria and Albert Museum (V&A), London; Public and Commercial Services Union (PCS); Prospect",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 6 October 2026 (The Art Newspaper, citing Arts Professional)",
+   "date_discovered": "2026-10-09",
+   "sort_date": "2026-10-06",
+   "description": "The Victoria and Albert Museum said it is exploring a range of cost-reduction measures, including launching a voluntary exit scheme open to staff, The Art Newspaper reported on 6 October 2026, citing a report in Arts Professional. The article set the plan against continuing industrial action over pay: members of the PCS and Prospect unions struck at three east London sites (the V&A East Storehouse, V&A East Museum and Young V&A) on 4–5 September 2026 and at the South Kensington site on 25–26 September 2026, with negotiations ongoing and no further strike dates announced at publication. Per the report, the V&A received £59.9m in government grant-in-aid for 2025-26, and PCS said the museum projects a cumulative operational deficit of £19m by 2030, which the V&A did not confirm. The Art Newspaper reported that the museum's latest offer was an average 4.18% pay rise, and 6.9% for the lowest-paid, while PCS said most staff other than the lowest-paid were offered 3.25%. A V&A spokesperson was quoted saying the museum was \"exploring a wide range of measures to reduce costs, including launching a Voluntary Exit scheme.\"",
+   "outcome": "As reported by The Art Newspaper (6 October 2026), the scheme was being planned, with no launch date, participant numbers, or union response to the exit scheme itself given, and pay negotiations continuing. [FOLLOW-UP PENDING: launch and uptake of the voluntary exit scheme; resolution of the pay dispute; any further strike action.]",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/06/londons-victoria-albert-museum-to-launch-voluntary-exit-scheme",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Continues the ACI-284 V&A labour-dispute thread (ACI-284, -A, -B, -C). New development: cost-cutting via a voluntary exit scheme amid the unresolved pay dispute. Drafted narrowly from The Art Newspaper (full text retrieved this run); the figures and the spokesperson quote trace to that article, which itself cites Arts Professional for the launch. [FOLLOW-UP PENDING: exit-scheme launch and uptake; pay settlement; further strikes.]",
+   "interested_parties": "Victoria and Albert Museum; PCS union; Prospect union",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-285",
    "entry_id": "285",
    "seq": 574,
@@ -23844,6 +23908,41 @@
    "notes": "New parent. Suppression of heritage defenders plus development-driven demolition (Samarra Archaeological City is a UNESCO World Heritage Site). Drafted narrowly from The Art Newspaper (29 Sep 2026, full text retrieved this run); all quotations trace to that article. governance_type 'Hybrid Regime' is a judgment call (no prior Iraq entry to anchor to) — flagged for review. No Dissensus theme cleanly fits arrests-plus-demolition; themes left empty pending review. [FOLLOW-UP PENDING: charges and case outcomes.]",
    "interested_parties": "Ali Tabar (SBAH archaeologist); Amir Al-Jumaili (Mosul University professor); Davide Nadali (Sapienza University, Rome); State Board of Antiquities and Heritage (SBAH)",
    "coverage_geography": "Iraq, Europe, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-424",
+   "entry_id": "424",
+   "seq": 769,
+   "title": "'Naza' wins Venice jury prize; Israeli minister moves to revoke filmmakers' citizenship",
+   "artist": "Yuval Abraham and Rachel Szor",
+   "institution": "83rd Venice International Film Festival (La Biennale di Venezia)",
+   "country": "Israel",
+   "governance_type": "Democracy",
+   "date_controversy": "Special Jury Prize awarded at the 83rd Venice Film Festival 12 September 2026; Israeli Culture Minister Miki Zohar announced 13 September 2026 he would move to revoke the directors' citizenship (Euronews)",
+   "date_discovered": "2026-10-09",
+   "sort_date": "2026-09-13",
+   "description": "Naza, an 80-minute documentary by the Israeli filmmakers Yuval Abraham and Rachel Szor — the pair behind the 2024 Oscar-winning No Other Land — won the Special Jury Prize at the 83rd Venice Film Festival, Euronews reported. The French-language report described the film as built from testimony by Israeli military-intelligence officers, soldiers and whistleblowers about how targets in Gaza are selected; its title is a military acronym for anticipated civilian casualties. According to Euronews, the day after the award ceremony Israel's Culture Minister, Miki Zohar, said he would act immediately to strip the two directors of their Israeli citizenship, described the film in hostile terms, and tied the move to a planned cinema-funding reform intended to keep Israeli public money from films he said harm the army and the state. Euronews reported that National Security Minister Itamar Ben-Gvir also attacked the filmmakers on social media, while opposition figures and the newspaper Haaretz defended the film.",
+   "outcome": "As reported by Euronews (14 September 2026), the citizenship-revocation threat and funding-reform proposal were announced but not enacted; the film was scheduled to screen at the San Sebastián (23 September) and New York (26 September) film festivals, with MK2 Films holding international sales and no theatrical release date set. [FOLLOW-UP PENDING: whether Israel moves formally to revoke the directors' citizenship or enact the cinema-funding reform; the film's French and online release and any screening cancellations or bans.]",
+   "tags": [
+    "Political art",
+    "Geopolitics",
+    "Artist safety"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Euronews"
+   ],
+   "source": "https://fr.euronews.com/culture/2026/09/14/un-ministre-israelien-menace-de-retirer-la-citoyennete-aux-realisateurs-israeliens-de-naza",
+   "additional_sources": [],
+   "themes": [
+    2,
+    8
+   ],
+   "notes": "New parent. Documentary on the Gaza war by the No Other Land filmmakers; the contested claim is the Israeli government's move to punish the artists (threatened citizenship revocation) and restrict state film funding over the work, not (yet) a ban on the film itself. Backfill-dated to the September 2026 Venice award and ministerial reaction; date_discovered is the scan date. Drafted narrowly from Euronews (French, full text retrieved this run); officials' remarks given as reported/translated speech, not verbatim quotation. 'Artist safety' tag applied for the citizenship-revocation threat. Dissensus themes [2] (state funding vs. expression, per Zohar's funding reform) and [8] (artist-responsibility framing invoked by officials) are a judgment call — flagged for review. [FOLLOW-UP PENDING: formal citizenship action; cinema-funding reform; French/online release and any bans.]",
+   "interested_parties": "Yuval Abraham and Rachel Szor (directors); Culture Minister Miki Zohar; National Security Minister Itamar Ben-Gvir; MK2 Films (international sales); Venice Film Festival",
+   "coverage_geography": "Israel, Europe, US",
    "follow_up_pending": true
   }
  ]

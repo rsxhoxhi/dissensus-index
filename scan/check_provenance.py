@@ -60,6 +60,7 @@ DOMAIN_TO_OUTLET = {
     "lanazione.it": "La Nazione",
     "jurist.org": "JURIST",
     "euronews.com": "Euronews",
+    "fr.euronews.com": "Euronews",
     "france24.com": "France 24",
     "cnn.com": "CNN",
     "courtlistener.com": "CourtListener",
