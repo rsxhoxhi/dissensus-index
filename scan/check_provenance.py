@@ -166,6 +166,13 @@ DOMAIN_TO_OUTLET = {
     "vpm.org": "VPM News",  # added 2026-09-22 scan (ACI-400 Confederate monuments removal)
     "manhattanda.org": "Manhattan District Attorney's Office",  # added 2026-09-25 scan (ACI-406 Syria antiquities return)
     "govinfo.gov": "GovInfo",  # added 2026-09-28 scan (ACI-050-M No Palaces Act bill text and status, U.S. GPO)
+    "spokesman.com": "Reuters",  # added 2026-09-28: Spokesman-Review as Reuters wire carrier (cf. news4jax -> AP); kept on maintainer review 2026-10-02 (queued ACI-038-T)
+    "hongkongfp.com": "Hong Kong Free Press",  # added 2026-09-28 (queued ACI-331-D, AFP report)
+    "senat.fr": "French Senate",  # added 2026-09-28 (queued ACI-035-K, primary legislative record)
+    "justice.gov": "US Department of Justice",  # added 2026-09-28 (queued ACI-330-A, USAO-DC release)
+    "thestandard.com.hk": "The Standard",  # added 2026-09-29 scan (ACI-406 Kwade / Tai Kwun damage)
+    "sceneweb.fr": "Sceneweb",  # added 2026-09-29 scan (ACI-407 Actoral festival subsidy)
+    "cornyn.senate.gov": "Office of Senator John Cornyn",  # added 2026-09-30 scan (ACI-391-A Reif v. Republic of Austria amicus)
 }
 
 ALIASES = {
