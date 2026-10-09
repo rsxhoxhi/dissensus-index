@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 736
  },
  "cases": [
   {
@@ -3165,6 +3165,39 @@
    "notes": "Continues ACI-154 (Bayeux Tapestry loan) thread; goes to the fragility/condition concern central to the French debate over the loan. A subsequent British Museum reversal barring visitor photography (reported around September 15-16 by ARTnews and Artforum) was not logged for want of a retrieved full-text source (see PR). Roughly two-week-old item surfaced on this run's homepage/RSS sweep.",
    "interested_parties": "British Museum; Bayeux Museum; French Culture Minister Catherine Pegard; French and British conservation teams",
    "coverage_geography": "UK, France",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-154-G",
+   "entry_id": "154-G",
+   "seq": 771,
+   "title": "Bayeux Tapestry: blind visitor sues British Museum over lack of audio description",
+   "artist": "N/A",
+   "institution": "British Museum",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Legal challenge reported October 1, 2026; pre-action letter September 24, 2026",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-10-01",
+   "description": "The Art Newspaper reported on October 1, 2026 that Yusuf Ali Osman, a registered blind man from Croydon in south London, is bringing a legal claim against the British Museum, alleging that its failure to provide audio-described tours of the Bayeux Tapestry exhibition breaches the UK Equality Act. According to the paper, the exhibition opened on September 10, 2026 and runs to July 11, 2027; Osman contacted the museum in July asking for audio-described tours, and the museum initially declined, citing limits on visitor capacity tied to restrictions on how many hours of light the tapestry can be exposed to each week. His firm, Leigh Day, sent a pre-action protocol letter on September 24 and issued a statement on September 30; Osman seeks damages, a declaration that he was discriminated against, and an order requiring the museum to change its policies and provide disability-awareness training. The Art Newspaper reported that, following the challenge, the British Museum said it would offer in-person audio-described tours and might add an audio-described app tour, along with a sensory map and dedicated tours.",
+   "outcome": "As reported by The Art Newspaper, the British Museum announced additional accessibility provision after the legal challenge; Osman's firm said it had not received formal confirmation of policy changes and was keeping the action under review. [FOLLOW-UP PENDING: whether the claim proceeds to court and the museum's final accessibility measures.]",
+   "tags": [
+    "Legal challenge",
+    "Accessibility"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/01/blind-man-sues-british-museum-over-lack-of-bayeux-tapestry-audio-description",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "Sub-entry of ACI-154 (Bayeux Tapestry loan to the British Museum). New access / disability-discrimination angle, distinct from the loan and sponsor threads — hence a focused theme (4) rather than the full parent set. Drafted narrowly from The Art Newspaper (October 1, 2026). Artforum also reported the claim (tollbit-paywalled this run, not cited). 'Accessibility' added as a new descriptive tag. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Yusuf Ali Osman (claimant); Leigh Day (law firm); British Museum",
+   "coverage_geography": "UK",
    "follow_up_pending": true
   },
   {
@@ -7797,6 +7830,39 @@
    "interested_parties": "Seattle Art Museum Workers United (SAMWU); Scott Stulen (SAM director/CEO); Washington Federation of State Employees/AFSCME Council 28; SAM VSO (prior security union); King County Councilmember Teresa Mosqueda (supportive)",
    "coverage_geography": "Seattle, Pacific Northwest, national arts labor press",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-096-I",
+   "entry_id": "096-I",
+   "seq": 772,
+   "title": "Seattle Art Museum workers vote to unionize in landslide NLRB election",
+   "artist": "N/A",
+   "institution": "Seattle Art Museum",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "NLRB election result reported June 18, 2026",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-06-18",
+   "description": "Hyperallergic reported on June 18, 2026 that workers at the Seattle Art Museum voted to unionize in an NLRB election, with 97 of 103 eligible voters — about 94 percent — supporting the union. According to Hyperallergic, the new union, Seattle Art Museum Workers United (SAMWU), is represented by the Washington Federation of State Employees / AFSCME Council 28, which also represents Tacoma Art Museum staff, and covers more than 130 full- and part-time employees across the museum's three locations and 21 departments. The museum had declined the workers' May 2026 request for voluntary recognition, prompting the formal election; a museum spokesperson said the institution accepted the outcome and would begin negotiating a collective bargaining agreement in good faith.",
+   "outcome": "The workers unionized; attention turns to first-contract bargaining between SAMWU and the museum. Resolves the voluntary-recognition and election flags carried on ACI-096 and its earlier sub-entries. [FOLLOW-UP PENDING: the first collective bargaining agreement between SAMWU and the Seattle Art Museum.]",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/seattle-art-museum-workers-vote-to-unionize-in-landslide-election/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "Sub-entry of ACI-096 (Seattle Art Museum labor organizing). Backfill per CLAUDE.md §13: the June 18, 2026 NLRB election win was not previously logged (prior sub-entries stopped at ACI-096-H, June 3, 'election underway'). Surfaced on the 2026-10-02 follow-up sweep. Resolves and supersedes the May/June voluntary-recognition and election flags on ACI-096 through ACI-096-H, whose follow_up_pending flags and pending text are cleared this run. Drafted narrowly from Hyperallergic (June 18, 2026). Theme inherited from parent. [FOLLOW-UP PENDING] mirrored in outcome (first contract).",
+   "interested_parties": "Seattle Art Museum Workers United (SAMWU); Washington Federation of State Employees / AFSCME Council 28; Scott Stulen (SAM director and CEO); Seattle Art Museum",
+   "coverage_geography": "US",
+   "follow_up_pending": true
   },
   {
    "id": "ACI-050-E",
@@ -16387,6 +16453,43 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BK",
+   "entry_id": "005-BK",
+   "seq": 773,
+   "title": "Kennedy Center stays closed past September 30 as engineers warn of falling-panel hazard",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Closure continued past the September 30 target; reported October 1, 2026",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-10-01",
+   "description": "NBC Washington reported on October 1, 2026 that the Kennedy Center's main building, closed to the public since September 15, 2026, would remain shut past the September 30 date to which the closure had previously been extended, with no definitive reopening date. According to NBC Washington, a three-month evaluation by the engineering firm Walter P Moore found extensive corrosion and water damage to the exterior soffit panels of the building's overhang — panels that each weigh more than 2,000 pounds and sit about 60 feet above public areas — and warned that their continued deterioration presented a falling-object and life-safety hazard; the firm recommended replacing the soffit panels and the roof drainage system. The outlet reported that the executive director, Matt Floca, told employees the facilities and safety teams were conducting an emergency egress assessment, expected within two weeks, and that the closure would be reconsidered week by week, with Judge Christopher Cooper having asked the Trump administration for weekly updates on repairs. Separately, The New York Times reported on September 30, 2026 that legal analysts considered any plan to demolish the center difficult to carry out.",
+   "outcome": "As reported by NBC Washington, the Kennedy Center remained closed indefinitely pending the emergency egress assessment and the recommended structural repairs, with reopening reconsidered weekly under Judge Cooper's supervision. [FOLLOW-UP PENDING: the egress assessment result, a reopening date, and the court's weekly repair updates.]",
+   "tags": [
+    "Institutional crisis",
+    "Political interference"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "NBC Washington",
+    "The New York Times"
+   ],
+   "source": "https://www.nbcwashington.com/news/local/kennedy-center-to-remain-closed-to-public-as-safety-assessments-continue/4161921/",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/09/30/arts/trump-demolish-kennedy-center.html"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center). Follows ACI-005-BJ (Sept 25) and ACI-005-BI (Sept 23 closure extension through Sept 30); reconciles the now-passed Sept 30 target — the closure continued. Drafted narrowly from NBC Washington (Oct 1, 2026); the demolition-feasibility line is from a New York Times metadata abstract (Julia Jacobs, Sept 30), URL in additional_sources. [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Matt Floca (executive director); Walter P Moore (engineering firm); Judge Christopher Cooper; Trump administration",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -17045,6 +17148,45 @@
    "notes": "Sub-entry of ACI-038; follows ACI-038-R (Sept 9, administration targets November for final approval) and the excavation litigation at ACI-038-Q. THIN / SNIPPET-GRADE: drafted from search-result snippets of NBC News, NPR, and The Washington Post; direct fetches of NPR and Axios were blocked this run, so there is no full-text retrieval and no quotations. Enrich on a US-local trawl day.",
    "interested_parties": "President Trump; Interior Secretary Doug Burgum; Rep. Don Beyer; Vietnam veterans plaintiffs (see ACI-038-R)",
    "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-038-T",
+   "entry_id": "038-T",
+   "seq": 774,
+   "title": "Trump Triumphal Arch: preservation council ends Section 106 review as architects object",
+   "artist": "N/A",
+   "institution": "Advisory Council on Historic Preservation; American Institute of Architects",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "ACHP terminated the Section 106 consultation September 24, 2026; AIA letter September 29, 2026",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-09-29",
+   "description": "ARTnews and The Washington Post reported that the Advisory Council on Historic Preservation (ACHP), the federal agency responsible for the Section 106 review of effects on historic properties, moved on September 24, 2026 to terminate its consultation on President Trump's proposed roughly 250-foot triumphal arch near Memorial Circle, by Arlington National Cemetery. According to the reporting, the ACHP's vice chairman, Travis Voyles, wrote to the National Park Service that the project had raised significant public interest but that further consultation was unlikely to produce an agreement resolving the adverse effects, and that the council would send its final comments to Interior Secretary Doug Burgum by October 7. ARTnews reported that on September 29 the American Institute of Architects wrote to the ACHP's director, Jaime Loichinger, denouncing the decision and arguing that a permanent arch of that scale could not coexist with the historic landscape, views, and solemn function of the area. Critics characterized ending the Section 106 process as a way to bypass a key preservation-law review.",
+   "outcome": "As reported by ARTnews and The Washington Post, the ACHP ended its Section 106 consultation and was due to send final comments to the Interior Secretary by October 7, 2026; the AIA and preservation advocates objected that the move sidesteps historic-preservation review. [FOLLOW-UP PENDING: the ACHP's final comments by October 7 and the administration's targeted November 2026 final federal approval (see ACI-038-R).]",
+   "tags": [
+    "Historic preservation",
+    "Political interference",
+    "Design controversy"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews",
+    "The Washington Post"
+   ],
+   "source": "https://www.artnews.com/art-news/news/american-institute-architects-letter-advisory-council-historic-preservation-denounce-president-trump-arch-1234800259/",
+   "additional_sources": [
+    "https://www.washingtonpost.com/politics/2026/09/24/trump-officials-end-review-how-arch-could-harm-historic-sites/"
+   ],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). Follows ACI-038-S (Sept 20). Covers the Sept 24 termination of the Section 106 consultation and the Sept 29 AIA letter. ARTnews (tollbit) and the Washington Post (direct fetch) were both blocked this run; drafted from search-result text, reported speech only, no quotation (no full-text retrieval). The Architect's Newspaper and Artforum also reported the termination (fetch-blocked / 403 this run, not cited). Illustrates the structural circumvention-of-review frame (CLAUDE.md §14). [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Advisory Council on Historic Preservation (Travis Voyles, vice chairman; Jaime Loichinger, director); American Institute of Architects; National Park Service; Interior Secretary Doug Burgum",
+   "coverage_geography": "US",
    "follow_up_pending": true
   },
   {
@@ -23915,6 +24057,76 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-412",
+   "entry_id": "412",
+   "seq": 775,
+   "title": "Cairo murals of Tutankhamun and Nefertiti removed after objection to dark-skinned depiction",
+   "artist": "Unidentified",
+   "institution": "Cairo Governorate",
+   "country": "Egypt",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Removal reported early October 2026 (i24NEWS article undated)",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-10-01",
+   "description": "i24NEWS reported that authorities in Cairo removed murals of the pharaoh Tutankhamun and Queen Nefertiti that had been painted in Tahrir Square, near the Egyptian Museum, after the works drew objections for depicting the two rulers with dark skin. According to i24NEWS, critics described the depiction as promoting an Afrocentric narrative and argued that preserving an accurate portrayal of Egyptian identity was a responsibility that should not be neglected, particularly given the spread of Afrocentric narratives in recent years. The outlet reported that the Cairo Governorate moved to erase the murals and said they would be restored in what officials described as an artistically and historically accurate manner.",
+   "outcome": "As reported by i24NEWS, the Cairo Governorate erased the murals and said they would be restored in a manner it described as historically and artistically accurate. [FOLLOW-UP PENDING: whether the murals are repainted and in what form, and any response from the muralists.]",
+   "tags": [
+    "Removal",
+    "Community objection",
+    "Public art",
+    "Racial/ethnic sensitivity"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "i24NEWS"
+   ],
+   "source": "https://www.i24news.tv/en/news/international/africa/artc-egyptian-authorities-remove-murals-of-famed-pharaohs-over-dark-features-promoting-afrocentric-narrative",
+   "additional_sources": [],
+   "themes": [
+    9
+   ],
+   "notes": "New parent. Drafted narrowly from i24NEWS (the article carries no publication date in its text). The Guardian also covered the story (direct fetch blocked this run, not cited), and it appeared across international outlets. Thin entry — flag for enrichment with original-language Egyptian sources and the muralists' identity. Theme 9 (Public Objection). [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Cairo Governorate; Egyptian Museum (adjacent site); social-media critics objecting to the depiction",
+   "coverage_geography": "Egypt, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-413",
+   "entry_id": "413",
+   "seq": 776,
+   "title": "Court bars Kavi Gupta gallery from selling works in $2M Longcraft consignment dispute",
+   "artist": "N/A",
+   "institution": "Kavi Gupta Gallery",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Temporary restraining order reported late September 2026; petition filed in New York Supreme Court",
+   "date_discovered": "2026-10-02",
+   "sort_date": "2026-09-30",
+   "description": "ARTnews reported that a New York judge temporarily barred the Chicago dealer Kavi Gupta and his gallery from selling or marketing a group of artworks at the center of a roughly $2.05 million dispute with Longcraft LLC. According to ARTnews, Longcraft paid the gallery about $2.05 million in May 2025 for roughly 150 artworks and then immediately consigned the works back to the gallery so it could keep selling them on Longcraft's behalf, an arrangement the company described in court papers as a way to give the business financial runway. In a petition filed in New York Supreme Court, Longcraft accused Gupta and the gallery of withholding proceeds from sales, giving misleading accounts of where works were and whether they had sold, attempting to substitute less valuable works for pieces Longcraft owned, and refusing to return the remaining collection after the consignment agreement ended. ARTnews reported that Gupta and the gallery had not yet filed a response.",
+   "outcome": "As reported by ARTnews, the court's temporary order barred Gupta and the gallery from selling or marketing the disputed works while the case proceeds; the gallery had not yet responded to the allegations. [FOLLOW-UP PENDING: the gallery's response and the court's further rulings.]",
+   "tags": [
+    "Legal challenge",
+    "Financialization",
+    "Market opacity",
+    "Institutional crisis"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARTnews"
+   ],
+   "source": "https://www.artnews.com/art-news/news/kavi-gupta-gallery-longcraft-lawsuit-restraining-order-1234800255/",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "New parent. Borderline: the contested matter is primarily a financial/consignment dispute, with the artworks as collateral — flagged for editorial judgment on whether the cultural object is the actual contested thing (CLAUDE.md §7). ARTnews was tollbit-paywalled this run; facts taken from the search-result text, reported speech only, no quotation. Artnet also reported on the gallery's broader troubles (not retrieved this run). Theme 10 (Art and Capital). [FOLLOW-UP PENDING] mirrored in outcome.",
+   "interested_parties": "Kavi Gupta (dealer); Kavi Gupta Gallery; Longcraft LLC",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
