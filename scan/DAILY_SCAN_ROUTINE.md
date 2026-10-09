@@ -119,6 +119,18 @@ This step is NOT satisfied by ingest.py / the RSS feed. RSS is a narrow, time-wi
    "Follow-up sweep" section. Then, for any other `follow_up_pending` case that
    is plausibly ripe, web-search for developments. Group B (superseded by a later
    sub-entry) and group C (unnamed legacy flags) are worked on Sundays.
+4a. **Backfill drip:** if `scan/backfill_queue.json` has items, insert **at most two**
+   per run, taking them in order and skipping any item that carries a `hold` (its
+   reason says what has to happen first). The queue holds researched sub-entries that answer
+   date-passed flags; they are metered into daily PRs so review keeps its normal pace.
+   For each item: re-fetch and log every URL in `refetch` (the provenance gate needs
+   this run's records), and re-verify each claim and quote against the retrieved text,
+   editing or dropping anything that no longer checks out. Then assign the next free
+   sub-entry letter under `parent` (the draft letter is provisional), set seq to max+1
+   and `date_discovered` to the run date, apply `resolves` to the answered entry, and
+   delete the item from the queue. List each one under "For your review" as a queued
+   backfill. If a queued item's group-A flag shows up in `ripe_flags.py`, the queued item
+   is its answer: don't re-research it.
    - **Standing DC federal-cultural cluster pass (MANDATORY, every day — not just
      Sunday).** These threads move almost daily and the movement is court rulings,
      votes, arrests, and scheduled events landing on their own dates — exactly the
