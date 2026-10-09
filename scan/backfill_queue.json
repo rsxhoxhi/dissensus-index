@@ -1,0 +1,327 @@
+{
+ "_about": "Backfill drip queue (DAILY_SCAN_ROUTINE.md Step 2.4a). Drafted 2026-09-28 during the follow-up flag cleanup: each item is a researched development that answers a date-passed flag. The daily scan inserts at most 2 items per run: re-fetch every URL in 'refetch' and log it (the provenance gate needs this run's records), re-verify each claim and quote against the retrieved text, assign the next free sub-entry letter under 'parent' (the draft_id letter is provisional), seq = max+1, date_discovered = run date, then apply 'resolves' to the answered entry ({ID} = the assigned id), delete the item here, and list it in the PR's 'For your review' as a queued backfill. Thin items (snippet-sourced) say so in their notes.",
+ "items": [
+  {
+   "draft_id": "ACI-038-T",
+   "parent": "ACI-038",
+   "queued": "2026-09-28",
+   "refetch": [
+    "https://www.spokesman.com/stories/2026/sep/04/judge-reinforces-order-barring-immediate-work-on-t/"
+   ],
+   "entry": {
+    "title": "Trump Triumphal Arch: judge requires 48 hours' notice before site work, exempting artifact survey",
+    "artist": "N/A",
+    "institution": "Memorial Circle, Arlington Memorial Bridge approach, Washington DC",
+    "country": "United States",
+    "governance_type": "Democracy",
+    "date_controversy": "Order issued 4 September 2026",
+    "sort_date": "2026-09-04",
+    "description": "U.S. District Judge Tanya Chutkan on 4 September 2026 ordered the Trump administration to give 48 hours' notice before engaging in any activity on the site of the proposed 250-foot arch near Arlington National Cemetery, except for work to identify underground cultural artifacts, Reuters reported. The ruling came a day after Interior Secretary Doug Burgum announced work would start soon, and in response to a request for a temporary restraining order from lawyers for three military veterans and an architectural historian (see ACI-038-Q), who argued the administration has \"no legal basis for the construction work.\" The government told the court the planned excavation was \"not construction, or demolition in preparation for construction, of an arch,\" but four test pits to assess whether artifacts or cultural materials are present, starting on or after 21 September and with the site restored by 31 October.",
+    "outcome": "Site activity other than the artifact survey requires 48 hours' notice to the court. [FOLLOW-UP PENDING: whether the test-pit survey proceeds and any notice of further work; the court's ruling on the veterans' underlying claims.]",
+    "tags": [
+     "Design controversy",
+     "Legal challenge",
+     "Landmark dispute",
+     "Architectural preservation"
+    ],
+    "court_case": "Yes",
+    "coverage_tier": "National",
+    "outlets": [
+     "Reuters"
+    ],
+    "source": "https://www.spokesman.com/stories/2026/sep/04/judge-reinforces-order-barring-immediate-work-on-t/",
+    "additional_sources": [],
+    "themes": [
+     1,
+     2,
+     9
+    ],
+    "notes": "Sub-entry of ACI-038; resolves the pending ruling at ACI-038-Q. Drafted from Reuters (David Shepardson, 4 Sep 2026) as carried verbatim by the Spokesman-Review (full text; quotes verified verbatim); spokesman.com is mapped to Reuters in check_provenance as a wire carrier. Sourcing settled in maintainer review (2026-10-02): reuters.com itself blocks the scan's tools and is paywalled for the maintainer, and the only reuters.com URL found is Reuters' earlier filing story, so the syndicated copy stands. Primary record for later enrichment: the order in Lemmon v. Trump, 1:26-cv-00544 (D.D.C.), CourtListener docket 72301112. Lead, not logged: later reports (Law&Crime and others; not retrieved) of a DOJ motion to dissolve the 48-hour order and the judge's refusal.",
+    "interested_parties": "Judge Tanya Chutkan; Michael Lemmon, Shaun Byrnes, Jon Gundersen (veterans); Calder Loth (architectural historian); Interior Secretary Doug Burgum; Justice Department",
+    "coverage_geography": "US",
+    "follow_up_pending": true
+   },
+   "resolves": {
+    "id": "ACI-038-Q",
+    "action": "clear",
+    "update": "Update: on 4 September 2026 the judge required 48 hours' notice before site work other than the artifact survey ({ID}).",
+    "why": "answered at {ID}, which carries the remaining questions."
+   }
+  },
+  {
+   "draft_id": "ACI-331-D",
+   "parent": "ACI-331",
+   "queued": "2026-09-28",
+   "refetch": [
+    "https://hongkongfp.com/2026/09/05/china-artists-quit-s-korea-art-show-after-organisers-let-taiwan-be-used-in-name-of-exhibition/"
+   ],
+   "entry": {
+    "title": "Gwangju Biennale: Chinese artists formally withdraw before opening; consulate protests",
+    "artist": "Participating Chinese artists (withdrawn)",
+    "institution": "Gwangju Biennale Foundation, Gwangju, South Korea",
+    "country": "South Korea",
+    "governance_type": "Democracy",
+    "date_controversy": "Withdrawal announced 3 September 2026",
+    "sort_date": "2026-09-03",
+    "description": "Chinese artists, who had halted preparations for their own pavilion, announced on 3 September 2026 that they would formally withdraw from the Gwangju Biennale, according to local media footage cited by AFP in a report carried by Hong Kong Free Press; a foundation spokesperson told AFP, \"We have confirmation the Chinese artists are withdrawing from the biennale.\" China's consulate general in Gwangju said organisers had \"openly allowed the Taiwan region of China to participate in the exhibition using a name that is completely inconsistent with its status,\" calling it \"a serious violation of the One China principle.\" South Korea's foreign ministry said the \"government's basic position regarding Taiwan remains unchanged\" and that the decision, made in the cultural and artistic sphere, \"is unrelated to the South Korean government's position regarding Taiwan.\"",
+    "outcome": "Chinese participants withdrew ahead of the biennale's 5 September 2026 opening.",
+    "tags": [
+     "Geopolitics",
+     "Political interference"
+    ],
+    "court_case": "No",
+    "coverage_tier": "International",
+    "outlets": [
+     "Hong Kong Free Press"
+    ],
+    "source": "https://hongkongfp.com/2026/09/05/china-artists-quit-s-korea-art-show-after-organisers-let-taiwan-be-used-in-name-of-exhibition/",
+    "additional_sources": [],
+    "themes": [
+     3
+    ],
+    "notes": "Sub-entry of ACI-331; resolves the pending item at ACI-331-B (whether the withdrawal was finalised before the opening). Drafted from AFP via Hong Kong Free Press (5 Sep 2026; full text, quotes verified verbatim). Cross-ref ACI-331-C (city apology).",
+    "interested_parties": "Chinese artists; China's consulate general in Gwangju; Gwangju Biennale Foundation; South Korean foreign ministry",
+    "coverage_geography": "Asia, International",
+    "follow_up_pending": false
+   },
+   "resolves": {
+    "id": "ACI-331-B",
+    "action": "clear",
+    "update": "Update: the Chinese artists announced their formal withdrawal on 3 September 2026 ({ID}).",
+    "why": "answered at {ID}."
+   }
+  },
+  {
+   "draft_id": "ACI-330-A",
+   "parent": "ACI-330",
+   "queued": "2026-09-28",
+   "refetch": [
+    "https://www.washingtonexaminer.com/news/justice/4736179/woman-accused-of-vandalizing-wwii-memorial-pleads-not-guilty-released/",
+    "https://www.justice.gov/usao-dc/pr/kentucky-woman-indicted-two-counts-vandalizing-national-malls-world-war-ii-memorial-dc"
+   ],
+   "entry": {
+    "title": "World War II Memorial vandalism: suspect indicted, pleads not guilty to two felonies",
+    "artist": "N/A (National World War II Memorial; designed by Friedrich St. Florian)",
+    "institution": "National World War II Memorial (National Mall); National Park Service; U.S. Attorney's Office for the District of Columbia",
+    "country": "United States",
+    "governance_type": "Democracy",
+    "date_controversy": "Indicted 27 August 2026; pleaded not guilty 21 September 2026",
+    "sort_date": "2026-09-21",
+    "description": "Melissa Farris, 41, of Elizabethtown, Kentucky, pleaded not guilty on 21 September 2026 before U.S. District Judge Trevor N. McFadden to two felony counts, destruction of a veterans' memorial and destruction of government property, over the 13 August defacement of the National World War II Memorial, and was released on her own personal recognizance, the Washington Examiner reported. The U.S. Attorney's Office for the District of Columbia said a grand jury had returned the two-count indictment on 27 August 2026.",
+    "outcome": "Case pending in federal court after not-guilty pleas. [FOLLOW-UP PENDING: trial, plea agreement or other resolution of the charges.]",
+    "tags": [
+     "Vandalism",
+     "Protest art",
+     "Political art",
+     "Legal challenge"
+    ],
+    "court_case": "Yes",
+    "coverage_tier": "National",
+    "outlets": [
+     "Washington Examiner",
+     "US Department of Justice"
+    ],
+    "source": "https://www.washingtonexaminer.com/news/justice/4736179/woman-accused-of-vandalizing-wwii-memorial-pleads-not-guilty-released/",
+    "additional_sources": [
+     "https://www.justice.gov/usao-dc/pr/kentucky-woman-indicted-two-counts-vandalizing-national-malls-world-war-ii-memorial-dc"
+    ],
+    "themes": [
+     6,
+     7
+    ],
+    "notes": "Sub-entry of ACI-330; the indictment superseded the 3 September preliminary hearing named in ACI-330's flag. Plea details from the Washington Examiner (Kaelan Deese, 21 Sep 2026; full text). The indictment date is from the USAO-DC release, seen as a search result (site blocked; snippet_only), attributed inline.",
+    "interested_parties": "Melissa Farris (defendant); Judge Trevor N. McFadden; U.S. Attorney's Office for the District of Columbia",
+    "coverage_geography": "US",
+    "follow_up_pending": true
+   },
+   "resolves": {
+    "id": "ACI-330",
+    "action": "clear",
+    "update": "Update: Farris was indicted on 27 August and pleaded not guilty on 21 September 2026 ({ID}).",
+    "why": "answered at {ID}, which carries the case forward."
+   }
+  },
+  {
+   "draft_id": "ACI-008-AG",
+   "parent": "ACI-008",
+   "queued": "2026-09-28",
+   "refetch": [
+    "https://www.euronews.com/my-europe/2026/07/17/make-america-read-again-venice-protesters-greet-us-ambassador-with-protest-signs"
+   ],
+   "entry": {
+    "title": "Venice Biennale: several hundred protest US ambassador's arrival; brief clash with police",
+    "artist": "N/A (cultural-worker mobilization)",
+    "institution": "Venice Biennale (Biennale Foundation)",
+    "country": "Italy / International",
+    "governance_type": "Democracy",
+    "date_controversy": "17 July 2026",
+    "sort_date": "2026-07-17",
+    "description": "Several hundred protesters marched against the arrival in Venice of US Ambassador to Italy Tilman Fertitta on 17 July 2026, briefly clashing with riot police as they neared his vessel, Euronews reported. According to Euronews, officers pushed demonstrators back with shields after they refused to stop, and protesters carried signs reading \"Make America Read Again\" and \"Oligarch in saor.\" Fertitta issued a short statement: \"I like Italians, we Americans respect freedom of speech and the right to peaceful protest; Coastal Diplomacy celebrates our nation's founding and these fundamental rights.\" The march followed the mobilization the Art Not Genocide Alliance had called for that day (see ACI-008-AC).",
+    "outcome": "Protest held on 17 July 2026.",
+    "tags": [
+     "Protest",
+     "Geopolitics",
+     "Political art"
+    ],
+    "court_case": "No",
+    "coverage_tier": "International",
+    "outlets": [
+     "Euronews"
+    ],
+    "source": "https://www.euronews.com/my-europe/2026/07/17/make-america-read-again-venice-protesters-greet-us-ambassador-with-protest-signs",
+    "additional_sources": [],
+    "themes": [
+     3,
+     4
+    ],
+    "notes": "Sub-entry of ACI-008; resolves the pending item at ACI-008-AC (outcome of the 17 July mobilization). Drafted from Euronews (Greta Ruffino with AP, 17 Jul 2026; full text, quotes verified verbatim). Euronews does not name ANGA as the organiser (it cites an organiser, Stella Morion, without a group) and does not mention the Biennale; the link to ANGA's call rests on ACI-008-AC's ARTnews sourcing. A third sign reported in an earlier summary ('Venezia non si USA') was not in the verbatim text and is omitted.",
+    "interested_parties": "Tilman Fertitta (US Ambassador to Italy); Art Not Genocide Alliance (called the mobilization); Venice police",
+    "coverage_geography": "Europe",
+    "follow_up_pending": false
+   },
+   "resolves": {
+    "id": "ACI-008-AC",
+    "action": "clear",
+    "update": "Update: the protest took place on 17 July 2026 ({ID}).",
+    "why": "answered at {ID}."
+   }
+  },
+  {
+   "draft_id": "ACI-035-K",
+   "parent": "ACI-035",
+   "queued": "2026-09-28",
+   "refetch": [
+    "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-relative-au-declassement-de-restes-humains-kalinas-et-a-leur-remise-a-la-collectivite-de-guyane-a-des-fins-funeraires.html"
+   ],
+   "entry": {
+    "title": "French restitution: law returns eight Kali'na remains from the Musée de l'Homme to French Guiana",
+    "artist": "N/A (legislative)",
+    "institution": "Élysée Palace / French government; Le Journal Officiel",
+    "country": "France",
+    "governance_type": "Democracy",
+    "date_controversy": "Senate adoption 18 May 2026; law promulgated 26 June 2026",
+    "sort_date": "2026-06-26",
+    "description": "France enacted a law (Loi n° 2026-542 of 26 June 2026) removing from public collections the remains of eight Kali'na people held at the Musée de l'Homme and handing them, within a year of the law's entry into force, to the Collectivité de Guyane for funeral purposes, according to the French Senate. The bill, sponsored by senators Catherine Morin-Desailly, Pierre Ouzoulias and Max Brisson, was adopted unanimously by the Senate on 18 May 2026, which also extended the removal from public collections to eight casts of body parts.",
+    "outcome": "Law in force. [FOLLOW-UP PENDING: return of the remains to French Guiana, due within a year of the law's entry into force.]",
+    "tags": [
+     "Repatriation",
+     "Indigenous rights"
+    ],
+    "court_case": "No",
+    "coverage_tier": "National",
+    "outlets": [
+     "French Senate"
+    ],
+    "source": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-relative-au-declassement-de-restes-humains-kalinas-et-a-leur-remise-a-la-collectivite-de-guyane-a-des-fins-funeraires.html",
+    "additional_sources": [],
+    "themes": [
+     5,
+     12
+    ],
+    "notes": "Sub-entry of ACI-035; resolves the 'Kali'na bill Senate May 18' item in ACI-035-I's flag. Drafted from the French Senate's 'loi en clair' page (full text; facts verified verbatim in French). Search results (not cited) indicate the text's title also covers Arawak remains; the verbatim Senate text retrieved names eight Kali'na remains, so the entry says that.",
+    "interested_parties": "Senators Catherine Morin-Desailly, Pierre Ouzoulias, Max Brisson; Musée de l'Homme / Muséum national d'histoire naturelle; Collectivité de Guyane; Kali'na community",
+    "coverage_geography": "France",
+    "follow_up_pending": true
+   },
+   "resolves": {
+    "id": "ACI-035-I",
+    "action": "narrow",
+    "update": "Update: the framework law was promulgated on 10 May 2026 (ACI-035-J), and the Kali'na remains law on 26 June 2026 ({ID}).",
+    "flag": {
+     "old": "[FOLLOW-UP PENDING: Macron signature; Kali'na bill Senate May 18; first restitution requests under new framework]",
+     "new": "[FOLLOW-UP PENDING: first restitution requests under the new framework]"
+    }
+   }
+  },
+  {
+   "draft_id": "ACI-295-A",
+   "parent": "ACI-295",
+   "queued": "2026-09-28",
+   "refetch": [
+    "https://www.artsprofessional.co.uk/news/royal-museums-greenwich-staff-proceed-with-strike-despite-talks-progress",
+    "https://www.museumsassociation.org/museums-journal/news/2026/08/union-members-at-royal-museums-greenwich-to-strike/"
+   ],
+   "entry": {
+    "title": "Royal Museums Greenwich: Prospect members go ahead with 11–12 August strike",
+    "artist": "N/A",
+    "institution": "Royal Museums Greenwich (National Maritime Museum, Queen's House, Royal Observatory, Cutty Sark); Prospect union",
+    "country": "United Kingdom",
+    "governance_type": "Democracy",
+    "date_controversy": "Strike 11–12 August 2026",
+    "sort_date": "2026-08-11",
+    "description": "Staff at Royal Museums Greenwich went ahead with a strike on 11–12 August 2026, Arts Professional reported. In its preview of the action (4 August 2026), the Museums Association reported that Prospect said 77% of members who voted backed strike action on a 90% turnout, and that members were seeking London Living Wage accreditation, protection of Christmas closure annual leave, paid breaks for security workers, stronger policies on fixed-term contracts, and improved training and development. Both sides pointed to a two-year pay settlement: Prospect general secretary Mike Clancy said the union had \"already achieved progress, having recently agreed a two-year pay settlement with RMG,\" and an RMG statement said the settlement, covering 2026/27 and 2027/28, \"has been agreed by Prospect and implemented,\" with the remaining dispute relating to \"a small number of non-pay matters.\" RMG said it planned to keep its sites open during the strike.",
+    "outcome": "Strike held on 11–12 August 2026.",
+    "tags": [
+     "Labor dispute"
+    ],
+    "court_case": "No",
+    "coverage_tier": "National",
+    "outlets": [
+     "Arts Professional",
+     "Museums Association"
+    ],
+    "source": "https://www.artsprofessional.co.uk/news/royal-museums-greenwich-staff-proceed-with-strike-despite-talks-progress",
+    "additional_sources": [
+     "https://www.museumsassociation.org/museums-journal/news/2026/08/union-members-at-royal-museums-greenwich-to-strike/"
+    ],
+    "themes": [],
+    "notes": "THIN on the event itself: that the strike went ahead rests on Arts Professional, whose site blocks the scan's tools (a search result, plus a passage the maintainer supplied in review, quoting Clancy). Background and all quotes are from the Museums Association preview, re-fetched 2026-10-02 as raw HTML and checked verbatim. Review correction: the pay settlement was first attributed to RMG alone; the verbatim text shows both Clancy and an RMG statement citing it, so both are now given. Resolves the pending item at ACI-295; no settlement of the remaining non-pay issues was found.",
+    "interested_parties": "Prospect (Mike Clancy, general secretary); Royal Museums Greenwich",
+    "coverage_geography": "UK",
+    "follow_up_pending": false
+   },
+   "resolves": {
+    "id": "ACI-295",
+    "action": "clear",
+    "update": "Update: the strike went ahead on 11–12 August 2026 ({ID}).",
+    "why": "answered at {ID}."
+   }
+  },
+  {
+   "draft_id": "ACI-206-A",
+   "parent": "ACI-206",
+   "queued": "2026-09-28",
+   "refetch": [
+    "https://news.artnet.com/market/zabludowicz-collection-online-sale-christies-results-2785223",
+    "https://www.artnews.com/art-news/market/zabludowicz-collection-day-sale-christies-report-1234790760/"
+   ],
+   "entry": {
+    "title": "Zabludowicz sale: more than half of online lots at Christie's fail to sell",
+    "artist": "Various (incl. Philip Guston, 'Mirror Head', 1977)",
+    "institution": "Christie's (London); Zabludowicz Collection (Anita and Poju Zabludowicz)",
+    "country": "United Kingdom",
+    "governance_type": "Democracy",
+    "date_controversy": "Online sale 18–30 June 2026",
+    "sort_date": "2026-06-30",
+    "description": "The online portion of Christie's sale of works from the Zabludowicz Collection, 44 lower-value lots offered from 18 to 30 June 2026, saw 24 lots fail to sell and realised £95,377 against a presale estimate of £292,000 to £435,400, according to Artnet News; ARTnews also reported that more than half the works failed to sell. It followed the live sale at Christie's London (ACI-206).",
+    "outcome": "The online sale closed on 30 June 2026 with 24 of 44 lots unsold.",
+    "tags": [
+     "Financialization"
+    ],
+    "court_case": "No",
+    "coverage_tier": "International",
+    "outlets": [
+     "Artnet News",
+     "ARTnews"
+    ],
+    "source": "https://news.artnet.com/market/zabludowicz-collection-online-sale-christies-results-2785223",
+    "additional_sources": [
+     "https://www.artnews.com/art-news/market/zabludowicz-collection-day-sale-christies-report-1234790760/"
+    ],
+    "themes": [
+     10
+    ],
+    "notes": "THIN ENTRY: both outlets were paywalled or blocked this run; figures come from search-result snippets (logged snippet_only) and are attributed inline. Enrich from full text. Resolves the pending sale-results item at ACI-206; no further artist response was found.",
+    "interested_parties": "Christie's London; Anita and Poju Zabludowicz",
+    "coverage_geography": "UK, US",
+    "follow_up_pending": false
+   },
+   "resolves": {
+    "id": "ACI-206",
+    "action": "clear",
+    "update": "Update: the online sale closed on 30 June 2026 with 24 of 44 lots unsold ({ID}).",
+    "why": "answered at {ID}; no further artist response found."
+   }
+  }
+ ]
+}
