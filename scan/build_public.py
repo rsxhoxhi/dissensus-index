@@ -31,8 +31,6 @@ COPY_FILES = [
     "browse.html",
     "case.html",
     "cite.html",
-    "essay-hungary.html",
-    "essay-pattern.html",
     "index.html",
     "methodology.html",
     "css/style.css",
