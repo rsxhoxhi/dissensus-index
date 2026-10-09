@@ -320,7 +320,7 @@ The five-stage system (Watching / Escalating / In process / Active / Resolved) a
 
 ## 10. Editorial / publishing model
 
-- Quarterly cadence keyed to **solstices/equinoxes** (Summer/Autumn/Winter/Spring), not fiscal quarters. Issue No. 1: Summer Solstice, June 21, 2026.
+- Quarterly cadence keyed to **solstices/equinoxes** (Summer/Autumn/Winter/Spring), not fiscal quarters. The site launched June 21, 2026 and is in beta; Issue No. 1, with the first Quarterly Lead Essay, is forthcoming. Do not add issue numbers, issue labels, or essay pages to the site until Issue No. 1 is published.
 - The live database updates **only on editorial approval**. Data is captured continuously, published on review. The site discloses its freshness ("last reviewed and published: [date]").
 - **Never auto-publish unreviewed scan output** — the approval gate is what makes the Index citable rather than a feed.
 - Name: The Dissensus Index (Rancière's term, the opposite of consensus). Tagline: "A quarterly record of art controversy." Imprint: Fire Horse. License: CC BY 4.0.
@@ -381,7 +381,7 @@ Direct, compression-oriented, humor-forward. No directive sign-offs ("go pick up
 
 ## 16. Current status & roadmap
 
-- Site live at dissensusindex.com (`.org` and `www` redirect to it). Repo: `github.com/rsxhoxhi/dissensus-index` (private). There is no spreadsheet; `data/cases.json` is the master (§2).
+- Site live in beta at dissensusindex.com (`.org` and `www` redirect to it). Repo: `github.com/rsxhoxhi/dissensus-index` (private). There is no spreadsheet; `data/cases.json` is the master (§2).
 - **Build:** merging to `main` triggers a Netlify deploy, which runs `python3 scan/build_public.py` and publishes `dist/` — public-safe files only, with the private fields stripped from the served `cases.json`. The build never modifies the master.
 - **Workflow:** the cloud Routine runs the daily scan (`scan/DAILY_SCAN_ROUTINE.md`) and opens a PR on a dated `claude/daily-YYYY-MM-DD` branch. After review, `scan/finalize_ids.py` assigns permanent IDs (§2) and the editor merges; nothing reaches the live site without that merge.
 - **Open:** reconcile the public methodology page with current practice — the source list (§6A), the retired staging system (§9), and the contested-claim inclusion criterion (§7). Record the Zenodo DOI-per-release decision here once made.
