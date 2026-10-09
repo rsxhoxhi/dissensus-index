@@ -13,11 +13,11 @@
   <header class="masthead">
     <div class="masthead-inner">
       <h1><a href="index.html">The Dissensus Index</a></h1>
-      <span class="masthead-issue">Summer 2026 · No. 1</span>
+      <span class="masthead-issue">Beta</span>
     </div>
     <p class="masthead-tagline">A quarterly record of art controversy</p>
     <nav class="masthead-nav">
-      <a href="index.html" class="active">Issue</a>
+      <a href="index.html" class="active">Home</a>
       <a href="browse.html" class="active">Browse the index</a>
       <a href="about.html">About</a>
       <a href="methodology.html">Methodology</a>
@@ -31,7 +31,7 @@
 
   <footer class="colophon">
     <span>← <a href="index.html" style="color:var(--teal);text-decoration:none;">Back to docket</a></span>
-    <span>Dissensus Index no. 1 (Summer 2026) · dissensusindex.com</span>
+    <span>Dissensus Index · dissensusindex.com</span>
   </footer>
 </div>
 
@@ -119,7 +119,7 @@ async function loadCase() {
     ${additionalHtml}
 
     <div style="margin-top:2rem;padding-top:1rem;border-top:0.5px solid var(--ink-rule);font-family:var(--mono);font-size:0.65rem;color:var(--ink-light);">
-      Cite as: Dissensus Index, case ${escHtml(c.id)}, observed Summer 2026, methodology v1.0. dissensusindex.com/case.html?id=${encodeURIComponent(c.id)}
+      Cite as: Dissensus Index, case ${escHtml(c.id)}, methodology v1.1, accessed ${new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}. dissensusindex.com/case.html?id=${encodeURIComponent(c.id)}
     </div>
   `;
 }
