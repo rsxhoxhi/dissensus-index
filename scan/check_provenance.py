@@ -172,6 +172,7 @@ DOMAIN_TO_OUTLET = {
     "justice.gov": "US Department of Justice",  # added 2026-09-28 (queued ACI-330-A, USAO-DC release)
     "thestandard.com.hk": "The Standard",  # added 2026-09-29 scan (ACI-406 Kwade / Tai Kwun damage)
     "sceneweb.fr": "Sceneweb",  # added 2026-09-29 scan (ACI-407 Actoral festival subsidy)
+    "cornyn.senate.gov": "Office of Senator John Cornyn",  # added 2026-09-30 scan (ACI-391-A Reif v. Republic of Austria amicus)
 }
 
 ALIASES = {

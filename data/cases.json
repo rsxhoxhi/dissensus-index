@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 723
+  "total_cases": 728
  },
  "cases": [
   {
@@ -22829,6 +22829,41 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-386-B",
+   "entry_id": "386-B",
+   "seq": 764,
+   "title": "NYC museum unions: Brooklyn and Folk Art settle tentatively; Whitney holds to Oct 5 strike",
+   "artist": "N/A",
+   "institution": "Brooklyn Museum; American Folk Art Museum; Whitney Museum of American Art (UAW Local 2110)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 29 September 2026 (Hyperallergic)",
+   "date_discovered": "2026-09-30",
+   "sort_date": "2026-09-29",
+   "description": "Unions at the Brooklyn Museum and the American Folk Art Museum, both represented by UAW Local 2110, announced tentative contract agreements on 29 September 2026 and began ratification votes the same day, Hyperallergic reported, in each case before publicising a strike date and potentially averting a walkout. The same publication reported that the Whitney Museum of American Art's union declared it would strike on Monday 5 October 2026, ahead of the preview week for the museum's Roy Lichtenstein retrospective, unless it reached what it called a fair contract. According to Hyperallergic, all three unions had been mobilising for a wage floor of about $71,000 for full-time staff — a figure it described as the minimum City Hall recently calculated for a single, childless adult to live sustainably in New York City — and staff had voted two weeks earlier to authorise strikes (see ACI-386). A protester's sign read “Whitney Workers Build Biennials,” the report noted.",
+   "outcome": "As reported by Hyperallergic on 29 September 2026, the Brooklyn Museum and American Folk Art Museum unions had reached tentative deals and begun ratification, while the Whitney union maintained its 5 October strike deadline. [FOLLOW-UP PENDING: ratification of the Brooklyn and Folk Art agreements; whether the Whitney strike proceeds on 5 October 2026.]",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/unions-reach-tentative-agreements-at-brooklyn-museum-and-american-folk-art-museum/",
+   "additional_sources": [
+    "https://hyperallergic.com/whitney-museum-workers-declare-strike/"
+   ],
+   "themes": [
+    4
+   ],
+   "notes": "Sub-entry of ACI-386 (Whitney/Brooklyn/Folk Art strike authorisation). Follows ACI-386-A (Oct 5 strike date), which sits in the pending 2026-09-29 daily-scan PR, not yet in main. Drafted from two Hyperallergic articles (29 Sep 2026, both full text this run). Themes inherited from parent [4]. [FOLLOW-UP PENDING: ratification votes; Whitney Oct 5 strike.]",
+   "interested_parties": "UAW Local 2110; Brooklyn Museum; American Folk Art Museum; Whitney Museum of American Art",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-387",
    "entry_id": "387",
    "seq": 728,
@@ -23060,6 +23095,42 @@
    "interested_parties": "Timothy Reif and David Fraenkel (co-executors, Grünbaum heirs' estates); Leon Fischer; Milos Vávra; Justice Charles Ramos (NY Supreme Court); Richard Nagy (London dealer); estate of Fritz and Elisabeth Grünbaum",
    "coverage_geography": "US, UK",
    "follow_up_pending": false
+  },
+  {
+   "id": "ACI-391-A",
+   "entry_id": "391-A",
+   "seq": 765,
+   "title": "Grunbaum Schieles: Senators Blumenthal and Cornyn file amicus defending the HEAR Act",
+   "artist": "Egon Schiele",
+   "institution": "Albertina Museum; Leopold Museum, Vienna; Republic of Austria",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Amicus brief filed 18 September 2026 (ARTnews); announced by Senator Cornyn's office 25 September 2026",
+   "date_discovered": "2026-09-30",
+   "sort_date": "2026-09-18",
+   "description": "Senators Richard Blumenthal (Democrat of Connecticut) and John Cornyn (Republican of Texas) filed an amicus brief in the case Reif v. Republic of Austria, in the US District Court for the Southern District of New York, defending the constitutionality of the Holocaust Expropriated Art Recovery (HEAR) Act, the 2016 law they authored, ARTnews reported. According to the report, the suit was brought by Timothy Reif, a descendant of the Austrian Jewish collector Fritz Grünbaum, against the Republic of Austria together with the Albertina and Leopold museums in Vienna, seeking the return of a dozen Egon Schiele works allegedly seized under duress during the Second World War, and Austrian defendants had challenged the act as unconstitutional. The brief argues the HEAR Act does not violate the Tenth Amendment or separation-of-powers principles, contending that Congress has constitutional authority over the consequences of war and over interstate and foreign commerce. In a statement, Cornyn said he was “proud to stand in support of survivors and their families” and urged “the Court to ensure victims are not barred from claiming what is rightfully theirs,” while Blumenthal said Cornyn had “been my partner for years in bringing long overdue justice to families whose cherished art was brazenly stolen by the Nazis.”",
+   "outcome": "The bipartisan amicus brief was filed on 18 September 2026 in defence of the HEAR Act's constitutionality, and announced by Senator Cornyn's office on 25 September; the case remained before the Southern District of New York. [FOLLOW-UP PENDING: the court's ruling on the HEAR Act's constitutionality and on the restitution claim in Reif v. Republic of Austria.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "ARTnews",
+    "Office of Senator John Cornyn"
+   ],
+   "source": "https://www.artnews.com/art-news/news/senators-blumenthal-and-cornyn-file-amicus-brief-in-case-of-heirs-suing-for-nazi-looted-egon-schiele-works-1234799945/",
+   "additional_sources": [
+    "https://www.cornyn.senate.gov/news/cornyn-blumenthal-file-amicus-brief-supporting-holocaust-survivors-victims-in-recovery-of-nazi-confiscated-art/"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "Sub-entry filed under ACI-391 (Reif v. Nagy, the 2018 Grunbaum-Schiele precedent) as part of the Reif/Grunbaum restitution cluster. NB this is a distinct case — Reif v. Republic of Austria (SDNY), against Austria and the Albertina/Leopold museums — not the parent's Reif v. Nagy; kept with the parent as a cluster (editorially confirmed on review). Reference source is ARTnews (reached only as a search snippet this run; artnews.com is bot-walled to direct fetch), carrying the case specifics — the Sep 18 filing date, the Albertina and Leopold museums and the dozen works. The two senator quotations are carried in the primary statement from Senator Cornyn's office (full text this run), retained as an additional source; Cornyn's office is not the lead source because it is a party's press office rather than a news outlet. Themes inherited from parent [12]. [FOLLOW-UP PENDING: ruling on HEAR Act constitutionality and the restitution claim.]",
+   "interested_parties": "Sen. Richard Blumenthal (D-CT); Sen. John Cornyn (R-TX); Timothy Reif (Grünbaum heir); Republic of Austria; Albertina Museum; Leopold Museum",
+   "coverage_geography": "US, Europe",
+   "follow_up_pending": true
   },
   {
    "id": "ACI-392",
@@ -23671,6 +23742,108 @@
    "notes": "New parent. Public-funding/expression dispute (theme 2): a departmental subsidy suspended after a pressure campaign over a programmed author. Externalised-censorship / funding-conditionality frame; governance-friction in a democracy. [FOLLOW-UP PENDING] mirrored in outcome. Drafted from Sceneweb; enrich on a Europe (Wednesday) trawl with Le Monde and regional outlets.",
    "interested_parties": "Martine Vassal (president, Bouches-du-Rhône departmental council); Louisa Yousfi; Festival Actoral; city of Marseille; PACA region",
    "coverage_geography": "France",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-408",
+   "entry_id": "408",
+   "seq": 766,
+   "title": "Russian drone strike damages 1850s home of Ukraine's Academy of Sciences in Kyiv",
+   "artist": "N/A",
+   "institution": "Presidium of the National Academy of Sciences of Ukraine",
+   "country": "Ukraine",
+   "governance_type": "Democracy",
+   "date_controversy": "Drone strike Monday 28 September 2026 (The Art Newspaper)",
+   "date_discovered": "2026-09-30",
+   "sort_date": "2026-09-28",
+   "description": "A Russian drone made a direct hit on the Presidium of the National Academy of Sciences of Ukraine, the academy's headquarters on Volodymyrska Street in central Kyiv, on Monday 28 September 2026, killing two people and setting the building on fire, The Art Newspaper reported. The classical-style building dates from the 1850s and was designed by the architect Oleksandr Beretti; the academy it houses was founded in 1918 by the scientist Volodymyr Vernadsky and oversees Ukraine's scientific research network. The Art Newspaper quoted Vladyslav Havrylov as saying the strike “hits the institution that has safeguarded Ukraine's scholarly memory for more than a century.” Ukraine's foreign minister, Andrii Sybiha, called on UNESCO to “strip the aggressor state of its voice, voting rights,” and the culture minister, Tetyana Berezhna, said that “more than 13 million new Ukrainian books were destroyed” in related attacks, according to the report. The Art Newspaper noted that, as of 23 September, UNESCO had confirmed damage to 560 Ukrainian cultural sites, including 164 religious sites, 283 historical buildings and 43 museums, since the start of the full-scale invasion.",
+   "outcome": "As reported by The Art Newspaper on 29 September 2026, the building was struck and caught fire, two people were killed, and Ukrainian officials renewed calls for UNESCO to suspend Russia's membership rights. [FOLLOW-UP PENDING: UNESCO's response to the Ukrainian ministers' appeal; any full damage assessment of the Presidium building and its contents.]",
+   "tags": [
+    "Cultural property destruction",
+    "Conflict zone",
+    "Russia-Ukraine war",
+    "Geopolitics",
+    "Historical erasure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/29/ukraine-historic-academy-sciences-damaged-russian-drone",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Part of the Russia-Ukraine war cultural-destruction cluster (cf. ACI-127 National Art Museum of Ukraine, ACI-187 Kyiv Pechersk Lavra). Drafted narrowly from The Art Newspaper (29 Sep 2026, full text retrieved this run); every sentence and quotation traces to that article. No Dissensus theme cleanly fits a wartime strike on a scientific institution's historic headquarters, so themes left empty pending review (the cluster has used [5] and [6] inconsistently). Building not itself a UNESCO World Heritage Site, so that descriptor is omitted. [FOLLOW-UP PENDING: UNESCO response to Ukraine's appeal; full damage assessment.]",
+   "interested_parties": "National Academy of Sciences of Ukraine; Andrii Sybiha (Ukraine foreign minister); Tetyana Berezhna (Ukraine culture minister); Vladyslav Havrylov; UNESCO",
+   "coverage_geography": "Ukraine, Europe, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-409",
+   "entry_id": "409",
+   "seq": 767,
+   "title": "Relocation of 47 Maya structures for the Maya Train draws archaeologists' lawsuit",
+   "artist": "N/A",
+   "institution": "National Institute of Anthropology and History (INAH); Tren Maya (Maya Train)",
+   "country": "Mexico",
+   "governance_type": "Democracy",
+   "date_controversy": "Lawsuit filed 7 July 2026; reported by The Art Newspaper 30 September 2026",
+   "date_discovered": "2026-09-30",
+   "sort_date": "2026-07-07",
+   "description": "Two archaeologists have sued 26 officials of Mexico's National Institute of Anthropology and History (INAH) over the relocation of 47 Maya structures moved to make way for the Maya Train, a 1,554km railway across the Yucatán Peninsula that began operating in December 2023, The Art Newspaper reported. According to the report, the structures were moved to the Balam Tun Memory Park, a four-hectare site in Chetumal, Quintana Roo, and the suit — filed on 7 July 2026 by the archaeologist Jesús E. Sánchez and a colleague against officials including the former INAH director Diego Prieto and the archaeological-preservation coordinator Manuel Pérez Rivas — alleges the relocation amounts to “heritage falsification” and violated national and international law. The Art Newspaper quoted Sánchez that it is “materially impossible to relocate pre-Hispanic structures due to the construction methods used,” and the plaintiffs' lawyer, Raymundo Tamay, that the interventions violated heritage laws “by removing and artificially reconstructing archaeological remains” and caused serious damage to Mexico's archaeological heritage; Tamay was said to have submitted a 700-page evidence file drawing on 20 experts. Pérez, according to the report, rejected the accusation, saying the agency had not created stage sets but had preserved scientific evidence and had catalogued and georeferenced the monuments, with in-situ preservation prioritised where feasible. The heritage lawyer José Manuel Hermosillo warned the case could set “a fatal precedent.”",
+   "outcome": "As reported by The Art Newspaper on 30 September 2026, the suit filed in July 2026 was proceeding against 26 INAH officials; INAH defended the relocation as a lawful safeguarding measure. [FOLLOW-UP PENDING: the outcome of the lawsuit against the INAH officials and any ruling on whether the relocation violated heritage law.]",
+   "tags": [
+    "Archaeological site",
+    "Legal challenge",
+    "Historic preservation",
+    "Conservation"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/30/relocation-of-ancient-maya-structures-to-make-way-for-railway-prompts-legal-challenge",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Tren Maya heritage-relocation dispute. Drafted narrowly from The Art Newspaper (30 Sep 2026, full text retrieved this run); all quotations and figures trace to that article. On review the article was re-read to verify quoted spans: Pérez's defence is the article's paraphrase (rendered here as reported speech, not direct quotes), and the \"removing and artificially reconstructing archaeological remains\" quote is the lawyer Tamay's, not Sánchez's — corrected. sort_date anchored to the 7 July 2026 filing (the contested event), date_discovered to this scan. No Dissensus theme cleanly fits an expert/legal dispute over archaeological-relocation method; themes left empty pending review (cf. ACI-140 Chichen Itza, themes [5,9]). 'Heritage falsification' is the plaintiffs' characterization, attributed in the description. [FOLLOW-UP PENDING: lawsuit outcome.]",
+   "interested_parties": "Jesús E. Sánchez (plaintiff archaeologist); Raymundo Tamay (plaintiffs' lawyer); Diego Prieto (former INAH director); Manuel Pérez Rivas (INAH archaeological-preservation coordinator); INAH; José Manuel Hermosillo (heritage lawyer)",
+   "coverage_geography": "Mexico, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-410",
+   "entry_id": "410",
+   "seq": 768,
+   "title": "Iraqi archaeologists arrested amid fight over law permitting heritage-site demolition",
+   "artist": "N/A",
+   "institution": "State Board of Antiquities and Heritage (SBAH), Iraq; Mosul University",
+   "country": "Iraq",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Ali Tabar arrested 17 September 2026; Amir Al-Jumaili arrested week of 29 September 2026 (The Art Newspaper)",
+   "date_discovered": "2026-09-30",
+   "sort_date": "2026-09-17",
+   "description": "The arrests of two Iraqi archaeologists have prompted a backlash, The Art Newspaper reported. According to the report, Ali Tabar, an archaeologist with Iraq's State Board of Antiquities and Heritage (SBAH), was arrested on 17 September 2026 on an extortion allegation — that he took unauthorised payments from international teams — while Amir Al-Jumaili, a professor at Mosul University, was arrested the same week on charges the paper could not confirm. The Art Newspaper reported that both had spoken out against Iraq's investment law, which it said allows archaeological sites to be downgraded and demolished for real-estate development, and that Tabar had documented the bulldozing of Samarra, the Abbasid capital, despite the discovery there of Christian churches and monasteries, as well as damage at Old Basra. The paper quoted an archaeologist saying Tabar “is innocent and has committed no offence other than wanting to defend archaeological sites,” and Davide Nadali of Sapienza University in Rome saying “the SBAH was aware of the work he did for us”; it reported that Tabar had written on Facebook that sites were being “swiftly demolished and erased in shameful silence.” The SBAH, according to the report, justified Tabar's arrest as preventing practices that “harm the country's reputation.”",
+   "outcome": "As reported by The Art Newspaper on 29 September 2026, both archaeologists remained in detention amid widespread social-media support; the charge against Al-Jumaili was unconfirmed. [FOLLOW-UP PENDING: the charges against Amir Al-Jumaili; the resolution of the extortion case against Ali Tabar; any formal statements from cultural or academic bodies.]",
+   "tags": [
+    "Political interference",
+    "Cultural property destruction",
+    "Demolition",
+    "Archaeological site",
+    "UNESCO World Heritage Site",
+    "Historic preservation"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/09/29/he-has-committed-no-offence-other-than-wanting-to-defend-heritage-sites-arrest-of-iraqi-archaeologists-sparks-backlash",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Suppression of heritage defenders plus development-driven demolition (Samarra Archaeological City is a UNESCO World Heritage Site). Drafted narrowly from The Art Newspaper (29 Sep 2026, full text retrieved this run); all quotations trace to that article. governance_type 'Hybrid Regime' is a judgment call (no prior Iraq entry to anchor to) — flagged for review. No Dissensus theme cleanly fits arrests-plus-demolition; themes left empty pending review. [FOLLOW-UP PENDING: charges and case outcomes.]",
+   "interested_parties": "Ali Tabar (SBAH archaeologist); Amir Al-Jumaili (Mosul University professor); Davide Nadali (Sapienza University, Rome); State Board of Antiquities and Heritage (SBAH)",
+   "coverage_geography": "Iraq, Europe, International",
    "follow_up_pending": true
   }
  ]
