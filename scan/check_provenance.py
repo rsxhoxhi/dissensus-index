@@ -47,6 +47,9 @@ DOMAIN_TO_OUTLET = {
     "reuters.com": "Reuters",
     "fox5ny.com": "Fox 5 New York",  # added 2026-09-13 scan
     "1news.co.nz": "1News",  # added 2026-09-13 scan
+    "arlnow.com": "ARLnow",  # added 2026-10-10 scan (ACI-038-U Arlington County arch suit)
+    "canberratimes.com.au": "Australian Associated Press",  # added 2026-10-10 scan (AAP wire carrier; cf. spokesman.com->Reuters)
+    "stockholmcf.org": "Stockholm Center for Freedom",  # added 2026-10-10 scan (ACI-425 Göktaş)
     "akp.gov.kh": "Agence Kampuchea Presse",  # added 2026-09-11 scan (ACI-385 Preah Vihear)
     "elespanol.com": "El Español",  # added 2026-09-11 scan (ACI-386 Valladolid)
     "apnews.com": "Associated Press",
