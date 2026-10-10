@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 734
  },
  "cases": [
   {
@@ -17048,6 +17048,43 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-038-U",
+   "entry_id": "038-U",
+   "seq": 777,
+   "title": "Trump Triumphal Arch: Arlington County sues to halt project, first government body to do so",
+   "artist": "N/A",
+   "institution": "Memorial Circle, Arlington (near Arlington National Cemetery), Washington DC approach; National Park Service",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Suit filed 8 October 2026",
+   "date_discovered": "2026-10-10",
+   "sort_date": "2026-10-08",
+   "description": "The Arlington County Board filed a federal lawsuit on 8 October 2026 to halt the Trump administration's proposed roughly 250-foot triumphal arch at Memorial Circle, becoming the first government body to take legal action against the project, ARLnow reported, carrying an Associated Press account. The suit, filed in the U.S. District Court for the Eastern District of Virginia and brought with the legal group Democracy Forward, invokes the National Environmental Policy Act (NEPA), arguing that the National Park Service — the agency responsible for projects on national park land such as Memorial Circle — is moving too quickly toward ground-disturbing construction without the required review; the complaint called the agency's stated \"routine decisional process\" \"a pretext designed to shore up justifications for building the Arch\" and referred to \"the agency's feverish pace toward construction of the arch.\" ARLnow reported that county planning staff were given a seven-day comment window this summer rather than the usual 60 days, and that the county cites unstudied traffic effects on the George Washington Parkway and Richmond Highway, crowded sidewalks around the traffic circle, possible conflicts with flights on final approach to Reagan National Airport, and damage to historic views tied to Arlington National Cemetery. County Board Chair Matt de Ferranti said in a statement that \"our community has the most to lose from this egregious and unlawful proposed project,\" and called Trump's plan to make the structure a \"top grade military complex\" with drones, snipers and ammunition \"deeply unsettling.\" The Association of Flight Attendants-CWA raised safety concerns about the arch's position on the airport's final approach. The suit is separate from the earlier federal suit in Washington by three veterans and an architectural historian (see ACI-038-Q), in which the court ordered the administration to give 48 hours' notice before any construction-related activity.",
+   "outcome": "The county asks the court to halt the agency's pace toward construction until NEPA review is completed; the administration had not responded to the filing at publication. [FOLLOW-UP PENDING: the court's response to Arlington County's suit, and the National Capital Planning Commission's expected November 2026 final vote on the arch (see ACI-038-R).]",
+   "tags": [
+    "Design controversy",
+    "Legal challenge",
+    "Landmark dispute",
+    "Historic preservation"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARLnow"
+   ],
+   "source": "https://www.arlnow.com/2026/10/08/new-arlington-county-sues-to-halt-proposed-arch-in-memorial-circle/",
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038 (Trump Triumphal Arch). The second lawsuit against the project and the first by a government body, distinct from the veterans' suit at ACI-038-Q. Drafted narrowly from ARLnow (which carried an Associated Press account; full text, quotes verified verbatim); arlnow.com added to DOMAIN_TO_OUTLET this run. The NCPC November 2026 final-vote timing is cross-referenced to ACI-038-R rather than restated from an uncited source. Themes inherited from the ACI-038 cluster (1 defining-the-monument, 2 public funding, 9 public objection).",
+   "interested_parties": "Arlington County Board (Chair Matt de Ferranti); Democracy Forward; National Park Service; Interior Secretary Doug Burgum; Association of Flight Attendants-CWA",
+   "coverage_geography": "US",
+   "follow_up_pending": true,
+   "additional_sources": []
+  },
+  {
    "id": "ACI-007-F",
    "entry_id": "007-F",
    "seq": 466,
@@ -22521,6 +22558,39 @@
    ]
   },
   {
+   "id": "ACI-378-B",
+   "entry_id": "378-B",
+   "seq": 778,
+   "title": "Musée Renoir theft: two missing Renoirs recovered, six suspects arrested",
+   "artist": "Pierre-Auguste Renoir",
+   "institution": "Musée Renoir, Cagnes-sur-Mer",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Recovery and arrests reported 9 October 2026",
+   "date_discovered": "2026-10-10",
+   "sort_date": "2026-10-09",
+   "description": "The two Renoir paintings still missing after the 8 September 2026 burglary at the Musée Renoir in Cagnes-sur-Mer — 'Madame Colonna Romano' (1910) and 'Jeune femme au puits' ('Young Woman at the Well', 1886) — have been recovered, and six suspects arrested, The Art Newspaper reported. According to the paper, the thieves dropped the two works while fleeing, and the arrests followed coordinated police operations across southern and eastern France; citing Nice-Matin, it reported that the two suspected burglars are presumed to be among those held. The mayor of Cagnes-sur-Mer, Bryan Masson, thanked France's Central Office for the Fight against Trafficking in Cultural Property and said the recovery was \"a tremendous relief for the people of Cagnes-sur-Mer and for everyone who cares deeply about our museum,\" adding that \"these two paintings are far more than works of art.\" The four paintings taken in the theft were part of the Musée d'Orsay collection and had been on loan to Cagnes-sur-Mer since 1995; the mayor's office estimated the stolen art at €9m. No charges had been announced at the time of publication. 'Young Woman at the Well' is itself the subject of an unresolved Nazi-era restitution claim by the heirs of Jadwiga Zak (see ACI-378-A).",
+   "outcome": "Both previously-missing paintings recovered and six suspects in custody, with no charges yet announced; this resolves the recovery question flagged at the parent and ACI-378-A, while the Nazi-era restitution claim for 'Young Woman at the Well' remains unresolved. [FOLLOW-UP PENDING: charges against the suspects, and resolution of the Zak-heirs restitution claim for 'Young Woman at the Well'.]",
+   "tags": [
+    "Security failure",
+    "Repatriation"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/09/stolen-renoir-paintings-recovered-france",
+   "themes": [
+    12
+   ],
+   "notes": "Sub-entry of ACI-378 (Musée Renoir theft). Resolves the recovery question in the parent and ACI-378-A flag: both previously-missing works are back. Drafted narrowly from The Art Newspaper (Gareth Harris, 9 October 2026; full text, Masson quotes verified verbatim). The detail that the two suspected burglars are among the six held is TAN's attribution to Nice-Matin (not independently retrieved). The Zak-heirs restitution claim for 'Young Woman at the Well' (ACI-378-A, theme 12) is unaffected by the physical recovery.",
+   "interested_parties": "Musée Renoir (Cagnes-sur-Mer); Mayor Bryan Masson; France's Central Office for the Fight against Trafficking in Cultural Property; Musée d'Orsay (owner); heirs of Jadwiga Zak",
+   "coverage_geography": "France, international art press",
+   "follow_up_pending": true,
+   "additional_sources": []
+  },
+  {
    "id": "ACI-379",
    "entry_id": "379",
    "seq": 700,
@@ -23916,6 +23986,80 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-425",
+   "entry_id": "425",
+   "seq": 779,
+   "title": "Turkish comedian Deniz Göktaş jailed over 'Ölü Deniz' stand-up show",
+   "artist": "Deniz Göktaş",
+   "institution": "Istanbul criminal courts (Turkish judiciary)",
+   "country": "Turkey",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Show uploaded 24 June 2026; detained 2 July, jailed 3 July 2026",
+   "date_discovered": "2026-10-10",
+   "sort_date": "2026-07-02",
+   "description": "Deniz Göktaş, a 32-year-old Turkish comedian, was detained at Istanbul's main airport on his return from abroad and, after questioning by prosecutors, ordered jailed pending trial in early July 2026 on charges of insulting religious values and insulting the president, the Australian Associated Press reported. The charges followed a stand-up routine recorded in Istanbul in June 2026 and uploaded to YouTube on 24 June, which AAP said had drawn 9.5 million views; according to AAP, the pro-government newspaper Sabah reported that dozens of viewers offended by jokes about religion filed complaints that prompted the investigation. In the routine Göktaş called President Recep Tayyip Erdogan a \"dictator,\" describing him as having moved from a \"shy dictator\" to one \"confident in his identity\"; insulting the president carries a penalty of up to four years. During questioning he said he had not intended to demean religious values or insult the president and described his material as satire, according to excerpts AAP attributed to the rights-focused portal Bianet. AAP reported that the Turkish Human Rights Association says judicial harassment over free expression has become systematic, while the government maintains that Turkey's courts are impartial.",
+   "outcome": "After 56 days in pretrial detention Göktaş was ordered released on the insult and incitement counts, but prosecutors immediately brought a further count of 'praising crime and criminals' and, on appeal, the Istanbul 28th High Criminal Court issued a fresh arrest warrant on 31 August 2026, leaving him held on three counts, according to the Stockholm Center for Freedom (citing Turkish Minute and the Anka news agency). The New York Times reported on 10 October 2026 that Göktaş delivered a defense in court. [FOLLOW-UP PENDING: trial and verdict on the three counts; enrichment with Turkish-language and contemporaneous coverage, and dated sub-entries for the August 2026 release-and-rearrest sequence and the October 2026 hearing.]",
+   "tags": [
+    "Censorship",
+    "Legal challenge",
+    "Religious objection",
+    "Political art"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "Australian Associated Press",
+    "Stockholm Center for Freedom",
+    "The New York Times"
+   ],
+   "source": "https://www.canberratimes.com.au/story/9304510/turkish-court-jails-comedian-over-dictator-quip/",
+   "themes": [
+    8
+   ],
+   "notes": "New parent (provisional ACI-425; finalized at merge). Turkish performing-arts censorship / governance-friction case (hybrid regime, democratic-backsliding trajectory). Parent anchored to the June–July 2026 origin per the backfill-dating rule (CLAUDE.md §13) and drafted from the AAP wire as carried by The Canberra Times (full text; 'dictator'/'shy dictator' quotes verified verbatim); canberratimes.com.au added to DOMAIN_TO_OUTLET as an AAP wire carrier this run. Later developments are summarized in the outcome and should be split into dated sub-entries on enrichment: the August 2026 release-and-rearrest sequence (Stockholm Center for Freedom, citing Turkish Minute/Anka) and the October 2026 court hearing (NYT, metadata only this run). The Stockholm Center for Freedom is a press-freedom advocacy outlet (CLAUDE.md source discipline: not on the exclusion list; its legal-sequence facts are corroborated by the AAP wire and broader coverage, and its characterizations are attributed, not adopted). Both religious-objection complaints (jokes about religion) and the insulting-the-president charge are in play; theme 8 captures the artist-vs-offended-audience axis, but the core is state censorship of political satire, which the theme set does not directly cover. Cf. ACI-029 (China performing-arts pre-approval) as a governance-friction comparison.",
+   "interested_parties": "Deniz Göktaş (comedian); President Recep Tayyip Erdogan; Istanbul criminal courts; Turkish Human Rights Association; Sabah (complaints coverage)",
+   "coverage_geography": "Turkey, US, Australia, Europe",
+   "follow_up_pending": true,
+   "additional_sources": [
+    "https://stockholmcf.org/?p=74783",
+    "https://www.nytimes.com/2026/10/10/arts/deniz-goktas-jail-joke-free-speech.html"
+   ]
+  },
+  {
+   "id": "ACI-426",
+   "entry_id": "426",
+   "seq": 780,
+   "title": "Moctezuma's feather headdress at Vienna's Weltmuseum: Austrian candidate pledges return to Mexico",
+   "artist": "N/A",
+   "institution": "Weltmuseum Wien (Vienna)",
+   "country": "Austria / Mexico",
+   "governance_type": "Democracy",
+   "date_controversy": "Pledge reported 9 October 2026; repatriation dispute long-running",
+   "date_discovered": "2026-10-10",
+   "sort_date": "2026-10-09",
+   "description": "Gunther Fehlinger-Jahn, an Austrian economist and prospective independent presidential candidate, pledged that if elected in 2028 he would return to Mexico the 16th-century Aztec feather headdress known in Spanish as the penacho, The Art Newspaper reported. The quetzalapanecayotl (quetzal headdress), the only known surviving example of its kind, is held by the Weltmuseum in Vienna; Fehlinger-Jahn said the two countries should negotiate \"a bilateral solution based on friendship rather than confrontation\" and that \"the original penacho should ultimately belong to Mexico,\" suggesting ownership could transfer to Mexico under a joint conservation arrangement even if the object stayed in Vienna should transport prove unsafe. According to TAN, the headdress's route to Europe is uncertain — its first documented European reference is a 1596 inventory at Ambras Castle in Innsbruck — and most experts agree Moctezuma never wore it. TAN reported that Mexico has long sought its return: Emperor Maximilian requested it in the 1860s; in 2020 Beatriz Gutiérrez Müller, wife of then-president López Obrador, sought a loan for a 2021 exhibition marking 500 years since the fall of Tenochtitlan and offered Habsburg-era objects in exchange, but Austria refused, causing diplomatic tension. Austria cites the object's fragility — a 2010–12 joint Mexico–Austria study found it too fragile to transport, though some experts dispute this. TAN noted that an Austrian president could not decide restitution unilaterally (quoting Pierre Losson), that Austrian legislation to enable restitution of colonial-era objects remains pending, and that it had received no direct response from the Mexican government to the pledge.",
+   "outcome": "No change in the headdress's status: it remains at the Weltmuseum in Vienna, and Austrian enabling legislation for colonial-era restitution is pending. [FOLLOW-UP PENDING: the 2028 Austrian presidential election and whether Fehlinger-Jahn's candidacy is confirmed; progress of Austrian restitution legislation; any Mexican government response.]",
+   "tags": [
+    "Repatriation",
+    "Indigenous rights"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/09/austrian-politician-gunther-fehlinger-jahn-pledges-moctezuma-headdress-return-mexico",
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "New parent (provisional ACI-426; finalized at merge); universal-museum / restitution dispute (themes 5, 12) over the Aztec penacho (quetzalapanecayotl) at the Weltmuseum Wien, previously absent from the Index. THIN / single-source: logged from one current article (The Art Newspaper, 9 October 2026; full text) pegged to an Austrian presidential hopeful's campaign pledge — the news hook rather than the substance, which is the long-running Mexico–Austria repatriation dispute that TAN summarizes. Per TAN the candidate's independent candidacy is not yet confirmed. FOR REVIEW: borderline whether the pledge alone is a sufficient news peg; retained under the 'err toward MORE' rule as the entry for a significant, genuinely-untracked repatriation dispute. Enrich on a Europe (Wednesday) trawl with contemporaneous 2020–21 coverage of Austria's refusal of Mexico's exhibition-loan request and the Weltmuseum's position; consider re-anchoring sort_date to the 2020 diplomatic episode once that coverage is retrieved. Cf. universal-museum cluster (e.g. Benin Bronzes).",
+   "interested_parties": "Gunther Fehlinger-Jahn (prospective Austrian presidential candidate); Weltmuseum Wien; Mexican government; Beatriz Gutiérrez Müller; Xokonoschtletl Gómora (campaigner); Pierre Losson; Miruna Achim",
+   "coverage_geography": "Austria, Mexico, international art press",
+   "follow_up_pending": true,
+   "additional_sources": []
   }
  ]
 }
