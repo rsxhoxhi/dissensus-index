@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 732
  },
  "cases": [
   {
@@ -16387,6 +16387,43 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BN",
+   "entry_id": "005-BN",
+   "seq": 782,
+   "title": "Kennedy Center: Rick Canny named artistic director amid scrutiny over his fees",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Appointment reported October 9, 2026",
+   "date_discovered": "2026-10-11",
+   "sort_date": "2026-10-09",
+   "description": "On October 9, 2026 The New York Times reported that the Kennedy Center had named Rick Canny, a Los Angeles-based artist manager whose clients have included ZZ Top, Mötley Crüe's Tommy Lee and Creed's Scott Stapp, as its artistic director, with staff informed of the decision the day before. Executive director Matt Floca described Canny as his chief artistic adviser; his remit covers artistic strategy, talent curation, ticketing and pricing, media opportunities and programming sponsorships, and he will remain a consultant in the role. As reported by the Times and carried by BroadwayWorld, two employees raised internal concerns about Canny's fees and expenses, and documents showed a $30,000 consulting fee for one month in 2026 and a $1,850 round-trip Los Angeles–Washington flight charged to the center; the center said the fee does not reflect his current agreement, that his compensation will not increase and that his travel expenses have been reviewed. Canny, who began consulting for the center in 2025 and has advocated more commercial, mass-market programming, was an executive producer of the June 2026 Mark Twain Prize ceremony and will hold the same role for the December 2026 Kennedy Center Honors.",
+   "outcome": "Canny takes the artistic-director role while the center's main building remains closed for renovations; the center defended his compensation after the reported staff concerns. [FOLLOW-UP PENDING: Canny's programming decisions and any further scrutiny of his fees or of the center's artistic direction under the current administration.]",
+   "tags": [
+    "Institutional crisis",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times",
+    "BroadwayWorld"
+   ],
+   "source": "https://www.nytimes.com/2026/10/09/arts/kennedy-center-trump-rick-canny.html",
+   "additional_sources": [
+    "https://www.broadwayworld.com/article/Kennedy-Center-Names-Rick-Canny-Artistic-Director-20261009"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005 (Kennedy Center); follows ACI-005-BM. The artistic-director appointment amid the institutional upheaval under the Trump-appointed leadership. First reported by The New York Times (9 October 2026, metadata/abstract); drafted from BroadwayWorld's full-text summary of the Times report (full text retrieved this run). Fee and expense specifics attributed to the Times. No verbatim quotes used.",
+   "interested_parties": "Rick Canny; Matt Floca (executive director); Kennedy Center",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -23915,6 +23952,42 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-427",
+   "entry_id": "427",
+   "seq": 781,
+   "title": "Comedian Deniz Göktaş convicted of insulting Erdoğan and religion, ordered released",
+   "artist": "Deniz Göktaş",
+   "institution": "N/A",
+   "country": "Turkey",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Detained 2 July 2026; convicted at first hearing 28 September 2026",
+   "date_discovered": "2026-10-11",
+   "sort_date": "2026-09-28",
+   "description": "On 28 September 2026 the Istanbul 14th Penal Court of First Instance convicted the stand-up comedian Deniz Göktaş at his first hearing, sentencing him to 11 months and 20 days for “insulting the president” and 7 months and 15 days for “insulting religious values,” while acquitting him of “praising crime and criminals,” bianet reported. Göktaş had been detained at Istanbul Airport on 2 July 2026 on his return from abroad and held for 88 days at Çorlu Karatepe High Security Prison; the indictment had sought a total of between 2 years 2 months and 9 years 8 months. The court ordered his release. Göktaş denied the charges and argued the material was political satire: of his “shy dictator” joke he said, “Someone else might have called him a democrat and made people laugh more than I did,” and of a joke cited under the religious-values charge he said, “There is no intention or implication of insulting religious values,” per bianet. He said he had performed the cited jokes 197 times before audiences totalling more than 100,000 people, and that the complaints lodged with the Presidency Communication Center were part of a coordinated campaign; the dispute followed the set being posted to YouTube on 25 June 2026.",
+   "outcome": "Convicted on two counts and acquitted on a third, and ordered released at the first hearing. [FOLLOW-UP PENDING: appeal of the convictions; reports of a subsequent re-arrest on separate charges, not verified this run.]",
+   "tags": [
+    "Censorship",
+    "Legal challenge",
+    "Religious objection",
+    "Defamation"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "Bianet"
+   ],
+   "source": "https://bianet.org/haber/court-orders-comedian-deniz-goktass-release-after-sentences-for-insulting-erdogan-and-islam-323865",
+   "additional_sources": [],
+   "themes": [
+    1,
+    8
+   ],
+   "notes": "New parent. Turkey governance-friction case (CLAUDE.md §14): criminal prosecution of satirical/comedic expression under a hybrid regime with a liberal cultural history. Drafted narrowly from bianet (28 September 2026, full text; quotes verified verbatim). The New York Times covered the courtroom defence on 10 October 2026 (metadata only; not retrieved as full text this run). Scope flagged for review: stand-up comedy as within the Index's art/cultural-expression remit (theme 1 — who decides what counts as art). [FOLLOW-UP PENDING: appeal; unverified reports of re-arrest on separate charges]",
+   "interested_parties": "Deniz Göktaş; Istanbul 14th Penal Court of First Instance; Turkish Presidency Communication Center (CİMER complaints)",
+   "coverage_geography": "Turkey, international",
    "follow_up_pending": true
   }
  ]

@@ -175,6 +175,8 @@ DOMAIN_TO_OUTLET = {
     "cornyn.senate.gov": "Office of Senator John Cornyn",  # added 2026-09-30 scan (ACI-391-A Reif v. Republic of Austria amicus)
     "biobiochile.cl": "BioBioChile",  # added 2026-10-08 (ACI-411 backfill, 2020 San Francisco de Borja fire)
     "centrolatinoamericanodelvitral.org": "Centro Latinoamericano del Vitral",  # added 2026-10-08 (ACI-411/-A heritage corroboration)
+    "bianet.org": "Bianet",  # added 2026-10-11 scan (ACI-427 Deniz Göktaş prosecution)
+    "broadwayworld.com": "BroadwayWorld",  # added 2026-10-11 scan (ACI-005-BN Kennedy Center artistic director)
 }
 
 ALIASES = {
