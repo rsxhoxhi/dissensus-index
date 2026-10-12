@@ -144,6 +144,7 @@ DOMAIN_TO_OUTLET = {
     "artlyst.com": "Artlyst",
     "unn.ua": "UNN",
     "inquirer.com": "The Philadelphia Inquirer",
+    "whyy.org": "WHYY",
     "arabnews.com": "Arab News",
     "civil.ge": "Civil Georgia",
     "whitemad.pl": "Whitemad",
