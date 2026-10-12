@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 731
  },
  "cases": [
   {
@@ -22677,7 +22677,7 @@
    "date_discovered": "2026-09-15",
    "sort_date": "2026-09-14",
    "description": "The Philadelphia Historical Commission is weighing whether to grant historic-landmark protection to \"We The Youth\" (1987), a Keith Haring mural in the historically Black Point Breeze neighborhood of South Philadelphia, according to Hyperallergic. Per Hyperallergic, the work — painted by Haring with the artists Clarence Wood, Gilberto Wilson, and Jose Seabourne and 14 high-school students — is the only one of Haring's collaborative murals that remains in its original location. Hyperallergic reported that the wall is co-owned by the Neighborhood Gardens Trust, which preserves community gardens, and OCF Realty, a real-estate company the outlet said is often blamed for the neighborhood's rapid gentrification, and that a designation would make it the first outdoor mural to receive the commission's protection in a city that bills itself as the \"Mural Capital of the World.\" The Keith Haring Foundation and area residents are among the parties named by Hyperallergic. A public meeting was scheduled for September 16, 2026, with a full commission vote set for October 9, 2026.",
-   "outcome": "Pending — the Historical Commission's committee was set to meet September 16, 2026, with a full commission vote scheduled for October 9, 2026. [FOLLOW-UP PENDING: the October 9, 2026 commission vote on landmark protection for the mural]",
+   "outcome": "Designated. On October 9, 2026 the Philadelphia Historical Commission voted unanimously to add the mural to the Philadelphia Register of Historic Places — the city's first landmarked outdoor mural (see ACI-383-A).",
    "tags": [
     "Historic preservation",
     "Landmark dispute"
@@ -22690,8 +22690,42 @@
    "source": "https://hyperallergic.com/keith-haring-mural-may-decide-the-fate-of-public-art-in-philly/",
    "additional_sources": [],
    "themes": [],
-   "notes": "Reported as the only surviving Haring collaborative mural in its original location; a test case for landmarking outdoor murals in Philadelphia. Cf. ACI-363 (Keith Haring drawing authenticity). [FOLLOW-UP PENDING: October 9, 2026 Historical Commission vote]",
+   "notes": "Reported as the only surviving Haring collaborative mural in its original location; a test case for landmarking outdoor murals in Philadelphia. Resolved at ACI-383-A (October 9, 2026 designation). Cf. ACI-363 (Keith Haring drawing authenticity).",
    "interested_parties": "Philadelphia Historical Commission; Keith Haring Foundation; Neighborhood Gardens Trust; OCF Realty; Point Breeze residents",
+   "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-383-A",
+   "entry_id": "383-A",
+   "seq": 771,
+   "title": "Keith Haring 'We The Youth': Philadelphia makes it the city's first landmarked outdoor mural",
+   "artist": "Keith Haring (with Clarence Wood, Gilberto Wilson, Jose Seabourne, and high-school students)",
+   "institution": "Philadelphia Historical Commission",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Philadelphia Historical Commission vote, October 9, 2026",
+   "date_discovered": "2026-10-12",
+   "sort_date": "2026-10-09",
+   "description": "On October 9, 2026, the Philadelphia Historical Commission voted unanimously to add Keith Haring's 1987 mural \"We the Youth\" to the Philadelphia Register of Historic Places — the first time the city has designated an outdoor mural, WHYY reported. Per WHYY, the mural is listed as an \"object,\" a category that already covers some fountains, statues and a few murals, and the designation is narrowly tailored to the mural and the party wall carrying it at 2147 Ellsworth Street in Point Breeze rather than the whole property; the owner may not remove or alter the mural without the commission's review. WHYY reported that developer Ori Feibush, one of the building's owners, wants the mural stabilized, removed and displayed elsewhere in climate-controlled storage, while Mural Arts Philadelphia — which stewards the work — argued against removal, citing a report that concluded the mural would not survive being taken off the wall in sections and reassembled off-site. Commissioner Emily Cooperman said that without designation \"we have no role in how this property, this mural, is treated,\" according to WHYY, which also reported that the stucco beneath the paint is bulging, delaminating and cracking, with the artwork fully separated from the wall near the bottom.",
+   "outcome": "Designated. The mural and its wall are protected, and the owner may not remove or alter the mural without Historical Commission review. [FOLLOW-UP PENDING: whether the owners seek approval to stabilize or relocate the mural, and how the wall's deteriorating condition is resolved.]",
+   "tags": [
+    "Historic preservation",
+    "Landmark dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "WHYY",
+    "The Philadelphia Inquirer"
+   ],
+   "source": "https://whyy.org/articles/philadelphia-keith-haring-mural-historic-register-preservation/",
+   "additional_sources": [
+    "https://www.inquirer.com/arts/keith-haring-mural-designation-historical-city-philadelphia-20261009.html"
+   ],
+   "themes": [],
+   "notes": "Resolves the follow-up flag at ACI-383 (the October 9, 2026 commission vote). First outdoor mural added to the Philadelphia Register of Historic Places; listed as an \"object.\" The Philadelphia Inquirer corroborated the unanimous October 9, 2026 vote. Cf. ACI-363 (Keith Haring drawing authenticity). [FOLLOW-UP PENDING: owners' stated intent to stabilize and relocate the mural off-site vs. in-place preservation.]",
+   "interested_parties": "Philadelphia Historical Commission; Commissioner Emily Cooperman; Mural Arts Philadelphia (Jane Golden); Ori Feibush (owner); Point Breeze residents",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
