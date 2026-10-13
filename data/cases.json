@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 733
  },
  "cases": [
   {
@@ -10109,7 +10109,7 @@
    "date_discovered": "May 5, 2026",
    "sort_date": "2026-05-05",
    "description": "The Van Gogh Museum initiated legal proceedings against the Dutch government to demand an additional €2.5M annually toward a planned €104M renovation of its dated Amsterdam buildings, scheduled to begin in 2028. The museum's director, Emilie Gordenker, stated in August 2025 that without increased public subsidy the museum could be forced to close. The Dutch government (then under a different coalition) held that its existing €8.5M annual subsidy was sufficient and that costs beyond necessary maintenance were the museum's own responsibility. The Van Gogh Museum argues that under the 1962 agreement by which the Vincent van Gogh Foundation transferred more than 200 paintings, 500 drawings, and 900 letters to state stewardship, the Dutch government has a legal duty to construct and maintain a permanent museum. The case was due for a first hearing when both parties announced they had entered mediation and postponed legal proceedings. As of May 5, 2026 — under a new centre-left coalition (D66 PM Rob Jetten since February) — the Culture Minister Rianne Letschert confirmed the court granted an indefinite adjournment. Mediation is making 'good progress'; both parties aim to conclude before summer. Broader context: Dutch Council for Culture found public cultural funding fell from 0.47% to 0.35% of government spending between 2005 and 2023; smaller regional museums are struggling more acutely but lack the Van Gogh Museum's international press leverage. Museum had deliberately reduced visitors by a fifth to 1.8M annually; reported €2.9M profit and €2.3M donation increase in 2024.",
-   "outcome": "Legal proceedings postponed; mediation underway. Aim to conclude before summer 2026. [FOLLOW-UP PENDING]",
+   "outcome": "Legal proceedings postponed and mediation undertaken; the museum said on 12 October 2026 that it had reached a funding deal with the Dutch government and would not have to close (see ACI-066-A).",
    "tags": "Funding dispute, Legal challenge, Institutional crisis, Conservation",
    "court_case": "Pending",
    "coverage_tier": "National",
@@ -10122,10 +10122,43 @@
     2,
     5
    ],
-   "notes": "[FOLLOW-UP PENDING] Interesting structural case for Theme 2 and Theme 5. The 1962 agreement — family transfers the collection to state stewardship in exchange for a promise to build and maintain a permanent museum — is effectively a founding covenant now being litigated. The Van Gogh Museum's position (state must pay) vs. the government's (maintenance yes, improvements no) maps onto the broader question of what encyclopedic and national-patrimony museums are owed by states that claim them as cultural infrastructure. The political context matters: the previous coalition refused; a new centre-left coalition is now in mediation, suggesting political will may have shifted. The regional museum dimension is analytically important and underreported: smaller Dutch institutions without international brand recognition can't generate the press pressure the Van Gogh Museum can — the same structural funding decline is hitting them harder, silently. Dos Elshout's observation that the debate has become 'more negative because of right-wing sentiment' connects this to the broader European pattern of cultural funding under pressure (see entries 023/023-A for Germany, 026/026-A for Chile, 053 for Slovakia). Wednesday Europe/Francophone trawl. Enrich with Dutch-language sources.",
+   "notes": "Interesting structural case for Theme 2 and Theme 5. The 1962 agreement — family transfers the collection to state stewardship in exchange for a promise to build and maintain a permanent museum — is effectively a founding covenant now being litigated. The Van Gogh Museum's position (state must pay) vs. the government's (maintenance yes, improvements no) maps onto the broader question of what encyclopedic and national-patrimony museums are owed by states that claim them as cultural infrastructure. The political context matters: the previous coalition refused; a new centre-left coalition is now in mediation, suggesting political will may have shifted. The regional museum dimension is analytically important and underreported: smaller Dutch institutions without international brand recognition can't generate the press pressure the Van Gogh Museum can — the same structural funding decline is hitting them harder, silently. Dos Elshout's observation that the debate has become 'more negative because of right-wing sentiment' connects this to the broader European pattern of cultural funding under pressure (see entries 023/023-A for Germany, 026/026-A for Chile, 053 for Slovakia). Wednesday Europe/Francophone trawl. Enrich with Dutch-language sources.",
    "interested_parties": "Emilie Gordenker (Van Gogh Museum director); Rianne Letschert (Culture Minister, D66 coalition); Laurens Dassen MP (Volt, proposed parliamentary motion for funding); Vincent van Gogh Foundation; Dos Elshout (cultural sociologist, UvA); Museumvereniging (Dutch museums association); smaller regional Dutch museums (unnamed, affected by same structural funding decline)",
    "coverage_geography": "Netherlands, international arts press",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-066-A",
+   "entry_id": "066-A",
+   "seq": 771,
+   "title": "Van Gogh Museum says it reached a funding deal with the Dutch government and will not close",
+   "artist": "N/A",
+   "institution": "Van Gogh Museum, Amsterdam; Dutch government",
+   "country": "Netherlands",
+   "governance_type": "Democracy",
+   "date_controversy": "Deal reported 12 October 2026",
+   "date_discovered": "2026-10-13",
+   "sort_date": "2026-10-12",
+   "description": "According to The New York Times (12 October 2026), Amsterdam's Van Gogh Museum said it had reached a funding deal with the Dutch government and would not have to close. The Times reported that, in a yearslong dispute, the museum had pressed the government for an increased annual subsidy to pay for what the museum said were vital renovations. (Thin entry drafted from the Times's headline and abstract only; the NYT API returns metadata, not body text.)",
+   "outcome": "The museum said a funding deal was reached and that it would not have to close, resolving the renovation-funding dispute tracked at ACI-066.",
+   "tags": [
+    "Funding dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/10/12/arts/van-gogh-museum-amsterdam-funding.html",
+   "additional_sources": [],
+   "themes": [
+    2,
+    5
+   ],
+   "notes": "Sub-entry of ACI-066 (Van Gogh Museum renovation funding dispute); resolves the parent's follow-up flag. Thin metadata entry: drafted from the NYT headline and abstract (Karla Adam, 12 October 2026; NYT API returns metadata only, logged snippet_only). Enrich from full text (figures, the subsidy terms, the government department). No quotation marks used.",
+   "interested_parties": "Van Gogh Museum, Amsterdam; Dutch government",
+   "coverage_geography": "Netherlands, US",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-011-B",
@@ -23916,6 +23949,74 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-428",
+   "entry_id": "428",
+   "seq": 772,
+   "title": "Palais Garnier: Lenepveu descendant presses to reveal the ceiling hidden under Chagall's",
+   "artist": "Marc Chagall (modern ceiling, commissioned 1960); Jules-Eugène Lenepveu (19th-century ceiling)",
+   "institution": "Opéra national de Paris / Palais Garnier (Paris)",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Dispute revived during 2026 Palais Garnier renovations",
+   "date_discovered": "2026-10-13",
+   "sort_date": "2026-09-04",
+   "description": "According to OperaWire (4 September 2026), a long-running debate over the ceiling of the Palais Garnier, home of the Opéra national de Paris, has resurfaced amid renovations at the opera house. In 1960, French culture minister André Malraux commissioned Marc Chagall to paint a new ceiling, featuring 14 composers, which was mounted on a shell placed over the 19th-century ceiling by Jules-Eugène Lenepveu. OperaWire reported that Arnaud Carayon, a descendant of Lenepveu, wants his ancestor's painting restored and that, earlier in 2026, he wrote to President Emmanuel Macron proposing an alternating ceiling that would display the Chagall and Lenepveu works in turn, roughly every ten years; Macron's office replied that the president was \"particularly attentive\" to the matter. OperaWire noted that Chagall's son has said his father wanted the ceiling to be removable, and that Chagall painted on canvases attached to a shell set over the original, leaving Lenepveu's work protected beneath.",
+   "outcome": "The ceiling on view remains Chagall's; the dispute is unresolved. [FOLLOW-UP PENDING: whether Carayon pursues the matter further — a later Guardian report (not retrievable this run) indicated he was weighing legal action — and any response from the Opéra national de Paris or the French state.]",
+   "tags": [
+    "Conservation",
+    "Historic preservation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "OperaWire"
+   ],
+   "source": "https://operawire.com/?p=116175",
+   "additional_sources": [],
+   "themes": [
+    1
+   ],
+   "notes": "New parent. Decades-old debate over whether the Palais Garnier should keep Chagall's 1960s ceiling or reveal Lenepveu's original beneath it, revived during the 2026 renovations. Drafted narrowly from OperaWire (Afton Markay, 4 September 2026; full text; the \"particularly attentive\" phrase is OperaWire's wording for the Élysée reply). The discovery lead was a Guardian report (12 October 2026, 'Row over Paris opera house dome enters legal arena') that the Lenepveu heir may be moving toward litigation; the Guardian is blocked for the scan's tools and could not be retrieved this run, so that escalation is not asserted here — enrich from the Guardian and Le Monde. OperaWire gives 1960 as the Malraux commission year and no completion date, so no '1964' date is stated. Tagging uncertain — flagged for review.",
+   "interested_parties": "Arnaud Carayon (descendant of Jules-Eugène Lenepveu); Opéra national de Paris; President Emmanuel Macron / Élysée",
+   "coverage_geography": "France, International",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-429",
+   "entry_id": "429",
+   "seq": 773,
+   "title": "Allard Pierson returns ancient Centuripe vase to Sicily over 'problematic' provenance",
+   "artist": "N/A (Centuripe pyxis, 3rd-century BCE lidded ceramic vase)",
+   "institution": "Allard Pierson (University of Amsterdam); Region of Sicily",
+   "country": "Netherlands",
+   "governance_type": "Democracy",
+   "date_controversy": "Italian restitution claim 2017; vase returned early October 2026",
+   "date_discovered": "2026-10-13",
+   "sort_date": "2026-10-12",
+   "description": "According to The Art Newspaper (12 October 2026), the Allard Pierson, the museum of the University of Amsterdam, has returned the Centuripe pyxis — a third-century BCE lidded ceramic vase with multicoloured painting, thought to have come from a rock-cut tomb near the Sicilian town of Centuripe — to Sicilian authorities. The paper reported that the museum acquired the vase in 1997 at the TEFAF fair in Maastricht from a Swiss dealer who said it had been in private hands since before 1970, the year of the UNESCO convention against the illicit trade in cultural property, but that research showed the claim was false: an image of the vase was found on a film roll belonging to a local photographer apparently hired to photograph newly excavated objects after tombs near Centuripe were raided in the 1970s, and another photo on the same roll was dated 1976. The Art Newspaper reported that Italian authorities made the restitution claim in 2017 after the film roll was discovered, that the museum agreed the provenance was \"problematic,\" and that the vase — handed over the week before publication — is now the property of the Region of Sicily and will be displayed at the Centuripe Regional Archaeological Museum. Rogier Kalkers, the museum's head of provenance research, told the paper the museum felt a moral duty to return the object even though the Netherlands only ratified the UNESCO convention in 2009 and was not legally bound; he said the museum now approaches source countries itself rather than waiting for claims, describing the institution's role as being \"stewards of cultural heritage rather than owners of cultural heritage.\"",
+   "outcome": "The vase was returned and became the property of the Region of Sicily, to be displayed at the Centuripe Regional Archaeological Museum.",
+   "tags": [
+    "Repatriation",
+    "Provenance dispute",
+    "Archaeological site"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/12/dutch-museum-return-ancient-vase-to-sicily-after-research-uncovers-problematic-provenance",
+   "additional_sources": [],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "New parent. Voluntary repatriation / resolved provenance case logged as a cluster anchor (CLAUDE.md §7 permits analytically relevant non-controversy entries such as repatriation resolutions). Drafted from The Art Newspaper (Senay Boztas, 12 October 2026; full text; quotes verified verbatim).",
+   "interested_parties": "Allard Pierson / University of Amsterdam (Rogier Kalkers, head of provenance research); Region of Sicily; Italian authorities",
+   "coverage_geography": "Netherlands, Italy, Europe",
+   "follow_up_pending": false
   }
  ]
 }
