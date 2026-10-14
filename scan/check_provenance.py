@@ -41,6 +41,7 @@ DOMAIN_TO_OUTLET = {
     "middleeasteye.net": "Middle East Eye",
     "nytimes.com": "New York Times",
     "washingtonpost.com": "Washington Post",
+    "lbc.co.uk": "LBC",
     "theguardian.com": "The Guardian",
     "bbc.com": "BBC",
     "bbc.co.uk": "BBC",
