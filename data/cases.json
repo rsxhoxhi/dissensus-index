@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 734
  },
  "cases": [
   {
@@ -16756,6 +16756,42 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-046-T",
+   "entry_id": "046-T",
+   "seq": 771,
+   "title": "Reflecting Pool: basin refilled after warranty repairs as Trump again cites vandalism",
+   "artist": "N/A",
+   "institution": "Lincoln Memorial Reflecting Pool, National Mall, Washington, D.C.",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported October 12, 2026",
+   "date_discovered": "2026-10-14",
+   "sort_date": "2026-10-12",
+   "description": "The Philadelphia Inquirer, carrying a Washington Post report by Maura Judkis (12 October 2026), reported that the Lincoln Memorial Reflecting Pool was being refilled, with the basin partly filled and fencing still around it as of Monday, 12 October. The contractor that carried out the renovation under a no-bid contract, Atlantic Industrial Coatings, had posted on its website on 5 October that “All warranty repairs were completed Friday, 10/2/2026!”, adding “It has been an honor to serve our great nation!” According to the report, the Justice Department had described the peeling of the pool's new coating as the result of a “botched” installation, while President Donald Trump continued to attribute the pool's problems to vandalism, saying on Tuesday, 13 October, “We had vandalism there, and we have it about as vandal-proof as you can get,” and “But only sick people do that, and we have their pictures.” The report noted that several people, including former Olympic canoeist David Hearn, had been arrested and charged with vandalism; the Justice Department dropped the case in July, and on 1 October a judge ruled that federal prosecutors could not refile charges against Hearn. A visitor, Andrea Meisgeier, called the renovation and its revision “a complete waste of taxpayer money.” As reported by The Philadelphia Inquirer.",
+   "outcome": "The renovation is being presented as finished — the contractor says warranty repairs were completed on 2 October and the basin is being refilled — while the dispute over cause persists: the administration continues to cite vandalism, and the contractor's and Justice Department's accounts attribute the liner failure to flawed work (see ACI-046-S). The 1 October ruling barring re-prosecution of David Hearn resolves the question flagged at ACI-046-R. [FOLLOW-UP PENDING: the Interior Inspector General review at ACI-046-O and any further administration or Interior Department response.]",
+   "tags": [
+    "Conservation",
+    "Design controversy",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Philadelphia Inquirer"
+   ],
+   "source": "https://www.inquirer.com/news/nation-world/lincoln-memorial-reflecting-pool-refill-trump-botched-repairs-vandalism-arrests-20261012.html",
+   "additional_sources": [],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-046 (Reflecting Pool renovation and aftermath); follows ACI-046-S (contractor blames its own flawed repairs). Drafted from a Washington Post report (Maura Judkis) carried in full by The Philadelphia Inquirer; the Washington Post original is routinely blocked to automated fetches. The 1 October re-prosecution ruling answers the pending question at ACI-046-R. [FOLLOW-UP PENDING: Interior IG review at ACI-046-O.]",
+   "interested_parties": "Atlantic Industrial Coatings (contractor); Donald Trump; U.S. Justice Department; David Hearn (former Olympic canoeist); National Park Service",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-038-L",
    "entry_id": "038-L",
    "seq": 465,
@@ -23915,6 +23951,107 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-430",
+   "entry_id": "430",
+   "seq": 772,
+   "title": "Groups sue over Nine Mile Canyon road expansion, citing threat to Indigenous rock art",
+   "artist": "N/A",
+   "institution": "Bureau of Land Management; Nine Mile Canyon, Utah",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Complaint filed October 6, 2026",
+   "date_discovered": "2026-10-14",
+   "sort_date": "2026-10-06",
+   "description": "Hyperallergic reported (13 October 2026) that three environmental groups — the Southern Utah Wilderness Alliance, the Nine Mile Canyon Coalition and the Center for Biological Diversity — filed a complaint on 6 October 2026 against the Bureau of Land Management over its approval of a Duchesne County proposal to widen a road through Nine Mile Canyon in Utah, a project the groups say would ease travel for oil tanker trucks. According to the article, the plaintiffs argue the BLM did not analyze or disclose the cultural, environmental and historic impacts of the road revision and the projected increase in traffic, which they say threatens Indigenous petroglyphs and historic structures in the canyon, and that the agency skipped consultation with the U.S. Fish and Wildlife Service over threatened and endangered species, including the Mexican spotted owl. The complaint, per Hyperallergic, cites multiple preservation and land-use laws and accuses the BLM of sidestepping the approval process and rejecting requests for public involvement. The BLM declined to comment, citing the pending litigation. As reported by Hyperallergic.",
+   "outcome": "Litigation pending. The groups seek to halt the approved road-widening; the BLM has declined to comment, citing the pending case. No destruction of the petroglyphs or historic structures has been reported — the dispute is over the adequacy of federal review and the risk the project is said to pose. [FOLLOW-UP PENDING: the court's handling of the complaint and whether road work proceeds.]",
+   "tags": [
+    "Historic preservation",
+    "Legal challenge",
+    "Indigenous rights",
+    "Archaeological site",
+    "Political interference"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/utah-groups-sue-trump-administration-over-nine-mile-canyon-construction-project/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Threat of damage to recognized archaeological/rock-art heritage, not (yet) destruction, so tagged Historic preservation + [FOLLOW-UP PENDING] per the cultural-property-destruction tagging discipline (CLAUDE.md §4). Part of the pattern of litigation over federal review on public land and cultural/monumental sites under the current administration (compare the triumphal-arch review fights at ACI-038). [FOLLOW-UP PENDING: ruling and whether excavation/road work begins.]",
+   "interested_parties": "Southern Utah Wilderness Alliance; Nine Mile Canyon Coalition; Center for Biological Diversity; Bureau of Land Management; Duchesne County, Utah",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-431",
+   "entry_id": "431",
+   "seq": 773,
+   "title": "Karachi Biennale Trust cancels fifth edition, citing regional ‘war conditions’",
+   "artist": "N/A",
+   "institution": "Karachi Biennale Trust",
+   "country": "Pakistan",
+   "governance_type": "Hybrid Regime",
+   "date_controversy": "Cancellation announced October 9, 2026",
+   "date_discovered": "2026-10-14",
+   "sort_date": "2026-10-09",
+   "description": "Hyperallergic reported (13 October 2026) that the Karachi Biennale Trust announced on Friday, 9 October, that it was cancelling the fifth edition of the biennale, which had been scheduled for 16–31 January in Karachi, citing logistical constraints and uncertainties amid “war conditions prevailing in the region.” The article said it was not clear what specific events contributed and did not name a conflict. According to Hyperallergic, citing the Pakistani outlet Dawn's cultural imprint Images, the curator, Noor Ahmed, had engaged more than 100 artists and practices over 13 months and enlisted three co-curators, and was reportedly not consulted on the cancellation. Ahmed told Hyperallergic that artists and partners “are all quite disappointed” about how communications and commitments were being handled. The Karachi Biennale Trust did not respond to Hyperallergic's request for comment. As reported by Hyperallergic.",
+   "outcome": "The fifth edition is cancelled per the Trust's announcement. The dispute is over the decision and its handling rather than its stated cause: the curator says she was not consulted and that artists and partners are disappointed, while the Trust has not publicly elaborated. [FOLLOW-UP PENDING: whether the edition is rescheduled, any further Trust statement, and artists' and co-curators' response.]",
+   "tags": [
+    "Institutional crisis",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/karachi-biennale-cancels-fifth-edition-over-war-conditions/",
+   "additional_sources": [],
+   "themes": [
+    3,
+    4
+   ],
+   "notes": "New parent. Thin international entry — drafted from Hyperallergic, which cites Dawn's Images for the curator detail (Dawn not retrieved this run). Borderline inclusion: an exhibition cancellation contested by its curator and participating artists over process and consultation. [FOLLOW-UP PENDING: rescheduling and participant response.]",
+   "interested_parties": "Karachi Biennale Trust; Noor Ahmed (curator); three unnamed co-curators",
+   "coverage_geography": "Pakistan, US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-432",
+   "entry_id": "432",
+   "seq": 774,
+   "title": "Qing-dynasty bowl and box damaged at British Museum, drawing scrutiny in China",
+   "artist": "N/A",
+   "institution": "British Museum",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Incident October 4, 2026; reported October 11, 2026",
+   "date_discovered": "2026-10-14",
+   "sort_date": "2026-10-11",
+   "description": "LBC reported (11 October 2026) that a Kangxi-period (1662–1722) Qing-dynasty porcelain bowl and a circular ceramic box at the British Museum were damaged when the bowl fell from its shelf onto the box below in a display case in Room 95; the bowl came from the Sir Percival David Collection, part of a major donation to the museum. Citing the South China Morning Post, LBC said the incident occurred on 4 October; the museum confirmed the damage and said both objects were “already with our expert conservation team for complete restoration.” A museum source said “CCTV shows that no one was in the gallery at the time when the bowl fell from the shelf,” that the mount and shelf showed no sign of failure and that no nearby building works could have caused the fall, with staff still investigating. LBC reported anger in China across national and social media and suggestions the incident could open a diplomatic row, and recalled the museum's 2003 loss of more than 1,500 objects. A Chinese tour guide, Pan Jinyu, said “I am more concerned with why the accident happened,” and the Shanghai Daily described the bowl as part of “one of the most important collections of Chinese ceramics outside China.” LBC noted that the South China Morning Post has been accused of being influenced by the Chinese government. As reported by LBC.",
+   "outcome": "Both objects are with the British Museum's conservation team for restoration, and the museum says it is still investigating a fall its own CCTV and mount checks have not explained. The episode has reopened debate in Chinese media over the safekeeping of Chinese cultural property held by the museum. [FOLLOW-UP PENDING: the museum's account of how the bowl fell, the outcome of restoration, and any diplomatic or restitution response.]",
+   "tags": [
+    "Security failure",
+    "Conservation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "LBC"
+   ],
+   "source": "https://www.lbc.co.uk/article/smashed-chinese-bowl-british-museum-diplomatic-row-5Hjdjjq_2/",
+   "additional_sources": [],
+   "themes": [
+    5
+   ],
+   "notes": "New parent. Accidental/unexplained damage is not in itself in scope (CLAUDE.md §7); logged for the contested aftermath — Chinese media scrutiny of the British Museum's stewardship of a major collection of Chinese ceramics, which bears on the standing of the encyclopedic museum (Theme 5). Borderline; flagged for review. The British Museum's security/stewardship record is also tracked around the Bayeux Tapestry cluster (ACI-154) and the 2023 theft scandal. [FOLLOW-UP PENDING: museum's explanation and any diplomatic/restitution fallout.]",
+   "interested_parties": "British Museum; Sir Percival David Foundation of Chinese Art (donor); Chinese commentators and state-linked media",
+   "coverage_geography": "UK, China",
    "follow_up_pending": true
   }
  ]
