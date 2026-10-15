@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 732
  },
  "cases": [
   {
@@ -22521,6 +22521,41 @@
    ]
   },
   {
+   "id": "ACI-378-C",
+   "entry_id": "378-C",
+   "seq": 771,
+   "title": "Musée Renoir theft: stolen works found behind a built cinder-block wall; suspects had scouted Fondation Maeght next",
+   "artist": "Pierre-Auguste Renoir",
+   "institution": "Musée Renoir, Cagnes-sur-Mer; French judicial police",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Recovery and arrests disclosed at a 12 October 2026 press conference",
+   "date_discovered": "2026-10-15",
+   "sort_date": "2026-10-13",
+   "description": "French investigators disclosed how the two Renoir paintings still missing after the 8 September 2026 burglary at the Musée Renoir in Cagnes-sur-Mer — 'Portrait of Madame Colonna Romano' and 'Young Woman at the Well', valued together at €4.2 million — were recovered, in an AFP report carried by The Star. According to AFP, the works were found during a search of a home in Clermont-l'Hérault, hidden behind a solid cinder-block wall; they were missed in an initial search and recovered only after police returned, having secured a confession. National judicial police chief Christian Sainte said, \"During the initial search, we had examined the walls, checking for hollow spaces,\" and Marseille prosecutor Nicolas Bessone said the paintings were \"completely undetectable.\" AFP reported that investigators were led to a 29-year-old man — already under investigation for drug trafficking — by DNA recovered from a bag left at the getaway scene, and that they tracked a second vehicle the suspects used because it carried a police tracking device fitted during a separate inquiry. Six people, including a woman, were arrested; four men aged 29 to 51 are under formal investigation, two of them in custody. The arrests were brought forward, AFP reported, after investigators learned the suspects were preparing to target the Fondation Maeght in Saint-Paul-de-Vence next, following a reconnaissance visit by the main suspect; Alpes-Maritimes judicial police head Eric Antonetti said, \"We were very clearly looking at the repetition of a criminal scheme.\" Culture Minister Catherine Pégard praised \"the efficiency and determination of all those who made this outcome possible.\" Finestre sull'Arte, reporting on the same press conference, said the concealing wall was built of concrete blocks and drywall and that both works were slightly damaged.",
+   "outcome": "Both recovered works require restoration (frame damage to 'Young Woman at the Well'; a tear to the dress in 'Portrait of Madame Colonna Romano'); four men are under formal investigation. [FOLLOW-UP PENDING: formal charges and any trial of the suspects, and the Nazi-era restitution claim for 'Young Woman at the Well' (see ACI-378-A).]",
+   "tags": [
+    "Theft",
+    "Security failure",
+    "Legal challenge"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Star",
+    "Finestre sull'Arte"
+   ],
+   "source": "https://www.thestar.com.my/lifestyle/culture/2026/10/13/stolen-renoir-paintings-found-behind-wall-in-france",
+   "additional_sources": [
+    "https://www.finestresullarte.info/en/news/two-renoir-paintings-stolen-in-france-have-been-recovered-they-were-hidden-behind-a-false-wall"
+   ],
+   "themes": [],
+   "notes": "Sub-entry of ACI-378 (theft) and development after ACI-378-B (recovery, 9 Oct 2026). Drafted from the AFP report carried by The Star (full text; quotes verified verbatim), with Finestre sull'Arte (full text) for the wall construction and damage. NB for review: ACI-378-B (in-flight, not yet merged) states the two recovered works were 'dropped while fleeing'; the fuller AFP/Finestre accounts say these two were hidden behind a built wall and that the thieves abandoned two *other* works as they fled — ACI-378-B may warrant correction at merge. Cross-ref ACI-378-A (restitution).",
+   "interested_parties": "Marseille prosecutor Nicolas Bessone; national judicial police chief Christian Sainte; Alpes-Maritimes judicial police head Eric Antonetti; Culture Minister Catherine Pégard; Musée Renoir, Cagnes-sur-Mer; Fondation Maeght",
+   "coverage_geography": "France, International",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-379",
    "entry_id": "379",
    "seq": 700,
@@ -23915,6 +23950,38 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-433",
+   "entry_id": "433",
+   "seq": 772,
+   "title": "Mexican army drops plan to build a military museum beside Bosque de Chapultepec after objections",
+   "artist": "N/A",
+   "institution": "Secretaría de la Defensa Nacional (Sedena); Bosque de Chapultepec, Mexico City",
+   "country": "Mexico",
+   "governance_type": "Democracy",
+   "date_controversy": "Relocation reported 27 September 2026",
+   "date_discovered": "2026-10-15",
+   "sort_date": "2026-09-27",
+   "description": "Mexico's Secretaría de la Defensa Nacional (Sedena) will move a planned military museum off a military field next to Bosque de Chapultepec in Mexico City, following concerns from citizens and politicians about possible environmental damage to the Chapultepec area, Expansión reported on 27 September 2026. According to Expansión, the museum was to display parts of the armed forces' historical collection — documents, paintings, weapons, uniforms, vehicles and aircraft — and to cover battles including Monte de las Cruces, Calpulalpan and the 5 de Mayo battle in Puebla, on a field used since 1969 by units of the 1st Military Zone and closed to the public. Sedena said the project would be relocated to another military field that already has buildings, to avoid harming green areas, and that the new site is not yet determined; it said its 32 military forest nurseries had produced more than 2.3 billion trees since 1993.",
+   "outcome": "Project to be relocated to an as-yet-undetermined military site. [FOLLOW-UP PENDING: the new location of the museum and any further objections.]",
+   "tags": [
+    "Community objection"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Expansión"
+   ],
+   "source": "https://politica.expansion.mx/mexico/2026/09/27/sedena-cambia-ubicacion-museo-militar-chapultepec",
+   "additional_sources": [],
+   "themes": [
+    9
+   ],
+   "notes": "BORDERLINE — flagged for editorial judgment: the reported objection was primarily environmental (possible damage to green areas of Bosque de Chapultepec), not about the museum's content, so the cultural institution/space may be closer to backdrop than the contested thing (CLAUDE.md §7). Included per the err-toward-more rule. Discovered via a 14 Oct 2026 Art Newspaper English pickup (seen on the TAN homepage; the article itself was not fetched, so not cited); drafted from and anchored to Expansión's contemporaneous 27 Sep 2026 report. Expansión's body does not name specific critics (a related headline mentions 'Tabe' but the text gives no detail), so none are named here.",
+   "interested_parties": "Secretaría de la Defensa Nacional (Sedena); residents and politicians opposing the Chapultepec site",
+   "coverage_geography": "Mexico",
    "follow_up_pending": true
   }
  ]
