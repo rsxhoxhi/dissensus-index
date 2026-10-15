@@ -33,6 +33,9 @@ CASES_PATH = REPO_ROOT / "data" / "cases.json"
 LEDGER_PATH = Path(__file__).parent / "retrieval_log.json"
 
 DOMAIN_TO_OUTLET = {
+    "politica.expansion.mx": "Expansión",  # added 2026-10-15 scan (ACI-433 Chapultepec)
+    "thestar.com.my": "The Star",  # added 2026-10-15 scan (ACI-378-C Renoir, AFP carrier)
+    "finestresullarte.info": "Finestre sull'Arte",  # added 2026-10-15 scan (ACI-378-C Renoir)
     "artnews.com": "ARTnews",
     "artforum.com": "Artforum",
     "hyperallergic.com": "Hyperallergic",
