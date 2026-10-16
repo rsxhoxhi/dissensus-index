@@ -77,6 +77,7 @@ DOMAIN_TO_OUTLET = {
     "upi.com": "UPI",
     "bworldonline.com": "BusinessWorld",
     "koreaherald.com": "The Korea Herald",
+    "koreajoongangdaily.com": "Korea JoongAng Daily",
     "scmp.com": "South China Morning Post",
     "english.news.cn": "Xinhua",
     "khan.co.kr": "Kyunghyang Shinmun",

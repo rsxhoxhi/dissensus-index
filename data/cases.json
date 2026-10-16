@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 732
  },
  "cases": [
   {
@@ -23648,6 +23648,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-404-A",
+   "entry_id": "404-A",
+   "seq": 784,
+   "title": "Parthenon Marbles: British Museum chair proposes alternating Athens–London display; Greece rejects it",
+   "artist": "N/A (Parthenon sculptures, 5th century BCE)",
+   "institution": "British Museum; Acropolis Museum; Greek government",
+   "country": "United Kingdom / Greece",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 15 October 2026 (The Art Newspaper)",
+   "date_discovered": "2026-10-16",
+   "sort_date": "2026-10-15",
+   "description": "The Art Newspaper reported on 15 October 2026 that George Osborne, chair of the British Museum's board of trustees, said in an interview with the Greek newspaper Kathimerini that he wanted to reach an agreement under which the Parthenon sculptures would be displayed alternately in Athens and London. According to the paper, Osborne said the board would support a rotation arrangement that could allow loans under British law and that he believed a deal could be done before his term ends in three years; asked whether he would like the sculptures to spend time in Athens, he said, \"Would I like them to also spend some of their time in Athens? Yes, I would.\" He also said \"Parliament can change the law,\" a reference to the British Museum Act 1963, which the museum says bars returning the marbles, and he restated the trustees' position that Lord Elgin acted with the permission of the legal authorities of the day. The Art Newspaper reported that Greek officials had rejected the rotating-loan idea and that Prime Minister Kyriakos Mitsotakis continues to press for the permanent return and reunification of the sculptures at the Acropolis Museum, within sight of the Parthenon.",
+   "outcome": "No agreement exists; Greece continues to reject any loan model that would imply acceptance of British ownership and insists on permanent reunification. [FOLLOW-UP PENDING: any formal loan or rotation agreement between the British Museum and Greece over the Parthenon sculptures.]",
+   "tags": [
+    "Repatriation",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/15/british-museum-george-osborne-parthenon-marbles-alternating-display-athens-london",
+   "additional_sources": [],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "Sub-entry of ACI-404; latest development in the Parthenon Marbles loan-versus-return dispute (cf. ACI-361, ACI-380, ACI-404). Drafted from The Art Newspaper (Gareth Harris, 15 October 2026, full text this run), which reports Osborne's remarks to the Greek newspaper Kathimerini; the quotes are carried by The Art Newspaper. The Telegraph's report (cited by TAN) that Greek officials called the rotating loan a non-starter is paraphrased here; The Telegraph was not retrieved this run.",
+   "interested_parties": "George Osborne (chair, British Museum board of trustees); Greek PM Kyriakos Mitsotakis",
+   "coverage_geography": "UK, Greece, international",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-405",
    "entry_id": "405",
    "seq": 756,
@@ -23915,6 +23949,41 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-434",
+   "entry_id": "434",
+   "seq": 783,
+   "title": "National Museum of Korea director lent misattributed calligraphy from his own collection, drawing scrutiny",
+   "artist": "Calligraphy attributed to independence activist Park Won-geun (1912–50); museum later concluded it is by Park Jung-yang (1874–1959)",
+   "institution": "National Museum of Korea; director You Hong-june",
+   "country": "South Korea",
+   "governance_type": "Democracy",
+   "date_controversy": "Director's private-collection loan reported 15 October 2026; work removed 10 August and reattributed 7 September 2026",
+   "date_discovered": "2026-10-16",
+   "sort_date": "2026-10-15",
+   "description": "The Korea JoongAng Daily reported on 15 October 2026 that You Hong-june, director of the National Museum of Korea, had lent from his private collection a calligraphy work the museum displayed as the work of Korean independence activist Park Won-geun (1912–50). The piece, titled \"Ilban Sigukeun,\" appeared in the special exhibition \"The Korean Table: Food, Nature and Life,\" which opened in summer 2026; after a tip on 10 August 2026 the museum removed it, and on 7 September 2026 a seven-member expert panel concluded it was by Park Jung-yang (1874–1959), whom the museum described as a pro-Japanese collaborator who had used the name Park Won-geun. The museum apologised but did not at first disclose the owner. According to the Korea JoongAng Daily, documents the museum submitted to People Power Party lawmakers ahead of a parliamentary audit said the piece was borrowed \"at the director's recommendation\"; You told the JoongAng Ilbo by phone, \"I did lend the piece from my private collection,\" adding that he too had believed it was the work of an independence activist and had planned to donate it to a county museum in Buyeo, and he denied the loan was meant to raise his collection's value. The paper reported that You had donated 865 artifacts valued at about 2.7 billion won (roughly $2 million) between 2019 and 2024, and that a Joseon-era stone tiger sculpture previously owned by his wife was installed at the museum in April; critics quoted by the paper questioned whether works the director owned or recommended bypassed independent authentication.",
+   "outcome": "The work was removed and reattributed and the museum apologised; the loan and the director's broader donations face scrutiny ahead of a parliamentary audit. [FOLLOW-UP PENDING: the parliamentary audit and any finding on the director's loans and donations to the museum.]",
+   "tags": [
+    "Authenticity",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Korea JoongAng Daily"
+   ],
+   "source": "https://www.koreajoongangdaily.com/lifestyle/national-museum-director-scrutinized-after-lending-misattributed-calligraphy-from-private-collection/12922446",
+   "additional_sources": [
+    "https://www.koreajoongangdaily.com/lifestyle/independence-activists-calligraphy-museum-finds-it-was-actually-work-of-projapanese-collaborator/12863450"
+   ],
+   "themes": [
+    4
+   ],
+   "notes": "New parent. Drafted from the Korea JoongAng Daily: the 15 October 2026 report on the director's private-collection loan (full text this run) and the 7 September 2026 report on the reattribution (full text this run); quotes carried by the Korea JoongAng Daily, which attributes You's phone remarks to its sister paper the JoongAng Ilbo. ARTnews also reported the director-loan story on 15 October 2026, but artnews.com blocked retrieval this run (HTTP 402); not cited. The director's name is romanised as both 'You' and 'Yoo Hong-june'.",
+   "interested_parties": "You Hong-june (director, National Museum of Korea); People Power Party Reps. Cho Eun-hee and Jung Yeon-wook; family of Park Won-geun",
+   "coverage_geography": "South Korea",
    "follow_up_pending": true
   }
  ]
