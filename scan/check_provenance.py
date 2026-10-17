@@ -175,6 +175,9 @@ DOMAIN_TO_OUTLET = {
     "cornyn.senate.gov": "Office of Senator John Cornyn",  # added 2026-09-30 scan (ACI-391-A Reif v. Republic of Austria amicus)
     "biobiochile.cl": "BioBioChile",  # added 2026-10-08 (ACI-411 backfill, 2020 San Francisco de Borja fire)
     "centrolatinoamericanodelvitral.org": "Centro Latinoamericano del Vitral",  # added 2026-10-08 (ACI-411/-A heritage corroboration)
+    "courthousenews.com": "Courthouse News Service",  # added 2026-10-17 scan (ACI-388-A Norton Simon Cranach countersuit)
+    "theartjournal.com": "The Art Journal",  # added 2026-10-17 scan (ACI-154-H British Museum/Osborne sponsorship emails)
+    "cultureunstained.org": "Culture Unstained",  # added 2026-10-17 scan (ACI-154-H; campaign group that published the FOI emails)
 }
 
 ALIASES = {
