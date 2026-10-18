@@ -48,6 +48,7 @@ DOMAIN_TO_OUTLET = {
     "fox5ny.com": "Fox 5 New York",  # added 2026-09-13 scan
     "1news.co.nz": "1News",  # added 2026-09-13 scan
     "akp.gov.kh": "Agence Kampuchea Presse",  # added 2026-09-11 scan (ACI-385 Preah Vihear)
+    "adn.com": "Anchorage Daily News",  # added 2026-10-18 scan (ACI-046-U; carries Washington Post syndication)
     "elespanol.com": "El Español",  # added 2026-09-11 scan (ACI-386 Valladolid)
     "apnews.com": "Associated Press",
     "npr.org": "NPR",
