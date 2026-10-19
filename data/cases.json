@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 731
  },
  "cases": [
   {
@@ -23915,6 +23915,44 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-436",
+   "entry_id": "436",
+   "seq": 771,
+   "title": "East Potomac Park: judge halts tree-cutting at golf course Trump plans to redevelop",
+   "artist": "N/A",
+   "institution": "East Potomac Golf Links / National Park Service, East Potomac Park, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "October 2026 (tree-cutting and 15-month-closure announcement; redevelopment plan dates to 2025–2026)",
+   "date_discovered": "2026-10-19",
+   "sort_date": "2026-10-18",
+   "description": "ARLnow, carrying Associated Press copy, reported on 18 October 2026 that President Trump announced on social media that the East Potomac Golf Links — a roughly century-old public course in East Potomac Park, across the Potomac from Arlington — would close for about 15 months of renovations beginning 15 November, to be rebuilt as a venue capable of hosting major tournaments such as the U.S. Open and the Ryder Cup. The National Park Service had already ordered hundreds of trees cut at the site. The DC Preservation League and two local golfers sued the Trump administration and the Park Service over the redevelopment, with Democracy Forward as co-counsel; Rep. Don Beyer (D-Va.) called the plan “a disgrace,” saying the administration had misrepresented why it cut the trees and that the redesign would block roads and paths used by cyclists and walkers. The Park Service said debris from the demolished White House East Wing, cleared for Trump’s planned ballroom and earlier dumped on the course grounds, had tested positive for lead, chromium and other toxic metals. According to ABC News’s Associated Press report of 13 October 2026, U.S. District Judge Ana Reyes ordered a halt to tree-cutting until 26 October and required the government to give three business days’ written notice before any irreparable change to a permanent feature of the course, after the Park Service filed a court notice minutes before close of business on 9 October and at least 400 trees were cut over the weekend; Reyes said the government had deceived her, telling the court, “What has happened has cost the government all credibility with me.” A 2019 National Park Service cultural landscape report had identified work needed at the District’s public golf courses.",
+   "outcome": "Tree-cutting is paused until 26 October 2026 under Judge Reyes’s order; a hearing was set for 19 October 2026, and the administration has asked that Reyes be removed from the case. The redevelopment and the DC Preservation League suit are unresolved. [FOLLOW-UP PENDING: the 19 October 2026 hearing and any ruling, whether the 15-month closure and renovation proceed from 15 November 2026, the motion to remove Judge Reyes, and the outcome of the DC Preservation League suit.]",
+   "tags": [
+    "Historic preservation",
+    "Legal challenge",
+    "Design controversy",
+    "Community objection"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "ARLnow",
+    "ABC News"
+   ],
+   "source": "https://arlnow.com/2026/10/18/trump-to-close-east-potomac-golf-course-for-15-months-as-beyer-calls-plan-a-disgrace",
+   "additional_sources": [
+    "https://abcnews.com/amp/US/wireStory/federal-judge-orders-trump-administration-halt-work-historic-137232942"
+   ],
+   "themes": [
+    9
+   ],
+   "notes": "New parent. Fifth distinct Trump-era federal project on the Washington monumental-core / parkland corridor, alongside ACI-038 (triumphal arch), ACI-046 (Lincoln Memorial Reflecting Pool), ACI-050 (White House ballroom / East Wing) and ACI-063 (National Garden of American Heroes, West Potomac Park). Both cited reports are Associated Press wire copy carried by ARLnow (18 Oct) and ABC News (13 Oct); arlnow.com added to DOMAIN_TO_OUTLET in check_provenance.py this run. The East Wing demolition-debris contamination thread (DC Preservation League suit, reported May 2026) shares plaintiffs and site and is noted here as context, not drafted as its own entry. Themes a loose fit — a historic designed-landscape / cultural-property dispute rather than a dispute over an artwork.",
+   "interested_parties": "U.S. District Judge Ana Reyes; DC Preservation League; Democracy Forward (Skye Perryman); Rep. Don Beyer; National Park Service; Interior Department; President Trump",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
