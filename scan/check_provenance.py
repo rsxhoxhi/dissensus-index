@@ -82,6 +82,7 @@ DOMAIN_TO_OUTLET = {
     "khan.co.kr": "Kyunghyang Shinmun",
     "thehill.com": "The Hill",
     "abcnews.com": "ABC News",
+    "arlnow.com": "ARLnow",  # added 2026-10-19: Arlington local outlet carrying AP wire (East Potomac Park, ACI-436)
     "pcs.org.uk": "PCS Union",
     "manilatimes.net": "The Manila Times",
     "cbsnews.com": "CBS News",
