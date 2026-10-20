@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 733
  },
  "cases": [
   {
@@ -12097,6 +12097,42 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-050-N",
+   "entry_id": "050-N",
+   "seq": 785,
+   "title": "White House ballroom: Post investigation names Apple, Nvidia among donors",
+   "artist": "N/A",
+   "institution": "The White House / Executive Office of the President",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Washington Post report published 15 October 2026",
+   "date_discovered": "2026-10-20",
+   "sort_date": "2026-10-15",
+   "description": "The Washington Post reported on 15 October 2026, citing internal fundraising records it obtained, previously undisclosed details of the private donors financing the roughly 90,000-square-foot White House ballroom, the technology news site 9to5Mac reported. According to the Post's reporting as carried by 9to5Mac, Apple, Nvidia, the Adelson Family Foundation, and the household and donor-advised fund of Dish Network chairman Charlie Ergen each pledged $25m — together about 30% of the $333m in reported contributions — and the project's estimated construction cost had climbed to about $600m. The Daily Beast, also citing the Post's documents, reported that at least $77m came from donors who requested anonymity and listed further pledges, including $22m from Google drawn from the settlement of Trump's lawsuit over YouTube and $10m each from Microsoft and Palantir.",
+   "outcome": "The disclosures add corporate and billionaire donors to the record of how the privately funded ballroom is being financed. [FOLLOW-UP PENDING: confirmation of the full donor list and the conduit organisation(s); any ethics or conflict-of-interest scrutiny of corporate donors with business before the federal government.]",
+   "tags": [
+    "Funding dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "9to5Mac",
+    "The Daily Beast"
+   ],
+   "source": "https://9to5mac.com/2026/10/15/wapo-apple-revealed-as-one-of-the-top-donors-to-trumps-white-house-ballroom/",
+   "additional_sources": [
+    "https://www.thedailybeast.com/trumps-suck-up-ballroom-donors-are-finally-unmasked"
+   ],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-050 (White House ballroom / East Wing) — the funding/donors angle. Drafted from 9to5Mac (Marcus Mendes, 15 Oct 2026, full text) and The Daily Beast (Sarah Ewall-Wice, 15 Oct 2026, full text), both reporting a Washington Post investigation based on internal records; the Post itself was not retrievable this run (paywalled/blocked), so it is credited in prose and the two carriers are cited. Donor figures and the ~$333m total are the Post's per both carriers; the conduit nonprofit is not confirmed in the retrieved text and is left unstated. Enrich from the Post original.",
+   "interested_parties": "The Washington Post (investigation); Apple; Nvidia; Adelson Family Foundation; Charlie Ergen (Dish Network); White House",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-035-C",
    "entry_id": "035-C",
    "seq": 82,
@@ -23915,6 +23951,80 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-437",
+   "entry_id": "437",
+   "seq": 786,
+   "title": "Colombia's government orders National Museum to remove LGBTQ-rights and peace-accord works",
+   "artist": "Various (incl. Humberto Rincón Perfetti, Antonio Caro, Luis Caballero)",
+   "institution": "Museo Nacional de Colombia (Bogotá); Ministry of Culture (Colombia)",
+   "country": "Colombia",
+   "governance_type": "Democracy",
+   "date_controversy": "Works removed in mid-October 2026; protests 17–18 October 2026",
+   "date_discovered": "2026-10-20",
+   "sort_date": "2026-10-16",
+   "description": "Some 30 works were removed from the Museo Nacional de Colombia in Bogotá in mid-October 2026, Hyperallergic reported. According to Hyperallergic, the removed pieces referenced LGBTQ+ and feminist movements, victims of state violence, and the 2016 peace accord between the FARC and the Colombian government; most came from the museum's “Making Society” (“Hacer Sociedad”) gallery covering social and political history, with others from a section on socially engaged printmaking and photography of the 1950s and '60s. Named items included a Humberto Rincón Perfetti photograph from an LGBTQ+ rights march, a Pride flag belonging to activist Elizabeth Castillo, a pamphlet on women's reproductive rights, ephemera on the assassinations of Carlos Pizarro Leongómez and Bernardo Jaramillo Ossa, and the bullet-shaped pen used to sign the 2016 agreement. President Abelardo De La Espriella, who took office in August 2026, said he had instructed Culture Minister Paola Holguín to ensure that “all those odes to terrorism featuring Pizarro and the other terrorists are removed from public places,” per Hyperallergic; Holguín wrote on X that the museum may not serve as “an instrument of political indoctrination” or “a hub for spreading biased versions of our history.” Hyperallergic reported that hundreds protested at the museum over the weekend of 17–18 October 2026, with riot police blocking the entrance, and that directors of six modern-art museums issued a joint statement of “deep concern” urging the minister to reverse the decision.",
+   "outcome": "The works remained removed as of mid-October 2026; a museum representative referred inquiries to the Ministry of Culture. [FOLLOW-UP PENDING: whether the removals are reversed, any inventory or official justification published, and any legal challenge.]",
+   "tags": [
+    "Removal",
+    "Censorship",
+    "Political interference",
+    "Community objection"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/hundreds-protest-in-colombia-after-far-right-president-removes-works-from-national-museum/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    3
+   ],
+   "notes": "Part of the de la Espriella administration's cultural-policy cluster — cross-ref ACI-377 (RTVC paints over author murals), ACI-399 (proposed 30% culture-budget cut), ACI-200 (Museo de Memoria's future questioned). Governance trajectory: Colombia is a democracy under a far-right administration elected August 2026; the removal is characterised as censorship by critics (attributed in the description), not in the Index's voice. THIN / English-only: drafted from Hyperallergic (full text); Spanish primary coverage (La Silla Vacía, El País Colombia, Publimetro, NTN24) seen only as search snippets this run — enrich on the Latin America trawl (Monday) from those originals.",
+   "interested_parties": "President Abelardo De La Espriella; Culture Minister Paola Holguín; Museo Nacional de Colombia; Colombia Diversa; directors of six Colombian modern-art museums; former president Juan Manuel Santos",
+   "coverage_geography": "Colombia, US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-438",
+   "entry_id": "438",
+   "seq": 787,
+   "title": "Energy Embargo for Palestine protests British Museum gala over BP and sponsor ties",
+   "artist": "N/A",
+   "institution": "British Museum (London)",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Protest at the British Museum Ball, 17 October 2026",
+   "date_discovered": "2026-10-20",
+   "sort_date": "2026-10-17",
+   "description": "About 60 protesters from the campaign group Energy Embargo for Palestine gathered outside the British Museum's main entrance during its “Red Ball” fundraising gala — the British Museum Ball 2026 — on the weekend of 17 October 2026, during Frieze week, The Art Newspaper reported. According to The Art Newspaper, demonstrators projected messages including “Drop BP” and “Blood Ball” onto the museum's façade as guests arrived, and inside one attendee posed in a red dress reading “return the marbles” before the Parthenon Marbles. The group called on the museum to end “unethical partnerships with oil giants and tech billionaires” and urged it to “end its partnership with Zionist billionaires,” citing a £50m BP sponsorship deal accepted in 2023, an Israeli Independence Day event hosted at the museum by the Israeli Embassy in May 2025, the gala's honorary chair — hedge-fund billionaire Igor Tulchinsky, whose links to the Israeli military have been scrutinised — and a private viewing given to Peter Thiel. The museum announced an anonymous £30m donation at the ball toward its masterplan, estimated to cost at least £1bn; a spokesperson said the project “has a significant financial cost and will require a mix of private, corporate and public funding.”",
+   "outcome": "The gala proceeded; the museum announced a £30m anonymous gift and did not address the protesters' demands. [FOLLOW-UP PENDING: any museum response on its BP and sponsor partnerships, and further protest actions.]",
+   "tags": [
+    "Funding dispute",
+    "Protest art",
+    "Geopolitics",
+    "Boycott"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/19/british-museums-red-ball-sparks-energy-embargo-for-palestine-protests",
+   "additional_sources": [],
+   "themes": [
+    3,
+    4,
+    5,
+    12
+   ],
+   "notes": "Cross-ref ACI-154-C/-E (scrutiny of and protest over Bayeux Tapestry sponsor Igor Tulchinsky, who was the gala's honorary chair), ACI-367 (Science Museum ends BP sponsorship), ACI-131-C (British Museum 'Palestine' label), and the Parthenon Marbles restitution thread. Drafted from The Art Newspaper (Gareth Harris, 19 Oct 2026, full text; quotes verified verbatim). Could alternatively be filed as a sub-entry of a British Museum sponsorship cluster in review — logged as a new parent because the ball protest spans several grievances and no single BM-sponsorship parent exists.",
+   "interested_parties": "Energy Embargo for Palestine; British Museum (director Nicholas Cullinan); Igor Tulchinsky (honorary gala chair); BP",
+   "coverage_geography": "UK",
    "follow_up_pending": true
   }
  ]

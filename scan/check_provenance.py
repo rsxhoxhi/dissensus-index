@@ -92,6 +92,8 @@ DOMAIN_TO_OUTLET = {
     "thelocal.fr": "The Local",
     "lemonde.fr": "Le Monde",
     "aljazeera.com": "Al Jazeera",
+    "9to5mac.com": "9to5Mac",
+    "thedailybeast.com": "The Daily Beast",
     "newschannel5.com": "NewsChannel5",
     "usnews.com": "U.S. News & World Report",
     "fox17.com": "Fox 17 Nashville",
