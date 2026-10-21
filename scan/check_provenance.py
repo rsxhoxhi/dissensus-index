@@ -175,6 +175,9 @@ DOMAIN_TO_OUTLET = {
     "cornyn.senate.gov": "Office of Senator John Cornyn",  # added 2026-09-30 scan (ACI-391-A Reif v. Republic of Austria amicus)
     "biobiochile.cl": "BioBioChile",  # added 2026-10-08 (ACI-411 backfill, 2020 San Francisco de Borja fire)
     "centrolatinoamericanodelvitral.org": "Centro Latinoamericano del Vitral",  # added 2026-10-08 (ACI-411/-A heritage corroboration)
+    "eluniversal.com.co": "El Universal (Colombia)",  # added 2026-10-21 scan (ACI-439 Museo Nacional de Colombia); distinct from Mexico's El Universal
+    "es.euronews.com": "Euronews",  # added 2026-10-21 scan (ACI-439; Euronews Spanish edition)
+    "thedailybeast.com": "The Daily Beast",  # added 2026-10-21 scan (ACI-005-BO Kennedy Center art collection)
 }
 
 ALIASES = {
