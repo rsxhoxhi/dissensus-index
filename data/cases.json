@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 734
  },
  "cases": [
   {
@@ -2761,6 +2761,40 @@
    "notes": "[FOLLOW-UP PENDING] Strong ARTH 201 Theme 5 (Ethical Museum) and 10 (Art and Capital) case: the market's treatment of Nazi-looted art as a financial asset whose provenance can be bureaucratically managed rather than honestly confronted. The auction house's renaming strategy — stripping 'Margarethe' from the title — is a textbook example of how the market constructs plausible deniability around looted works. Austria's weak domestic restitution law makes New York courts the only viable venue. Compare to entries 115 (Prado Spanish Civil War restitutions) and 122/141 (Beyeler/Cézanne and Schweitzer). Direct classroom utility: the mechanics of provenance-washing in the contemporary market.",
    "interested_parties": "Patricia J. Leahy (direct heir); Nickolas Johann Kraft and Hans Lieser (co-plaintiffs); Im Kinsky auction house; Eva Ropper (current possessor); Baker & Hostetler (Leahy's counsel)",
    "coverage_geography": "United States, Austria, UK, Europe-wide",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-158-A",
+   "entry_id": "158-A",
+   "seq": 771,
+   "title": "Fräulein Lieser portrait: lawsuits and family feud keep Klimt off the market",
+   "artist": "Gustav Klimt",
+   "institution": "Im Kinsky (Vienna); New York State Supreme Court",
+   "country": "Austria / United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 20 October 2026; New York claim filed April 2026",
+   "date_discovered": "2026-10-22",
+   "sort_date": "2026-10-20",
+   "description": "Gustav Klimt's unfinished Portrait of Fräulein Lieser (1917) remains off the market, caught between competing heirs' claims and a New York lawsuit, The Art Newspaper reported. According to the paper, the work was offered at the Vienna auction house Im Kinsky in April 2024 with a €30m estimate and drew a highest bid of €30m from advisers Patti Wong & Associates acting for an anonymous Hong Kong buyer, but that sale fell through. The Art Newspaper reported that a suit filed in New York in April 2026 by Patricia Leahy — a granddaughter of Hans Lieser who says she was excluded from a 2024 settlement — seeks a declaration that she is a rightful heir and owner and asks that the painting be handed to her; as of mid-October 2026 the complaint had not been served on Eva Ropper, the painting's current holder. The paper reported competing positions among claimants and their lawyers: Robert Bachner, for Ropper, said 'it appears that the plaintiff has so far taken no steps to do so' to serve, while Louis Rönsberg, for Hannes Viktor Staal (described as sole legal successor to Hans Lieser), said 'a sale is impossible' while the case is pending. The sitter's identity is itself disputed: the Klimt catalogue raisonné names Margarethe Lieser, daughter of Adolf Lieser, while Im Kinsky has said she could be one of Henriette Lieser-Landau's daughters; Henriette was deported in 1942 and murdered in 1943.",
+   "outcome": "The painting cannot be sold while ownership is litigated; the New York claim was unserved as of mid-October 2026. [FOLLOW-UP PENDING: service and progress of the New York suit, and resolution of the competing heirs' claims.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/20/gustav-klimt-portrait-fraulein-lieser-lawsuits-auction",
+   "additional_sources": [],
+   "themes": [
+    10,
+    12
+   ],
+   "notes": "Sub-entry of ACI-158. Drafted from The Art Newspaper (Catherine Hickley, 20 Oct 2026; full text, quotes verified verbatim). DISCREPANCY flagged for editorial reconciliation: this report says the April 2024 Im Kinsky sale fell through (highest bid €30m), whereas the parent ACI-158 states the work 'sold for $37.5M in April 2024, setting an Austrian auction record' — the accounts conflict and the parent may need a correction. The parent dates the Leahy suit to 5 June 2026 in New York State Supreme Court; this report dates a Leahy New York filing to April 2026 — possibly the same action at a different procedural stage. Parent theme 5 (Universal Museum) dropped here as inapplicable to this private-ownership status update.",
+   "interested_parties": "Patricia Leahy (plaintiff); Eva Ropper (current holder) / Robert Bachner (lawyer); Hannes Viktor Staal / Louis Rönsberg (lawyer); Im Kinsky (Vienna)",
+   "coverage_geography": "Europe, US",
    "follow_up_pending": true
   },
   {
@@ -22738,7 +22772,7 @@
    "date_discovered": "2026-09-15",
    "sort_date": "2026-09-13",
    "description": "Richard and Judy Perlman filed a 42-page lawsuit in Miami alleging they were sold counterfeit Andy Warhol paintings and prints through an international \"pipeline\" stretching from Pennsylvania to Florida and Peru, according to The Philadelphia Inquirer. The suit names Nathan \"Nicky\" Isen, who runs Dane Fine Art Gallery in Haverford Township, Pennsylvania, and the Miami dealer Leslie Roberts, among others; per the Inquirer, it alleges Isen was selling pages torn from art books as authentic prints. The Inquirer reported that the Perlmans had previously sued Roberts in 2024, a case that settled in January 2026 for an undisclosed sum; that Roberts has pleaded guilty to art-related wire fraud and was due to be sentenced in September 2026; and that the FBI searched Dane Fine Art in July 2026. Isen's attorney, Patrick Egan, told the Inquirer, \"My client categorically denies any wrongdoing and any connection with any alleged conspiracy.\" ARTnews reported that the suit, filed September 9, 2026, in Miami, concerns about $6.7 million in purchases made in 2023 and 2024 — including images of Queen Elizabeth II, Debbie Harry, and Superman — and alleges canvases were painted in Peru before being smuggled into the United States.",
-   "outcome": "Litigation is pending; Roberts has pleaded guilty and awaited sentencing while Isen denies wrongdoing through counsel. [FOLLOW-UP PENDING: Roberts's sentencing and the outcome of the Perlman lawsuit]",
+   "outcome": "Litigation is pending; Roberts was sentenced to 46 months on 2 October 2026 (ACI-385-A) while Isen denies wrongdoing through counsel. [FOLLOW-UP PENDING: the outcome of the Perlman lawsuit]",
    "tags": [
     "Art market fraud",
     "Authenticity",
@@ -22757,9 +22791,43 @@
    "themes": [
     10
    ],
-   "notes": "Alleged multinational Warhol forgery network (Peru production, US authentication/distribution). [FOLLOW-UP PENDING: Roberts sentencing; Perlman lawsuit outcome]",
+   "notes": "Alleged multinational Warhol forgery network (Peru production, US authentication/distribution). Roberts's sentencing is logged at ACI-385-A. [FOLLOW-UP PENDING: Perlman lawsuit outcome]",
    "interested_parties": "Richard and Judy Perlman (plaintiffs); Nathan 'Nicky' Isen / Dane Fine Art; Leslie Roberts / Miami Fine Art Gallery; Patrick Egan (Isen's attorney)",
    "coverage_geography": "US, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-385-A",
+   "entry_id": "385-A",
+   "seq": 772,
+   "title": "Fake-Warhol ring: Miami dealer Leslie Roberts sentenced to 46 months",
+   "artist": "Andy Warhol (works alleged to be forgeries)",
+   "institution": "Miami Fine Art Gallery / Leslie Roberts; US federal district court",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Sentenced 2 October 2026; reported 21 October 2026",
+   "date_discovered": "2026-10-22",
+   "sort_date": "2026-10-21",
+   "description": "Leslie Roberts, former owner of the Miami Fine Art Gallery in Coconut Grove, was sentenced to 46 months in prison on 2 October 2026 for his role in selling fake Andy Warhol works, The Art Newspaper reported. According to the paper, Roberts pleaded guilty on 10 June to conspiracy to commit wire fraud, admitting more than $2.5m in fake-art sales, and money-laundering charges were dropped under the plea deal; the 46-month term was at the bottom of the 46-to-57-month range the government had recommended. The paper reported that the scheme used forged authentication documents, stamps and identification numbers to present the paintings as genuine Warhols sourced from the Andy Warhol Foundation, and that Roberts sold forged works to the collector Richard Perlman and his family, who were allegedly defrauded of $6.7m — paintings a Christie's appraisal found to be forged. A co-conspirator, Carlos Miguel Rodriguez Melendez, who posed as a Phillips employee, pleaded guilty last year and received one year of probation. Roberts's lawyer, Jason Wandner, said his client's cooperation was 'critical in the government exposing this network' and that the court would 'entertain the mitigation and cooperation at a later date'; The Art Newspaper noted it could not independently verify the claims about Roberts's cooperation and reported no arrests had yet resulted.",
+   "outcome": "Roberts was sentenced to 46 months; the Perlman civil lawsuit (ACI-385) remains pending. [FOLLOW-UP PENDING: the outcome of the Perlman lawsuit and any further prosecutions in the alleged network.]",
+   "tags": [
+    "Art market fraud",
+    "Authenticity",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/21/miami-dealer-sentenced-to-almost-4-years-in-prison-for-selling-fake-warhols",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "Sub-entry of ACI-385; resolves the 'Roberts's sentencing' item in the parent's follow-up flag. Drafted from The Art Newspaper (Douglas Markowitz, 21 Oct 2026; full text, quotes verified verbatim). The paper did not name the federal district. Cross-ref ACI-385 (the Perlman lawsuit, still pending).",
+   "interested_parties": "Leslie Roberts (defendant); Jason Wandner (Roberts's lawyer); Richard and Judy Perlman (alleged victims); Carlos Miguel Rodriguez Melendez (co-conspirator)",
+   "coverage_geography": "US",
    "follow_up_pending": true
   },
   {
@@ -23915,6 +23983,70 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-440",
+   "entry_id": "440",
+   "seq": 773,
+   "title": "Düsseldorf, Cologne galleries condemn AfD faction's 'Cultural Policy From the Right' event",
+   "artist": "Joseph Beuys (legacy invoked)",
+   "institution": "Düsseldorf and Cologne galleries (50+ signatories); AfD Düsseldorf faction",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "Open letter reported October 2026; event scheduled 26 October 2026",
+   "date_discovered": "2026-10-22",
+   "sort_date": "2026-10-21",
+   "description": "More than 50 galleries in Düsseldorf and Cologne signed a letter condemning a planned event by the Düsseldorf faction of the far-right Alternative für Deutschland (AfD), Hyperallergic reported. According to Hyperallergic, the faction promoted 'Cultural Policy From the Right' — a city walking tour followed by a lecture by AfD Bundestag member Matthias Helferich — in terms that invoked the postwar artist Joseph Beuys and the poet Heinrich Heine, though Hyperallergic wrote that it could not confirm any Beuys reference on the AfD or AfD Düsseldorf websites. The galleries' letter said Düsseldorf is 'a city whose cultural identity is characterized by openness' and that 'art emerges where boundaries are questioned.' Helferich, elected to the Bundestag in 2021, was temporarily expelled from the AfD's North Rhine-Westphalia branch in 2025 after leaked chats surfaced; the expulsion was overturned in June 2026. The event was scheduled for 26 October 2026 in Düsseldorf.",
+   "outcome": "The galleries' letter opposes the event, scheduled for 26 October 2026. [FOLLOW-UP PENDING: whether the 26 October event proceeds and any further institutional or municipal response.]",
+   "tags": [
+    "Political interference",
+    "Resistance"
+   ],
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/is-germanys-far-right-afd-co-opting-joseph-beuys/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Single-source (Hyperallergic, Rhea Nayyar, 21 Oct 2026). Hyperallergic states it could not confirm the Beuys reference on AfD websites, so the co-option claim is attributed, not asserted; the verifiable spine is the 50+-gallery condemnation of the planned AfD event. German regional corroboration of the gallery letter was not retrievable this run (a same-period German open letter found in search concerned the Düsseldorf Kunstakademie / Rector Donatella Fioretti dispute, a separate matter). Tagging and theme choices flagged for review — no Dissensus theme fits cleanly. [FOLLOW-UP PENDING: the 26 October 2026 event]",
+   "interested_parties": "Matthias Helferich (AfD Bundestag member); AfD Düsseldorf faction; 50+ Düsseldorf and Cologne galleries (signatories)",
+   "coverage_geography": "Germany",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-441",
+   "entry_id": "441",
+   "seq": 774,
+   "title": "All six of Edward Hopper's earliest oil paintings identified as copies, biography argues",
+   "artist": "Edward Hopper",
+   "institution": "N/A",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Claim published 20 October 2026 (biography excerpt); book published 13 October 2026 (US)",
+   "date_discovered": "2026-10-22",
+   "sort_date": "2026-10-20",
+   "description": "In an exclusive extract from his biography Edward Hopper: A Life (Yale University Press), the art historian Louis Shadwick argues that all six of Edward Hopper's earliest known oil paintings — made before he enrolled in art school and long accepted as original compositions — are copies of published images, mostly colour plates in the magazine Art Interchange, The Art Newspaper reported. According to The Art Newspaper, Shadwick matches each work to a source: Old Ice Pond at Nyack to Bruce Crane's Winter Sunset (Art Interchange, December 1890); Rowboat in Rocky Cove to a February 1891 plate titled Lake View; Country Road to a John Francis Murphy work (March 1886); Ships to Edward Moran's Marine View (August 1886); Clipper Ship Being Towed by Tug to Fred Pansing's Stormy Voyage (New York Recorder, 7 May 1893); and Church and Landscape to two 1893 paintings and a Victorian porcelain plaque. The plates, the paper reported, carried copying instructions, which Shadwick says accounts for other surviving amateur copies. Hopper signed the works 'E.H.' or 'E. Hopper' without acknowledging the sources; Shadwick reads this as youthful pride rather than an attempt to deceive. The works' Nyack titles and provenance, the paper noted, derive from their first owner, the Reverend Arthayer R. Sanborn, who found them in the Hopper attic in the late 1960s. The Art Newspaper cited a 2020 report by Hannah McGivern on the same copying findings.",
+   "outcome": "Shadwick's attribution challenges the accepted account of Hopper's early development; The Art Newspaper's report names no party disputing the findings. [FOLLOW-UP PENDING: any response from Hopper scholars or institutions to the reattribution.]",
+   "tags": [
+    "Authenticity"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/20/edward-hopper-early-oils-all-copies-louis-shadwick-excerpt-hopper-biography",
+   "additional_sources": [],
+   "themes": [
+    1,
+    11
+   ],
+   "notes": "New parent. Scholarly reattribution reported from a biography excerpt (Louis Shadwick, Edward Hopper: A Life, Yale UP). No opposing party is named, so whether this is a 'controversy' or a scholarly finding is a judgment call flagged for review (logged per the 'err toward showing more' threshold). Artforum also reported the findings (20 Oct 2026), but its text was not retrievable this run (bot-wall), so it is not cited. The Art Newspaper credits a 2020 Hannah McGivern report on the same findings.",
+   "interested_parties": "Louis Shadwick (biographer); Reverend Arthayer R. Sanborn (first owner); Heirs of Josephine N. Hopper",
+   "coverage_geography": "UK, US",
    "follow_up_pending": true
   }
  ]
