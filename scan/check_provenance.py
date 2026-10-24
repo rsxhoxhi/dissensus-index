@@ -175,6 +175,9 @@ DOMAIN_TO_OUTLET = {
     "cornyn.senate.gov": "Office of Senator John Cornyn",  # added 2026-09-30 scan (ACI-391-A Reif v. Republic of Austria amicus)
     "biobiochile.cl": "BioBioChile",  # added 2026-10-08 (ACI-411 backfill, 2020 San Francisco de Borja fire)
     "centrolatinoamericanodelvitral.org": "Centro Latinoamericano del Vitral",  # added 2026-10-08 (ACI-411/-A heritage corroboration)
+    "chicago.suntimes.com": "Chicago Sun-Times",  # added 2026-10-24 (ACI-442 DePaul Art Museum)
+    "stripes.com": "Stars and Stripes",  # added 2026-10-24 (ACI-443 Quantico Iwo Jima statue)
+    "militarytimes.com": "Military Times",  # added 2026-10-24 (ACI-443 Quantico Iwo Jima statue)
 }
 
 ALIASES = {
