@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 731
  },
  "cases": [
   {
@@ -3165,6 +3165,40 @@
    "notes": "Continues ACI-154 (Bayeux Tapestry loan) thread; goes to the fragility/condition concern central to the French debate over the loan. A subsequent British Museum reversal barring visitor photography (reported around September 15-16 by ARTnews and Artforum) was not logged for want of a retrieved full-text source (see PR). Roughly two-week-old item surfaced on this run's homepage/RSS sweep.",
    "interested_parties": "British Museum; Bayeux Museum; French Culture Minister Catherine Pegard; French and British conservation teams",
    "coverage_geography": "UK, France",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-154-G",
+   "entry_id": "154-G",
+   "seq": 771,
+   "title": "Bayeux Tapestry: blind visitor sues British Museum over lack of audio-described tours",
+   "artist": "N/A (11th-century embroidery)",
+   "institution": "British Museum, London (on loan from the Bayeux Museum, France)",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Legal action reported September 30, 2026",
+   "date_discovered": "2026-10-25",
+   "sort_date": "2026-09-30",
+   "description": "Dr Yusuf Ali Osman, a blind man from Croydon, is taking legal action against the British Museum over its Bayeux Tapestry exhibition, alleging it breached the Equality Act by not offering audio-described tours, Reuters reported. His lawyers at Leigh Day argue that the museum's decision to prioritise self-guided visits — a policy tied to limits on visitor numbers because of restrictions on the tapestry's light exposure — put blind visitors at a substantial disadvantage. Osman said, \"I want to be able to visit the Bayeux Tapestry and experience it for myself,\" and that \"it is disappointing to find that blind visitors are not being offered an audio-described way of experiencing it.\" His solicitor Kate Egerton of Leigh Day said, \"The Equality Act places obligations on service providers to anticipate the needs of disabled people and take reasonable steps to avoid substantial disadvantage.\" A British Museum spokesperson said it was planning dedicated tours featuring \"an in-person audio-described tour\" and added, \"We are also exploring including a separate audio-described tour as part of the exhibition's app-based audio guide.\" The 70-metre tapestry is viewed from an elevated platform in 40-minute slots; it went on display on 10 September 2026 and runs to 11 July 2027.",
+   "outcome": "The British Museum said it would introduce audio-described tours following the legal action; the claim's resolution is pending. [FOLLOW-UP PENDING: whether the case proceeds to a hearing or settles, and whether the promised audio-described tours are introduced.]",
+   "tags": [
+    "Legal challenge",
+    "Accessibility"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "Reuters"
+   ],
+   "source": "https://www.thestar.com.my/news/world/2026/09/30/blind-man-challenges-british-museum-over-lack-of-audio-tours-for-bayeux-tapestry",
+   "additional_sources": [],
+   "themes": [
+    3,
+    4
+   ],
+   "notes": "Continues the ACI-154 Bayeux Tapestry loan thread; the accessibility / disability-rights strand, distinct from conservation (ACI-154-F) and the photography-ban reversal noted there. Drafted from Reuters (Sam Tobin, 30 September 2026) as carried in full by The Star (Malaysia); quotes verified verbatim against that text. The originating reuters.com and The Art Newspaper (1 October) URLs were blocked/paywalled to the scan's tools, so the Reuters wire copy stands (thestar.com.my mapped to Reuters in check_provenance, cf. spokesman.com). Roughly three-week-old item surfaced on this run's homepage/RSS sweep. New tag 'Accessibility' introduced (see PR).",
+   "interested_parties": "Dr Yusuf Ali Osman (claimant); Leigh Day (Kate Egerton, solicitor); British Museum",
+   "coverage_geography": "UK",
    "follow_up_pending": true
   },
   {

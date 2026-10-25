@@ -175,6 +175,7 @@ DOMAIN_TO_OUTLET = {
     "cornyn.senate.gov": "Office of Senator John Cornyn",  # added 2026-09-30 scan (ACI-391-A Reif v. Republic of Austria amicus)
     "biobiochile.cl": "BioBioChile",  # added 2026-10-08 (ACI-411 backfill, 2020 San Francisco de Borja fire)
     "centrolatinoamericanodelvitral.org": "Centro Latinoamericano del Vitral",  # added 2026-10-08 (ACI-411/-A heritage corroboration)
+    "thestar.com.my": "Reuters",  # added 2026-10-25 scan: The Star (Malaysia) as Reuters wire carrier (cf. spokesman.com); ACI-154-G Bayeux accessibility suit
 }
 
 ALIASES = {
