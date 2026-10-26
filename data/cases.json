@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 731
  },
  "cases": [
   {
@@ -23915,6 +23915,38 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-444",
+   "entry_id": "444",
+   "seq": 771,
+   "title": "French bill would broaden 'national treasure' control over privately owned art",
+   "artist": "N/A",
+   "institution": "French Senate; French state (Code du patrimoine / Ministry of Culture)",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Bill introduced in the French Senate March 2026",
+   "date_discovered": "2026-10-26",
+   "sort_date": "2026-10-22",
+   "description": "A bill introduced in the French Senate in March 2026 by senator Jacques Grosperrin would strengthen the state's control over French cultural property, including works held in private collections, The Art Newspaper reported. According to the paper, the bill would broaden the definition of tresor national (national treasure) to cover works by French artists regardless of age—the current age threshold has kept contemporary work outside the regime—and would extend the state's right of pre-emption to private sales made outside auction houses. Under the existing Code du patrimoine, a work designated a tresor national requires an export certificate that the state can refuse without compensation, barring export for 30 months. The Art Newspaper's report sets out several objections to the proposal: that buyers may hesitate to bid on works they might never be able to export (citing an Italian auction house's estimate that export restrictions can cut an internationally desirable work's value by 70% to 80%), that international collectors and galleries might avoid French contemporary artists to escape the regime, and that the state can assert claims long after lawful sales—pointing to the Chartres Cathedral fragment case, in which the Conseil d'Etat upheld the state's position that the object had never left public ownership.",
+   "outcome": "The bill is pending in the French Senate. [FOLLOW-UP PENDING: the bill's progress through the Senate, and any formal response from the French art market or the Ministry of Culture.]",
+   "tags": [
+    "Cultural policy"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/22/could-proposed-bill-give-the-french-state-too-much-control-over-privately-owned-art",
+   "additional_sources": [],
+   "themes": [
+    10
+   ],
+   "notes": "New parent (provisional ACI-444). Drafted narrowly from a single Art Newspaper analysis (Kaisse Sokrane, 22 October 2026; full text). THIN, single-outlet — enrich with French-language coverage and the Senate record of the Grosperrin bill (introduced March 2026). The 70–80% value-reduction figure is attributed by The Art Newspaper to an Italian auction house; the Chartres Cathedral fragment precedent and the Rembrandt 'Standard Bearer' export example are the paper's. Proposed new broad tag 'Cultural policy' (not previously used) — flagged for editorial confirmation. [FOLLOW-UP PENDING: Senate progress; market/Ministry response.]",
+   "interested_parties": "Senator Jacques Grosperrin (bill sponsor); French Ministry of Culture; French art market and private collectors",
+   "coverage_geography": "France, UK",
    "follow_up_pending": true
   }
  ]
