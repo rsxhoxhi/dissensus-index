@@ -55,6 +55,8 @@ DOMAIN_TO_OUTLET = {
     "livingnewdeal.org": "Living New Deal",
     "wtvr.com": "WTVR",
     "wtop.com": "WTOP",
+    "ms.now": "MS.NOW",  # added 2026-10-27 scan (ACI-436-A East Potomac ruling; MSNBC's rebranded domain)
+    "washingtonsun.com": "The Washington Sun",  # added 2026-10-27 scan (ACI-436-A East Potomac ruling)
     "ansa.it": "ANSA",
     "ilfattoquotidiano.it": "Il Fatto Quotidiano",
     "lanazione.it": "La Nazione",
