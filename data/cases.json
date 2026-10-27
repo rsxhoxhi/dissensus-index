@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 732
  },
  "cases": [
   {
@@ -19624,6 +19624,38 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-284-F",
+   "entry_id": "284-F",
+   "seq": 771,
+   "title": "V&A plans to cut much of its Academy; unions suspend 29–30 October strike after new offer",
+   "artist": "N/A",
+   "institution": "Victoria and Albert Museum (V&A), London; PCS and Prospect unions",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Academy-cuts plan and strike suspension reported 26 October 2026",
+   "date_discovered": "2026-10-27",
+   "sort_date": "2026-10-26",
+   "description": "The Victoria and Albert Museum is proposing to dismantle much of its V&A Academy, the museum's adult-learning programme, by the end of 2026, cutting around half of the Academy's staff, The Art Newspaper reported on 26 October 2026. Many in-person courses at South Kensington would end, including all five flagship 10-week hybrid courses, while the African heritage programme, professional-development courses for museum workers and some online courses would continue. Management's stated reason was that the programme had \"failed to meet income expectations,\" which the report said came despite record sales — Academy income of £1.2m in 2024–25 and more than £400,000 in the spring 2026 quarter. A V&A spokesperson said \"no final decisions have been made.\" The Art Newspaper reported that about 17 permanent Academy staff and some 100 guest lecturers were affected, and that cuts of roughly 10–15% were also expected across other teams, likely reaching curatorial roles. Prospect official Paula Lamont said that \"heaping more workload and pressure on an increasingly demoralised workforce is unsustainable and cannot be the answer,\" and anonymous staff told the paper that \"nobody had any inkling this was going to happen.\" Separately, the paper reported that on 26 October the PCS and Prospect unions said members had suspended the two-day strike planned across all four V&A sites for 29–30 October (ACI-284-E) to allow further talks after an \"improved offer\" from the museum.",
+   "outcome": "The 29–30 October strike was suspended for further talks after an improved pay offer; the proposed Academy cuts and wider restructuring are not final. [FOLLOW-UP PENDING: whether the Academy cuts proceed as proposed, the outcome of the renewed pay talks, and any further strike action.]",
+   "tags": [
+    "Labor dispute",
+    "Funding dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/26/victoria-albert-museum-proposing-significant-cuts-academy-amid-financial-pressures",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Sub-entry of ACI-284 (V&A pay-and-conditions dispute). Reports two linked 26 October developments: the proposed dismantling of much of the V&A Academy and the suspension of the 29–30 October strike (ACI-284-E) after an improved offer. ACI-284-E sits on an unmerged daily-scan branch (claude/daily-2026-10-21), so its [FOLLOW-UP PENDING] on whether the strike proceeded cannot be cleared from this origin/main base and should be reconciled at merge. Drafted from The Art Newspaper (full text; quotes verified verbatim).",
+   "interested_parties": "Victoria and Albert Museum (director Tristram Hunt); PCS union; Prospect (Paula Lamont); V&A Academy staff and guest lecturers",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-285",
    "entry_id": "285",
    "seq": 574,
@@ -23915,6 +23947,43 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-436-A",
+   "entry_id": "436-A",
+   "seq": 772,
+   "title": "East Potomac Park: judge issues injunction barring further tree removal at golf course",
+   "artist": "N/A",
+   "institution": "East Potomac Golf Links / National Park Service, East Potomac Park, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Preliminary injunction issued 26 October 2026",
+   "date_discovered": "2026-10-27",
+   "sort_date": "2026-10-26",
+   "description": "U.S. District Judge Ana Reyes on 26 October 2026 issued a preliminary injunction indefinitely barring the Trump administration from removing any tree at East Potomac Park, MS.NOW reported, replacing the temporary order (ACI-436) that had halted tree-felling only through 26 October. The new order also requires the government to give at least ten business days' notice before any closure of, or any \"irreversible modification\" to, the park while the lawsuit proceeds, with a narrow exception for an \"imminent threat\" that still requires 24 hours' notice to the court and plaintiffs and a sworn declaration from a senior National Park Service official. According to MS.NOW the suit was brought by a coalition of a preservation group and local golfers — identified in earlier reporting as the DC Preservation League (ACI-436) — represented by Democracy Forward, with Abbe Lowell appearing at the hearing. In the ruling, Reyes wrote that \"at this preliminary posture, the Court finds that the Plan is final\" and that \"the Court acts now only because the Government did what it assured all it would not do\"; the government had by then removed hundreds of trees the judge described as healthy. Democracy Forward CEO Skye Perryman called the order \"a big win that will rightly protect East Potomac park from further irreparable harm.\" The Washington Sun reported that Reyes also wrote, \"The Court still does not speak for the trees. It speaks only for the rule of law,\" and that President Trump responded on Truth Social that \"the judge has absolutely no right to hold up this very important and beautiful Project.\"",
+   "outcome": "A preliminary injunction bars any further tree removal and requires ten business days' notice before closures or irreversible changes while the suit proceeds. [FOLLOW-UP PENDING: the merits of the DC Preservation League suit, any government appeal, and whether the planned 15-month closure and redevelopment proceed.]",
+   "tags": [
+    "Historic preservation",
+    "Legal challenge",
+    "Community objection"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "MS.NOW",
+    "The Washington Sun"
+   ],
+   "source": "https://www.ms.now/news/judge-blocks-d-c-golf-course-tree-removal-orders-government-to-give-notice-before-more-changes",
+   "additional_sources": [
+    "https://www.washingtonsun.com/whitehouse/judge-east-potomac-golf-course-restraining-order"
+   ],
+   "themes": [
+    9
+   ],
+   "notes": "Sub-entry of ACI-436 (East Potomac golf-course redevelopment and the DC Preservation League suit); part of the DC federal-cultural cluster. The 26 October preliminary injunction resolves the '26 October order expiry' and '19 October hearing' items in ACI-436's follow-up flag; the parent sits on an unmerged daily-scan branch (claude/daily-2026-10-19), so its flag/outcome cannot be updated from this origin/main base and should be reconciled when the branches merge. Drafted from MS.NOW (full text); the 'rule of law' quote and Trump's Truth Social response are from The Washington Sun (full text). The 'hundreds' of trees figure is MS.NOW's; earlier reporting (ACI-436) put the felled count at 430 (DOJ) to 529 (plaintiffs).",
+   "interested_parties": "Judge Ana Reyes; DC Preservation League; local golfers; Democracy Forward (Skye Perryman, CEO; Abbe Lowell); National Park Service; Interior Department; President Trump",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
