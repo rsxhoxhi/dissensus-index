@@ -45,6 +45,8 @@ DOMAIN_TO_OUTLET = {
     "bbc.com": "BBC",
     "bbc.co.uk": "BBC",
     "reuters.com": "Reuters",
+    "jewishnews.co.uk": "Jewish News",  # added 2026-10-28 scan (ACI-445 Torah auction)
+    "meduza.io": "Meduza",  # added 2026-10-28 scan (ACI-446 Shukhov Tower)
     "fox5ny.com": "Fox 5 New York",  # added 2026-09-13 scan
     "1news.co.nz": "1News",  # added 2026-09-13 scan
     "akp.gov.kh": "Agence Kampuchea Presse",  # added 2026-09-11 scan (ACI-385 Preah Vihear)

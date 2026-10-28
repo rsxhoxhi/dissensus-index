@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 734
  },
  "cases": [
   {
@@ -14260,6 +14260,40 @@
    "follow_up_pending": false
   },
   {
+   "id": "ACI-015-B",
+   "entry_id": "015-B",
+   "seq": 773,
+   "title": "Glasgow museums remove Egyptian mummified remains from display, drawing public debate",
+   "artist": "N/A",
+   "institution": "Kelvingrove Art Gallery and Museum (Glasgow Life); The Hunterian (University of Glasgow)",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Removals reported October 2026",
+   "date_discovered": "2026-10-28",
+   "sort_date": "2026-10-26",
+   "description": "Kelvingrove Art Gallery and Museum, run by Glasgow Life, removed the mummified remains of Nekht, an ancient Egyptian priest, and the Hunterian at the University of Glasgow covered an open sarcophagus holding the mummified remains of Lady Shep-En-Hor while keeping the sarcophagus itself on display, the Museums Association reported. Glasgow Life cited the absence of consent from the deceased or their descendants and said removal was more respectful to the individuals, while the Hunterian said an internal ethical review had concluded the individual deserved privacy in death. The decisions followed Manchester Museum's September 2026 removal of an ancient Egyptian woman's remains after a public consultation, a Department for Digital, Culture, Media and Sport review of its 2005 guidance on human remains in museums, and a revised ICOM Code of Ethics adopted over the summer. According to the Museums Association, the removals drew criticism — including from the Scottish Conservatives' culture spokesman, who characterised them as censorship — as well as support from commentators who questioned why the remains had been displayed for so long; National Museums Scotland and the British Museum said they had no plans to remove mummified remains central to their displays.",
+   "outcome": "Remains removed or covered; debate continuing over the display of human remains in UK museums. [FOLLOW-UP PENDING: outcome of the DCMS review of human-remains guidance and any further museum decisions.]",
+   "tags": [
+    "Removal",
+    "Human remains",
+    "Ethical museum"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Museums Association"
+   ],
+   "source": "https://www.museumsassociation.org/museums-journal/news/2026/10/removal-of-mummified-remains-from-display-sparks-public-debate/",
+   "additional_sources": [],
+   "themes": [
+    5
+   ],
+   "notes": "Sub-entry of ACI-015-A (UK human-remains-in-museums thread: DCMS guidance, ICOM ethics). Themes narrowed to [5] (ethical/encyclopedic museum) rather than the parent's [5, 6, 12] because this is a display-ethics and public-objection dispute over ancient Egyptian remains, not colonial repatriation. Cross-ref Manchester Museum's September 2026 removal, named in the source. Drafted from the Museums Association (Geraldine Kendall Adams, 26 Oct 2026); reported speech only (full body partially retrievable). FOR REVIEW: logged as a sub-entry of ACI-015-A rather than a new parent — confirm that call. [FOLLOW-UP PENDING: DCMS human-remains guidance review.]",
+   "interested_parties": "Glasgow Life (Kelvingrove Art Gallery and Museum); The Hunterian (University of Glasgow); DCMS; ICOM; Scottish Conservatives",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-014",
    "entry_id": "014",
    "seq": 13,
@@ -19624,6 +19658,36 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-284-F",
+   "entry_id": "284-F",
+   "seq": 774,
+   "title": "V&A: unions suspend 29–30 October strike for Acas talks after improved pay offer",
+   "artist": "N/A",
+   "institution": "Victoria and Albert Museum; PCS and Prospect unions",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Strike planned 29–30 October 2026; suspended 27 October 2026",
+   "date_discovered": "2026-10-28",
+   "sort_date": "2026-10-27",
+   "description": "The Prospect and PCS unions suspended planned strike action at the Victoria and Albert Museum's London sites on 29–30 October 2026 so that talks facilitated by Acas could take place, after the museum made an improved offer, the Museums Association reported. The V&A's latest offer includes an average pay rise of 4.18%, with 6.9% for its lowest-paid staff, bank holiday pay raised to 1.5 times the normal rate, a bonus scheme and subsidised food across all sites; the museum said all staff are paid at least the London Living Wage and that its Living Wage Foundation accreditation is under review. Prospect, in dispute since August over pay, accreditation and working conditions during extreme heat, had struck on 4–5 and 25–26 September, while PCS is seeking better seating and heat measures for front-of-house staff, improved food provision at the East sites and a new industrial-relations framework. Prospect's national secretary, Paula Lamont, said the union welcomed the improved offer and the museum's \"willingness to get back around the negotiating table,\" while PCS said its members \"retain a strong mandate for industrial action\" and would announce further strikes if talks failed to produce an acceptable deal.",
+   "outcome": "Strike suspended for Acas-facilitated talks; the unions retain their strike mandate. [FOLLOW-UP PENDING: outcome of the Acas talks and whether further strikes are called.]",
+   "tags": [
+    "Labor dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Museums Association"
+   ],
+   "source": "https://www.museumsassociation.org/museums-journal/news/2026/10/half-term-strike-at-va-suspended-after-unions-receive-improved-offer/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Sub-entry of ACI-284 (V&A pay dispute). Supersedes the planned 29–30 October strike flagged in the pending ACI-284-E (not yet on main). Drafted from the Museums Association (Geraldine Kendall Adams, 27 Oct 2026; full text, quotes verified verbatim). [FOLLOW-UP PENDING: outcome of the Acas talks.]",
+   "interested_parties": "Victoria and Albert Museum; Prospect (Paula Lamont, national secretary); PCS; Acas",
+   "coverage_geography": "UK",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-285",
    "entry_id": "285",
    "seq": 574,
@@ -23915,6 +23979,73 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-445",
+   "entry_id": "445",
+   "seq": 771,
+   "title": "Oslo auction house cancels sale of Nazi-looted Torah fragment after Israeli protest",
+   "artist": "N/A",
+   "institution": "Valkyrie Historical Auctions (Oslo)",
+   "country": "Norway",
+   "governance_type": "Democracy",
+   "date_controversy": "Auction and cancellation reported October 2026",
+   "date_discovered": "2026-10-28",
+   "sort_date": "2026-10-19",
+   "description": "Valkyrie Historical Auctions, an Oslo-based firm, listed for sale a fragment of a calfskin Torah scroll reportedly looted by SS soldiers from a synagogue in Poland and used by a Nazi soldier to wrap a package sent to Germany, with the back of the parchment bearing a military unit and a recipient's address, Jewish News reported. The lot drew a winning bid of $8,500, or $10,625 with the buyer's premium. Israel's Foreign Ministry condemned the sale on social media, describing it as a Nazi celebration in Oslo and a moral atrocity and urging Norway to stop it. On Monday 19 October 2026 the auction house said the transaction had not been completed and that the parchment would instead be donated to RUTH – Remember Us The Holocaust, a San Diego-based organisation; Jewish News reported that the firm's Facebook and Instagram pages had become unavailable.",
+   "outcome": "Sale canceled; the auction house said the transaction was not completed and that the fragment would be donated to a Holocaust-remembrance organisation. [FOLLOW-UP PENDING: completion of the donation of the fragment to RUTH.]",
+   "tags": [
+    "Repatriation",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Jewish News"
+   ],
+   "source": "https://www.jewishnews.co.uk/nazi-looted-torah-auction-cancelled-following-israeli-protest/",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "Nazi-looted / restitution cluster; cross-ref ACI-388 (Norton Simon Cranach), ACI-389 (Babbitt / Auschwitz watercolors), ACI-111 (Musée d'Orsay MNR). Drafted from Jewish News (Michelle Rosenberg, 21 Oct 2026); the outlet's full body was only partially retrievable by the scan's tools, so claims are in reported speech (no verbatim quotes). [FOLLOW-UP PENDING: completion of the donation to RUTH.]",
+   "interested_parties": "Valkyrie Historical Auctions; Israel's Foreign Ministry; RUTH – Remember Us The Holocaust (San Diego)",
+   "coverage_geography": "Israel, UK, Norway",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-446",
+   "entry_id": "446",
+   "seq": 772,
+   "title": "Moscow plan to dismantle and rebuild 1922 Shukhov radio tower spurs heritage fight",
+   "artist": "Vladimir Shukhov (engineer)",
+   "institution": "Russian Television and Radio Broadcasting Network (RTRS); Shukhov (Shabolovka) radio tower, Moscow",
+   "country": "Russia",
+   "governance_type": "Authoritarian",
+   "date_controversy": "Dismantling project approved 2025–April 2026; dispute escalating October 2026",
+   "date_discovered": "2026-10-28",
+   "sort_date": "2026-10-28",
+   "description": "The Shabolovka radio tower in Moscow, a lattice hyperboloid steel structure built in 1919–1922 to Vladimir Shukhov's design and later the Soviet Union's main radio and television transmitter, has been closed to the public for more than two decades, Meduza reported. Its owner, the Russian Television and Radio Broadcasting Network (RTRS), plans to dismantle nearly all of the tower and replace it with a new structure by 2028; a 2025 state review and an April 2026 state expert board approved rebuilding with new metal, replacing any element judged to have lost more than 5% of its load-bearing capacity and adding an observation deck and elevator. According to Meduza, RTRS's deputy director said the result would be exactly the same tower, but specialists, including Shukhov's great-grandson and architectural critics, argue that replacing the original metal would destroy the work's authenticity and could cost it eligibility for UNESCO World Heritage status, and that a slower, research-based restoration could preserve the original steel; in August 2026 the Union of Restorers called for an independent review. The New York Times reported on 28 October 2026 that historians were urging President Vladimir Putin to reconsider the plan, in a rare instance of wartime dissent.",
+   "outcome": "Dismantling approved but not yet begun; preservationists are campaigning to stop it. [FOLLOW-UP PENDING: whether RTRS proceeds with the dismantling, and any independent review or reversal.]",
+   "tags": [
+    "Historic preservation",
+    "Conservation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Meduza",
+    "New York Times"
+   ],
+   "source": "https://meduza.io/en/feature/2026/09/30/moscow-is-about-to-restore-its-landmark-1922-shukhov-radio-tower-by-dismantling-it-and-replacing-almost-all-of-its-original-steel",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html"
+   ],
+   "themes": [],
+   "notes": "Drafted from Meduza (Asya Zolnikova, 29 Sep 2026); the 28 Oct 2026 escalation (historians urging Putin to reconsider) is attributed inline to The New York Times, whose body was not retrieved (API metadata only). Per CLAUDE.md cultural-property guidance, a threatened destruction is tagged Historic preservation / Conservation (the contested question here is the nature of the restoration — dismantle-and-replica vs. preserving the original metal), not the Cultural property destruction umbrella, unless and until dismantling occurs. [FOLLOW-UP PENDING: whether dismantling proceeds.]",
+   "interested_parties": "Russian Television and Radio Broadcasting Network (RTRS), deputy director Stanislav Belyavsky; Vladimir Shukhov (great-grandson); critic Yelizaveta Likhacheva; Union of Restorers",
+   "coverage_geography": "Russia, US, International",
    "follow_up_pending": true
   }
  ]
