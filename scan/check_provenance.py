@@ -92,6 +92,8 @@ DOMAIN_TO_OUTLET = {
     "thelocal.fr": "The Local",
     "lemonde.fr": "Le Monde",
     "aljazeera.com": "Al Jazeera",
+    "sixthtone.com": "Sixth Tone",  # added 2026-10-29 scan (ACI-447 China AI mash-up crackdown)
+    "techrepublic.com": "TechRepublic",  # added 2026-10-29 scan (ACI-447 China AI mash-up crackdown)
     "newschannel5.com": "NewsChannel5",
     "usnews.com": "U.S. News & World Report",
     "fox17.com": "Fox 17 Nashville",

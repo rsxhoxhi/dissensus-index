@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 732
  },
  "cases": [
   {
@@ -23916,6 +23916,72 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-447",
+   "entry_id": "447",
+   "seq": 771,
+   "title": "China orders removal of AI mash-up videos reworking classic-literature characters",
+   "artist": "N/A",
+   "institution": "National Radio and Television Administration (NRTA); Cyberspace Administration of China (CAC)",
+   "country": "China",
+   "governance_type": "Authoritarian",
+   "date_controversy": "NRTA notice issued 7 December 2024 (Sixth Tone); campaign widened through 2026",
+   "date_discovered": "2026-10-29",
+   "sort_date": "2024-12-07",
+   "description": "On 7 December 2024, China's National Radio and Television Administration (NRTA) issued a notice ordering provincial authorities to have short-video platforms inspect and remove AI-altered and mash-up videos reworking classic Chinese films, television dramas and literature, Sixth Tone reported. According to Sixth Tone, the targeted clips reimagined canonical works — the Monkey King (Sun Wukong) riding a motorcycle through Journey to the West, the strategist Zhuge Liang eating a durian mid-battle, and a 'Romance of the Three Kingdoms in AI' series in which Iron Man is executed and the businessman Jack Ma is crowned emperor. The NRTA said the videos were “created purely to chase traffic” and “blatantly desecrate classic intellectual property,” undermined traditional cultural values, departed from the originals' core and could constitute copyright infringement; provinces were told to act by 10 December. Sixth Tone quoted Ma Ce, an AI-law attorney at Zhejiang Kinding Law Firm, who argued for “stricter compliance requirements on generative AI service providers” while cautioning that “altering traditional cultural classics should not devolve into defamation.” The campaign has since widened: TechRepublic reported that a September 2026 Cyberspace Administration of China 'Qinglang' drive removed some 5.61 million pieces of content and penalised more than 49,000 accounts, again citing AI remixes of Journey to the West and Romance of the Three Kingdoms. The New York Times reported on 29 October 2026 that regulators had turned to mash-ups — some AI-made — romantically pairing classic characters such as the Monkey King and Dream of the Red Chamber's Lin Daiyu.",
+   "outcome": "The December 2024 NRTA notice began a recurring state campaign against AI-altered and mash-up treatments of classic works; by the September 2026 Qinglang drive, authorities reported some 5.61 million removals and more than 49,000 penalised accounts (TechRepublic), and coverage continued into late October 2026 (The New York Times). [FOLLOW-UP PENDING: further NRTA/CAC campaign phases, platform enforcement figures, and any named creators or legal challenges.]",
+   "tags": "Censorship, AI, Copyright/ownership",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Sixth Tone",
+    "TechRepublic",
+    "The New York Times"
+   ],
+   "source": "https://www.sixthtone.com/news/1016360",
+   "themes": [
+    1,
+    11
+   ],
+   "notes": "New parent. State censorship of AI-altered / mash-up treatments of classic Chinese cultural IP (themes 1 and 11; AI axis). Governance-friction / authoritarian pre-emptive-regulation frame. Backfill-dated per CLAUDE.md §13: anchored to the 7 Dec 2024 NRTA notice and drafted narrowly from Sixth Tone's contemporaneous 12 Dec 2024 report (full-text, success), which carries the NRTA quotes and the Ma Ce quotes. 2026 escalation attributed to TechRepublic (Sept 2026 Qinglang figures, search snippet) and to the NYT's 29 Oct 2026 feature (API metadata, Sun Wukong/Lin Daiyu romance mash-ups). Surfaced on the Thursday Asia & Pacific trawl. Later distinct campaign phases can be logged as sub-entries on enrichment.",
+   "interested_parties": "National Radio and Television Administration (NRTA); Cyberspace Administration of China (CAC); short-video platforms; Ma Ce (AI-law attorney, Zhejiang Kinding Law Firm, quoted by Sixth Tone)",
+   "coverage_geography": "China, International",
+   "follow_up_pending": true,
+   "additional_sources": [
+    "https://www.techrepublic.com/article/news-china-ai-content-crackdown-apac-china/",
+    "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html"
+   ]
+  },
+  {
+   "id": "ACI-448",
+   "entry_id": "448",
+   "seq": 772,
+   "title": "Thyssen-Bornemisza Pissarro: US court weighs Cassirer heirs' Nazi-loot claim under amended restitution laws",
+   "artist": "Camille Pissarro",
+   "institution": "Thyssen-Bornemisza Collection Foundation (Madrid)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Judge to rule on the briefs stated 19 October 2026 (The Art Newspaper); decision expected around late February 2027",
+   "date_discovered": "2026-10-29",
+   "sort_date": "2026-10-19",
+   "description": "The Art Newspaper reported on 28 October 2026 (Martha Lufkin) that a US federal court is weighing the heirs of Lilly Neubauer's claim, led by David Cassirer, to Camille Pissarro's 'Rue Saint-Honoré, dans l'après-midi. Effet de pluie' (1897), held by the Thyssen-Bornemisza Collection Foundation (TBCF) in Madrid. According to the paper, the US Supreme Court ordered the case reconsidered in 2025 after California amended its law, and on 19 October 2026 Judge John Walter of the federal district court in Los Angeles said he would rule on the briefs without oral argument, with a decision expected around late February 2027. The paper reported that the case tests two recent measures intended to ease recovery of Nazi-looted art — a 2024 California statute allowing residents to sue museums over stolen art and an amendment to the federal HEAR Act that took effect in April 2026 and, for covered claims, bars possessors from relying on time-based defences including 'acquisitive prescription' under Spanish law. The Art Newspaper reported that the TBCF argues the new laws are unconstitutional, including as applied retroactively, that the US and California governments have defended the statutes, and that the Neubauer heirs contend the HEAR Act bar 'conclusively resolves' the issues in their favour.",
+   "outcome": "Judge Walter is to rule on the briefs without oral argument, with a decision expected around late February 2027 (The Art Newspaper). [FOLLOW-UP PENDING: Judge Walter's ruling on the Thyssen-Bornemisza Pissarro claim and the constitutionality of the amended HEAR Act and the 2024 California statute as applied.]",
+   "tags": "Repatriation, Legal challenge",
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/10/28/thyssen-bornemisza-collection-norton-simon-museum-nazi-loot-lawsuits-us-laws",
+   "themes": [
+    12
+   ],
+   "notes": "New parent (theme 12, restitution). The decades-long Cassirer v. Thyssen-Bornemisza dispute over Pissarro's 'Rue Saint-Honoré' was not yet tracked; this entry is anchored to its current US-court phase (the 19 Oct 2026 ruling-on-briefs stage) as reported by The Art Newspaper, drafted narrowly from that single full-text source. Distinct from ACI-398 (a different Pissarro — the Dieppe-harbour work in a Paris court). Part of a wider test of the amended HEAR Act and California's 2024 statute: the Norton Simon Cranach suit is tracked at ACI-388/-A and the Babbitt/Auschwitz claim at ACI-389; the Grunbaum Schiele and AIC Schiele HEAR Act matters are at ACI-391/-A and ACI-392/-A. Single-source thin entry — flagged for review; enrich with contemporaneous origin coverage and backfill the longer history per §13.",
+   "interested_parties": "David Cassirer; heirs of Lilly Neubauer; Thyssen-Bornemisza Collection Foundation; Judge John Walter (US District Court, C.D. Cal.); US and California governments",
+   "coverage_geography": "US, Europe, International",
+   "follow_up_pending": true,
+   "additional_sources": []
   }
  ]
 }
