@@ -94,6 +94,7 @@ DOMAIN_TO_OUTLET = {
     "aljazeera.com": "Al Jazeera",
     "sixthtone.com": "Sixth Tone",  # added 2026-10-29 scan (ACI-447 China AI mash-up crackdown)
     "techrepublic.com": "TechRepublic",  # added 2026-10-29 scan (ACI-447 China AI mash-up crackdown)
+    "madhyamamonline.com": "Madhyamam",  # added 2026-10-29 scan (ACI-449 Raihan Vadra Delhi removals)
     "newschannel5.com": "NewsChannel5",
     "usnews.com": "U.S. News & World Report",
     "fox17.com": "Fox 17 Nashville",
