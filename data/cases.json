@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 733
  },
  "cases": [
   {
@@ -12507,6 +12507,40 @@
    "follow_up_pending": false
   },
   {
+   "id": "ACI-045-C",
+   "entry_id": "045-C",
+   "seq": 793,
+   "title": "US Pavilion: nonprofit seeks donations to ship Alma Allen sculptures home amid $1m shortfall",
+   "artist": "Alma Allen",
+   "institution": "United States Pavilion, 2026 Venice Biennale; American Arts Conservancy",
+   "country": "United States / Italy",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 29 October 2026",
+   "date_discovered": "2026-10-30",
+   "sort_date": "2026-10-29",
+   "description": "The New York Times reported on 29 October 2026 that the commissioner of the United States Pavilion at the Venice Biennale said donations were badly needed to ship the exhibited artworks home from Italy, and that the nonprofit group organizing the pavilion faces a shortfall of about $1 million to cover the exhibition's costs. The pavilion presents Alma Allen's solo exhibition “Call Me the Breeze” (see ACI-045), which runs through 22 November 2026. This entry is logged from the Times's headline and abstract; the full article body was not retrieved this run.",
+   "outcome": "The organizers report a roughly $1 million shortfall and are seeking donations, including to return the works from Italy after the Biennale closes. [FOLLOW-UP PENDING: whether the shortfall is covered and the sculptures are shipped home after the pavilion closes on 22 November 2026.]",
+   "tags": [
+    "Funding dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/10/29/arts/design/us-pavilion-venice-biennale.html",
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-045 (US Pavilion, 2026 Venice Biennale / Alma Allen 'Call Me the Breeze'); cross-ref ACI-045-B (publicist dispute). THIN entry: drafted from the NYT abstract only (NYT API returns metadata, no body text; metadata-grade is sanctioned for detection per CLAUDE.md §6A). Needs enrichment from full-text sources on the relevant trawl day — Artforum ('Embattled US Pavilion is Seeking Donations') and ARTnews both carried it but were tollbit-blocked this run; earlier search snippets (not cited) indicate a State Department grant of $375,000 and organization by the American Arts Conservancy with curator Jeffrey Uslip. No quotes (metadata only). [FOLLOW-UP PENDING: shortfall resolution.]",
+   "interested_parties": "Alma Allen; Jeffrey Uslip (curator); American Arts Conservancy; US State Department",
+   "coverage_geography": "US, International",
+   "follow_up_pending": true,
+   "additional_sources": []
+  },
+  {
    "id": "ACI-035-A",
    "entry_id": "035-A",
    "seq": 70,
@@ -14835,6 +14869,45 @@
    "interested_parties": "Interior Secretary Doug Burgum; Sen. Jeff Merkley; Sen. Lisa Murkowski; director Anthea Hartig; Smithsonian Secretary Lonnie Bunch; President Donald Trump",
    "coverage_geography": "US",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-012-T",
+   "entry_id": "012-T",
+   "seq": 792,
+   "title": "Smithsonian: House subcommittee demands records on Cooper Hewitt 'domicide' exhibit",
+   "artist": "N/A",
+   "institution": "Cooper Hewitt, Smithsonian Design Museum; Smithsonian Institution",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Records demand 28 October 2026; exhibition ran 2 November 2024 – 10 August 2025",
+   "date_discovered": "2026-10-30",
+   "sort_date": "2026-10-28",
+   "description": "On 28 October 2026 the House Oversight Subcommittee on Delivering on Government Efficiency, chaired by Rep. Tim Burchett (R-Tenn.) and joined by Rep. Brian Jack (R-Ga.), wrote to Smithsonian Secretary Lonnie G. Bunch III seeking documents about the institution's exhibit content-review process and any records of efforts to alter or undercut Smithsonian Directive 603 (SD 603), which governs review of sensitive exhibits. The letter says a June 2026 Smithsonian Inspector General report (OIG-E-26-01) reviewed the Cooper Hewitt exhibition “Making Home—Smithsonian Design Triennial,” which the letter states was originally proposed to compress ten New York City buildings into a single room but “was turned into a display of homes destroyed by American made munitions in various military engagements against ISIS and other terrorist organizations.” According to the letter, organizers wanted to portray American military doctrine and America's founding as intertwined with “domicide,” which it defines as “the massive and deliberate destruction of homes in order to cause human suffering.” The letter says the Inspector General found SD 603 “fails to lay out an appropriate purpose or procedure for the review process,” and quotes the Smithsonian's written response that management review of content “is a complicated matter”: “We must meet our obligations of accuracy and relevance to the public we serve…. We must do so without discouraging inquiry and the creativity of our scholarly community.” The demand follows the subcommittee's 21 July 2026 hearing on the Smithsonian's exhibition review (see ACI-012-I). The exhibition ran from 2 November 2024 to 10 August 2025 (Dezeen).",
+   "outcome": "The subcommittee has demanded records; the Smithsonian's quoted response to the Inspector General defends review at a scholarly institution as “a complicated matter,” and no response to the records demand itself has been reported. [FOLLOW-UP PENDING: the Smithsonian's response to the 28 October records demand and any documents produced.]",
+   "tags": [
+    "Political interference",
+    "Institutional risk"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Just the News",
+    "Dezeen"
+   ],
+   "source": "https://justthenews.com/government/congress/house-demands-records-probe-smithsonian-exhibit-suggesting-us-military-engaged",
+   "themes": [
+    2,
+    4,
+    5
+   ],
+   "notes": "Sub-entry of ACI-012 (Smithsonian exhibitions under administration pressure); cross-ref ACI-012-I (the same DOGE subcommittee's 21 July 2026 hearing, 'Rewriting American History'). The exhibit is the Cooper Hewitt 'Making Home—Smithsonian Design Triennial'; the dispute turns on Smithsonian Directive 603 (SD 603) and the June 2026 IG report OIG-E-26-01. SOURCING NOTE for review: ARTnews carried this story (art-press pickup, confirming notability) but its fetch was tollbit-blocked this run, so the entry is drafted from the primary House Oversight letter (full text, pdftotext) and Just the News (John Solomon, 28 Oct 2026), with exhibition run-dates from Dezeen; characterizations ('domicide,' politicized content) are attributed to the lawmakers' letter and the organizers it quotes, not stated in the Index's voice. Flag for enrichment/re-verification against ARTnews and any Smithsonian statement. [FOLLOW-UP PENDING: Smithsonian response.]",
+   "interested_parties": "Rep. Tim Burchett; Rep. Brian Jack; Smithsonian Secretary Lonnie G. Bunch III; Director Anthea Hartig",
+   "coverage_geography": "US",
+   "follow_up_pending": true,
+   "additional_sources": [
+    "https://justthenews.com/sites/default/files/2026-10/Letter%20to%20Smithsonian%20Re%20SI%20603%20request_10.28.26_0.pdf",
+    "https://www.dezeen.com/2024/11/27/new-york-cooper-hewitt-design-museum-making-home-exhibition-triennial/"
+   ]
   },
   {
    "id": "ACI-011",
@@ -23916,6 +23989,42 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-450",
+   "entry_id": "450",
+   "seq": 791,
+   "title": "Elvis Presley rights-holders sue Anthropic, alleging AI trained on 274 songs",
+   "artist": "Elvis Presley (catalogue rights held by Authentic Brands Group)",
+   "institution": "Anthropic; Authentic Brands Group",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Lawsuit filed 23 October 2026",
+   "date_discovered": "2026-10-30",
+   "sort_date": "2026-10-23",
+   "description": "Owners of Elvis Presley's music catalogue sued the artificial-intelligence company Anthropic for copyright infringement in federal court in California on 23 October 2026, MusicTech reported. The suit is led by Authentic Brands Group, which holds rights to Presley's music, together with Raleigh Music Publishing and several trusts, and targets Anthropic's Claude models. According to MusicTech, the plaintiffs seek statutory damages of up to $150,000 for each of 274 allegedly infringed songs — about $41.1 million — with further claims bringing the stated total to roughly $48.6 million; songs named in the complaint include “Can't Help Falling in Love,” “A Little Less Conversation” and “Don't Be Cruel.” The complaint alleges Claude was trained on the 274 songs without permission and can reproduce copyrighted material, keeping a song's structure and hooks even when lyrics are lightly reworded, which the plaintiffs characterise as unlicensed derivative works; MusicTech reports the complaint says a recent version of Claude, asked to recreate songs “for a modern audience,” produced results the model itself described as “landing very close to the originals.” MusicTech reports that Anthropic disagrees with the claims and intends to defend the case fully. MusicTech notes the suit is among the first high-profile AI copyright actions brought by the owner of a single artist's catalogue, after earlier lyrics suits by music publishers Universal Music Group, Concord and ABKCO, and that whether a prior fair-use ruling in an authors' case extends to music is unresolved.",
+   "outcome": "The suit is at an early stage and the claims are untested; MusicTech reports Anthropic intends to defend the case fully. [FOLLOW-UP PENDING: the court's handling of the complaint, any Anthropic response or motion, and whether the case is consolidated with the pending music-publisher lyrics litigation.]",
+   "tags": [
+    "AI",
+    "Copyright/ownership",
+    "Legal challenge",
+    "Financialization"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "MusicTech"
+   ],
+   "source": "https://musictech.com/news/industry/elvis-presley-catalogue-owners-sue-anthropic-for-41-million-over-alleged-ai-training/",
+   "themes": [
+    11,
+    10
+   ],
+   "notes": "New parent (AI training-data / authorship axis; cf. ACI-221 Disney, Universal and Warner Bros. v. Midjourney). SCOPE FLAG for editorial review: this is a music-catalogue copyright suit against an LLM company, at the edge of the Index's visual-art/heritage core — the Index logs AI-training-data IP litigation (ACI-221) but has not previously logged music- or text-LLM suits (no OpenAI/authors, no music-publisher lyrics cases). Surfaced as a flagged candidate per the inclusion rule (err toward showing more); the scope decision is the editor's. Drafted narrowly from MusicTech (full text); the NYT carried the story (metadata only, abstract corroborates the $41.1m figure and the “intends to defend” response) but is not cited as it was not used for any claim. Complaint quotes are as reported by MusicTech. [FOLLOW-UP PENDING: litigation progress.]",
+   "interested_parties": "Authentic Brands Group; Raleigh Music Publishing; Anthropic",
+   "coverage_geography": "US, International",
+   "follow_up_pending": true,
+   "additional_sources": []
   }
  ]
 }
