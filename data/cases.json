@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 732
  },
  "cases": [
   {
@@ -23915,6 +23915,76 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-451",
+   "entry_id": "451",
+   "seq": 771,
+   "title": "South Carolina Arts Commission denies grants to LGBTQ+ groups under new 'promote any ideology' rule",
+   "artist": "N/A",
+   "institution": "South Carolina Arts Commission (SCAC)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Rule adopted 20 August 2026; grants denied early October 2026",
+   "date_discovered": "2026-10-31",
+   "sort_date": "2026-10-30",
+   "description": "The South Carolina Arts Commission (SCAC), a nine-member board of governor-appointed volunteers established in 1967, adopted guidelines at an 20 August 2026 board meeting barring grant funds from being used to \"promote any ideology,\" and earlier in October 2026 denied funding to an artist and two LGBTQ+ performing arts organizations, Hyperallergic reported. Hyperallergic did not name the artist or the organizations. According to the report, the agency has faced scrutiny for singling out LGBTQ+ arts groups and for opaque funding restrictions, and the rule echoes federal \"gender ideology\" grant language used under the Trump administration. The National Coalition Against Censorship (NCAC) condemned the rule in a 28 October 2026 statement, which said it \"can be used to suppress almost any cultural activity\"; Elizabeth Larison, NCAC's director of arts and culture advocacy, told Hyperallergic the rule is \"a threat to artistic freedom and democratic principles in South Carolina.\" The report tied the dispute to the 3 November 2026 election, noting that the governor appoints the commission's members.",
+   "outcome": "The rule stands and the October denials remain in place; NCAC has called for its reversal. [FOLLOW-UP PENDING: the 3 November 2026 election and any change to the commission's composition; whether the \"promote any ideology\" rule or the denied grants are challenged or reversed.]",
+   "tags": [
+    "Funding dispute",
+    "Censorship",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/in-south-carolina-artistic-freedom-is-on-the-ballot-this-november/",
+   "additional_sources": [],
+   "themes": [
+    2
+   ],
+   "notes": "Drafted from Hyperallergic (Anna Lee, 30 October 2026; full text, quotes verified verbatim). Contested core: the \"promote any ideology\" grant rule and its application to LGBTQ+ grantees. The characterization that the rule singles out LGBTQ+ groups and echoes federal \"gender ideology\" grant language is attributed to Hyperallergic/NCAC in the description, not asserted in the Index's voice. Possible cross-reference to federal NEA grant-condition disputes over \"gender ideology\" language.",
+   "interested_parties": "South Carolina Arts Commission (governor-appointed board); National Coalition Against Censorship (Elizabeth Larison, director of arts and culture advocacy)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-452",
+   "entry_id": "452",
+   "seq": 772,
+   "title": "Russian missile strike destroys Hryhorii Skovoroda museum in Kharkiv region",
+   "artist": "N/A",
+   "institution": "Hryhorii Skovoroda National Literary Memorial Museum, Skovorodynivka, Kharkiv Oblast",
+   "country": "Ukraine",
+   "governance_type": "Democracy",
+   "date_controversy": "Night of 6-7 May 2022",
+   "date_discovered": "2026-10-31",
+   "sort_date": "2022-05-06",
+   "description": "A Russian missile struck the roof of the National Literary and Memorial Museum of Hryhorii Skovoroda in the village of Skovorodynivka, Kharkiv region, on the night of 7 May 2022, causing a large fire that spread across all premises, Ukrinform reported. Ukrinform, citing the State Emergency Service, said the fire began at 11:10 p.m. over an area of 280 square metres and was fully extinguished by 8:05 a.m. The museum director's 35-year-old son, who was guarding the premises, was injured and taken to hospital. Culture and Information Policy Minister Oleksandr Tkachenko said the collection had been moved earlier for safekeeping and survived, writing \"Fortunately, the collection has remained undamaged.\" The museum is housed in an 18th-century mansion where Skovoroda, a Ukrainian poet and philosopher, spent the last years of his life and near which he is buried.",
+   "outcome": "The museum building was effectively destroyed; the collection survived, having been moved before the strike. Ukraine's Security Service (SBU) later opened a war-crimes investigation: Babel, citing the SBU and the Prosecutor General's Office, reported that in July 2024 it served an in-absentia notice of suspicion on Ivan Panchenko, commander of a fighter-aviation regiment who directly commanded the attack, and on 7 November 2024 on Major General Denis Kulsha, commander of an aviation division of the Russian Air Force, who it said had ordered the Kh-35 anti-ship missile strike fired from a Su-35S fighter; both were charged under articles on violating the laws and customs of war. [FOLLOW-UP PENDING: prosecution of the charged officers; any reconstruction of the museum; later strikes on the site reported in 2025-2026.]",
+   "tags": [
+    "Cultural property destruction",
+    "Conflict zone",
+    "Russia-Ukraine war",
+    "Legal challenge"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "Ukrinform",
+    "Babel"
+   ],
+   "source": "https://ukrinform.net/rubric-society/3477122-skovoroda-museum-destroyed-in-fire-caused-by-russias-missile-strike.html",
+   "additional_sources": [
+    "https://babel.ua/en/news/112420-the-general-of-the-russian-federation-is-suspected-of-shelling-the-skovorody-museum-in-the-kharkiv-region-in-2022"
+   ],
+   "themes": [],
+   "notes": "New parent anchored to the May 2022 destruction (controversy origin, backfill dating), drafted from contemporary Ukrinform reporting (7 May 2022; full text, quote verified verbatim). War-crimes charges folded into the outcome from Babel (Iryna Perepechko, 7 November 2024; full text), which cites the SBU and the Prosecutor General's Office; the SBU's own release (ssu.gov.ua) returned 403 and was not retrieved this run. Surfaced via an ARTnews report (30 October 2026) that re-covered the in-absentia charges; ARTnews is bot-walled (tollbit redirect, HTTP 402) and was not retrieved. Lead, not logged: reports (Ukrinform; Ukrainska Pravda; not retrieved this run) of a later drone strike on the ruined building and renewed May 2026 damage to a UNESCO-assisted conservation shelter at the site -- candidates for a sub-entry on enrichment. Part of the Russia-Ukraine war cultural-destruction cluster.",
+   "interested_parties": "Hryhorii Skovoroda National Literary Memorial Museum; Ukrainian Culture Minister Oleksandr Tkachenko; Security Service of Ukraine (SBU) and Prosecutor General's Office; Col. Ivan Panchenko and Maj. Gen. Denis Kulsha (both charged in absentia)",
+   "coverage_geography": "Ukraine, International",
    "follow_up_pending": true
   }
  ]
