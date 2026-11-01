@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 732
  },
  "cases": [
   {
@@ -16387,6 +16387,41 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-005-BP",
+   "entry_id": "005-BP",
+   "seq": 795,
+   "title": "Kennedy Center: lawmaker's filing says records show closure was a 'sham process'",
+   "artist": "N/A",
+   "institution": "John F. Kennedy Center for the Performing Arts, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 31 October 2026",
+   "date_discovered": "2026-11-01",
+   "sort_date": "2026-10-31",
+   "description": "The New York Times reported on 31 October 2026 that lawyers for Representative Joyce Beatty, the Democratic lawmaker suing to block the closure of the John F. Kennedy Center for the Performing Arts, said in a court filing that documents support their view that the decision to close the arts venue was part of what they characterized as a sham process. [Thin entry: drawn from a New York Times metadata abstract; the paywalled body was not retrieved this run.]",
+   "outcome": "The filing was made within the suit to block the Kennedy Center's closure, as the dispute over internal records continued. [FOLLOW-UP PENDING: the court's handling of the filing and of the underlying records/discovery dispute over the decision to close the center.]",
+   "tags": [
+    "Legal challenge",
+    "Political interference",
+    "Institutional crisis"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/10/31/arts/kennedy-center-trump-beatty.html",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-005. Development in the records/discovery dispute within Rep. Beatty's suit (cf. the executive-privilege claim reported earlier at ACI-005-BM). Thin: New York Times metadata abstract only (byline Julia Jacobs; NYT body paywalled, not retrieved this run). The phrase 'sham process' is the lawyers' characterization as reported by the Times and is paraphrased here rather than quoted, since only metadata was retrieved.",
+   "interested_parties": "Rep. Joyce Beatty; John F. Kennedy Center for the Performing Arts; Trump administration / Justice Department",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-046-I",
    "entry_id": "046-I",
    "seq": 464,
@@ -17045,6 +17080,43 @@
    "notes": "Sub-entry of ACI-038; follows ACI-038-R (Sept 9, administration targets November for final approval) and the excavation litigation at ACI-038-Q. THIN / SNIPPET-GRADE: drafted from search-result snippets of NBC News, NPR, and The Washington Post; direct fetches of NPR and Axios were blocked this run, so there is no full-text retrieval and no quotations. Enrich on a US-local trawl day.",
    "interested_parties": "President Trump; Interior Secretary Doug Burgum; Rep. Don Beyer; Vietnam veterans plaintiffs (see ACI-038-R)",
    "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-038-V",
+   "entry_id": "038-V",
+   "seq": 794,
+   "title": "Trump Triumphal Arch: D.C. and Virginia sue to halt project as administration seeks final approval",
+   "artist": "N/A",
+   "institution": "Memorial Circle, near Arlington National Cemetery, Washington DC area; National Capital Planning Commission",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Suit filed 31 October 2026",
+   "date_discovered": "2026-11-01",
+   "sort_date": "2026-10-31",
+   "description": "On 31 October 2026 the District of Columbia and the Commonwealth of Virginia sued in federal court to slow the Trump administration's plans to build a roughly 250-foot triumphal arch near Memorial Circle, by Arlington National Cemetery, the Associated Press reported in an account carried by PBS NewsHour. According to the report, the two jurisdictions sought a temporary restraining order, and D.C. Attorney General Brian Schwalb and Virginia Attorney General Jay Jones argued in the filing that as soon as the defendants break ground on the project they will inflict irreparable harm on both the District and Virginia. The report said this was the third lawsuit seeking to halt the arch, after a suit by three Vietnam War veterans and an architectural historian and a separate challenge, and that the administration planned to seek final approval at the National Capital Planning Commission's meeting that Thursday and could begin construction as early as the following week. At a hearing the previous day on the earlier veterans' suit, U.S. District Judge Tanya Chutkan questioned the urgency, asking how the government would be harmed \"apart from the executive's desire to bedazzle the city,\" while an administration lawyer, Robert Stander, called the arch \"absolutely a high priority project.\"",
+   "outcome": "The jurisdictions seek a temporary restraining order to slow construction; according to the report Judge Chutkan had not ruled but said she would move expeditiously. [FOLLOW-UP PENDING: the court's ruling on the temporary restraining order; the National Capital Planning Commission's expected final-approval vote and whether construction begins the week of 2 November 2026.]",
+   "tags": [
+    "Design controversy",
+    "Legal challenge",
+    "Landmark dispute",
+    "Historic preservation"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "PBS"
+   ],
+   "source": "https://www.pbs.org/newshour/politics/virginia-and-d-c-sue-over-trumps-arch-adding-to-legal-challenges-as-government-wants-work-to-begin",
+   "additional_sources": [],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038. Third suit against the arch, after the veterans' suit (ACI-038-Q) and Arlington County's (ACI-038-U). Drafted from the Associated Press (Gary Fields) as carried by PBS NewsHour (full text, quotes verified verbatim); pbs.org is the AP wire carrier here. Discovered via a Guardian item (blocked for the scan's tools) and corroborated across PBS/NBC/Newsweek/ABC; PBS/AP is the fully-read reference. Other coverage (not cited) reports the complaint invokes the Commemorative Works Act and the Height of Buildings Act and alleges the project lacks required congressional approval; the PBS/AP text retrieved does not state those grounds, so they are omitted here pending full text.",
+   "interested_parties": "D.C. Attorney General Brian Schwalb; Virginia Attorney General Jay Jones; Judge Tanya Chutkan; Robert Stander (administration lawyer); National Capital Planning Commission",
+   "coverage_geography": "US",
    "follow_up_pending": true
   },
   {
