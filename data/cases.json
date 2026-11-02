@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 731
  },
  "cases": [
   {
@@ -23915,6 +23915,39 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-452-A",
+   "entry_id": "452-A",
+   "seq": 771,
+   "title": "Skovoroda museum strike: Ukraine charges Russian lieutenant general in absentia",
+   "artist": "N/A",
+   "institution": "Hryhorii Skovoroda National Literary Memorial Museum, Skovorodynivka, Kharkiv Oblast",
+   "country": "Ukraine",
+   "governance_type": "Democracy",
+   "date_controversy": "Charge reported 29 October 2026",
+   "date_discovered": "2026-11-02",
+   "sort_date": "2026-10-29",
+   "description": "Ukraine's Prosecutor General charged a Russian lieutenant general in absentia over the 6 May 2022 missile strike on the Hryhorii Skovoroda National Literary Memorial Museum in the village of Skovorodynivka, Kharkiv Oblast, the Kyiv Independent reported on 29 October 2026. The outlet, which did not name the officer, said he is from Chuhuiv in Kharkiv Oblast and commands Russia's 6th Guards Air and Air Defence Forces Army. The Prosecutor General said the general \"knew for certain that he was attacking not a military target but a monument of Ukrainian culture\" and \"gave the combat order to destroy it.\" The Kyiv Independent reported that, as of September 2026, Ukraine's Culture Ministry counted 2,161 damaged or destroyed cultural heritage sites and 2,665 damaged or destroyed cultural institutions.",
+   "outcome": "The case is proceeding toward an in-absentia trial. [FOLLOW-UP PENDING: the in-absentia trial of the charged general; confirmation of how this officer relates to the colonel and major-general charged over the same strike in 2024 (see ACI-452).]",
+   "tags": [
+    "Cultural property destruction",
+    "Conflict zone",
+    "Russia-Ukraine war",
+    "Legal challenge"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "Kyiv Independent"
+   ],
+   "source": "https://kyivindependent.com/prosecutor-general-charges-russian-general-in-absentia-for-bombing-museum-dedicated-to-18th-century-ukrainian-philosopher/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Sub-entry of ACI-452 (Russian missile destruction of the Skovoroda museum, May 2022). Development: on 29 October 2026 Ukraine's Prosecutor General charged a Russian lieutenant general, commander of the 6th Guards Air and Air Defence Forces Army, in absentia over the 6 May 2022 strike; the officer is unnamed in the source. Drafted from the Kyiv Independent (Kate Tsurkan, 29 October 2026; full text, quotes verified verbatim). OPEN DEDUP QUESTION for review: the parent's outcome already records in-absentia charges in 2024 against Col. Ivan Panchenko (regiment commander) and Maj. Gen. Denis Kulsha (division commander); this October 2026 charge names a more senior officer (a lieutenant general / army-level commander) at the formal-indictment stage, and the source does not state whether he is a third suspect or the same chain of command -- confirm against ARTnews (30 October 2026; bot-walled this run) or the SBU / Prosecutor General releases before merge, and fold into the parent's outcome instead if it proves to be re-coverage. PARENT DEPENDENCY: ACI-452 is not yet on origin/main; it is in the unmerged branch claude/daily-2026-10-31, which must merge before or together with this sub-entry. Russia-Ukraine war cultural-destruction cluster.",
+   "interested_parties": "Russian lieutenant general, commander of the 6th Guards Air and Air Defence Forces Army (unnamed in source); Ukraine's Prosecutor General; Security Service of Ukraine (SBU)",
+   "coverage_geography": "Ukraine, International",
    "follow_up_pending": true
   }
  ]

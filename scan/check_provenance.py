@@ -45,6 +45,7 @@ DOMAIN_TO_OUTLET = {
     "bbc.com": "BBC",
     "bbc.co.uk": "BBC",
     "reuters.com": "Reuters",
+    "kyivindependent.com": "Kyiv Independent",  # added 2026-11-02 scan (ACI-452 Skovoroda museum)
     "fox5ny.com": "Fox 5 New York",  # added 2026-09-13 scan
     "1news.co.nz": "1News",  # added 2026-09-13 scan
     "akp.gov.kh": "Agence Kampuchea Presse",  # added 2026-09-11 scan (ACI-385 Preah Vihear)
