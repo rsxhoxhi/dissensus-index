@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 731
  },
  "cases": [
   {
@@ -23915,6 +23915,43 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-439-A",
+   "entry_id": "439-A",
+   "seq": 771,
+   "title": "Museo Nacional de Colombia: court orders 63 removed works reinstalled; ministry complies",
+   "artist": "N/A",
+   "institution": "Museo Nacional de Colombia (Bogotá); Colombian Ministry of Culture",
+   "country": "Colombia",
+   "governance_type": "Democracy (trajectory: under illiberal pressure since the August 2026 inauguration of the far-right de la Espriella government; cf. ACI-200)",
+   "date_controversy": "Court order 28 October 2026; works reinstalled 30 October 2026",
+   "date_discovered": "2026-11-03",
+   "sort_date": "2026-10-30",
+   "description": "Following a constitutional-rights (tutela) action brought by cultural groups and opposition politicians, a Bogotá judge ordered the Ministry of Culture and the Museo Nacional de Colombia to reinstall 63 objects that the national government had removed from the museum's permanent galleries on 15 October 2026, The Art Newspaper reported. On the evening of 28 October 2026, Judge César Enrique Osorio Ortiz of Bogotá's 24th Family Court directed the two institutions to return the works to their original locations within 48 hours and barred them from removing works on the basis of their content or the views they express; according to the paper, the judge found the pieces had been taken down \"without a documented curatorial justification,\" while leaving open future, properly justified changes to the displays. The ministry complied on 30 October 2026. The removed items—many relating to LGBTQ+ rights and feminism—included a pride flag belonging to activist Elizabeth Castillo, a pen made from a bullet used to sign the 2016 peace agreement, and a poster for the International Day for the Elimination of Violence Against Women. The paper reported that hundreds protested outside the museum and that six museums issued a joint statement voicing \"deep concern\"; Marielsa Castro Vizcarra, chief curator of the Museo de Arte Moderno de Medellín, called the episode \"a precedent we need to take into account,\" and Gabriel Becerra, a left-wing lawmaker behind the case, wrote on X, \"No government owns our history!\"",
+   "outcome": "The 63 works were reinstalled on 30 October 2026 under the court order, which also bars further content-based removals pending final resolution of the rights case. The government has said it will review the holdings of all national museums. [FOLLOW-UP PENDING: any appeal, the announced review of national-museum holdings, and whether the court's bar on content-based removals holds.]",
+   "tags": [
+    "Censorship",
+    "Removal",
+    "Legal challenge",
+    "Political interference",
+    "Community objection"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/02/museo-nacional-colombia-reinstalls-censored-works-court-order",
+   "additional_sources": [],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry resolving the pending reversal question at parent ACI-439 (and the removal order at ACI-437); as of this run both parents are in unmerged daily-scan branches (daily-2026-10-20 and the ACI-437 branch), not on origin/main, so the parent record, its outcome update and its flag clearance must be reconciled at merge — see the PR's 'For your review'. Cross-ref ACI-377 (RTVC author murals), ACI-399 (culture-budget cut), ACI-200 (Museo de Memoria) in the de la Espriella cultural-policy cluster. Drafted from The Art Newspaper (Mercedes Ezquiaga, 2 Nov 2026; full text, quotes verified verbatim).",
+   "interested_parties": "Judge César Enrique Osorio Ortiz (Bogotá 24th Family Court); Colombian Ministry of Culture; Museo Nacional de Colombia; President Abelardo de la Espriella; Rep. Gabriel Becerra; activist Elizabeth Castillo",
+   "coverage_geography": "Colombia, International",
    "follow_up_pending": true
   }
  ]
