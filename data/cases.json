@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 733
  },
  "cases": [
   {
@@ -14260,6 +14260,41 @@
    "follow_up_pending": false
   },
   {
+   "id": "ACI-015-C",
+   "entry_id": "015-C",
+   "seq": 773,
+   "title": "Glasgow's Kelvingrove removes mummy of priest Nekht; Egypt requests its return",
+   "artist": "N/A",
+   "institution": "Kelvingrove Art Gallery and Museum / Glasgow Life, Glasgow",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Remains removed from display October 2026; repatriation request reported 3 November 2026",
+   "date_discovered": "2026-11-04",
+   "sort_date": "2026-11-03",
+   "description": "The mummified remains of the ancient Egyptian priest Nekht, together with his coffin, were removed from public view at the Kelvingrove Art Gallery and Museum in Glasgow, which is run by the charity Glasgow Life, The Art Newspaper reported on 3 November 2026. The paper reported that Egyptian authorities have asked for Nekht's remains to be returned to Egypt, attributing the request to The Sunday Post, and that Glasgow Life confirmed to The Art Newspaper that it had received the request but would not say where it came from. According to the paper, the removal followed Glasgow Life's draft Human Remains Policy, which would allow remains to be displayed only with documented, informed consent from the deceased or, where appropriate, their descendants; a Glasgow Life spokesperson said that, without such consent, removing ancient Egyptian remains from display is 'more respectful to the deceased individuals.' The paper set the move against the International Council of Museums' June 2026 revision of its code of ethics, which recommends upholding the 'inherent dignity' of human remains without saying all remains should be removed from display, and noted comparable steps at the Hunterian in Glasgow and at Manchester Museum (which took the mummy Asru off display in 2025). The paper reported that Stuart Robertson, a former director of the Charles Rennie Mackintosh Society, criticised the consent standard on LinkedIn, saying it 'completely undermines the educational mission of public museums.'",
+   "outcome": "Remains removed from display; Egyptian repatriation request received and, per Glasgow Life, under consideration. [FOLLOW-UP PENDING: Glasgow Life's decision on the Egyptian repatriation request for Nekht's remains.]",
+   "tags": [
+    "Repatriation",
+    "Ethical museum",
+    "Human remains"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/03/mummy-in-glasgow-may-be-repatriated-to-egypt-following-removal-from-display",
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "Sub-entry of ACI-015 (European museum collections of human remains / colonial repatriation); continues the Glasgow human-remains thread begun at ACI-015-B (Glasgow museums remove Egyptian mummified remains from display). Letter C is assigned because ACI-015-B currently sits in an unmerged daily-scan branch; if that branch has not merged first, B is a temporary gap that closes on merge ordering. Drafted from The Art Newspaper (Gareth Harris, 3 Nov 2026; full text, quotes verified verbatim). The repatriation request and the wider removals are attributed as The Art Newspaper carried them (citing The Sunday Post for the request, which was not independently retrieved this run).",
+   "interested_parties": "Glasgow Life (Kelvingrove Art Gallery and Museum); Egyptian authorities; Stuart Robertson (former director, Charles Rennie Mackintosh Society); International Council of Museums (ICOM)",
+   "coverage_geography": "UK",
+   "follow_up_pending": true,
+   "additional_sources": []
+  },
+  {
    "id": "ACI-014",
    "entry_id": "014",
    "seq": 13,
@@ -23916,6 +23951,80 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-453",
+   "entry_id": "453",
+   "seq": 771,
+   "title": "Italy weighs bill to create a restitution panel for Nazi-era looted art",
+   "artist": "N/A (legislative)",
+   "institution": "Italian Chamber of Deputies — lower house culture committee",
+   "country": "Italy",
+   "governance_type": "Democracy",
+   "date_controversy": "Bill introduced March 2026; under committee examination as of 3 November 2026",
+   "date_discovered": "2026-11-04",
+   "sort_date": "2026-11-03",
+   "description": "Italy's parliament is examining a bill that would create a formal process for restituting art and cultural property seized from victims of racial persecution between 1933 and 1945, The Art Newspaper reported on 3 November 2026. According to the paper, the bill — introduced in March by Federico Mollicone, a Brothers of Italy lawmaker who presides over the lower house's culture commission, and now before the lower house's culture committee — would establish a five-member committee (one member nominated by Italy's art police) to examine provenance and issue restitution decisions within 180 days of a claim. Eligible claimants would include legitimate owners, their descendants or heirs, the Union of Italian Jewish Communities (UCEI) or individual Jewish communities; where no living heirs are found, works would pass to the Jewish community in Italy. The Art Newspaper reported that a restitution decision would remove a work from the public domain and from heritage-code protections so it could leave the country, that statutes of limitations would not bar restitution, and that the scheme would cover both public and private collections, with the government given six months to set it up after enactment. The bill followed a report by the lawyer Lorenzo Casini commissioned by the World Jewish Restitution Organisation (WJRO); the paper noted Italy endorsed the 1998 Washington Principles and that a 2001 inquiry led by Tina Anselmi found evidence of 7,847 seizure warrants. Italy would join Germany, Austria, France, the Netherlands, the UK and Switzerland, which already have such mechanisms. The paper cited specific disputed works, including Edouard Manet's 'Portrait de M. Arnaud a cheval' (1875) in Milan's Galleria d'Arte Moderna: the provenance researcher Katharina Huls-Valenti told the paper it was sold under duress by the Liebermann family, while the gallery's curator Paola Zatti disputed that the 1935 sale was forced, saying 'there is no evidence that she was forced to do so.' Mollicone told the paper the reform would fulfil 'a historic duty' and said, 'We want to bring this historic reform to a successful conclusion within this legislative session.'",
+   "outcome": "Bill under examination by the lower house's culture committee; no organised political opposition reported, with the sponsor predicting passage this legislative session. [FOLLOW-UP PENDING: whether the bill is adopted, its final scope, and the committee's establishment and first decisions.]",
+   "tags": [
+    "Repatriation",
+    "Nazi-looted art",
+    "Legislative action",
+    "Provenance dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/03/italy-set-to-create-restitution-panel-for-nazi-looted-art",
+   "themes": [
+    12
+   ],
+   "notes": "New parent; Nazi-looted-art restitution cluster. Cross-ref ACI-035 (French restitution framework) and other Repatriation/Nazi-looted-art entries. Drafted from The Art Newspaper (James Imam, 3 Nov 2026; full text, quotes verified verbatim). The article is internally ambiguous on status (it both says parliament 'is considering' the bill and references the bill being 'adopted' after a report); its main description treats the bill as pending in committee, which this entry follows. ARTnews and Artforum also covered the proposal but were blocked this run, so they are not cited.",
+   "interested_parties": "Federico Mollicone (bill sponsor, Brothers of Italy); Alessandro Giuli (culture minister); Lorenzo Casini (report author); World Jewish Restitution Organisation (Gideon Taylor, president); Union of Italian Jewish Communities (UCEI); Galleria d'Arte Moderna, Milan (curator Paola Zatti); Katharina Huls-Valenti (provenance researcher)",
+   "coverage_geography": "Italy, International",
+   "follow_up_pending": true,
+   "additional_sources": []
+  },
+  {
+   "id": "ACI-454",
+   "entry_id": "454",
+   "seq": 772,
+   "title": "Shoalhaven council refuses to host Gaza 'Wall of Tears' memorial, citing safety risk",
+   "artist": "Phil Buehler ('Wall of Tears')",
+   "institution": "Shoalhaven City Council / Shoalhaven Regional Gallery, Nowra, New South Wales",
+   "country": "Australia",
+   "governance_type": "Democracy",
+   "date_controversy": "Organisers notified 28 October 2026; exhibition was to open 4 November 2026",
+   "date_discovered": "2026-11-04",
+   "sort_date": "2026-10-28",
+   "description": "Shoalhaven City Council in New South Wales declined to let the group Shoalhaven Friends of Palestine display Phil Buehler's 'Wall of Tears' at the Shoalhaven Regional Gallery in Nowra, Oz Arab Media reported on 3 November 2026. The council said the installation posed 'an unacceptable level of risk to gallery staff, visitors and tenants of the building'; according to the report, emails showed the council's chief executive, Andrew Constance, decided not to host the event, citing staff safety, and the council did not say what had prompted those concerns. Oz Arab Media reported that a council risk assessment (citing a document seen by The Guardian) asked organisers to investigate using armed guards in case of protest, counter-protest, conflict, verbal abuse, intimidation or disruption; to cut the exhibition from eight days to three; to limit attendance to RSVPs in a gallery with locked doors; and to stop advertising the event because of possible reputational risk to the gallery or council. The work, by the American artist Phil Buehler, commemorates 18,457 children killed in Gaza between 7 October 2023 and 19 July 2025 and had previously been shown in Australia at Parliament House in Canberra and in Adelaide and Perth, as well as in New York. The 2ST radio report (30 October 2026) said the organisers were told on 28 October that the exhibition, due to open on 4 November, would not proceed, and that they were seeking an alternative venue; Oz Arab Media reported that a spokesperson, Annette Pham, said the group was willing to meet the council's conditions but did not know how to arrange armed guards, and that the installation was relocated to Berry Uniting Church.",
+   "outcome": "Council declined to host the exhibition at the regional gallery; organisers relocated it to Berry Uniting Church and wrote to the council seeking further explanation. [FOLLOW-UP PENDING: the council's response to the organisers' request for an explanation and any reversal or further action.]",
+   "tags": [
+    "Censorship",
+    "Institutional risk",
+    "Political art",
+    "Protest art"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Oz Arab Media",
+    "2ST"
+   ],
+   "source": "https://ozarab.media/shoalhaven-rejects-gaza-memorial-artwork-over-safety-concerns/",
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "New parent. Drafted from Oz Arab Media (3 Nov 2026; full text) with the notification date and relocation-search detail from 2ST (Peter Andrea, 30 Oct 2026; full text). The council's 'unacceptable level of risk' statement is quoted verbatim from Oz Arab Media; the risk-assessment specifics are as that outlet reported, citing a document seen by The Guardian (the Guardian's own text was not retrievable this run, so it is not cited as a source). Analytical frame: institution-side refusal on stated safety grounds (institutional risk / avoidance of controversy), not a logged public objection.",
+   "interested_parties": "Shoalhaven City Council (chief executive Andrew Constance); Shoalhaven Friends of Palestine (spokesperson Annette Pham); artist Phil Buehler; Shoalhaven Regional Gallery, Nowra; Berry Uniting Church",
+   "coverage_geography": "Australia",
+   "follow_up_pending": true,
+   "additional_sources": [
+    "https://www.2st.com.au/local-news/locals/image-shoalhaven-friends-of-palestine/"
+   ]
   }
  ]
 }
