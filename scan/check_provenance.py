@@ -92,6 +92,8 @@ DOMAIN_TO_OUTLET = {
     "thelocal.fr": "The Local",
     "lemonde.fr": "Le Monde",
     "aljazeera.com": "Al Jazeera",
+    "ozarab.media": "Oz Arab Media",  # added 2026-11-04 scan (ACI-454 Shoalhaven/Wall of Tears)
+    "2st.com.au": "2ST",  # added 2026-11-04 scan (ACI-454 Shoalhaven/Wall of Tears)
     "newschannel5.com": "NewsChannel5",
     "usnews.com": "U.S. News & World Report",
     "fox17.com": "Fox 17 Nashville",
