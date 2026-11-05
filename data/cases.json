@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 731
  },
  "cases": [
   {
@@ -23915,6 +23915,44 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-455",
+   "entry_id": "455",
+   "seq": 771,
+   "title": "Sydney's $641m Powerhouse Parramatta opens as misconduct and procurement investigation shadows its leadership",
+   "artist": "N/A",
+   "institution": "Powerhouse Parramatta (Museum of Applied Arts and Sciences), Sydney",
+   "country": "Australia",
+   "governance_type": "Democracy",
+   "date_controversy": "Executives stood aside August 2026; investigation disclosed 31 August 2026; museum opens 7 November 2026",
+   "date_discovered": "2026-11-05",
+   "sort_date": "2026-11-04",
+   "description": "Sydney's Powerhouse Parramatta, a A$915m ($641m) arts, design, science and technology museum that the New South Wales government calls its biggest cultural investment since the Sydney Opera House, is due to open to the public on 7 November 2026 while an external investigation into its senior management continues, The Art Newspaper reported. Chief executive Lisa Havilah, who had led the Parramatta development since 2019, stepped aside in August over misconduct allegations, and chief operating officer Mark Wilsdon is on leave while the Sydney law firm Lander & Rogers investigates; the allegations have not been publicly detailed. Arts minister John Graham has said they were raised by a whistleblower and concern \"governance and procurement,\" according to The Art Newspaper, which reported that his office did not respond to a question about whether the findings would be made public. ArtAsiaPacific reported that a fact-finding mission was authorised in March 2025 and a formal misconduct investigation began in December 2025, with allegations put to several executives in April, July and August 2026, and that one matter under inquiry is an uncontested A$2m marketing contract awarded to a former board trustee's agency. The NSW government architect Abbie Galvin is interim chief executive and former Sydney Opera House chief executive Louise Herron is a strategic adviser. The Art Newspaper reported broader disputes around the project: more than A$70m spent before opening (including A$10m on an Es Devlin immersive experience), a A$2.6m \"artistic associates\" programme scrapped in May after a state treasury review, which the Public Service Association said had sidelined long-serving curators, and criticism that key collection pieces such as the 1785 Boulton & Watt steam engine and Locomotive No.1 will be shown off-site rather than in the new building. A petition launched on 27 October by former trustee Kon Gouriotis to reinstate Havilah had gathered more than 750 signatories.",
+   "outcome": "The museum is scheduled to open on 7 November 2026 with interim leadership in place; the Lander & Rogers investigation is ongoing and its allegations have not been made public. [FOLLOW-UP PENDING: the outcome of the misconduct/procurement investigation, whether its findings are released, whether Lisa Havilah returns or departs, and whether the 7 November opening proceeds as planned.]",
+   "tags": [
+    "Institutional crisis",
+    "Funding dispute",
+    "Labor dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper",
+    "ArtAsiaPacific"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/04/sydneys-new-641m-powerhouse-arts-and-science-museum-to-open-amid-crisis",
+   "additional_sources": [
+    "https://www.artasiapacific.com/news/sydneys-powerhouse-parramatta-engulfed-in-turmoil-ahead-of-opening/"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "New parent. Institutional-crisis case at a flagship NSW state museum: governance/procurement misconduct investigation (Lander & Rogers) with CEO and COO stood aside, alongside budget-share, scrapped 'artistic associates' programme (PSA union), and off-site collection-display disputes. Thursday Asia & Pacific trawl. Borderline inclusion flagged for review: the contested matter is the institution's governance rather than a single artwork, but the museum itself is the subject; cf. institutional-crisis precedents in the Index.",
+   "interested_parties": "Lisa Havilah (CEO, stood aside); Mark Wilsdon (COO, on leave); John Graham (NSW arts minister); Abbie Galvin (interim CEO, NSW government architect); Louise Herron (strategic adviser); Cassandra Wilkinson; Lander & Rogers (investigators); Public Service Association; Kon Gouriotis (petition); Kylie Winkworth (heritage expert)",
+   "coverage_geography": "Australia, international art press",
    "follow_up_pending": true
   }
  ]

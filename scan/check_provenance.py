@@ -37,6 +37,7 @@ DOMAIN_TO_OUTLET = {
     "artforum.com": "Artforum",
     "hyperallergic.com": "Hyperallergic",
     "theartnewspaper.com": "The Art Newspaper",
+    "artasiapacific.com": "ArtAsiaPacific",
     "sanfernandosun.com": "San Fernando Valley Sun",
     "middleeasteye.net": "Middle East Eye",
     "nytimes.com": "New York Times",
