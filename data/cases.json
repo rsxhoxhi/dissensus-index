@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 733
  },
  "cases": [
   {
@@ -17048,6 +17048,43 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-038-W",
+   "entry_id": "038-W",
+   "seq": 772,
+   "title": "Trump Triumphal Arch: planning commission grants final approval 8-4; judge blocks construction for 14 days",
+   "artist": "N/A",
+   "institution": "National Capital Planning Commission; Memorial Circle, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "NCPC vote and court order 5 November 2026",
+   "date_discovered": "2026-11-06",
+   "sort_date": "2026-11-05",
+   "description": "The National Capital Planning Commission voted 8-4 on 5 November 2026 to approve final site and building plans for the proposed 250-foot arch at Memorial Circle, across the Potomac from the Lincoln Memorial and next to Arlington National Cemetery, CBS News reported; the vote followed nearly nine hours of public comment and more than 1,300 written comments, most of them opposed. NCPC executive director Mark Paoletta recommended approval and praised Trump's \"historic vision,\" calling the project the \"grandest arch ever built by mankind.\" Rep. Jared Huffman (D-Calif.) called the arch \"illegal,\" saying \"This arch would dishonor America, our ideals, and our laws,\" and Marine veteran Jimi Shaughnessy called it \"abhorrent and insulting.\" Less than two hours after the vote, U.S. District Judge Tanya Chutkan issued a temporary restraining order barring \"construction-related activity\" at the site for 14 days; in a 33-page ruling she found the plaintiffs likely to succeed in showing the government had not followed required legal processes, and that Virginia and the District of Columbia likely had standing, citing \"tangible economic harms.\" The arch is 166 feet tall (250 feet with its gilded figures), would take about three years to build, and is intended to mark 250 years of American independence.",
+   "outcome": "Final planning approval was granted and then paused by court order for 14 days while litigation continues. [FOLLOW-UP PENDING: whether the restraining order is extended or lifted after the 14-day period, the Interior Department/National Park Service construction decision, and whether construction begins.]",
+   "tags": [
+    "Design controversy",
+    "Legal challenge",
+    "Landmark dispute",
+    "Political art"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "CBS News"
+   ],
+   "source": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/",
+   "additional_sources": [],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038. The NCPC final-approval vote and Judge Chutkan's temporary restraining order are the developments flagged at ACI-038-V (which sits in an unmerged daily-scan branch, not yet in main). Drafted from CBS News full text; quotes verbatim. Trump said in September the arch would be a \"top grade Military Complex\"; per CBS the NCPC documents include no military use. [FOLLOW-UP PENDING: TRO extension/appeal; construction start.]",
+   "interested_parties": "National Capital Planning Commission (Mark Paoletta); Judge Tanya Chutkan; Michael Lemmon and Shaun Byrnes (Vietnam veterans); Commonwealth of Virginia; District of Columbia; Rep. Jared Huffman",
+   "coverage_geography": "US, International",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-007-F",
    "entry_id": "007-F",
    "seq": 466,
@@ -23427,7 +23464,7 @@
    "date_discovered": "2026-09-25",
    "sort_date": "2026-09-24",
    "description": "Camille Pissarro's Darse de pêche et bassin Duquesne (1902), a view of the port of Dieppe, is the subject of a Nazi-loot dispute before a Paris court, The Art Newspaper reported. Seven heirs of the Jewish banker Salomon Flavian contend the painting was looted from his collection in Nazi-occupied Paris in 1941, and the work was recorded in France's 1947 official repertory of looted art. It was sold at Sotheby's in London on 25 June 2024 for £1.2m; per The Art Newspaper, the catalogue acknowledged the work's looted history but stated it was being offered under a settlement. The Art Newspaper reported that only two relatives had signed that settlement with Mondex Corporation, and that the plaintiffs argue they were not consulted before the sale and are seeking to annul it, while Sotheby's and Mondex maintain the painting was not in fact seized by the Nazis. According to the report, a verdict is expected on 5 November 2026.",
-   "outcome": "The case is pending before the Paris court; a verdict is expected on 5 November 2026. [FOLLOW-UP PENDING: the Paris court's ruling on the annulment claim, expected 5 November 2026.]",
+   "outcome": "The Paris court ruled on 5 November 2026 that all sales of the painting since its 1941 seizure are null and void and ordered its restitution to Salomon Flavian's heirs (see ACI-398-A).",
    "tags": [
     "Repatriation",
     "Legal challenge"
@@ -23445,6 +23482,39 @@
    "notes": "New parent. Nazi-era restitution dispute now in litigation over a work already sold under a partial settlement (Dissensus theme 12). Drafted in reported speech from The Art Newspaper full text; no direct quotes. Dated verdict (5 Nov 2026) flagged for follow-up.",
    "interested_parties": "Heirs of Salomon Flavian (incl. Gilles and Nicolas Flavian, per TAN); Sotheby's; Mondex Corporation; Corinne Hershkovitch (plaintiffs' lawyer); Rémi Sermier (Sotheby's lawyer)",
    "coverage_geography": "France, UK",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-398-A",
+   "entry_id": "398-A",
+   "seq": 771,
+   "title": "Pissarro Dieppe harbour painting: Paris court voids post-1941 sales, orders return to Flavian heirs",
+   "artist": "Camille Pissarro",
+   "institution": "Sotheby's (London); Paris court",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Paris court ruling 5 November 2026",
+   "date_discovered": "2026-11-06",
+   "sort_date": "2026-11-05",
+   "description": "A Paris court ruled on 5 November 2026 that Camille Pissarro's 1902 painting \"Darse de peche et bassin Duquesne\" must be returned to the descendants of Salomon Flavian, the Jewish banker and collector who bought the work in 1935 and whose property the Nazis seized in 1941, according to the ruling as reported by Agence France-Presse. The court found all successive sales of the painting since the seizure null and void and ordered it returned \"wherever and in whoever's possession it may be found.\" Sotheby's, which sold the work at its London saleroom in 2024 for 1.2 million pounds (about $1.6 million) to an unidentified buyer, must disclose the buyer's identity to the Flavian family within two months or face a penalty of 1,000 euros (about $1,120) for each day of delay.",
+   "outcome": "The court voided every sale of the painting since the 1941 seizure and ordered its restitution to the Flavian heirs; Sotheby's must identify the 2024 buyer within two months. [FOLLOW-UP PENDING: whether Sotheby's discloses the buyer within the deadline, the painting's physical recovery, and any appeal.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Manila Times"
+   ],
+   "source": "https://www.manilatimes.net/2026/11/05/world/americas-emea/french-court-orders-return-of-pissarro-painting-looted-by-nazis/2463063",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "Sub-entry of ACI-398; resolves the parent's 5 November 2026 ruling flag. Drafted from the Agence France-Presse wire story as carried by The Manila Times (full text; the quoted phrase verified verbatim). The AFP/Manila Times report does not carry Sotheby's response or state whether an appeal is possible. Cf. ACI-448 (Thyssen-Bornemisza / Cassirer Pissarro claim). [FOLLOW-UP PENDING: buyer disclosure, recovery, appeal.]",
+   "interested_parties": "Salomon Flavian's heirs; Sotheby's; Paris court",
+   "coverage_geography": "France, International",
    "follow_up_pending": true
   },
   {
@@ -23915,6 +23985,41 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-456",
+   "entry_id": "456",
+   "seq": 773,
+   "title": "French court investigates fraud claim over Picasso silver plates and medallions sold at auction",
+   "artist": "Pablo Picasso (attributed); Ateliers Hugo",
+   "institution": "Court of Aix-en-Provence; Ateliers Hugo; Sotheby's; Bonhams",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Complaint filed 10 March 2026; investigation reported 5 November 2026",
+   "date_discovered": "2026-11-06",
+   "sort_date": "2026-11-05",
+   "description": "The court of Aix-en-Provence has opened a preliminary investigation into fraud, counterfeiting, forgery and concealment over silver plates and gold medallions attributed to Pablo Picasso and produced by the goldsmith Ateliers Hugo, The Art Newspaper reported on 5 November 2026. The inquiry follows a complaint filed on 10 March 2026 by Paloma Ruiz-Picasso on behalf of nine Picasso heirs, alleging \"fraud, counterfeiting, forgery and concealment of these felonies\" and saying the moulds for Picasso's works were reused for unauthorised silver and gold pieces; the Picasso Administration says it has identified at least 17 suspicious collections totalling hundreds of pieces, and the family published a warning in the Gazette Drouot in April. The pieces derive from designs Picasso commissioned from Francois Hugo in 1955. Ateliers Hugo was run from 1975 by Pierre Hugo, who died in October 2023; his son Nicolas Hugo, who describes himself as a self-taught dealer, told the paper he is not the company's owner, has not been interviewed by investigators, and that the reproduction rights expired with his father and grandfather: \"I have never minted any of Picasso's creations,\" and he signed certificates \"only to confirm my father's own signature.\" The first red flag came in May 2023 when the Museum of Old and New Art in Tasmania doubted the authenticity of a complete set of 24 silver plates that Sotheby's London had sold in October 2021 for 1.4 million pounds; in September 2023 the Picasso Administration told Bonhams Paris that pieces it planned to sell were unauthorised, and Bonhams delayed the sale.",
+   "outcome": "The investigation is at a preliminary stage and no suspects have been named. [FOLLOW-UP PENDING: the outcome of the Aix-en-Provence preliminary investigation, any charges, and the authenticity determinations across the flagged collections.]",
+   "tags": [
+    "Art market fraud",
+    "Authenticity",
+    "Legal challenge"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/05/french-authorities-investigate-claim-of-fraud-over-picasso-plates-and-medallions-on-sale",
+   "additional_sources": [],
+   "themes": [
+    10,
+    11
+   ],
+   "notes": "New parent (provisional ID; finalize_ids assigns the permanent number at merge). Art-market authenticity/forgery dispute (themes 10, 11). Drafted from The Art Newspaper full text; quotes verbatim. Cf. ACI-071 (separate Warhol/Picasso/Banksy counterfeit scheme) and the Picasso-estate authentication line generally. [FOLLOW-UP PENDING: investigation outcome and charges.]",
+   "interested_parties": "Paloma Ruiz-Picasso and the Picasso heirs; Picasso Administration; Ateliers Hugo; Nicolas Hugo; Pierre Hugo (d. 2023); Mark Maurice (Masterpiece gallery); Sotheby's; Bonhams; Museum of Old and New Art (MONA); Suros Capital",
+   "coverage_geography": "UK, France, Australia",
    "follow_up_pending": true
   }
  ]
