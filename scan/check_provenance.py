@@ -91,6 +91,8 @@ DOMAIN_TO_OUTLET = {
     "elpais.com.co": "El País (Cali)",
     "thelocal.fr": "The Local",
     "lemonde.fr": "Le Monde",
+    "finestresullarte.info": "Finestre sull'Arte",  # added 2026-11-08 scan (ACI-102 Galleria Borghese)
+    "sudradio.fr": "Sud Radio",  # added 2026-11-08 scan (ACI-222 Lalique/Montans thefts)
     "aljazeera.com": "Al Jazeera",
     "newschannel5.com": "NewsChannel5",
     "usnews.com": "U.S. News & World Report",
