@@ -46,6 +46,7 @@ DOMAIN_TO_OUTLET = {
     "bbc.co.uk": "BBC",
     "reuters.com": "Reuters",
     "fox5ny.com": "Fox 5 New York",  # added 2026-09-13 scan
+    "kutv.com": "KUTV",  # added 2026-11-10 scan (ACI-460 Moab petroglyphs)
     "1news.co.nz": "1News",  # added 2026-09-13 scan
     "akp.gov.kh": "Agence Kampuchea Presse",  # added 2026-09-11 scan (ACI-385 Preah Vihear)
     "elespanol.com": "El Español",  # added 2026-09-11 scan (ACI-386 Valladolid)

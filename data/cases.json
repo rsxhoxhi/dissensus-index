@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 734
  },
  "cases": [
   {
@@ -6849,7 +6849,7 @@
    "date_discovered": "May 22, 2026",
    "sort_date": "2026-05-22",
    "description": "Wexner Workers United, the union at Ohio State University's Wexner Center for the Arts, sent a formal letter to OSU's president, provost, and board of trustees on May 21, 2026, demanding that the university remove Leslie Wexner's name from the building and begin the process of renaming it. The letter cites Les Wexner's name appearing more than 1,300 times in the Department of Justice's unsealed Epstein files. The union's letter argues that as a contemporary arts center 'we are inherently entwined with the relevant and urgent events of today' and that Wexner's documented association with the Epstein sex trafficking operation taints the institution's identity. This follows months of campus protest at OSU: student architecture students staged a 'REDACTED' tarp over the Wexner name in April 2026 (viral video), hundreds of students and athletes called for removal, and nurses at the Wexner Medical Center held protests. OSU previously denied a December 2025 request to rename the Les Wexner Football Complex. Wexner has not been charged with any crime and denies knowledge of Epstein's criminal activity. He was deposed by Congress on February 18. The Wexner Center for the Arts, designed by Peter Eisenman and Richard Trott and opened in 1989, received at least $15M from Wexner. Leslie Wexner is the founder of L Brands (Victoria's Secret, Bath & Body Works, Abercrombie & Fitch).",
-   "outcome": "Formal demand letter sent May 21. OSU has not yet responded. [FOLLOW-UP PENDING]",
+   "outcome": "Formal demand letter sent May 21. OSU interim provost ended the renaming review on November 6, 2026 and retained the Wexner name (ACI-109-A).",
    "tags": "Iconoclasm, Historical erasure, Labor dispute, Community objection",
    "court_case": "No",
    "coverage_tier": "Regional",
@@ -6864,10 +6864,41 @@
     6,
     9
    ],
-   "notes": "[FOLLOW-UP PENDING] This is a Theme 6 (iconoclasm) case with an unusual dynamic: the renaming demand comes from the institution's own workers rather than external protesters. The union letter's framing — contemporary arts center 'entwined with urgent events of today' — echoes the institutional mission language OSU itself uses. The Epstein-buildings pattern is now documented at multiple institutions: the Sackler name was removed from museums in New York, Paris, and Oxford; Harvard chose not to remove the Wexner name from the Kennedy School building; OSU denied the football complex request. The Wexner Center is the first contemporary arts institution in this naming controversy cluster. The 'REDACTED' tarp student protest (April 2026) is itself an artwork-within-the-controversy — a visual argument about institutional transparency. Compare to entry 104 (Hamburg culture prize renamed, Biermann Ratjen Nazi ties) as a naming controversy driven by historical re-evaluation. The art center was designed by Peter Eisenman — arguably the most architecturally significant campus building in the postmodern era; the naming controversy adds a layer to how institutional identity is constructed. OSU response expected within days. GOVERNANCE NOTE: Democracy.",
+   "notes": "This is a Theme 6 (iconoclasm) case with an unusual dynamic: the renaming demand comes from the institution's own workers rather than external protesters. The union letter's framing — contemporary arts center 'entwined with urgent events of today' — echoes the institutional mission language OSU itself uses. The Epstein-buildings pattern is now documented at multiple institutions: the Sackler name was removed from museums in New York, Paris, and Oxford; Harvard chose not to remove the Wexner name from the Kennedy School building; OSU denied the football complex request. The Wexner Center is the first contemporary arts institution in this naming controversy cluster. The 'REDACTED' tarp student protest (April 2026) is itself an artwork-within-the-controversy — a visual argument about institutional transparency. Compare to entry 104 (Hamburg culture prize renamed, Biermann Ratjen Nazi ties) as a naming controversy driven by historical re-evaluation. The art center was designed by Peter Eisenman — arguably the most architecturally significant campus building in the postmodern era; the naming controversy adds a layer to how institutional identity is constructed. GOVERNANCE NOTE: Democracy.",
    "interested_parties": "Wexner Workers United (union, letter authors); Leslie Wexner (donor, named); OSU president, provost, board (recipients); architecture students (prior protests); OSU Wexner Medical Center nurses (prior protests); former OSU athletes (separate naming request); Leslie Wexner (denied wrongdoing, was deposed)",
    "coverage_geography": "Ohio, national arts labor press",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-109-A",
+   "entry_id": "109-A",
+   "seq": 801,
+   "title": "Wexner Center naming: OSU ends renaming review; Wexner name retained",
+   "artist": "N/A (institutional)",
+   "institution": "Wexner Center for the Arts, Ohio State University, Columbus, Ohio",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Decision announced November 6, 2026",
+   "date_discovered": "2026-11-10",
+   "sort_date": "2026-11-06",
+   "description": "Ohio State University interim provost Trevor Brown called off the university's review of whether to remove Leslie Wexner's name from campus buildings, overriding the advisory committee conducting that review, Hyperallergic reported; the decision was made public on November 6, 2026. The review followed hundreds of requests to rename the Wexner Center for the Arts over Wexner's connections to Jeffrey Epstein (see ACI-109). Wexner, who funded the center's creation, remains its board chair. The staff union Wex Workers United said “Workers will bear the brunt of this decision.”",
+   "outcome": "OSU ended the renaming review; the Wexner name is retained.",
+   "tags": "Iconoclasm, Historical erasure, Labor dispute, Community objection",
+   "court_case": "No",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/wexner-center-for-the-arts-to-keep-name-despite-founders-epstein-ties/",
+   "additional_sources": [],
+   "themes": [
+    6,
+    9
+   ],
+   "notes": "Sub-entry of ACI-109; resolves the pending renaming demand — OSU declined to remove the Wexner name. The provost's decision overrode an advisory committee's review. Drafted from Hyperallergic (Rhea Nayyar, November 9, 2026; full text; union quote verified verbatim).",
+   "interested_parties": "Trevor Brown (OSU interim provost); Wex Workers United (staff union); Leslie Wexner (board chair, named)",
+   "coverage_geography": "Ohio, national arts press",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-108",
@@ -23916,6 +23947,92 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-460",
+   "entry_id": "460",
+   "seq": 798,
+   "title": "Prehistoric petroglyph panels near Moab defaced with carved names; BLM investigates",
+   "artist": "N/A",
+   "institution": "Bureau of Land Management (Moab Field Office); public lands near Moab, Grand County, Utah",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported November 6, 2026 (two incidents)",
+   "date_discovered": "2026-11-10",
+   "sort_date": "2026-11-06",
+   "description": "Prehistoric petroglyph panels in the Moab area of Grand County, Utah, were damaged in two separate incidents in which people carved names into or beside the ancient rock art, KUTV reported on November 6, 2026. According to KUTV, one incident occurred along Highway 279 and the other near Hell's Revenge; the report did not give the dates on which the damage occurred. The Bureau of Land Management's law enforcement office is investigating, and BLM Utah posted about the case on social media, saying the panels are protected under the Archaeological Resources Protection Act and that “Vandalism or unauthorized disturbance of archaeological resources is a serious federal offense” that can bring significant fines, imprisonment, and/or exclusion from public lands. BLM Utah said the damaged cultural resources cannot be returned to their original condition.",
+   "outcome": "Under BLM investigation; no suspects named. [FOLLOW-UP PENDING: identification of those responsible, any charges, and any repair or damage assessment.]",
+   "tags": "Cultural property destruction, Vandalism, Archaeological site",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "KUTV"
+   ],
+   "source": "https://kutv.com/news/local/prehistoric-petroglyph-panels-damaged-in-two-vandalism-incidents-near-moab",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Cultural-property-destruction cluster: recognized significance via Archaeological Resources Protection Act protection of prehistoric rock art; non-ideological defacement (names carved) → Vandalism, not Iconoclasm. This parent covers the two incidents (Highway 279 and near Hell's Revenge) in the BLM investigation reported November 6, 2026; other Moab-area petroglyph vandalism was reported earlier in 2026. Compare ACI-430 (Nine Mile Canyon rock art) and ACI-258 (Bears Ears). Drafted from KUTV (Jonathan May, November 6, 2026; full text; BLM Utah quote verified verbatim). ARTnews and Fox Weather also covered it but were not retrievable this run.",
+   "interested_parties": "Bureau of Land Management (Moab Field Office / BLM Utah law enforcement)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-461",
+   "entry_id": "461",
+   "seq": 799,
+   "title": "Senate bill curbing Section 106 historic-preservation review draws Capitol protest",
+   "artist": "N/A",
+   "institution": "U.S. Senate; National Historic Preservation Act (Section 106); Section 106 Coalition",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Protest November 9, 2026",
+   "date_discovered": "2026-11-10",
+   "sort_date": "2026-11-09",
+   "description": "About 800 people, by organisers' estimate, rallied on the West Lawn of the US Capitol on November 9, 2026 against the Bipartisan American Affordability and Jobs Act (S.5653), a Senate bill that The Art Newspaper reported would weaken Section 106 of the National Historic Preservation Act. According to The Art Newspaper, the bill would remove the requirement that federal agencies notify and consult the public and tribal nations about potential harms to historic sites, make tribal consultation optional, narrow the activities that trigger federal historic-preservation review, restrict the definition of a historic site, drop consideration of indirect and cumulative effects on historic and sacred sites, allow federal agencies to take over state and tribal historic-preservation offices that miss the bill's limits and deadlines, and restrict legal action against the destruction of historic and sacred sites; senators who favour it argue it would create economic opportunities. Greg Werkheiser of the Section 106 Coalition opened the protest, which drew representatives of more than 100 tribal nations, members of Congress, and leaders of the Association of African American Museums, the DC Preservation League, the American Institute of Architects and the Archaeological Institute of America. Representative Rashida Tlaib said the bill “strips away what little tools we already have to defend ourselves from corporate polluters”; Representative Adelita Grijalva said “economic development does not require sacrificing our history, our culture or our sovereignty”; and Representative Melanie Stansbury called the bill a “dirty deal.”",
+   "outcome": "The bill was pending in the Senate as of the November 9 protest. [FOLLOW-UP PENDING: Senate action on S.5653 and any changes to Section 106.]",
+   "tags": "Historic preservation, Indigenous rights, Political interference",
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/09/protest-us-capitol-bipartisan-american-affordability-jobs-act-national-historic-preservation-act-section-106",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. A legislative route to narrowing Section 106 of the National Historic Preservation Act, distinct from the Trump-controlled ACHP administrative rule rewrite tracked at ACI-270 / ACI-270-A; Section 106 also recurs across the DC federal-cultural cluster (ACI-038 arch, ACI-046 Lincoln Memorial Reflecting Pool, ACI-050 East Wing / State Ballroom). Drafted from The Art Newspaper (Emma Cieslik, November 10, 2026; full text; quotes verified verbatim).",
+   "interested_parties": "Section 106 Coalition (Greg Werkheiser); more than 100 tribal nations; Reps. Rashida Tlaib, Adelita Grijalva, Jared Huffman, Melanie Stansbury; Association of African American Museums; DC Preservation League; American Institute of Architects; Archaeological Institute of America",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-462",
+   "entry_id": "462",
+   "seq": 800,
+   "title": "Five Rubens oil sketches reunited at Gotha's Ducal Museum after post-war dispersal",
+   "artist": "Peter Paul Rubens",
+   "institution": "Friedenstein Foundation Gotha (Ducal Museum), Gotha, Germany",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "Exhibition opened November 9, 2026",
+   "date_discovered": "2026-11-10",
+   "sort_date": "2026-11-09",
+   "description": "Five oil sketches on wood that Peter Paul Rubens painted in 1620–21 as studies for ceiling paintings in the Jesuit church in Antwerp went on show together at the Ducal Museum in Gotha on November 9, 2026, after a decades-long effort to recover works that had left Schloss Friedenstein by the end of the Second World War, The Art Newspaper reported. According to The Art Newspaper, three of the sketches were taken by representatives of the former ducal family — which had not owned them since 1918 — as American and Soviet forces approached Gotha, moved to Coburg and illicitly sold, eventually reaching the US market, while two were looted by the Red Army and restituted to Gotha in 1959. ‘St Gregory of Nazianzus’ was returned in 2024 by a museum in Buffalo, New York, with help from Christie's; ‘The Prophet Elijah in the Golden Chariot’ was recovered from a private US collection through a private settlement — reported at a figure in the low millions, below market price — mediated by Cabinet Turquin in Paris and funded by the Ernst von Siemens Art Foundation; and ‘St Augustine’, owned by the Foundation E. G. Bührle Collection, is on loan from the Kunsthaus Zurich. Martin Hoernes, secretary general of the Ernst von Siemens Art Foundation, described the current owners' acquisition as a “good-faith purchase” and said “No one wanted to criminalise the current owners.” Tobias Pfeifer-Helke, director of the Friedenstein Foundation Gotha, said in a statement, “It is nothing short of a miracle that Peter Paul Rubens' five oil studies can now be seen together at the Ducal Museum.”",
+   "outcome": "The five sketches are on view together at the Ducal Museum in Gotha from November 9, 2026; the recovery of the dispersed works was resolved without litigation.",
+   "tags": "Repatriation",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/09/lost-rubens-sketches-return-to-german-castle-after-80-years",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "New parent. A non-litigated restitution/recovery resolution in the post-war displaced-cultural-property cluster; sibling to ACI-376 (Rembrandt self-portrait and Gotha's contest over a 1946 Soviet removal), same Friedenstein/Gotha ducal collection. The contested-ownership element (illicitly sold works held by good-faith purchasers) was resolved by private settlement rather than court. Drafted from The Art Newspaper (Catherine Hickley, November 9, 2026; full text; quotes verified verbatim).",
+   "interested_parties": "Friedenstein Foundation Gotha (Tobias Pfeifer-Helke); Ernst von Siemens Art Foundation (Martin Hoernes); Cabinet Turquin, Paris; Foundation E. G. Bührle Collection / Kunsthaus Zurich; Christie's; former ducal house of Saxe-Coburg and Gotha",
+   "coverage_geography": "Germany, Europe, US",
+   "follow_up_pending": false
   }
  ]
 }
