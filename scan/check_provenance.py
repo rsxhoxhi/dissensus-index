@@ -49,6 +49,7 @@ DOMAIN_TO_OUTLET = {
     "1news.co.nz": "1News",  # added 2026-09-13 scan
     "akp.gov.kh": "Agence Kampuchea Presse",  # added 2026-09-11 scan (ACI-385 Preah Vihear)
     "elespanol.com": "El Español",  # added 2026-09-11 scan (ACI-386 Valladolid)
+    "canaln.pe": "Canal N",  # added 2026-11-11 scan (ACI-463 Moche huacos eróticos)
     "apnews.com": "Associated Press",
     "npr.org": "NPR",
     "kclu.org": "NPR",

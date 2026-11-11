@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 731
  },
  "cases": [
   {
@@ -23916,6 +23916,39 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-463",
+   "entry_id": "463",
+   "seq": 771,
+   "title": "Peru senator seeks removal of giant Moche erotic-pottery replicas from Trujillo park",
+   "artist": "N/A",
+   "institution": "Parque de la Fertilidad, Moche district, La Libertad (near Trujillo), Peru",
+   "country": "Peru",
+   "governance_type": "Democracy",
+   "date_controversy": "26 October 2026 (senator's request to Congress; The Art Newspaper)",
+   "date_discovered": "2026-11-11",
+   "sort_date": "2026-10-26",
+   "description": "The Art Newspaper reported on 10 November 2026 that Milagros Jáuregui, a conservative senator from the Renovación Popular party and an evangelical pastor, had asked Peru's culture ministry to remove large fibreglass replicas of Moche erotic ceramics (huacos eróticos) from the Parque de la Fertilidad, a public park in the Moche district outside Trujillo, in northern Peru. According to the paper, the roughly three-metre-tall replicas enlarge pre-Incan Moche vessels — the originals no more than 30cm and placed in tombs as burial offerings — and were installed from 2021 by the then mayor of Moche, Arturo Fernández, to promote tourism. Jáuregui made the request in a speech to Congress on 26 October 2026, arguing that children's neurological and psychological development could be affected by seeing such imagery and that the works should be shown only in closed spaces such as museums, where students could view them with a teacher; the paper quoted her saying “Displaying these types of images in public is harmful to children” and “We should have them in museums, where high-school students can observe a part of our culture.” The Art Newspaper reported no response or decision from the culture ministry. It quoted the archaeologist Walter Alva, who discovered the Lord of Sipán tomb in 1987, taking a more complicated position — that artists are free to re-create themes from the past but the original ceramics were offerings tied to fertility and beliefs about life after death, and that the park replicas were “created outside of their historical context.” In a separate interview with Canal N, Jáuregui said she had presented a bill on the matter in a previous legislative term, framed her concern around children roughly aged zero to five, and said “tenemos que proteger la mente de los niñitos” (“we have to protect the minds of the little children”), while adding that she did not question the works' cultural value and that culture “has to be protected.”",
+   "outcome": "As of the 10 November 2026 report, Peru's culture ministry had announced no decision on the removal request (The Art Newspaper). [FOLLOW-UP PENDING: whether the Ministry of Culture acts on Sen. Jáuregui's request to remove the replicas.]",
+   "tags": "Removal, Community objection, Obscenity, Political interference",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper",
+    "Canal N"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/10/moche-erotic-sculpture-park-peru",
+   "themes": [
+    9
+   ],
+   "notes": "New parent (provisional ID). Public-objection case: a sitting senator's formal request that publicly sited replicas of Moche erotic pottery be removed from a park and confined to museums. Drafted narrowly from The Art Newspaper (full text, 10 Nov 2026) and corroborated by Canal N (full text). Jáuregui's stated rationale is child development and public display, not expressly religious; despite her being an evangelical pastor, no Religious-objection tag is applied, to avoid inferring motive (CLAUDE.md neutrality). Archaeologist Walter Alva's cited remarks supply the counter-position. [FOLLOW-UP PENDING: ministry decision on the removal request.]",
+   "interested_parties": "Sen. Milagros Jáuregui (Renovación Popular); Peru Ministry of Culture; Moche district municipality (former mayor Arturo Fernández); archaeologist Walter Alva",
+   "coverage_geography": "Peru, International",
+   "follow_up_pending": true,
+   "additional_sources": [
+    "https://canaln.pe/actualidad/milagros-jauregui-pide-retirar-huacos-eroticos-moche-tenemos-que-proteger-mente-ninitos-n495899"
+   ]
   }
  ]
 }
