@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 732
  },
  "cases": [
   {
@@ -12097,6 +12097,42 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-050-O",
+   "entry_id": "050-O",
+   "seq": 772,
+   "title": "White House ballroom: administration returns to Supreme Court seeking to clear the project",
+   "artist": "N/A",
+   "institution": "White House East Wing / State Ballroom, Washington DC; National Park Service",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "November 5, 2026",
+   "date_discovered": "2026-11-12",
+   "sort_date": "2026-11-05",
+   "description": "Solicitor General D. John Sauer filed a petition at the Supreme Court on November 5, 2026 in National Park Service v. National Trust for Historic Preservation (No. 26-599), asking the justices to summarily reverse the lower court's ruling against the White House East Wing ballroom project without new briefing or argument, or in the alternative to grant review and hear oral argument on the merits, according to SCOTUSblog. SCOTUSblog reported that Sauer argued the court's August 31 ruling \"has all but answered the question presented\" and that the project \"should be permitted to move forward outside the shadow of judicial superintendence.\" On August 31 the court had, by a 5-4 vote, continued a pause on Senior U.S. District Judge Leon's order barring above-ground construction; the unsigned majority said the Trust likely lacks standing and that it was not deciding whether the project is legal, while Chief Justice Roberts dissented, joined by Justices Sotomayor, Kagan and Jackson, writing that the construction \"is likely unlawful\" and that the decision was \"no victory for the separation of powers.\" Per SCOTUSblog, Judge Leon's order never took effect and construction—begun in October 2025 with demolition of the East Wing—has continued throughout; the Trust's response to the petition is due December 7, 2026.",
+   "outcome": "The government's certiorari petition is pending, with the August 31 stay remaining in effect; the National Trust's response is due December 7, 2026. [FOLLOW-UP PENDING: the Supreme Court's action on the petition—summary reversal, a grant of certiorari, or denial—and the Trust's December 7 response.]",
+   "tags": [
+    "Legal challenge",
+    "Historic preservation",
+    "Demolition",
+    "Design controversy"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "SCOTUSblog"
+   ],
+   "source": "https://www.scotusblog.com/2026/11/trump-administration-brings-white-house-ballroom-battle-back-to-supreme-court/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-050; follows ACI-050-N (Oct 15, Post donor investigation) and the August Supreme Court stay at ACI-050-J. Drafted from SCOTUSblog (full text; quotes verified verbatim). Case: National Park Service v. National Trust for Historic Preservation, No. 26-599 (emergency docket No. 26A203). SCOTUSblog identifies the lower-court judge only as Senior U.S. District Judge Leon.",
+   "interested_parties": "Solicitor General D. John Sauer; National Trust for Historic Preservation; Chief Justice John Roberts; Justices Sotomayor, Kagan, Jackson; Senior U.S. District Judge Leon",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-035-C",
    "entry_id": "035-C",
    "seq": 82,
@@ -17045,6 +17081,43 @@
    "notes": "Sub-entry of ACI-038; follows ACI-038-R (Sept 9, administration targets November for final approval) and the excavation litigation at ACI-038-Q. THIN / SNIPPET-GRADE: drafted from search-result snippets of NBC News, NPR, and The Washington Post; direct fetches of NPR and Axios were blocked this run, so there is no full-text retrieval and no quotations. Enrich on a US-local trawl day.",
    "interested_parties": "President Trump; Interior Secretary Doug Burgum; Rep. Don Beyer; Vietnam veterans plaintiffs (see ACI-038-R)",
    "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-038-X",
+   "entry_id": "038-X",
+   "seq": 771,
+   "title": "Trump Triumphal Arch: nine Kennedy family members sue, citing shadow on JFK's grave",
+   "artist": "N/A",
+   "institution": "Memorial Circle, Arlington Memorial Bridge approach, Washington DC; Arlington National Cemetery",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "November 10, 2026",
+   "date_discovered": "2026-11-12",
+   "sort_date": "2026-11-10",
+   "description": "Nine members of the Kennedy family filed a complaint in federal court in Washington, DC on November 10, 2026 seeking to block President Trump's proposed 250-foot triumphal arch near Arlington National Cemetery, according to Good Morning America. The complaint argues that the arch—about as tall as a 25-story building—would obstruct sightlines to the Kennedy gravesites and to the John F. Kennedy Eternal Flame from Arlington Memorial Bridge, would permanently cast a shadow over graves of servicemen and women including the Kennedy gravesites, and would block a line of sight meant to represent national unification after the Civil War; it also contends the National Park Service and Interior Department authorized construction without the congressional approval required for such commemorative work. In a family statement quoted by Good Morning America, Rory Kennedy and Maxwell Kennedy said, \"This action is about protecting sacred spaces that belong to the American people,\" and the family added, \"In bringing this lawsuit, we stand for those who cannot stand for themselves.\" White House spokesperson Davis Ingle called the family's motion \"unfortunate,\" said the administration is \"confident we will be fully vindicated as this litigation proceeds,\" and described the court as an \"activist district court.\" Good Morning America reported the filing is the latest of several legal challenges, which also include a suit by the attorneys general of Washington, DC and Virginia and a suit by three Vietnam War veterans and an architectural historian (see ACI-038-Q); the filing followed U.S. District Judge Tanya Chutkan's temporary block on construction for at least 14 days after a federal panel's final approval (see ACI-038-W).",
+   "outcome": "The Kennedy complaint adds to the pending challenges to the arch; construction remains temporarily blocked under Judge Chutkan's order. [FOLLOW-UP PENDING: the court's handling of the Kennedy complaint and the broader challenges, and whether construction proceeds.]",
+   "tags": [
+    "Design controversy",
+    "Legal challenge",
+    "Landmark dispute",
+    "Political art"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "Good Morning America"
+   ],
+   "source": "https://www.goodmorningamerica.com/news/story/kennedys-sue-trumps-triumphal-arch-alleging-cast-shadows-138039670",
+   "additional_sources": [],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038; follows ACI-038-W (Nov 5-6: planning commission final approval and Judge Chutkan's 14-day construction block). Drafted from Good Morning America / ABC News (full text; quotes verified verbatim). GMA describes the Kennedy complaint as a new filing and the latest of several challenges; some outlets (ARTnews headline, CBS) framed it as joining the DC/Virginia suit—framing not resolved from the retrieved text. Exact filing date (Nov 10, 2026) corroborated by CNN and Washington Post datelines seen in search results (not cited). RFK Jr. reported not to have joined (search results; not in the GMA full text, so omitted from the entry body).",
+   "interested_parties": "Kennedy family plaintiffs (Rory Kennedy, Maxwell Taylor Kennedy, Christopher G. Kennedy, Kerry Kennedy, Kathleen Kennedy Townsend, Joseph P. Kennedy Jr., Joseph P. Kennedy III, Edward M. Kennedy Jr., Courtney Kennedy); White House spokesperson Davis Ingle; U.S. District Judge Tanya Chutkan; attorneys general of DC and Virginia",
+   "coverage_geography": "US",
    "follow_up_pending": true
   },
   {
