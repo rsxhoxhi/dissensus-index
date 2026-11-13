@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 735
  },
  "cases": [
   {
@@ -23614,6 +23614,39 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-403-A",
+   "entry_id": "403-A",
+   "seq": 771,
+   "title": "David Drake restitutions: Newark Museum returns, then repurchases, 1852 jug",
+   "artist": "David Drake (\"Dave the Potter\"), enslaved 19th-century South Carolina potter",
+   "institution": "Newark Museum of Art, New Jersey",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-11-12",
+   "date_discovered": "2026-11-13",
+   "sort_date": "2026-11-12",
+   "description": "The Newark Museum of Art returned ownership of David Drake's Jug (1852) -- a stoneware vessel appraised at about $135,000 -- to the potter's descendants, then repurchased it from the Dave the Potter Legacy Trust so the work stays in the permanent collection and on public view, The Art Newspaper reported. The museum, which acquired the jug in 2022 and displayed it in its 'Seeing America' galleries in 2023, opened talks with Drake's family in summer 2026. The paper reports the agreement follows the Museum of Fine Arts, Boston's October 2025 return of Drake works and similar agreements with the Telfair Museums, the Georgia Museum of Art and the Virginia Museum of Fine Arts. Drake, who was enslaved and literate, inscribed verses on his pots; his auction record is $1.65m. George Fatheree, an adviser to the Drake family, called the outcome a 'win-win,' and Drake descendant Yaba Baker said removing the pots from public view would be a disservice given the potter's importance to art and Black history.",
+   "outcome": "The jug remains in the Newark Museum's permanent collection, its ownership acknowledged as having passed through Drake's descendants before repurchase.",
+   "tags": [
+    "Repatriation",
+    "Deaccessioning"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/12/newark-museum-david-drake-jug-restituted-reacquired",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "Sub-entry of ACI-403 (Milwaukee Art Museum David Drake restitution). Part of a wider wave of David Drake vessel restitutions (MFA Boston Oct 2025; Telfair Museums; Georgia Museum of Art; Virginia Museum of Fine Arts). Theme 12 (Restitution & Repatriation).",
+   "interested_parties": "Newark Museum of Art (director Lisa Funderburke); Dave the Potter Legacy Trust; George Fatheree (family adviser); Yaba Baker (descendant)",
+   "coverage_geography": "US",
+   "follow_up_pending": false
+  },
+  {
    "id": "ACI-404",
    "entry_id": "404",
    "seq": 755,
@@ -23915,6 +23948,131 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-464",
+   "entry_id": "464",
+   "seq": 773,
+   "title": "Jean Arp sculpture 'S'elevant' stolen from Galerie Ludorff booth at Art Cologne",
+   "artist": "Jean (Hans) Arp",
+   "institution": "Galerie Ludorff (Dusseldorf); Art Cologne",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-11-08",
+   "date_discovered": "2026-11-13",
+   "sort_date": "2026-11-08",
+   "description": "A bronze sculpture by Jean (Hans) Arp, S'elevant (Rising, 1962), valued at EUR145,000 (about $160,000), was stolen from Galerie Ludorff's booth at the Art Cologne fair on 8 November 2026, Hyperallergic reported. The roughly 28-centimetre work was unbolted from its plinth -- where it stood between two paintings by Ernst Wilhelm Nay -- between 4:55pm and 5:10pm on the fair's final day. Four gallery employees at the stand notified the North Rhine-Westphalia state police, who are appealing to visitors and staff for information or photographs. The paper reported it remains unclear who took the work.",
+   "outcome": "Under police investigation; the sculpture had not been recovered as of reporting. [FOLLOW-UP PENDING: recovery of the work or any arrests.]",
+   "tags": [
+    "Theft",
+    "Security failure"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/160-000-hans-arp-sculpture-stolen-from-art-cologne/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "[FOLLOW-UP PENDING: recovery of the work or arrests.] Theft at an art fair; actor unknown (anonymity is constitutive, not thinness -- CLAUDE.md s7). Artforum also carried the story but could not be retrieved this run (tollbit wall); only Hyperallergic is cited.",
+   "interested_parties": "Galerie Ludorff (Dusseldorf); North Rhine-Westphalia state police; Art Cologne",
+   "coverage_geography": "Germany, US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-465",
+   "entry_id": "465",
+   "seq": 774,
+   "title": "Academy of Natural Sciences closes; Philadelphia council subpoenas Drexel over shutdown",
+   "artist": "N/A (institution)",
+   "institution": "Academy of Natural Sciences of Drexel University, Philadelphia",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-09-01",
+   "date_discovered": "2026-11-13",
+   "sort_date": "2026-11-12",
+   "description": "The Academy of Natural Sciences -- founded in 1812 and describing itself as the oldest natural history research institution in the Americas -- closed its Philadelphia museum in September 2026 amid rising costs, The Art Newspaper reported. The academy, a nonprofit operated since 2011 by Drexel University, holds more than 19 million specimens, including plants from the Lewis and Clark expedition, Audubon's birds and fossils once owned by Thomas Jefferson. Staff learned of the closure at a 1 September meeting and most were laid off by 1 November; curatorial staff fell from 11 to five. Philadelphia city council passed a resolution on 17 September to investigate the closure and held a first hearing on 26 October that Drexel's president did not attend; Drexel cited 'substantial capital needs' and suggested public exhibitions may need a new model in a different location. Former staff and the advocacy group Save the Academy warn the collections are at risk without active staff and public access. The paper reported the William Penn Foundation said it had offered a year of replacement funding and received no response, while Drexel said it had not received a formal proposal with a defined level of support.",
+   "outcome": "Drexel's president is due to testify under subpoena before Philadelphia city council on 16 November 2026. [FOLLOW-UP PENDING: the 16 November council testimony; any reopening or relocation; the fate of the 19-million-specimen collection.]",
+   "tags": [
+    "Institutional crisis",
+    "Funding dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/12/academy-natural-sciences-philadelphia-closure-investigation-drexel-university",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "[FOLLOW-UP PENDING: 16 November 2026 council testimony by Drexel's president; collections' fate.] Funding dispute between Drexel and the William Penn Foundation over the museum's future; 19m-specimen natural-history collection at risk. The Philadelphia Inquirer broke aspects of the closure (per TAN) but was not retrieved this run; only The Art Newspaper is cited.",
+   "interested_parties": "Drexel University (president, under subpoena); Philadelphia city council; Save the Academy (Sarah McAnulty, Isa Betancourt, Amber Redfield); William Penn Foundation",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-466",
+   "entry_id": "466",
+   "seq": 775,
+   "title": "Wuppertal's Von der Heydt-Museum restitutes Slevogt's 'Paradiesvoegel' to Fuchs heirs",
+   "artist": "Max Slevogt",
+   "institution": "Von der Heydt-Museum, Wuppertal",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-07-13",
+   "date_discovered": "2026-11-13",
+   "sort_date": "2026-11-12",
+   "description": "The Von der Heydt-Museum in Wuppertal has restituted Max Slevogt's Paradiesvoegel (Birds of Paradise, 1900) to the heirs of Eduard Fuchs -- a collector, writer and Communist who fled Nazi Germany with his Jewish wife -- The Art Newspaper reported. Fuchs's collection was confiscated and later released; in 1937 he was forced to sell works to pay a punitive emigration tax, and Paradiesvoegel was auctioned in Berlin that June and bought by the dealer Hildebrand Gurlitt. The museum acquired the painting in 2006 for EUR120,000 and says it can no longer establish whether a provenance check was done before the purchase. Fuchs's heirs contacted the museum in 2020; Wuppertal city council approved the restitution on 13 July 2026. Because of the large number of heirs, they chose to sell: the painting is consigned to Ketterer Kunst in Munich on 5 December 2026 (estimate EUR40,000-60,000), alongside a second restituted Slevogt from the Fuchs collection. Museum director Roland Moenig said, 'Restituting Max Slevogt's Paradiesvoegel means losing a painting, but we gain something far more important.'",
+   "outcome": "The restitution was completed and the work consigned for sale on 5 December 2026. The museum said it is not considering legal action against the auction house through which it bought the painting.",
+   "tags": [
+    "Repatriation"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/12/german-museum-returns-slevogt-painting-to-heirs-of-nazi-persecuted-collector",
+   "additional_sources": [],
+   "themes": [
+    12
+   ],
+   "notes": "Restitution resolution (analytically relevant cluster anchor). Part of a wider reconstruction of the Eduard Fuchs collection supported by the German Lost Art Foundation; in 2024 the Staatsgalerie Stuttgart restituted another Slevogt (Der verlorene Sohn) to the same heirs. Theme 12 (Restitution & Repatriation).",
+   "interested_parties": "Von der Heydt-Museum (director Roland Moenig); heirs of Eduard Fuchs; Ketterer Kunst; German Lost Art Foundation; Wuppertal city council",
+   "coverage_geography": "Germany",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-467",
+   "entry_id": "467",
+   "seq": 776,
+   "title": "MPs warn Palace of Westminster risks 'catastrophic failure' as renovation votes stall",
+   "artist": "N/A (heritage site)",
+   "institution": "Palace of Westminster (Houses of Parliament); Restoration and Renewal Programme",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-11-04",
+   "date_discovered": "2026-11-13",
+   "sort_date": "2026-11-04",
+   "description": "Parliament's Public Accounts Committee warned on 4 November 2026 that continued delay to the restoration of the Palace of Westminster -- a UNESCO World Heritage site, parts of which are more than 900 years old -- risks a 'catastrophic failure' that would harm the UK's 'morale and reputation,' Euronews reported. Committee chair Geoffrey Clifton-Brown cited crumbling masonry, ageing electrics, frequent leaks and high asbestos levels, and warned of a Notre-Dame-style fire with possible loss of life. MPs voted in 2018 to leave the building for extensive repairs but have since disagreed on how to proceed; both houses are expected to hold a series of votes later in 2026 on the scope of works. A full decant is costed at up to GBP15.6bn over as much as 24 years, while a partial-decant option is projected at GBP39bn over up to 61 years. Each year of delay adds GBP420m to the programme's lifetime cost, and work is currently not scheduled to start until 2032.",
+   "outcome": "The committee called for a detailed Phase One delivery schedule and a dedicated select committee to scrutinise the programme. [FOLLOW-UP PENDING: the votes expected later in 2026 on the scope of the restoration and whether a full or partial decant proceeds.]",
+   "tags": [
+    "Historic preservation",
+    "UNESCO World Heritage Site"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Euronews"
+   ],
+   "source": "https://www.euronews.com/2026/11/04/uk-parliament-risks-catastrophic-failure-after-renovation-delay",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "[FOLLOW-UP PENDING: 2026 votes on restoration scope and the decant decision.] Threat-of-destruction / managed-decline dispute over a UNESCO World Heritage Site; logged under Historic preservation per CLAUDE.md s7 (a threat of destruction -> Historic preservation + follow-up). The dispute is the political disagreement delaying the Restoration and Renewal programme, not a natural event.",
+   "interested_parties": "UK Public Accounts Committee (chair Geoffrey Clifton-Brown MP); Houses of Parliament; Restoration and Renewal Programme",
+   "coverage_geography": "UK, Europe",
    "follow_up_pending": true
   }
  ]
