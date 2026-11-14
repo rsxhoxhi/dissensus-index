@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 732
  },
  "cases": [
   {
@@ -23916,6 +23916,71 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-468",
+   "entry_id": "468",
+   "seq": 771,
+   "title": "Heirs challenge Sotheby's $180m sale of van Gogh's 'Blossoming Chestnut Trees' over Nazi-era claim",
+   "artist": "Vincent van Gogh",
+   "institution": "Sotheby's",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 13 November 2026 (The New York Times)",
+   "date_discovered": "2026-11-14",
+   "sort_date": "2026-11-13",
+   "description": "The New York Times reported on 13 November 2026 that heirs of a Jewish family have challenged the sale at Sotheby's of Vincent van Gogh's painting Blossoming Chestnut Trees, valued at about $180 million, arguing that the work had been sold under duress during the Nazi era. According to the report, by Catherine Hickley, Sotheby's said it was committed to working toward a mutually satisfactory resolution. The identity and basis of the claimant heirs, the consignor, the painting's provenance and version, the status of the sale, and the jurisdiction of any claim were not established from the single metadata-level source retrieved this run.",
+   "outcome": "As reported by The New York Times on 13 November 2026, the heirs' challenge was unresolved, with Sotheby's saying it was committed to working toward a mutually satisfactory resolution. [FOLLOW-UP PENDING: the identity and basis of the heirs' claim, the status of the Sotheby's sale, and any settlement or litigation.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge",
+    "Provenance dispute"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "International",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html",
+   "themes": [
+    12
+   ],
+   "notes": "New parent. Thin metadata entry drafted from a single New York Times metadata-level (API abstract) retrieval this run; NYT full text is paywalled and was not retrieved, and no corroborating outlet was reachable in this run's searches. Flagged for two-pass enrichment: confirm the claimant heirs, the consignor, the painting version and provenance, the status of the sale, and the jurisdiction/venue. Country set to United States on the basis that Sotheby's mid-November flagship evening sales are held in New York; to be confirmed on enrichment. Distinct from ACI-209 (Van Gogh 'Saint-Paul Hospital' restitution claim) and ACI-398 (Pissarro Sotheby's Nazi-loot case). Reported by Catherine Hickley, NYT, 13 Nov 2026.",
+   "interested_parties": "Sotheby's; heirs of a Jewish family (unnamed in the source); Catherine Hickley (reporter)",
+   "coverage_geography": "US",
+   "follow_up_pending": true,
+   "additional_sources": []
+  },
+  {
+   "id": "ACI-469",
+   "entry_id": "469",
+   "seq": 772,
+   "title": "Chau Chak Wing Museum staff petition against University of Sydney restructuring cutting eight posts",
+   "artist": "N/A",
+   "institution": "Chau Chak Wing Museum, University of Sydney",
+   "country": "Australia",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 12 November 2026 (The Art Newspaper); formal consultation began July 2026",
+   "date_discovered": "2026-11-14",
+   "sort_date": "2026-11-12",
+   "description": "The Art Newspaper reported on 12 November 2026 that the University of Sydney's proposed restructuring of its Chau Chak Wing Museum would cut about eight positions across the curatorial, collections and public-engagement teams and would remove the head-of-collections role. According to the report, by Elizabeth Fortescue, a petition circulating in the Australian cultural sector opposes the plan, which critics describe as top-heavy — three executive-level directors in an organisation of around 30 staff — and which they say would shift the museum's emphasis toward business and public engagement at the expense of curatorial research and collection care. The Art Newspaper reported that affected staff include the senior art curator Ann Stephen, whose role is under threat, and the archaeologist Craig Barker, head of public engagement, whose role would be retitled; that the process is a spill-and-fill requiring employees to reapply for their jobs; and that John Buchanan, the University of Sydney branch president of the National Tertiary Education Union, said staff are strongly unionised and would fight the changes. The university said the changes aim to strengthen the museum's educational and exhibition programme and create a more sustainable staffing structure, that the overall number of full-time-equivalent roles would be unchanged, and that formal consultation began in July with feedback and alternatives welcome. The museum, which opened in 2020 and combines the university's antiquities, natural-history and art collections, is directed by Michael Dagostino, curator of the Australian pavilion at the 2026 Venice Biennale.",
+   "outcome": "As reported by The Art Newspaper on 12 November 2026, the restructuring was at the formal-consultation stage, with staff and union opposition and a sector petition under way; no final decision had been reported. [FOLLOW-UP PENDING: whether the restructuring and the eight job cuts proceed, the outcome of the petition and union opposition, and any change to the museum's curatorial and collections structure.]",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/12/staff-petition-against-major-restructuring-plans-at-sydneys-chau-chak-wing-museum",
+   "themes": [],
+   "notes": "New parent. Labor and institutional-capacity dispute at a university museum. Drafted narrowly from The Art Newspaper's full-text report (12 Nov 2026, Elizabeth Fortescue), the only outlet retrieved this run; single-outlet so far, flagged for enrichment with Australian-sector sources (NTEU, Sydney press). Reported speech throughout per the draft-narrowly standard even though the source was read in full.",
+   "interested_parties": "University of Sydney; Chau Chak Wing Museum; Michael Dagostino (director); Ann Stephen (senior art curator); Craig Barker (head of public engagement); John Buchanan (NTEU University of Sydney branch president); National Tertiary Education Union",
+   "coverage_geography": "Australia, UK, international",
+   "follow_up_pending": true,
+   "additional_sources": []
   }
  ]
 }
