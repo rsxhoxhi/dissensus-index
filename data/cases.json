@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 732
  },
  "cases": [
   {
@@ -23915,6 +23915,73 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-436-A",
+   "entry_id": "436-A",
+   "seq": 771,
+   "title": "East Potomac Park: judge blocks immediate closure for Trump golf redevelopment",
+   "artist": "N/A",
+   "institution": "East Potomac Park / East Potomac Golf Links, Washington DC; National Park Service; Department of the Interior",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Ruling reported 14 November 2026 (planned closure had been set for 15 November 2026)",
+   "date_discovered": "2026-11-15",
+   "sort_date": "2026-11-14",
+   "description": "A federal judge blocked the Trump administration from immediately closing East Potomac Park for a planned golf-course redevelopment, The New York Times reported on November 14, 2026. The administration had intended to shut the public park on November 15 for a renovation the parent entry records as a roughly 15-month closure tied to a championship-level golf course. According to the Times, US District Judge Ana C. Reyes, who has been overseeing what it described as combative litigation over the project, ruled that the administration would not be responsible for operating the course while the case proceeds.",
+   "outcome": "The immediate closure is blocked and the underlying litigation continues. [FOLLOW-UP PENDING: the court's further rulings, any administration appeal, and whether the planned closure and golf-course redevelopment ultimately proceed.]",
+   "tags": [
+    "Historic preservation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "The New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html",
+   "additional_sources": [],
+   "themes": [
+    9
+   ],
+   "notes": "Sub-entry of ACI-436 (East Potomac Park golf-course redevelopment). As of this run the parent ACI-436 is in an unmerged daily-scan branch (claude/daily-2026-10-19), so this sub-entry must merge after it and its parent number be reconciled to ACI-436's final ID at finalize_ids. Supersedes the parent's [FOLLOW-UP PENDING] naming the 19 October 2026 hearing. Thin entry drafted from NYT metadata (API abstract; article body paywalled/unretrievable this run) per the metadata-grade sourcing allowance; no quotations. Part of the Trump-era monumental-core/parkland cluster (cf. ACI-038, ACI-046, ACI-050).",
+   "interested_parties": "Judge Ana C. Reyes (US District Court, DC); Trump administration; Department of the Interior; National Park Service; DC Preservation League (plaintiff, per parent)",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-420-A",
+   "entry_id": "420-A",
+   "seq": 772,
+   "title": "MoMA/Leon Black: protesters urge Spielberg to reject film-center honor over Epstein ties",
+   "artist": "N/A",
+   "institution": "Museum of Modern Art (MoMA), New York",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "12 November 2026",
+   "date_discovered": "2026-11-15",
+   "sort_date": "2026-11-12",
+   "description": "About 20 protesters gathered outside the Museum of Modern Art in New York on November 12, 2026, as the museum held its annual benefit for the Debra and Leon Black Family Film Center, an event honoring the filmmaker Steven Spielberg, Hyperallergic reported. The feminist campaign group UltraViolet sent Spielberg a letter, written by its campaign director Elisa Batista, urging him to boycott the museum until it severs ties with the board trustee Leon Black and renames the film center; the letter read, “Mr. Spielberg, you do NOT want your legacy connected to accused abuser and Epstein associate Leon Black.” According to Hyperallergic, Black stepped down as MoMA’s board chairman in 2021 but remains a trustee, and the film center was created in 2019 following a $40 million gift from him; he faces three sexual-assault or misconduct accusations, which he denies, the most recent of which was dismissed with prejudice in October 2026. The playwright Gracie Gardner entered the museum and chanted before being detained by security, issued a lifetime no-trespass order, and released. UltraViolet said it had not received a response from Spielberg’s representatives, and MoMA did not respond to Hyperallergic’s request for comment.",
+   "outcome": "Spielberg had not publicly responded as of the November 12 benefit, and Black remained a MoMA trustee. [FOLLOW-UP PENDING: any response from Spielberg or MoMA, and whether the campaign to remove Black or rename the film center advances.]",
+   "tags": [
+    "Protest",
+    "Boycott",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/protesters-urge-steven-spielberg-to-boycott-moma-over-leon-blacks-epstein-ties/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "Sub-entry of ACI-420 (campaign to remove MoMA trustee Leon Black over Epstein ties). As of this run the parent ACI-420 is in an unmerged daily-scan branch (claude/daily-2026-10-07), so this sub-entry must merge after it and its parent number be reconciled to ACI-420's final ID at finalize_ids. Drafted from Hyperallergic (full text; the single quoted line is verbatim from the UltraViolet letter as carried by Hyperallergic). Describe-don't-judge: the abuse/Epstein allegations are attributed to the campaign and to Hyperallergic's reporting, not asserted in the Index's voice. Cross-ref ACI-109 (Wexner Center union demand to rename over Epstein ties).",
+   "interested_parties": "Steven Spielberg (honoree); Leon Black (MoMA trustee); UltraViolet / Elisa Batista (campaign); Gracie Gardner (playwright); Museum of Modern Art",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
