@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 731
  },
  "cases": [
   {
@@ -23916,6 +23916,40 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-470",
+   "entry_id": "470",
+   "seq": 771,
+   "title": "Sotheby's $180m Van Gogh 'Châtaigniers en fleurs' faces Nazi-era forced-sale claim before auction",
+   "artist": "Vincent van Gogh",
+   "institution": "Sotheby's (New York)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "2026-11-14 (heirs' demand made public; The New York Times, The Times of Israel)",
+   "date_discovered": "2026-11-16",
+   "sort_date": "2026-11-14",
+   "description": "Heirs of the Fischer family have asked Sotheby's to withdraw Vincent van Gogh's 'Châtaigniers en fleurs' ('Blossoming Chestnut Trees', 1890) from a New York sale, arguing the work left their family under Nazi-era duress, The Times of Israel reported, relaying New York Times reporting. The painting carries an estimate of about $180 million -- the highest on any work in the season's major auctions and a level that would surpass the auction record for a Van Gogh -- and Sotheby's has guaranteed it, assuring the consignors a minimum price; the current owners are Argentine collectors who acquired it in 1975. According to The Times of Israel, Samuel Fischer, the German-Jewish publisher who founded S. Fischer Verlag, bought the painting from a Paris gallery in 1909; after his death in 1934 his son-in-law Gottfried Bermann Fischer ran the publishing house. In 1936 the family deposited the work with the art dealer Walter Feilchenfeldt, who sold it to a Paris collector; the heirs say the sale was driven by Nazi persecution, citing restrictions on what Jews could take when leaving Germany and the 'Reich flight tax'. The heirs' lawyer, Gunnar Schnabel, wrote in a November 12 email to Sotheby's -- seen by the New York Times, per The Times of Israel -- that the house must prove the 1936 sale was at market value and would have taken place absent Nazi-era pressure; otherwise, he wrote, \"no auction may take place.\" The heirs said they are prepared to seek a solution under the non-binding 1998 Washington Principles on Nazi-looted art. Sotheby's said its research \"has not established that the painting was sold under duress\" and that it is committed to working toward a \"mutually satisfactory resolution,\" The Times of Israel reported; the house had not said whether the work would remain in the sale.",
+   "outcome": "The sale was scheduled for November 18, 2026; as of the November 14 reporting Sotheby's had not said whether the painting would be withdrawn, and no litigation had been filed. [FOLLOW-UP PENDING: whether the work is withdrawn or sold on November 18, and any settlement, restitution, or lawsuit that follows.]",
+   "tags": "Repatriation, Financialization, Provenance dispute",
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The New York Times",
+    "The Times of Israel"
+   ],
+   "source": "https://www.timesofisrael.com/jewish-heirs-seek-to-halt-180-million-van-gogh-auction-over-alleged-nazi-era-forced-sale/",
+   "themes": [
+    10,
+    12
+   ],
+   "notes": "New parent. Nazi-era restitution/forced-sale dispute surfacing at auction; a pre-sale demand under the Washington Principles, not (yet) a filed suit. Cf. ACI-398 (Pissarro withdrawn from a Sotheby's sale on a French court order), ACI-466 (Slevogt restitution), ACI-209 (Van Gogh restitution claim at the Musee d'Orsay). Drafted narrowly from The Times of Israel's full-text report, which relays New York Times reporting; the NYT article is linked in additional_sources (metadata retrieved via the NYT API this run). ARTnews also reported the story but could not be retrieved this run (automated fetch blocked), so it is not cited. [FOLLOW-UP PENDING: November 18 auction outcome.]",
+   "interested_parties": "Fischer family heirs (descendants of Samuel Fischer / Gottfried Bermann Fischer); Gunnar Schnabel (heirs' lawyer); Marco Toracca (Sotheby's head of restitution); Sotheby's; Walter Feilchenfeldt (1936 dealer, historical)",
+   "coverage_geography": "US, Germany, Israel, UK",
+   "follow_up_pending": true,
+   "additional_sources": [
+    "https://www.nytimes.com/2026/11/15/arts/design/sothebys-van-gogh-auction-art-nazi.html"
+   ]
   }
  ]
 }
