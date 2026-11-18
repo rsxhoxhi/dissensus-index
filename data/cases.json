@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 733
  },
  "cases": [
   {
@@ -23915,6 +23915,116 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-468-A",
+   "entry_id": "468-A",
+   "seq": 802,
+   "title": "Sotheby's $180m Van Gogh: sellers and Fischer heirs settle Nazi-era claim before auction",
+   "artist": "Vincent van Gogh",
+   "institution": "Sotheby's (New York)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Settlement announced 17 November 2026; auction 18 November 2026",
+   "date_discovered": "2026-11-18",
+   "sort_date": "2026-11-17",
+   "description": "On 17 November 2026, Sotheby's announced that a settlement had been reached over the sale of Vincent van Gogh's 'Blossoming Chestnut Trees' ('Châtaigniers en fleurs', May 1890), after heirs of its Jewish former owners had sought the work's withdrawal from the 18 November New York auction, The Art Newspaper reported. Sotheby's said 'an agreement has been reached between the Blaquier-Arrieta family and all of the legal descendants' of Hedwig and Samuel Fischer, the Berlin publishers who acquired the work in 1909, and that the sale would proceed as planned. According to The Art Newspaper, restitution researcher Gunnar Schnabel had written to Sotheby's on 12 November on the heirs' behalf, questioning a 1936 sale that took place three months after the family left Berlin for Vienna and asking the house to prove the sale was at market value and not forced; the painting had been consigned by the Blaquier-Arrieta family of Argentina, who bought it in 1975, and carried an estimate of about $180m ($207m with fees). Sotheby's cited 'the painting's complex Nazi-era history and the suffering endured by the Fischer family during the Holocaust.' The Fischer heirs said they were 'grateful for the trusting and fair negotiation and collaboration with Sotheby's,' and the Blaquier-Arrieta family said they were 'pleased to have reached an amicable resolution with the Fischer heirs.' The Art Newspaper reported that the settlement terms, including any financial compensation, were not disclosed.",
+   "outcome": "A settlement was announced on 17 November 2026 and the painting was due to be offered at Sotheby's on 18 November 2026; the terms were not disclosed. [FOLLOW-UP PENDING: the 18 November auction result.]",
+   "tags": [
+    "Repatriation",
+    "Financialization",
+    "Provenance dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper",
+    "The New York Times"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/11/17/arts/design/van-gogh-jewish-heirs-nazi-chestnut-trees-sothebys.html"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "Sub-entry of ACI-468; resolves the pending restitution claim flagged at ACI-468 and ACI-470 (duplicate parents for the same painting, the $180m 'Blossoming Chestnut Trees'). NOTE FOR MERGE: parent ACI-468 lives in the unmerged 2026-11-13 daily PR, not in this branch's base (origin/main tops out at ACI-411) — at integration, position this sub-entry after ACI-468, clear ACI-468's [FOLLOW-UP PENDING] flag, and reconcile the ACI-468/ACI-470 duplication. Drafted from The Art Newspaper (full text; quotes verified verbatim); the NYT settlement report (additional_sources, metadata grade) corroborates.",
+   "interested_parties": "Sotheby's; Blaquier-Arrieta family (Argentina, consignors); Fischer heirs (descendants of Hedwig and Samuel Fischer; Gisela Berman Fischer); Gunnar Schnabel (restitution researcher)",
+   "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-474",
+   "entry_id": "474",
+   "seq": 803,
+   "title": "Christie's withdraws Frida Kahlo's 'Congreso de los pueblos por la paz' after patrimony claim",
+   "artist": "Frida Kahlo",
+   "institution": "Christie's (New York)",
+   "country": "Mexico",
+   "governance_type": "Democracy",
+   "date_controversy": "Denounced 16 November 2026; withdrawn 17 November 2026",
+   "date_discovered": "2026-11-18",
+   "sort_date": "2026-11-17",
+   "description": "The collective Defendamos la Colección Gelman denounced on 16 November 2026 that Christie's was due to auction Frida Kahlo's 'Congreso de los pueblos por la paz' (oil on masonite, 1952) in New York on 17 November 2026, with an estimate of US$2–3.5 million, Uno TV reported. According to Uno TV, the collective said the work had presumably been stolen from the Casa Azul, passing to a New York gallerist, then to auction and finally into private hands, and argued that it formed part of the patrimony Diego Rivera left to the people of Mexico in 1957 and so could not be put up for sale; it cited an inventory, documented by former Casa Azul and Diego Rivera Anahuacalli museums director Hilda Trujillo, stating that the objects could not leave the premises. INBAL (Mexico's Instituto Nacional de Bellas Artes y Literatura) responded that the painting, made in 1952 and donated by Kahlo herself to the Congreso de la Paz, left Mexico roughly three decades before the 25 July 1984 decree that declared her work an artistic monument, and that the definitive export prohibition applies to works present in national territory when the decree was published; INBAL said it had asked Christie's, through its legal area, for documentation establishing the work's provenance and ownership. The New York Times reported on 17 November 2026 that Christie's withdrew the work after accusations that several of Kahlo's paintings had gone missing from the Casa Azul house-museum in Mexico City.",
+   "outcome": "Christie's withdrew the painting on 17 November 2026, per The New York Times; INBAL's request to Christie's for provenance documentation was outstanding. [FOLLOW-UP PENDING: whether the work is re-offered or returned, the outcome of the provenance review, and any Mexican recovery action.]",
+   "tags": [
+    "Repatriation",
+    "Provenance dispute",
+    "Community objection"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Uno TV",
+    "The New York Times"
+   ],
+   "source": "https://www.unotv.com/cultura/colectivo-denuncia-subasta-de-pintura-de-frida-kahlo-presuntamente-robada-de-la-casa-azul-inbal-responde/",
+   "additional_sources": [
+    "https://www.nytimes.com/2026/11/17/arts/design/frida-kahlo-painting-auction-christies.html"
+   ],
+   "themes": [
+    10,
+    12
+   ],
+   "notes": "New parent, provisional ID. Cross-ref ACI-216 / ACI-216-A (Gelman Collection), raised by the same collective, Defendamos la Colección Gelman — but a different work and provenance (Gelman Collection vs. alleged Casa Azul patrimony), so logged as a distinct parent; flagged for review as a possible sub-entry of the Gelman thread. The withdrawal fact is NYT metadata-grade (API abstract; snippet_only); the collective/INBAL detail and the painting data are from Uno TV (full text, Spanish), rendered as reported speech.",
+   "interested_parties": "Defendamos la Colección Gelman (collective); Hilda Trujillo (former Casa Azul/Anahuacalli museums director); INBAL; Christie's; Congreso de la Paz (original donee)",
+   "coverage_geography": "Mexico, US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-475",
+   "entry_id": "475",
+   "seq": 804,
+   "title": "Harvard's Peabody Museum returns remains of two enslaved people to Brazil",
+   "artist": "N/A",
+   "institution": "Peabody Museum of Archaeology and Ethnology, Harvard University",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Rio de Janeiro repatriation ceremony 11 November 2026",
+   "date_discovered": "2026-11-18",
+   "sort_date": "2026-11-11",
+   "description": "Harvard's Peabody Museum of Archaeology and Ethnology in Cambridge, Massachusetts returned the remains of a man and a woman, both of African descent and thought to have been enslaved, to Brazil in November 2026, The Art Newspaper reported. The woman's skull, held at the Peabody since 1870 after transfer from Harvard's Museum of Comparative Zoology, was obtained by Walter Hunnewell, a Harvard graduate who photographed Louis Agassiz's 1865–66 expedition to Brazil; museum records describe it as the 'skull of a negro' and note it was 'exhumed in the streets of Rio de Janeiro,' and it may have come from the Cemitério dos Pretos Novos, a burial ground for enslaved Africans who died after arriving in Brazil. The man was an enslaved African of Nagô origin believed to have taken part in the Malê Revolt in Salvador in January 1835, who died in hospital after being wounded. The returns followed a Harvard initiative launched in 2019 to review records of individuals of African descent from Brazil and the Caribbean. At a Rio de Janeiro ceremony on 11 November, the woman's skull was received by the Museu Nacional/UFRJ — which will hold it in temporary custody, not displayed or reproduced, while researchers study her origins — and the man's remains went to the Federal University of Bahia in Salvador. Juliana Sayão, deputy director of the Museu Nacional/UFRJ, said the return represented 'a historical responsibility for the museum,' and Brazil's minister of human rights and citizenship, Janine Mello, called the repatriation 'a fundamental step towards recognising the memory, history and dignity of the Black population.' The Art Newspaper reported no formal dispute or legal claim, and noted a 2022 report documenting thousands of human remains in Harvard's collections.",
+   "outcome": "The remains were repatriated to Brazilian institutions at ceremonies in November 2026. [FOLLOW-UP PENDING: the study of the woman's origins and the decision on the final destination of her remains.]",
+   "tags": [
+    "Repatriation",
+    "Human remains",
+    "Colonial legacy"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/17/harvard-museum-returns-human-remains-brazil",
+   "additional_sources": [],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "New parent, provisional ID. Repatriation cluster anchor (non-controversy; CLAUDE.md §7). Cross-ref ACI-015 (European human-remains collections / colonial repatriation), ACI-230 (AMNH NAGPRA), ACI-379 (Pitt Rivers Naga remains). The man's remains connect to the 1835 Malê Revolt in Salvador. Drafted from The Art Newspaper (full text; quotes verified verbatim).",
+   "interested_parties": "Peabody Museum (Harvard University); Museu Nacional/UFRJ (Juliana Sayão, deputy director); Federal University of Bahia; Janine Mello (Brazil minister of human rights and citizenship)",
+   "coverage_geography": "US, Brazil",
    "follow_up_pending": true
   }
  ]
