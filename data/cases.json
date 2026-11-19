@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 736
  },
  "cases": [
   {
@@ -16940,7 +16940,7 @@
    "date_discovered": "2026-09-06",
    "sort_date": "2026-09-05",
    "description": "Vietnam War veterans and an architectural historian asked a federal judge for an emergency order to block excavation for the proposed roughly 250-foot triumphal arch at Memorial Circle after an administration official announced work would begin, according to The Washington Post and NPR. In response, the Justice Department told the court that the imminent work is an archaeological survey rather than construction, according to The New York Times and NPR. NPR reports that the survey entails digging four test pits scheduled no earlier than September 21, that administration lawyers characterized it as standard predecisional information-gathering for compliance with the National Historic Preservation Act, and that the judge directed the administration to give 48 hours' notice before any activity at Memorial Circle beyond on-site information gathering.",
-   "outcome": "The emergency motion is pending; the administration says survey excavation would begin no earlier than September 21, and the court has required 48 hours' notice before other activity at Memorial Circle. Final NCPC approval and, opponents argue, congressional authorization remain outstanding. [FOLLOW-UP PENDING: the court's ruling on the emergency motion and whether excavation begins on or after September 21.]",
+   "outcome": "The emergency motion was addressed by the court: on 4 September 2026 the judge required 48 hours' notice before site work other than the archaeological survey (ACI-038-T), and the administration said survey excavation would begin no earlier than September 21. Final NCPC approval and, opponents argue, congressional authorization remained outstanding at the time; later developments are tracked at ACI-038-R and ACI-038-S.",
    "tags": [
     "Design controversy",
     "Legal challenge",
@@ -16967,7 +16967,7 @@
    "notes": "Sub-entry of ACI-038. Follows ACI-038-P (Interior Secretary Burgum's September 3 announcement that excavation would begin within two weeks). Source attribution corrected on maintainer review: the archaeological-survey / four-test-pits detail is NPR's reporting, not the New York Times'.",
    "interested_parties": "Vietnam War veteran plaintiffs; an architectural historian; US Department of Justice; National Park Service; Interior Secretary Doug Burgum",
    "coverage_geography": "US, UK, Europe, global",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-038-R",
@@ -17046,6 +17046,43 @@
    "interested_parties": "President Trump; Interior Secretary Doug Burgum; Rep. Don Beyer; Vietnam veterans plaintiffs (see ACI-038-R)",
    "coverage_geography": "US, Europe",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-038-T",
+   "entry_id": "038-T",
+   "seq": 806,
+   "title": "Trump Triumphal Arch: judge requires 48 hours' notice before site work, exempting artifact survey",
+   "artist": "N/A",
+   "institution": "Memorial Circle, Arlington Memorial Bridge approach, Washington DC",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Order issued 4 September 2026",
+   "date_discovered": "2026-11-19",
+   "sort_date": "2026-09-04",
+   "description": "U.S. District Judge Tanya Chutkan on 4 September 2026 ordered the Trump administration to give at least 48 hours' notice before engaging in any activity on the site of the proposed roughly 250-foot arch near Arlington National Cemetery, with an exception for efforts to gather information on archaeological resources beneath the site as required under the National Historic Preservation Act, Reuters reported. The ruling came a day after Interior Secretary Doug Burgum announced work would start soon, and in response to a request for a temporary restraining order from lawyers for three military veterans and an architectural historian (see ACI-038-Q), who said the administration has \"no legal basis for the construction work.\" The government told the court the planned excavation was \"not construction, or demolition in preparation for construction, of an arch,\" but four test pits to assess whether artifacts or cultural materials are present, starting on or after 21 September and with the site restored by 31 October.",
+   "outcome": "Site activity other than the archaeological survey requires 48 hours' notice to the court. Later developments in the arch's federal approvals and the excavation litigation are tracked at ACI-038-R and ACI-038-S.",
+   "tags": [
+    "Design controversy",
+    "Legal challenge",
+    "Landmark dispute",
+    "Architectural preservation"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Reuters"
+   ],
+   "source": "https://www.spokesman.com/stories/2026/sep/04/judge-reinforces-order-barring-immediate-work-on-t/",
+   "additional_sources": [],
+   "themes": [
+    1,
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-038; resolves the pending ruling flagged at ACI-038-Q. Queued backfill (drafted 2026-09-28), inserted and re-verified this run. Drafted from Reuters (David Shepardson, 4 Sep 2026) as carried verbatim by the Spokesman-Review (full text; quotes verified verbatim); spokesman.com is mapped to Reuters in check_provenance as a wire carrier. Primary record for later enrichment: the order in Lemmon v. Trump, 1:26-cv-00544 (D.D.C.), CourtListener docket 72301112.",
+   "interested_parties": "Judge Tanya Chutkan; Michael Lemmon, Shaun Byrnes, Jon Gundersen (veterans); Calder Loth (architectural historian); Interior Secretary Doug Burgum; Justice Department",
+   "coverage_geography": "US",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-007-F",
@@ -22570,7 +22607,7 @@
    "date_discovered": "2026-09-08",
    "sort_date": "2026-09-08",
    "description": "Greece's Central Archaeological Council rejected, on September 8, 2026, a request from Frankfurt's Liebieghaus Sculpture Collection to borrow nine fragments of the Parthenon sculptures from Athens for the exhibition 'Athena, the Stage is Yours: the Parthenon Puzzle,' which opens on November 18, 2026, according to The Art Newspaper. The Art Newspaper reports that the council refused the loan because the Greek-held fragments would have been displayed alongside two Parthenon fragments the Liebieghaus had secured on loan from the British Museum — pieces removed from the Acropolis by Lord Elgin in the 19th century — and that showing them together risked being read as tacit recognition of British ownership, which Greece contests as it seeks the sculptures' reunification in Athens. A Liebieghaus spokesperson, Elisabeth Pallentin, said 'The cancellation of the loans from Greece does not detract from the exhibition's concept, or its scholarly significance,' and the curator Vinzenz Brinkmann likened the project to 'putting together a jigsaw puzzle without having all the pieces,' per The Art Newspaper, which reports the British Museum said it would still lend its fragments.",
-   "outcome": "Greece declined the loan; the Liebieghaus exhibition is set to proceed with British Museum loans but without the Athens fragments. The underlying reunification dispute over the Parthenon sculptures remains unresolved. [FOLLOW-UP PENDING: the exhibition's November 18 opening and any further Greek, German, or British response.]",
+   "outcome": "Greece declined the loan; the exhibition proceeded with British Museum loans. Update: the show 'Athena, the Stage is Yours: the Parthenon Puzzle' opened on 18 November 2026 at the Liebieghaus with British Museum loans and a reconstructed east pediment, without the Athens fragments (ACI-380-A). The underlying reunification dispute over the Parthenon sculptures remains unresolved.",
    "tags": [
     "Repatriation",
     "Geopolitics"
@@ -22589,7 +22626,41 @@
    "notes": "Connects to the Index's Parthenon Marbles thread (see ACI-361; ACI-117-A) — universal-museum standing and the Greek reunification claim.",
    "interested_parties": "Greek Central Archaeological Council; Acropolis Museum; Liebieghaus Sculpture Collection (Elisabeth Pallentin; Vinzenz Brinkmann); British Museum",
    "coverage_geography": "Greece, Germany, UK, international",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-380-A",
+   "entry_id": "380-A",
+   "seq": 805,
+   "title": "Parthenon Puzzle: Frankfurt's Liebieghaus opens reconstructed east pediment without Greek loans",
+   "artist": "N/A",
+   "institution": "Liebieghaus Sculpture Collection, Frankfurt",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "Exhibition opened 18 November 2026",
+   "date_discovered": "2026-11-19",
+   "sort_date": "2026-11-17",
+   "description": "The exhibition 'Athena, the Stage is Yours: the Parthenon Puzzle' opened on 18 November 2026 at the Liebieghaus Sculpture Collection in Frankfurt and runs to 25 July 2027, reconstructing the Parthenon's east pediment, about 80% of which is missing, The Art Newspaper reported. Greece had withdrawn a loan of nine marble fragments from the Acropolis Museum; Greek media reported that the country's Central Archaeological Council rejected the request because the fragments would be shown alongside British Museum pieces removed by Lord Elgin (see ACI-380). The British Museum agreed to loan two fragments, and after Greece withdrew a spokesperson confirmed the museum 'will still be loaning.' The reconstruction instead drew on new research, scans and 3D printing, and on nine Roman sarcophagus lids, most held in the Vatican Museums, whose reliefs the team reports as a '100% match' for the pediment's composition. Liebieghaus spokesperson Elisabeth Pallentin said 'The cancellation of the loans from Greece does not detract from the exhibition's concept, or its scholarly significance,' and the collection's head of antiquities Vinzenz Brinkmann likened the work to 'putting together a jigsaw puzzle without having all the pieces,' calling the east pediment probably 'the most famous image of antiquity.' The Greek culture ministry did not respond to The Art Newspaper's request for comment.",
+   "outcome": "The exhibition opened as planned with British Museum loans and a reconstructed east pediment, without the Athens fragments; the underlying Parthenon reunification dispute remains unresolved.",
+   "tags": [
+    "Repatriation",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/17/parthenon-east-pediment-recreated-in-frankfurt-exhibition",
+   "additional_sources": [],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "Sub-entry of ACI-380; resolves the parent's pending flag on the 18 November 2026 opening. The show proceeded via reconstruction (3D scans/printing and nine Roman sarcophagus lids reported as a '100% match') after Greece's Central Archaeological Council declined the Acropolis Museum loan over display alongside British Museum pieces. Connects to the Parthenon Marbles thread (ACI-361; ACI-404; ACI-117-A).",
+   "interested_parties": "Liebieghaus Sculpture Collection (Vinzenz Brinkmann; Elisabeth Pallentin); British Museum; Greek Central Archaeological Council; Greek culture ministry",
+   "coverage_geography": "Germany, Greece, UK",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-381",
@@ -23915,6 +23986,138 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-468-B",
+   "entry_id": "468-B",
+   "seq": 807,
+   "title": "Van Gogh's 'Blossoming Chestnut Trees' sells for record $190.4m at Sotheby's after Nazi-loot settlement",
+   "artist": "Vincent van Gogh",
+   "institution": "Sotheby's",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Sold 18 November 2026",
+   "date_discovered": "2026-11-19",
+   "sort_date": "2026-11-18",
+   "description": "Vincent van Gogh's 'Blossoming Chestnut Trees (Chataigniers en fleurs)' (1890) sold at Sotheby's New York on 18 November 2026 for $165m at the hammer, or $190.4m with fees, setting a new auction record for the artist and surpassing the $117m (with fees) paid in 2022 for 'Orchard with Cypresses,' The Art Newspaper reported. The work was estimated at about $180m and had been guaranteed by Sotheby's; it went after nearly five minutes of bidding to William Acquavella of Acquavella Galleries, bidding in the room. It was consigned from the Blaquier-Arrieta collection built by the Argentine sugar-industry family of Nelly Arrieta de Blaquier and Carlos Pedro Blaquier. The sale followed questions about the work's Nazi-era provenance: one day before the auction, Sotheby's announced that a settlement had been reached between the Blaquier heirs and the heirs of the painting's previous owners, Hedwig and Samuel Fischer. The terms were not disclosed.",
+   "outcome": "The painting sold at a record price after the undisclosed pre-sale settlement with the Fischer heirs.",
+   "tags": [
+    "Repatriation",
+    "Financialization"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/19/van-gogh-painting-sells-for-record-7778m-after-nazi-loot-claims",
+   "additional_sources": [],
+   "themes": [
+    10,
+    12
+   ],
+   "notes": "Sub-entry of the Sotheby's $180m Van Gogh thread (parent ACI-468; see also duplicate parent ACI-470, flagged for merge). Resolves the pending 18 November 2026 auction result flagged at ACI-468-A (the pre-sale settlement). NOTE FOR MERGE: parents ACI-468/ACI-470 and ACI-468-A live in open sibling PRs; their follow_up_pending flags should be cleared when this entry merges. Settlement terms undisclosed; buyer William Acquavella (Acquavella Galleries).",
+   "interested_parties": "Sotheby's; Blaquier/Arrieta heirs (sellers); heirs of Hedwig and Samuel Fischer; William Acquavella (Acquavella Galleries, buyer)",
+   "coverage_geography": "US, UK, Europe",
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-476",
+   "entry_id": "476",
+   "seq": 808,
+   "title": "Eleanor Antin sues dealer Richard Saltoun over 179 works she says were never returned",
+   "artist": "Eleanor Antin",
+   "institution": "Richard Saltoun Gallery",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Complaint filed 29 July 2026",
+   "date_discovered": "2026-11-19",
+   "sort_date": "2026-07-29",
+   "description": "Conceptual artist Eleanor Antin, 91 — through her son and attorney-in-fact Blaise Antin and her studio, Paranoid Productions — sued the dealer Richard Saltoun and the Richard Saltoun Gallery, which has locations in New York, London and Rome, in New York State Supreme Court, Hyperallergic reported. The complaint, filed on 29 July, seeks the return of at least 179 works or $975,000 in compensatory damages. It says that when the artist ended her relationship with the gallery at its London premises on 16 January, Saltoun 'initially purported to agree to return all of the works it held,' and that in February the gallery said in filed documents it had returned all of Antin's works to her family. The artist's archivist, using an inventory the gallery produced, then allegedly found that at least 179 works were still missing, most of them held at the London gallery. Hyperallergic reports the gallery's stated position that all works had been returned, and no other response from Saltoun.",
+   "outcome": "The complaint has been filed; Hyperallergic reports no ruling or settlement. [FOLLOW-UP PENDING: the gallery's response and any ruling or settlement in the New York suit.]",
+   "tags": [
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/eleanor-antin-sues-dealer-for-withholding-nearly-200-works/",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "New parent. Single-source entry drafted from Hyperallergic (Phillip Pyle, 18 November 2026) reporting a complaint filed 29 July 2026 in New York State Supreme Court; parent anchored to the July filing per backfill-dating. The quoted phrase 'initially purported to agree to return all of the works it held' is from the complaint as quoted by Hyperallergic.",
+   "interested_parties": "Eleanor Antin; Blaise Antin (son, attorney-in-fact); Paranoid Productions (studio); Richard Saltoun; Richard Saltoun Gallery",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-477",
+   "entry_id": "477",
+   "seq": 809,
+   "title": "Miami collective Artists 4 Artists launches Art Basel Miami Beach boycott pledge",
+   "artist": "N/A",
+   "institution": "Art Basel Miami Beach",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Campaign launched November 2026",
+   "date_discovered": "2026-11-19",
+   "sort_date": "2026-11-18",
+   "description": "Artists 4 Artists Miami, a grassroots collective founded by the artist misael soto, has launched a boycott campaign targeting Art Basel Miami Beach and the wider Miami Art Week, having first announced it at a protest outside the Miami Beach Convention Center during the 2025 edition, The Art Newspaper reported. The group's 'Art Basel Boycott' pledge asks signatories to adopt at least one commitment: not attending the fair, not exhibiting at it, not exhibiting during Miami Art Week, or withholding their labour. Its grievances include that little of the fair's economic value reaches working local artists and residents, that Art Week work is often short-term contract labour, and that public resources are devoted to the fair — the group cites a Miami Beach Commission decision that cut Art Basel's Convention Center rent from nearly $1m to about $500,000 and committed roughly $300,000 in additional public funds for first-responder and security costs. The collective is building local alternatives and a mutual-aid network; as of the article 21 signatures had been collected. An Art Basel spokesperson said the fair 'has been a committed partner to Miami Beach and its creative community for more than two decades,' citing cultural and educational programming and regional economic activity that local officials put at nearly $60m for Miami Beach and $570m for Miami-Dade County in 2025. The collective's founder said 'you really have to start building an alternative,' and signatory Ariel Lynch said 'Miami deserves more than institutions like Art Basel Miami Beach.'",
+   "outcome": "The campaign is live, with 21 pledge signatures reported; Art Basel defended its role in the community. [FOLLOW-UP PENDING: whether the boycott gains signatories or affects the December 2026 Miami Art Week.]",
+   "tags": [
+    "Boycott",
+    "Labor dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/18/miami-artists-art-basel-boycott-campaign-alternative-models-fair-week",
+   "additional_sources": [],
+   "themes": [
+    2,
+    10
+   ],
+   "notes": "New parent. Drafted from The Art Newspaper (Alexandra Martinez, 18 November 2026). Organised by Artists 4 Artists Miami (founder misael soto). Public-funding angle: the cited Miami Beach Commission rent cut and security subsidy.",
+   "interested_parties": "Artists 4 Artists Miami; misael soto; Ariel Lynch; Art Basel Miami Beach; Miami Beach Commission; Panamia; Jewish Voice for Peace",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-478",
+   "entry_id": "478",
+   "seq": 810,
+   "title": "Benin renews demand to France for 35 works, including the Louvre's god Gou statue",
+   "artist": "N/A",
+   "institution": "Louvre; Musee du quai Branly-Jacques Chirac",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Request renewed 5 October 2026",
+   "date_discovered": "2026-11-19",
+   "sort_date": "2026-10-05",
+   "description": "Benin's President Romuald Wadagni, during a meeting with French President Emmanuel Macron at the Elysee on 5 October 2026, officially renewed Benin's request to France for the restitution of 35 cultural artifacts and archival materials held in French public collections, Benin Web TV reported. Among the items named are the statue of the god Gou, held at the Louvre, a carved wooden divination tray from the Musee du quai Branly-Jacques Chirac, and the throne of King Toffa of Porto-Novo. The 2021 return of 26 works from the royal treasure of Abomey had not included the Gou. In July 2026 Benin set up a National Scientific Committee to strengthen the historical, scientific, heritage and legal arguments and to support a joint Franco-Beninese scientific commission, while a French law adopted in May 2026 simplifies, under certain conditions, the restitution of unlawfully acquired cultural property so that a separate law is no longer needed for each item. Benin Web TV reports that the specific timeline for reviewing the new list of 35 artifacts has yet to be determined.",
+   "outcome": "Benin has formally submitted the 35-item list; the review timeline is undetermined. [FOLLOW-UP PENDING: France's response and whether any of the 35 works, notably the Gou statue, are approved for return under the May 2026 framework law.]",
+   "tags": [
+    "Repatriation",
+    "Geopolitics"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "Benin Web TV"
+   ],
+   "source": "https://beninwebtv.bj/en/benin-france-wadagni-calls-for-the-return-of-35-cultural-artifacts-including-the-statue-of-the-god-gou/",
+   "additional_sources": [],
+   "themes": [
+    5,
+    12
+   ],
+   "notes": "New parent anchored to the 5 October 2026 Wadagni-Macron meeting; surfaced today via Le Monde (18 November 2026), which lemonde.fr blocked the scan's tools from retrieving, and drafted from Benin Web TV (Rita Zime, 6 October 2026, full text). Connects to the French restitution-framework law thread (ACI-035) and broader Franco-African repatriation (cf. ACI-208 Benin Bronzes to Nigeria; ACI-396). The Gou statue was excluded from the 2021 return of 26 Abomey works.",
+   "interested_parties": "Romuald Wadagni (President of Benin); Emmanuel Macron (President of France); the Louvre; Musee du quai Branly-Jacques Chirac; Benin National Scientific Committee",
+   "coverage_geography": "Benin, France",
    "follow_up_pending": true
   }
  ]
