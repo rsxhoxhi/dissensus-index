@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 731
  },
  "cases": [
   {
@@ -23916,6 +23916,41 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-479",
+   "entry_id": "479",
+   "seq": 771,
+   "title": "Las Vegas dealer sentenced under Indian Arts and Crafts Act for counterfeit Native art",
+   "artist": "Jose Martinez (aka 'Joseph Skywolf')",
+   "institution": "Skywolf's Gallery (mobile business); Indian Arts and Crafts Board, US Department of the Interior",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Pleaded guilty and sentenced November 2026 (indicted summer 2026)",
+   "date_discovered": "2026-11-20",
+   "sort_date": "2026-11-19",
+   "description": "According to Hyperallergic (Rhea Nayyar, 19 November 2026), Jose Martinez, a Las Vegas man who adopted the name Joseph Skywolf, was sentenced by a US district court in Nevada to two years of supervised probation and court-ordered restitution after pleading guilty to a felony violation of the Indian Arts and Crafts Act of 1990. Hyperallergic reported that, promoting a mobile business called Skywolf's Gallery, Martinez falsely claimed to be Chiricahua Apache, Apache, Navajo, and Native American, and sold headdresses, jewelry, paintings, and beaded tanned hides that he falsely attributed to Native artists or specific tribes. He had been indicted on one count the previous summer. The report cited a release from the US Department of the Interior's Indian Arts and Crafts Board, which enforces the 1990 law barring the sale of goods falsely suggested to be produced by a Native American or a particular tribe.",
+   "outcome": "Martinez pleaded guilty to a felony Indian Arts and Crafts Act violation and was sentenced to two years of supervised probation with court-ordered restitution; the case is resolved at sentencing.",
+   "tags": [
+    "Authenticity",
+    "Art market fraud",
+    "Legal challenge",
+    "Indigenous rights"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/art-dealer-sentenced-for-falsely-claiming-native-heritage/",
+   "additional_sources": [],
+   "themes": [
+    11
+   ],
+   "notes": "New parent. Drafted narrowly from Hyperallergic (Rhea Nayyar, 19 November 2026; full text this run), the only outlet retrieved for this story this run; it cites a US Indian Arts and Crafts Board (Department of the Interior) release. One of a recurring line of Indian Arts and Crafts Act prosecutions for misrepresenting non-Native work as Native-made (cf. earlier IACA sentencings covered by the trade press). Exact sentencing date within November 2026 not stated in the source ('this month'); sort_date set to the reporting date and date_controversy left to the month. Primary record for later enrichment: the US Attorney (District of Nevada) / DOI Indian Arts and Crafts Board case file.",
+   "interested_parties": "Jose Martinez (aka Joseph Skywolf); US Indian Arts and Crafts Board (Department of the Interior); US District Court for the District of Nevada",
+   "coverage_geography": "US",
+   "follow_up_pending": false
   }
  ]
 }
