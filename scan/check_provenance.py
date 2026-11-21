@@ -92,6 +92,8 @@ DOMAIN_TO_OUTLET = {
     "thelocal.fr": "The Local",
     "lemonde.fr": "Le Monde",
     "aljazeera.com": "Al Jazeera",
+    "united24media.com": "United24 Media",  # added 2026-11-21 scan (ACI-481 Venice Architecture Biennale)
+    "bloomberglinea.com": "Bloomberg Línea",  # added 2026-11-21 scan (ACI-482 Fra Angelico / Bic heirs)
     "newschannel5.com": "NewsChannel5",
     "usnews.com": "U.S. News & World Report",
     "fox17.com": "Fox 17 Nashville",
