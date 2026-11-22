@@ -40,6 +40,7 @@ DOMAIN_TO_OUTLET = {
     "sanfernandosun.com": "San Fernando Valley Sun",
     "middleeasteye.net": "Middle East Eye",
     "nytimes.com": "New York Times",
+    "thegrio.com": "TheGrio",  # added 2026-11-22 scan (ACI-483 George Floyd musical)
     "washingtonpost.com": "Washington Post",
     "theguardian.com": "The Guardian",
     "bbc.com": "BBC",

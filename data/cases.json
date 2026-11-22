@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 732
  },
  "cases": [
   {
@@ -23915,6 +23915,76 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-483",
+   "entry_id": "483",
+   "seq": 771,
+   "title": "Playbill pulls casting call for 'George Floyd the Musical' and bans the label behind it",
+   "artist": "Busted Broadway (independent musical label/producer)",
+   "institution": "Playbill",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Casting call posted and removed 18–19 November 2026",
+   "date_discovered": "2026-11-22",
+   "sort_date": "2026-11-19",
+   "description": "Playbill removed a casting call for 'George Floyd the Musical,' a project by the independent musical label Busted Broadway, after it drew backlash in mid-November 2026, and said it would no longer accept listings from the label, The New York Times reported. According to TheGrio, the notice — seeking singers and rappers for recording sessions — appeared on Playbill's job board on 18 November; once alerted, Playbill removed it, apologized, said the listing had been approved in error and had no place on its site, and said it was reviewing its approval process. TheGrio reported that Busted Broadway, which markets deliberately provocative dark-comedy musicals, promoted the project with a poster depicting Floyd beneath a police officer's knee, and that the musical remained listed on the label's own website after Playbill took the notice down.",
+   "outcome": "Playbill removed the listing and barred future Busted Broadway listings; the label continued to promote the musical on its own site. [FOLLOW-UP PENDING: any response from Busted Broadway and whether the project proceeds to production.]",
+   "tags": [
+    "Community objection",
+    "Removal"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times",
+    "TheGrio"
+   ],
+   "source": "https://www.nytimes.com/2026/11/20/theater/george-floyd-musical-playbill-busted-broadway.html",
+   "additional_sources": [
+    "https://thegrio.com/2026/11/19/playbill-apologizes-after-george-floyd-the-musical-casting-call-sparks-outrage/"
+   ],
+   "themes": [
+    8,
+    9
+   ],
+   "notes": "New parent. Thin entry: the NYT citation is metadata only (Malia Mendez, 20 Nov 2026; NYT API returns abstract + canonical URL, snippet_only) and TheGrio was read as a search-result snippet (19 Nov 2026), so every statement is reported speech with no direct quotes. The poster detail is snippet-grade and attributed to TheGrio. Borderline scope (musical theatre / removal of a casting listing rather than a staged or exhibited work) — flagged for editorial confirmation; enrich from full text.",
+   "interested_parties": "Busted Broadway (label); Playbill",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-484",
+   "entry_id": "484",
+   "seq": 772,
+   "title": "Etsy sellers leave platform over AI-training policy; company says it will revise it",
+   "artist": "N/A (independent Etsy sellers/makers)",
+   "institution": "Etsy",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 20 November 2026",
+   "date_discovered": "2026-11-22",
+   "sort_date": "2026-11-20",
+   "description": "Numerous longtime Etsy sellers have left the online marketplace because they do not want their work used to train artificial intelligence, and Etsy said it would revise the policy, The New York Times reported on 20 November 2026.",
+   "outcome": "Etsy said it would revise the policy. [FOLLOW-UP PENDING: the revised policy and sellers' response.]",
+   "tags": [
+    "AI",
+    "Copyright/ownership"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+   "additional_sources": [],
+   "themes": [
+    11
+   ],
+   "notes": "New parent. Thin entry from the NYT abstract (Reggie Ugwu, 20 Nov 2026; NYT API metadata only, snippet_only) — reported speech, no direct quotes. Borderline scope: a marketplace AI-training-data policy affecting independent makers rather than a dispute over a specific work; sits on Dissensus theme 11 (AI training-data disputes). Flagged for editorial confirmation; enrich from full text.",
+   "interested_parties": "Etsy; independent Etsy sellers",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
