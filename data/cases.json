@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 733
  },
  "cases": [
   {
@@ -5753,6 +5753,41 @@
    "notes": "[FOLLOW-UP PENDING] Tuesday US Local trawl (South). One of the most significant works of civic Brutalism in the American South. Parallels entry 076 (Vaillancourt Fountain, San Francisco -- demolished after courts denied preservation injunction). ARPA funds deadline (September 30, 2026) creates artificial urgency for demolition lobby. Wyland mural + Pei city hall are two dimensions of the same Dallas civic identity question in the World Cup lead-up. 60-day notice targets self-exemption from city's own preservation ordinances -- same pattern documented at federal level in entries 046-A (Reflecting Pool) and 050 (White House ballroom). KERA News is the primary local source.",
    "interested_parties": "Save Dallas City Hall Coalition / attorney Chris Bowers; Society of Architectural Historians (SAH); Dallas Mayor Eric Johnson; Dallas City Council; Dallas Mavericks CEO Rick Welt (demolition proposal); preservation advocates",
    "coverage_geography": "Dallas, Texas, national architecture press",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-121-A",
+   "entry_id": "121-A",
+   "seq": 813,
+   "title": "Dallas City Hall: coalition submits signatures to force a May 2027 vote on Pei building's future",
+   "artist": "I.M. Pei",
+   "institution": "City of Dallas",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Petition submitted 18 November 2026",
+   "date_discovered": "2026-11-24",
+   "sort_date": "2026-11-18",
+   "description": "On November 18, 2026, the Save Dallas City Hall Coalition submitted petition signatures to the city seeking to put the future of I.M. Pei's 1978 City Hall before voters in a May 2027 election, FOX 4 Dallas reported. The coalition said it had gathered about 35,000 signatures, well above the roughly 20,000 required, in 30 days — half the allotted time. Per FOX 4, the city secretary must now verify at least 20,000 valid signatures, after which the city council would have to call a May election, likely in February 2027; if that happens, the decision over the building would shift from the mayor and 14 council members to all Dallas voters. Former mayor Laura Miller described the group as an unusually broad coalition and city councilman Paul Ridley backed the petition, while a city spokeswoman said city manager Kimberly Tolbert would not comment because of pending litigation. The drive follows the council's 2025 move to explore relocating City Hall operations and the coalition's earlier suit over the building's deterioration (see ACI-121).",
+   "outcome": "The submitted signatures await verification; if validated, the city council must call a May 2027 election on the building's future. [FOLLOW-UP PENDING: signature verification, whether the council calls the May 2027 election, the vote's outcome, and the pending lawsuit.]",
+   "tags": [
+    "Historic preservation",
+    "Landmark dispute",
+    "Design controversy",
+    "Legal challenge"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "Regional",
+   "outlets": [
+    "FOX 4 Dallas"
+   ],
+   "source": "https://www.fox4news.com/news/voters-will-likely-decide-dallas-city-halls-future-may-election",
+   "additional_sources": [],
+   "themes": [
+    9
+   ],
+   "notes": "Sub-entry of ACI-121 (Dallas City Hall preservation fight). Parent carries themes [5, 9]; theme 5 (universal museum) does not apply to a civic-building referendum, so this sub uses [9]. The Art Newspaper, Axios and D Magazine also covered this development but were not retrievable this run (fetches blocked); source restricted to the one outlet read in full. [FOLLOW-UP PENDING: signature verification and the May 2027 election.]",
+   "interested_parties": "Save Dallas City Hall Coalition; Laura Miller (former mayor); Paul Ridley (city councilman); Kimberly Tolbert (city manager); City of Dallas",
+   "coverage_geography": "US",
    "follow_up_pending": true
   },
   {
@@ -14837,6 +14872,45 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-012-U",
+   "entry_id": "012-U",
+   "seq": 812,
+   "title": "Smithsonian: leaked 'Renewal Plan' photographed on DC Metro outlines White House overhaul of museum",
+   "artist": "N/A",
+   "institution": "Smithsonian Institution (National Museum of American History)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 23 November 2026",
+   "date_discovered": "2026-11-24",
+   "sort_date": "2026-11-23",
+   "description": "On November 23, 2026, Hyperallergic reported that a commuter had photographed a document titled the \"Smithsonian Institution Renewal Plan\" on the screen of a fellow passenger's laptop aboard a Washington, DC, Metro train and sent the images to ProPublica, which first reported on them. Per Hyperallergic's account of the ProPublica reporting, the plan sets out steps that, if carried out, would give the White House unusually broad control over the Smithsonian: firing National Museum of American History director Anthea Hartig, planning exhibitions on American nationalism, redesigning the institution's logo and brand, and adopting new institution-wide guidelines. ProPublica reported the document appeared to be a work in progress and speculated that its author was Sam Bock, an associate policy adviser on the Trump-appointed Domestic Policy Council, an identification Hyperallergic noted is unconfirmed. The leak follows the Domestic Policy Council's July 2026 report accusing Smithsonian leadership, including Hartig, of political activism (see ACI-012-F, ACI-012-G).",
+   "outcome": "Neither the Smithsonian nor the White House had issued a detailed public response in the reporting, and the document's status as official policy is unconfirmed. [FOLLOW-UP PENDING: confirmation of the plan's authenticity and authorship, any Smithsonian or White House response, and whether Hartig is removed or the proposed changes are implemented.]",
+   "tags": [
+    "Political interference",
+    "Institutional risk"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic",
+    "ProPublica",
+    "ARTnews"
+   ],
+   "source": "https://hyperallergic.com/trump-staffer-unwittingly-reveals-smithsonian-takeover-plan/",
+   "additional_sources": [
+    "https://www.propublica.org/article/dc-metro-smithsonian-american-history-plan",
+    "https://www.artnews.com/art-news/news/trump-staffer-reveal-white-house-plans-revamp-smithsonian-1234807305/"
+   ],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-012 (Smithsonian under White House pressure). Breaking credit to ProPublica; drafted from Hyperallergic's full-text account. Cross-refs ACI-012-F/-G (July 2026 DPC report). [FOLLOW-UP PENDING: plan authenticity/authorship and institutional response.]",
+   "interested_parties": "Anthea Hartig (NMAH director); Sam Bock (Domestic Policy Council, unconfirmed); White House Domestic Policy Council; Smithsonian Institution; ProPublica",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-011",
    "entry_id": "011",
    "seq": 10,
@@ -23915,6 +23989,42 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-485",
+   "entry_id": "485",
+   "seq": 811,
+   "title": "Germany to return Kusserow family Nazi-persecution archive to Jehovah's Witnesses after court fight",
+   "artist": "N/A",
+   "institution": "Bundeswehr Military History Museum, Dresden",
+   "country": "Germany",
+   "governance_type": "Democracy",
+   "date_controversy": "Lawsuit filed April 2021; return announced November 2026",
+   "date_discovered": "2026-11-24",
+   "sort_date": "2026-11-23",
+   "description": "Germany announced it will return to the Jehovah's Witnesses an archive documenting the Nazi-era persecution of the Kusserow family, Jehovah's Witnesses from Bad Lippspringe, the New York Times reported on November 23, 2026. The Times reported that the announcement followed a lawsuit in which the religious group had sought to reclaim the archive, which is held by a German museum. According to earlier reporting on the dispute (Artdaily), the Witnesses sued in 2021 to recover the collection of more than a thousand documents held by the Bundeswehr Military History Museum in Dresden, arguing that Annemarie Kusserow had left the archive to them and that a relative had sold it to the museum without authority; the museum maintained it had acquired the material in good faith, and a regional court had earlier rejected the Witnesses' claim.",
+   "outcome": "Germany agreed to return the archive to the Jehovah's Witnesses, resolving the group's long-running reclamation suit in their favour. [FOLLOW-UP PENDING: the formal transfer of the archive and whether it is displayed at the group's Central Europe office in Selters.]",
+   "tags": [
+    "Repatriation",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "The New York Times",
+    "Artdaily"
+   ],
+   "source": "https://www.nytimes.com/2026/11/23/arts/design/kusserow-archive-nazi-abuses-jehovahs-witnesses.html",
+   "additional_sources": [
+    "https://artdaily.com/news/143279/Jehovah-s-Witnesses-sue-German-museum-for-archive-of-Nazi-era-abuses"
+   ],
+   "themes": [
+    12
+   ],
+   "notes": "Restitution of a historical archive (theme 12) to a persecuted religious community; the holding institution is a military history museum, not an art museum. Reference source is a NYT metadata/abstract-grade record (full body paywalled); background drawn from Artdaily. [FOLLOW-UP PENDING: formal transfer and display.]",
+   "interested_parties": "Jehovah's Witnesses (Central Europe branch, Selters); Bundeswehr Military History Museum, Dresden; Kusserow family (Annemarie Kusserow)",
+   "coverage_geography": "Germany, US",
    "follow_up_pending": true
   }
  ]
