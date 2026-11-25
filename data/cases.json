@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 734
  },
  "cases": [
   {
@@ -5438,7 +5438,7 @@
    "date_discovered": "May 27, 2026",
    "sort_date": "2026-05-27",
    "description": "Third week of the public Biennale. Studio International roundup (~May 21) characterized the 2026 edition as \"dystopia now\" with end-of-days mood across pavilions; the Arts Desk review described it as needing \"distraction and delight\" after opening week geopolitical dominance. Austrian pavilion (Florentina Holzinger) remains the most-visited. EU €2M grant suspension (confirmed 008-T) stands; Biennale submitted counterarguments. 70+ artists remain withdrawn from Visitor Lions consideration. Russia pavilion continues closed to public (budget-constrained). Gabrielle Goliath's Elegy at Chiesa di Sant'Antonin continues drawing visitors. No new significant protest actions or political developments identified in week 3. Biennale runs through November 22, 2026.",
-   "outcome": "Biennale week 3. Post-opening stabilization. EU grant suspended. 70+ Visitor Lions withdrawals holding. [FOLLOW-UP PENDING: EC formal termination; Visitor Lions November 22 vote]",
+   "outcome": "Biennale week 3. Post-opening stabilization. EU grant suspended. 70+ Visitor Lions withdrawals holding. Both pending items have since resolved: the EU formally withdrew the €2m grant (see ACI-008-AE/-AF) and the Visitors' Lions were awarded at the 22 November 2026 close (see ACI-008-AH).",
    "tags": "Geopolitics, Boycott, Institutional risk, Funding dispute",
    "court_case": "No",
    "coverage_tier": "International",
@@ -5454,10 +5454,10 @@
     3,
     4
    ],
-   "notes": "[FOLLOW-UP PENDING] Wednesday Europe trawl. The stabilization narrative is analytically significant: the institutional \"implosion\" has settled into a functioning controversy-scarred exhibition. Mixed reviews of the main exhibition; enthusiasm for individual pavilions. The Visitor Lions public vote (November 22) will be the final institutional outcome measurement. GOVERNANCE NOTE: Israel is formally a democracy but characterized by UN Special Rapporteurs, Amnesty International, and Human Rights Watch as operating an apartheid regime in the occupied Palestinian territories.",
+   "notes": "Wednesday Europe trawl. The stabilization narrative is analytically significant: the institutional \"implosion\" has settled into a functioning controversy-scarred exhibition. Mixed reviews of the main exhibition; enthusiasm for individual pavilions. The Visitor Lions public vote (November 22) will be the final institutional outcome measurement. GOVERNANCE NOTE: Israel is formally a democracy but characterized by UN Special Rapporteurs, Amnesty International, and Human Rights Watch as operating an apartheid regime in the occupied Palestinian territories.",
    "interested_parties": "La Biennale / Buttafuoco; ANGA; 70+ Visitor Lions withdrawees; EU Commission (grant suspended); Studio International / Arts Desk (reviews)",
    "coverage_geography": "Global",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-123",
@@ -15137,6 +15137,45 @@
    ]
   },
   {
+   "id": "ACI-008-AH",
+   "entry_id": "008-AH",
+   "seq": 771,
+   "title": "Venice Biennale closes with 714,015 visitors; Visitors' Lions go to Nick Cave and India pavilion",
+   "artist": "N/A",
+   "institution": "La Biennale di Venezia",
+   "country": "Italy",
+   "governance_type": "Democracy",
+   "date_controversy": "Biennale closed 22 November 2026; Visitors' Lions announced 25 November 2026",
+   "date_discovered": "2026-11-25",
+   "sort_date": "2026-11-25",
+   "description": "The 61st Venice Art Biennale, \"In Minor Keys,\" curated by the late Koyo Kouoh, closed on 22 November 2026 after running about three weeks shorter than previous editions, drawing 714,015 visitors (including 29,387 during the pre-opening), according to La Biennale di Venezia; the edition featured a record 100 national participations and 109 artists in the main exhibition. On 25 November the Biennale announced the Visitors' Lions — public-vote awards that replaced the jury-awarded Golden Lions after the Biennale's jury resigned ahead of the opening and dozens of artists withdrew from award consideration (see ACI-008 thread). Best Participant went to the Chicago artist Nick Cave, and Best National Participation to the Pavilion of India (\"Geographies of Distance: Remembering Home,\" commissioned by the National Gallery of Modern Art and curated by Amin Jaffer). The New York Times reported the same two winners. The Biennale's announcement did not address whether the more than 70 artists who had withdrawn from Visitors' Lions consideration were affected by or responded to the result.",
+   "outcome": "The Biennale closed with a reported attendance of 714,015; the public-vote Visitors' Lions went to Nick Cave (Best Participant) and the India Pavilion (Best National Participation). This resolves the Visitors' Lions follow-up flagged at ACI-008-X.",
+   "tags": [
+    "Geopolitics",
+    "Protest",
+    "Institutional risk"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "La Biennale di Venezia",
+    "The New York Times"
+   ],
+   "source": "https://www.labiennale.org/en/news/visitors%E2%80%99-lions-biennale-arte-2026",
+   "themes": [
+    3,
+    4
+   ],
+   "notes": "Sub-entry of ACI-008 (2026 Venice Biennale). Resolves the Visitors' Lions follow-up flagged at ACI-008-X; the public-vote Visitors' Lions replaced the resigned jury's Golden Lions (cf. ACI-008 thread on the jury resignation and 70+ artist withdrawals). The EU's €2m grant-withdrawal thread is at ACI-008-AE/-AF. Whether winners accepted was not stated.",
+   "interested_parties": "Nick Cave; Pavilion of India (National Gallery of Modern Art; curator Amin Jaffer); Biennale president Pietrangelo Buttafuoco; curator Koyo Kouoh (d. 2026)",
+   "coverage_geography": "Italy, US, India, international",
+   "follow_up_pending": false,
+   "additional_sources": [
+    "https://www.labiennale.org/en/news/biennale-arte-2026-koyo-kouoh-closes-high-note-714015-visitors",
+    "https://www.nytimes.com/2026/11/25/arts/design/venice-biennale-visitors-lions-nick-cave-india.html"
+   ]
+  },
+  {
    "id": "ACI-007",
    "entry_id": "007",
    "seq": 6,
@@ -23916,6 +23955,104 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-486",
+   "entry_id": "486",
+   "seq": 772,
+   "title": "UK bars export of 1662 'Llannerch Park' painting, possibly earliest British country-estate landscape",
+   "artist": "Unknown (English School)",
+   "institution": "Department for Culture, Media and Sport (DCMS)",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Export bar announced 24 November 2026; deferral expires 19 February 2027",
+   "date_discovered": "2026-11-25",
+   "sort_date": "2026-11-24",
+   "description": "The UK government placed a temporary export bar on \"A birds-eye view of Llannerch park, Denbighshire,\" a 1662 painting by an unknown English School artist depicting a house and Italian-style gardens on an estate in northeast Wales, The Art Newspaper reported. The reviewing committee on the export of works of art and objects of cultural interest, which advises the government, recommended the deferral; committee member Pippa Shirley said the loss of the garden itself made the painting more important. The recommended price is £550,000 plus £11,000 VAT. The work — which Sotheby's offered unsold in 2014 against a £400,000–£600,000 estimate, and which per Sotheby's has stayed in one family since the 1660s — is described as possibly the earliest known British country-estate landscape painting. The DCMS said that if the painting stays in the UK, researchers could explore how people and culture were spreading in the 17th century. The ban initially expires on 19 February 2027, after which the owners have 15 business days to consider an offer at the recommended price, followed by a four-month second deferral period, giving a UK gallery or institution time to acquire it.",
+   "outcome": "A temporary export deferral runs until at least 19 February 2027 to give a UK buyer the chance to match the £550,000 price; no UK institution had been reported as making an offer. [FOLLOW-UP PENDING: whether a UK institution acquires the painting before the deferral period ends.]",
+   "tags": [
+    "Export bar",
+    "Cultural patrimony claim"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/24/uk-government-blocks-export-of-17th-century-british-landscape-painting",
+   "themes": [],
+   "notes": "New parent. UK export-deferral (export-bar) mechanism to keep a work in the national collection. Borderline on the controversy threshold — flagged for editorial judgment (see PR). \"Export bar\" introduced as a new tag to seed the UK/national export-deferral cluster the dragnet targets.",
+   "interested_parties": "DCMS; Reviewing Committee on the Export of Works of Art and Objects of Cultural Interest (member Pippa Shirley); Sotheby's (2014 sale)",
+   "coverage_geography": "UK",
+   "follow_up_pending": true,
+   "additional_sources": []
+  },
+  {
+   "id": "ACI-487",
+   "entry_id": "487",
+   "seq": 773,
+   "title": "Paris Opera accused of erasing Bérénice's Jewish identity in 'La Clémence de Titus'; cites artistic freedom",
+   "artist": "Willy Decker (stage director)",
+   "institution": "Opéra national de Paris (Palais Garnier)",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Objections 21 November 2026; Opera response 22 November 2026; run opens 24 November 2026",
+   "date_discovered": "2026-11-25",
+   "sort_date": "2026-11-24",
+   "description": "The Opéra national de Paris was accused of erasing the Jewish identity of the character Bérénice in Willy Decker's staging of Mozart's \"La Clémence de Titus\" at the Palais Garnier, franceinfo reported. The objection centred on the opera's website synopsis, which described Bérénice as a \"princesse africaine\" (African princess). On 21 November 2026 the linguist Yana Grinshpun criticised the wording on X, and other social-media users made similar accusations; the next day the députée Caroline Yadan, of President Macron's party, questioned Culture Minister Catherine Pégard and accused the Opera of \"révisionnisme.\" Responding on 22 November, the Opera acknowledged that Bérénice was historically a Jewish queen of Judea, descended from the Herodian and Hasmonean dynasties, but defended the staging on grounds of interpretive freedom (\"liberté d'interprétation\"): it said Mozart's libretto does not specify the character's origins and leaves her off-stage, and that Decker's production — created in 1997 and revived for the seventh time this season — reads her as a figure of the rejected foreigner, which the synopsis reflects rather than the literal libretto. The Opera rejected any antisemitism. The production's first performance was 24 November 2026, with ten performances running to 25 December 2026.",
+   "outcome": "The Opera defended the staging as interpretive freedom and rejected accusations of antisemitism; it did not report changing the synopsis. The run opened on 24 November 2026. [FOLLOW-UP PENDING: whether the Opera amends the synopsis or the Culture Ministry responds.]",
+   "tags": [
+    "Community objection",
+    "Racial/ethnic sensitivity"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Franceinfo"
+   ],
+   "source": "https://www.franceinfo.fr/culture/musique/opera/l-opera-de-paris-accuse-de-gommer-la-judeite-du-personnage-de-berenice-dans-la-clemence-de-titus-de-mozart-plaide-la-liberte-d-interpretation_8295659.html",
+   "themes": [
+    8
+   ],
+   "notes": "New parent. Dispute over a staging/representation choice; drafted narrowly from franceinfo, with all characterisations attributed. Tag 'Racial/ethnic sensitivity' flagged for editorial review — the objection is explicitly about erasure of the character's Jewish identity, so the axis is the overt subject of both work and objection.",
+   "interested_parties": "Opéra national de Paris; director Willy Decker; linguist Yana Grinshpun; députée Caroline Yadan; Culture Minister Catherine Pégard",
+   "coverage_geography": "France",
+   "follow_up_pending": true,
+   "additional_sources": []
+  },
+  {
+   "id": "ACI-488",
+   "entry_id": "488",
+   "seq": 774,
+   "title": "Court rules Châteauroux illegally removed Guy de Rougemont's 'Piliers de la République' columns",
+   "artist": "Guy de Rougemont",
+   "institution": "Ville de Châteauroux / Châteauroux Métropole",
+   "country": "France",
+   "governance_type": "Democracy",
+   "date_controversy": "Columns moved April 2023; Tribunal judiciaire de Paris ruling reported November 2026",
+   "date_discovered": "2026-11-25",
+   "sort_date": "2026-11-18",
+   "description": "In April 2023 the city of Châteauroux, through its agglomeration, moved Guy de Rougemont's three columns \"Les Piliers de la République – Liberté, Égalité et Fraternité\" from the Place de la République, where they had stood since 1999, to the Centre national de tir sportif, citing aesthetic objections to the long-controversial work and its obstruction of events on the square (and an upgrade of the venue before 2024 Olympic events held there), ICI (formerly France Bleu) reported. The artist — who died in 2021 — had designated heirs, who were not consulted before the move and who challenged it. The Tribunal judiciaire de Paris found the relocation did not comply with the rules and recognised an infringement of the artist's moral right (droit moral); according to the heirs' lawyer Pierre Hutt, the court identified a \"contextual\" infringement tied to the move to a \"problematic\" site, and ICI reported the court awarded €10,000 in damages. The city said it would not appeal. The court did not order the columns' return; Mayor Gil Avérous ruled out bringing them back to the city centre, and the heirs — for whom Sophie de Rougemont has spoken — would need a separate action before an administrative court to seek reinstatement.",
+   "outcome": "The court ruled the 2023 relocation unlawful as an infringement of the artist's moral right and, per ICI, awarded €10,000 in damages; the city will not appeal but will not return the columns to the Place de la République, so reinstatement would require a separate administrative-court action by the heirs. [FOLLOW-UP PENDING: whether the heirs bring an administrative-court action to force reinstatement.]",
+   "tags": [
+    "Removal",
+    "Legal challenge",
+    "Artists' rights"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "National",
+   "outlets": [
+    "ICI"
+   ],
+   "source": "https://www.ici.fr/centre-val-de-loire/indre-36/chateauroux/deplacement-des-colonnes-rougemont-la-mairie-de-chateauroux-perd-au-tribunal-face-aux-ayants-droits-de-l-artiste-6534935",
+   "themes": [
+    9
+   ],
+   "notes": "New parent. French droit moral (moral rights) case over the relocation of commissioned public art; drafted from ICI. Le Monde (25 Nov 2026) also reported the ruling but could not be retrieved (fetch-blocked). Cf. moral-rights/VARA relocation thread at ACI-093 (Wyland) and ACI-010 (Sarasota).",
+   "interested_parties": "Guy de Rougemont (artist, d. 2021); his heirs (Sophie de Rougemont); lawyer Pierre Hutt; Mayor Gil Avérous; Ville de Châteauroux / Châteauroux Métropole",
+   "coverage_geography": "France",
+   "follow_up_pending": true,
+   "additional_sources": []
   }
  ]
 }
