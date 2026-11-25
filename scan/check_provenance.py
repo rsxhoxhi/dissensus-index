@@ -37,6 +37,9 @@ DOMAIN_TO_OUTLET = {
     "artforum.com": "Artforum",
     "hyperallergic.com": "Hyperallergic",
     "theartnewspaper.com": "The Art Newspaper",
+    "labiennale.org": "La Biennale di Venezia",  # added 2026-11-25 scan (ACI-008-AH Visitors' Lions)
+    "franceinfo.fr": "Franceinfo",  # added 2026-11-25 scan (ACI-487 Paris Opera Bérénice)
+    "ici.fr": "ICI",  # added 2026-11-25 scan (ACI-488 Rougemont columns; formerly France Bleu)
     "sanfernandosun.com": "San Fernando Valley Sun",
     "middleeasteye.net": "Middle East Eye",
     "nytimes.com": "New York Times",
