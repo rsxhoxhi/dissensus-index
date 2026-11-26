@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 736
  },
  "cases": [
   {
@@ -12097,6 +12097,41 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-050-P",
+   "entry_id": "050-P",
+   "seq": 814,
+   "title": "White House ballroom tops out; revealed scale draws fresh criticism",
+   "artist": "N/A",
+   "institution": "The White House (East Wing Modernization Project)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Topping-out announced 4 November 2026; scale reported 16 November 2026",
+   "date_discovered": "2026-11-26",
+   "sort_date": "2026-11-16",
+   "description": "The East Wing Modernization Project reached its topping-out milestone when the final structural steel beam was laid in early November 2026, Dezeen reported, with Trump announcing the final beam on 4 November, the day after the midterm elections. Dezeen said recent photographs show massive concrete shear walls, steel beams, columns and a partially enclosed roof, with the structure dwarfing the Executive Residence and West Wing and none of the planned neoclassical ornamentation yet installed. The report carried fresh criticism of the project: Hillary Clinton wrote on X, \"It says everything about Donald Trump that his gilded ballroom dwarfs the size of the People's House\"; Rep. Jim Clyburn said the ballroom is \"much bigger\" than the rest of the White House; and the architecture critic Kate Wagner called the result \"an outcome designed in a lab to make everyone angry.\" Trump, on a 4 November tour, said, \"This is a special structure.\" Dezeen noted the National Capital Planning Commission approved the project in April 2026, that the Supreme Court in August allowed construction to continue after a lower-court stay in the National Trust for Historic Preservation's suit, and that construction has proceeded with officials citing the national-security aspects of an underground bunker beneath the new wing.",
+   "outcome": "Construction continuing after the early-November topping-out; full completion is not expected until 2028. [FOLLOW-UP PENDING: completion of the facade and ornamentation, and the National Trust for Historic Preservation's ongoing lawsuit.]",
+   "tags": [
+    "Legal challenge",
+    "Historic preservation",
+    "Design controversy"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "Dezeen"
+   ],
+   "source": "https://www.dezeen.com/2026/11/16/white-house-ballroom-topping-out/",
+   "additional_sources": [],
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-050 (White House State Ballroom / East Wing); follows ACI-050-O (return to the Supreme Court, 5 November 2026). Drafted from Dezeen (Ben Dreith, 16 November 2026; full text, quotes verified verbatim). Dezeen did not state the ballroom's dimensions, cost or architect; those are omitted here.",
+   "interested_parties": "Donald Trump; National Trust for Historic Preservation; Hillary Clinton; Rep. Jim Clyburn; Kate Wagner (architecture critic)",
+   "coverage_geography": "US, Europe",
+   "follow_up_pending": true
+  },
+  {
    "id": "ACI-035-C",
    "entry_id": "035-C",
    "seq": 82,
@@ -14833,6 +14868,40 @@
    ],
    "notes": "Continues ACI-012 (Smithsonian pressure) thread; implements the July EO 'Restoring Trust in the Smithsonian.' Cross-ref ACI-012-O (threat to withhold federal support), ACI-012-Q (Washington 'Colossus' demand), ACI-007 (NPS interpretive signs). Analytical frame: externalised pressure on institutional framing. The Washington Post (primary DC outlet) reported the same; not retrievable via automated fetch this run. [FOLLOW-UP PENDING] mirrored in outcome.",
    "interested_parties": "Interior Secretary Doug Burgum; Sen. Jeff Merkley; Sen. Lisa Murkowski; director Anthea Hartig; Smithsonian Secretary Lonnie Bunch; President Donald Trump",
+   "coverage_geography": "US",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-012-V",
+   "entry_id": "012-V",
+   "seq": 815,
+   "title": "Smithsonian: Bunch defends independence as Democrat vows to probe leaked overhaul plan",
+   "artist": "N/A",
+   "institution": "Smithsonian Institution; National Museum of American History; House Appropriations subcommittee",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "24-25 November 2026",
+   "date_discovered": "2026-11-26",
+   "sort_date": "2026-11-25",
+   "description": "Outgoing Smithsonian Secretary Lonnie G. Bunch III defended the institution's independence after the leaked \"Smithsonian Institution Renewal Plan\" — a 25-item to-do list photographed on a Washington Metro car in late October and first reported on 23 November (see ACI-012-U) — drew renewed scrutiny, The Art Newspaper reported. In a 24 November letter to staff, Bunch wrote that \"The intended use of this list is unclear\" and that \"What remains clear is that the Smithsonian is an independent institution.\" Per The Art Newspaper, the plan focused largely on the National Museum of American History and proposed firing its director and a dozen other administrators and curators, opening a permanent exhibition on \"Western civilisation inheritance,\" erecting a \"colossus statue\" of George Washington at the museum's entrance, overhauling the museum's online curriculum to \"realign educational materials with patriotism, not ideology,\" and reviewing Smithsonian grants to \"woke third parties\" such as the American Alliance of Museums. Chellie Pingree, ranking member of the House subcommittee that funds the Smithsonian, wrote to the Board of Regents that the reporting was \"extremely concerning\" and that \"I intend to investigate these matters in the 120th congress and vigorously defend the Smithsonian's independence.\"",
+   "outcome": "Bunch affirmed the Smithsonian's independence; House Democrats, who take the majority in January 2027, signalled oversight. [FOLLOW-UP PENDING: whether the White House pursues the plan and any congressional investigation in the 120th Congress.]",
+   "tags": [
+    "Political interference",
+    "Institutional risk"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/25/smithsonian-leader-defends-institution-white-house-leaked-overhaul-plan",
+   "additional_sources": [],
+   "themes": [
+    2,
+    4
+   ],
+   "notes": "Sub-entry of ACI-012; follows the leaked 'Renewal Plan' at ACI-012-U. Drafted from The Art Newspaper (25 November 2026; full text, quotes verified verbatim). ProPublica, named by TAN as the publisher of the leak, was not independently retrieved this run and is not cited here; the leak itself is tracked at ACI-012-U.",
+   "interested_parties": "Lonnie G. Bunch III (Smithsonian Secretary); Rep. Chellie Pingree; Smithsonian Board of Regents; National Museum of American History",
    "coverage_geography": "US",
    "follow_up_pending": true
   },
@@ -19702,7 +19771,7 @@
    "date_discovered": "2026-07-29",
    "sort_date": "2026-07-28",
    "description": "According to ARTnews, Hyperallergic and ArtReview, two activists from Youth Demand — an offshoot of the climate group Just Stop Oil — affixed a photograph of a Gazan mother holding her injured child (an image taken by Palestinian journalist Ali Jadallah during Israeli strikes on the Al-Shifa Hospital area) to the protective glass over Picasso's 1901 painting 'Motherhood (La Maternite)' at the National Gallery on 9 October 2024, then poured red water-based paint on the gallery floor. The National Gallery said the painting and its frame were undamaged; the poured paint, however, reached the gallery floor, and ARTnews reports trial testimony describing paint on the marble skirting, a stanchion and rope barriers and seeping into floor sockets, with a section of the marble jointing having to be replaced. On 28 July 2026 a jury convicted Jai Halai and Monday-Malachi Rosenfeld of criminal damage; sentencing was set for September 2026. At the time of the 2024 action the pair framed it as a demand on UK policy: per Hyperallergic and ArtReview, Halai said the demand was for 'a two-way arms embargo on Israel now,' and Rosenfeld said 'as a Jew, I feel like it's my duty to call out the genocide being committed in Gaza.'",
-   "outcome": "A jury convicted both activists of criminal damage on 28 July 2026; sentencing was set for September 2026. [FOLLOW-UP PENDING: the September 2026 sentencing and any appeal.]",
+   "outcome": "A jury convicted both activists of criminal damage on 28 July 2026; sentencing was set for September 2026. Update: both activists were sentenced in September 2026 to non-custodial penalties (ACI-287-A).",
    "tags": "Protest art, Legal challenge",
    "court_case": "Yes",
    "coverage_tier": "International",
@@ -19722,7 +19791,40 @@
    "notes": "New parent. Youth Demand (an offshoot of Just Stop Oil) protest action of 9 October 2024 at the National Gallery; jury conviction 28 July 2026. Wednesday Europe/UK trawl. Describe-don't-judge: the Index records the criminal-damage conviction and the activists' stated pro-Palestinian rationale; several Jewish-community outlets (Algemeiner, Jewish News, Jerusalem Post) characterized the action as antisemitic — that framing is theirs, not the Index's, and is not adopted as a tag. GB News covered it but is on the excluded-sources list — seen, not cited. The painting and frame were undamaged; the criminal damage concerned the gallery floor, per trial testimony reported by ARTnews. Theme 6 (iconoclasm / when is protest-targeting of art justified) applied in its analytical sense even though the work itself was undamaged. Reference source ARTnews (conviction and trial detail; article body truncates/paywalls on automated fetch, so ARTnews is at snippet grade — the floor-damage detail is paraphrased, not quoted); Hyperallergic and ArtReview (original-action detail and the activist quotes, full text). Correction (2026-07-29, on maintainer review): an earlier draft stated the floor 'sustained no damage' (self-contradictory with 'required repair') and asserted a nine-hour jury deliberation and a bail release by 'Judge David Tomlinson'; the deliberation length and the named judge/bail detail could not be traced to a retrieved reliable source and were removed, and the floor-damage description corrected to match the ARTnews trial testimony.",
    "interested_parties": "Jai Halai and Monday-Malachi Rosenfeld (Youth Demand); National Gallery, London; Ali Jadallah (photographer of the image used)",
    "coverage_geography": "UK, international",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-287-A",
+   "entry_id": "287-A",
+   "seq": 819,
+   "title": "Picasso 'Motherhood' protest: two Youth Demand activists sentenced, spared prison",
+   "artist": "N/A (Pablo Picasso, 'Motherhood'/'La Maternite', 1901)",
+   "institution": "National Gallery (London); Southwark Crown Court",
+   "country": "United Kingdom",
+   "governance_type": "Democracy",
+   "date_controversy": "Sentenced September 2026",
+   "date_discovered": "2026-11-26",
+   "sort_date": "2026-09-08",
+   "description": "Jai Halai and Monday-Malachi Rosenfeld, two Youth Demand activists convicted in July 2026 by a Southwark Crown Court jury of criminal damage for covering Pablo Picasso's 1901 \"Motherhood\" at London's National Gallery with an image of a Palestinian mother and child, were sentenced and will not go to prison, a report by The National News Desk (TNND) carried by KATU said. The sentencing judge, David Tomlinson, told the pair, \"You staged an incident in front of a work of art called 'Motherhood.'\" The report did not state the terms of the non-custodial sentence.",
+   "outcome": "Both activists were sentenced in September 2026 to non-custodial penalties; no appeal was reported.",
+   "tags": [
+    "Protest art",
+    "Legal challenge"
+   ],
+   "court_case": "Yes",
+   "coverage_tier": "International",
+   "outlets": [
+    "KATU"
+   ],
+   "source": "https://katu.com/news/nation-world/pro-palestine-activists-found-guilty-for-damages-after-targeting-well-known-art-piece-jury-national-gallery",
+   "additional_sources": [],
+   "themes": [
+    6
+   ],
+   "notes": "THIN: sub-entry of ACI-287; resolves the pending September 2026 sentencing. Drafted from a National News Desk (TNND) wire report carried by KATU (8 September 2026; full text). The report confirms a non-custodial sentence but not its specific terms (fine, community order); enrich with UK court/press detail. No appeal mentioned.",
+   "interested_parties": "Jai Halai, Monday-Malachi Rosenfeld (defendants); Judge David Tomlinson; National Gallery; Youth Demand",
+   "coverage_geography": "UK, US",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-288",
@@ -22677,7 +22779,7 @@
    "date_discovered": "2026-09-15",
    "sort_date": "2026-09-14",
    "description": "The Philadelphia Historical Commission is weighing whether to grant historic-landmark protection to \"We The Youth\" (1987), a Keith Haring mural in the historically Black Point Breeze neighborhood of South Philadelphia, according to Hyperallergic. Per Hyperallergic, the work — painted by Haring with the artists Clarence Wood, Gilberto Wilson, and Jose Seabourne and 14 high-school students — is the only one of Haring's collaborative murals that remains in its original location. Hyperallergic reported that the wall is co-owned by the Neighborhood Gardens Trust, which preserves community gardens, and OCF Realty, a real-estate company the outlet said is often blamed for the neighborhood's rapid gentrification, and that a designation would make it the first outdoor mural to receive the commission's protection in a city that bills itself as the \"Mural Capital of the World.\" The Keith Haring Foundation and area residents are among the parties named by Hyperallergic. A public meeting was scheduled for September 16, 2026, with a full commission vote set for October 9, 2026.",
-   "outcome": "Pending — the Historical Commission's committee was set to meet September 16, 2026, with a full commission vote scheduled for October 9, 2026. [FOLLOW-UP PENDING: the October 9, 2026 commission vote on landmark protection for the mural]",
+   "outcome": "Pending — the Historical Commission's committee was set to meet September 16, 2026, with a full commission vote scheduled for October 9, 2026. The commission designated the mural on 9 October 2026 (ACI-383-A).",
    "tags": [
     "Historic preservation",
     "Landmark dispute"
@@ -22690,10 +22792,41 @@
    "source": "https://hyperallergic.com/keith-haring-mural-may-decide-the-fate-of-public-art-in-philly/",
    "additional_sources": [],
    "themes": [],
-   "notes": "Reported as the only surviving Haring collaborative mural in its original location; a test case for landmarking outdoor murals in Philadelphia. Cf. ACI-363 (Keith Haring drawing authenticity). [FOLLOW-UP PENDING: October 9, 2026 Historical Commission vote]",
+   "notes": "Reported as the only surviving Haring collaborative mural in its original location; a test case for landmarking outdoor murals in Philadelphia. Cf. ACI-363 (Keith Haring drawing authenticity).",
    "interested_parties": "Philadelphia Historical Commission; Keith Haring Foundation; Neighborhood Gardens Trust; OCF Realty; Point Breeze residents",
    "coverage_geography": "US",
-   "follow_up_pending": true
+   "follow_up_pending": false
+  },
+  {
+   "id": "ACI-383-A",
+   "entry_id": "383-A",
+   "seq": 817,
+   "title": "Keith Haring 'We The Youth' mural becomes Philadelphia's first landmarked outdoor mural",
+   "artist": "Keith Haring (with Philadelphia students)",
+   "institution": "Philadelphia Historical Commission; 2147 Ellsworth LLC (owner)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Commission vote 9 October 2026",
+   "date_discovered": "2026-11-26",
+   "sort_date": "2026-10-09",
+   "description": "The Philadelphia Historical Commission voted unanimously on 9 October 2026 to add Keith Haring's 1987 mural \"We the Youth,\" on a rowhouse at 22nd and Ellsworth Streets in the Point Breeze neighborhood, to the city's Register of Historic Places, the Philadelphia Inquirer reported. It is the fifth mural in Philadelphia to receive landmark designation and the first outdoor one, and Haring's only collaborative mural still standing in its original location; under the designation the owner, listed as 2147 Ellsworth LLC, cannot remove or alter the mural's appearance without the commission's review. The owner's attorney, Sean Whalen, opposed the designation, citing the preservation work required and saying such efforts were not \"logistically capable\": \"We are not talking about a wall that is failing. We are talking about a failed wall,\" he said. The property manager, Ori Feibush, citing a scope-camera video, said, \"There is absolutely no portion of the mural that is attached to the plaster in the brick wall. It is 100% freestanding,\" and both proposed removing and reinstalling the mural.",
+   "outcome": "Landmark designation approved unanimously on 9 October 2026.",
+   "tags": [
+    "Historic preservation",
+    "Landmark dispute"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "The Philadelphia Inquirer"
+   ],
+   "source": "https://www.inquirer.com/arts/keith-haring-mural-designation-historical-city-philadelphia-20261009.html",
+   "additional_sources": [],
+   "themes": [],
+   "notes": "Sub-entry of ACI-383; resolves the pending 9 October 2026 commission vote. Drafted from the Philadelphia Inquirer (Earl Hopkins, 9 October 2026; full text, quotes verified verbatim).",
+   "interested_parties": "Philadelphia Historical Commission; 2147 Ellsworth LLC; Sean Whalen (owner's attorney); Ori Feibush (property manager)",
+   "coverage_geography": "US",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-384",
@@ -22808,7 +22941,7 @@
    "date_discovered": "2026-09-29",
    "sort_date": "2026-09-28",
    "description": "Hyperallergic reported on September 28, 2026 that unionized staff at the Whitney Museum of American Art, represented by UAW Local 2110, set a strike date of Monday, October 5, 2026 if they do not reach a contract agreement, a deadline timed to the preview week of the museum's Roy Lichtenstein retrospective, which opens to the public on October 11. Workers at the Whitney, the Brooklyn Museum and the American Folk Art Museum -- all UAW Local 2110 -- voted earlier in September to authorize strikes. Staff are seeking a base salary of about $71,000, which Hyperallergic described as the minimum a single, childless adult needs to live sustainably in New York City. The union's chairperson told Hyperallergic, “We'd rather be working and doing our jobs, but our wages are untenable for making ends meet in New York City.” The previous three-year contract expired in June 2026.",
-   "outcome": "As of September 28, 2026 the Whitney strike was scheduled for October 5; no agreement had been reached, and the Brooklyn Museum and American Folk Art Museum unions had not announced their own strike dates. [FOLLOW-UP PENDING: whether the October 5 strike proceeds, its effect on the October 11 Lichtenstein opening, and whether the Brooklyn and AFAM unions set dates.]",
+   "outcome": "As of September 28, 2026 the Whitney strike was scheduled for October 5; no agreement had been reached, and the Brooklyn Museum and American Folk Art Museum unions had not announced their own strike dates. Update: the union ratified on 4 October 2026, averting the strike (ACI-386-C).",
    "tags": [
     "Labor dispute",
     "Institutional crisis"
@@ -22826,7 +22959,7 @@
    "notes": "Sub-entry of ACI-386 (strike authorization across the three UAW Local 2110 museums). Development: the Whitney union set an October 5 strike date. Related labor cases: ACI-128 (Whitney union gala rally), ACI-073 (American Folk Art Museum), ACI-211 (Guggenheim / UAW Local 2110). [FOLLOW-UP PENDING] mirrored in outcome.",
    "interested_parties": "UAW Local 2110; Whitney Museum of American Art; Brooklyn Museum; American Folk Art Museum",
    "coverage_geography": "US",
-   "follow_up_pending": true
+   "follow_up_pending": false
   },
   {
    "id": "ACI-386-B",
@@ -22841,7 +22974,7 @@
    "date_discovered": "2026-09-30",
    "sort_date": "2026-09-29",
    "description": "Unions at the Brooklyn Museum and the American Folk Art Museum, both represented by UAW Local 2110, announced tentative contract agreements on 29 September 2026 and began ratification votes the same day, Hyperallergic reported, in each case before publicising a strike date and potentially averting a walkout. The same publication reported that the Whitney Museum of American Art's union declared it would strike on Monday 5 October 2026, ahead of the preview week for the museum's Roy Lichtenstein retrospective, unless it reached what it called a fair contract. According to Hyperallergic, all three unions had been mobilising for a wage floor of about $71,000 for full-time staff — a figure it described as the minimum City Hall recently calculated for a single, childless adult to live sustainably in New York City — and staff had voted two weeks earlier to authorise strikes (see ACI-386). A protester's sign read “Whitney Workers Build Biennials,” the report noted.",
-   "outcome": "As reported by Hyperallergic on 29 September 2026, the Brooklyn Museum and American Folk Art Museum unions had reached tentative deals and begun ratification, while the Whitney union maintained its 5 October strike deadline. [FOLLOW-UP PENDING: ratification of the Brooklyn and Folk Art agreements; whether the Whitney strike proceeds on 5 October 2026.]",
+   "outcome": "As reported by Hyperallergic on 29 September 2026, the Brooklyn Museum and American Folk Art Museum unions had reached tentative deals and begun ratification, while the Whitney union maintained its 5 October strike deadline. Update: the Whitney union ratified on 4 October 2026, averting the strike (ACI-386-C). [FOLLOW-UP PENDING: ratification of the Brooklyn Museum and American Folk Art Museum agreements.]",
    "tags": [
     "Labor dispute",
     "Institutional crisis"
@@ -22858,10 +22991,43 @@
    "themes": [
     4
    ],
-   "notes": "Sub-entry of ACI-386 (Whitney/Brooklyn/Folk Art strike authorisation). Follows ACI-386-A (Oct 5 strike date), which sits in the pending 2026-09-29 daily-scan PR, not yet in main. Drafted from two Hyperallergic articles (29 Sep 2026, both full text this run). Themes inherited from parent [4]. [FOLLOW-UP PENDING: ratification votes; Whitney Oct 5 strike.]",
+   "notes": "Sub-entry of ACI-386 (Whitney/Brooklyn/Folk Art strike authorisation). Follows ACI-386-A (Oct 5 strike date), which sits in the pending 2026-09-29 daily-scan PR, not yet in main. Drafted from two Hyperallergic articles (29 Sep 2026, both full text this run). Themes inherited from parent [4].",
    "interested_parties": "UAW Local 2110; Brooklyn Museum; American Folk Art Museum; Whitney Museum of American Art",
    "coverage_geography": "US",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-386-C",
+   "entry_id": "386-C",
+   "seq": 818,
+   "title": "Whitney Museum union ratifies contract on eve of strike; October 5 walkout averted",
+   "artist": "N/A",
+   "institution": "Whitney Museum of American Art; Whitney workers' union",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Contract ratified 4 October 2026",
+   "date_discovered": "2026-11-26",
+   "sort_date": "2026-10-04",
+   "description": "Unionized workers at the Whitney Museum of American Art ratified a new contract on the night of 4 October 2026, narrowly averting a strike that had been set to begin 5 October during preview week for the Roy Lichtenstein retrospective \"Like New,\" Hyperallergic reported. The second three-year contract includes pay increases of at least 14.75% across the board over four years, a new $26-an-hour wage floor for visitor-experience, membership and retail associates, inaugural longevity bonuses for staff with 10 or more years of service, up to 12 weeks of paid parental leave, increased bereavement leave, and strengthened health-and-safety provisions. Erika Wentworth, of the museum's graphic-design department, said, \"Solidarity across all ranks of our union made a huge difference at the end,\" and that \"The Museum knew we were serious about striking and in these last few days, we made a lot of progress.\" The Lichtenstein show opened to the public on 11 October 2026.",
+   "outcome": "Contract ratified 4 October 2026; the strike did not occur and the Lichtenstein retrospective opened as scheduled on 11 October 2026.",
+   "tags": [
+    "Labor dispute",
+    "Institutional crisis"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "source": "https://hyperallergic.com/whitney-museum-union-ratifies-contract-on-eve-of-strike/",
+   "additional_sources": [],
+   "themes": [
+    4
+   ],
+   "notes": "Sub-entry of ACI-386; resolves the pending Whitney strike (ACI-386-A) and follows the Brooklyn/Folk Art tentative deals (ACI-386-B). Drafted from Hyperallergic (Rhea Nayyar, 5 October 2026; full text, quotes verified verbatim).",
+   "interested_parties": "Whitney Museum of American Art; Whitney workers' union; Erika Wentworth",
+   "coverage_geography": "US",
+   "follow_up_pending": false
   },
   {
    "id": "ACI-387",
@@ -23915,6 +24081,40 @@
    "notes": "Sub-entry: 2026 restoration development of the 2020 burning (parent ACI-411). Drafted from The Art Newspaper (29 Sep 2026, full text this run); heritage specifics corroborated by the Centro Latinoamericano del Vitral (CLAV, 2022, full text this run), which confirms the architect (Hovender Henry), the Atelier Dagrand provenance and the 'oldest signed stained glass registered in Chile' standing. One residual source difference is kept visible as a reporting conflict rather than silently reconciled: the window count — 38 (TAN 2026) vs 29 (Infobae 2020); CLAV gives no number. ('Dagrand' and 'Dagrant' are both accepted spellings of the atelier.)",
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
+   "follow_up_pending": true
+  },
+  {
+   "id": "ACI-489",
+   "entry_id": "489",
+   "seq": 816,
+   "title": "Shahzia Sikander's 'Witness' sculpture installed in St. Louis draws Missouri AG's objection",
+   "artist": "Shahzia Sikander",
+   "institution": "Rung for Women (Fox Park, St. Louis); Gateway Foundation (donor)",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Objection reported 24 October 2026",
+   "date_discovered": "2026-11-26",
+   "sort_date": "2026-10-24",
+   "description": "An 18-foot sculpture by Shahzia Sikander, \"Witness,\" is being installed outside the Fox Park building that houses Rung for Women, a St. Louis career-development nonprofit, on permanent loan from the Gateway Foundation, which selected it, St. Louis Magazine reported. Missouri Attorney General Catherine Hanaway objected on social media, writing that the work honors the \"spirit and grit\" of women \"fighting for abortion\" — a reference to the artist's stated inspiration in the rollback of abortion access after Roe v. Wade was overturned — and noting its proximity to two nearby churches, including the traditional Catholic St. Francis de Sales Oratory. Hanaway wrote that the sculpture's arrival happened in secrecy and that community input should come first, rather than an approach that occurs \"under the radar\"; her spokesperson declined to explain how the sculpture came to her office's attention, and she did not say what action, if any, her office would take. According to St. Louis Magazine, Hanaway's post said some neighbors called the sculpture a \"demonic affront to faith\"; the magazine said it did not independently verify that characterization and that the St. Francis de Sales pastor did not respond to a request for comment. A Rung for Women spokesperson said the organization was excited about the installation and that the sculpture reflects the strength and determination of the women it serves. The same sculpture was previously installed at the University of Houston, where it was beheaded in 2024 in what police believed was an intentional act.",
+   "outcome": "As of St. Louis Magazine's 24 October 2026 report, installation was proceeding, no protest had taken place in Fox Park, and the attorney general had not said whether her office would act. [FOLLOW-UP PENDING: whether the AG's office acts; ARTnews reported protests and counterprotests on 25 November 2026, not independently retrieved this run.]",
+   "tags": [
+    "Community objection",
+    "Religious objection",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "St. Louis Magazine"
+   ],
+   "source": "https://www.stlmag.com/news/witness-rung-for-women-hanaway/",
+   "additional_sources": [],
+   "themes": [
+    9
+   ],
+   "notes": "New parent. The same 18-foot 'Witness' sculpture was beheaded at the University of Houston in 2024 (not separately tracked in the Index). ARTnews's headline 'Shahzia Sikander Sculpture in St. Louis Generates Protests and Counterprotests' (25 November 2026) surfaced this story, but ARTnews was bot-walled this run (tollbit redirect) and could not be retrieved; the Nov 25 protests/counterprotests are flagged for enrichment, not asserted here. Provisional parent number ACI-489 (assigned at merge by finalize_ids.py).",
+   "interested_parties": "Shahzia Sikander (artist); Rung for Women; Gateway Foundation; Missouri Attorney General Catherine Hanaway; St. Francis de Sales Oratory",
+   "coverage_geography": "US",
    "follow_up_pending": true
   }
  ]
