@@ -8,7 +8,7 @@
   "observation_window_end": "2026-06-21",
   "last_published": "2026-08-18",
   "methodology_version": "1.0",
-  "total_cases": 730
+  "total_cases": 734
  },
  "cases": [
   {
@@ -12097,6 +12097,40 @@
    "follow_up_pending": true
   },
   {
+   "id": "ACI-050-Q",
+   "entry_id": "050-Q",
+   "seq": 772,
+   "title": "White House ballroom: account funding ballroom and arch gets undisclosed $300m boost",
+   "artist": "N/A",
+   "institution": "White House; National Park Service; Trust for the National Mall",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Reported 24 November 2026",
+   "date_discovered": "2026-11-27",
+   "sort_date": "2026-11-24",
+   "description": "The New York Times reported on 24 November 2026 that an account funding presidential projects — including the White House ballroom and the proposed triumphal arch — received a $300 million boost, and that the Trump administration declined to say who donated the funds. This entry is drawn from the article's metadata (headline and abstract); the full body sits behind the NYT paywall and was not read this run.",
+   "outcome": "Donors to the $300 million contribution were not disclosed. [FOLLOW-UP PENDING: identity of the donors and any further public accounting of the account funding the ballroom (ACI-050) and the triumphal arch (ACI-038).]",
+   "tags": [
+    "Funding dispute",
+    "Political interference"
+   ],
+   "court_case": "No",
+   "coverage_tier": "National",
+   "outlets": [
+    "New York Times"
+   ],
+   "source": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
+   "themes": [
+    2,
+    9
+   ],
+   "notes": "Sub-entry of ACI-050 (White House ballroom donor/funding thread; cf. ACI-050-N naming Apple and Nvidia among donors). The account also funds the Trump triumphal arch (ACI-038). THIN: NYT metadata only (snippet_only grade; paywalled body). ACI-050's most recent sub-entries (through ACI-050-P) sit on unmerged daily-scan branches; provisional letter Q is union-aware and is fixed at review/merge.",
+   "interested_parties": "Trump administration; National Park Service; Trust for the National Mall",
+   "coverage_geography": "US",
+   "follow_up_pending": true,
+   "additional_sources": []
+  },
+  {
    "id": "ACI-035-C",
    "entry_id": "035-C",
    "seq": 82,
@@ -15135,6 +15169,41 @@
    "additional_sources": [
     "https://www.artnews.com/art-news/news/pietrangelo-buttafuoco-eu-grant-withdrawal-venice-biennale-1234793350/"
    ]
+  },
+  {
+   "id": "ACI-008-AI",
+   "entry_id": "008-AI",
+   "seq": 771,
+   "title": "Venice Biennale: Nick Cave and India pavilion win public-voted Visitors' Lions after jury quit",
+   "artist": "Nick Cave; India pavilion artists",
+   "institution": "Venice Biennale (Biennale Foundation)",
+   "country": "Italy / International",
+   "governance_type": "Democracy",
+   "date_controversy": "Visitors' Lions announced 25 November 2026",
+   "date_discovered": "2026-11-27",
+   "sort_date": "2026-11-25",
+   "description": "The American artist Nick Cave won the Venice Biennale's top art prize and India's national pavilion, “Geographies of Distance” (curated by Amin Jaffer), won best pavilion, The Art Newspaper reported. The prizes, traditionally called Golden Lions and chosen by an international jury, were this year renamed the Visitors' Lions and decided by votes from exhibition visitors; votes for withdrawn entries were not counted. The change followed a dispute earlier in 2026: in April the five-person jury said it would not award prizes to national pavilions or artists from countries whose leaders had been charged with crimes against humanity by the International Criminal Court (the ICC issued arrest warrants for Russia's Vladimir Putin in 2023 and Israel's Benjamin Netanyahu the following year); the jurors resigned days later, and dozens of artists withdrew from the contest in solidarity while remaining on the ballot. According to The Art Newspaper, it is unclear whether Cave and the India pavilion received the most votes among all entries, and the Biennale declined to provide a breakdown; a spokesperson said, “The Venice Biennale does not publish rankings or detailed voting results, as the regulations do not provide for this.” Cave said his work “recognises the history of violence and oppression that Black people have endured” in the United States and called the project “a synthesis of my wider artistic research.” The Biennale's president, Pietrangelo Buttafuoco, praised the new system, saying, “The public of the Exhibition embraced this recognition.”",
+   "outcome": "Prizes awarded under the new public-voting system; the Biennale did not publish vote totals. Cross-refs the jury resignation (ACI-008-I) and the artists' legal action over the Visitors' Lions ballot (ACI-008-AA).",
+   "tags": [
+    "Geopolitics",
+    "Boycott",
+    "Protest"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "source": "https://www.theartnewspaper.com/2026/11/25/us-artist-nick-cave-and-india-pavilion-win-venice-biennale-prizes-following-controversy",
+   "themes": [
+    3,
+    4
+   ],
+   "notes": "Sub-entry of ACI-008. Reports the outcome of the Visitors' Lions public vote (the 22 November vote named in ACI-008-X's flag, which lives on an unmerged daily-scan branch and so cannot be cleared from this origin/main base). Drafted narrowly from The Art Newspaper (James Imam, 25 Nov 2026; full text, quotes verified verbatim). Cross-ref ACI-008-I (jury resignation / Visitor Prizes), ACI-008-AA (100+ artists' legal action over the ballot), ACI-424 (Venice film jury prize).",
+   "interested_parties": "Nick Cave; Amin Jaffer (India pavilion curator); Pietrangelo Buttafuoco (Biennale president); Art Not Genocide Alliance",
+   "coverage_geography": "Europe, US, International",
+   "follow_up_pending": false,
+   "additional_sources": []
   },
   {
    "id": "ACI-007",
@@ -23916,6 +23985,76 @@
    "interested_parties": "Archdiocese of Santiago; Auxiliary Bishop Álvaro Chordi Miranda; Chile's Ministry of National Assets",
    "coverage_geography": "Chile, UK, international",
    "follow_up_pending": true
+  },
+  {
+   "id": "ACI-490",
+   "entry_id": "490",
+   "seq": 773,
+   "title": "Sotheby's withdraws $1m Wade Guyton painting after artist's gallery finds it not authentic",
+   "artist": "Wade Guyton (purported)",
+   "institution": "Sotheby's (New York); Matthew Marks Gallery",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Withdrawn 17 November 2026",
+   "date_discovered": "2026-11-27",
+   "sort_date": "2026-11-17",
+   "description": "An untitled 2006 work attributed to Wade Guyton — an Epson UltraChrome inkjet on linen, 89½ by 53 inches, showing two uneven black columns with flames at their bases and a red U-shape — was withdrawn from Sotheby's Contemporary Day Auction in New York on 17 November 2026, USA Art News reported. The work, valued at about $1 million, had been on public view in a presale exhibition, where a collector noticed its resemblance to a Guyton in their own collection and alerted the auction house to authenticity concerns. Guyton's gallery, Matthew Marks, was contacted and inspected the piece, concluded it was not authentic, and it was removed from the sale; USA Art News, citing Artnet, reported that Guyton confirmed the work was not his. Where the forged work originated is unclear. The sale also included works by Helen Frankenthaler, Mark Rothko, Alice Neel, Wayne Thiebaud, Faith Ringgold and Christopher Wool; a Guyton sold at Sotheby's in 2014 for nearly $6 million, a record for the artist.",
+   "outcome": "The work was withdrawn before the sale. [FOLLOW-UP PENDING: the origin of the forged work and any investigation.]",
+   "tags": [
+    "Authenticity",
+    "Art market fraud"
+   ],
+   "court_case": "No",
+   "coverage_tier": "International",
+   "outlets": [
+    "USA Art News",
+    "Artnet News"
+   ],
+   "source": "https://usaartnews.com/auctions/sothebys-withdraws-fake-wade-guyton-painting-valued-at-1-million/",
+   "themes": [
+    10
+   ],
+   "notes": "New parent; art-market authenticity/forgery. Drafted narrowly from USA Art News (Sarah Mitchell, 25 Nov 2026; full text). The collector-tip and Guyton's confirmation are relayed by USA Art News citing Artnet's Wet Paint column (retrieved this run as a search snippet only; added to additional_sources). No verbatim quotes used. Also covered by Artforum and ARTnews, whose article bodies were tollbit-blocked (HTTP 402) this run.",
+   "interested_parties": "Sotheby's; Wade Guyton; Matthew Marks Gallery; an unnamed collector",
+   "coverage_geography": "US",
+   "follow_up_pending": true,
+   "additional_sources": [
+    "https://news.artnet.com/market/matthew-barney-sothebys-nov-23-wet-paint-2840419"
+   ]
+  },
+  {
+   "id": "ACI-491",
+   "entry_id": "491",
+   "seq": 774,
+   "title": "Emily Dickinson Museum guides' union files NLRB charge over alleged contract changes",
+   "artist": "N/A",
+   "institution": "Emily Dickinson Museum (Amherst, Massachusetts); UAW Local 2110",
+   "country": "United States",
+   "governance_type": "Democracy",
+   "date_controversy": "Charge filed 7 October 2026",
+   "date_discovered": "2026-11-27",
+   "sort_date": "2026-10-07",
+   "description": "The Technical, Office and Professional Union Local 2110, UAW, filed an unfair-labor-practice charge against the Emily Dickinson Museum in Amherst, Massachusetts, with the National Labor Relations Board on 7 October 2026, according to the NLRB's case record (01-CA-396546). The charge is categorised as “8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]” — an allegation that the employer unilaterally changed or repudiated terms of the collective-bargaining agreement — and is listed as open, in NLRB Region 1 (Boston); the record does not set out the underlying facts. The museum's guides had unionised with Local 2110 the previous year: the NLRB certified a unit of the museum's full- and part-time guides, at 280 Main Street in Amherst, for the union on 28 July 2025 after a 20-to-1 vote (case 01-RC-367622). Artforum reported the guides' complaint under the headline that they accused the museum of breaking federal labor law; its article body was not retrievable this run.",
+   "outcome": "Charge pending before NLRB Region 1. [FOLLOW-UP PENDING: the NLRB's disposition of the charge — complaint, settlement, deferral or dismissal.]",
+   "tags": [
+    "Labor dispute"
+   ],
+   "court_case": "Pending",
+   "coverage_tier": "National",
+   "outlets": [
+    "National Labor Relations Board",
+    "Artforum"
+   ],
+   "source": "https://www.nlrb.gov/case/01-CA-396546",
+   "themes": [],
+   "notes": "New parent; museum labor dispute (cf. ACI-295 Royal Museums Greenwich, ACI-386 NYC museum unions). Drafted from the NLRB's primary case records (01-CA-396546 full text; 01-RC-367622 via search result). The Emily Dickinson Museum occupies the poet's historic Amherst home (the Homestead and The Evergreens). Artforum (23 Nov 2026) is the trade-press surfacing of the story but its body was tollbit-blocked (HTTP 402); only its headline/metadata was retrieved this run, so no claim rests on its text. Thin — enrich with the charge's substance and any museum response on a later pass.",
+   "interested_parties": "Technical, Office and Professional Union Local 2110 (UAW); Emily Dickinson Museum; Allyson Belovin (Levy Ratner, union counsel)",
+   "coverage_geography": "US",
+   "follow_up_pending": true,
+   "additional_sources": [
+    "https://www.nlrb.gov/case/01-RC-367622",
+    "https://www.artforum.com/news/tour-guides-accuse-dickinson-museum-of-breaking-labor-law-1234763999/"
+   ]
   }
  ]
 }
